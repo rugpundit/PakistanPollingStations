@@ -1,0 +1,301 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 194 - Govt: Primary School Arab Shaikh Sukkur (Combined)(P),26.4286467,67.8622865,Combined,Sindh,2,2,601,542
+ 197 - Govt: Primary School Gosarji Sukkur (Male)(P),26.4286467,67.8623165,Male,Sindh,3,0,1375,0
+ 198 - Govt: Primary School Gosarji Sukkur (Female)(P),26.4286467,67.8623465,Female,Sindh,0,3,0,1199
+ 202 - Govt: Girls Primary School Tamachani (Female) (P),26.4286467,67.8623765,Female,Sindh,0,3,0,1372
+ 201 - Govt: Boys Primary School Tamachani (Male)(P),26.4286467,67.8624065,Male,Sindh,4,0,1519,0
+ 218 - Govt: Girls Primary School Maindad Khoso Sukkur (Female)(P),26.4286467,67.8624365,Female,Sindh,0,3,0,1204
+ 217 - Govt: boys Primary School Maindad Khoso Sukkur (Male)(P),26.4286467,67.8624665,Male,Sindh,3,0,1392,0
+ 231 - Govt: primary Girls School Nasirabad (Female) (P),26.4286467,67.8624965,Female,Sindh,0,3,0,1275
+ 230 - Govt: Middle School Nasirabad  (Male) (P),26.4286467,67.8625265,Male,Sindh,4,0,1592,0
+ 240 - Govt: Primary School Lal Mashaik Sukkur (Combined)(P),26.4286467,67.8625565,Combined,Sindh,2,2,780,694
+ 266 - Govt: boys Primary School New Yard Colony Rohri (Male)(P),27.6659149,68.9045922,Male,Sindh,2,0,985,0
+ 267 - Govt: boys Primary School New Yard Colony Rohri (Female)(P),27.6659149,68.9046222,Female,Sindh,0,2,0,821
+ 264 - Union Council Office Long Bhatti (Male)(P),27.6811775,68.9239989,Male,Sindh,3,0,1126,0
+ 265 - Union Council Office Long Bhatti (Female)(P),27.6811775,68.9240289,Female,Sindh,0,2,0,923
+ 272 - Vetenory Hospital Rajib Ali Dayo (Com)(P),27.6811775,68.9240589,Combined,Sindh,2,2,837,688
+ 246 - Badminton Hall Rohri (Com) (P) (Imrovised),27.6840507,68.8889435,Combined,Sindh,2,2,722,562
+ 248 - Town Hall Rohri (Male)(P),27.6840507,68.8889735,Male,Sindh,3,0,1286,0
+ 249 - Town Hall Rohri (Female)(P),27.6840507,68.8890035,Female,Sindh,0,3,0,1178
+ 250 - Taluka Maternity Hopital Near MC office Rohri (Male)(P),27.6840507,68.8890335,Male,Sindh,4,0,1905,0
+ 251 - Taluka Maternity Hopital Near MC office Rohri (Female)(P),27.6840507,68.8890635,Female,Sindh,0,4,0,1512
+ 263 - Govt: High School Long Bhatti (Com)(P),27.6849601,68.9034744,Combined,Sindh,2,2,762,577
+ 260 - Govt: Boys High School Badal Bakus Rohri (Com)(P),27.6856364,68.8774261,Combined,Sindh,1,1,464,283
+ 270 - Govt. Boys High School Badal Bakus Rohri (Male)(P),27.6856364,68.8774561,Male,Sindh,2,0,946,0
+ 271 - Govt: Boys High School Badal Bakus Rohri (Female)(P),27.6856364,68.8774861,Female,Sindh,0,2,0,704
+ 268 - Govt: Food Lab Rohri (Male)(P),27.6877172,68.8878258,Male,Sindh,3,0,1082,0
+ 269 - Govt: Food Lab Rohri (Female)(P),27.6877172,68.8878558,Female,Sindh,0,2,0,897
+ 273 - Govt: boys Primary School Loco Shed Rohri (Male)(P),27.6877172,68.8878858,Male,Sindh,3,0,1059,0
+ 274 - Govt. Boys High School  Loco Shed Rohri (Female)(P),27.6877172,68.8879158,Female,Sindh,0,3,0,896
+ 275 - Govt: Girls Elementary /Primary School Loco Shed After Railway Crosing Rohri (Male)(P),27.6877172,68.8879458,Male,Sindh,3,0,1303,0
+ 276 - Govt: Girls Elementary /Primary School Loco Shed After Railway Crosing Rohri (Female)(P),27.6877172,68.8879758,Female,Sindh,0,2,0,1080
+ 68 - Ghaznavi Park Maine Road Sukkur (Male) (P),27.6883595,68.8657863,Male,Sindh,4,0,1709,0
+ 73 - SMA Girls School Allah Wali Street Sukkur (Male) (P),27.6883595,68.8658163,Male,Sindh,3,0,1230,0
+ 74 - SMA Girls School Allah Wali Street Sukkur (Female) (P),27.6883595,68.8658463,Female,Sindh,0,3,0,1024
+ 143 - Govt RHC Bachal Shah Hopital Sukkur (Male) (P),27.68851465,68.83805946,Male,Sindh,3,0,1356,0
+ 144 - Govt RHC Bachal Shah Hopital Sukkur(Female) (P),27.68851465,68.83808946,Female,Sindh,0,3,0,1080
+ 145 - Govt: Boys Primary School- Dinpur Bachal Shah Maini (Male)(P),27.68865,68.83977,Male,Sindh,4,0,1636,0
+ 146 - Govt: Girls High School- Bachal Shah Maini (Female)(P),27.6887,68.83909,Female,Sindh,0,2,0,1357
+ 148 - Govt: Girls Primary School Bachal Shah Maini Sukkur (Combined) (P),27.6887,68.83912,Combined,Sindh,2,2,813,627
+ 101 - Govt: Girls Higher Secondary School Berrage Colony Sukkur (Female) (P),27.6887935,68.8550377,Female,Sindh,0,3,0,1440
+ 277 - Govt: Girls High School Railway Loco Shed Rohri (Com)(P),27.6887935,68.8990034,Combined,Sindh,1,1,263,205
+ 258 - Govt: High School Islamia Shahdado Muhalla Rohri (Male)(P),27.6890246,68.8982582,Male,Sindh,3,0,1402,0
+ 77 - SMA High School Sukkur (Male) (P),27.6890498,68.8594747,Male,Sindh,2,0,955,0
+ 78 - SMA High School Sukkur (Male) (P),27.6890498,68.8595047,Male,Sindh,2,0,869,0
+ 244 - Govt: Girls Primary School Qazi Muhallah Upper Municipal Liabrary Rohri (Female)(P),27.6894052,68.8874532,Female,Sindh,0,2,0,940
+ 247 - Govt: Primary School Mahindi-Jo-Pir Rohri (Com)(P),27.6894052,68.8874832,Combined,Sindh,2,2,717,597
+ 59 - Shoukatul Islam Yateem Khana Bunder Station Jinnah Chowk Sukkur (Female) (P),27.6895053,68.8653862,Female,Sindh,0,2,0,955
+ 61 - Shoukatul Islam Yateem Khana Bunder Station Jinnah Chowk Sukkur (Female) (P),27.6895053,68.8654162,Female,Sindh,0,2,0,1086
+ 79 - Badul Islam High School Maini Road Sukkur (Female) (P),27.6895642,68.8598814,Female,Sindh,0,4,0,1549
+ 80 - SMA Science College Sukkur (Male) (P),27.6895642,68.8599114,Male,Sindh,4,0,1439,0
+ 81 - SMA Science College Sukkur (Female) (P),27.6895642,68.8599414,Female,Sindh,0,3,0,1160
+ 243 - Municipal Liabarary Rohri MPS (Male)(P),27.6895771,68.8863354,Male,Sindh,3,0,1107,0
+ 69 - Govt: Urdu Primary School Sukkur Nusrat Colony No: 4 - pasham Godum (Female) (P),27.689848,68.8572733,Female,Sindh,0,4,0,1439
+ 75 - SMA High School Sukkur (Male) (P),27.6898543,68.8595088,Male,Sindh,3,0,1304,0
+ 76 - Govt: Primary School Achar Ghitti Bhutta Road Sukkur (Female) (P),27.6903878,68.8628622,Female,Sindh,0,3,0,1136
+ 60 - Sorath Tasty Hall Sukkur (Male) (P),27.69044,68.8658,Male,Sindh,3,0,1218,0
+ 149 - Govt: Primary School Haji Murad Ali Kharos Sukkur (Male) (P),27.69067194,68.83335879,Male,Sindh,2,0,953,0
+ 150 - Govt: Primary School Haji Murad Ali Kharos Sukkur (Female),27.69067194,68.83338879,Female,Sindh,0,2,0,846
+ 254 - Govt: Primary School Shahdado Muhalla Rohri (Com)(P),27.6907128,68.8978856,Combined,Sindh,2,2,779,738
+ 257 - Govt: Primary School Boys Elementry Main School Rohri (Com)(P),27.6907128,68.8979156,Combined,Sindh,1,1,510,428
+ 261 - Govt: Girls High School Secondary Rohri (Com)(P),27.6907128,68.8979456,Combined,Sindh,2,1,572,428
+ 151 - Govt: High School Bachal Shah Sukkur (Male) (P),27.69131524,68.82991344,Male,Sindh,2,0,861,0
+ 153 - Govt: High School Bachal Shah Sukkur (Male) (P),27.69131524,68.82994344,Male,Sindh,3,0,1189,0
+ 154 - Govt: High School Bachal Shah Sukkur (Female) (P),27.69131524,68.82997344,Female,Sindh,0,2,0,972
+ 152 - Govt: High School Bachal Shah Sukkur (Female) (P),27.69133875,68.82990764,Female,Sindh,0,2,0,705
+ 58 - Rehabillitation Center for Special Childern Bunder Road Sukkur (Male) (P),27.69147475,68.87076538,Male,Sindh,2,0,1112,0
+ 253 - Old Taluka Hospital Rohri (Com) (P),27.691702,68.8975131,Combined,Sindh,1,1,264,259
+ 56 - Govt: Girls High School Ghat Sukkur (Male) (P),27.6917769,68.8729688,Male,Sindh,2,0,918,0
+ 57 - Govt: Girls Primary School Ghat Sukkur (Female) (P),27.6917769,68.8729988,Female,Sindh,0,2,0,821
+ 54 - Govt: Islamia Primary School Bunder Station Sukkur (Male) (P),27.6919568,68.8701702,Male,Sindh,2,0,826,0
+ 99 - Wapda Middle School Barrage Colony Sukkur. (Comb) (P),27.6921099,68.85156,Combined,Sindh,2,2,664,582
+ 55 - Govt: School Qadira Rizvia Sukkur (Female) (P),27.69223508,68.86940881,Female,Sindh,0,2,0,761
+ 98 - Govt: Girls Primary School Barrage Colony Sukkur. (Female) (P),27.6925118,68.852057,Female,Sindh,0,3,0,1409
+ 255 - Govt: boys Primary School Islamia Shahdado Muhalla Rohri (Com)(P),27.6926265,68.8945324,Combined,Sindh,1,1,356,357
+ 256 - Assistant District Office Rohri (Com)(P),27.6926265,68.8945624,Combined,Sindh,1,1,325,318
+ 245 - SSGC Office Near WAPDA Office Rohri (Com),27.6926857,68.894905,Combined,Sindh,1,1,481,457
+ 100 - Govt: Primary School Boys Barrage Colony Sukkur (Male) (P),27.6929798,68.8528022,Male,Sindh,4,0,1650,0
+ 70 - Govt: Primary School (BHA Shah) Sukkur (Male) (P),27.6931961,68.8596005,Male,Sindh,3,0,1061,0
+ 71 - Govt: Primary School (Bhag-e-Hayat Ali Shah) Sukkur (Male) (P),27.6931961,68.8596305,Male,Sindh,2,0,875,0
+ 72 - Govt: Primary School (Bhag-e-Hayat Ali Shah) Sukkur (Female) (P),27.6931961,68.8596605,Female,Sindh,0,4,0,1593
+ 259 - UC Office Rohri (Female) (P),27.6932941,68.8935704,Female,Sindh,0,3,0,1300
+ 52 - Saint Sevior High School Sukkur (Male) (P),27.69356785,68.87302489,Male,Sindh,4,0,1456,0
+ 62 - PG Male Dispensry Minara Road Sukkur(Male) (P),27.6935751,68.870722,Male,Sindh,4,0,1488,0
+ 53 - Saint Sevior High School Sukkur (Female) (P),27.69360978,68.87303886,Female,Sindh,0,3,0,1272
+ 109 - Municipal Dispensry Shamsabad Sukkur (Com) (P),27.6936384,68.8591363,Female,Sindh,0,4,0,1626
+ 107 - Govt: Boys Primry School Shamshabad- Waritar Road Sukkur (Male) (P),27.6936384,68.8591663,Male,Sindh,3,0,1354,0
+ 108 - Govt: Boys Primry School Shamshabad- Waritar Road Sukkur (Male) (P),27.6936384,68.8591963,Male,Sindh,1,0,564,0
+ 63 - Govt: Islamia Shaheed Gunj Sukkur (Female) (P),27.6942754,68.8656101,Female,Sindh,0,3,0,1380
+ 64 - Govt. Muslim Elementry School (BHA Shah) Sukkur (Male) (P),27.6942906,68.8632348,Male,Sindh,3,0,1303,0
+ 66 - Sindh Employees Social Dispensry BHAS Sukkur (Male) (P),27.6942906,68.8632648,Male,Sindh,4,0,1542,0
+ 67 - Govt: Muslim Elementry School Bagh-e-Hayat Ali shah Sukkur (Female) (P),27.6942906,68.8632948,Female,Sindh,0,3,0,1383
+ 51 - DMB High School Sukkur (Female) (P),27.6946177,68.8683114,Female,Sindh,0,2,0,735
+ 50 - Govt: Primary School Agha Nizamuddin Sukkur (Male) (P),27.6949589,68.8679854,Male,Sindh,2,0,778,0
+ 111 - Govt: (N) Al-Fallah high School Sukkur (Female) (P),27.6949716,68.8669815,Female,Sindh,0,2,0,558
+ 102 - Hafiz Public School Jagerani Muhallah Sukkur (Male) (P),27.6949767,68.8587637,Male,Sindh,2,0,900,0
+ 104 - Hafiz Public School Jagerani Muhallah Sukkur (Male) (P),27.6949767,68.8587937,Male,Sindh,2,0,814,0
+ 103 - Star Public School  Jagerani Muhallah Sukkur (Female) (P),27.6949767,68.8588237,Female,Sindh,0,2,0,786
+ 105 - Star Public School  Jagerani Muhallah Sukkur (Female) (P),27.6949767,68.8588537,Female,Sindh,0,2,0,701
+ 110 - Govt: Primary School Main Minara Road Sukkur (Male) (P),27.6950218,68.8670073,Male,Sindh,2,0,664,0
+ 147 - Govt: boys Primary School Sadiqia at Sadhoro Shaikh Bachal Shah Maini (Combind),27.69549,68.83102,Combined,Sindh,1,1,478,496
+ 65 - Govt: Girls Primary School Bagh-e-Hayat Sukkur (Female) (P),27.6957474,68.8636074,Female,Sindh,0,3,0,1160
+ 38 - Income Tax Office Sukkur (Female) (P),27.69579,68.87514,Female,Sindh,0,2,0,878
+ 193 - Govt: Elementary School Railway Sleeper Factory Sukkur (Female)(P),27.69588,68.84839,Female,Sindh,0,3,0,1224
+ 114 - Govt: Boys Elementry School Hussaini Road Sukkur (Male) (P),27.69625672,68.86239583,Male,Sindh,4,0,1548,0
+ 115 - Govt: Boys Elementry School Hussaini Road Sukkur (Female) (P),27.69626593,68.86237654,Female,Sindh,0,3,0,1288
+ 37 - Govt: Faran High School Sukkur (Male) (P),27.6963223,68.8740866,Male,Sindh,2,0,944,0
+ 106 - Maria English Model High School- Waritar Road Near Taj Autos Sukkur (Combined) (P),27.69634,68.85741,Combined,Sindh,2,2,683,603
+ 116 - Railway Girls High School (Male) (P),27.69654584,68.86662564,Male,Sindh,3,0,1341,0
+ 123 - Railways Oficer Club Sukkkur. (Male) (P),27.69669344,68.85577396,Male,Sindh,3,0,1086,0
+ 124 - Railways Oficer Club Sukkkur. (Female) (P),27.69671741,68.85579633,Female,Sindh,0,2,0,949
+ 125 - Railways Oficer Club Sukkkur. (Male) (P),27.69671741,68.85582633,Male,Sindh,3,0,1318,0
+ 126 - Railways Oficer Club Sukkkur. (Female) (P),27.69671741,68.85585633,Female,Sindh,0,3,0,1167
+ 95 - Wapda Hospital Sukkur (Male) (P),27.6967702,68.8546651,Male,Sindh,2,0,1030,0
+ 96 - Wapda Hospital Sukkur (Female) (P),27.6967702,68.8546951,Female,Sindh,0,2,0,882
+ 35 - Govt: High School Tamir-e-nau  Regent Sukkur (Male) (P),27.69698965,68.87834192,Male,Sindh,4,0,1457,0
+ 32 - Hira Public School Sukkur(Female) (P),27.69714038,68.87885727,Female,Sindh,0,2,0,988
+ 33 - Hira Public School Sukkur(Male) (P),27.69714038,68.87888727,Male,Sindh,2,0,929,0
+ 34 - Hira Public School Sukkur(Female) (P),27.69714038,68.87891727,Female,Sindh,0,2,0,812
+ 36 - Govt: Primary School Tamir-e-nau  Regent Sukkur (Female) (P),27.69728518,68.87816638,Female,Sindh,0,3,0,1240
+ 40 - Govt: M.K High School Sukkur (Female) (P),27.6975447,68.876555,Female,Sindh,0,3,0,1138
+ 39 - Govt: (N) Modern High School Sukkur (Male) (P),27.697769,68.8760427,Male,Sindh,3,0,1233,0
+ 121 - Govt: Boys High School Minara Road Sukkur. (Male) (P),27.6978563,68.8680785,Male,Sindh,4,0,1640,0
+ 122 - Govt: Boys High School Minara Road Sukkur.  (Female) (P),27.6978563,68.8681085,Female,Sindh,0,3,0,1372
+ 41 - Railway Boys High School Sukkur (Combined) (P),27.6978563,68.8681385,Combined,Sindh,1,1,267,243
+ 117 - Railway Hospital Station Road Sukkur (Female) (P),27.698029,68.8672903,Female,Sindh,0,3,0,1179
+ 119 - Railway Hospital Station Road Sukkur (Female) (P),27.698029,68.8673203,Female,Sindh,0,2,0,882
+ 120 - Railway Hospital Station Road Sukkur (Combined) (P),27.698029,68.8673503,Combined,Sindh,1,1,599,482
+ 118 - Railway Hospital Station Road Sukkur (Male) (P),27.698029,68.8673803,Male,Sindh,2,0,1071,0
+ 128 - Exise Office Station Road  Sukkur (Female) (P),27.69815926,68.86222431,Female,Sindh,0,3,0,1241
+ 127 - Exise Office Station Road  Sukkur (Male) (P),27.69818229,68.86220791,Male,Sindh,4,0,1531,0
+ 44 - Public Health Office Minara Road Sukkur (Male) (P),27.69827063,68.87367384,Male,Sindh,2,0,832,0
+ 140 - Govt: Primary School Allah Wadhayo Kharos (Male) (P),27.69840674,68.8145731,Male,Sindh,3,0,1105,0
+ 141 - Govt: Primary School Allah Wadhayo Kharos (Male) (P),27.69840674,68.8146031,Male,Sindh,2,0,744,0
+ 131 - Little Angle Public School Race Course Road Sukkur  (Com) (P),27.69882942,68.86678473,Combined,Sindh,1,1,465,383
+ 92 - Millennium Public School Adam Shah Colony Sukkur (Comb),27.69886,68.84658,Combined,Sindh,2,2,613,463
+ 82 - Deputy Director Office (Food Gudoon)  new Ghoth Sukkur (Male) (P),27.6991895,68.8457228,Male,Sindh,3,0,1273,0
+ 83 - Govt: boys Primary School New Ghoth upper Floor Sukkur (Female) (P),27.6991895,68.8457528,Female,Sindh,0,2,0,1014
+ 84 - Govt: Girls Elementry Adam Shah Colony Sukkur (Male) (P),27.6991895,68.8457828,Male,Sindh,3,0,1143,0
+ 85 - Govt: Girls High School New Goth Ground Floor Sukkur (Female) (P),27.6991895,68.8458128,Female,Sindh,0,2,0,984
+ 86 - District Food Controller Office (Anaj Gudoon) New Goth Sukkur (Male) (P),27.6991895,68.8458428,Male,Sindh,3,0,1381,0
+ 87 - District Food Controller Office (Anaj Gudoon) New Goth Sukkur (Male) (P),27.6991895,68.8458728,Male,Sindh,2,0,958,0
+ 88 - Deputy Director Office (Food Gudoon)  New Ghoth Sukkur (Female) (P),27.6991895,68.8459028,Female,Sindh,0,4,0,1630
+ 94 - Govt: Primary School (Boys) Adam Shah Colony Sukkur (Female),27.6991895,68.8459328,Female,Sindh,0,2,0,1008
+ 91 - Govt. Elementary School Railway Sleeper Factory Sukkur (Comb),27.6991895,68.8459628,Combined,Sindh,2,2,892,633
+ 30 - Govt: Islamia Arts College Sukkur (Female) (P),27.69925013,68.87720572,Female,Sindh,0,2,0,1146
+ 25 - Bunglow Old- Sub Divisional Officer  Office PTCL- near DIG Office-  Sukkur. (Com) (P),27.69926,68.87028,Combined,Sindh,2,2,744,627
+ 42 - Conservator of Forest Office Sukkur (Male) (P),27.6993986,68.8703607,Male,Sindh,3,0,1060,0
+ 43 - Conservator of Forest Office Sukkur (Female) (P),27.6994103,68.869336,Female,Sindh,0,2,0,949
+ 29 - Govt: Islamia Science College Sukkur. (Male) (P),27.69959405,68.87749141,Male,Sindh,3,0,1275,0
+ 31 - Govt: Primary School Tharmal Colony Sukkur (Male) (P),27.69998488,68.88285548,Male,Sindh,3,0,1249,0
+ 173 - Govt: Boys High School New Pind Sukkur SEMIS Code: 418050136 (Male) (P),27.7001647,68.8606266,Male,Sindh,2,0,1054,0
+ 175 - Govt: Boys High School New Pind Sukkur SEMIS Code: 418050136 (Male) (P),27.7001647,68.8606566,Male,Sindh,3,0,1146,0
+ 252 - Govt: Primary School Masjid Gurgage Muhallah Near River Indus Rohri (Com)(P),27.7013096,68.8744125,Combined,Sindh,2,2,908,820
+ 262 - Govt: Girls Primary School Kot Mir Yaqoob Ali Shah Rohri (Com)(P),27.7013096,68.8744425,Combined,Sindh,2,2,731,666
+ 235 - Public School Military Road Sukkur (Male)(P),27.7016542,68.8464068,Male,Sindh,3,0,1371,0
+ 236 - Public School Military Road Sukkur (Female)(P),27.7016542,68.8464368,Female,Sindh,0,3,0,1152
+ 93 - Public School- Military Road Sukkur (Male),27.7016542,68.8464668,Male,Sindh,3,0,1285,0
+ 169 - Govt: High School Iqra Pathan Colony Sukkur (Male)(P),27.7023139,68.8587637,Male,Sindh,2,0,1060,0
+ 170 - Govt: High School Iqra Pathan Colony Sukkur (Male)(P),27.7023139,68.8587937,Male,Sindh,2,0,1090,0
+ 129 - Al Shahbazz public School Choona Bhatta  New pind Sukkur. (Male),27.70253,68.85433,Male,Sindh,2,0,696,0
+ 130 - Al Shahnazz public School Choona Bhatta  New pind Sukkur. (Female),27.70266,68.85408,Female,Sindh,0,2,0,635
+ 112 - Govt: Islamia Primary School Gurdwara Chowk Sukkur. (Male) (P),27.7027031,68.8524296,Male,Sindh,4,0,1473,0
+ 113 - Govt: Islamia Primary School Gurdwara Chowk Sukkur. (Female) (P),27.7027031,68.8524596,Female,Sindh,0,3,0,1293
+ 89 - Govt: Primary Masjid School (Near Harri Masjid) New Goth Sukkur (Combined) (P),27.7027031,68.8524896,Combined,Sindh,2,1,638,522
+ 90 - Municipal Dispensry New Goth Sukkur (Com) (P),27.7027031,68.8525196,Combined,Sindh,1,1,377,257
+ 191 - Govt: Primary School Ali Abad Sukkur(Male) (P),27.70276239,68.83816753,Male,Sindh,2,0,860,0
+ 192 - Improvised at Govt: Primary School Ali Abad Sukkur (Male),27.70276239,68.83819753,Male,Sindh,2,0,842,0
+ 46 - Danish Public School Sukkur (Male) (P),27.70298817,68.87617103,Male,Sindh,2,0,1021,0
+ 47 - Danish Public School Sukkur (Female) (P),27.70298817,68.87620103,Female,Sindh,0,2,0,887
+ 45 - Govt: Primary School Nusrat Colony No-06 (Female) (P),27.70334352,68.87741188,Female,Sindh,0,2,0,746
+ 177 - Govt: Primary School New Pind Sukkur (Male) (P),27.70372636,68.86140735,Male,Sindh,3,0,1397,0
+ 178 - Govt: Girls High School New Pind Sukkur (Female)(P),27.70383128,68.86154811,Female,Sindh,0,2,0,1089
+ 174 - Basic Health Unit (Old) New Pind Sukkur(Female),27.7038828,68.8576459,Female,Sindh,0,2,0,872
+ 176 - Basic Health Unit (Old) New Pind Sukkur(Female),27.7038828,68.8576759,Female,Sindh,0,2,0,980
+ 229 - Govt: Primary School Bihaar Colony (Com)(P),27.7042165,68.8441054,Combined,Sindh,2,2,680,573
+ 48 - Govt: Girls Higher Sec. School Old Sukkur (Male),27.70441055,68.87879406,Male,Sindh,4,0,1637,0
+ 49 - Govt: Girls Higher Sec. School Old Sukkur (Female),27.70441055,68.87882406,Female,Sindh,0,4,0,1450
+ 132 - Govt: Primary School Boys Pathan Colony  (Male)(P),27.7045816,68.8576459,Male,Sindh,3,0,1400,0
+ 133 - Govt: Primary School Boys Pathan Colony (Female) (P),27.7045816,68.8576759,Female,Sindh,0,3,0,1126
+ 135 - Govt: Primary School Boys Pathan Colony (Female) (P),27.7045816,68.8577059,Female,Sindh,0,2,0,927
+ 166 - Basic Health Unit (New) New Pind Sukkur (Female)(P),27.7045816,68.8577359,Female,Sindh,0,4,0,1462
+ 164 - PPHI Basic Health Unit New Pind Sukkur (Male) (P),27.70476,68.85844,Male,Sindh,2,0,895,0
+ 165 - PPHI Basic Health Unit New Pind Sukkur (Male) (P),27.70476,68.85847,Male,Sindh,2,0,978,0
+ 181 - Govt: Girls Primary School Newpind Sukkur (Combined),27.70507,68.8621,Combined,Sindh,2,2,756,617
+ 172 - Jinnah Model School- New Pind Sukkur (Combind),27.70531,68.85806,Combined,Sindh,2,2,721,582
+ 134 - Govt: Boys High School New Pind Sukkur  New SEMIS Code: 418050136 (Male) (P),27.70545,68.8578,Male,Sindh,3,0,1178,0
+ 213 - Govt: Elementry School Agha Rafique Hussain Sukkur (Male) (P),27.7056561,68.8468406,Male,Sindh,2,0,1065,0
+ 214 - Govt: Elementry School Agha Rafique Hussain Sukkur (Female) (P),27.7056561,68.8468706,Female,Sindh,0,4,0,1559
+ 215 - Govt: Elementry School Agha Rafique Hussain Sukkur (Male)(P),27.7056561,68.8469006,Male,Sindh,2,0,854,0
+ 233 - Govt: Primary School ADC-1 Colony Sukkur (Female)(P),27.7056561,68.8469306,Female,Sindh,0,2,0,874
+ 234 - Govt: Primary School ADC Colony No-1 Sukkur (Com)(P),27.7056561,68.8469606,Combined,Sindh,1,1,654,526
+ 136 - Sir Syed Elementry School Pathan Colony Sukkur (Male)(P),27.70597156,68.86007895,Male,Sindh,3,0,1247,0
+ 137 - Sir Syed Elementry School Pathan Colony Sukkur (Female)(P),27.70598477,68.8600795,Female,Sindh,0,2,0,980
+ 138 - Sir Syed Elementry School Pathan Colony Sukkur (Male)(P),27.70598477,68.8601095,Male,Sindh,2,0,980,0
+ 139 - Sir Syed Elementry School Pathan Colony Sukkur (Female)(P),27.70598477,68.8601395,Female,Sindh,0,2,0,769
+ 28 - Railway Track Supply Depu Sukkur (Female) (P),27.70620839,68.87138838,Female,Sindh,0,4,0,1700
+ 26 - Railway Track Supply Depu Sukkur (Male) (P),27.70622223,68.87138099,Male,Sindh,2,0,1054,0
+ 27 - Railway Track Supply Depu Sukkur (Male) (P),27.70622223,68.87141099,Male,Sindh,2,0,879,0
+ 205 - Govt: Boys High School Bagerji (Male)(P),27.7067896,68.8458217,Male,Sindh,4,0,1829,0
+ 232 - Govt: Primary School Shah Khalid Colony Sukkur (Male)(P),27.7074554,68.8449777,Male,Sindh,3,0,1237,0
+ 161 - Govt: Primary School Pir Murad Shah Ground Floor Sukkur (Female) (P),27.7076509,68.8732093,Female,Sindh,0,2,0,996
+ 163 - Govt: Primary School Pir Murad Shah First Floor Sukkur (Female) (P),27.7076509,68.8732393,Female,Sindh,0,2,0,903
+ 180 - Govt: Primary School Gulsher Chohan Qureshi Road Sukkur (Female)(P),27.7076509,68.8732693,Female,Sindh,0,3,0,1336
+ 167 - Union Council Office 12 Numaish Ground Sukkur (Male) (P),27.7081118,68.8739362,Male,Sindh,2,0,894,0
+ 171 - Govt: Primary Masjid School Islam Colony Sukkur (Female) (P),27.70811471,68.85860294,Female,Sindh,0,4,0,1643
+ 222 - Poly Technical Institute Sukkur (Female)(P),27.7081209,68.8475283,Female,Sindh,0,2,0,845
+ 221 - Poly Technical institute Sukkur (Male)(P),27.7081209,68.8475583,Male,Sindh,2,0,1045,0
+ 224 - Sindh Small Insdustries Golimar Sukkur (Female)(P),27.7081209,68.8475883,Female,Sindh,0,2,0,953
+ 223 - Wapda Office Golimar Road Sukkur (Male) (P),27.7081209,68.8476183,Male,Sindh,3,0,1096,0
+ 168 - Union Council Office 13 Gulshani Iqbal Sukkur (Female)(P),27.7091742,68.8755303,Female,Sindh,0,2,0,753
+ 237 - Govt: Degree College Shikarpur Road Sukkur (Male)(P),27.7092811,68.843293,Male,Sindh,2,0,774,0
+ 238 - Govt: Degree College Shikarpur Road Sukkur (Male)(P),27.7092811,68.843323,Male,Sindh,2,0,947,0
+ 212 - Govt: Girls High School Hamdard Society. (Com)(P),27.7095459,68.8379064,Combined,Sindh,2,2,775,623
+ 160 - Micro Station NTC Pir Murad Shah Sukkur (Male),27.71027,68.86703,Male,Sindh,3,0,1233,0
+ 162 - Micro Station NTC Pir Murad Shah Sukkur (Male),27.71027,68.86706,Male,Sindh,3,0,1122,0
+ 239 - Govt: Degree College Shikarpur Road Sukkur (Female)(P),27.7105992,68.8404164,Female,Sindh,0,3,0,1330
+ 155 - Govt: Primary School Saeedabad Sukkur (Male) (P),27.71067189,68.78687195,Male,Sindh,2,0,945,0
+ 156 - Govt: Primary School Saeedabad Sukkur (Female) (P),27.71067189,68.78690195,Female,Sindh,0,2,0,931
+ 158 - Water Filter Plant Near Ghulshan - e- Iqbal Sukkur (Male)(P),27.71372971,68.8699383,Male,Sindh,3,0,1231,0
+ 179 - Govt: Primary School Shaheed Ghulam Hyder Sukkur (Male)(P),27.7139024,68.8591363,Male,Sindh,4,0,1534,0
+ 216 - Govt: boys Primary School Site Area Sukkur (Combined),27.71727,68.83968,Combined,Sindh,2,1,609,545
+ 225 - Govt: Girls High School Qureshi Village Azizabad Sukkur (Male)(P),27.7205468,68.8613718,Male,Sindh,2,0,936,0
+ 226 - Govt: Girls High School Qureshi Village Azizabad Sukkur (Female)(P),27.7205468,68.8614018,Female,Sindh,0,2,0,747
+ 227 - Govt: Boys High School Village Qureshi Azizabad Sukkur (Male) (P),27.7205468,68.8614318,Male,Sindh,3,0,1447,0
+ 228 - Govt: Boys High School Village Qureshi Azizabad Sukkur (Female) (P),27.7205468,68.8614618,Female,Sindh,0,3,0,1228
+ 211 - Govt: Primary School Abdul Sattar Makka Sukkur (Combined)(P),27.7229065,68.8240686,Combined,Sindh,1,1,474,388
+ 189 - Govt: High School Abad Lakha Sukkur (Male) (P),27.7298784,68.8127837,Male,Sindh,2,0,973,0
+ 187 - Govt: High School Abad Lakha Sukkur (Male) (P),27.7298784,68.8128137,Male,Sindh,3,0,1270,0
+ 220 - Govt: Primary School (Boys) Nihal Khan Khoso Sukkur (Female) (P),27.73655586,68.83869069,Female,Sindh,0,2,0,1382
+ 182 - Govt: Primary School Boys Kando Wahan Sukkur(Male),27.7390332,68.810254,Male,Sindh,2,0,976,0
+ 183 - Govt: Rural Health Center Kando Wahan (Female) (P),27.748188,68.8077242,Female,Sindh,0,2,0,954
+ 199 - Govt: Middle Boys School Village Deha (Male)(P),27.748188,68.8077542,Male,Sindh,4,0,1438,0
+ 200 - Govt: Girls Primary School Village Deha (Female)(P),27.748188,68.8077842,Female,Sindh,0,3,0,1316
+ 242 - IRRIGATION BUNGLOW PANJBAND NEAR VILLAGE SOOFAN WARO (Com) (P),27.7508225,68.8056389,Combined,Sindh,2,2,633,531
+ 184 - Govt: Middle School Boys Arain Sukkur (Male) (P),27.7575908,68.7567774,Male,Sindh,3,0,1334,0
+ 185 - Govt: Boys Primary.School Double Story  village Arain  Sukkur (Female) (P),27.7575908,68.7568074,Female,Sindh,0,3,0,1148
+ 186 - Govt: Boys Primary.School Double Story  village Arain  Sukkur (Combined),27.7575908,68.7568374,Combined,Sindh,2,1,764,696
+ 190 - Govt: Primary School Abad Lakha Sukkur (Female)(P),27.7575908,68.7568674,Female,Sindh,0,2,0,846
+ 188 - Govt: Primary School Abad Lakha Sukkur (Female)(P),27.7575908,68.7568974,Female,Sindh,0,3,0,1135
+ 196 - Govt: Girls Primery School old Shahpur Sukkur (Female)(P),27.7575908,68.7569274,Female,Sindh,0,3,0,1280
+ 195 - Govt: Primary Boys School Old Shahpur Sukkur (Male)(P),27.7575908,68.7569574,Male,Sindh,3,0,1475,0
+ 203 - Govt: Primary Boys School Bagerji (Male)(P),27.7575908,68.7569874,Male,Sindh,2,0,1001,0
+ 204 - Govt: Primary Boys School Bagerji (Female)(P),27.7575908,68.7570174,Female,Sindh,0,2,0,844
+ 206 - Govt: Girls High School Bagerji (Female) (P),27.7575908,68.7570474,Female,Sindh,0,4,0,1628
+ 209 - Govt: Boys Primnary School Village Ghumra (Male) (P),27.7575908,68.7570774,Male,Sindh,4,0,1423,0
+ 317 - Govt: Boys Primary School Tharichani (Com),27.75961,69.04551,Combined,Sindh,2,1,636,487
+ 316 - Govt: Girls Middle School Tharichani (Female)(P),27.75996819,69.04558666,Female,Sindh,0,3,0,1170
+ 315 - Govt: Girls Middle School Tharichani (Male)(P),27.75996954,69.04557274,Male,Sindh,4,0,1421,0
+ 314 - Govt: Primary School Miran Pur Saeedki (Com) (P),27.76021329,69.05897236,Combined,Sindh,2,2,917,741
+ 319 - Govt: boys Primary School Sangi (Female)(P),27.76098613,69.03988429,Female,Sindh,0,2,0,1076
+ 318 - Govt: boys Primary School Sangi (Male)(P),27.76099526,69.03989767,Male,Sindh,3,0,1385,0
+ 207 - Govt: Boys High School Village Ghumra (Male) (P),27.766719,68.749275,Male,Sindh,4,0,1692,0
+ 208 - Govt: Boys High School Village Ghumra (Female) (P),27.766719,68.749305,Female,Sindh,0,4,0,1609
+ 210 - Govt:  Primnary School Village Kalori Ghumra (Female) (P),27.766719,68.749335,Female,Sindh,0,3,0,1318
+ 324 - Govt: Primary School Molvi Abdul Wahab (Male)(P),27.7680394,68.99458424,Male,Sindh,3,0,1125,0
+ 325 - Govt: Primary School Molvi Abdul Wahab (Female)(P),27.76806434,68.9945982,Female,Sindh,0,2,0,958
+ 241 - Village Faqeer Muhammad Jatoi- Near Side Area Sukkur (Com) (T),27.77523,68.86523,Combined,Sindh,1,1,280,204
+ 308 - Govt: boys Primary School Hingoro.(Com) (P),27.79000259,69.07797296,Combined,Sindh,2,1,661,486
+ 309 - Govt: High School Hingoro (Male) (P),27.79187196,69.07758026,Male,Sindh,3,0,1200,0
+ 310 - Govt: High School Hingoro (Female) (P),27.79187196,69.07761026,Female,Sindh,0,2,0,1020
+ 306 - Govt: Primary School Bag Pai Pano Akil (Male) (P),27.79255116,69.0481107,Male,Sindh,2,0,1119,0
+ 312 - Govt: Primary School Waryam Jatoi (Male) (P),27.80408092,69.04423578,Male,Sindh,2,0,1026,0
+ 313 - Govt: Primary School Waryam Jatoi (Female) (P),27.80408092,69.04426578,Female,Sindh,0,2,0,906
+ 311 - Govt: Girls Primary School Haji Khan Ghunio (Com)(P),27.80638241,69.08219856,Combined,Sindh,2,2,740,603
+ 307 - Govt: boys Primary School Abdul Rehman Mochi (Female) (P),27.80784,69.03998,Female,Sindh,0,2,0,931
+ 320 - Govt: boys Primary School Ishaque Indhar (Com)(P),27.80897136,68.98328592,Combined,Sindh,1,1,359,267
+ 288 - Govt: boys Primary School Arazi Saidki (Male) (P),27.81471,69.06195,Male,Sindh,2,0,878,0
+ 321 - Govt: boys Primary School Panhwari  (Com)(P),27.81869545,69.01804248,Combined,Sindh,2,1,554,433
+ 322 - Govt: boys Primary School Soomra (Male) (P),27.82360472,69.02348159,Male,Sindh,3,0,1268,0
+ 329 - GPS Hussain Beli (Com)(P),27.82400312,68.96835914,Combined,Sindh,1,1,36,36
+ 323 - Govt: Middle School Soomra (Female) (P),27.82495425,69.0225991,Female,Sindh,0,2,0,1093
+ 293 - Govt: boys Primary School Kot Sadique Shah (Com) (P),27.83218556,69.08668951,Combined,Sindh,2,2,735,556
+ 290 - Govt: Boys Primary School Nuraja Pano Akil (Male) (P),27.83381576,69.05485336,Male,Sindh,2,0,967,0
+ 291 - Govt: Girls Primary School Nuraja Pano Akil (Female) (P),27.83381576,69.05488336,Female,Sindh,0,2,0,774
+ 292 - Govt: High School Noraja (Com) (P),27.83781654,69.05181133,Combined,Sindh,2,2,755,615
+ 328 - Govt: Primary School Umaid Ali Mahar (Com) (T),27.84022237,68.95737213,Combined,Sindh,1,1,411,289
+ 330 - Irrigation Bunglow near village sarfoo (Com)(P),27.84972684,68.83123368,Combined,Sindh,1,1,487,395
+ 327 - Govt: Primary School Raza Goth (Com)(P),27.85676107,69.00924586,Combined,Sindh,2,2,916,656
+ 326 - Govt: Primary School Phullu Goth (Com)(P),27.86082033,69.01315144,Combined,Sindh,1,1,625,439
+ 283 - Govt: boys Primary School Sain Dino Chachar (Com) (P),27.8622985,69.1503217,Combined,Sindh,2,2,675,554
+ 281 - Govt: boys Primary School Jumo Jiskani (Male) (T),27.86980578,69.13393137,Male,Sindh,3,0,1405,0
+ 282 - Govt: Girls Primary School Jumo Jiskani (Female) (T),27.86980578,69.13396137,Female,Sindh,0,3,0,1176
+ 280 - Govt: boys Primary School Bhellar (Com) (P),27.8836569,69.1304556,Combined,Sindh,2,2,790,623
+ 286 - Govt: boys Primary School Redhi  (Male) (P),27.8900162,69.10096722,Male,Sindh,3,0,1241,0
+ 287 - Govt: boys Primary School Redhi  (Female) (P),27.8900162,69.10099722,Female,Sindh,0,3,0,1166
+ 284 - Govt: boys Primary School Kot Sher Muhammad Bullo (Male),27.89076297,69.13676254,Male,Sindh,3,0,1367,0
+ 285 - Govt: Boys Primary School  Kot Sher Muhammad Bullo (Female) (P),27.89076297,69.13679254,Female,Sindh,0,3,0,1234
+ 278 - Govt: boys Primary School Hussain Kalwar (Male) (P),27.90168937,69.11576899,Male,Sindh,3,0,1318,0
+ 304 - Govt: Boys Lower Secondary School Ismail Zangajo(Male) (P),27.90517683,69.13349095,Male,Sindh,3,0,1215,0
+ 305 - Govt: Primary School Ismail Zangajo(Female) (P),27.90517683,69.13352095,Female,Sindh,0,2,0,990
+ 279 - Basic Health Unit Hussain Kalwar.(Female) (P),27.90876206,69.11770013,Female,Sindh,0,2,0,1052
+ 302 - Govt: Girls Primary School Usman Korai (Male) (P),27.91743454,69.15823552,Male,Sindh,2,0,869,0
+ 303 - Govt: Girls Primary School Usman Korai (Female) (P),27.91743454,69.15826552,Female,Sindh,0,2,0,617
+ 299 - Govt: High School Samo Chachar (Male) (P),27.93335823,69.11956938,Male,Sindh,3,0,1331,0
+ 300 - Govt: High School Samo Chachar (Female) (T),27.93335823,69.11959938,Female,Sindh,0,2,0,940
+ 297 - Govt: Middle School Phullani (Com) (P),27.94205735,69.0789364,Combined,Sindh,2,1,567,523
+ 296 - Govt: boys Primary School Shahpur (Com) (P),27.95063462,69.10093978,Combined,Sindh,2,1,669,539
+ 301 - Govt: boys Primary School Sadhoja (Com) (P),27.96080903,69.1098511,Combined,Sindh,2,1,646,533
+ 298 - Govt: boys Primary School Jam Khizar Chachar (Imp) (Com) (P),27.96084376,69.07580596,Combined,Sindh,2,2,884,641
+ 294 - Govt. Dispensary Umar Chachar (Male) (P),27.98944257,69.06179655,Male,Sindh,2,0,952,0
+ 295 - Govt. Dispensary Umar Chachar (Female) (P),27.98944257,69.06182655,Female,Sindh,0,2,0,746

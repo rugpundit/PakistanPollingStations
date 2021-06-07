@@ -1,0 +1,243 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 1 - Government Primary School Colony Ajmera,0,0,Male,KPK,3,0,1269,0
+ 91 - Government Primary School Garang,34.57952,73.08952,Combined,KPK,1,1,385,285
+ 90 - Basic Health Unit Batian,34.58101,73.08402,Combined,KPK,1,1,504,358
+ 88 - Government  Girls Primary School Takya,34.58418,73.05271,Combined,KPK,1,1,658,475
+ 87 - Government Primary School Bandigo,34.59469,73.05164,Combined,KPK,1,1,287,219
+ 86 - Government High School Bandigo,34.59492,73.05232,Combined,KPK,1,1,750,574
+ 94 - Government Girls Primary School Kangri,34.59669,72.98949,Combined,KPK,1,1,441,309
+ 89 - Government Primary School Chohan,34.59794,73.06063,Combined,KPK,1,1,765,521
+ 97 - Government Primary School Bilandkot,34.5981,72.97195,Female,KPK,0,2,0,852
+ 95 - Government High School Bilandkot,34.59827,72.97224,Male,KPK,3,0,1374,0
+ 96 - Government High School Meeran,34.59827,72.97227,Combined,KPK,1,1,653,439
+ 104 - Government Middle School Banda Bala,34.59934,72.9951,Combined,KPK,1,1,451,304
+ 93 - Basic Health Unit KherAbad,34.60803,72.98969,Combined,KPK,1,1,485,344
+ 112 - Government Primary School Murad Abad,34.61097,72.94175,Combined,KPK,1,1,220,178
+ 80 - Government Girls Higher Secondary School Banian P.S 2,34.61125,73.05646,Female,KPK,0,2,0,1244
+ 111 - Government Middle School Garhi Nawab Said,34.61188,72.93697,Combined,KPK,1,1,682,541
+ 78 - Government Girls Higher Secondary School Banian P.S 1,34.61256,73.05291,Male,KPK,2,0,987,0
+ 79 - Government Primary School Banian,34.61256,73.05294,Male,KPK,2,0,725,0
+ 81 - Government High School Dagai,34.61414,73.03784,Combined,KPK,1,1,538,385
+ 109 - Government High School Pihari,34.61529,72.95838,Male,KPK,3,0,1351,0
+ 110 - Government Primary School Pirhari,34.61564,72.95746,Female,KPK,0,1,0,810
+ 82 - Government Primary School Taya Jadeed,34.61758,73.04488,Combined,KPK,1,1,589,410
+ 83 - Basic Helath Unit Kharary,34.61769,73.02564,Male,KPK,2,0,734,0
+ 84 - Government Primary School Khararhy,34.61796,73.02551,Male,KPK,2,0,833,0
+ 99 - Government Girls Higher Secondary School Tikri Kharari,34.61847,73.02057,Combined,KPK,1,1,473,384
+ 70 - Government High School Neelishang,34.61875,73.07745,Male,KPK,3,0,1282,0
+ 72 - Government Primary School Neelishang,34.61917,73.07731,Combined,KPK,1,1,486,316
+ 98 - Government Girls High School Tikri Kharari,34.61928,73.01821,Combined,KPK,1,1,429,290
+ 85 - Government Girls Primary School Kharary,34.62101,73.02759,Female,KPK,0,2,0,1100
+ 73 - Government Primary School Matta Neeli Shang,34.6213,73.09043,Male,KPK,2,0,1126,0
+ 102 - RHC Maira,34.62202,73.01242,Male,KPK,3,0,1126,0
+ 71 - Government Girls High School Neelishang,34.62255,73.07855,Female,KPK,0,1,0,893
+ 101 - Government Higher Secondary School Kuza Banda,34.62312,73.00916,Combined,KPK,2,1,887,612
+ 103 - Government Primary School Tikri Maira,34.62358,73.01077,Female,KPK,0,1,0,782
+ 105 - Government High School Trand,34.62812,72.98635,Combined,KPK,1,1,623,448
+ 92 - Government Girls Primary School Sharif Abad,34.62978,73.00427,Combined,KPK,2,1,846,574
+ 108 - Government Primary School Trand,34.63079,72.98717,Female,KPK,0,1,0,842
+ 74 - Government Primary School Lundi,34.63088,73.09192,Female,KPK,0,1,0,688
+ 107 - Government Primary School Gidri Taleh Muhammad,34.63504,72.99065,Male,KPK,2,0,1083,0
+ 100 - Government Primary School Imam Seri,34.63771,73.00542,Combined,KPK,1,1,788,524
+ 67 - Government Girls Primary School Phagora,34.64259,73.06538,Female,KPK,0,2,0,1103
+ 64 - Basic Health Unit Phagora,34.64282,73.05891,Combined,KPK,1,1,640,442
+ 68 - Government Girls Primary School Bhai Khel Phagora,34.64382,73.06233,Male,KPK,1,0,661,0
+ 69 - Government Girls Middle School Bhai Khel Phagora,34.64411,73.0622,Male,KPK,2,0,920,0
+ 63 - Government Primary School Sangu,34.64438,73.05406,Combined,KPK,1,1,478,279
+ 118 - Government High School Gijbori,34.6461,72.99106,Combined,KPK,1,1,359,260
+ 66 - Government Primary School Phagora,34.64677,73.06553,Female,KPK,0,1,0,865
+ 117 - Government Girls Primary School Kandi Gijbori,34.65108,72.98531,Combined,KPK,1,1,501,355
+ 5 - Government Primary School Gandori,34.65229,73.02291,Combined,KPK,1,1,518,361
+ 15 - Government Girls Primary School Jotyal,34.6523,73.09144,Combined,KPK,1,1,332,234
+ 113 - Government Girls Middle School Bar Pao Gijbori P.S 1,34.6524,72.98328,Male,KPK,2,0,910,0
+ 114 - Government Girls Middle School Bar Pao Gijbori P.S 2,34.6524,72.98331,Female,KPK,0,1,0,651
+ 115 - Government Girls Primary School Par Pao Gijbori P.S 1,34.65252,72.98358,Male,KPK,3,0,1160,0
+ 116 - Government Girls Primary School Bar Pao Gijbori P.S 2,34.65252,72.98361,Female,KPK,0,1,0,783
+ 13 - Government Primary School Kandoli,34.65622,73.05701,Combined,KPK,1,1,338,242
+ 16 - Government Primary School Shor Bani,34.65677,73.08023,Combined,KPK,1,1,509,321
+ 125 - Government Middle School Dheri Masha Khel,34.66096,72.98026,Combined,KPK,1,1,595,456
+ 8 - Government Primary School Noshera,34.66133,73.00491,Combined,KPK,1,1,625,445
+ 12 - Government Girls Primary School Chapargram,34.66527,73.05288,Female,KPK,0,2,0,1015
+ 119 - Government Girls Primary School Kiar Gali Umara Khan,34.66588,72.99133,Combined,KPK,1,1,729,492
+ 4 - Government Primary School Maira Ajmera,34.66833,73.01958,Combined,KPK,1,1,443,315
+ 3 - Government Girls High School Ajmera,34.67013,73.01524,Combined,KPK,2,1,995,670
+ 75 - Government Masjid Primary School Khet P.S 1,34.67189,73.10977,Combined,KPK,1,1,318,224
+ 76 - Goverrnment Masjid Primar School Khet P. S 2,34.67189,73.1098,Combined,KPK,1,1,640,379
+ 121 - Government Girls Primary School Kass Muhammad Tahir,34.67253,72.99083,Combined,KPK,1,1,592,413
+ 7 - Government Primary School Ajmera,34.67297,73.02416,Female,KPK,0,1,0,637
+ 6 - Government Middle School Ajmera,34.67302,73.0249,Male,KPK,2,0,938,0
+ 2 - Government Girls Primary School Ajmera,34.67468,73.0219,Female,KPK,0,2,0,901
+ 62 - Government Primary School Malkal Gali,34.67476,73.13737,Combined,KPK,1,1,835,488
+ 18 - Government Primary School Kass Gujjar Khan,34.67625,73.04361,Male,KPK,3,0,1253,0
+ 17 - Government Girls Primary School Tamai,34.67654,73.04523,Female,KPK,0,1,0,824
+ 122 - Government Primary School Shingli Bala,34.67688,72.98732,Combined,KPK,1,1,664,443
+ 24 - Govt. Girls Degree College Battagram P.S 1,34.67691,73.03313,Male,KPK,3,0,1306,0
+ 25 - Govt. Girls Degree College Battagram P.S 2,34.67691,73.03316,Male,KPK,2,0,1038,0
+ 26 - Govt. Girls Degree College Battagram P.S 3,34.67691,73.03319,Female,KPK,0,1,0,948
+ 27 - Govt. Girls Degree College Battagram P.S 4,34.67691,73.03322,Female,KPK,0,1,0,789
+ 9 - Government Primary School Matta Maidan,34.6773,73.01004,Male,KPK,3,0,1424,0
+ 10 - Government Girls Middle School Matta Maidan,34.67928,73.00811,Female,KPK,0,2,0,1059
+ 123 - Government Girls Primary School Habib Banda Shingli Bala,34.6813,72.98418,Combined,KPK,1,1,480,350
+ 21 - Government Girls Primary School Jehangeer Abad,34.68211,73.01749,Combined,KPK,1,1,528,395
+ 38 - Government High School Battamori,34.68332,73.08701,Combined,KPK,1,1,625,455
+ 134 - Government Primary School Shingli Payeen,34.68347,72.98112,Male,KPK,3,0,1258,0
+ 135 - Government High School Shingli Payeen,34.68374,72.98369,Female,KPK,0,1,0,922
+ 29 - Government Girls Primary School Battagram,34.68404,73.03346,Combined,KPK,1,1,684,499
+ 28 - Government High School No.2 Thai Battagram,34.68405,73.03294,Male,KPK,3,0,1252,0
+ 19 - Government Girls Primary School Arghashori,34.68413,73.0397,Combined,KPK,1,1,651,492
+ 32 - Basic Health Unit Battagram,34.68455,73.03198,Female,KPK,0,1,0,550
+ 37 - Government Primary School Iqbal Abad,34.68474,73.09354,Combined,KPK,1,1,338,211
+ 31 - Government Primary School Colony Rasool Khan,34.6848,73.02972,Male,KPK,1,0,802,0
+ 77 - Government Girls Primary School Rajdhari,34.68501,73.10342,Combined,KPK,1,1,726,488
+ 61 - Government Primary School Thor,34.68744,73.13469,Combined,KPK,1,1,663,412
+ 45 - Government Priary School Bazargai,34.68796,73.05566,Combined,KPK,1,1,473,368
+ 33 - Government Primary School Battamori Shamali,34.68821,73.08009,Combined,KPK,2,1,734,515
+ 34 - Basic Health Unit Battamori,34.68845,73.07909,Combined,KPK,1,1,807,550
+ 44 - Government Primary School Jesol,34.68961,73.05701,Combined,KPK,1,1,766,507
+ 35 - Government Girls Primary School Kakarhshang,34.69134,73.06942,Male,KPK,2,0,1067,0
+ 132 - Government Primary School Aughaz Banda,34.69141,72.97897,Combined,KPK,1,1,584,410
+ 36 - Government Primary School Shingri,34.69202,73.06831,Female,KPK,0,1,0,689
+ 20 - Government Primary School Kohani,34.69297,73.05085,Combined,KPK,1,1,569,379
+ 133 - Government Girls Primary School Sharr Azhar Dola,34.69573,72.98005,Combined,KPK,1,1,507,364
+ 120 - Government Middle School- Karwar,34.69688,73.00169,Combined,KPK,1,1,736,501
+ 22 - Government Middle School Batangi,34.70007,73.03846,Combined,KPK,1,1,673,447
+ 131 - Government Primary School Shagai,34.70171,72.97731,Combined,KPK,1,1,771,599
+ 129 - Governmen Primary School Qila Shakir Khan,34.70234,72.98604,Combined,KPK,1,1,562,354
+ 51 - Government Girls High School Shamlai,34.70312,73.11127,Female,KPK,0,1,0,749
+ 50 - Government High School Shamlai,34.70465,73.11362,Male,KPK,3,0,1126,0
+ 52 - Government Primary School Shamlai,34.70477,73.11395,Combined,KPK,1,1,464,333
+ 42 - Government Primary School Kadlay,34.70527,73.08147,Combined,KPK,1,1,658,436
+ 58 - Government High School Hill,34.70621,73.14562,Combined,KPK,2,1,899,620
+ 127 - Government Girls Primary School Peshora,34.70646,72.98028,Female,KPK,0,1,0,1019
+ 54 - Government Primary School Ayeen,34.70664,73.09724,Combined,KPK,1,1,746,513
+ 59 - Government Primary School Hill,34.70666,73.14592,Male,KPK,3,0,1481,0
+ 53 - Basic Health Unit Shamlai at Bansair,34.70804,73.1103,Combined,KPK,1,1,614,421
+ 60 - Government Girls Primary School Hill,34.70809,73.14776,Female,KPK,0,1,0,939
+ 40 - Basic Health Unit Joze,34.70817,73.07465,Combined,KPK,1,1,790,546
+ 130 - Government Primary School Kotgala,34.70863,72.968,Combined,KPK,1,1,736,527
+ 39 - Government Middle School Rajmera,34.71292,73.07912,Combined,KPK,1,1,713,471
+ 128 - Government Primary School Naeem Abad Pomang,34.71331,72.98158,Combined,KPK,2,1,554,356
+ 23 - Government Primary School Dera Jehangir Khan,34.71413,73.01025,Combined,KPK,1,1,420,294
+ 126 - Government High School Peshora,34.71458,72.97197,Male,KPK,3,0,1446,0
+ 41 - Governmnet Primary School Joze,34.71459,73.07617,Combined,KPK,1,1,420,258
+ 43 - Government Gils Primary School Chamkaat Sultan,34.71617,73.08711,Combined,KPK,1,1,718,431
+ 48 - Government Primary School Habib Banda,34.7163,73.04751,Combined,KPK,2,1,816,528
+ 46 - Government Primary School Chitta Batta P.S 1,34.71703,73.03596,Combined,KPK,1,1,573,350
+ 47 - Government Primary School Chitta Batta P.S2,34.71703,73.03599,Combined,KPK,1,1,389,245
+ 140 - Government Girls Middle School Hutal Deshan P.S 1,34.71915,72.9537,Female,KPK,0,1,0,839
+ 141 - Government Girls Middle School Hutal Deeshan P.S 2,34.71915,72.95373,Male,KPK,3,0,1206,0
+ 57 - Government Primary School Khait Bansair,34.72097,73.10653,Combined,KPK,1,1,614,374
+ 142 - Basic Health Unit Batlay P.S 1,34.72383,72.95718,Male,KPK,2,0,1096,0
+ 143 - Basic Health Unit Batlay P.S 2,34.72383,72.95721,Male,KPK,1,0,535,0
+ 55 - Government Primary School Donga Shah Khel,34.72421,73.1156,Combined,KPK,1,1,675,454
+ 144 - Government Girls Primary School Batlay,34.72517,72.9556,Female,KPK,0,1,0,1124
+ 56 - Government Primary School Rasheed Abad,34.7275,73.12302,Combined,KPK,1,1,351,232
+ 154 - Government Primary School Dabri,34.72852,72.98267,Male,KPK,3,0,1388,0
+ 155 - Government Girls Primary School Dabri,34.73014,72.98529,Female,KPK,0,1,0,1014
+ 151 - Government Primary School Nakhter,34.73925,72.91797,Combined,KPK,1,1,681,477
+ 152 - Government Primary School Paimal,34.74145,72.97907,Male,KPK,3,0,1305,0
+ 153 - Basic Health Unit Paimal Sharif,34.74406,72.98279,Female,KPK,0,1,0,967
+ 147 - Government Primary School Chanjal,34.74901,72.96183,Female,KPK,0,1,0,819
+ 146 - Civil Dispensary Chanjal,34.74931,72.96095,Male,KPK,2,0,1186,0
+ 145 - Government Primary School Qinjbori,34.75118,72.94102,Combined,KPK,1,1,337,248
+ 158 - Government Primary School Kanshay,34.75127,72.99612,Male,KPK,3,0,1108,0
+ 149 - Government Primary School Alamai Kondao,34.75532,72.91312,Combined,KPK,1,1,734,530
+ 159 - Government Primary School Asharo Kalay,34.75832,72.99132,Female,KPK,0,1,0,737
+ 148 - Government Primary School Goryar,34.76539,72.91065,Combined,KPK,1,1,621,457
+ 156 - Government Primary School Shahmurad,34.76648,72.97212,Male,KPK,3,0,1201,0
+ 157 - Government Girls Primary School Shahmurad,34.76707,72.97161,Female,KPK,0,1,0,761
+ 150 - Government Primary School Jundaar,34.76791,72.92842,Combined,KPK,1,1,547,384
+ 171 - Government Middle School Kocha Sorgai (Full improvised),34.76981,73.01796,Combined,KPK,2,1,928,467
+ 137 - Government Girls Primary School Thakot,34.78094,72.92958,Male,KPK,2,0,907,0
+ 138 - Government Primary School Thakot,34.78108,72.9292,Female,KPK,0,1,0,1269
+ 136 - Government High School Thakot,34.78149,72.92881,Male,KPK,2,0,904,0
+ 162 - Government Girls Primary School Tharkhoy,34.78693,72.97063,Combined,KPK,1,1,782,511
+ 139 - Government Primary School Hussaini Thakot,34.79035,72.93597,Combined,KPK,1,1,688,541
+ 163 - Government Girls Primary School Drab Qallah,34.7935,72.9755,Combined,KPK,2,1,848,580
+ 165 - Government Primary School Kanai,34.80143,72.99042,Female,KPK,0,1,0,1080
+ 166 - Government High School Kanai,34.80151,72.99025,Male,KPK,3,0,1501,0
+ 180 - Government Primary School Chapry,34.80674,73.03426,Combined,KPK,1,1,426,290
+ 161 - Government primary School Hutal Batkul,34.80823,72.96958,Female,KPK,0,1,0,988
+ 160 - Basic Health Unit Hutal Batkul,34.80916,72.96674,Male,KPK,3,0,1416,0
+ 205 - Government Primary School Umray,34.80934,73.04742,Combined,KPK,1,1,400,270
+ 167 - Government Primary School Aban,34.81068,72.98706,Combined,KPK,2,1,781,585
+ 168 - Government Primary School Faqiro,34.81349,73.00926,Combined,KPK,1,1,537,373
+ 197 - Government Primary School Biari,34.81411,73.08958,Combined,KPK,1,1,537,335
+ 169 - Government Primary School Bab P.S 1,34.81474,73.02154,Combined,KPK,1,1,691,363
+ 170 - Government  Primary School Bab P.S 2,34.81474,73.02157,Combined,KPK,1,1,449,315
+ 196 - Government Girls Primary School Biari,34.81635,73.09241,Female,KPK,0,1,0,895
+ 195 - Basic Health Unit Biari,34.81765,73.0948,Male,KPK,3,0,1172,0
+ 199 - Government Primary School Pokal,34.81791,73.07536,Combined,KPK,1,1,614,519
+ 208 - Government Primary School Rashang,34.81829,73.1197,Combined,KPK,1,1,855,606
+ 209 - Government Girls Primary School Rashang,34.81884,73.11916,Combined,KPK,1,1,173,96
+ 227 - Government Primary School Nogram P.S 1,34.81898,73.09858,Combined,KPK,1,1,630,457
+ 228 - Government Primary School Nogram P.S 2,34.81898,73.09861,Combined,KPK,1,1,374,276
+ 200 - Government Girls Primary School Pokal,34.81915,73.07805,Female,KPK,0,1,0,722
+ 210 - Government High School Rashang P.S 1,34.82049,73.11613,Combined,KPK,1,1,675,450
+ 211 - Government High School Rashang P.S 2,34.82049,73.11616,Combined,KPK,1,1,498,330
+ 181 - Government Primary School Mangano Kalay,34.82093,73.00255,Combined,KPK,2,1,699,408
+ 198 - Government Primary School Kar Pokal,34.82193,73.07476,Male,KPK,3,0,1011,0
+ 212 - Government Middle School Gangwal,34.82452,73.16681,Female,KPK,0,1,0,1173
+ 178 - Government Primary School Bar Cheeran,34.82628,73.03457,Female,KPK,0,1,0,667
+ 213 - Government Girls Primary School Kass Gangwal P.S 1,34.82642,73.17247,Male,KPK,3,0,1220,0
+ 214 - Government Girls Primary School Kass Gangwal P.S 2,34.82642,73.1725,Male,KPK,1,0,596,0
+ 179 - Government High School Cheeran,34.82705,73.02812,Male,KPK,2,0,978,0
+ 187 - TMA Building Banna,34.82974,73.06314,Combined,KPK,1,1,455,325
+ 188 - Rest House Building Banna,34.82995,73.0639,Combined,KPK,1,1,556,374
+ 203 - Government Girls Primary School Karg,34.83048,73.05926,Combined,KPK,1,1,445,273
+ 202 - Government Primary School Karg Payeen,34.83144,73.05642,Combined,KPK,1,1,665,425
+ 184 - Government High School Banna,34.83175,73.06591,Male,KPK,3,0,1216,0
+ 183 - Government Primary School Banna,34.833,73.0649,Female,KPK,0,1,0,897
+ 204 - Government Primary School Bandi Khanimola,34.83545,73.05018,Combined,KPK,1,1,344,259
+ 231 - Government High School Ropkani Bandi,34.83554,73.09769,Combined,KPK,2,1,886,582
+ 207 - Government Middle School Rabat,34.83721,73.04555,Combined,KPK,1,1,626,482
+ 206 - Government Primary School Syed Abad Sar,34.83755,73.03347,Combined,KPK,1,1,522,363
+ 182 - Government Primary School Kassai,34.83868,73.05695,Combined,KPK,2,1,789,580
+ 230 - Basic Health Unit Ropkani at Deshwal,34.83933,73.11591,Combined,KPK,1,1,390,296
+ 229 - Government Primary School Deshwal,34.84088,73.11913,Combined,KPK,1,1,531,398
+ 186 - Government Girls Model School Tailoos,34.84569,73.03347,Female,KPK,0,1,0,724
+ 185 - Government High School Tailoos,34.84937,73.03101,Male,KPK,2,0,930,0
+ 174 - Government High School Jambera,34.84964,72.98537,Male,KPK,3,0,1483,0
+ 173 - Basic Health Unit Jambera,34.85027,72.9819,Female,KPK,0,1,0,965
+ 172 - Government Primary School Jambera Banda,34.85321,72.97901,Combined,KPK,1,1,757,491
+ 190 - Government Primary School Koshgram,34.85901,73.0836,Combined,KPK,1,1,316,218
+ 193 - Government High School Asharban,34.86022,73.06071,Male,KPK,3,0,1180,0
+ 226 - Government Primary School Shahtoot,34.8607,73.10291,Combined,KPK,1,1,343,271
+ 194 - Government Primary School Asharban,34.86162,73.06001,Female,KPK,0,1,0,923
+ 223 - Government Primary School Dheri Muzammil Shah,34.8631,73.09303,Female,KPK,0,1,0,1333
+ 219 - Government Primary School Kuz Neher,34.86329,73.13209,Male,KPK,3,0,1339,0
+ 221 - Basic Health Unit Bateela P.S 1,34.8642,73.09372,Male,KPK,2,0,863,0
+ 222 - Basic Health Unit Bateela P.S 2,34.8642,73.09375,Male,KPK,2,0,892,0
+ 189 - Government Primary School Muslim Abad,34.86421,73.07378,Combined,KPK,2,1,798,661
+ 217 - Government Primary School Qallah Gantar P.S 1,34.86496,73.14748,Combined,KPK,1,1,640,445
+ 218 - Government Primary School Qalla Gantar P.S 2,34.86496,73.14751,Combined,KPK,1,1,619,446
+ 224 - Government Primary School Bojri P.S1,34.86507,73.09914,Combined,KPK,2,1,839,631
+ 225 - Government Primary School Bojri P.S 2,34.86507,73.09917,Combined,KPK,1,1,274,208
+ 220 - Government High School Nehr,34.86562,73.13366,Female,KPK,0,1,0,966
+ 235 - Government Primary School Mir Ali,34.86598,73.0354,Combined,KPK,1,1,401,333
+ 236 - Governement Middle School Mir Ali,34.86598,73.03543,Combined,KPK,1,1,507,404
+ 255 - Government Girls Primary School Laghri Khwor,34.86823,73.01228,Combined,KPK,1,1,486,350
+ 215 - Government Primary School loy Killi Gantar,34.86927,73.15218,Male,KPK,3,0,1451,0
+ 175 - Government Primary School Gulshoot,34.87151,72.95598,Combined,KPK,2,1,687,336
+ 216 - Government Girls Primary School Gantar,34.87158,73.15275,Female,KPK,0,2,0,1057
+ 192 - Government Primary School Barray,34.879,73.05971,Combined,KPK,2,1,823,693
+ 253 - Government Primary School Kuz Tandool (Full Improvised),34.88147,73.0042,Combined,KPK,1,1,644,483
+ 239 - Government Primary School Null,34.88244,73.03208,Combined,KPK,1,1,534,426
+ 176 - Government High School Kund,34.8941,72.86523,Male,KPK,2,0,929,0
+ 177 - Government Primary School Kund,34.89414,72.86528,Female,KPK,0,1,0,622
+ 247 - Government Primary School Dirkad,34.90248,72.95341,Combined,KPK,1,1,516,417
+ 240 - Government Middle School Barachar,34.90511,73.02982,Combined,KPK,2,1,701,467
+ 232 - GovernmentPrimary School Toba Pashto,34.90548,73.06775,Combined,KPK,1,1,563,389
+ 244 - Government Primary School Sakargah Bala,34.90548,73.06778,Combined,KPK,2,1,763,524
+ 246 - Government Primary School Sakargah Payen,34.90548,73.06781,Combined,KPK,1,1,550,414
+ 254 - Basic Health Unit Tandool,34.90548,73.06784,Combined,KPK,1,1,405,295
+ 248 - Government Middle School Pazang P.S 1,34.90987,72.91554,Combined,KPK,1,1,579,360
+ 249 - Government Middle School Pazang P.S 2,34.90987,72.91557,Combined,KPK,1,1,439,283
+ 251 - Government Primary School Tandool Bala P.S 1 (Full improvised),34.91086,73.00735,Combined,KPK,2,1,1205,770
+ 252 - Government Primary School Tandol Bala P.S 2 (Full Improvised),34.91086,73.00738,Combined,KPK,2,1,525,334
+ 237 - Government High School Batangi P.S 1,34.9122,73.04565,Combined,KPK,1,1,757,559
+ 238 - Government High School Batangi P.S 2,34.9122,73.04568,Combined,KPK,1,1,385,264
+ 245 - Government Primary School Jabari,34.91298,72.95006,Combined,KPK,1,1,356,246
+ 243 - Government Middle School Jhangri,34.91331,73.03934,Combined,KPK,1,1,588,385
+ 250 - Government Primary School Pazang (Full improvised),34.91525,72.91611,Combined,KPK,1,1,675,364
+ 242 - Government Primary School Kaar Patay Pakka Baig,34.93052,73.05279,Combined,KPK,1,1,576,366

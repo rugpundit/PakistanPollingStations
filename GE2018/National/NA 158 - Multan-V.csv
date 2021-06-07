@@ -1,0 +1,84 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 120 - Government Girls Primary School- Chishti Wala,29.849608699308703,71.34768357886819,Combined,Punjab,2,2,848,736
+ 121 - Government Boys Middle School Gajju Hatta,29.867162923600866,71.31725537420111,Combined,Punjab,2,2,823,695
+ 122 - Government Boys Middle School Gajju Hatta,29.867162923600866,71.3172853742011,Combined,Punjab,1,1,631,560
+ 123 - Government Girls Primary School Mazoor Abad No.1,29.867479738703366,71.31830140103341,Male,Punjab,3,0,1443,0
+ 118 - Government Boys Elementary School Railway Station Shujabad,29.87329637518808,71.3261730462011,Combined,Punjab,2,2,1021,924
+ 119 - Union Council Office Gajju Hatta,29.87337651185552,71.32626296429768,Combined,Punjab,2,2,925,797
+ 78 - Government Boys High School Pounta,29.8832768,71.2934066,Male,Punjab,3,0,1442,0
+ 79 - Government Boys Primary School Tahirpur,29.8832768,71.2934366,Combined,Punjab,2,2,1077,860
+ 80 - Government Boys Middle School Soman Qadeem,29.8832768,71.2934666,Combined,Punjab,2,2,1050,978
+ 81 - Government Girls Primary School Soman,29.8832768,71.2934966,Male,Punjab,3,0,1425,0
+ 82 - Government Boys Primary School- Khair Pur,29.8832768,71.2935266,Male,Punjab,4,0,1883,0
+ 83 - Government Girls Primary School- Khair Pur,29.8832768,71.2935566,Female,Punjab,0,3,0,1634
+ 72 - Government Boys Degree College Sbujabad,29.8879142,71.2971185,Combined,Punjab,2,2,775,680
+ 73 - Government Boys Degree College Sbujabad,29.8879142,71.2971485,Male,Punjab,4,0,1802,0
+ 74 - Government Boys Primary School Jawan Wala,29.8879142,71.2971785,Combined,Punjab,1,1,598,504
+ 92 - Government Boys Primary School Sanghari,29.8879142,71.2972085,Combined,Punjab,2,2,1036,889
+ 113 - Government Boys High School Khujah,29.8879142,71.2972385,Combined,Punjab,2,1,655,568
+ 114 - Government Boys High School Khujah,29.8879142,71.2972685,Combined,Punjab,2,2,1219,982
+ 115 - Government Boys High School Khujah,29.8879142,71.2972985,Combined,Punjab,1,1,453,365
+ 116 - Government Girls Primary School- Basti Khuja,29.8879142,71.2973285,Combined,Punjab,1,1,672,559
+ 117 - Government Boys Primary School- Lut Wala,29.8879142,71.2973585,Combined,Punjab,1,1,535,440
+ 85 - Government Girls Middle School- Toder Pur,29.92010987171045,71.2945249035492,Female,Punjab,0,3,0,1340
+ 86 - Government Boys High School- Toder Pur,29.92023741268728,71.2946675844223,Male,Punjab,2,0,1282,0
+ 84 - Government Boys High School- Toder Pur,29.92027673144887,71.29461195171959,Male,Punjab,3,0,1617,0
+ 75 - Government Boys Primary School Mochi pura,29.92585340311863,71.2653180448259,Combined,Punjab,1,1,582,492
+ 76 - Government Girls Primary School Mochi pura,29.92589,71.26511,Male,Punjab,3,0,1352,0
+ 91 - Government High School- Chak R.S,29.9408,71.32404,Combined,Punjab,2,1,678,590
+ 110 - Government Primary School- Jeenday Wala,29.941423852768075,71.37115141942976,Combined,Punjab,2,2,1084,904
+ 97 - Government Primary School Sher Pur at Jai,29.941859415723613,71.30011596520693,Combined,Punjab,2,2,801,743
+ 77 - Government Boys Primary School- Fateh Bela,29.946765365416688,71.25056149240898,Combined,Punjab,1,1,575,475
+ 96 - Government Primary School Khan pur Qazian,29.951593768789348,71.27442691600625,Combined,Punjab,2,2,1027,935
+ 109 - Government Boys Primary School Basti Jakhar,29.96008743226866,71.3651609696341,Combined,Punjab,2,1,779,660
+ 100 - Government Girls Primary School- Bagrain No. 2- Chah Naseer Bakhsh Wala Mouza Daira Pur,29.960337734686288,71.3070584944144,Combined,Punjab,2,2,1039,892
+ 103 - Government Veterinary Hospital- Sikandabad,29.96202423893186,71.3557214610055,Male,Punjab,3,0,1628,0
+ 107 - Government Veterinary Hospital- Sikandabad,29.962068127347493,71.35588611972308,Male,Punjab,3,0,1409,0
+ 104 - Government Girls High School- Sikandabad Gharbi,29.964172147832734,71.36208939183776,Female,Punjab,0,3,0,1384
+ 108 - Government Girls High School- Sikandabad Gharbi,29.9641770347927,71.36215024372723,Female,Punjab,0,2,0,1249
+ 99 - Government Boys Primary School Daira Pur No. 1,29.96718862833258,71.33591559316513,Combined,Punjab,2,2,940,841
+ 106 - Government Boys High School- Sikandarabad Gharbi,29.967527473965646,71.35615307192687,Female,Punjab,0,2,0,1258
+ 102 - Government Boys High School Sakindar Abad Gharbi,29.967535384127117,71.35606691137677,Female,Punjab,0,3,0,1695
+ 105 - Government Boys Elementary School- Sikandarabad Gharbi,29.96758138203004,71.35649740087528,Male,Punjab,3,0,1424,0
+ 101 - Government Boys Middle School Sakindar Abad Gharbi,29.967583531952606,71.35656739806471,Male,Punjab,4,0,1940,0
+ 95 - Government Boys Middle School- Khan Pur Qazi,29.975569491597554,71.29406056013511,Female,Punjab,0,2,0,1068
+ 94 - Government Boys Middle School- Khan Pur Qazi,29.975585564371443,71.29405162442976,Male,Punjab,2,0,1295,0
+ 93 - Government Girls Primary School- Khan Pur Qazi,29.985449516055947,71.29593893217155,Combined,Punjab,2,2,841,728
+ 111 - Government Boys Primary School Meran Khan,30.195314,71.4839681,Male,Punjab,4,0,1862,0
+ 112 - Government Girls Comuntiy Model School- Meran Khan,30.195314,71.4839981,Female,Punjab,0,3,0,1457
+ 98 - Government Primary School Daira Pur NO.2,30.1965335,71.4905534,Combined,Punjab,2,1,710,636
+ 40 - Government Boys Primary School Ghazanfar Abad,30.2205654,71.4662522,Male,Punjab,4,0,1826,0
+ 50 - Government Girls High School Shujabad,30.2205654,71.4662822,Male,Punjab,3,0,1696,0
+ 51 - Government Girls High School Shujabad,30.2205654,71.4663122,Female,Punjab,0,3,0,1489
+ 49 - Office of the Deputy DEO (Female) Ghalla Mandi School,30.2205654,71.4663422,Female,Punjab,0,2,0,911
+ 52 - Government Boys Primary School- Ghalla Mandi,30.2205654,71.4663722,Male,Punjab,4,0,1896,0
+ 53 - Government Girls Primary School- Basti Parhar,30.2205654,71.4664022,Female,Punjab,0,3,0,1540
+ 54 - Office District Council Shujabad,30.2205654,71.4664322,Male,Punjab,3,0,1385,0
+ 55 - Tehsil Municipal Officer Office- Shujabad,30.2205654,71.4664622,Female,Punjab,0,2,0,1248
+ 56 - Veternary Hospital Shujabad,30.2205654,71.4664922,Male,Punjab,4,0,1800,0
+ 57 - Veternary Hospital Shujabad,30.2205654,71.4665222,Female,Punjab,0,3,0,1672
+ 58 - Government Boys High School Talkot Shujabad,30.2205654,71.4665522,Female,Punjab,0,2,0,1227
+ 41 - Government Girls Middle School Faiz Abad,30.2205654,71.4665822,Female,Punjab,0,4,0,2196
+ 59 - Office Deputy District Officer Social Walfare Near High School Talkot Shujabad,30.2205654,71.4666122,Male,Punjab,3,0,1444,0
+ 60 - Office Deputy District Officer Social Walfare Near High School Talkot Shujabad,30.2205654,71.4666422,Male,Punjab,3,0,1495,0
+ 61 - Government Boys High School Talkot Shujabad,30.2205654,71.4666722,Female,Punjab,0,2,0,1299
+ 62 - Government Boys Primary School- Talkot No. 2- Shujabad,30.2205654,71.4667022,Male,Punjab,4,0,1927,0
+ 63 - Government Boys Primary School Asad Khan Wala,30.2205654,71.4667322,Female,Punjab,0,3,0,1666
+ 64 - Government Girls Primary School Tibi Zai Mohallah Asim Abad,30.2205654,71.4667622,Male,Punjab,3,0,1573,0
+ 65 - Government Girls Primary School Tibi Zaia Mohallah Asim Abad,30.2205654,71.4667922,Female,Punjab,0,3,0,1336
+ 66 - Government V.T.I College- Beron Rasheed Shah Gate,30.2205654,71.4668222,Male,Punjab,2,0,909,0
+ 67 - Government Girls Primary School- Ghani Wala,30.2205654,71.4668522,Female,Punjab,0,2,0,835
+ 68 - Government Girls MC High School- Railway Gate- Shujabad,30.2205654,71.4668822,Male,Punjab,3,0,1375,0
+ 42 - Office of Agriculture Shujabad,30.2205654,71.4669122,Male,Punjab,2,0,1241,0
+ 69 - Government Girls MC High School- Railway Gate- Shujabad,30.2205654,71.4669422,Female,Punjab,0,2,0,1084
+ 70 - Government Boys MC Primary School Shujabad,30.2205654,71.4669722,Combined,Punjab,2,1,824,618
+ 71 - Government Girls Primary School- Norang Wala,30.2205654,71.4670022,Combined,Punjab,2,1,738,598
+ 43 - Government Girls Middle School Faiz Abad,30.2205654,71.4670322,Female,Punjab,0,2,0,1098
+ 88 - Government High School Chak R.S,30.2205654,71.4670622,Male,Punjab,2,0,1193,0
+ 44 - Government Boys High School- Shujabad,30.2205654,71.4670922,Male,Punjab,4,0,1978,0
+ 89 - Government Girls Middle School- Chak R.S,30.2205654,71.4671222,Female,Punjab,0,2,0,1046
+ 90 - Government High School- Chak R.S,30.2205654,71.4671522,Combined,Punjab,1,1,430,362
+ 45 - Government Boys High School Shujabad,30.2205654,71.4671822,Female,Punjab,0,4,0,1734
+ 46 - Government Office Wapda Shujabad-I Old Building,30.2205654,71.4672122,Male,Punjab,3,0,1323,0
+ 47 - Government Office Wapda Shujabad-II New Building,30.2205654,71.4672422,Female,Punjab,0,2,0,1180
+ 48 - Government Office Municipal Corporation Shujabad,30.2205654,71.4672722,Male,Punjab,2,0,1081,0

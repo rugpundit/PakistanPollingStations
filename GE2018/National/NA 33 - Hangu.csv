@@ -1,0 +1,180 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 161 - Govt: Primary School Adam Banda(C ),33.28815,70.69998,Combined,KPK,3,1,1198,700
+ 160 - Govt:Middle School Mianji Khel(C ),33.31232,70.74561,Combined,KPK,2,1,843,476
+ 180 - Govt: Primary School No.3 Chapri Waziran(C ),33.3134,70.5915,Combined,KPK,3,1,1510,919
+ 158 - Govt:Primary School Qadri Banda No.1 (M ),33.31787,70.74329,Male,KPK,2,0,1322,0
+ 179 - Govt:High School Chapri Waziran (C ),33.32095,70.60539,Combined,KPK,2,1,727,384
+ 129 - Govt:Primary School Matu Khel(C ),33.3228,70.89536,Combined,KPK,1,1,273,227
+ 128 - Govt:High School Dershai (C ),33.3231,70.86834,Combined,KPK,2,2,1249,884
+ 159 - Govt:Primary School Qadri Banda No.2(F ),33.32314,70.73601,Female,KPK,0,2,0,1005
+ 176 - Govt:Primary School Muhammad zai Thall(C ),33.33047,70.5658,Combined,KPK,1,1,384,185
+ 157 - Govt Primary School Sheikh Wali( C),33.33392,70.68047,Combined,KPK,2,1,854,576
+ 156 - Govt:High School Ganderi(C),33.33989,70.68939,Combined,KPK,2,1,781,549
+ 155 - Govt:PrimarySchool Ganderi(C ),33.34391,70.6898,Combined,KPK,2,2,1138,775
+ 125 - Govt:Primary School No.2 Karbogha Sharif (C ),33.35127,70.77306,Combined,KPK,2,1,835,527
+ 124 - Govt. Primary School No.1 Karbogha Sharif (C),33.35152,70.77273,Combined,KPK,3,1,907,628
+ 126 - Govt:High School Karbogha Sharif(PS-1)(M ),33.35282,70.77639,Male,KPK,4,0,2373,0
+ 127 - Govt:High School Karbogha Sharif (PS-2)(F ),33.35282,70.77642,Female,KPK,0,3,0,1407
+ 152 - Govt:Girls Primary School Dallan(F),33.3596,70.64844,Female,KPK,0,2,0,1014
+ 151 - Govt:Primary School No.1 Dallan(M ),33.361,70.64926,Male,KPK,3,0,1433,0
+ 166 - Govt:Girls High School Thall (F),33.36206,70.54984,Female,KPK,0,3,0,1621
+ 169 - Govt:Girls Primary School No.2 Thall(F),33.36269,70.54667,Female,KPK,0,3,0,1593
+ 167 - Govt:Primary School No.2 Thall (M) PS-I,33.36291,70.54668,Male,KPK,2,0,936,0
+ 168 - Govt:Primary School No.2 Thall (M) PS-2,33.36291,70.54671,Male,KPK,2,0,1603,0
+ 154 - Govt: Girls High School Dallan(F),33.363,70.65534,Female,KPK,0,3,0,1698
+ 164 - Govt: Girls Primary School No.1 Thall(M),33.36304,70.55068,Male,KPK,2,0,1045,0
+ 165 - Govt:Primary School No.3 Thall (M),33.36393,70.55116,Male,KPK,2,0,1276,0
+ 153 - Govt:High School Dallan(M),33.36441,70.65089,Male,KPK,4,0,2341,0
+ 162 - Govt:High School Thall(M),33.36513,70.55589,Male,KPK,3,0,1548,0
+ 163 - Govt:Primary School No.1 Thall(F),33.36528,70.55637,Female,KPK,0,2,0,1208
+ 177 - Govt:Primary School Abbasi Banda(C ),33.36533,70.60047,Combined,KPK,2,1,1113,569
+ 174 - Municipal Committee office- Thall(M),33.36744,70.55638,Male,KPK,2,0,959,0
+ 173 - Civil Hospital- Tall (M),33.36749,70.5545,Male,KPK,4,0,2143,0
+ 175 - Govt:Primary School Sra Ghundi Thall(F),33.36929,70.55003,Female,KPK,0,3,0,1855
+ 170 - Govt:Girls Degree College.Thall (M) (PS-1),33.36952,70.54174,Male,KPK,3,0,1473,0
+ 171 - Govt: Girls Degree College Thall(M) (PS-2),33.36952,70.54177,Male,KPK,3,0,1604,0
+ 172 - Govt:Girls Degree College- Thall (PS-3)(F),33.36952,70.5418,Female,KPK,0,3,0,1795
+ 84 - Govt:Primary School Katgar (M ),33.36992,70.97853,Male,KPK,2,0,1004,0
+ 85 - Govt: Girls Primary School Kathgar(F),33.37048,70.97946,Female,KPK,0,2,0,811
+ 123 - Govt: Primary School Shamal din (F),33.37074,70.74556,Female,KPK,0,3,0,2076
+ 120 - Govt:Primary School Sharqi Karbogha Sharif(C ),33.37129,70.75758,Combined,KPK,2,2,1270,963
+ 121 - Govt: Middle School Shamal din (M)(PS-1),33.37221,70.73706,Male,KPK,4,0,1938,0
+ 122 - Govt: Middle School Shamal Din(M) (PS-2),33.37221,70.73709,Male,KPK,2,0,1145,0
+ 83 - Govt:Middle School Anar China (C ),33.37678,71.00883,Combined,KPK,3,1,827,729
+ 91 - Govt:Girls Primary School Khattak Banda (C ),33.38095,70.94207,Combined,KPK,3,1,784,635
+ 119 - Govt:Primary School Sra Ghundi(C ),33.38155,70.74694,Combined,KPK,2,2,1185,805
+ 90 - Govt:Primary School No.1 Khattak Banda(C ),33.38245,70.93956,Combined,KPK,1,1,489,419
+ 92 - Govt:Primary School Tari Banda(C ),33.39873,70.88754,Combined,KPK,3,1,946,708
+ 139 - Govt: Primary School No.1 Saro Khel(F),33.40688,70.63741,Female,KPK,0,2,0,1499
+ 178 - Govt:Primary School Tooth Kus(C ),33.40851,70.49165,Combined,KPK,1,1,701,279
+ 141 - Govt:Girls Primary School Saro Khel (C ),33.40889,70.63715,Combined,KPK,1,1,657,419
+ 138 - Govt: Middle School Saro Khel (M ),33.40891,70.63288,Male,KPK,4,0,2344,0
+ 148 - Union Council Office Darsamand (M),33.41516,70.65542,Male,KPK,2,0,1230,0
+ 109 - Govt. Primary School Poongi Banda (C),33.4165,70.83799,Combined,KPK,3,1,834,662
+ 147 - Govt:Primary School No.2 Azim Abad Dersamand (C ),33.41701,70.64863,Combined,KPK,2,1,844,601
+ 82 - Govt:Middle School Togh Chapri(C ),33.41822,71.07868,Combined,KPK,1,1,422,323
+ 150 - Govt. Primary School Jawar Ghundi(C ),33.41894,70.71373,Combined,KPK,3,1,1190,751
+ 149 - Govt: Primary School No.3 Darsamand(F),33.42069,70.66032,Female,KPK,0,2,0,823
+ 101 - Govt:Higher Secondary School- Doaba(M) PS-I,33.42271,70.72678,Male,KPK,3,0,1249,0
+ 102 - Govt:Higher Secondary School- Doaba(F) PS-II,33.42271,70.72681,Female,KPK,0,2,0,888
+ 103 - Govt. Girls Primary School Doaba (M) PS-I,33.42373,70.73697,Male,KPK,3,0,1422,0
+ 104 - Govt. Girls Primary School Doaba (M) PS-II,33.42373,70.737,Male,KPK,2,0,1340,0
+ 106 - Govt:High School Sarozai (C ),33.42407,70.78153,Combined,KPK,2,2,1011,689
+ 108 - Govt:Girls Middle School Sarozai (F),33.4263,70.78543,Female,KPK,0,3,0,1784
+ 107 - Govt: Primary School No.2 Sarozai (M ),33.4265,70.78404,Male,KPK,4,0,2489,0
+ 146 - Govt: High School Darsamand (C),33.43081,70.65818,Combined,KPK,2,1,793,498
+ 105 - Govt:Primary School Sharqi Doaba(F),33.4321,70.75637,Female,KPK,0,4,0,1996
+ 87 - Govt.Girls Middle School Muhammad Khawaja (M),33.43624,70.91476,Male,KPK,3,0,1528,0
+ 142 - Govt. Primary School Regi Mada Khel (C),33.43709,70.65397,Combined,KPK,2,2,1143,815
+ 100 - Govt: High School Azimi Banda Kahi(C ),33.43728,70.82962,Combined,KPK,2,2,1297,974
+ 143 - Govt: Girls Middle School Darsamand(M),33.43748,70.6641,Male,KPK,3,0,1392,0
+ 144 - Govt: Primary School No.1 (pathan Khel) (F),33.43785,70.66291,Female,KPK,0,2,0,960
+ 88 - Govt:Primary School No.1 Muhammad Khawaja (F ),33.43845,70.91086,Female,KPK,0,2,0,1205
+ 145 - Govt:Primary School Bazar Khel Dersamand (C ),33.43998,70.65905,Combined,KPK,3,1,1161,739
+ 89 - Govt:Girls Primary School(community) Muhammad Khawaja(C ),33.44231,70.91017,Combined,KPK,2,2,1300,1075
+ 79 - Govt:Primary School Togh Sarai No.1 (C ),33.44344,70.97697,Combined,KPK,2,2,1840,1471
+ 53 - Govt:Primary Schol Sarki Piala No.1(C ),33.44447,71.06438,Combined,KPK,2,1,861,657
+ 118 - Govt:Primary School Maroofi Banda(C ),33.44457,70.77044,Combined,KPK,2,2,1328,1029
+ 54 - Govt:Girls Middle School Chamba Gul (C ),33.44517,71.08447,Combined,KPK,2,1,777,584
+ 80 - Govt:Girls High School Togh Sarai (C ),33.44614,70.97514,Combined,KPK,2,2,1094,955
+ 55 - Govt:Primary School No.3 Chamba Gul (C ),33.44785,71.08598,Combined,KPK,2,1,949,654
+ 81 - Govt:High School Toghsarai (C ),33.4512,70.97034,Combined,KPK,2,2,1333,1104
+ 135 - Govt: Middle School Wazir Abad(C ),33.45554,70.72581,Combined,KPK,2,2,1273,830
+ 86 - Govt:High School Muhammad Khawaja (C ),33.45959,70.92943,Combined,KPK,2,2,1628,1197
+ 72 - Govt: Primary School Barh Abbas Khel (C),33.46049,70.99361,Combined,KPK,2,2,1087,747
+ 117 - Govt:Primary School Sangirh Naryab.(c),33.46956,70.77143,Combined,KPK,2,2,1237,922
+ 50 - Govt. Primary School Kotki Bala (M),33.47236,71.01428,Male,KPK,3,0,1554,0
+ 51 - Govt. Girls Primary School Kotki Bala (F),33.47236,71.01431,Female,KPK,0,2,0,1213
+ 99 - Animal Husbendary Dispensary Kahi (C),33.47316,70.87062,Combined,KPK,2,2,1239,842
+ 95 - Govt:High School Kahi(C),33.47436,70.8643,Combined,KPK,2,2,1354,859
+ 78 - Govt:Middle School Alwara Mela Balyamina(C ),33.47589,70.91047,Combined,KPK,2,1,869,615
+ 134 - Govt. Girls Primary School Sial Talab (C),33.47722,70.70917,Combined,KPK,2,1,624,465
+ 133 - Govt. Primary School Sial Talab (C),33.47745,70.70758,Combined,KPK,2,1,786,575
+ 137 - Govt:Primary School Mianzaki Torawarai(C ),33.47746,70.73611,Combined,KPK,2,1,807,547
+ 94 - Govt. Girls Primary School No.1 Kahi (F),33.47791,70.86211,Female,KPK,0,2,0,1092
+ 70 - Govt:Primary School Tora Wati (C ),33.4783,70.96361,Combined,KPK,2,1,693,415
+ 52 - Govt:Primary School Kotki Payan No.1 (C),33.47833,71.01794,Combined,KPK,2,1,780,631
+ 93 - Basic Health Unit- Kahi(M ),33.47901,70.85996,Male,KPK,3,0,1719,0
+ 116 - Union Council Office- Naryab(F),33.47996,70.78016,Female,KPK,0,3,0,1723
+ 114 - Govt:Girls Primary School Naryab(C ),33.48011,70.77984,Combined,KPK,2,2,951,701
+ 62 - Govt:Primary School Chapper Hangu(C ),33.48017,71.12785,Combined,KPK,1,1,354,268
+ 136 - Govt:Primary School Tora Ghundi (C ),33.481,70.71724,Combined,KPK,2,2,1012,769
+ 132 - Govt: Girls Primary School Torawarai (F ),33.48267,70.70516,Female,KPK,0,3,0,2607
+ 71 - Govt:Primary School Ashgharo Banda ( C),33.48481,70.98243,Combined,KPK,2,1,805,560
+ 130 - Govt:Primary School Torawarai No.1 (PS-1)( M),33.48539,70.70264,Male,KPK,2,0,1419,0
+ 131 - Govt:Primary School Torawarai No.1 (PS-2)(M ),33.48539,70.70267,Male,KPK,3,0,2145,0
+ 115 - Govt:Primary School Naryab  (M ),33.48552,70.7819,Male,KPK,4,0,2248,0
+ 74 - Govt:Primary School Tavizi Banda(C ),33.48568,70.93221,Combined,KPK,2,1,675,503
+ 97 - Govt:Primary School No.1 Daroorhi Kahi (M ),33.49416,70.81953,Male,KPK,3,0,1707,0
+ 57 - Govt:Girls High School Bagato(C ),33.49583,71.04658,Combined,KPK,2,1,705,518
+ 49 - Govt:Primary School Mulaabad (C ),33.4962,71.01965,Combined,KPK,2,2,1034,766
+ 56 - Govt:High School Bagato(C ),33.49652,71.04574,Combined,KPK,2,2,1139,809
+ 98 - Govt: Girls Primary School Daroorhi Kahi (F),33.49897,70.82746,Female,KPK,0,2,0,1220
+ 75 - Govt. High School Bilyamina (M ),33.50071,70.92458,Male,KPK,4,0,2195,0
+ 76 - Govt. Primary School Bilyamina (F),33.50588,70.91033,Female,KPK,0,3,0,1686
+ 58 - Govt:Middle School Warasta (C ),33.50706,71.02644,Combined,KPK,2,2,1098,902
+ 21 - Govt:Primary School No.1 Spin Khawrai(C ),33.51007,71.05943,Combined,KPK,2,1,760,497
+ 63 - Govt: Girls Primary School Gharibo Kalay(C ),33.51104,70.99976,Combined,KPK,2,2,1162,935
+ 59 - Govt:High School Shanawari Hangu(C ),33.51184,71.01064,Combined,KPK,2,2,1306,1000
+ 111 - Govt:Primary School Aziz abad- Naryab (C ),33.51202,70.81335,Combined,KPK,2,1,902,604
+ 64 - Govt:Middle School Darband(C ),33.51447,70.99788,Combined,KPK,2,2,1429,1087
+ 47 - Govt:Degree College for Boys- Hangu(M) PS-I,33.51643,71.04694,Male,KPK,4,0,1765,0
+ 48 - Govt:Degree College for Boys- Hangu(F ) PS-II,33.51643,71.04697,Female,KPK,0,2,0,1212
+ 22 - Govt:Primary School No.2 Naway Kalay(C ),33.5167,71.06575,Combined,KPK,2,2,1124,743
+ 96 - Govt:High School Khazina Kahi(C ),33.51704,70.86803,Combined,KPK,3,1,1027,685
+ 110 - Govt:Middle School Chapri Naryab(C ),33.51801,70.7805,Combined,KPK,2,2,1351,990
+ 73 - Govt:Primary School Patdarband Balyamina(C ),33.51971,70.94128,Combined,KPK,1,1,446,344
+ 112 - Govt:Primary School No.1 Zargeri C ),33.52063,70.80711,Combined,KPK,2,1,909,551
+ 77 - Govt:Primary School Tangi Miagan No.1 (C ),33.52079,70.88141,Combined,KPK,1,1,458,282
+ 61 - Govt:Primary School No. 1 Lakhti Banda(C ),33.52192,71.07725,Combined,KPK,2,1,697,534
+ 113 - Govt:High School Shanawari Naryab(C ),33.52193,70.79897,Combined,KPK,2,2,976,750
+ 35 - Govt:Girls Middle School Aliabad(M),33.52374,71.06201,Male,KPK,3,0,1635,0
+ 39 - Govt:Primary School No.4 Hangu(M),33.52459,71.05832,Male,KPK,3,0,1336,0
+ 43 - Govt:Middle School Warasta Road Hangu(M),33.52467,71.05064,Male,KPK,3,0,1603,0
+ 45 - Govt:Primary School No.3 Warasta Road Hangu(M),33.5248,71.05094,Male,KPK,2,0,1170,0
+ 44 - Govt:Girls Primary School Warasta Road-Hangu(F),33.52485,71.0517,Female,KPK,0,2,0,1159
+ 46 - Govt:Girls High School Warasta Road- Hangu(F),33.52496,71.05156,Female,KPK,0,2,0,729
+ 40 - Govt:Girls Primary School Sanghir Hangu(F),33.52511,71.0591,Female,KPK,0,2,0,984
+ 60 - Govt:Primary School Haji Khel(C ),33.52733,71.08011,Combined,KPK,2,1,628,575
+ 36 - Govt:Girls Primary School Ganjano Killi(F),33.529,71.06045,Female,KPK,0,2,0,1425
+ 41 - Govt:High School No.2 Hangu (M) PS-1,33.52942,71.05827,Male,KPK,3,0,1493,0
+ 42 - Govt:High School No.2 Hangu (F) PS-2,33.52942,71.0583,Female,KPK,0,2,0,1174
+ 26 - Govt. Girls Primary School Shahoo Road (M),33.53077,71.05815,Male,KPK,2,0,749,0
+ 37 - Animal Husbendary Hospital Hangu(M) PS-1,33.53135,71.06105,Male,KPK,2,0,758,0
+ 38 - Animal Husbendary Hospital Hangu(F) PS-2,33.53135,71.06108,Female,KPK,0,2,0,682
+ 27 - Govt: Girls High School Pass Kalay- Hangu(F),33.53209,71.05864,Female,KPK,0,3,0,1717
+ 19 - Govt:Primary School Zanki Banda (C ),33.53265,71.10407,Combined,KPK,2,1,764,531
+ 20 - Govt:Primary School Mardu Khel (C ),33.53434,71.08103,Combined,KPK,2,1,901,652
+ 25 - Govt:Primary School Pass Killi Hangu (M),33.53475,71.05744,Male,KPK,2,0,1281,0
+ 29 - Govt. Girls High School No.2 (F),33.53565,71.0591,Female,KPK,0,2,0,1110
+ 33 - Hangu Public School (M) PS-1,33.53656,71.06711,Male,KPK,3,0,1551,0
+ 34 - Hangu Public School (F) PS-2,33.53656,71.06714,Female,KPK,0,2,0,1340
+ 28 - Govt: Primary School No.1 Hangu(M),33.53667,71.06009,Male,KPK,3,0,1330,0
+ 18 - Govt:Primary School Kharsha Banda(C ),33.53786,71.08282,Combined,KPK,1,1,511,417
+ 30 - Govt:Centinal Modle High School Hangu (M) PS-1,33.53806,71.05831,Male,KPK,2,0,910,0
+ 31 - Govt: Centinal Model High School- Hangu(M)(PS-2),33.53806,71.05834,Male,KPK,2,0,891,0
+ 32 - Govt:Centinal Modle High School Hangu (F) PS-3,33.53806,71.05837,Female,KPK,0,3,0,1357
+ 17 - Govt:Middle School Merobak(C ),33.54356,71.09955,Combined,KPK,2,1,834,607
+ 67 - Govt:Girls Primary School Sirmalo Kandau(C ),33.547,70.82317,Combined,KPK,1,1,332,226
+ 14 - Govt:Girls Middle School Baber Mella(C),33.5475,71.12344,Combined,KPK,2,2,858,695
+ 11 - Govt:Primary School No.3 Ibrahimzai(C),33.54857,71.15122,Combined,KPK,2,2,1126,956
+ 65 - Govt: Primary School Inzar Patay (C ),33.55038,70.94736,Combined,KPK,2,1,873,524
+ 68 - Govt:Primary School Shamshadin Killi(C ),33.55099,70.80585,Combined,KPK,1,1,468,381
+ 23 - Govt:Primary School Babu Tang (C ),33.55135,71.0425,Combined,KPK,2,2,909,644
+ 16 - Govt:Primary School Sheikhan Banda(C ),33.55256,71.10313,Combined,KPK,2,2,1299,898
+ 10 - Govt:Girls Primary School Pass Killi Ibrahimzai(C ),33.5541,71.14652,Combined,KPK,2,1,703,594
+ 13 - Govt:Girls High School Ibrahimzai(C ),33.55642,71.15162,Combined,KPK,2,1,576,501
+ 12 - Basic Health Unit Ibrahimzai(C ),33.55647,71.15456,Combined,KPK,2,2,852,692
+ 15 - Govt: Primary School Shinkoo Banda (C ),33.55671,71.09145,Combined,KPK,2,2,1007,840
+ 66 - Govt:Middle School Samana(C ),33.55854,70.92144,Combined,KPK,1,1,553,329
+ 69 - Govt:Primary School No.2 Ghallo Cheena(C ),33.56039,70.78946,Combined,KPK,2,1,808,581
+ 24 - Govt:Middle School Wach Bazar(C ),33.567,71.06989,Combined,KPK,2,2,1312,1055
+ 1 - Govt. Primary School Raisan (M),33.57264,71.19185,Male,KPK,2,0,1190,0
+ 2 - Govt:Girls Primary School Raisan(F ),33.57279,71.18833,Female,KPK,0,2,0,936
+ 8 - Govt:Primary School Shahu Wam (C),33.57445,71.10491,Combined,KPK,2,2,1316,1076
+ 3 - Govt: Girls Primary School Nai abadi Raisan (C ),33.57475,71.16859,Combined,KPK,2,2,703,646
+ 4 - Govt: Middle School Jozara(C ),33.58502,71.21634,Combined,KPK,2,1,682,632
+ 5 - Govt: High School Lodhi Khel (M),33.58594,71.18348,Male,KPK,4,0,2148,0
+ 9 - Govt:High School Shahu Khel (C ),33.58709,71.12459,Combined,KPK,2,1,1027,690
+ 7 - Govt:Primary School Shahu Bazar (C ),33.58745,71.13982,Combined,KPK,2,1,605,431
+ 6 - Govt:Girls Middle School Lodhi Khel (F),33.59003,71.16896,Female,KPK,0,3,0,1797

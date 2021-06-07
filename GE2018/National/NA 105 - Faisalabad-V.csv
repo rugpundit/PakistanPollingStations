@@ -1,0 +1,73 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 204 - Govt.Girls Primary School- Chak No.129/GB- Faisalabad (Combined),31.18977,73.09595,Combined,Punjab,2,2,1009,724
+ 198 - Govt.Boys Primary School- Chak No.86/GB- Faisalabad (Combined),31.24039,73.07391,Combined,Punjab,2,1,708,534
+ 189 - Govt.Boys Primary School-Chak No.84/GB- Faisalabad (Male) Fouj Pur,31.24467,73.11339,Male,Punjab,2,0,1054,0
+ 190 - Govt.Boys Primary School-Chak No.84/GB- Faisalabad (Female) Fouj pur,31.24467,73.11342,Female,Punjab,0,2,0,848
+ 186 - Govt.Girls Elementary School- Chak No.82/GB- Faisalabad(Male) kot garaya,31.26262,73.14363,Male,Punjab,3,0,1378,0
+ 187 - Govt.Girls Primary School- Chak No.82/GB- Faisalabad (Female) kot  garaya,31.26262,73.14366,Female,Punjab,0,2,0,1017
+ 196 - Govt.Boys Primary School-Chak No.85/GB- Faisalabad(Male),31.26612,72.8948,Male,Punjab,3,0,1454,0
+ 195 - Govt.Girls Middle School- Chak No.83/GB- Thundi Faisalabad (Female),31.26671,73.07182,Female,Punjab,0,2,0,760
+ 197 - Govt.Girls High School-Chak No.85/GB- Faisalabad (Female),31.26822,73.0947,Female,Punjab,0,2,0,1044
+ 247 - Govt.Girls Middle School- Chak No.79/GB- Janubi Faisalabad (Combined),31.28147,73.15221,Combined,Punjab,2,1,693,588
+ 258 - Civil Dispensary-Chak No.76/GB- Faisalabad (Male),31.28722,73.16552,Male,Punjab,3,0,1377,0
+ 259 - Civil Dispensary- Chak No.76/GB- Faisalabad (Female),31.28722,73.16555,Female,Punjab,0,2,0,1187
+ 188 - Govt.Girls Middle School- Chak No.81/GB- Faisalabad (Combined),31.29406,73.09863,Combined,Punjab,2,1,705,622
+ 271 - Govt.Boys Elementary School- Chak No.244/RB- Faisalabad (Combined),31.29829,73.10054,Combined,Punjab,2,1,779,737
+ 272 - Govt.Boys Elementary School- Chak No. 244/RB- Faisalabad (Combined),31.29829,73.10057,Combined,Punjab,2,1,677,673
+ 273 - Govt.Elementary School- Chak No.244/RB- Faisalabad (Combined),31.29829,73.1006,Combined,Punjab,1,1,511,536
+ 248 - Govt.Boys Elementary School- Chak No.78/GB- Faisalabad (Combined),31.3026,73.13089,Combined,Punjab,1,1,620,546
+ 256 - Govt.Boys Primary School- Chak No.75/GB- Faisalabad (Combined),31.30505,73.1675,Combined,Punjab,1,1,636,439
+ 249 - Govt.Girls High School- Chak No.78/GB- Faisalabad (Combined),31.31609,73.14955,Combined,Punjab,1,1,613,524
+ 275 - Govt.Girls Community Model Primary School- Chak No.236/RB Kajlay -Faisalabad (Combined),31.31668,73.11314,Combined,Punjab,1,1,603,534
+ 276 - Govt.Girls Community Model Primary School- Chak No.236/RB- Kajlay Faisalabad (Combined),31.31668,73.11317,Combined,Punjab,2,1,675,621
+ 257 - Govt.Girls Primary School- Chak No.75/GB- Faisalabad (Combined),31.31738,73.16712,Combined,Punjab,2,1,698,542
+ 254 - Govt.Boys Primary School- Chak No.237/RB- Lakkan Faisalabad (Combined),31.31912,73.13573,Combined,Punjab,2,1,748,665
+ 260 - Basic Health unit- Chak No. 239/RB Kharlan (Male),31.32294,73.16255,Male,Punjab,2,0,1002,0
+ 255 - Govt.Girls Elementary School- Chak No.237/RB- Warraichan Faisalabad (Combined),31.32295,73.13791,Combined,Punjab,2,1,811,660
+ 261 - Govt.Girls Community Model Elementary School- Chak No.239/RB- Kharlan Faisalabad (Female),31.32323,73.1619,Female,Punjab,0,2,0,818
+ 327 - Government Boys Primary School Chak No.111/GB (Combined)( P ),31.32777,73.24973,Combined,Punjab,2,2,783,624
+ 274 - Govt.Boys Primary School- Chak No.236/RB- Jappay Faisalabad (Combined),31.33192,73.10409,Combined,Punjab,2,1,874,739
+ 335 - Government Girls Primary School Chak No.112/GB (Male)   ( P ),31.33378,73.24746,Male,Punjab,3,0,1266,0
+ 267 - Govt. Boys Primary School- Chak No.228/RB-I- Faisalabad (Baraan ) (Combined),31.33388,73.17276,Combined,Punjab,2,1,781,537
+ 270 - Govt. Boys Primary School- Chak No.240/RB- Bakhukev Chaddar- Faisalabad (Combined),31.34138,73.18538,Combined,Punjab,1,1,670,543
+ 175 - Kasib Public High School- Yasir Town Chak No. 296 RB (Male) (T),31.34226,73.05625,Male,Punjab,3,0,1291,0
+ 176 - Kasib Public High School- Yasir Town Chak NO. 296 RB (Female) (T),31.34226,73.05628,Female,Punjab,0,2,0,949
+ 169 - Govt.Girls High School- Chak No.233/RB Tikkay Wala-Faisalabad (Male),31.34247,73.01485,Male,Punjab,2,0,949,0
+ 170 - Govt.Girls High School- Chak No.233/RB Tikkay Wala-Faisalabad (Female),31.34247,73.01488,Female,Punjab,0,2,0,816
+ 173 - Govt.Boys Primary School- Chak No.296 Wakeel wala RB-Faisalabad (Male),31.34247,73.01486,Male,Punjab,2,0,1027,0
+ 174 - Govt.Girls Primary School- -Wakeel wala Faisalabad(Female),31.34247,73.01489,Female,Punjab,0,2,0,830
+ 336 - Basic Health Unit-Chak No.112/GB (Female)   ( P ),31.34329,73.24845,Female,Punjab,0,2,0,1054
+ 269 - Govt. Girls Primary School- Chak No.240/RB- Khaiawala- Faisalabad  (Combined),31.34339,73.20148,Combined,Punjab,1,1,621,582
+ 172 - Govt.Girls Primary School- Chak No.289/RB- Faisalabad (Female),31.34656,72.99984,Female,Punjab,0,3,0,1293
+ 171 - Govt.Boys Middle School- Chak No.289/RB- Faisalabad (Male),31.34716,72.99918,Male,Punjab,4,0,1617,0
+ 328 - Government Boys High School Chak No.113/GB (West) (Male)( P ),31.34838,73.23145,Male,Punjab,2,0,1096,0
+ 329 - Government Girls Elementary School Chak No.113/GB West (Female)  ( P ),31.34842,73.23156,Female,Punjab,0,2,0,922
+ 330 - Government Girls Elementary School Chak No.113/GB (East) (Combined)   ( P ),31.34842,73.23159,Combined,Punjab,2,2,800,647
+ 168 - Govt.Boys Primary School- Chak No.233/RB Hari singh Wala- (Combined),31.34958,73.05481,Combined,Punjab,2,1,686,555
+ 268 - Govt. Girls Elementary School- Chak  No.240/RB-Faisalabad (Combined),31.35512,73.21363,Combined,Punjab,1,1,738,638
+ 241 - Govt. Girls Elementary School- chak No.238/RB- Faisalabad (Female),31.35794,73.15571,Female,Punjab,0,2,0,1051
+ 239 - Govt. Boys Elementary School- Chak No.238/RB- Faisalabad (Combined),31.35818,73.15884,Combined,Punjab,1,1,600,489
+ 240 - Govt. Boys Elementary School-Chak  No.238/RB- Faisalabad (Male),31.35818,73.15887,Male,Punjab,2,0,1228,0
+ 185 - Govt.Girls Middle School- Chak No.232/RB Rasalay Wali- Faisalabad(Combined),31.36699,73.02455,Combined,Punjab,1,1,427,325
+ 178 - Govt.Boys Primary School-Chak No.232/RB- Faisalabad(Male),31.3721,73.0267,Male,Punjab,2,0,1012,0
+ 179 - Govt.Boys Primary School- Chak No.232/RB- Faisalabad(Female),31.3721,73.02673,Female,Punjab,0,2,0,835
+ 242 - Govt. Boys Middle School- Chak No.227/RB Chadar- Faisalabad  (Combined),31.37613,73.16326,Combined,Punjab,1,1,584,450
+ 333 - Government Girls High School Chak No.109/GB   (Female)   ( P ),31.38225,73.21516,Female,Punjab,0,3,0,1132
+ 334 - Government Girls High School Chak No.109/GB   (Combined),31.38225,73.21519,Combined,Punjab,2,2,684,592
+ 226 - Govt.Girls High School- Chak No. 215/RB Nethri (Male) (T),31.38606,73.14293,Male,Punjab,3,0,1335,0
+ 227 - Govt.Girls High School- Chak No. 215/RB Nethri (Female),31.38606,73.14296,Female,Punjab,0,2,0,1085
+ 228 - Govt.Boys P/S Chak No.215/RB- Faisalabad.(Male),31.38633,73.14191,Male,Punjab,2,0,830,0
+ 229 - Govt.Boys P/S Chak No.215/RB- Faisalabad.(Female),31.38633,73.14194,Female,Punjab,0,2,0,711
+ 243 - Govt. Boys Primary School- Chak No.227/RB Karar Wala - Faisalabad (Male),31.39618,73.16908,Male,Punjab,2,0,1143,0
+ 244 - Govt. Boys Primary School- Chak No.227/RB Karar Wala - Faisalabad (Female),31.39618,73.16911,Female,Punjab,0,2,0,932
+ 224 - Abbass Public School- Chak No. 215/RB (Male) (T),31.3977,73.1496,Male,Punjab,3,0,1439,0
+ 225 - Abbass Public School- Chak No. 215/RB (Female) (T),31.3977,73.14963,Female,Punjab,0,2,0,1079
+ 234 - Govt. Girls High School- Chak No.209/RB-  Faisalabad (Combined),31.41334,73.17631,Combined,Punjab,2,1,745,529
+ 235 - Govt. Girls High School- Chak No.209/RB- Faisalabad (Male),31.41334,73.17634,Male,Punjab,2,0,1032,0
+ 236 - Govt. Girls High School- Chak No.209/RB-  Faisalabad (Female),31.41334,73.17637,Female,Punjab,0,2,0,891
+ 237 - Govt. Girls High School- Chak No.209/RB-  Faisalabad (Combined),31.41334,73.1764,Combined,Punjab,2,1,720,644
+ 238 - Govt. Girls High School- Chak No.209/RB-  Faisalabad (Combined),31.41334,73.17643,Combined,Punjab,1,1,682,572
+ 230 - Govt. Boys High School- Chak No.209/RB-  Faisalabad (Male),31.41485,73.17398,Male,Punjab,2,0,1187,0
+ 231 - Govt. Boys High School- Chak No.209/RB-  Faisalabad (female),31.41485,73.17401,Female,Punjab,0,2,0,966
+ 232 - Govt. Boys High School- Chak No.209/RB-  Faisalabad (Male),31.41485,73.17404,Male,Punjab,2,0,1137,0
+ 233 - Govt. Boys High School- Chak No.209/RB- Faisalabad (Female),31.41485,73.17407,Female,Punjab,0,2,0,928

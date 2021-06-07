@@ -1,0 +1,231 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 150 - Govt: Primary/Middle School Koo Malam Jabba (Combined),34.8099,72.56672,Combined,KPK,2,1,859,650
+ 119 - Govt: Primary School Kot Charbagh (Male),34.81688,72.42668,Male,KPK,3,0,1819,0
+ 120 - Govt: Girls Primary School Kot Charbagh (Female),34.8172,72.42699,Female,KPK,0,2,0,1398
+ 139 - Govt: High School Sair (Male),34.82291,72.50897,Male,KPK,3,0,2072,0
+ 142 - Govt: Girls Middle School Taligram (Female),34.8232,72.49397,Female,KPK,0,2,0,1440
+ 141 - Govt: Girls Primary School Taligram (Male),34.82606,72.49556,Male,KPK,3,0,1884,0
+ 140 - Govt: Primary School No.2 Sair (Female),34.82803,72.52397,Female,KPK,0,2,0,1546
+ 122 - Govt: Primary School No.1 Charbagh (Male),34.83147,72.44064,Male,KPK,2,0,1321,0
+ 113 - Govt: Higher Secondary School Charbagh Right Side (Male),34.83178,72.44094,Male,KPK,3,0,1895,0
+ 115 - Govt: Higher Secondary School Charbagh Left Side (Male),34.83178,72.44097,Male,KPK,2,0,1344,0
+ 118 - Govt: Girls Primary School No.2 Charbagh (Female),34.83395,72.43553,Female,KPK,0,2,0,1761
+ 114 - Govt: Girls Higher Secondary School Charbagh Secondary Section (Female),34.83401,72.43562,Female,KPK,0,2,0,1546
+ 116 - Govt: Girls Higher Secondary School Charbagh Higher Section (Female),34.83401,72.43565,Female,KPK,0,2,0,1094
+ 121 - Govt: Darul Uloom Islamia Charbagh  (Combined),34.83425,72.44195,Combined,KPK,2,1,1049,874
+ 123 - Govt: Middle School Charbagh (Female),34.83432,72.44204,Female,KPK,0,2,0,1039
+ 117 - Govt: Primary School No.2 Charbagh (Male),34.83515,72.44373,Male,KPK,3,0,2229,0
+ 148 - Govt: Girls Primary School Speni Oba  (Combined),34.8372,72.57075,Combined,KPK,2,1,928,696
+ 147 - Govt: Higher Secondary School Kishawra  (Combined),34.84439,72.54707,Combined,KPK,2,1,1085,777
+ 135 - Govt: Girls Middle Primary School Alabad (Female),34.84756,72.44729,Female,KPK,0,2,0,1630
+ 124 - Govt: Primary School Mangwaltan  (Combined),34.84939,72.48346,Combined,KPK,1,1,767,613
+ 134 - Govt: Primary School Alabad  (Male),34.85031,72.44413,Male,KPK,3,0,2233,0
+ 126 - Govt: Girls Primary School Zangay (Combined),34.85229,72.49167,Combined,KPK,1,1,601,484
+ 136 - Govt: Girls Primary School Tetai Wala  (Combined),34.85507,72.46169,Combined,KPK,1,1,689,522
+ 144 - Govt: Primary School No.1 Toha  (Combined),34.85512,72.52422,Combined,KPK,1,1,591,489
+ 146 - Govt: Girls Primary School Shaltaloo  (Combined),34.86061,72.55627,Combined,KPK,1,1,858,673
+ 125 - Govt: Primary School Ashar Banr  (Combined),34.86102,72.49245,Combined,KPK,2,1,845,666
+ 143 - Govt: High School Toha (Combined),34.8634,72.52293,Combined,KPK,1,1,718,604
+ 133 - Govt: Primary School Dakorak  (Combined),34.86425,72.43804,Combined,KPK,2,1,870,637
+ 132 - Govt: Middle School Dakorak  (Combined),34.86435,72.43864,Combined,KPK,2,1,925,702
+ 138 - Govt: Girls Primary School Rorya (Female),34.87234,72.47552,Female,KPK,0,2,0,985
+ 137 - Govt: Primary School Rorya (Male),34.87365,72.47549,Male,KPK,2,0,1281,0
+ 129 - Govt: High School Gulibagh (Male),34.8757,72.43764,Male,KPK,2,0,1656,0
+ 131 - Govt: Primary School Gulibagh  (Combined),34.87587,72.43783,Combined,KPK,1,1,552,410
+ 130 - Govt: Girls Primary School Gulibagh (Female),34.87635,72.43814,Female,KPK,0,2,0,1237
+ 153 - Govt: Primary School Mangar Kot  (Combined),34.87691,72.57172,Combined,KPK,2,1,884,752
+ 151 - Govt: Middle School Ganajir  (Combined),34.88134,72.54981,Combined,KPK,2,1,1140,944
+ 152 - Govt: Primary School  Serai  (Combined),34.88412,72.57666,Combined,KPK,1,1,566,507
+ 183 - Govt: Primary School Ordam  (Combined),34.89668,72.57287,Combined,KPK,2,1,926,730
+ 182 - Govt: Girls High School Chamtalai (Female),34.90044,72.57096,Female,KPK,0,2,0,1026
+ 127 - Govt: Middle School Alamganj (Male),34.90394,72.44831,Male,KPK,4,0,2346,0
+ 128 - Govt: Primary School Alamganj (Female),34.90394,72.44834,Female,KPK,0,3,0,1812
+ 178 - Govt: Girls Primary School Baboo (Female),34.9045,72.51955,Female,KPK,0,2,0,1086
+ 179 - Govt: Primary School Dandy (Male),34.90499,72.51714,Male,KPK,2,0,1440,0
+ 184 - Govt: High School Topsin  (Combined),34.91008,72.53436,Combined,KPK,2,1,856,664
+ 162 - Govt: Girls Primary School Gashkor (Combined),34.91375,72.45158,Combined,KPK,2,2,1282,1002
+ 217 - Govt: High School Tarogay (Combined),34.91985,72.56353,Combined,KPK,2,2,1118,984
+ 181 - Govt: Higher Secondary School Chamtalai (Male),34.92177,72.52533,Male,KPK,2,0,1288,0
+ 161 - Govt: Girls Primary School Bandai Khwazakhela (Female),34.92546,72.4627,Female,KPK,0,2,0,1643
+ 160 - Govt: Primary School Bandai Khwazakhela (Male),34.92553,72.46273,Male,KPK,3,0,2056,0
+ 216 - Govt: Girls Primary School Jeshar Semi Improvised (Female),34.92599,72.54836,Female,KPK,0,2,0,798
+ 180 - Govt: Girls Primary School Dandy Improvised (Female),34.92616,72.51205,Female,KPK,0,2,0,1153
+ 177 - Govt: Primary School Baboo (Male),34.92777,72.50357,Male,KPK,2,0,1372,0
+ 176 - Govt. Primary School Mashkomai (Female),34.92826,72.50364,Female,KPK,0,2,0,1015
+ 155 - Govt: Girls Primary School  Bhatai- Khwaza khela (Female),34.92933,72.464,Female,KPK,0,2,0,1790
+ 156 - Govt: High School Bhatai Khwazakhela  (Male),34.92992,72.46547,Male,KPK,2,0,1247,0
+ 175 - Govt: Girls Primary School Mashkomai  (Male),34.93061,72.52961,Male,KPK,2,0,1165,0
+ 174 - Govt: Primary School Shaloon (Combined),34.93566,72.54641,Combined,KPK,2,1,893,677
+ 154 - Govt: Primary School Khwazakhela (Male),34.93645,72.47459,Male,KPK,4,0,2256,0
+ 157 - Govt: Primary School  Kuz Kelay Khwazakhela Left Side (Female),34.93749,72.46522,Female,KPK,0,2,0,1000
+ 159 - Govt: Primary School  Kuz Kalay Khwazakhela Right Side (Female),34.93749,72.46525,Female,KPK,0,2,0,1393
+ 163 - Govt: Primary School Landay Kass Khwazakhela (Male),34.93781,72.47873,Male,KPK,3,0,2524,0
+ 168 - Govt: Girls High School Langar (Male),34.93912,72.47858,Male,KPK,3,0,2034,0
+ 169 - Govt: Girls Primary School Langar (Female),34.93919,72.47839,Female,KPK,0,2,0,1636
+ 171 - Govt: Girls Middle School Janoo (Female),34.94058,72.48587,Female,KPK,0,2,0,1619
+ 170 - Govt: High School Janoo (Male),34.94093,72.48656,Male,KPK,3,0,1930,0
+ 158 - Govt: Higher Secondary School Khwazakhela (Male),34.94111,72.46967,Male,KPK,2,0,1750,0
+ 164 - Govt: Girls Primary School Khwazakhela (Female),34.94153,72.46857,Female,KPK,0,2,0,1893
+ 165 - Govt: Primary School Tekdarai (Male),34.94522,72.46682,Male,KPK,2,0,1671,0
+ 212 - Govt: High School Shalpin (Male),34.94594,72.52152,Male,KPK,3,0,2011,0
+ 211 - Govt: Primary School Borray   (Combined),34.94614,72.52183,Combined,KPK,1,1,636,506
+ 213 - Govt: Girls High School Shalpin (Female),34.94724,72.52589,Female,KPK,0,2,0,1721
+ 166 - Govt: Girls Primary School Tekdarai (Female),34.94902,72.46468,Female,KPK,0,2,0,1309
+ 215 - Govt: Primary School Jeshar (Male),34.94928,72.5638,Male,KPK,2,0,997,0
+ 209 - Govt: Middle School Faqira (Male),34.95555,72.54933,Male,KPK,2,0,1648,0
+ 208 - Govt: Primary/Middle School Jaray (Combined),34.95556,72.54933,Combined,KPK,2,1,1187,779
+ 232 - Govt: Degree College Khwazakhela at Dop (Combined),34.95624,72.46653,Combined,KPK,2,2,1009,805
+ 167 - Govt: Primary School Dambara  (Combined),34.95626,72.4863,Combined,KPK,2,2,1413,1051
+ 233 - Govt: Primary School Chalyar (Male),34.95652,72.46648,Male,KPK,4,0,1695,0
+ 210 - Govt: Primary School Faqira (Female),34.95981,72.5096,Female,KPK,0,2,0,1307
+ 173 - Govt: Primary School Chinkolai (Female),34.96252,72.52527,Female,KPK,0,2,0,1459
+ 172 - Govt: Middle School Chinkolai (Male),34.96272,72.52583,Male,KPK,3,0,1806,0
+ 229 - Govt:  Primary School Kuza Asala (Female),34.97454,72.49482,Female,KPK,0,2,0,1239
+ 228 - Govt: High School Asala (Male),34.98032,72.46977,Male,KPK,2,0,1446,0
+ 227 - Govt: Girls Primary School Shin (Female),34.98347,72.47086,Female,KPK,0,3,0,1835
+ 234 - Govt: Girls Primary School Chalyar (Female),34.98806,72.47019,Female,KPK,0,3,0,1331
+ 236 - Govt: Primary School Kotanai (Male),34.99013,72.47017,Male,KPK,2,0,1316,0
+ 235 - Basic Health Unit Kotanai (Combined),34.99183,72.47378,Combined,KPK,2,1,1025,871
+ 237 - Govt: Girls Primary School Kotanai (Female),34.99584,72.47105,Female,KPK,0,2,0,993
+ 218 - Govt: Middle School Dad (Combined),35.00294,72.52406,Combined,KPK,2,1,1111,914
+ 219 - Govt: Middle School Bar Bargain (Male),35.0031,72.52396,Male,KPK,3,0,2103,0
+ 225 - Govt: Primary School Degan Lakhar (Combined),35.01796,72.47047,Combined,KPK,1,1,649,528
+ 29 - Govt: Primary School Serai Lalkoo (Female),35.0204,72.45873,Female,KPK,0,2,0,1437
+ 1 - Govt: Primary School Asharay (Male),35.02058,72.45911,Male,KPK,2,0,1168,0
+ 2 - Govt: Middle School Asharay (Male),35.02058,72.45914,Male,KPK,2,0,1173,0
+ 224 - Govt: Middle School Lakhar (Combined),35.02332,72.51622,Combined,KPK,2,2,1118,893
+ 39 - Govt: Middle School Ramait Improvised (Male),35.02393,72.45789,Male,KPK,2,0,1700,0
+ 223 - Govt: Girls Primary School Naway Kalay Ghar Shin (Combined),35.02497,72.50754,Combined,KPK,2,2,1179,973
+ 226 - Govt: Primary School Shin (Male),35.02523,72.47286,Male,KPK,4,0,2286,0
+ 49 - Govt: Primary School Areen (Rented) Improvised (Combined),35.02591,72.44463,Combined,KPK,1,1,789,633
+ 222 - Govt: Primary School No.2 Naway Kalay Shin  (Combined),35.0282,72.47526,Combined,KPK,2,1,1148,885
+ 220 - Govt: Primary School Bar Bargain Semi Improvised (Female),35.04064,72.47629,Female,KPK,0,3,0,1672
+ 221 - Govt: Primary School No.1 Naway Kalay Shin   (Combined),35.04199,72.48195,Combined,KPK,1,1,716,603
+ 79 - Govt: Primary School Kwaro Shahgram  (Combined),35.0434,72.46758,Combined,KPK,2,1,843,649
+ 191 - Govt: Girls Primary School Miandam (Female),35.04741,72.57047,Female,KPK,0,2,0,1256
+ 238 - Govt: Middle School Farhat Abad (Combined),35.05251,72.41653,Combined,KPK,2,2,1312,1090
+ 189 - Govt: Primary School Gujaro Kalay Miandam (Combined),35.05423,72.5612,Combined,KPK,2,1,822,568
+ 187 - Govt: Primary School Kola Karin (Combined),35.05428,72.56105,Combined,KPK,2,1,1054,676
+ 199 - Govt: Girls Primary School Barhampatai (Female),35.0543,72.48254,Female,KPK,0,2,0,1232
+ 200 - Govt: Higher Secondary School Fatehpur  (Combined),35.05434,72.48206,Combined,KPK,2,2,1262,979
+ 190 - Govt: High School Miandam (Male),35.05463,72.56129,Male,KPK,2,0,1685,0
+ 69 - Govt: Middle School Pardesha  (Combined),35.05666,72.4734,Combined,KPK,2,1,1102,752
+ 186 - Govt: Girls Primary School Jukhtai (Combined),35.05754,72.52717,Combined,KPK,2,1,1059,789
+ 188 - Govt: Primary School Miandam (Combined),35.05825,72.56982,Combined,KPK,2,1,873,643
+ 185 - Govt: Primary School Behar  (Combined),35.0608,72.51814,Combined,KPK,1,1,775,582
+ 193 - Govt: Primary School Senay (Combined),35.06182,72.53992,Combined,KPK,1,1,778,598
+ 201 - Govt: Primary School No.1 Fatehpur (Male),35.06367,72.48627,Male,KPK,2,0,1848,0
+ 192 - Govt: Primary School Kasoona Miandam  (Combined),35.06547,72.52859,Combined,KPK,2,2,1175,865
+ 203 - Govt: Primary School No.2 Fatehpur (Male),35.0663,72.48466,Male,KPK,2,0,1514,0
+ 23 - Govt: Primary School Echkanai Semi Improvised (Combined),35.06844,72.43049,Combined,KPK,2,1,963,865
+ 202 - Govt: Girls Primary School Fatehpur (Female),35.0689,72.48808,Female,KPK,0,2,0,1329
+ 59 - Govt: Higher Secondary School Madyan Left Side (Male),35.0699,72.47357,Male,KPK,3,0,1753,0
+ 195 - Govt: Girls Primary School Chekrai (Combined),35.07315,72.48654,Combined,KPK,1,1,546,359
+ 197 - Govt: Primary School Pir Patay  (Combined),35.07322,72.49873,Combined,KPK,2,1,1098,798
+ 198 - Govt: Primary School Barhampatai (Male),35.07429,72.49437,Male,KPK,2,0,1678,0
+ 16 - Govt: High School Rahat Kot (Male),35.07575,72.47814,Male,KPK,3,0,2107,0
+ 17 - Govt: Primary School Rahat Kot Semi Improvised (Female),35.07578,72.47817,Female,KPK,0,2,0,1629
+ 22 - Govt: Primary School Nowkhara  (Combined),35.0787,72.42744,Combined,KPK,2,1,1239,790
+ 11 - Govt: High School Darmai Right Side (Male),35.08061,72.45,Male,KPK,2,0,1579,0
+ 12 - Govt: High School Darmai Left Side (Female),35.08061,72.45003,Female,KPK,0,2,0,1201
+ 18 - Govt: Primary School Bara Gat Sakhra (Combined),35.08082,72.4154,Combined,KPK,2,2,1148,918
+ 13 - Govt: Primary School Darmai (Male),35.08087,72.44997,Male,KPK,2,0,1575,0
+ 14 - Govt: Girls Primary School Darmai (Female),35.081,72.45061,Female,KPK,0,2,0,1150
+ 19 - Govt: Primary School Kharkai Sakhra (Combined),35.08153,72.39226,Combined,KPK,2,2,1607,1039
+ 20 - Govt: Higher Secondary School Sakhra (Combined),35.08413,72.39841,Combined,KPK,1,1,692,504
+ 194 - Govt: Primary School No.1 Khair Abad  (Combined),35.08451,72.49403,Combined,KPK,1,1,694,468
+ 24 - Govt: Middle School Adam Shah (Penday) (Combined),35.09129,72.38401,Combined,KPK,2,1,1082,811
+ 196 - Govt: Primary School Benorrai  (Combined),35.0913,72.50996,Combined,KPK,1,1,581,434
+ 89 - Govt: Girls Primary School No.2 Kass Kalam (Combined),35.09724,72.43713,Combined,KPK,2,1,678,469
+ 15 - Govt: Primary School Ragiston  (Combined),35.09975,72.46814,Combined,KPK,2,1,1108,796
+ 207 - Govt: Girls Primary School Chancharay Matta Pia Khwarr (Female),35.10066,72.50641,Female,KPK,0,2,0,1056
+ 76 - Govt: Primary School Shigal  (Combined),35.10538,72.50307,Combined,KPK,1,1,551,448
+ 77 - Govt: High School Qandil (Male),35.10564,72.50302,Male,KPK,2,0,1683,0
+ 206 - Govt: High School Chanchargay Middle Branch (Male),35.10574,72.5377,Male,KPK,2,0,1493,0
+ 205 - Govt: High School Chancharay (Combined),35.10666,72.52863,Combined,KPK,2,2,1217,967
+ 25 - Govt: Primary School Karinona  (Combined),35.10712,72.39375,Combined,KPK,2,2,1065,926
+ 204 - Govt: Girls Higher Secondary School Fatehpur (Female),35.10832,72.51489,Female,KPK,0,2,0,1114
+ 75 - Govt: Primary School Terat  (Combined),35.11443,72.50505,Combined,KPK,1,1,731,552
+ 74 - Govt: Primary School Damana (Rented)  (Combined),35.11905,72.5061,Combined,KPK,1,1,653,494
+ 73 - Govt: Girls Primary School Kalagram (Combined),35.11966,72.51624,Combined,KPK,1,1,603,437
+ 83 - Govt: Girls Primary School Bashigram  (Combined),35.12405,72.59852,Combined,KPK,2,2,1513,1103
+ 72 - Govt: Primary School Shameray  (Combined),35.12412,72.5151,Combined,KPK,2,2,1448,1031
+ 84 - Govt: Primary School Shinkoo (Male),35.12569,72.59555,Male,KPK,4,0,2361,0
+ 28 - Govt: Primary School Gahrai Lalkoo (Male),35.1262,72.39201,Male,KPK,2,0,1721,0
+ 80 - Govt: Primary School Shagai Shahgram  (Combined),35.1291,72.61315,Combined,KPK,2,2,1330,1083
+ 81 - Govt: Middle School Bashigram (Male),35.12915,72.61285,Male,KPK,2,0,1471,0
+ 82 - Govt: Primary School Bashigram (Female),35.1292,72.61225,Female,KPK,0,2,0,1060
+ 27 - Govt: Primary School Charrai (Combined),35.1299,72.38937,Combined,KPK,1,1,663,539
+ 70 - Govt: Primary School Paklai (Combined),35.13147,72.481,Combined,KPK,1,1,824,593
+ 71 - Govt: Primary School Terat Dara  (Combined),35.13432,72.50768,Combined,KPK,2,1,973,751
+ 21 - Govt: Primary School Kaga Banda Sakhra (Combined),35.13673,72.38487,Combined,KPK,2,1,944,686
+ 26 - Govt: Primary School Fazil Baig Gahrai Semi Improvised (Combined),35.13794,72.38779,Combined,KPK,2,2,1418,1091
+ 6 - Govt: Primary School Kalakot (Combined),35.139,72.53514,Combined,KPK,1,1,786,510
+ 62 - Govt: Primary School Madyan Left Side (Male),35.1391,72.54008,Male,KPK,3,0,1423,0
+ 63 - Govt: Girls High School Madyan (Female),35.13953,72.54032,Female,KPK,0,3,0,1405
+ 57 - Govt: Primary School Cham Satal (Combined),35.14017,72.53455,Combined,KPK,2,2,1437,1115
+ 58 - Govt: Higher Secondary School Madyan Right Side (Male),35.14017,72.53458,Male,KPK,3,0,1348,0
+ 60 - Govt: Girls Primary School Kuz Kalay Madyan (Female),35.14017,72.53461,Female,KPK,0,3,0,2266
+ 61 - Govt; Primary School Madyan Right Side (Male),35.14017,72.53464,Male,KPK,3,0,1841,0
+ 85 - Govt: Girls Primary/Middle School Shinkoo (Female),35.14025,72.58267,Female,KPK,0,2,0,1678
+ 86 - Govt: High School Chail  (Combined),35.14029,72.58267,Combined,KPK,1,1,694,538
+ 66 - Govt: Primary School Dabargay (Combined),35.1432,72.56007,Combined,KPK,1,1,635,444
+ 8 - Govt: Girls Primary School Tolai Kalakot  (Combined),35.14523,72.53188,Combined,KPK,1,1,597,410
+ 78 - Govt: Primary School Qandil (Female),35.14695,72.52367,Female,KPK,0,2,0,1226
+ 7 - Govt: Girls Primary School Bagh Dehrai Kalakot (Combined),35.14749,72.53096,Combined,KPK,2,1,1145,841
+ 65 - Govt: Middle School Dabargay  (Combined),35.15606,72.58989,Combined,KPK,2,1,855,541
+ 64 - Agriculture Office Madyan (Female),35.15638,72.59301,Female,KPK,0,2,0,1033
+ 67 - Govt: Primary School Badalai (Combined),35.15752,72.54207,Combined,KPK,2,1,979,705
+ 68 - Govt: Middle School Kalagay  (Combined),35.15794,72.51378,Combined,KPK,2,1,1137,785
+ 56 - Govt: Primary School Satal Kuza Gahrrai Left Side (Female),35.16875,72.52912,Female,KPK,0,3,0,1652
+ 54 - Govt: Girls High School Bahrain  (Combined),35.17871,72.53436,Combined,KPK,2,2,1145,929
+ 55 - Govt: Primary School Satal Kuza Gahrrai Right Side (Male),35.17871,72.53439,Male,KPK,3,0,2051,0
+ 41 - Govt: Primary School Badai Semi Improvised (Combined),35.18546,72.53998,Combined,KPK,2,2,1532,979
+ 42 - Govt: Middle School Ayeen (Male),35.18558,72.54005,Male,KPK,3,0,1536,0
+ 53 - Govt: Primary School Bahrain Left Side (Female),35.19288,72.53934,Female,KPK,0,2,0,1311
+ 50 - Govt: High School Bahrain Right Side (Male),35.20641,72.5461,Male,KPK,2,0,1480,0
+ 52 - Govt: High School Bahrain Left Side (Male),35.20641,72.54613,Male,KPK,2,0,1625,0
+ 5 - Govt: Primary School Galsha  (Combined),35.20668,72.54589,Combined,KPK,2,2,1539,1021
+ 51 - Govt: Primary School Bahrain Right Side (Female),35.20668,72.54592,Female,KPK,0,2,0,1257
+ 43 - Govt: Primary School Ayeen  (Female),35.21394,72.56252,Female,KPK,0,3,0,1185
+ 48 - Govt: Primary School Guntanr Bahrain  (Combined),35.22576,72.49668,Combined,KPK,2,2,1310,904
+ 47 - Govt: Girls Primary School Gornai  (Combined),35.22823,72.47008,Combined,KPK,1,1,613,508
+ 36 - Govt: Primary School Kedam  (Combined),35.23345,72.56808,Combined,KPK,1,1,776,545
+ 45 - Govt: High School Gornai (Male),35.23405,72.58925,Male,KPK,2,0,1376,0
+ 46 - Govt: Primary School No.1 Gornai (Female),35.23426,72.58855,Female,KPK,0,2,0,1146
+ 44 - Govt: Primary School No.1 Darolay Semi Improvised (Combined),35.23493,72.59106,Combined,KPK,2,2,1031,772
+ 35 - Govt: Girls Primary School Cham Gahrai (Combined),35.24832,72.58706,Combined,KPK,1,1,751,521
+ 4 - Govt: Girls Middle School Asharay  (Combined),35.2759,72.60398,Combined,KPK,2,1,1294,979
+ 38 - Govt: Higher Secondary School Mankyal (Combined),35.27617,72.60445,Combined,KPK,2,2,1541,947
+ 33 - Govt: Primary School No.1 Balakot Semi Improvised (Combined),35.28479,72.60555,Combined,KPK,2,1,1262,847
+ 34 - Govt: Middle School Cham Gahrrai  (Combined),35.28585,72.60547,Combined,KPK,1,1,640,449
+ 32 - Govt: High School Laikot  (Combined),35.32375,72.60745,Combined,KPK,2,2,1318,927
+ 37 - Govt: Middle School Torwal (Combined),35.32584,72.61314,Combined,KPK,2,2,1291,960
+ 40 - Govt: Girls Primary School Ramait (Female),35.33241,72.64715,Female,KPK,0,2,0,1143
+ 31 - Govt: Primary School No.2 Aryanai  (Combined),35.40038,72.60419,Combined,KPK,2,2,1526,1010
+ 30 - Govt: High School Pishmal  (Combined),35.43684,72.60788,Combined,KPK,2,1,1225,878
+ 3 - Govt: Girls Primary School Asharay (Female),35.44753,72.60095,Female,KPK,0,3,0,1813
+ 92 - Govt: Middle School Jalbanr  (Male),35.46526,72.58179,Male,KPK,2,0,1505,0
+ 91 - Govt: Higher Secondary School Kalam High Portion (Female),35.46559,72.58218,Female,KPK,0,2,0,1266
+ 93 - Govt: Primary School Jalbanr (Female),35.47454,72.60405,Female,KPK,0,2,0,1081
+ 9 - Govt: Primary School Darmai Azad Banda  (Male),35.47943,72.58464,Male,KPK,2,0,1589,0
+ 90 - Govt: Higher Secondary School Kalam Secondary Section (Male),35.47943,72.58467,Male,KPK,3,0,1885,0
+ 87 - Govt: Primary School Chail  (Combined),35.48067,72.58574,Combined,KPK,2,1,1119,794
+ 88 - Govt: Primary School No.1 Kalam  (Combined),35.48758,72.57632,Combined,KPK,2,1,1292,860
+ 106 - Govt: Higher Secondary School Utror Right Side  (Male),35.49075,72.46609,Male,KPK,4,0,2217,0
+ 107 - Govt: Higher Secondary School Utroor Left Side (Female),35.49075,72.46612,Female,KPK,0,2,0,1355
+ 105 - Govt: Primary School Utror  (Combined),35.49079,72.46817,Combined,KPK,2,1,1092,644
+ 104 - Govt: Primary School Sazgal (Combined),35.49846,72.44476,Combined,KPK,1,1,750,413
+ 96 - Govt: Girls Primary School Banr Kalay Kargalo (Combined),35.50473,72.5821,Combined,KPK,1,1,575,393
+ 97 - Govt: Primary School Ashoran (Male),35.50496,72.58257,Male,KPK,3,0,1554,0
+ 95 - Govt: Primary School Shahoo   (Combined),35.50573,72.59902,Combined,KPK,2,1,1110,692
+ 94 - Govt: Middle School Boyun  (Combined),35.50593,72.60558,Combined,KPK,1,1,773,510
+ 108 - Govt: Primary/Middle School Gabral (Combined),35.51441,72.42242,Combined,KPK,2,1,863,517
+ 109 - Govt: Primary School Bela Gabral Improvised (Combined),35.52869,72.41289,Combined,KPK,2,1,1079,629
+ 98 - Govt: High School Ashoran (Female),35.52916,72.6447,Female,KPK,0,2,0,1103
+ 102 - Govt: Primary School Churat Matiltan (Combined),35.5358,72.67815,Combined,KPK,1,1,702,421
+ 100 - Govt: Primary School Matiltan (Combined),35.54153,72.66125,Combined,KPK,1,1,760,488
+ 101 - Govt: High School Matiltan (Combined),35.54229,72.66162,Combined,KPK,1,1,874,581
+ 112 - Govt: Primary School Gujjar Gabral  (Combined),35.56097,72.41741,Combined,KPK,2,1,837,555
+ 111 - Govt: Primary School Karin Gabral (Combined),35.57075,72.41962,Combined,KPK,2,2,1556,1097
+ 103 - Govt: Primary School Palogah (Combined),35.60612,72.68858,Combined,KPK,1,1,285,182

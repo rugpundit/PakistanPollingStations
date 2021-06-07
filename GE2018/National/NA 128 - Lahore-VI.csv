@@ -1,0 +1,222 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 104 - Govt. Pak Primary School Maskeen Pura Lahore,31.56571,74.39439,Combined,Punjab,2,2,745,608
+ 109 - Govt.Pak Primary School- Maskeen Pura Near Jamia Masjid Deoband,31.56571,74.39442,Male,Punjab,4,0,1399,0
+ 110 - Govt.Pak Primary School- Maskeen Pura Near Jamia Masjid Deoband,31.56571,74.39445,Female,Punjab,0,4,0,1229
+ 111 - Golden Gate School Maskeen Pura Lahore,31.56571,74.39448,Combined,Punjab,2,2,1213,1025
+ 112 - The Golden Gate School- Maskeenpura,31.56571,74.39451,Male,Punjab,4,0,1438,0
+ 113 - The Golden Gate School- Maskeenpura,31.56571,74.39454,Female,Punjab,0,4,0,1144
+ 114 - The Golden Gate School- Maskeenpura,31.56571,74.39457,Male,Punjab,4,0,1247,0
+ 115 - The Golden Gate School- Maskeenpura,31.56571,74.3946,Female,Punjab,0,3,0,1060
+ 91 - Grace Way School old name Shadab Public School Gulshan Park Road Fatehgarh,31.57122,74.40196,Combined,Punjab,2,2,714,574
+ 92 - Grace Way School old name Shadab Public School Gulshan Park Road Fatehgarh,31.57122,74.40199,Combined,Punjab,2,2,767,627
+ 93 - Grace Way School old name Shadab Public School Gulshan Park Road Fatehgarh,31.57122,74.40202,Combined,Punjab,2,2,757,534
+ 95 - Grace Way School old name Shadab Public School Gulshan Park Road Fatehgarh,31.57122,74.40205,Combined,Punjab,2,2,898,740
+ 70 - Shaur Eduction Complex School Canal Bank Lahore,31.57124,74.41343,Combined,Punjab,2,2,953,868
+ 71 - Shaur Eduction Complex School Canal Bank Lahore,31.57124,74.41346,Combined,Punjab,2,2,772,649
+ 68 - CDGL Girls High School Main Bus Stop Fateh Garh Nahar ka Pull,31.57126,74.40205,Combined,Punjab,2,2,898,714
+ 69 - CDGL Girls High School Main Bus Stop Fateh Garh Nahar ka Pull,31.57126,74.40208,Combined,Punjab,2,2,657,591
+ 72 - CDGL Girls High School Main Bus Stop Fateh Garh Nahar ka Pull,31.57126,74.40211,Combined,Punjab,2,2,967,740
+ 73 - CDGL Girls High School Main Bus Stop Fateh Garh Nahar ka Pull,31.57126,74.40214,Combined,Punjab,2,2,619,523
+ 74 - CDGL Girls High School Main Bus Stop Fateh Garh Nahar ka Pull,31.57126,74.40217,Combined,Punjab,2,2,894,734
+ 75 - CDGL Girls High School Main Bus Stop Fateh Garh Nahar ka Pull,31.57126,74.4022,Combined,Punjab,1,1,475,402
+ 107 - Sagar Model High School- Gulshan Park,31.57186,74.39603,Combined,Punjab,2,2,965,799
+ 108 - Sagar Model High School- Gulshan Park,31.57186,74.39606,Combined,Punjab,2,2,603,503
+ 96 - CDGL Girls High School Gulshan Park Fatehgarh ( Old Name: CDGL Girls Primary School Fatehgarh  ),31.57186,74.39609,Combined,Punjab,2,2,840,678
+ 97 - CDGL Girls High School Gulshan Park Fatehgarh ( Old Name: CDGL Girls Primary School Fatehgarh  ),31.57186,74.39612,Combined,Punjab,2,2,1005,727
+ 98 - CDGL Girls High School Gulshan Park Fatehgarh ( Old Name: CDGL Girls Primary School Fatehgarh  ),31.57186,74.39615,Combined,Punjab,2,2,780,668
+ 99 - CDGL Girls High School Gulshan Park Fatehgarh ( Old Name: CDGL Girls Primary School Fatehgarh  ),31.57186,74.39618,Combined,Punjab,2,2,693,569
+ 100 - CDGL Boys Middle School Fateh Garh,31.57195,74.40445,Combined,Punjab,2,2,669,559
+ 101 - CDGL Boys Middle School Fateh Garh,31.57195,74.40448,Combined,Punjab,2,2,821,655
+ 80 - Govt. Primary School For Boys Near City Hospital,31.57195,74.40451,Combined,Punjab,2,2,822,714
+ 105 - Al-Hanif Model Girls School- Mohallah Ghazi Peer-Sadique Akbar Road ( Old Name: Al-Hanif School Mohalla Ghazipura),31.57212,74.38947,Male,Punjab,4,0,1497,0
+ 106 - Al-Hanif Model Girls School- Mohallah Ghazi Peer-Sadique Akbar Road ( Old Name: Al-Hanif School Mohalla Ghazipura),31.57212,74.3895,Female,Punjab,0,4,0,1223
+ 89 - Allied School System Allama Iqbal Chowk Younas Campus (Old Name: Allama Iqbal Public High School Faisal Park Fatehgarh Lahore,31.5724,74.3923,Combined,Punjab,2,2,701,465
+ 90 - Allied School System Allama Iqbal Chowk Younas Campus (Old Name: Allama Iqbal Public High School Faisal Park Fatehgarh Lahore,31.5724,74.39233,Combined,Punjab,2,2,1053,825
+ 94 - Allied School System Allama Iqbal Chowk Younas Campus (Old Name: Allama Iqbal Public High School Faisal Park Fatehgarh Lahore,31.5724,74.39236,Combined,Punjab,2,2,1144,787
+ 49 - CDGL Girls High School Harbanspura ( Old Name: CDGL Girls High School ),31.57421,74.42622,Male,Punjab,4,0,1702,0
+ 50 - CDGL Girls High School Harbanspura ( Old Name: CDGL Girls High School ),31.57421,74.42625,Female,Punjab,0,4,0,1294
+ 51 - CDGL Girls High School Harbanspura ( Old Name: CDGL (MALE),31.57421,74.42628,Male,Punjab,4,0,1680,0
+ 52 - CDGL Girls High School Harbanspura ( Old Name: CDGL Girls High School ) (FEMALE),31.57421,74.42631,Female,Punjab,0,3,0,1257
+ 78 - Concilatory Court- Office Sanitary Inspector Inside CDGL Dispensary New Abadi Fatehgarh,31.57451,74.40388,Combined,Punjab,2,2,821,581
+ 44 - The trust School Amir Town Lahore,31.57454,74.4193,Combined,Punjab,2,2,790,645
+ 76 - Al-Haram Educational System- Hospital Road- Near Babir Milk Shop- Fateh Garh- Lahore,31.575,74.40778,Combined,Punjab,2,2,712,543
+ 77 - Al-Haram Educational System- Hospital Road- Near Babir Milk Shop- Fateh Garh- Lahore,31.575,74.40781,Combined,Punjab,2,2,1024,717
+ 79 - Royal Grammer School- Mehar Fiaz Colony- Block-A Fateh Garh- Lahore,31.57528,74.40806,Combined,Punjab,2,2,854,620
+ 36 - Govt. Moddel Girls High School-Qlalandarpura,31.5754,74.43333,Male,Punjab,4,0,1568,0
+ 37 - Govt. Moddel Girls High School-Qlalandarpura,31.5754,74.43336,Female,Punjab,0,4,0,1238
+ 38 - Govt. Moddel Girls High School-Qlalandarpura,31.5754,74.43339,Male,Punjab,4,0,2005,0
+ 39 - Govt. Moddel Girls High School-Qlalandarpura,31.5754,74.43342,Female,Punjab,0,4,0,1412
+ 40 - Govt. Moddel Girls High School-Qlalandarpura,31.5754,74.43345,Combined,Punjab,2,1,579,439
+ 102 - Iqra Public School Mehar Fiaz Colony Lahore,31.57556,74.40862,Male,Punjab,4,0,1350,0
+ 103 - Iqra Public School Mehar Fiaz Colony Lahore,31.57556,74.40865,Female,Punjab,0,4,0,1045
+ 42 - CDGL Boys High School Harbanspura,31.57727,74.42641,Combined,Punjab,2,2,834,686
+ 43 - CDGL Boys High School Harbanspura,31.57727,74.42644,Combined,Punjab,2,2,935,715
+ 45 - CDGL Boys High School Harbanspura,31.57727,74.42647,Male,Punjab,4,0,1387,0
+ 46 - CDGL Boys High School Harbanspura,31.57727,74.4265,Female,Punjab,0,4,0,1127
+ 47 - CDGL Boys High School Harbanspura,31.57727,74.42653,Combined,Punjab,2,1,534,392
+ 48 - CDGL Boys High School Harbanspura,31.57727,74.42656,Combined,Punjab,2,2,935,750
+ 124 - Govt.G/H/School Jora peer colony Sahwori Road lahore,31.5775,74.38555,Combined,Punjab,2,2,771,662
+ 125 - Govt.G/H/School Jora peer colony Sahwori Road lahore,31.5775,74.38558,Combined,Punjab,2,2,881,696
+ 126 - Govt.G/H/School Jora peer colony Sahwori Road lahore,31.5775,74.38561,Combined,Punjab,2,2,577,466
+ 127 - Govt.G/H/School Jora peer colony Sahwori Road lahore,31.5775,74.38564,Male,Punjab,4,0,1880,0
+ 128 - Govt.G/H/School Jora peer colony Sahwori Road lahore,31.5775,74.38567,Female,Punjab,0,4,0,1360
+ 129 - Govt.G/H/School Jora peer colony Sahwori Road lahore,31.5775,74.3857,Male,Punjab,4,0,1417,0
+ 130 - Govt.G/H/School Jora peer colony Sahwori Road lahore,31.5775,74.38573,Female,Punjab,0,4,0,1156
+ 122 - Pioneer Grammer School- Muslim Colony Angoori Bagh Scheme,31.57778,74.38528,Male,Punjab,4,0,1542,0
+ 123 - Pioneer Grammer School- Muslim Colony Angoori Bagh Scheme,31.57778,74.38531,Female,Punjab,0,4,0,1187
+ 131 - CDGL Girls High School cum Boys Middel School Kotli Peer Abdul Rehman Lahore,31.57778,74.38611,Combined,Punjab,2,2,768,583
+ 132 - CDGL Girls High School cum Boys Middel School Kotli Peer Abdul Rehman Lahore,31.57778,74.38614,Combined,Punjab,2,2,1190,896
+ 134 - CDGL Girls High School cum Boys Middel School Kotli Peer Abdul Rehman Lahore,31.57778,74.38617,Combined,Punjab,2,2,1147,972
+ 135 - CDGL Girls High School cum Boys Middel School Kotli Peer Abdul Rehman Lahore,31.57778,74.3862,Combined,Punjab,2,2,1332,1008
+ 133 - Punjab Public Model School Kotli Peer Abdul Rehman Near Ghanda Nala,31.57806,74.38583,Combined,Punjab,2,2,1082,830
+ 86 - Gulistan Public High School-Fatehgarh Road Near Hassanabad Chowk,31.57878,74.40091,Combined,Punjab,2,2,1021,742
+ 87 - Gulistan Public High School-Fatehgarh Road Near Hassanabad Chowk,31.57878,74.40094,Combined,Punjab,2,2,1016,714
+ 88 - Gulistan Public High School-Fatehgarh Road Near Hussanabad Chowk,31.57878,74.40097,Combined,Punjab,2,2,768,558
+ 140 - The Daffodil Kids School Bagbhanpura Housing Scheme,31.58111,74.38972,Male,Punjab,4,0,1378,0
+ 141 - The Daffodil Kids School Bagbhanpura Housing Scheme,31.58111,74.38975,Female,Punjab,0,4,0,1238
+ 116 - Govt. Girls High School Slamatpura,31.58167,74.415,Combined,Punjab,2,2,929,671
+ 83 - The Inculcators System of School- B Block New Shalimar Housing Scheme Lahore,31.58195,74.40806,Combined,Punjab,2,2,1026,833
+ 84 - The Inculcators System of School- B Block New Shalimar Housing Scheme Lahore,31.58195,74.40809,Combined,Punjab,2,2,870,597
+ 41 - Dar-e-Arqam School- Salamatpura Shalimar Scheme- Lahore,31.58195,74.40972,Combined,Punjab,2,2,968,782
+ 120 - Sardar Public School- Toheed Park Rasheedpura,31.58222,74.39972,Male,Punjab,4,0,1292,0
+ 121 - Sardar Public School- Toheed Park Rasheedpura,31.58222,74.39975,Female,Punjab,0,4,0,1077
+ 138 - F.G. Primary School- Inside Pakistan Mint,31.5825,74.39278,Male,Punjab,4,0,1546,0
+ 139 - F.G. Primary School- Inside Pakistan Mint,31.5825,74.39281,Female,Punjab,0,4,0,1387
+ 33 - Nayab Ideal Moddel High School Rajbah Road Toheed Park Darogawala ( Old Name: Truman Education School Daroghawala ),31.58278,74.39944,Combined,Punjab,2,2,551,428
+ 34 - Nayab Ideal Moddel High School Rajbah Road Toheed Park Darogawala ( Old Name: Truman Education School Daroghawala ),31.58278,74.39947,Male,Punjab,4,0,1348,0
+ 35 - Nayab Ideal Moddel High School Rajbah Road Toheed Park Darogawala ( Old Name: Truman Education School Daroghawala ),31.58278,74.3995,Female,Punjab,0,4,0,1152
+ 151 - Govt. Boys Primary School- Tulas Pura (Male),31.5831,74.4602,Male,Punjab,4,0,1413,0
+ 152 - Govt. Boys Primary School- Tulas Pura (Female),31.5831,74.46023,Female,Punjab,0,3,0,1138
+ 21 - Asad Grammer School Main Rajpal Road Darogawala,31.58389,74.40361,Combined,Punjab,2,2,630,501
+ 85 - Maryam Public School Main Bilal park Lahore,31.58389,74.40584,Combined,Punjab,2,2,874,664
+ 81 - Eagle Model High School- Main Bilal Park- New Rajba Daroghawala ( Old Name: Azam Model School ),31.58389,74.40639,Male,Punjab,4,0,1682,0
+ 82 - Eagle Model High School- Main Bilal Park- New Rajba Daroghawala ( Old Name: Azam Model School ),31.58389,74.40642,Female,Punjab,0,4,0,1336
+ 117 - CDGL Boys High School Slamatpura,31.58472,74.41389,Combined,Punjab,2,2,1323,1042
+ 58 - Malaysian Institute Of Technology Near Al Jannat College Pully Deen Daran Slamatpura ( Old New Centeral Middle School ),31.585,74.41389,Combined,Punjab,2,2,1054,818
+ 59 - Malaysian Institute Of Technology Near Al Jannat College Pully Deen Daran Slamatpura ( Old New Centeral Middle School ),31.585,74.41392,Combined,Punjab,2,2,950,746
+ 60 - New Central Model School Salamat Pura Lahore,31.585,74.41417,Combined,Punjab,2,2,254,204
+ 61 - Govt.Middle Girls School Maqsoodan wala Slamatpura,31.58528,74.41195,Combined,Punjab,2,2,743,567
+ 62 - Govt.Middle Girls School Maqsoodan wala Slamatpura,31.58528,74.41198,Combined,Punjab,2,2,1234,911
+ 64 - Govt.Middle Girls School Maqsoodan wala Slamatpura,31.58528,74.41201,Male,Punjab,4,0,1232,0
+ 65 - Govt.Middle Girls School Maqsoodan wala Slamatpura,31.58528,74.41204,Female,Punjab,0,3,0,895
+ 66 - Govt.Middle Girls School Maqsoodan wala Slamatpura,31.58528,74.41207,Male,Punjab,4,0,1515,0
+ 67 - Govt.Middle Girls School Maqsoodan wala Slamatpura,31.58528,74.4121,Female,Punjab,0,4,0,1029
+ 63 - Al-Shafa School Eid Gha Road Salamat Pura Lahore,31.58528,74.41389,Combined,Punjab,2,2,972,808
+ 230 - Govt. Girls Primary School-Sultan Pura (Combined),31.58541,74.50793,Combined,Punjab,2,2,782,560
+ 231 - Govt. Girls Primary School- Muhammad Baksh- Ghugail Sultan Pura (Combined),31.58541,74.50796,Combined,Punjab,2,2,752,585
+ 232 - Govt. Girls Primary School- Muhammad Baksh- Ghugail Sultan Pura (Combined),31.58541,74.50799,Combined,Punjab,2,1,661,457
+ 233 - Govt. Girls Primary School- Muhammad Baksh- Ghugail Sultan Pura (Combined),31.58541,74.50802,Combined,Punjab,2,2,708,543
+ 53 - CDGL Boys P/S Salamatpura Warra Sattar Shah,31.58556,74.42975,Male,Punjab,4,0,1510,0
+ 55 - CDGL Boys Primary School Wara Sattar  Shah,31.58556,74.42978,Combined,Punjab,2,2,934,767
+ 54 - CDGL Girls P/S Salamatpura Warra Sattar Shah,31.58573,74.43042,Female,Punjab,0,4,0,1215
+ 56 - Govt. Girls Primary School Warra Sattar Shah (Male),31.58573,74.43045,Male,Punjab,4,0,2352,0
+ 57 - Govt. Girls Primary School Warra Sattar Shah (Female),31.58573,74.43048,Female,Punjab,0,4,0,1728
+ 31 - SIMS School System  ( Old Name: Al Miraj Public School- Al-Miraj Street Oposite Sartaj Flour Mills G.T.Road),31.58611,74.39777,Male,Punjab,4,0,1667,0
+ 32 - SIMS School System  ( Old Name: Al Miraj Public School- Al-Miraj Street Oposite Sartaj Flour Mills G.T.Road),31.58611,74.3978,Female,Punjab,0,4,0,1413
+ 118 - Al-Hadi Foundation- Main Bazar- Astana Naqashbandi Daroghawala,31.58639,74.40445,Combined,Punjab,2,2,1119,843
+ 20 - Alhadi Foundation School Astana Naqshbandi Darogawala,31.58639,74.40448,Combined,Punjab,2,2,748,698
+ 147 - Govt. Boys Primary School-Kot Duni Chan (Male),31.58715,74.44905,Male,Punjab,4,0,1196,0
+ 149 - Govt. Boys Primary School-Kot Duni Chan (Male),31.58715,74.44908,Male,Punjab,4,0,1547,0
+ 16 - Govt.Gas Factory-Zaitoon Colony Daroghawala ( IMPROVISED ),31.58722,74.40667,Male,Punjab,4,0,1262,0
+ 17 - Govt.Gas Factory-Zaitoon Colony Daroghawala,31.58722,74.4067,Female,Punjab,0,4,0,965
+ 18 - Govt.Gas Factory-Zaitoon Colony Daroghawala ( IMPROVISED ),31.58722,74.40673,Male,Punjab,4,0,1427,0
+ 19 - Govt.Gas Factory-Zaitoon Colony Daroghawala,31.58722,74.40676,Female,Punjab,0,4,0,1126
+ 22 - Govt.Gas Factory-Zaitoon Colony Daroghawala ( IMPROVISED ),31.58722,74.40679,Male,Punjab,4,0,1171,0
+ 23 - Govt.Gas Factory-Zaitoon Colony Daroghawala,31.58722,74.40682,Female,Punjab,0,4,0,989
+ 119 - Oxford Grammar School- Dhobi Ghaat Stop,31.58833,74.39583,Combined,Punjab,2,2,1272,949
+ 144 - Govt. Girls Primary School-Adda Chhabil (Jhugian Mozang) (Combined),31.58887,74.44267,Combined,Punjab,2,1,587,422
+ 145 - Govt. Girls Primary School-Adda Chhabil (Jhugian Mozang) (Combined),31.58887,74.4427,Combined,Punjab,2,2,981,747
+ 158 - Govt. Primary School-Manawan (Male),31.58932,74.48129,Male,Punjab,4,0,1604,0
+ 159 - Govt. Primary School-Manawan (Female),31.58932,74.48132,Female,Punjab,0,4,0,1162
+ 153 - Govt. Middle Community School- Manawan (Combined),31.58955,74.47491,Combined,Punjab,2,2,936,660
+ 154 - Govt. Middle Community School- Manawan (Combined),31.58955,74.47494,Combined,Punjab,2,2,921,675
+ 160 - Govt. Girls Middle School-Manawan (Combiled),31.58955,74.47497,Combined,Punjab,1,1,354,276
+ 155 - Health Center-Manawan (Combined),31.58993,74.48096,Combined,Punjab,2,2,794,570
+ 148 - Pakistan Public High School Kot Dhoni Chand,31.59047,74.44881,Female,Punjab,0,3,0,891
+ 218 - Govt. Boys Higher Secondary School Al Maroof Jallo More)-Dograi Kalan (Male),31.59184,74.50025,Male,Punjab,3,0,976,0
+ 219 - Govt. Boys Higher Secondary School Al Maroof Jallo More)l-Dograi Kalan (Female),31.59184,74.50028,Female,Punjab,0,2,0,691
+ 221 - Govt. Boys Higher Secondary School (Al Maroof Jallo More)-  Dograi Kalan (Combined),31.59184,74.50031,Combined,Punjab,2,1,752,530
+ 10 - Govt.Girls Middle School Momanpura,31.59306,74.42194,Male,Punjab,4,0,3235,0
+ 12 - Govt.Girls Middle School Momanpura,31.59306,74.42197,Male,Punjab,4,0,1443,0
+ 13 - Govt.Girls Middle School Momanpura,31.59306,74.422,Female,Punjab,0,4,0,1042
+ 14 - Govt.Girls Middle School Momanpura,31.59306,74.42203,Male,Punjab,4,0,1909,0
+ 15 - Govt.Girls Middle School Momanpura,31.59306,74.42206,Female,Punjab,0,4,0,1461
+ 11 - Govt. Elementary School for Girls Momin Pura Lahore,31.59361,74.42222,Female,Punjab,0,4,0,2308
+ 207 - Govt. Girls High School- Batapur- Attoke Awan,31.59371,74.49415,Male,Punjab,4,0,1240,0
+ 208 - Govt. Girls High School- Batapur- Attoke Awan,31.59371,74.49418,Female,Punjab,0,3,0,966
+ 212 - Govt. Girls High School- Batapur- Attoke Awan,31.59371,74.49421,Male,Punjab,3,0,1002,0
+ 193 - Govt. Girls Primary School Wara Gujjaran (Combined),31.59427,74.43516,Combined,Punjab,2,2,845,637
+ 156 - Superior Group of Colleges Manawan(Combined),31.59456,74.47567,Combined,Punjab,2,2,708,545
+ 157 - Superior Group of Colleges Manawan(Combined),31.59456,74.4757,Combined,Punjab,2,2,892,627
+ 150 - The Educators School Manawan Campus,31.59468,74.48016,Female,Punjab,0,3,0,1107
+ 223 - Govt. High School- Wagha (Combined),31.59478,74.5586,Combined,Punjab,3,1,957,610
+ 224 - Govt. High School- Wagha (Combined),31.59478,74.55863,Combined,Punjab,2,1,774,513
+ 225 - Govt. High School- Wagha (Combined),31.59478,74.55866,Combined,Punjab,2,1,622,380
+ 164 - Govt. Girls High School- Ram Pura Jagir (Combined),31.5949,74.48594,Combined,Punjab,2,2,663,488
+ 165 - Govt. Girls High School- Ram Pura Jagir (Combined),31.5949,74.48597,Combined,Punjab,2,2,1126,801
+ 166 - Govt. Girls High School- Ram Pura Jagir (Combined),31.5949,74.486,Combined,Punjab,2,2,920,644
+ 167 - Govt. Girls High School- Ram Pura Jagir (Combined),31.5949,74.48603,Combined,Punjab,2,2,758,616
+ 162 - Govt. Primary School-Ram Pura  Jagir (Male),31.59515,74.48485,Male,Punjab,4,0,1172,0
+ 163 - Govt. Primary School-Ram Pura  Jagir (Female),31.59515,74.48488,Female,Punjab,0,3,0,947
+ 169 - Govt. Primary School-Ram Pura  Jagir  (Combined),31.59515,74.48491,Combined,Punjab,2,1,677,446
+ 170 - Govt. Primary School-Ram Pura  Jagir  (Combined),31.59515,74.48494,Combined,Punjab,1,1,320,289
+ 215 - Govt. Girls High Secondary School- Jallo Morre-Dograi Kalan  (Male),31.59533,74.49924,Male,Punjab,4,0,1258,0
+ 216 - Govt. Girls High Secondary School- Jallo Morre-Dograi Kalan  (Female),31.59533,74.49927,Female,Punjab,0,2,0,898
+ 217 - Govt. Girls High Secondary School- Jallo Morre-Dograi Kalan  (Combined),31.59533,74.4993,Combined,Punjab,2,2,889,732
+ 220 - Govt.Girls Higher Secondary School (Al Maroof Jallo More)-Dograi Kalan (Combined),31.59533,74.49933,Combined,Punjab,2,2,1066,761
+ 213 - Bait Ul Ilam School System,31.59664,74.49193,Female,Punjab,0,2,0,748
+ 161 - Govt. Primary School- Gopal Pura (Combiled),31.59747,74.45948,Combined,Punjab,2,2,1142,922
+ 205 - Govt. High School -Attoke Awan (Combined),31.59787,74.49226,Combined,Punjab,2,2,695,598
+ 206 - Govt. High School -Attoke Awan (Combined),31.59787,74.49229,Combined,Punjab,2,1,568,454
+ 209 - Govt. Higher Secondary School- Attoke Awan (Combined),31.59787,74.49232,Combined,Punjab,2,2,873,691
+ 210 - Govt. Higher Secondary School- Attoke Awan (Combined),31.59787,74.49235,Combined,Punjab,2,2,795,586
+ 211 - Govt. HighSchool- Attoke Awan,31.59787,74.49238,Combined,Punjab,2,2,917,692
+ 214 - Govt. Higher Secondary School- Attoke Awan (Combined),31.59787,74.49241,Combined,Punjab,1,1,345,274
+ 227 - Govt. Elementary School- Dial  (Male),31.59801,74.53397,Male,Punjab,4,0,1252,0
+ 228 - Govt. Elementary School-Dial (Female),31.59801,74.534,Female,Punjab,0,2,0,865
+ 229 - Govt. Elementary School-Dial (Combined),31.59801,74.53403,Combined,Punjab,1,1,470,391
+ 146 - Veterinary Hospital Hando gujjar lahore,31.59981,74.44199,Combined,Punjab,2,1,733,503
+ 192 - Veterinary Hospital-Handu Gujar  (Combined),31.59981,74.44202,Combined,Punjab,2,1,522,372
+ 181 - Govt. Primary School-Boys Sharif Pura (Combined),31.60155,74.41693,Combined,Punjab,2,2,944,604
+ 182 - Govt. Primary School-Boys Sharif Pura (Combined),31.60155,74.41696,Combined,Punjab,2,2,801,531
+ 183 - Govt Primary School Shareef Pura,31.60155,74.41699,Combined,Punjab,2,2,892,596
+ 237 - Govt. Girls Primary School-Teij Garh (Male),31.60405,74.45289,Male,Punjab,4,0,1529,0
+ 238 - Govt. Girls Primary School-Teij Garh (Female),31.60405,74.45292,Female,Punjab,0,4,0,1106
+ 202 - Govt. Girls Community M/S at Dyal Primary School- Thatta Taran (Combined),31.6043,74.52854,Combined,Punjab,2,2,935,596
+ 226 - Govt Boys Primary School Lakhan  (Combined),31.60629,74.51292,Combined,Punjab,1,1,491,290
+ 190 - Govt. Boys Primary School Handu Gujar (Combined),31.60651,74.43894,Combined,Punjab,2,2,1150,841
+ 191 - Govt. Boys Primary School Handu Gujar (Combined),31.60651,74.43897,Combined,Punjab,1,1,278,219
+ 235 - Govt. Boys Primary School- Teij Garh ( Combined),31.60661,74.45252,Combined,Punjab,2,1,700,484
+ 236 - Govt. Boys Primary School- Teij Garh (Combined),31.60661,74.45255,Combined,Punjab,2,2,763,550
+ 176 - Govt. Girls High School- Lakho Dhair (Combined),31.60756,74.4173,Combined,Punjab,2,1,736,510
+ 177 - Govt. Girls High School- Lakho Dhair (Combined),31.60756,74.41733,Combined,Punjab,2,1,798,513
+ 187 - Govt. Girls High School Lakho Dhair (Sharif Pura) (Combined),31.60756,74.41736,Combined,Punjab,2,2,856,564
+ 188 - Govt. Girls High School Lakho Dhair (Sharif Pura) (Combined),31.60756,74.41739,Combined,Punjab,2,2,932,750
+ 178 - Noor Foundation School Junj ghar Lakho Dair,31.61074,74.41135,Combined,Punjab,2,1,579,430
+ 180 - Noor Foundation School Junj ghar Lakho Dair,31.61074,74.41138,Combined,Punjab,2,2,734,529
+ 245 - Govt. Boys Primary School- Marl Marii (Combined),31.61122,74.41097,Combined,Punjab,2,1,568,397
+ 246 - Govt. Boys Primary School- Marl Marii (Combined),31.61122,74.411,Combined,Punjab,2,1,841,534
+ 179 - Govt. High School Lakho Dair (Primary wing) (Combined),31.61127,74.4132,Combined,Punjab,2,2,986,654
+ 186 - Govt High school primary wing main bazar lakho dair lahore,31.61127,74.41323,Combined,Punjab,2,2,1071,717
+ 189 - Govt. High School (Primary Wing)-Lakho Dhair(Combined),31.61127,74.41326,Combined,Punjab,2,2,1077,732
+ 184 - Union Council Office (U.C. 174)- Lakho Dhair (Combined),31.61212,74.41074,Combined,Punjab,2,2,980,664
+ 185 - Union Council Office (U.C. 174)- Lakho Dhair (Combined),31.61212,74.41077,Combined,Punjab,2,1,703,406
+ 239 - Govt. Primary School-Mouza Natt (Combined),31.6154,74.46284,Combined,Punjab,2,2,965,710
+ 234 - Govt. Primary School-Ganja Sindhu (Combined),31.62696,74.44765,Combined,Punjab,2,2,1109,757
+ 222 - Govt. High School-Wahgarian at  Dogaich (Combined),31.62805,74.49573,Combined,Punjab,2,2,813,550
+ 203 - Govt. Girls Middle School-Dogaich (Combined),31.62927,74.50252,Combined,Punjab,2,2,1142,986
+ 195 - Govt. High School- Bhaseen (Male),31.63479,74.50851,Male,Punjab,4,0,1378,0
+ 196 - Govt. High School- Bhaseen (Female),31.63479,74.50854,Female,Punjab,0,3,0,1011
+ 194 - Govt. Primary  School- Bhaseen (Combined),31.63791,74.50531,Combined,Punjab,2,2,667,487
+ 171 - Govt. Boys Primary School-Karul War (Combined),31.63797,74.37114,Combined,Punjab,2,2,1005,713
+ 197 - Govt. Health Center-Bhaseen (Combined),31.64258,74.50569,Combined,Punjab,2,1,852,544
+ 198 - Govt. Health Center-Bhaseen (Combined),31.64258,74.50572,Combined,Punjab,2,1,658,435
+ 242 - Govt: Elementary School-Awan Dhai Wala (Combined),31.64454,74.46262,Combined,Punjab,2,2,949,692
+ 243 - Govt: Elementary School-Awan Dhai Wala (Combined),31.64454,74.46265,Combined,Punjab,2,1,841,544
+ 244 - Govt: Elementary School-Awan Dhai Wala,31.64454,74.46268,Combined,Punjab,2,1,668,463
+ 240 - Govt. Boys Primary School- Jandiala (Male),31.64923,74.47471,Male,Punjab,4,0,1316,0
+ 241 - Govt. Boys Primary School- Jandiala (Female),31.64923,74.47474,Female,Punjab,0,2,0,862
+ 204 - Govt.Girls  Primary Model SchoolWasoyan (Combined),31.65631,74.5254,Combined,Punjab,2,2,1118,796
+ 200 - Govt. Primary School- Talwara (Combined),31.67117,74.46723,Combined,Punjab,2,2,938,582
+ 201 - Govt. Primary School- Talwara (Combined),31.67117,74.46726,Combined,Punjab,2,1,705,506
+ 199 - Govt. Boys Primary School-Echo Gill (Combined),31.67859,74.50196,Combined,Punjab,2,1,674,377

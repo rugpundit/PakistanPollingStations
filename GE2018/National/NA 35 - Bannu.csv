@@ -1,0 +1,413 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 314 - Govt: Primary School Hindi Khel (Comb),32.7945,70.50967,Combined,KPK,2,2,1466,1175
+ 316 - Govt Primary School Momitan Khel Jani Khel (Khalid) (Comb),32.81017,70.4712,Combined,KPK,2,2,1920,1551
+ 229 - Govt: Primary School Nar Sher Khan (Comb),32.81104,70.75896,Combined,KPK,2,2,798,559
+ 233 - GPS Nar Pir Mukamal Shah- Kotka Syed Anwar Shah,32.82302,70.73439,Combined,KPK,2,2,773,555
+ 317 - Govt: Middle School Memhood Wali Noor Jani Khel (Comb) PS-I,32.8241,70.43059,Combined,KPK,2,2,1676,1451
+ 318 - Govt: Middle School Memhood Wali Noor Jani Khel (Comb) PS-II,32.8241,70.43062,Combined,KPK,2,2,1592,1299
+ 349 - Govt: Model High School Nar Shukrullah (Comb),32.83126,70.72249,Combined,KPK,2,2,1336,1103
+ 311 - Govt: High School Jani Khel (Comb) PS-II,32.83231,70.50069,Combined,KPK,2,2,755,581
+ 312 - Govt: High School Jani Khel (Comb) PS-I,32.83231,70.50072,Combined,KPK,2,2,1025,694
+ 313 - Govt: High School Jani Khel (Comb) PS-III,32.83231,70.50075,Combined,KPK,2,2,1482,987
+ 310 - Govt: Primary School Malik Shahi (Comb),32.83242,70.51398,Combined,KPK,2,2,1203,692
+ 130 - Govt: Girls Primary School Landidak Levet (Comb),32.83716,70.64868,Combined,KPK,2,2,859,520
+ 154 - Govt: Primary School Hawed Khass (Comb),32.83816,70.60847,Combined,KPK,2,2,1376,1085
+ 153 - Govt: Primary School Multani Landidak (Comb),32.8417,70.63424,Combined,KPK,2,1,560,337
+ 230 - Govt: Middle School Nar Hafiz Abad (Comb) PS-I,32.84475,70.75548,Combined,KPK,2,1,560,396
+ 231 - Govt: Middle School Nar Hafiz Abad (Comb) PS-II,32.84475,70.75551,Combined,KPK,2,2,709,579
+ 129 - Govt: Primary School Khansuba (Comb),32.84943,70.62444,Combined,KPK,2,1,480,398
+ 232 - Govt: Primary School Nar Sher Mast (Amanullah) (Comb),32.85149,70.71695,Combined,KPK,2,2,1180,885
+ 327 - GGMS Toor Kakki (Male) PS-I,32.85236,70.68327,Male,KPK,3,0,824,0
+ 131 - Govt: High School Landidak Naimat Garh (Comb) PS-I,32.85307,70.60377,Combined,KPK,2,1,566,403
+ 132 - Govt: High School Landidak Naimat Garh (Comb) PS-II,32.85307,70.6038,Combined,KPK,2,2,1098,947
+ 151 - Govt Higher Secondary School Hakeem Haved (Male) PS-I,32.85363,70.61366,Male,KPK,4,0,2174,0
+ 152 - Govt Higher Secondary School Hakeem Haved (Female) PS-II,32.85363,70.61369,Female,KPK,0,3,0,1062
+ 281 - Govt: Primary School Sher Ali Sardi Khel (Male),32.85415,70.50677,Male,KPK,4,0,2179,0
+ 235 - Govt: High School Nar Jaffar Khan (Comb),32.85646,70.73412,Combined,KPK,2,2,855,676
+ 280 - Govt: Girls Primary School Gul Noor Jan Sardi Khel (Male),32.85655,70.49998,Male,KPK,4,0,2180,0
+ 326 - GHS Toor Kakki (Male) PS-I,32.85686,70.67953,Male,KPK,4,0,1361,0
+ 328 - GHS Toor Kakki (Female) PS-II,32.85686,70.67956,Female,KPK,0,4,0,1685
+ 212 - Govt: Primary School Nar Dilasa Shah (comb),32.85812,70.76682,Combined,KPK,2,2,838,716
+ 234 - Govt: Primary School Nar Jaffar Khan (Comb),32.8588,70.73569,Combined,KPK,2,2,777,605
+ 335 - GPS Sher Dil Landi Dak (Combined),32.86005,70.63264,Combined,KPK,1,1,387,261
+ 284 - Govt: Middle School Mir Zali KhanLandidak (Comb) PS-I,32.86147,70.57304,Combined,KPK,2,1,509,401
+ 285 - Govt: Middle School Mir Zali KhanLandidak (Comb) PS-II,32.86147,70.57307,Combined,KPK,2,2,708,529
+ 389 - Govt: Girls High School Landi Jalander Miraj ud Din (Female),32.86448,70.9185,Female,KPK,0,4,0,1298
+ 282 - Govt: High School Dilawar Khan Miralai (Female) PS-I,32.86489,70.53116,Female,KPK,0,4,0,1778
+ 283 - Govt: High School Dilawar Khan Miralai (Female) PS-II,32.86489,70.53119,Female,KPK,0,4,0,1748
+ 211 - Govt: Primary School Ghulam Mughal Khel (Comb),32.86567,70.76469,Combined,KPK,2,1,446,382
+ 278 - Govt: High School Nawab Narrmi khel (Female),32.86635,70.44773,Female,KPK,0,4,0,2499
+ 127 - Govt: High School Dardariz Hukam Zad (Comb) PS-I,32.86772,70.58965,Combined,KPK,2,2,1204,992
+ 128 - Govt: High School Dardariz Hukam Zad (Comb) PS-II,32.86772,70.58968,Combined,KPK,2,1,503,322
+ 387 - Govt: High School Kotka Ayaz Bander Killa (Comb),32.86927,70.8898,Combined,KPK,2,2,1179,849
+ 344 - GPS Khojari Zaba Khel No. 1 (Comb),32.87033,70.70583,Combined,KPK,2,2,747,577
+ 323 - Govt: High School Kaki (M) PS-I,32.87091,70.66208,Male,KPK,4,0,1062,0
+ 325 - Govt: High School Kaki (Female) PS-II,32.87091,70.66211,Female,KPK,0,4,0,1791
+ 210 - Govt: Primary School Toro Balo Mechen Khel No. 1 (Comb),32.87142,70.7569,Combined,KPK,2,2,734,635
+ 276 - Govt: Girls Middle School Narmi Khel (Male) PS-I,32.8722,70.43446,Male,KPK,4,0,1500,0
+ 277 - Govt: Girls Middle School Narmi Khel (Male) PS-II,32.8722,70.43449,Male,KPK,4,0,1426,0
+ 319 - Govt: Girls High School Kakki Secondary Section Building ( Male),32.87366,70.65617,Male,KPK,4,0,1745,0
+ 320 - Govt: Girls High School Kakki (Female) PS-I,32.87366,70.6562,Female,KPK,0,4,0,1254
+ 322 - Govt: Girls High School Kakki (Female) PS-II,32.87366,70.65623,Female,KPK,0,4,0,1198
+ 209 - Govt: Girls Primary School Bangi Khan Mughal Khel (F),32.87577,70.74485,Female,KPK,0,4,0,1320
+ 324 - Govt: Primary School Kakki (M),32.87603,70.65936,Male,KPK,4,0,1148,0
+ 321 - Govt: Primary School Kakki Balkh Haji ( Male),32.87693,70.6486,Male,KPK,4,0,1357,0
+ 208 - Govt: Primary School Amin Mughal Khel (M),32.87835,70.72678,Male,KPK,4,0,1598,0
+ 332 - Govt: Degree College Kaki (M) PS-I,32.87949,70.66473,Male,KPK,3,0,866,0
+ 333 - Govt: Degree College Kaki (M) PS-II,32.87949,70.66476,Male,KPK,3,0,909,0
+ 334 - Govt: Degree College Kaki (Female) PS-III,32.87949,70.66479,Female,KPK,0,4,0,1467
+ 331 - Govt: Primary School No. 2 Pir Khel Kakki (Female),32.88028,70.655,Female,KPK,0,4,0,1216
+ 347 - GMS Sher Gul Khujari (Male),32.88068,70.68392,Male,KPK,3,0,718,0
+ 348 - GPS Sher Gul Khojari (Female),32.88068,70.68395,Female,KPK,0,2,0,601
+ 388 - Govt: Degree College Landi Jalander (Male),32.881,70.91409,Male,KPK,4,0,1771,0
+ 329 - Govt: Girls Primary School Pir Khel Kaki (Male),32.88108,70.65433,Male,KPK,4,0,2301,0
+ 330 - Govt: Middle School Pir Khel Kakki (Female),32.88143,70.6568,Female,KPK,0,4,0,689
+ 339 - Govt: High School Hakim Bharat (Male),32.88359,70.63813,Male,KPK,4,0,2069,0
+ 340 - GGHS Hakeem Bharat (Female),32.88361,70.6375,Female,KPK,0,4,0,1621
+ 338 - GPS Bharat Khas (Comb),32.88915,70.63792,Combined,KPK,2,2,871,652
+ 365 - Govt: Girls Middle School No. 1 Bannu (Male),32.89005,70.63837,Male,KPK,3,0,785,0
+ 345 - Govt: Primary School Khujari Jana (Combined),32.89117,70.66029,Combined,KPK,1,1,413,365
+ 219 - Govt: Working Folks Grammer School Ghoriwala (Comb) PS-I,32.89183,70.7118,Combined,KPK,2,2,1215,833
+ 221 - Govt: Working Folks Grammer School Ghoriwala (Comb) PS-II,32.89183,70.71183,Combined,KPK,2,2,649,510
+ 337 - Govt: Primary School Nasri Bharat (Comb),32.8928,70.64014,Combined,KPK,2,2,858,695
+ 207 - GMS Kot Zafar Kot Pasha (Combined),32.89415,70.75382,Combined,KPK,2,2,698,665
+ 343 - GPS Zaba Khel Khojari No 2 (Kotka Shama Khel Khojari) Combined,32.89617,70.65605,Combined,KPK,1,1,372,334
+ 291 - Govt: Girls Middle School Guleen Nurar (Male) PS-I,32.90035,70.53521,Male,KPK,4,0,1566,0
+ 292 - Govt: Girls Middle School Guleen Nurar (Female) PS-II,32.90035,70.53524,Female,KPK,0,4,0,1191
+ 385 - GGPS Firdos Kamal Chitta Khel (Comb),32.90035,70.84703,Combined,KPK,2,2,1154,774
+ 432 - GHS Bati Kala Khunjak (Comb),32.90035,70.84706,Combined,KPK,2,2,1043,901
+ 205 - Govt: High School Barati Michin Khel (Male),32.90053,70.7551,Male,KPK,4,0,1164,0
+ 227 - Govt: Girls Middle School Hassan Khel Jaffar Khan (Comb) PS-I,32.90107,70.66121,Combined,KPK,2,2,831,667
+ 228 - Govt: Girls Middle School Hassan Khel Jaffar Khan (Comb) PS-II,32.90107,70.66124,Combined,KPK,2,1,570,436
+ 341 - Govt: High School Bangi Khan Khujari (Comb),32.90113,70.64114,Combined,KPK,2,2,979,835
+ 293 - GPS Nurar Khas (Combined),32.90117,70.53682,Combined,KPK,2,2,801,599
+ 139 - Govt: Primary School Hassan Khel Kheraki Dil Faraz (Female),32.90142,70.62247,Female,KPK,0,4,0,1588
+ 342 - Govt: Middle School Noor Ali Khujari Khass (Comb),32.90162,70.65411,Combined,KPK,2,2,640,510
+ 336 - Govt: Girls Middle School Shahburi Bharat (Comb),32.90234,70.63643,Combined,KPK,2,2,749,589
+ 223 - Govt: Primary School Kot Qalander (Comb),32.90274221764055,70.69369520422295,Combined,KPK,2,2,995,801
+ 137 - Govt: Middle School Hassan Khel Kheraki (Male) PS-II,32.9031,70.61902,Male,KPK,2,0,754,0
+ 138 - Govt: Middle School Hassan Khel Kheraki (Male) PS-I,32.9031,70.61905,Male,KPK,4,0,1142,0
+ 215 - Govt: Girls High School Ghoriwala (Female) PS-I,32.90351,70.72632,Female,KPK,0,4,0,1997
+ 218 - Govt: Girls High School Ghoriwala (Female) PS-II,32.90351,70.72635,Female,KPK,0,4,0,1186
+ 220 - Govt: Primary School No.1 Ghuriwala (Comb),32.90459,70.7261,Combined,KPK,2,2,947,772
+ 287 - Govt: Girls Middle School Faqeer Abdullah Nurar (Female) PS-I,32.90586,70.53734,Female,KPK,0,3,0,969
+ 289 - Govt: Girls Middle School Faqeer Abdullah Nurar (Female) PS-II,32.90586,70.53737,Female,KPK,0,4,0,1121
+ 290 - Govt: High School Khan Zaman Nurar (Comb),32.90622,70.52829,Combined,KPK,2,2,1017,824
+ 213 - Govt: High School Ghoriwala (Male) PS-I,32.90623,70.726,Male,KPK,3,0,857,0
+ 214 - Govt: High School Ghoriwala (Male) PS-III,32.90623,70.72603,Male,KPK,4,0,1461,0
+ 216 - Govt: High School Ghoriwala (Male) PS-II,32.90623,70.72606,Male,KPK,2,0,677,0
+ 217 - Govt: High School Ghoriwala (Male) PS-II,32.90623,70.72609,Male,KPK,3,0,755,0
+ 222 - Govt: Primary School Kot Mehter (Comb),32.90659,70.7161,Combined,KPK,2,2,733,601
+ 134 - BHU Mama Khel Zargar (Comb),32.90688,70.61306,Combined,KPK,2,2,1163,991
+ 241 - Govt: Girls Primary School Mehar Daud Shah (Comb),32.90707,70.71753,Combined,KPK,2,2,927,665
+ 309 - Govt: Girls Primary School Qamar Zaman Ghura Baka Khel (Female),32.90777,70.5128,Female,KPK,0,4,0,1049
+ 135 - Govt: High School Mama Khel (Banochi) Right Side (M),32.90833,70.59919,Male,KPK,4,0,2008,0
+ 136 - Govt: High School Mama Khel (Banochi)Left Side (F),32.90833,70.59922,Female,KPK,0,4,0,1773
+ 286 - Govt: Higher Secondary School Nurar (Male) PS-I,32.90876,70.53766,Male,KPK,2,0,1185,0
+ 288 - Govt: Higher Secondary School Nurar (Male) PS-II,32.90876,70.53769,Male,KPK,4,0,1363,0
+ 115 - Govt: Girls Middle School Hathi Khel Banochi (Comb),32.90945,70.65275,Combined,KPK,2,1,423,351
+ 226 - Govt: Primary School Azad Mughal Khel (Comb),32.910283715126525,70.70811154670906,Combined,KPK,2,2,718,567
+ 113 - Govt: Middle School Inam Tughal Khel (Comb),32.91122,70.63159,Combined,KPK,2,2,595,466
+ 308 - GHS Mir Ghaffar Ghora Baka Khel (Male),32.91319,70.50928,Male,KPK,4,0,1531,0
+ 165 - Govt: Primary School Taji Killa (Male),32.91349,70.6924,Male,KPK,4,0,1470,0
+ 116 - Govt: Primary School Mirdaraz Tughel Khel (MALE),32.91383,70.64614,Male,KPK,4,0,1557,0
+ 117 - GHS Syed Tughel Khel (FEMALE),32.91515,70.64345,Female,KPK,0,4,0,1286
+ 167 - GGPS Taji Kala No. 2 (Female),32.91594,70.6908,Female,KPK,0,4,0,1294
+ 224 - Govt: Primary School Manja Khel (Comb),32.91644063469798,70.69995444961148,Combined,KPK,2,2,731,631
+ 225 - Govt: Girls Primary School Manja Khel (Comb),32.91644063469798,70.6999844496115,Combined,KPK,2,1,448,346
+ 384 - Govt: Girls Primary School Kotka Inayatullah (Combined),32.9187,70.86886,Combined,KPK,1,1,397,300
+ 166 - GPS Barara Mira Khel (Female),32.92006,70.6741,Female,KPK,0,4,0,1496
+ 298 - GPS Nazar Ali Mandev (Comb),32.92165,70.56324,Combined,KPK,2,2,1004,817
+ 394 - Govt: High School Azim Kila (Comb),32.92198,70.91948,Combined,KPK,2,2,806,643
+ 201 - Govt: Girls High School Shamshi Khel (Male) PS-I,32.92239,70.74854,Male,KPK,4,0,1335,0
+ 203 - Govt: Girls High School Shamshi Khel (Male) PS-II,32.92239,70.74857,Male,KPK,3,0,806,0
+ 294 - Govt: High School Mandeve (Male) PS-I,32.92247,70.55891,Male,KPK,4,0,1280,0
+ 295 - Govt: High School Mandeve (Female) PS-II,32.92247,70.55894,Female,KPK,0,4,0,959
+ 192 - Govt: High School Degan (Male) PS-I,32.92315,70.69695,Male,KPK,4,0,1525,0
+ 193 - Govt: High School Degan (Female) PS-II,32.92315,70.69698,Female,KPK,0,4,0,1161
+ 202 - GHS Shamshi Khel (Female) PS-I,32.92453,70.7468,Female,KPK,0,4,0,1166
+ 204 - GHS Shamshi Khel (Female) PS-II,32.92453,70.74683,Female,KPK,0,3,0,755
+ 191 - Govt: Primary School No.1 Shagi Michin Khel (Comb),32.92532,70.73076,Combined,KPK,2,2,1002,723
+ 307 - Govt: Girls Middle School Malik Jan (Female),32.92587,70.48618,Female,KPK,0,4,0,1012
+ 269 - Govt: Primary School Piyao Jan Barak Zai No.2 (Male),32.92617,70.54308,Male,KPK,4,0,1697,0
+ 296 - Govt: Girls High School Qamer Zaman (M) PS-I,32.92618,70.56439,Male,KPK,4,0,1726,0
+ 297 - Govt: Girls High School Qamer Zaman (Female) PS-II,32.92618,70.56442,Female,KPK,0,4,0,1391
+ 155 - Govt: Higher Secondary School Ismail Khel (M) PS-I,32.92663,70.64596,Male,KPK,4,0,1398,0
+ 157 - Govt: Higher Secondary School Ismail Khel (F) PS-II,32.92663,70.64599,Female,KPK,0,4,0,1830
+ 156 - Govt: Primary School School Ismail Khel (M),32.92682,70.64647,Male,KPK,3,0,880,0
+ 158 - GGPS Fatima Khel Khurd (Comb),32.92737,70.65004,Combined,KPK,2,2,735,529
+ 305 - Govt: Middle School Bahader Jan (Male) PS-I,32.92754,70.4817,Male,KPK,4,0,907,0
+ 306 - Govt: Middle School Bahader Jan (Male) PS-II,32.92754,70.48173,Male,KPK,2,0,696,0
+ 162 - Govt: Girls Primary School Bait Ali (Comb),32.92932,70.6767,Combined,KPK,2,2,1174,852
+ 299 - Govt: Girls Primary School Shahdev (Comb),32.93097,70.60416,Combined,KPK,2,2,619,466
+ 163 - Govt: High School Sarmast Mira Khel (Comb),32.93229,70.65976,Combined,KPK,2,2,955,692
+ 164 - Govt: Primary School Toot Gari Mira Khel (Male),32.93229,70.65979,Male,KPK,4,0,1727,0
+ 395 - GGPS Kotka Rajab Ali (Combined),32.93282,70.93541,Combined,KPK,2,2,1035,833
+ 274 - GPS Zonda Ghaibi (Comb),32.93344,70.53818,Combined,KPK,2,1,577,423
+ 272 - GPS Mir Baz Barak Zai (Male),32.93443,70.53085,Male,KPK,4,0,1715,0
+ 273 - Govt: Girls Primary School Mirbaz Barak Zai (Female),32.93509,70.53081,Female,KPK,0,4,0,1304
+ 118 - Govt: Girls Primary School Zalim Mandan (Wali Khan) (Comb),32.9356,70.62814,Combined,KPK,2,2,804,627
+ 160 - Govt: Primary School Imtiaz Khujram Khel (Comb),32.93642,70.64214,Combined,KPK,2,2,699,613
+ 199 - GMS Jalal Sada Khel (Combined),32.93808,70.7797,Combined,KPK,2,2,997,662
+ 271 - Govt: Girls Primary School Khani Killa Barak Zai (Comb),32.93811,70.52826,Combined,KPK,2,2,734,523
+ 386 - GGPS Haq Nawaz Eidal Khel (Combined),32.93876,70.8843,Combined,KPK,2,1,761,504
+ 16 - Govt: Girls Primary School Baisit Khel Mir Azam (Kotka Sheikh Badin) (Comb),32.93945,70.58278,Combined,KPK,2,2,641,435
+ 393 - GPS Wazir Killa (Female),32.93962,70.90269,Female,KPK,0,4,0,1281
+ 159 - Govt: Girls Community Model School Manduri Patal Shah (Comb),32.9398,70.64474,Combined,KPK,2,2,1119,851
+ 182 - Govt: High School Shahbaz Azmat Khel (Male) PS-I,32.94028,70.66361,Male,KPK,4,0,1509,0
+ 184 - Govt: High School Shahbaz Azmat Khel (Male) PS-II,32.94028,70.66364,Male,KPK,4,0,1511,0
+ 186 - Govt: Girls High School Shahbaz Azmat Khel (Male) PS-I,32.94028,70.66367,Male,KPK,4,0,1003,0
+ 187 - Govt: Girls High School Shahbaz Azmat Khel (Female) PS-II,32.94028,70.6637,Female,KPK,0,3,0,851
+ 304 - Govt: High School Surat Khan Baka Khel(Comb),32.94163,70.49008,Combined,KPK,2,2,1096,805
+ 161 - Govt: Girls Primary School Umar Chak Dadan (Comb),32.94179,70.65918,Combined,KPK,2,2,1017,725
+ 392 - GMS Ayub Khan Killa (Male),32.94199,70.89591,Male,KPK,4,0,1366,0
+ 256 - Govt:Middle School Kotka Allah Dad (Combined),32.94199,70.89594,Combined,KPK,2,2,1106,740
+ 259 - Govt: Primary School Mamash Khel Khas Sakhi Jan (Comb),32.94199,70.89597,Combined,KPK,2,2,1053,726
+ 200 - GMS Adamai Rasool Khan (Comb),32.94216,70.7336,Combined,KPK,2,2,546,461
+ 270 - GPS Shamadi Killa (Female),32.94472,70.56689,Female,KPK,0,4,0,1307
+ 399 - GGHS Abas Khan Sirki Khel (Combined),32.94681,70.8699,Combined,KPK,2,2,1198,1011
+ 268 - Govt: Primary School Dad Kachkot Mita Khel (Comb),32.95073,70.59277,Combined,KPK,2,2,871,424
+ 275 - Govt: Primary School Nazar Shah Akhund Khel (Aslam) (Comb),32.95103,70.55296,Combined,KPK,2,2,905,559
+ 183 - G.C.M.S (ADJ) Govt: Primary School Shahbaz Azmat Khel (Female) PS-I,32.95139,70.67389,Female,KPK,0,4,0,1277
+ 185 - G.C.M.S (ADJ) Govt: Primary School Shahbaz Azmat Khel (Female) PS-II,32.95139,70.67392,Female,KPK,0,4,0,1158
+ 194 - Govt: Middle School No.2 Jhandu Khel (Malk Daraz) (Male),32.95165816504195,70.7149853633344,Male,KPK,3,0,942,0
+ 195 - Govt: Middle School No.2 Jhandu Khel (Malk Daraz) (Male),32.95165816504195,70.7150153633344,Male,KPK,4,0,1426,0
+ 171 - Govt: Middle School Ismail Khani (Male) PS-I,32.9531,70.64921,Male,KPK,4,0,1830,0
+ 172 - Govt: Middle School Ismail Khani (Female) PS-II,32.9531,70.64924,Female,KPK,0,4,0,1408
+ 196 - GHS Jandu Khel (Female),32.9534,70.7147,Female,KPK,0,4,0,1894
+ 301 - Govt: High School Ghulam Jan Murib Khel (M) PS-II,32.95451,70.50838,Male,KPK,4,0,1019,0
+ 302 - Govt: High School Ghulam Jan Murib Khel (M) PS-I,32.95451,70.50841,Male,KPK,2,0,713,0
+ 121 - Govt: Girls Primary School Sabu Khel Pai Kala (F),32.95461,70.61079,Female,KPK,0,4,0,1181
+ 264 - Govt: Primary School Khan Suba Mitha Khel (Comb),32.95544,70.58988,Combined,KPK,2,2,578,475
+ 176 - Govt: High School Sero Bada Khel (Male) PS-I,32.95549,70.66058,Male,KPK,4,0,1160,0
+ 177 - Govt: High School Sero Bada Khel (Female) PS-II,32.95549,70.66061,Female,KPK,0,3,0,876
+ 303 - Govt: Girls Primary School Marib Khel (Altamir) Baka Khel (F),32.95621,70.51121,Female,KPK,0,4,0,1269
+ 120 - Govt: Girls Primary School Rastab Ali Sabu Khel (M),32.95639,70.60555,Male,KPK,4,0,1498,0
+ 149 - Govt: Middle School Khawajamad (Comb),32.95639,70.60558,Combined,KPK,2,2,608,514
+ 175 - GGMS Samiullah Siro Khass (Comb),32.95719,70.65051,Combined,KPK,2,1,821,556
+ 150 - Govt Primary School Gull Baz Khan Mandan (Comb),32.95822,70.62229,Combined,KPK,2,2,809,641
+ 198 - Govt: Girls High School Adami Sultan Shah (Comb),32.95834,70.73784,Combined,KPK,2,2,843,646
+ 122 - Govt: Primary School Inayat Mita khel (Comb),32.95889,70.60583,Combined,KPK,2,2,1014,698
+ 119 - Govt: Girls Middle School Saleh Khan Mandan (Comb),32.95917,70.60583,Combined,KPK,2,2,1016,824
+ 170 - GGPS Kala Khel Masti Khan Amanullah (Comb),32.96083,70.63639,Combined,KPK,2,1,487,356
+ 265 - Govt: Primary School Taimoor Shah Mitha Khel (Comb),32.96169,70.59251,Combined,KPK,2,2,787,602
+ 266 - Govt:High School Fazal Shah Mitha Khel (Male),32.96191,70.59609,Male,KPK,4,0,1371,0
+ 267 - GGMS Fazal Shah Mita Khel (Female),32.96199,70.59743,Female,KPK,0,3,0,917
+ 260 - Govt: Girls Primary School Ghareera Shah Jehan (Comb),32.96199483063346,70.57345790860863,Combined,KPK,2,2,732,516
+ 402 - Govt: High School Kotka Awal Khan Qamer Killa (Female),32.96252,70.91527,Female,KPK,0,4,0,1490
+ 404 - GHS Qamar Killa (F),32.96259,70.91525,Female,KPK,0,4,0,1025
+ 263 - Govt: High School Kinger Jan Bahadur (Comb),32.96291922766856,70.58530702304834,Combined,KPK,2,2,728,604
+ 169 - Govt: Primary School Kala Khel Masti Khan (Comb),32.96333,70.63389,Combined,KPK,2,2,952,748
+ 262 - Govt:Primary School Fateh Khel Sarwar (Comb),32.96354,70.57906,Combined,KPK,2,2,675,462
+ 168 - Govt: Girls Middle School Kala Khel Masti Khan (Comb),32.96389,70.63111,Combined,KPK,2,2,1032,796
+ 66 - Govt: Girls High School Gul Ahmad Shah (M) PS-I,32.96506,70.65178,Male,KPK,4,0,1140,0
+ 67 - Govt: Girls High School Gul Ahmad Shah (F) PS-II,32.96506,70.65181,Female,KPK,0,4,0,933
+ 24 - Govt: High School Hinjal Noor Baz Near Trang Qabristan (Male) PS-I,32.96556,70.62111,Male,KPK,4,0,1083,0
+ 25 - Govt: High School Hinjal Noor Baz Near Trang Qabristan (Female) PS-II,32.96556,70.62114,Female,KPK,0,3,0,859
+ 375 - Govt: High School Ghazi Marjan (M) PS-I,32.96558,70.72795,Male,KPK,4,0,1628,0
+ 376 - Govt: High School Ghazi Marjan (F) PS-II,32.96558,70.72798,Female,KPK,0,4,0,1441
+ 143 - Govt: Middle School Atlas Khan Beri Khel Mandan (Comb),32.96646,70.61716,Combined,KPK,2,2,1628,1271
+ 189 - Government Primary School Mardi Khel (Combined),32.96664,70.6777,Combined,KPK,2,1,453,381
+ 197 - GPS Fazal Manan Jandu Khel (Combined),32.96677,70.70811,Combined,KPK,2,2,927,706
+ 173 - Govt Higher Secondary School Naseeb Nawaz (Comb) PS-I,32.96689,70.646,Combined,KPK,2,2,647,394
+ 174 - Govt Higher Secondary School Naseeb Nawaz (Comb) PS-II,32.96689,70.64603,Combined,KPK,2,2,471,320
+ 401 - GHS Kotka Asad Khan Qamar Killa (Male),32.96712,70.88705,Male,KPK,4,0,1778,0
+ 390 - Govt: High School Kotka Muhammad Khan (Comb) PS-I,32.96714,70.88703,Combined,KPK,2,1,518,416
+ 391 - Govt: High School Kotka Muhammad Khan (Comb) PS-II,32.96714,70.88706,Combined,KPK,2,2,989,761
+ 125 - Govt: Primary School Bada Mir Abass (Comb),32.96778,70.62556,Combined,KPK,2,2,797,649
+ 126 - Govt: High School Mandan Bada Mir Abass (Comb),32.96778,70.62559,Combined,KPK,2,2,932,706
+ 124 - GGHS Gul Khan Merzali Khel (Female),32.96833,70.62527,Female,KPK,0,3,0,827
+ 140 - Govt: High School Bhader Manek Khel (Comb) PS-I,32.96877,70.61208,Combined,KPK,2,2,1156,933
+ 142 - Govt: High School Bhader Manek Khel (Comb) PS-II,32.96877,70.61211,Combined,KPK,2,1,424,355
+ 188 - Government Primary School Ghani Michin Khel (Combined),32.96917,70.71194,Combined,KPK,2,2,601,473
+ 180 - Govt: Primary School No.2 Slima Sikander Khel (F),32.9698,70.66264,Female,KPK,0,4,0,1029
+ 144 - Govt: Girls Primary School Shukurllah Beri Khel (Comb),32.96998850659775,70.62390033427513,Combined,KPK,2,2,966,802
+ 261 - Govt: Girls Primary School Feroz Fateh Khel (Sher Azam) (Comb),32.97030095019702,70.58668546105498,Combined,KPK,2,2,602,502
+ 179 - Govt: Higher Secondary School Slima Sikander Khel (M),32.97055,70.66778,Male,KPK,4,0,1206,0
+ 147 - Govt: Primary School Kotka Muhammad Ali (Kauser Fateh Khel (Comb),32.97064,70.60174,Combined,KPK,2,2,1137,748
+ 141 - Govt: Primary School Kafshi Khel Asghar Ali (Comb),32.97103,70.61373,Combined,KPK,2,2,1109,795
+ 123 - Govt: High School Shurkrullah Hussain Mandan (Male),32.97111,70.6275,Male,KPK,4,0,1059,0
+ 181 - Govt: Primary School Kotka Behram shah (Comb),32.972,70.68713,Combined,KPK,2,2,579,422
+ 145 - Govt: Girls Middle School Faiz Talab Abass (M) PS-I,32.97308,70.60635,Male,KPK,4,0,1302,0
+ 146 - Govt: Girls Middle School Faiz Talab Abass (F) PS-II,32.97308,70.60638,Female,KPK,0,4,0,1091
+ 148 - GGCMS Kauser Fateh Khel (Comb),32.97334,70.59535,Combined,KPK,2,2,603,418
+ 381 - Govt: High School Sher Ajam Khan Painda Khel (M) PS-I,32.97415,70.8083,Male,KPK,4,0,1472,0
+ 382 - Govt: High School Sher Ajam Khan Painda Khel (M) PS-II,32.97415,70.80833,Male,KPK,4,0,1371,0
+ 63 - Govt: Middle School Hassan Khel Essaki (Male) PS-I,32.97656,70.64887,Male,KPK,3,0,961,0
+ 65 - Govt: Middle School Hassan Khel Essaki (C) PS-II,32.97656,70.6489,Combined,KPK,2,2,723,601
+ 64 - Govt: Girls Middle School Hassan Khel Essaki (Female),32.97661,70.64892,Female,KPK,0,3,0,758
+ 190 - Govt Primary School Emal Khel (Comb),32.97667,70.65722,Combined,KPK,2,2,944,728
+ 178 - Govt: Primary School Gandili (Comb),32.97667,70.65725,Combined,KPK,2,2,946,739
+ 35 - Custom House Near Naseer Abad (M),32.97696,70.62254,Male,KPK,4,0,1157,0
+ 36 - Custom House Near Naseer Abad (F),32.97696,70.62257,Female,KPK,0,3,0,892
+ 279 - Govt: Girls Primary School Noor Daraz Baka Khel (Comb),32.97749,70.48691,Combined,KPK,2,2,1424,840
+ 257 - GGMS Pirdel Khel Mamash Khel (Combined),32.9786,70.57809,Combined,KPK,2,2,727,552
+ 38 - Govt: Girls Primary School Kotka Imam Shah Mulagana (Comb),32.9787,70.61657,Combined,KPK,2,2,567,453
+ 13 - Govt: Primary School No.2 Sokari Jabbar (Male),32.97907,70.58801,Male,KPK,2,0,844,0
+ 19 - Govt: Primary School Hinjal Amir Khan (M),32.97917,70.60194,Male,KPK,4,0,1427,0
+ 22 - Govt: Girls Primary School Hinjal Amir Khan (F),32.97917,70.60197,Female,KPK,0,4,0,1636
+ 62 - Govt: Primary School No.2 Bazar Ahmad Khan (Comb),32.97941,70.63261,Combined,KPK,2,2,713,529
+ 55 - GPS No.1 Bazar Ahmad Khan (Female),32.97999,70.63467,Female,KPK,0,4,0,1243
+ 57 - Govt: Girls High School Bazar Ahmad Khan (Female) PS-I,32.98063,70.63487,Female,KPK,0,3,0,824
+ 59 - Govt: Girls High School Bazar Ahmad Khan (Female) PS-II,32.98063,70.6349,Female,KPK,0,4,0,1086
+ 54 - Govt: High School Bazar Ahmad Khan (Male) PS-I,32.98105,70.6332,Male,KPK,4,0,1617,0
+ 56 - Govt: High School Bazar Ahmad Khan (Male) PS-I,32.98105,70.63323,Male,KPK,3,0,993,0
+ 58 - Govt: High School Bazar Ahmad Khan (Male) PS-III,32.98105,70.63326,Male,KPK,4,0,1325,0
+ 373 - WAPDA Colony Rest House Bannu (Comb) PS-II,32.98124,70.61586,Combined,KPK,2,2,992,774
+ 39 - WAPDA Colony Rest House Bannu (Comb) PS-I,32.98124,70.61589,Combined,KPK,1,1,382,342
+ 20 - Govt: Post Graduate College Bannu (Male) PS-III,32.98149,70.59866,Male,KPK,2,0,614,0
+ 23 - Govt: Post Graduate College Bannu (Fmale) PS-IV,32.98149,70.59869,Female,KPK,0,3,0,740
+ 17 - Govt: Post Graduate College Bannu (Male) PS-I,32.98149,70.59872,Male,KPK,3,0,904,0
+ 18 - Govt: Post Graduate College Bannu (Fmale) PS-II,32.98149,70.59875,Female,KPK,0,2,0,395
+ 37 - GGPS Garhi Sher Ahmad (Comb),32.9815,70.62299,Combined,KPK,2,2,762,595
+ 374 - Govt: Girls High School Kotka Juma Khan (Comb),32.98174,70.61428,Combined,KPK,2,2,904,644
+ 14 - Govt: Girls Primary School No.1 Sukari Jabar Rahim Gul (Female),32.98225,70.59124,Female,KPK,0,4,0,1454
+ 366 - Headquarter Veternery Hospital Inside (Mandan Gate) (Male),32.98227,70.60787,Male,KPK,3,0,890,0
+ 367 - Govt: Girls Primary School No.2 Bannu City (F),32.98253,70.60405,Female,KPK,0,4,0,1504
+ 357 - Govt:Girls Higher Secondary School Bannu (Female),32.98274,70.59946,Female,KPK,0,4,0,1360
+ 249 - Govt: Primary School Rai Khan Khudri Muhammad Khel (MALE),32.98341,70.54119,Male,KPK,4,0,2028,0
+ 383 - Govt: Girls Middle School Farid Painda Khel (F),32.98362,70.80582,Female,KPK,0,4,0,1834
+ 361 - Govt: Primary School No.7 Bannu City (Female),32.98395,70.60374,Female,KPK,0,3,0,983
+ 372 - Govt: Primary School No. 5 Bannu (F),32.98402,70.60851,Female,KPK,0,4,0,1365
+ 4 - Govt: Middle School Sukari Jabar (Male) PS-I,32.98443,70.58939,Male,KPK,3,0,840,0
+ 5 - Govt: Middle School Sukari Jabar (Male) PS-II,32.98443,70.58942,Male,KPK,4,0,1152,0
+ 360 - Govt: High School No. 1 Bannu City (Male),32.98449,70.60279,Male,KPK,4,0,1158,0
+ 12 - Govt: Primary School No.1 Sokari Jabbar (Male),32.98452,70.59072,Male,KPK,4,0,1135,0
+ 370 - Govt: Girls Primary School No.1 Gardnali Bannu City (M),32.98452,70.60638,Male,KPK,4,0,1112,0
+ 7 - Govt: Primary School Sukari Karim Khan (Male),32.98454,70.58929,Male,KPK,3,0,963,0
+ 359 - Govt: Primary School No.1 Bannu (Female),32.9846,70.60035,Female,KPK,0,4,0,1066
+ 364 - Govt: Girls High School No.1 Bannu (F),32.98481,70.60261,Female,KPK,0,4,0,1609
+ 362 - Tehsil Building Office Bannu (Male) PS-I,32.98559,70.60566,Male,KPK,4,0,1159,0
+ 363 - Tehsil Building Office Bannu (Male) PS-II,32.98559,70.60569,Male,KPK,3,0,832,0
+ 358 - Bannu Medical College (Male),32.98638,70.59914,Male,KPK,4,0,1243,0
+ 248 - Govt: High School Khudri Muhammad Khel (Comb) PS-I,32.98646,70.5403,Combined,KPK,2,2,1188,666
+ 251 - Govt: High School Khudri Muhammad Khel (Comb) PS-II,32.98646,70.54033,Combined,KPK,1,1,358,219
+ 250 - Govt: Girls Primary School shah Jahan Khudri Muhammad Khel (Female),32.98646,70.54036,Female,KPK,0,4,0,1406
+ 6 - Govt: Girls Primary School Sukari Bahader (Female),32.98683,70.59121,Female,KPK,0,4,0,1485
+ 355 - Govt High School No.2 Bannu (Male) PS-I,32.98703,70.59999,Male,KPK,3,0,968,0
+ 356 - Govt High School No.2 Bannu (Male) PS-II,32.98703,70.60002,Male,KPK,2,0,689,0
+ 368 - Govt: Middle School (Chotaram) Bannu (Male),32.98724,70.60891,Male,KPK,4,0,1124,0
+ 352 - Govt Primary School No.10 Bannu City (F),32.98748,70.59917,Female,KPK,0,4,0,1462
+ 26 - Govt: Girls Primary School Hinjal Noor Baz (Comb),32.9875,70.61723,Combined,KPK,2,2,842,709
+ 433 - Govt. Girls Primary School Dogar Umerzai (Haji Muqadam) (comb),32.98758,70.72169,Combined,KPK,2,1,472,340
+ 61 - Govt:Girls Primary School Kotka Sher Zad (Combined),32.98769,70.63363,Combined,KPK,2,1,490,395
+ 29 - IMS University of Science and Technology Bannu (Male) PS-I,32.98774,70.61419,Male,KPK,4,0,1655,0
+ 30 - IMS University of Science and Technology Bannu (Female) PS-II,32.98774,70.61422,Female,KPK,0,4,0,1244
+ 31 - Govt: Primary School Fatma Khel (Comb),32.98814,70.61992,Combined,KPK,2,2,588,436
+ 34 - Govt: Girls Middle School Fatma Khel (Comb),32.98831,70.61563,Combined,KPK,2,2,1057,755
+ 350 - Govt: Girls Primary School No.3 Jadid Abadi (M)  PS-I,32.98833,70.60162,Male,KPK,4,0,1287,0
+ 351 - Govt: Girls Primary School No.3 Jadid Abadi (M)  PS-II,32.98833,70.60165,Male,KPK,2,0,641,0
+ 369 - MC/TMA office Bannu (Female),32.98901,70.60745,Female,KPK,0,3,0,768
+ 9 - GGPS Sokari Kamal Khel (Female),32.98907,70.59577,Female,KPK,0,4,0,1180
+ 254 - Govt: High School Dairy Saidan Mamash Khel (Combined),32.98925,70.57248,Combined,KPK,2,2,1090,812
+ 32 - Govt Degree College No.2 Bannu (M),32.99023,70.61346,Male,KPK,2,0,688,0
+ 33 - Govt Degree College No.2 Bannu (F),32.99023,70.61349,Female,KPK,0,2,0,542
+ 75 - Govt: Girls Middle School Koti Sadat (Male),32.99097,70.66766,Male,KPK,4,0,1491,0
+ 74 - GGHS Kotka Feroz (Comb),32.99119,70.64924,Combined,KPK,2,2,654,542
+ 377 - Govt: Middle School Tirkhoba Gul Jawar (Male) PS-I,32.99213,70.75972,Male,KPK,4,0,1608,0
+ 378 - Govt: Middle School Tirkhoba Gul Jawar (F) PS-II,32.99213,70.75975,Female,KPK,0,4,0,1170
+ 431 - Govt. Middle School Doger Umer Zai (Comb),32.99298,70.71561,Combined,KPK,2,2,821,601
+ 353 - C & W Office Bannu (Male),32.99307,70.601,Male,KPK,4,0,1541,0
+ 354 - XEN Irrigation Office Bannu (Female),32.99321,70.60049,Female,KPK,0,4,0,1176
+ 1 - F.G Junior Public School Juma Khan Road Bannu Cantt (Comb),32.99329,70.61206,Combined,KPK,2,2,679,510
+ 11 - Main Campus University Bannu (Combined) PS-II,32.99452,70.59663,Combined,KPK,2,2,801,625
+ 10 - Main Campus University Bannu (Comb) PS-I,32.99452,70.59666,Combined,KPK,2,2,1023,726
+ 76 - Govt: Girls Higher Secondary School Koti Sadat (Female) (PS-I),32.99465,70.66601,Female,KPK,0,4,0,1256
+ 78 - Govt: Girls Higher Secondary School Koti Sadat (Female) (PS-II),32.99465,70.66604,Female,KPK,0,2,0,753
+ 42 - Govt: Primary School Kot Beli (Female),32.99489,70.62263,Female,KPK,0,4,0,1432
+ 27 - Sports Complex Bannu (Male) PS-I,32.99502,70.61924,Male,KPK,4,0,1264,0
+ 28 - Sports Complex Bannu (Female) PS-II,32.99502,70.61927,Female,KPK,0,3,0,935
+ 40 - I.I.T University of Science and Technology Bannu (Male) PS-I,32.99514,70.61786,Male,KPK,4,0,1137,0
+ 41 - I.I.T University of Science and Technology Bannu (Male) PS-II,32.99514,70.61789,Male,KPK,3,0,801,0
+ 379 - Govt: High School Bodin Khel (Iqbal) (Comb),32.99524,70.78893,Combined,KPK,2,2,957,696
+ 46 - Agriculture Office Near Tapi Kalan (Comb) PS-I,32.99781,70.58857,Combined,KPK,2,2,635,408
+ 47 - Agriculture Office Near Topi Kalan (Combined) PS-II,32.99781,70.5886,Combined,KPK,2,2,949,704
+ 252 - Govt: Higher Secondary School Mamash Khel (Comb) PS-I,32.99789,70.56903,Combined,KPK,2,2,652,476
+ 255 - Govt: Higher Secondary School Mamash Khel (Comb) PS-II,32.99789,70.56906,Combined,KPK,2,1,592,378
+ 243 - Govt: Primary School Garhi Saidan No.2 (M),32.99932,70.56489,Male,KPK,4,0,1211,0
+ 244 - Govt: Girls Primary School Garhi Saidan (F),32.99932,70.56492,Female,KPK,0,3,0,882
+ 253 - Govt: Girls Primary School Purana Saidan (Sheikhan) Mamash Khel (Comb),32.99991,70.57169,Combined,KPK,2,2,1246,831
+ 53 - GPS Amandi Sheikh Amir (Comb),33.00071,70.59028,Combined,KPK,2,2,638,471
+ 43 - Govt: Primary School Kot Adil (Female),33.00071,70.61523,Female,KPK,0,3,0,1474
+ 79 - Govt: High School Boza Khel (Male) (PS-I),33.00086,70.65819,Male,KPK,3,0,845,0
+ 80 - Govt: High School Boza Khel (Male) (PS-II),33.00086,70.65822,Male,KPK,4,0,1144,0
+ 81 - Govt: Girls High School Boza Khel (Female),33.00142,70.65453,Female,KPK,0,4,0,1447
+ 70 - Govt: Girls High School Dhram Khel (M),33.00175,70.63618,Male,KPK,4,0,1236,0
+ 71 - Govt: Girls High School Dhram Khel (F),33.00175,70.63621,Female,KPK,0,3,0,997
+ 44 - Govt: Girls Middle School Kot Adil (Male),33.00177,70.61536,Male,KPK,4,0,1874,0
+ 72 - UC Office Nizam Dhrma Khel (M),33.00375,70.64262,Male,KPK,4,0,1690,0
+ 258 - Govt: Middle School Eidak Behram Che Ghari Mamash Khel (Comb),33.00399,70.57261,Combined,KPK,2,2,925,685
+ 240 - BHU Haji Gulan Daud Shah (Comb),33.00458,70.55348,Combined,KPK,2,1,826,517
+ 82 - Govt: Girls Middle School Zakir Khel Ibrahim Gul (M),33.00551,70.64552,Male,KPK,4,0,1192,0
+ 83 - Govt: Middle School Zakir Khel Ibrahim Gul (F),33.00551,70.64555,Female,KPK,0,3,0,909
+ 380 - Govt: Degree College Badin Khel (Doctor Khan) (Comb),33.00552,70.77994,Combined,KPK,2,2,931,612
+ 49 - GGPS Amandi Shah Jehan (Female),33.00662,70.58715,Female,KPK,0,2,0,887
+ 51 - Govt: Primary School Amandi Shajahan Shah (M) PS-I,33.00662,70.58718,Male,KPK,4,0,1085,0
+ 52 - Govt: Primary School Amandi Shajahan Shah (F) PS-II,33.00662,70.58721,Female,KPK,0,2,0,733
+ 397 - GPS Kamal Waligai (Comb),33.00737,70.88795,Combined,KPK,2,2,1005,762
+ 48 - Govt: Girls High School Amandi Gul Hassan (Male),33.00836,70.58249,Male,KPK,3,0,1189,0
+ 96 - Govt: Primary School Hassani (Comb),33.00852,70.63737,Combined,KPK,2,2,936,733
+ 242 - GMS Piran Daud Shah (Comb),33.00882,70.5624,Combined,KPK,2,1,529,369
+ 398 - GPS Musa Khel Waligai (Combined),33.00892,70.87595,Combined,KPK,2,2,602,454
+ 69 - Govt: Middle School Ali Mat (Comb),33.00912,70.62838,Combined,KPK,2,2,776,596
+ 45 - GGPS Piran Daud Shah (Comb),33.00913,70.56309,Combined,KPK,2,2,930,677
+ 423 - GHS Bezan Khel (Combined) PS-I,33.00947,70.68841,Combined,KPK,2,1,497,386
+ 424 - GHS Bezan Khel (Combined) PS-II,33.00947,70.68844,Combined,KPK,2,2,1658,1341
+ 420 - Govt: Girls Middle School Muhammad Noor Patol Khel (Comb),33.01031,70.79825,Combined,KPK,2,2,1075,571
+ 419 - GHS Wali Zar (Combined),33.01043,70.82318,Combined,KPK,2,2,1326,895
+ 101 - Govt: High School Kachkot Asad Khan (M) PS-I,33.01149,70.60807,Male,KPK,4,0,1494,0
+ 102 - Govt: High School Kachkot Asad Khan (F) PS-II,33.01149,70.6081,Female,KPK,0,4,0,1019
+ 421 - Government Technical Training Center Bannu Township (Combined) PS-I,33.01164,70.68538,Combined,KPK,2,2,641,455
+ 422 - Government Technical Training Center Bannu Township (Combined) PS-II,33.01164,70.68541,Combined,KPK,2,2,709,504
+ 50 - Govt: Higher Secondary School Amandi Umer Khan (Comb),33.01178,70.57754,Combined,KPK,2,2,881,571
+ 68 - Govt: Middle School Kachozai (Comb),33.01292,70.62997,Combined,KPK,2,2,835,672
+ 85 - Govt: High Secondary School Sikander Khel Bala (M) PS-I,33.01294,70.65907,Male,KPK,4,0,1314,0
+ 86 - Govt: High Secondary School Sikander Khel Bala (F) PS-II,33.01294,70.6591,Female,KPK,0,4,0,949
+ 87 - Govt: Girls Higher Secondery School Sikander Khel Bala (High Section) (M) PS-I,33.01294,70.65913,Male,KPK,4,0,1421,0
+ 88 - Govt: Girls Higher Secondery School Sikander Khel Bala (High Section) (F) PS-II,33.01294,70.65916,Female,KPK,0,3,0,965
+ 84 - Govt: Middle School Hassani Dara Shah (Comb),33.01417,70.6416,Combined,KPK,2,2,689,467
+ 238 - Govt: Girls High School Jangi Daud Shah (Comb),33.0144,70.54721,Combined,KPK,2,2,851,738
+ 239 - Govt:Primary School Purana Daud Shah (Comb),33.01517,70.55699,Combined,KPK,2,1,536,395
+ 100 - Govt: Girls Degree Collage Surani (Comb),33.01524,70.62012,Combined,KPK,2,2,547,452
+ 108 - Govt: Primary School Bazida Kokal Khel (Comb),33.01646,70.61266,Combined,KPK,2,2,1008,743
+ 98 - Govt: Girls High School Mewa Khel (M) PS-I,33.0191,70.63654,Male,KPK,2,0,551,0
+ 99 - Govt: Girls High School Mewa Khel (F) PS-II,33.0191,70.63657,Female,KPK,0,2,0,569
+ 103 - Govt: Girls High School Mewa Khel (Comb) PS-III,33.0191,70.6366,Combined,KPK,2,1,424,299
+ 105 - Govt: High School School Lalozai (F),33.02062,70.59705,Female,KPK,0,3,0,935
+ 236 - Govt: Primary School Ladha Khel Daud Shah(M) PS-I,33.02097,70.5518,Male,KPK,4,0,1329,0
+ 237 - Govt: Primary School Ladha Khel Daud Shah(F) PS-II,33.02097,70.55183,Female,KPK,0,3,0,971
+ 106 - Govt: Girls Middle School Lalozai (M),33.02197,70.60197,Male,KPK,4,0,1177,0
+ 111 - Govt: Girls Primary School Toorka Muhibullah (M),33.02229,70.61426,Male,KPK,4,0,1042,0
+ 112 - Govt: Primary School Toorka Muhammad Ali (Female),33.02229,70.61429,Female,KPK,0,3,0,859
+ 416 - Govt: Middle School Noor Sahib Khan (Female),33.02242,70.78168,Female,KPK,0,4,0,1598
+ 247 - Govt: Girls High School Ghafar Muhammad Khel (Female),33.02309,70.54285,Female,KPK,0,4,0,1552
+ 97 - Govt: Girls Primary School Bazida Karim Khan (Comb),33.02315,70.62331,Combined,KPK,2,2,1080,781
+ 430 - Govt. Girls Primary School No. 2 Dabek Said Khel (F) PS-II,33.02328,70.71215,Female,KPK,0,4,0,1664
+ 245 - GGPS Israil Shaheed Muhammad Khel Wazir (Male),33.02393,70.5416,Male,KPK,3,0,859,0
+ 92 - Govt: Primary School Haibek Sherza Khan (F),33.02499,70.6489,Female,KPK,0,4,0,1106
+ 414 - Union Council Office Domel (Male) PS-I,33.02534,70.76401,Male,KPK,4,0,1089,0
+ 415 - Union Council Office Domel (Male) PS-II,33.02534,70.76404,Male,KPK,4,0,1283,0
+ 91 - Govt: High School Haibek Sherza Khan (M) PS-II,33.02571,70.64437,Male,KPK,4,0,1534,0
+ 89 - Govt: High School Hebak Sherza Khan (M) PS-I,33.02572,70.64445,Male,KPK,4,0,1462,0
+ 95 - Govt: Girls Primary School Basia Khel (Comb),33.02579,70.61646,Combined,KPK,2,2,921,638
+ 93 - Govt: Girls High School Kotka Daulat Khan (M) PS-I,33.02582,70.63766,Male,KPK,4,0,1261,0
+ 94 - Govt: Girls High School Kotka Daulat Khan (F) PS-II,33.02582,70.63769,Female,KPK,0,3,0,896
+ 107 - Govt: Girls Primary School Mandori Qatal Shah (F),33.0276,70.59813,Female,KPK,0,3,0,813
+ 429 - Govt. Primary School No. 1 Dabek Said Khel (M) PS-I,33.02835,70.71686,Male,KPK,4,0,1190,0
+ 427 - Govt. Middle School Dabek Said Khel (Comb),33.0284,70.71692,Combined,KPK,2,2,1270,802
+ 418 - Govt: Girls Primary School Ihsan Spina Tangi No. 2 (Comb),33.02851,70.81051,Combined,KPK,2,2,1219,747
+ 411 - Govt Girls Primary School Jangi Kalla (Abdullah) (comb),33.03239,70.75311,Combined,KPK,2,2,1180,826
+ 109 - Govt: Middle School Bangi Khel (Comb) PS-I,33.03417,70.61491,Combined,KPK,2,2,644,473
+ 110 - Govt: Middle School Bangi Khel (Comb) PS-II,33.03417,70.61494,Combined,KPK,2,1,522,366
+ 425 - GMS Dwamanza Bezan Khel (M) PS-I,33.03444,70.66222,Male,KPK,4,0,1366,0
+ 426 - GMS Dwamanza Bezan Khel (F) PS-II,33.03444,70.66225,Female,KPK,0,3,0,925
+ 428 - Govt. Girls Primary School Khiall Badshah (M),33.03655,70.71375,Male,KPK,4,0,1200,0
+ 412 - Govt: Primary School Gull Rauf Pir Ba Khel (M),33.03928,70.75753,Male,KPK,4,0,1614,0
+ 413 - Govt: Girls Primary School Gull Rauf Pir Ba Khel (F),33.03928,70.75756,Female,KPK,0,4,0,1214
+ 417 - Govt: Middle School Aklim Khan Killa (Comb),33.041093473954426,70.79385306113254,Combined,KPK,2,2,1399,824
+ 410 - Govt: Primary School Azeem Bakar Khel (F),33.05318,70.76117,Female,KPK,0,4,0,1190
+ 405 - Govt: High School Kotka Habibullah (M) PS-I,33.05385,70.79456,Male,KPK,4,0,1876,0
+ 406 - Govt: High School Kotka Habibullah (F) PS-II,33.05385,70.79459,Female,KPK,0,4,0,1493
+ 407 - Govt: Elementary College Kotka Habibullah (M) PS-I,33.05766,70.7984,Male,KPK,4,0,1432,0
+ 408 - Govt: Elementary College Kotka Habibullah (F) PS-II,33.05766,70.79843,Female,KPK,0,3,0,943
+ 409 - Govt Girls Primary School (Malik Muhammad Ilyas) (M),33.07833,70.78454,Male,KPK,4,0,1838,0

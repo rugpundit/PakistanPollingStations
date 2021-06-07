@@ -1,0 +1,238 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 21 - Government. Girls  Primary School Chak No.162/RB Sikandarpur (Female) Permanent,31.3274354,73.2513452,Female,Punjab,0,2,0,943
+ 26 - Government. Boys Primary School Chak No.185/RB (Combined) Permanent,31.3274354,73.2513752,Combined,Punjab,1,1,617,492
+ 138 - Government. Girls  Primary School  Chak No.140/RB (Combined) Permanent,31.4115275,73.1800911,Combined,Punjab,2,2,792,669
+ 201 - Government.Boys Primary School Chak No. 53/RB Jhugiyan  (Combined) Permanent,31.4256102,73.112925,Combined,Punjab,2,1,728,519
+ 205 - Government. Boys Primary School No.II Chak No. 57/RB Rajaywala khurd  (Combined) Permanent,31.4256102,73.112955,Combined,Punjab,1,1,370,264
+ 208 - Government. Boys Primary School Chak No. 59/RB Gandiwind (Combined) Permanent,31.4256102,73.112985,Combined,Punjab,1,1,575,410
+ 209 - Government. Boys  Primary School No.II Chak No.59/RB Warrian  (Combined) Permanent,31.4256102,73.113015,Combined,Punjab,2,1,767,514
+ 210 - Basic Health Unit Chak No. 58/RB (Male) Permanent,31.4256102,73.113045,Male,Punjab,3,0,1423,0
+ 211 - Government. Girls Middle School Chak No. 58/RB (Female) Permanent,31.4256102,73.113075,Female,Punjab,0,3,0,1087
+ 220 - Office  Union Council Chak No.61/RB (Combined) Permanent,31.4256102,73.113105,Combined,Punjab,1,1,342,224
+ 223 - Government. Girls High School Chak No.61/RB (Male) Permanent,31.4256102,73.113135,Male,Punjab,4,0,1870,0
+ 224 - Government. Girls High School Chak No.61/RB (Female) Permanent,31.4256102,73.113165,Female,Punjab,0,2,0,1507
+ 226 - Government. Boys Primary School Chak No.62/RB (Male) Permanent,31.4256102,73.113195,Male,Punjab,3,0,1410,0
+ 227 - Government. Boys Primary School Chak No.62/RB (Female) Permanent,31.4256102,73.113225,Female,Punjab,0,2,0,977
+ 230 - Government.  Girls Primary School Chak No.71/RB (Combined) Permanent,31.4256102,73.113255,Combined,Punjab,2,1,689,495
+ 232 - Government. Girls Community Modle School Chak No. 68/RB- Jamiana (Combined) Permanent,31.4256102,73.113285,Combined,Punjab,1,1,312,203
+ 233 - Government. Boys Primary School Chak No. 68/RB Kalla (Male) Permanent,31.4256102,73.113315,Male,Punjab,4,0,1918,0
+ 234 - Government. Girls High  School Chak No. 68/RB (Female) Permanent,31.4256102,73.113345,Female,Punjab,0,3,0,1457
+ 170 - Government. Boys Primary School Chak No 191/RB Moloani East (Male) Permanent,31.4301044,73.0694074,Male,Punjab,4,0,1982,0
+ 171 - Government. Girls  Elementery School Chak No 191/RB Moloani East-  (Female) Permanent,31.4301044,73.0694374,Female,Punjab,0,4,0,1730
+ 173 - Government. Girls  Primary School Chak No 191/RB West-  (Female) Permanent,31.4301044,73.0694674,Female,Punjab,0,2,0,1108
+ 175 - Government. Girls  Primary School Chak No 191/RB West-  (Female) Permanent,31.4301044,73.0694974,Female,Punjab,0,2,0,613
+ 166 - Government. Boys Primary School Chak No 190/RB Karari Khurd East (Male.),31.4301044,73.0695274,Male,Punjab,3,0,1385,0
+ 141 - Government. Girls  Primary School Rasool Pura Chak Jhumra  (Male) Permanent,31.4376996,73.139716,Male,Punjab,3,0,1503,0
+ 142 - Government. Girls  Primary School Rasool Pura Chak Jhumra  (Combined) Permanent,31.4376996,73.139746,Combined,Punjab,1,1,543,418
+ 82 - Government. Girls  High School Chak No.124/RB Paroopiyan (Male) Permanent,31.4376996,73.139776,Male,Punjab,2,0,1040,0
+ 100 - Government Girls Primary School Chak No.126/RB Dar-ul-Ihsan (Male) Permanent,31.4376996,73.139806,Male,Punjab,3,0,1495,0
+ 199 - Government.Girls Community Middle School Chak No.55/RB (Combined) Permanent,31.4376996,73.139836,Combined,Punjab,2,2,1114,755
+ 200 - Government.Girls Primary School-I Chak No. 53/RB Saryali (Combined) Permanent,31.4376996,73.139866,Combined,Punjab,2,1,686,422
+ 202 - Government. Girls Primary School Chak No. 56/RB Chotala (Combined) Permanent,31.4376996,73.139896,Combined,Punjab,1,1,276,160
+ 206 - Government. Boys Primary School  Chak No. 52/RB (Male) Permanent,31.4376996,73.139926,Male,Punjab,3,0,1377,0
+ 207 - Government. Girls  Primary School  Chak No. 52/RB (Female) Permanent,31.4376996,73.139956,Female,Punjab,0,2,0,1020
+ 18 - Government. Boys Primary School Chak No.186/RB Dogaranwala (Female) Permanent,31.4376996,73.139986,Female,Punjab,0,2,0,912
+ 265 - Government. Girls Middle School Chak No. 70/RB (Male) Permanent,31.4610325,73.0997372,Male,Punjab,4,0,1756,0
+ 266 - Government. Girls Middle School Chak No.70/RB (Female) Permanent,31.4610325,73.0997672,Female,Punjab,0,3,0,1312
+ 267 - Government.Boys Primary School Chak No.73/RB Karrian wala (Male) Permanent,31.4645074,73.1020959,Male,Punjab,3,0,1191,0
+ 254 - Government Girls High School Chak No.   96/RB (Female) Permanent,31.47725,73.40747,Female,Punjab,0,3,0,1525
+ 186 - Government. Boys Middle School Chak No.197/RB( Male ) Permanent,31.4817235,73.1768244,Male,Punjab,3,0,1223,0
+ 183 - Government Iqra Girls Primary  School Chak No 197/RB (Combined) Nie Abadi Permanent,31.4841311,73.174393,Combined,Punjab,1,1,590,437
+ 187 - Union Coucnil Office- 197/RB ( Female) Permanent,31.4841311,73.174423,Female,Punjab,0,2,0,1059
+ 249 - Government. Boys Primary School-II Chak No.97/RB (Female) Permanent,31.4841645,73.3741509,Female,Punjab,0,4,0,1699
+ 252 - Basic Health Unit  Chak No. 96/RB (Male) Permanent,31.4841645,73.3741809,Male,Punjab,2,0,1103,0
+ 255 - Government. Boys Middle School Chak No. 99/RB (Male) Permanent,31.4841645,73.3742109,Male,Punjab,3,0,1388,0
+ 256 - Government. Girls  Middle School Chak No. 99/RB (Female) Permanent,31.4841645,73.3742409,Female,Punjab,0,2,0,982
+ 257 - Government. Boys  Middle School Chak No. 99/RB (Combined) Permanent,31.4841645,73.3742709,Combined,Punjab,2,1,618,427
+ 184 - Government Girls Community Primary School  Chak No 197/RB  (Male) Permanent,31.485368,73.1756951,Male,Punjab,4,0,1730,0
+ 174 - Government. Boys Primary School Chak No 191/RB Moloani West-  (Male) Permanent,31.4866415,73.1580181,Male,Punjab,2,0,765,0
+ 192 - Government. Girls  Primary School -II  Chak No 201/RB West (Male) Permanent,31.4866415,73.1580481,Male,Punjab,3,0,1261,0
+ 194 - Government. Boys Primary School Chak No 201/RB West (Female) Permanent,31.4866415,73.1580781,Female,Punjab,0,2,0,1006
+ 250 - Government.Boys Primary School Chak No.98/RB (Male) Permanent,31.4868783,73.4012613,Male,Punjab,4,0,1654,0
+ 190 - Government. Girls  Primary School Chak No 201/RB East (Male) Permanent,31.4939619,73.1706854,Male,Punjab,3,0,1816,0
+ 191 - Government. Girls  Primary School Chak No 201/RB East (Female) Permanent,31.49525,73.16853,Female,Punjab,0,3,0,1493
+ 239 - Government.Boys Primary School Chak No. 94/RB (Male) Permanent,31.50196,73.4146,Male,Punjab,3,0,1294,0
+ 240 - Government. Boys Primary School Chak No. 94/RB (Female) Permanent,31.50196,73.41463,Female,Punjab,0,2,0,950
+ 248 - Government. Girls High School Chak No. 97/RB (Male) Permanent,31.5034513,73.3873094,Male,Punjab,4,0,2116,0
+ 247 - Government. Boys Primary School-I Chak No. 97/RB (Female) Permanent,31.5093275,73.3839018,Female,Punjab,0,2,0,788
+ 246 - Government. Girls High School Chak No. 97/RB (Male) Permanent,31.5106264,73.3849494,Male,Punjab,2,0,921,0
+ 258 - Government. Girls Primary School Chak No.69/RB Ghaseet Pura Choota (Combined) Permanent,31.5108815,73.3522641,Combined,Punjab,2,2,1016,764
+ 259 - Government. Girls High School Chak No. 69/RB Ghaseet Pura Bara   (Male) Permanent,31.5108815,73.3522941,Male,Punjab,2,0,952,0
+ 261 - Government. Boys High School Chak No.69/RB  Ghaseet Pura Bara   (Combined) Permanent,31.5108815,73.3523241,Combined,Punjab,2,1,608,431
+ 262 - Government. Boys High School Chak No.69/RB Ghaseet Pura Bara   (Combined) Permanent,31.5108815,73.3523541,Combined,Punjab,2,1,1052,266
+ 264 - Government.Boys Primary School Chak No. 70/RB (Combined) Permanent,31.5108815,73.3523841,Combined,Punjab,2,2,992,859
+ 244 - Government. Boys Primary School Chak No.92/RB (Combined) Permanent,31.5125,73.44785,Combined,Punjab,2,2,936,776
+ 245 - Government. Boys Primary Schoo Chak No. 95/RB (Combined) Permanent,31.5162292,73.4447233,Combined,Punjab,2,2,887,687
+ 180 - Government Girls High School Chak No 192/RB (Female) Permanent,31.5169608,73.2118446,Female,Punjab,0,3,0,1587
+ 179 - Government Girls High School Chak No 192/RB (Male) Permanent,31.5176458,73.2106409,Male,Punjab,4,0,1883,0
+ 271 - Government. Girls High School Chak 73/RB Tibbi (Male.),31.5192464,73.3034746,Male,Punjab,3,0,1568,0
+ 273 - Government. Boys Primary School Chak No.74/RB Bandala (Male) Permanent,31.519419,73.3104784,Male,Punjab,4,0,1720,0
+ 274 - Government. Girls Primary School Chak No. 74/RB Bandala  (Female) Permanent,31.519419,73.3105084,Female,Punjab,0,3,0,1337
+ 269 - Government. Girls Community Model Elementary School Chak No.73/RB Karrianwala (Male Permanent,31.5194432,73.3052711,Male,Punjab,2,0,1042,0
+ 272 - Government. Girls High School Chak 73/RB Tibbi (Female) Permanent,31.5194432,73.3053011,Female,Punjab,0,3,0,1317
+ 276 - Basic Health Unit Chak No.  76/RB (Combined) Permanent,31.5194432,73.3053311,Combined,Punjab,1,1,351,292
+ 178 - Government Girls High School Chak No 195/RB (Combined) Permanent,31.5205097,73.132938,Combined,Punjab,2,2,995,836
+ 251 - Government. Girls Primary School Chak No. 98/RB (Female) Permanent,31.5212776,73.3712854,Female,Punjab,0,3,0,1187
+ 181 - Government Boys High School Chak No 192/RB (Male) Permanent,31.5217987,73.2085246,Male,Punjab,4,0,1699,0
+ 182 - Government Boys High School Chak No 192/RB (Female) Permanent,31.5217987,73.2085546,Female,Punjab,0,3,0,1424
+ 275 - Government. Boys Primary School Chak No. 74/RB Lokay (Combined) Permanent,31.5224353,73.2324819,Combined,Punjab,2,2,1160,933
+ 279 - Government. Boys Elementary School Chak No.77/RB (Male) Permanent,31.5224353,73.2325119,Male,Punjab,3,0,1546,0
+ 237 - Government. Boys Elementary School Chak No. 93/RB (Male) Permanent,31.52425,73.42812,Male,Punjab,4,0,1788,0
+ 238 - Government. Boys Elementary School Chak No. 93/RB (Female) Permanent,31.52425,73.42815,Female,Punjab,0,3,0,1393
+ 236 - Government. Girls Elementary School Chak No. 90/RB (Female) Permanent,31.5253117,73.4609272,Female,Punjab,0,3,0,1283
+ 241 - Government .Boys High School Chak No. 91/RB (Male) Permanent,31.5253117,73.4609572,Male,Punjab,3,0,1402,0
+ 242 - Government .Boys High School Chak No. 91/RB (Female) Permanent,31.5253117,73.4609872,Female,Punjab,0,2,0,1128
+ 9 - Government.Boys  High School Chak No.189/RB (Male) Permanent,31.5271479,73.2328563,Male,Punjab,3,0,1211,0
+ 10 - Government.Boys  High School Chak No.189/RB (Female) Permanent,31.5271479,73.2328863,Female,Punjab,0,2,0,1040
+ 12 - Government Girls Higher Secondry School Chak No.189/RB (Male) Permanent,31.5271479,73.2329163,Male,Punjab,3,0,1521,0
+ 13 - Government Girls Higher Secoundry School Chak No.189/RB (Female) Permanent,31.5271479,73.2329463,Female,Punjab,0,2,0,1201
+ 24 - Government. Boys Primary School Chak No.165/RB (Combined) Permanent,31.530362,73.2619771,Combined,Punjab,2,1,875,751
+ 168 - Government Boys  Elementary  School Chak No 190/RB Karari Kalan West (Male) Permanent,31.5310757,73.1696079,Male,Punjab,2,0,1026,0
+ 169 - Government Girls High School Chak No 190/RB Karari Kalan West (Female) Permanent,31.5314116,73.1708698,Female,Punjab,0,2,0,863
+ 221 - Government. Boys High School Chak No.61/RB (Male) Permanent,31.54155,73.4019,Male,Punjab,2,0,1090,0
+ 235 - Government. Girls Elementary School Chak No. 90/RB (Male) Permanent,31.54286,73.44718,Male,Punjab,3,0,1542,0
+ 7 - Government Boys  Primary School Chak No.188/RB Lakrwala (Male) Permanent,31.5432802,73.2138956,Male,Punjab,2,0,1461,0
+ 8 - Government  Girls  Primary School Chak No.188/RB Lakrwala (Female) Permanent,31.5432802,73.2139256,Female,Punjab,0,2,0,1283
+ 1 - Government. Boys High School Chak No.188/RB Nelaywala (Combined) Permanent,31.5432808,73.2138962,Combined,Punjab,2,1,813,589
+ 2 - Government. Boys High School Chak No.188/RB Nelaywala (Combined) Permanent,31.543281,73.2138959,Combined,Punjab,2,1,822,662
+ 23 - Government Girls High School Chak No.164/RB Mhais (Female) Permanent,31.5454639,73.224746,Female,Punjab,0,2,0,994
+ 6 - Government. Girls. High School Chak No.188/RB Nelaywala (Combined)  Permanent,31.5463,73.20703,Combined,Punjab,2,1,879,686
+ 22 - Government Boys High School Chak No.164/RB Mhais (Male) Permanent,31.5463543,73.2571853,Male,Punjab,3,0,1405,0
+ 218 - Government. Girls Middle School-II Chak No. 60/RB Sodagar Pura (Combined) Permanent,31.5526,73.42712,Combined,Punjab,1,1,558,365
+ 104 - Government Boys High School Chak No.147/RB (Combined) Permanent,31.5545475,73.2903761,Combined,Punjab,2,1,814,608
+ 292 - Government. Girls High School Chak No.151/RB (Combined) Permanent,31.5545475,73.2904061,Combined,Punjab,2,1,797,591
+ 216 - Government. Girls Primary School Chak No. 60/RB Balouchni (Male) Permanent,31.5561,73.42734,Male,Punjab,3,0,1315,0
+ 228 - Government. Girls Middle School Chak No.67/RB (Combined) Permanent,31.56232,73.38096,Combined,Punjab,2,2,1145,814
+ 229 - Government. Girls Middle School Chak No.67/RB (Combined) Permanent,31.56232,73.38099,Combined,Punjab,2,1,678,475
+ 219 - Government. Girls Middle School-III Chak No.60/RB Mogi (Combined) Permanent,31.56477,73.42902,Combined,Punjab,2,2,1211,706
+ 154 - Government. Boys Higher Secondary School- Chak Jhumra (Female) Permanent,31.56703,73.18644,Female,Punjab,0,3,0,1535
+ 160 - Government. Boys Higher Secondary School- Chak Jhumra (Male) Permanent,31.56703,73.18647,Male,Punjab,3,0,1326,0
+ 149 - Government. Girls Higher Secondary School- Chak Jhumra (Male) Permanent,31.5672607,73.1827701,Male,Punjab,2,0,1089,0
+ 153 - Government. Boys Higher Secondary School- Chak Jhumra (Male) Permanent,31.5672607,73.1828001,Male,Punjab,4,0,1653,0
+ 156 - Government Girls Higher Secondary School-Chak Jhumra (Female) Permanent,31.56891,73.18553,Female,Punjab,0,3,0,1243
+ 151 - Government Girls Higher Secondary School-Chak Jhumra (Female) Permanent,31.56891,73.18556,Female,Punjab,0,4,0,1734
+ 46 - Government Boys High School Chak No.156/RB (Male) Permanent,31.56947,73.26765,Male,Punjab,4,0,1698,0
+ 20 - Government. Boys Primary School Chak No.162/RB Sikandarpur (Male) Permanent,31.569665,73.270852,Male,Punjab,2,0,1177,0
+ 27 - Government. Girls Elementary School Chak No.293/RB Sharqi (Combined)  Permanent,31.569665,73.270882,Combined,Punjab,2,2,843,699
+ 72 - Government.  Boys  Primary School  Chak No.155/RB (Combined) Permanent,31.569665,73.270912,Combined,Punjab,2,2,973,693
+ 155 - Government. Boys Elementary School (Old Bus Stand)- Jhumra (Male) Permanent,31.56982,73.18532,Male,Punjab,3,0,1325,0
+ 147 - Government Boys Elemantry/School Old Bus Stand-  Chak Jhumra (Male) Permanent,31.56982,73.18535,Male,Punjab,3,0,1335,0
+ 157 - Government. Girls.Degree College- Jhumra (Male) Permanent,31.57033,73.178,Male,Punjab,3,0,1268,0
+ 163 - Government. Girls.Degree College- Jhumra (Female) Permanent,31.57033,73.17803,Female,Punjab,0,2,0,900
+ 148 - Office Town Committee Chak Jhumra (Female) Permanent,31.570383001737817,73.18595970614807,Female,Punjab,0,2,0,1080
+ 47 - Government. Girls  Primary School Chak No.156/RB (Female) Permanent,31.57039,73.27184,Female,Punjab,0,3,0,1291
+ 161 - Veternary Hospital- Jhumra (Female) Permanent,31.571139497604534,73.17623540792893,Female,Punjab,0,2,0,1086
+ 144 - Government. Girls  Elementary School Muhammad Pura (Male) Permanent,31.57136,73.18635,Male,Punjab,3,0,1170,0
+ 146 - Government. Girls  Elementary School Muhammad Pura (Female) Permanent,31.57136,73.18638,Female,Punjab,0,4,0,1750
+ 14 - Government Boys  Primary School  Chak 187 /RB Katcha Jhumra (Male),31.5730887,73.1521091,Male,Punjab,3,0,1855,0
+ 74 - Government. Boys Primary School Chak No.163/RB    (Male) Permanent,31.5755586,73.2450211,Male,Punjab,4,0,1648,0
+ 75 - Government. Girls  Primary School Chak No.163/RB   (Female) Permanent,31.5755586,73.2450511,Female,Punjab,0,3,0,1254
+ 143 - Government. Boys Primary School Rasool Pura Chak Jhumra   (Female) Permanent,31.576465275810346,73.19026023237332,Female,Punjab,0,2,0,1128
+ 17 - Government  Boys Primary School Chak No.186/RB Dogaranwala [Male],31.57738,73.1845,Male,Punjab,3,0,1172,0
+ 280 - Government. Boys Elementary School Chak No.77/RB (Male) Permanent,31.5776026,73.188347,Male,Punjab,3,0,1253,0
+ 281 - Government. Girls Middle  School Chak No. 77/RB (Female) Permanent,31.5776026,73.188377,Female,Punjab,0,3,0,1235
+ 283 - Government. Boys Primary School Chak No.72/RB (Combined) Permanent,31.5776026,73.188407,Combined,Punjab,2,1,623,453
+ 284 - Government. Girls High School Chak No.   72/RB (Male) Permanent,31.5776026,73.188437,Male,Punjab,2,0,1081,0
+ 286 - Government. Girls High School Chak No. 72/RB (Female) Permanent,31.5776026,73.188467,Female,Punjab,0,4,0,1898
+ 287 - Government. Boys High School Chak No. 150/RB (Male) Permanent,31.5776026,73.188497,Male,Punjab,3,0,1393,0
+ 288 - Government. Boys High School Chak No. 150/RB (Female) Permanent,31.5776026,73.188527,Female,Punjab,0,2,0,1062
+ 37 - Government Girls Primary School Chak No.161/RB Botianwala (Combined) Permanent,31.5781197,73.199676,Combined,Punjab,1,1,428,356
+ 76 - Government. Boys Primary School Chak No 107/JB  (Male) Permanent,31.5800902,73.1296128,Male,Punjab,3,0,1236,0
+ 77 - Government. Girls  Elementary School Chak No 107/JB  (Female) Permanent,31.5800902,73.1296428,Female,Punjab,0,2,0,951
+ 78 - Government. Girls Community Model School Chak No.109/JB Neelianwala (Combined) Permanent,31.5800902,73.1296728,Combined,Punjab,2,2,1170,795
+ 79 - Government. Boys Primary School-II Chak No 110/JB Babaywala  (Combined) Permanent,31.58069,73.11897,Combined,Punjab,2,2,1022,786
+ 212 - Government. Girls  Primary School Chak No. 63/RB Qaim (Combined) Permanent,31.58236,73.38175,Combined,Punjab,2,1,656,431
+ 213 - Government. Girls Primary School No.II Chak No. 63/RB Nialoana  (Combined) Permanent,31.59223,73.36095,Combined,Punjab,1,1,525,361
+ 28 - Government. Boys Primary School Chak No.293/RB Gharbi     (Combined) Permanent,31.5956897,73.2146326,Combined,Punjab,2,2,1340,986
+ 34 - Government. Boys  Elementary School Chak No.157/RB Gojra (Female) Permanent,31.5984687,73.1513569,Female,Punjab,0,3,0,1328
+ 38 - Government Boys Primary School Chak No.161/RB Nipalkay  (Male) Permanent,31.5984687,73.1513869,Male,Punjab,2,0,1161,0
+ 39 - Government. Girls Elementary School Chak No.161/RB Nipalkay  (Female) Permanent,31.5984687,73.1514169,Female,Punjab,0,2,0,934
+ 214 - Government. Boys Primary School Chak No.64/RB (Male) Permanent,31.60109,73.35951,Male,Punjab,2,0,1104,0
+ 215 - Government. Girls  Primary School Chak No.64/RB (Female) Permanent,31.60351812581257,73.35715529508767,Female,Punjab,0,2,0,803
+ 70 - Government. Boys  Elementary School  Chak No.106/JB Khichiyan  (Male) Permanent,31.6071824,73.1267509,Male,Punjab,4,0,1763,0
+ 71 - Government.Girls  Elementary School-  Chak No.106/JB Khichiyan  (Female) Permanent,31.6071824,73.1267809,Female,Punjab,0,3,0,1346
+ 52 - Government. Boys Primary School Chak No.25/JB (Male) Permanent,31.608663,73.1591157,Male,Punjab,3,0,1548,0
+ 25 - Government Girls Primary School -1 Chak No.160/RB (Combined) Permanent,31.6095892,73.2428797,Combined,Punjab,2,1,915,697
+ 289 - Government. Boys High School Chak No.65/RB (Male) Permanent,31.61062853391427,73.32960866575765,Male,Punjab,3,0,1457,0
+ 103 - Government. Girls  Elementary School Chak No.146/RB Kheewa (Combined) Permanent,31.6127389,73.2428937,Combined,Punjab,1,1,588,480
+ 290 - Government. Girls Middle  School  Chak No. 65/RB (Female) Permanent,31.61479827262421,73.3345781645766,Female,Punjab,0,2,0,1013
+ 53 - Government. Girls  Elementary School Chak No.25/JB (Female) Permanent,31.6150967,73.1631721,Female,Punjab,0,3,0,1172
+ 106 - Government. Girls Elementary  School Chak No.141/RB Aaqal    (Combined) Permanent,31.6185403,73.3239804,Combined,Punjab,2,2,1090,776
+ 231 - Government. Girls Primary School Chak No.66/RB  Madoanan Wains (Combined) Permanent,31.6185403,73.3240104,Combined,Punjab,1,1,300,304
+ 291 - Government. Boys Primary  School Chak No.149/RB (Combined) Permanent,31.6185403,73.3240404,Combined,Punjab,2,1,613,447
+ 204 - Government. Boys Primary School No.I Chak No.57/RB Rajaywala (Combined),31.628929646288867,73.37941277313551,Combined,Punjab,1,1,534,372
+ 44 - Government. Girls  Primary School Chak No.158/RB Borray Wali (Male) Permanent,31.63217,73.2321075,Male,Punjab,2,0,985,0
+ 69 - Government. Boys High School (Primary Wing) School Chak No.103/JB Barnala  (Female) Permanent,31.63336,73.09486,Female,Punjab,0,3,0,1493
+ 40 - Government. Boys  Elementary School Chak No.159/RB Sobay Chak  (Male) Permanent,31.6337097,73.1951729,Male,Punjab,2,0,1177,0
+ 41 - Government. Boys  Elementary School Chak No.159/RB Sobay Chak (Female) Permanent,31.6337097,73.1952029,Female,Punjab,0,2,0,916
+ 16 - Government. Boys Primary School  Chak No.187/RB Baloana  (Combined) Permanent,31.6376486,73.1938464,Combined,Punjab,1,1,731,421
+ 33 - Government. Boys  Elementary School Chak No.157/RB Gojra (Male) Permanent,31.6376486,73.1938764,Male,Punjab,4,0,1652,0
+ 67 - Government Girls Higher Secoundry School Chak No.103/JB Barnala (Combined) Permanent,31.63787,73.09901,Combined,Punjab,2,2,930,711
+ 68 - Government Girls Higher Secoundry School Chak No.103/JB Barnala (Male) Permanent,31.63787,73.09904,Male,Punjab,4,0,1770,0
+ 60 - Government. Boys Elementary School Chak No.102/JB Burj Pind (Male) Permanent,31.6381977,73.111489,Male,Punjab,4,0,1355,0
+ 62 - Government. Girls  Elementary School Chak No.102/JB Burj Pind (Female) Permanent,31.6381977,73.111519,Female,Punjab,0,3,0,1035
+ 29 - Government. Girls High School Chak No.153/RB (Male) Permanent,31.6401417,73.2297574,Male,Punjab,3,0,2196,0
+ 31 - Government. Boys Primary School Chak No.153/RB Daska  (Combined) Permanent,31.6401417,73.2297874,Combined,Punjab,1,1,307,248
+ 32 - Government. Girls  Primary School Chak No.145/RB Tibran (Combined) Permanent,31.6401417,73.2298174,Combined,Punjab,1,1,785,560
+ 73 - Government. Girls  Primary School Chak No.154/RB (Combined) Permanent,31.6401417,73.2298474,Combined,Punjab,2,1,702,564
+ 105 - Government Girls Primary School Chak No.141/RB Saddarwala   (Combined) Permanent,31.640206,73.3255619,Combined,Punjab,1,1,452,258
+ 196 - Government. Boys Primary School Chak No.54/RB (Combined) Permanent,31.6447,73.40321,Combined,Punjab,2,1,912,572
+ 197 - Government. Boys Primary School Chak No.54/RB (Combined) Permanent,31.6447,73.40324,Combined,Punjab,2,1,655,413
+ 137 - Government. Girls  Primary School  Chak No.143/RB (Female) Permanent,31.64682,73.29175,Female,Punjab,0,3,0,1121
+ 136 - Government. Boys Primary School  Chak No.143/RB (Male) Permanent,31.6468246,73.2917506,Male,Punjab,3,0,1370,0
+ 51 - Government Girls High School Chak No.24/JB (Female) Permanent,31.64755,73.14703,Female,Punjab,0,3,0,1272
+ 36 - Government Girls High School Chak No.157/RB Gojra (Female) Permanent,31.6491376,73.176149,Female,Punjab,0,2,0,815
+ 35 - Government Girls High School Chak No.157/RB Gojra (Male) Permanent,31.6491376,73.1761492,Male,Punjab,2,0,1086,0
+ 133 - Government. Boys  Elementary School  Chak No.142/RB (Combined) Permanent,31.6524797,73.2575017,Combined,Punjab,2,2,989,793
+ 134 - Government Girls Middle School  Chak No.142/RB (Male) Permanent,31.6528432,73.2590399,Male,Punjab,3,0,1131,0
+ 114 - Government. Boys  Primary School Chak No.152/RB (Female) Permanent,31.65337,73.19718,Female,Punjab,0,3,0,1388
+ 109 - Government. Boys  Primary School Chak No.134/RB west (Combined) Permanent,31.6561213,73.1983741,Combined,Punjab,1,1,483,380
+ 113 - Government. Girls Elementary School l Chak No.152/RB (Male) Permanent,31.6561213,73.1984041,Male,Punjab,4,0,1732,0
+ 54 - Government. Boys Primary School Chak No.20/JB (Male) Permanent,31.656452,73.1013855,Male,Punjab,3,0,1324,0
+ 55 - Government Girls High School (Midle Wing) Chak No.20/JB (Female) Permanent,31.656452,73.1014155,Female,Punjab,0,2,0,948
+ 56 - Government. Boys Primary School Chak No.23/JB Noon Bhatti (Combined) Permanent,31.656452,73.1014455,Combined,Punjab,2,2,1252,863
+ 64 - Government. Girls  Primary School Chak No.102/JB Burj Mundi  (Female) Permanent,31.6569597,73.0998194,Female,Punjab,0,2,0,678
+ 57 - Government. Girls Primary School Chak No.23/JB Saddan (Male) Permanent,31.6577252,73.0980197,Male,Punjab,2,0,1103,0
+ 93 - Government Girls High School Chak No.133/RB (Female) Permanent,31.6577885,73.1963002,Female,Punjab,0,2,0,1006
+ 66 - Government Girls High School Chak No.102/JB Burj  Mundi (Female) Permanent,31.6578525,73.0984001,Female,Punjab,0,3,0,1286
+ 65 - Government Girls High School Chak No.102/JB Burj Mundi (Male) Permanent,31.658001,73.0985384,Male,Punjab,4,0,1758,0
+ 63 - Government. Boys Primary School Chak No.102/JB    Burj Mundi  (Male) Permanent,31.66038,73.09853,Male,Punjab,2,0,946,0
+ 101 - Government. Boys Primary School-II Chak No.126/RB (Female) Permanent,31.6659486,73.292027,Female,Punjab,0,3,0,1243
+ 99 - Government Girls High School Chak No.126/RB  (Combined) Permanent,31.6660104,73.2922458,Combined,Punjab,2,2,1130,767
+ 112 - Government Girls Middle School Chak No.144/RB (Female) Permanent,31.6683282,73.2313241,Female,Punjab,0,3,0,1305
+ 130 - Government. Boys Primary School Chak No.132/RB (Combined) Permanent,31.6709931,73.2748775,Combined,Punjab,2,2,857,706
+ 94 - Government. Boys Primary School Chak No.131/RB Arorri (Combined) Permanent,31.6716067,73.2302873,Combined,Punjab,1,1,621,536
+ 96 - Government Girls High School Chak No.135/RB(Combined) Permanent,31.6716067,73.2303173,Combined,Punjab,2,1,818,576
+ 108 - Government. Boys Primary School Chak No.134/RB  Este (Combined) Permanent,31.6716067,73.2303473,Combined,Punjab,2,1,640,490
+ 110 - Government Boys High School Chak No.144/RB (Male) Permanent,31.6716067,73.2303773,Male,Punjab,4,0,1692,0
+ 125 - Government Boys Middle School Chak No. 129/RB  (Male) Permanent,31.6716067,73.2304073,Male,Punjab,2,0,1170,0
+ 127 - Government Girls Middle School -II Chak No.129/RB  Tibbi (Combined) Permanent,31.6716067,73.2304373,Combined,Punjab,1,1,513,394
+ 128 - Government. Boys Primary School Chak No.130/RB (Male) Permanent,31.6716067,73.2304673,Male,Punjab,3,0,1243,0
+ 116 - Government.Girls Primary School-I Chak No.16/JB Pinnahkey ( Combined) Permanent,31.67233,73.31758,Combined,Punjab,2,2,982,758
+ 49 - Government Girls Middle School Chak No.21/JB (Combined) Permanent,31.6750991,73.1553409,Combined,Punjab,2,2,1063,808
+ 95 - Government. Girls  Primary School Chak No.131/RB Bachoana (Combined) Permanent,31.6766292,73.2652944,Combined,Punjab,1,1,606,442
+ 131 - Government Girls High School Chak No.132/RB (Male) Permanent,31.6775076,73.2685311,Male,Punjab,4,0,1734,0
+ 80 - Government. Boys Primary School Chak No.137/RB Paharri Pur (Combined)  Permanent,31.6846175,73.3856631,Combined,Punjab,1,1,594,486
+ 107 - Government Girls Middle School Chak No.136/RB (Combined) Permanent,31.685239,73.2070466,Combined,Punjab,2,2,923,655
+ 85 - Government Girls Middle School Chak No.47/RB (Male) Permanent,31.6923023,73.3416136,Male,Punjab,2,0,1046,0
+ 139 - Government Boys Middle School Chak No.139/RB (Male) Permanent,31.7023741,73.3368962,Male,Punjab,3,0,1300,0
+ 84 - Government Boys Primary School Chak No.124/RB Bahlol Pur Khurd (Combined) Permanent,31.7032243,73.3157277,Combined,Punjab,1,1,349,273
+ 97 - Government. Girls  Primary School Chak No.125/RB (Combined) Permanent,31.7052365,73.3142767,Combined,Punjab,2,2,1175,799
+ 140 - Government Boys Middle School Chak No.139/RB (Female) Permanent,31.7130499,73.3717906,Female,Punjab,0,2,0,1041
+ 115 - Government.Boys  Primary School -III Chak No.16/JB Tibbi Nagra (Combined) Permanent,31.7159895,73.1450572,Combined,Punjab,2,1,669,539
+ 117 - Government.Girls Primary School Chak No.17/JB  (Combined) Permanent,31.7159895,73.1450872,Combined,Punjab,1,1,509,415
+ 118 - Government.Boys  Elementary School Chak No.18/JB  (Male) Permanent,31.7159895,73.1451172,Male,Punjab,3,0,1324,0
+ 119 - Government Girls Middle  School Chak No 18/JB(Female) Permanent,31.7159895,73.1451472,Female,Punjab,0,2,0,1030
+ 59 - Government. Girls  Primary School Chak No.467/JB (Combined) Permanent,31.7159895,73.1451772,Combined,Punjab,1,1,401,291
+ 120 - Government.Girls Primary School-II Chak No 19/JB Qado Key (Combined) Permanent,31.7190996,73.1827657,Combined,Punjab,1,1,636,492
+ 121 - Government. Boys Primary School-II Chak No 19/JB  Brali (Combined) Permanent,31.7190996,73.1827957,Combined,Punjab,1,1,544,381
+ 129 - Government Girls High School Chak N0.130/RB(Female) Permanent,31.7191807,73.3736327,Female,Punjab,0,2,0,973
+ 87 - Government Girls Middle School Chak No 44/JB (Combined) Permanent,31.73078,73.19729,Combined,Punjab,2,2,1089,674
+ 91 - Government Boys  Primary School Chak No.471/JB (Combined) Permanent,31.7345641,73.2458621,Combined,Punjab,1,1,305,193
+ 98 - Government Boys High School Chak No.127/RB Bahlowl Pur Kalan (Combined) Permanent,31.7345641,73.2458921,Combined,Punjab,2,2,810,658
+ 124 - Government. Boys Primary School Chak No.128/RB (Combined) Permanent,31.7345641,73.2459221,Combined,Punjab,2,2,736,629
+ 90 - Government. Boys  Primary School  Chak No 43/JB (Combined) Permanent,31.74271,73.21774,Combined,Punjab,2,1,769,550
+ 89 - Government.Girls Elementary School -II  Chak No 42/JB Bar  (Combined) Permanent,31.7476031,73.1931242,Combined,Punjab,2,2,898,715
+ 122 - Government. Boys Primary School Chak No.45/JB (Combined) Permanent,31.7476031,73.1931542,Combined,Punjab,1,1,393,312
+ 123 - Government. Girls  Primary School-II Chak No.45/JB (Combined) Permanent,31.7476031,73.1931842,Combined,Punjab,2,1,696,494
+ 88 - Government Boys Middle School -I  Chak No 42/JB (Combined) Permanent,31.75686,73.18359,Combined,Punjab,2,1,817,609

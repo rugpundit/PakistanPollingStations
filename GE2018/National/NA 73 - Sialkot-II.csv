@@ -1,0 +1,372 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 133 - Government Girls Elementary School Doburji Malian. (Male). (P),32.46522,74.52747,Male,Punjab,2,0,1039,0
+ 134 - Government Girls Elementary School Doburji Malian. (Female). (P),32.46522,74.5275,Female,Punjab,0,2,0,764
+ 170 - Government Girls Elementary School Doburji Malian. (Male). (P),32.46522,74.52753,Male,Punjab,2,0,1547,0
+ 171 - Government Girls Elementary School Doburji Malian. (Female). (P),32.46522,74.52756,Female,Punjab,0,2,0,1270
+ 364 - Government Model Elementary School Butter. (Female) (P),32.46696,74.49915,Female,Punjab,0,2,0,1093
+ 363 - Government Model Elementary School Butter. (Male) (P),32.46704,74.49916,Male,Punjab,2,0,1343,0
+ 362 - Government Model Elementary School Butter. (Female) (P),32.46722,74.50372,Female,Punjab,0,2,0,947
+ 361 - Government Model Elementary School Butter. (Male) (P),32.46723,74.50372,Male,Punjab,2,0,1194,0
+ 93 - Government Model Primary School Jode Wali (Old Girls School Building). (Male) (P),32.46737,74.57474,Male,Punjab,2,0,1421,0
+ 94 - Government Boys Primary School Jode Wali Kalan. (Female),32.46909,74.57253,Female,Punjab,0,2,0,1084
+ 95 - Basic Health Unit Jode Wali. (Male) (P),32.46941,74.56921,Male,Punjab,2,0,1523,0
+ 96 - Basic Health Unit Jode Wali. (Female) (P),32.46941,74.56924,Female,Punjab,0,2,0,1169
+ 143 - Agricultural Lab Doburji Arian. (P),32.46974,74.55514,Combined,Punjab,2,1,925,709
+ 144 - Agricultural Lab Doburji Arian. (Male) (P),32.46974,74.55517,Male,Punjab,2,0,1533,0
+ 145 - Agricultural Lab Doburji Aranian. (Female) (P),32.46974,74.5552,Female,Punjab,0,2,0,1259
+ 135 - Government Model Primary School Ram Graha. (Female-Portion)(Male) (P),32.47313,74.53552,Male,Punjab,2,0,1281,0
+ 136 - Government Model Primary School Ram Graha. (Male-Portion)(Female) (P),32.47313,74.53555,Female,Punjab,0,2,0,1017
+ 346 - Government Boys Municipal Corporation School Bogra. (Male),32.47486,74.52454,Male,Punjab,2,0,1099,0
+ 347 - Government Boys Municipal Corporation School Bogra. (Female),32.47486,74.52457,Female,Punjab,0,2,0,959
+ 348 - Government Girls Municipal Corporation School Bogra.,32.47486,74.5246,Combined,Punjab,1,1,809,618
+ 137 - Government Boys Elementary School Hamza Ghous. (Male) (P),32.47505,74.5428,Male,Punjab,2,0,1132,0
+ 138 - Government Boys Elementary School Hamza Ghous. (Female) (P),32.47505,74.54283,Female,Punjab,0,2,0,935
+ 147 - Government Girls Elementry School Doburji Arian.(Male)(P),32.47649,74.55522,Male,Punjab,2,0,1408,0
+ 148 - Government Girls Elementry School Doburji Arian.(Female)(P),32.47649,74.55525,Female,Punjab,0,2,0,1225
+ 349 - Government Girls Primary School Ganjianwali. (P),32.47726,74.49755,Combined,Punjab,1,1,690,553
+ 350 - Government Girls High School Adalat Graha (Male) (P),32.47726,74.49758,Male,Punjab,3,0,1769,0
+ 334 - Government Girls High School Fateh Garh Road. (Male) (P),32.47756,74.51575,Male,Punjab,3,0,1712,0
+ 335 - Government Girls High School Fateh Garh Road. (Female) (P),32.47756,74.51578,Female,Punjab,0,2,0,1444
+ 338 - Government Girls High School Fateh Garh. (Female) (P),32.47756,74.51581,Female,Punjab,0,2,0,1354
+ 340 - Government Girls High School Fateh Garh. (Female) (P),32.47756,74.51584,Female,Punjab,0,2,0,1203
+ 341 - Registered Pak Grammar High School Rehmanpura Fateh Garh.(Near Pani Wali Tanki) (Male) (P),32.47779,74.52308,Male,Punjab,2,0,1443,0
+ 342 - Registered Pak Grammar High School Rehmanpura Fateh Garh.(Near Pani Wali Tanki) (Female) (P),32.47779,74.52311,Female,Punjab,0,2,0,1151
+ 343 - Registered Pak Grammar High School Rehmanpura Fateh Garh.(Near Pani Wali Tanki) (Male) (P),32.47779,74.52314,Male,Punjab,3,0,1698,0
+ 344 - Registered Pak Grammar High School Rehmanpura Fateh Garh.(Near Pani Wali Tanki) (Female) (P),32.47779,74.52317,Female,Punjab,0,3,0,1460
+ 139 - Government Nawaz Sharif College Sialkot. (Male),32.478,74.54831,Male,Punjab,2,0,1248,0
+ 140 - Government Nawaz Sharif College Sialkot. (Female),32.478,74.54834,Female,Punjab,0,2,0,941
+ 141 - Government Nawaz Sharif College Sialkot. (Male),32.478,74.54837,Male,Punjab,2,0,1413,0
+ 142 - Government Nawaz Sharif College Sialkot. (Female),32.478,74.5484,Female,Punjab,0,2,0,1062
+ 146 - Government Nawaz Sharif College Sialkot.,32.478,74.54843,Combined,Punjab,1,1,626,477
+ 80 - Government Model Primary School Kishnay Wali  (P),32.47815,74.57552,Combined,Punjab,1,1,789,633
+ 127 - Government Girls Primary School Cha Gondlan.(Male),32.47858,74.54529,Male,Punjab,4,0,2092,0
+ 128 - Government Girls Elementray School Hamza Ghous. (Female) (P),32.47858,74.54532,Female,Punjab,0,3,0,1778
+ 381 - Government Girls Primary School Dhattal. (P),32.47883,74.46516,Combined,Punjab,1,1,850,601
+ 369 - Government Boys Primary School Babaranwala.(Male) (P) (Now Elementery),32.47942,74.46427,Male,Punjab,2,0,1200,0
+ 368 - Government Girls Primary School (Mohallah Rohail Pura) Shatab Garh.(Female)  (P) (Now Model),32.47972,74.50139,Female,Punjab,0,2,0,894
+ 379 - Government Girls Elementary School Kotli Bhutta. (Male) (P),32.48017,74.44582,Male,Punjab,2,0,1009,0
+ 286 - Government Girls College for women Haji Pura. (Male) (P),32.48026,74.52743,Male,Punjab,2,0,1151,0
+ 287 - Government Girls College for women Haji Pura. (Female) (P),32.48026,74.52746,Female,Punjab,0,2,0,982
+ 288 - Government Girls College for women Haji Pura. (Male) (P),32.48026,74.52749,Male,Punjab,2,0,1505,0
+ 289 - Government Girls College for women Haji Pura. (Female) (P),32.48026,74.52752,Female,Punjab,0,2,0,1215
+ 345 - Government Girls College for women Haji Pura  (P),32.48036,74.52755,Combined,Punjab,1,1,847,695
+ 380 - Government Boys Elementary School Kotli Bhutta. (Female),32.48045,74.44576,Female,Punjab,0,2,0,849
+ 295 - Government Girls High School Kothi Wala Mohallah Haji Pura. (P),32.48046,74.5259,Combined,Punjab,1,1,860,745
+ 296 - Government Girls High School Kothi Wala Mohallah Haji Pura.(Male) (P),32.48046,74.52593,Male,Punjab,2,0,1264,0
+ 297 - Government Girls High School Kothi Wala Mohallah Haji Pura.(Female)(P),32.48046,74.52596,Female,Punjab,0,2,0,1006
+ 298 - Government Girls High School Kothi Wala Mohallah Haji Pura. (Male) (P),32.48046,74.52599,Male,Punjab,3,0,1572,0
+ 299 - Government Girls High School Kothi Wala Mohallah Haji Pura. (Female) (P),32.48046,74.52602,Female,Punjab,0,2,0,1336
+ 300 - Government Girls High School Kothi Wala Mohallah Haji Pura.(Male)  (P),32.48046,74.52605,Male,Punjab,2,0,1288,0
+ 301 - Government Girls High School Kothi Wala Mohallah Haji Pura.(Female)  (P),32.48046,74.52608,Female,Punjab,0,2,0,1141
+ 365 - Government Model Primary School Shatab Garh.  (Male-Portion)(Male) (P),32.48056,74.50305,Male,Punjab,3,0,1644,0
+ 366 - Government Model Primary School Shatab Garh.  (Male-Portion)(Female) (P),32.48056,74.50308,Female,Punjab,0,2,0,1362
+ 367 - Government Model Primary School Shatab Garh.  (Female-Portion)(Male) (P),32.48056,74.50311,Male,Punjab,2,0,1211,0
+ 123 - Government Demp & Def School Babay Beri Sialkot. (Male) (P),32.48107,74.54996,Male,Punjab,2,0,1492,0
+ 124 - Government Demp & Def School Babay Beri Sialkot. (Female) (P),32.48107,74.54999,Female,Punjab,0,2,0,1177
+ 336 - Government Boys Primary School Fateh Garh Road. (P),32.48172,74.51868,Combined,Punjab,1,1,724,591
+ 337 - Government Municipal Corporation Boys Primary School Fateh Garh (Male) (P),32.48172,74.51871,Male,Punjab,3,0,1579,0
+ 339 - Government Boys Primary School Fateh Garh (Male) (P),32.48172,74.51874,Male,Punjab,2,0,1450,0
+ 131 - Government Girls High School Habib Pura Aimna Abad Road (Male),32.48178,74.54237,Male,Punjab,2,0,1386,0
+ 132 - Government Girls High School Habib Pura Aimna Abad Road (Female),32.48178,74.5424,Female,Punjab,0,2,0,1165
+ 73 - Government Model Elementary School Rakhana. (Male)  (P),32.48219,74.56372,Male,Punjab,2,0,1451,0
+ 74 - Government Model Elementary School Rakhana. (Female)  (P),32.48219,74.56375,Female,Punjab,0,2,0,1025
+ 87 - Govt. Noor Fatima Girls High School Nazam Abad (Pindi Arian). (Male) (P),32.48248,74.55614,Male,Punjab,2,0,1551,0
+ 88 - Govt. Noor Fatima Girls High School Nazam Abad (Pindi Arian). (Female) (P),32.48248,74.55617,Female,Punjab,0,2,0,1171
+ 91 - Government Boys Higher Secondary School No.2 Sialkot. (Male) (P),32.48302,74.54638,Male,Punjab,2,0,1073,0
+ 92 - Government Boys Higher Secondary School No.2 Sialkot. (Female) (P),32.48302,74.54641,Female,Punjab,0,2,0,861
+ 116 - Government Municipal Corporation Boys Elementary School Naika Pura Sialkot (Male) (P),32.48319,74.54967,Male,Punjab,2,0,1486,0
+ 117 - Government Municipal Corporation Boys Elementary School Naika Pura Sialkot (Female) (P),32.48319,74.5497,Female,Punjab,0,2,0,1189
+ 118 - Government Municipal Corporation Boys Elementary School Naika Pura Sialkot. (Male) (P),32.48319,74.54973,Male,Punjab,3,0,1695,0
+ 119 - Government Municipal Corporation Boys Elementary School Naika Pura Sialkot (Female) (P),32.48319,74.54976,Female,Punjab,0,2,0,1418
+ 120 - Government Municipal Corporation Girls Elementary School Naika Pura Sialkot.  (P),32.48319,74.54979,Combined,Punjab,1,1,747,613
+ 372 - Government Girls Primary School Mahal Kingra. (P),32.48329,74.49725,Combined,Punjab,1,1,488,371
+ 121 - Government Boys Higher Secondary School No.2 Sialkot. (Male) (P),32.48334,74.54619,Male,Punjab,3,0,1627,0
+ 122 - Government Boys Higher Secondary School No.2 Sialkot. (Female) (P),32.48334,74.54622,Female,Punjab,0,2,0,1466
+ 125 - Government Boys Haigher Secondary School No.2 Zafar Wal Road. (Male),32.48334,74.54625,Male,Punjab,2,0,1505,0
+ 126 - Government Boys Haigher Secondary School No.2 Zafar Wal Road. (Female),32.48334,74.54628,Female,Punjab,0,2,0,1292
+ 149 - Government Boys Higher Secondary School No.2 Sialkot. (P),32.48334,74.54631,Combined,Punjab,1,1,646,541
+ 150 - Government Girls Primary School Nazam Abad.  (Male) (P),32.4836,74.56284,Male,Punjab,2,0,1034,0
+ 151 - Government Girls Primary School Nazam Abad. (Female) (P),32.4836,74.56287,Female,Punjab,0,2,0,868
+ 351 - Government Girls High School Adalat Graha(East)(Female) (P),32.48436,74.48831,Female,Punjab,0,2,0,1369
+ 356 - Community Model Girls Primary School Adalat Graha. (Male) (P),32.48445,74.48906,Male,Punjab,2,0,1482,0
+ 357 - Community Model Girls Primary School Adalat Graha. (Female) (P),32.48445,74.48909,Female,Punjab,0,2,0,1162
+ 79 - Government Model Elementary School Rakhana. (Old Boys Building)  (P),32.48486,74.56299,Combined,Punjab,2,1,897,672
+ 129 - Governament M.C Boys Elementary School Kashmiri Mohallah Marrian.(Male),32.48503,74.54264,Male,Punjab,2,0,1279,0
+ 130 - Governament M.C Boys Elementary School Kashmiri Mohallah Marrian.(Female),32.48503,74.54267,Female,Punjab,0,2,0,1097
+ 291 - Government Municipal Corporation Boys Primary School Haji Pura.(Male)(P),32.48623,74.5326,Male,Punjab,2,0,1184,0
+ 292 - Government Municipal Corporation Boys Primary School Haji Pura.(Female)(P),32.48623,74.53263,Female,Punjab,0,2,0,1027
+ 370 - Government Boys Primary School Babaranwala.(Male) (P) (Now Elementery),32.48638,74.47952,Female,Punjab,0,2,0,862
+ 293 - Office Markeet Committee (Haji Pura) Sialkot.(Male)(P),32.48663,74.53294,Male,Punjab,2,0,1516,0
+ 294 - Office Markeet Committee (Haji Pura) Sialkot.(Female)(P),32.48663,74.53297,Female,Punjab,0,2,0,1161
+ 302 - Office Markeet Committee (Haji Pura) Sialkot.(P),32.48663,74.533,Combined,Punjab,1,1,615,534
+ 239 - Office Union Council Muzafar Pur (Female),32.48667,74.50305,Female,Punjab,0,2,0,1092
+ 331 - Government Vocational Training Center Factory Area.(Male)  (P),32.48679,74.51585,Male,Punjab,2,0,1257,0
+ 332 - Government Vocational Training Center Factory Area.(Female)  (P),32.48679,74.51588,Female,Punjab,0,2,0,1065
+ 333 - Government Vocational Training Center Factory Area.  (P),32.48679,74.51591,Combined,Punjab,1,1,811,749
+ 354 - Government Boys Elementary School Adalat Graha.(Primery-Portion) (Male) (P),32.48699,74.49151,Male,Punjab,2,0,1575,0
+ 326 - Government Municipal Corporation Girls Primary School Mohallah Ghous Pura.(Male) (P),32.48699,74.52491,Male,Punjab,2,0,1342,0
+ 327 - Government Municipal Corporation Girls Primary School Mohallah Ghous Pura.(Female) (P),32.48699,74.52494,Female,Punjab,0,2,0,1126
+ 355 - Government Boys Elementary School Adalat Graha.(Primery-Portion) (Female) (P),32.48706,74.49146,Female,Punjab,0,2,0,1249
+ 352 - Government Boys Elementary School Adalat Graha. (Male) (P) (Now High),32.48709,74.49005,Male,Punjab,2,0,1554,0
+ 353 - Government Boys Elementary School Adalat Graha. (Male) (P) (Now High),32.48709,74.49008,Female,Punjab,0,2,0,1220
+ 89 - GovernmentGirls Primary School Itfaq pur. (Pindi Arian) (Male) (P),32.48766,74.56561,Male,Punjab,2,0,1473,0
+ 90 - GovernmentGirls Primary School Itfaq pur (Pindi Arian). (Female) (P),32.48766,74.56564,Female,Punjab,0,2,0,1155
+ 277 - Government Girls Elementary School Kashmiri Mohallah Bhattan Wala (Male) (P),32.48867,74.54146,Male,Punjab,2,0,1280,0
+ 278 - Government Girls Elementary School Kashmiri Mohallah Bhattan Wala (Female) (P),32.48867,74.54149,Female,Punjab,0,2,0,1151
+ 279 - Government Girls Elementary School Kashmiri Mohallah Bhattan Wala (Male) (P),32.48867,74.54152,Male,Punjab,2,0,1068,0
+ 280 - Government Girls Elementary School Kashmiri Mohallah Bhattan Wala (Female) (P),32.48867,74.54155,Female,Punjab,0,2,0,900
+ 284 - Government Girls Elementary School Kashmiri Mohallah Bhattan Wala (Male) (P),32.48867,74.54158,Male,Punjab,2,0,988,0
+ 285 - Government Girls Elementary School Kashmiri Mohallah Bhattan Wala (Female) (P),32.48867,74.54161,Female,Punjab,0,2,0,856
+ 325 - Government Municipal Corporation Girls Elementary School Shahab Pura .(Female) (P),32.4889,74.52402,Female,Punjab,0,2,0,1150
+ 111 - Government Pak Girls Elementary School Mohallah Islamabad. (P) (Male),32.48906,74.54821,Male,Punjab,2,0,1489,0
+ 112 - Government Pak Girls Elementary School Mohallah Islamabad. (P) (Female),32.48906,74.54824,Female,Punjab,0,2,0,1352
+ 61 - Government Boys Primary School  Puran Heeran. (Male),32.48916,74.55853,Male,Punjab,2,0,1231,0
+ 62 - Government Boys Primary School  Puran Heeran.(Female),32.48916,74.55856,Female,Punjab,0,2,0,986
+ 63 - Government Girls Primary School No.1 Puran Heeran.(Male) (P),32.48916,74.55859,Male,Punjab,3,0,1724,0
+ 64 - Government Girls Primary School No.1 Puran Heeran.(Female) (P),32.48916,74.55862,Female,Punjab,0,2,0,1520
+ 103 - Government Girls High School Ganda Talab Pura Heraan.(Male) (P),32.48939,74.55802,Male,Punjab,2,0,1134,0
+ 104 - Government Girls High School Ganda Talab Pura Heraan.(Female) (P),32.48939,74.55805,Female,Punjab,0,2,0,926
+ 67 - Government Girls High School Ganda Talab Pura Heraan.(Male) (P),32.48939,74.55808,Male,Punjab,2,0,1349,0
+ 68 - Government Girls High School Ganda Talab Pura Heraan.(Female) (P),32.48939,74.55811,Female,Punjab,0,2,0,1166
+ 69 - Government Girls High School Ganda Talab Pura Heraan.(Male) (P),32.48939,74.55814,Male,Punjab,2,0,1254,0
+ 70 - Government Girls High School Ganda Talab Pura Heraan.(Female) (P),32.48939,74.55817,Female,Punjab,0,2,0,1077
+ 71 - Government Girls High School  Ganda Talab Pura Heraan.(Male)(P),32.48939,74.5582,Male,Punjab,2,0,1094,0
+ 72 - Government Girls High School  Ganda Talab Pura Heraan.(Female)(P),32.48939,74.55823,Female,Punjab,0,2,0,927
+ 113 - Government Laddy Underson Girls Higher Secondary School Sialkot.            (Male) (P),32.49014,74.54541,Male,Punjab,2,0,1458,0
+ 114 - Government Laddy Underson Girls Higher Secondary School Sialkot. (Female) (P),32.49014,74.54544,Female,Punjab,0,2,0,1283
+ 115 - Government Laddy Underson Girls Higher Secondary School Sialkot.  (P),32.49014,74.54547,Combined,Punjab,1,1,788,675
+ 320 - Office wapda Colony Circle office Mohallah Shahab Pura. (Male) (P),32.49019,74.52076,Male,Punjab,2,0,1234,0
+ 321 - Office wapda Colony Circle office Mohallah Shahab Pura. (Female) (P),32.49019,74.52079,Female,Punjab,0,2,0,1031
+ 323 - Office wapda Colony Circle office Mohallah Shahab Pura. (Female) (P),32.49019,74.52082,Female,Punjab,0,2,0,1371
+ 328 - Office wapda Colony Circle office Mohallah Shahab Pura.(P),32.49019,74.52085,Combined,Punjab,1,1,675,483
+ 329 - Office wapda Colony Circle office Mohallah Shahab Pura. (Male) (P),32.49019,74.52088,Male,Punjab,2,0,1270,0
+ 330 - Office Wapda Colony  Circle office Mohallah Shahab Pura. (Female) (P),32.49019,74.52091,Female,Punjab,0,2,0,1020
+ 319 - Government Municipal Corporation Boys Elementary School Shahab Pura .(P),32.4906,74.52364,Combined,Punjab,2,2,950,818
+ 322 - Government Municipal Corporation Boys Elementary School Shahab Pura.(Male)  (P),32.4906,74.52367,Male,Punjab,2,0,1553,0
+ 324 - Government Municipal Corporation Boys Elementary School Shahab Pura .(Male) (P)[,32.4906,74.5237,Male,Punjab,2,0,1361,0
+ 303 - Government Ahmdia Girls High School Sialkot. (Male) (P),32.49071,74.54136,Male,Punjab,2,0,1250,0
+ 304 - Government Ahmdia Girls High School Sialkot. (Female) (P),32.49071,74.54139,Female,Punjab,0,2,0,1073
+ 305 - Government Ahmdia Girls High School Sialkot. (P),32.49071,74.54142,Combined,Punjab,1,1,820,748
+ 66 - Government Municipal Corporation Boys Primary School Rangpura (Female) (P),32.49082,74.56485,Female,Punjab,0,2,0,1134
+ 314 - Government Girls Mir Hassan High School (Primary Portion) Sialkot.  (P),32.49099,74.5238,Combined,Punjab,1,1,839,685
+ 315 - Government Girls Mir Hassan High School (Primary Portion) Sialkot. (Male) (P),32.49099,74.52383,Male,Punjab,2,0,1298,0
+ 316 - Government Girls Mir Hassan High School (Primary Portion) Sialkot. (Female) (P),32.49099,74.52386,Female,Punjab,0,2,0,1126
+ 238 - Government Boys Primary School Mazafar Pura(Male)  (P),32.49127,74.51208,Male,Punjab,2,0,1306,0
+ 243 - Government Girls Primary School Miana Pura Magrbi Roras Road.(Male)(P),32.49127,74.51222,Male,Punjab,2,0,1143,0
+ 244 - Government Girls Primary School Miana Pura Magrbi Roras Road.(Female)(P),32.49127,74.51225,Female,Punjab,0,2,0,927
+ 309 - Government Girls Mir Hassan High School Sialkot. (P),32.49144,74.53513,Combined,Punjab,1,1,796,589
+ 310 - Government Girls Mir Hassan High School Sialkot. (Male) (P),32.49144,74.53516,Male,Punjab,2,0,1133,0
+ 311 - Government Girls Mir Hassan High School Sialkot. (Female) (P),32.49144,74.53519,Female,Punjab,0,2,0,940
+ 312 - Government Girls Mir Hassan High School Sialkot. (Male) (P),32.49144,74.53522,Male,Punjab,2,0,1334,0
+ 313 - Government Girls Mir Hassan High School Sialkot. (Female) (P),32.49144,74.53525,Female,Punjab,0,2,0,1155
+ 306 - Government  Boys Chirstian High School Gandam Mandi. (Male) (P),32.49198,74.53776,Male,Punjab,2,0,1372,0
+ 307 - Government  Boys Chirstian High School Gandam Mandi. (Female) (P),32.49198,74.53779,Female,Punjab,0,2,0,1193
+ 308 - Government  Boys Chirstian High School Gandam Mandi.  (P),32.49198,74.53782,Combined,Punjab,1,1,760,610
+ 358 - Government Girls  Elementry School Mazafar Pura. (Male) (P),32.49201,74.49712,Male,Punjab,3,0,1771,0
+ 359 - Government Girls Elementry School Mazafar Pura. (Female) (P),32.49201,74.49715,Female,Punjab,0,2,0,1423
+ 360 - Government Boys Primary School Mazafar Pura.  (P),32.49203,74.49787,Combined,Punjab,2,1,918,700
+ 1 - Government Sardar Begum Teaching Hospital (Male)  (P),32.49222,74.53295,Male,Punjab,3,0,1716,0
+ 2 - Government Sardar Begum Teaching Hospital (Female)  (P),32.49222,74.53298,Female,Punjab,0,2,0,1465
+ 3 - Government Sardar Begum Teaching Hospital (Male)  (P),32.49222,74.53301,Male,Punjab,2,0,1067,0
+ 4 - Government Sardar Begum Teaching Hospital (Female)  (P),32.49222,74.53304,Female,Punjab,0,2,0,928
+ 10 - Government Social Welfair Complex  Sialkot. (Female) (P),32.49231,74.53267,Female,Punjab,0,2,0,1446
+ 5 - Government Social Welfair Complex office Sialkot. (Male) (P),32.49231,74.5327,Male,Punjab,2,0,1148,0
+ 6 - Government Social Welfair Complex  Sialkot. (Female) (P),32.49231,74.53273,Female,Punjab,0,2,0,931
+ 7 - Government Social Welfair Complex  Sialkot. (P),32.49231,74.53276,Combined,Punjab,1,1,797,635
+ 8 - Government Social Welfair Complex office Sialkot.  (P),32.49231,74.53279,Combined,Punjab,1,1,728,631
+ 9 - Government Social Welfair Complex office Sialkot. (Male) (P),32.49231,74.53282,Male,Punjab,3,0,1708,0
+ 242 - Government Boys Primary School Mazafar Pura (P),32.49242,74.50769,Combined,Punjab,1,1,650,497
+ 378 - Government Boys Primery Schooll Noul. (Female),32.49259,74.4771,Female,Punjab,0,2,0,1041
+ 317 - Government Apwa Girls Elementary School Sialkot. (Male) (P),32.49302,74.53062,Male,Punjab,3,0,1665,0
+ 318 - Government Apwa Girls Elementary School Sialkot. (Female) (P),32.49302,74.53065,Female,Punjab,0,2,0,1319
+ 101 - Khwaja Safdar Hospital Sialkot. (Male) (P),32.49333,74.54877,Male,Punjab,2,0,1169,0
+ 102 - Khwaja Safdar Hospital Sialkot. (Female) (P),32.49333,74.5488,Female,Punjab,0,2,0,1029
+ 105 - Khwaja Safdar Hospital Sialkot. (Male) (P),32.49333,74.54883,Male,Punjab,2,0,1417,0
+ 106 - Khwaja Safdar Hospital Sialkot. (Female) (P),32.49333,74.54886,Female,Punjab,0,2,0,1203
+ 371 - Government Model Primary School Dhanay. (P),32.49336,74.48095,Combined,Punjab,1,1,887,632
+ 281 - Government M.C Girls Elementry  School (Mori Gate) Shawala Panja Singh Near Allama Iqbal House. (Male),32.49351,74.5462,Male,Punjab,2,0,1510,0
+ 282 - Government M.C Girls Elementry  School (Mori Gate) Shawala Panja Singh Near Allama Iqbal House. (Female),32.49351,74.54623,Female,Punjab,0,2,0,1242
+ 283 - Government M.C Girls Elementry  School (Mori Gate) Shawala Panja Singh Near Allama Iqbal House.,32.49351,74.54626,Combined,Punjab,1,1,859,739
+ 55 - Government Arabic High School Sialkot. (Male) (P),32.49361,74.55054,Male,Punjab,2,0,1083,0
+ 56 - Government Arabic High School Sialkot. (Female) (P),32.49361,74.55057,Female,Punjab,0,2,0,927
+ 57 - Government Arabic High School Sialkot. (Male) (P),32.49361,74.5506,Male,Punjab,2,0,1578,0
+ 58 - Government Arabic High School Sialkot. (Female) (P),32.49361,74.55063,Female,Punjab,0,2,0,1309
+ 65 - Government Girls Primary School No.2 Rangpura. (Male) (P),32.49374,74.5639,Male,Punjab,2,0,1436,0
+ 245 - Government Boys Primary School Miana Pura Magrbi Roras Road. (Male) (P),32.49403,74.50419,Male,Punjab,2,0,1569,0
+ 246 - Government Boys Primary School Miana Pura Magrbi Roras Road. (Female) (P),32.49403,74.50422,Female,Punjab,0,2,0,1259
+ 269 - Government Boys Elementary School Miana Pura Mashrqi. (P),32.49403,74.50425,Combined,Punjab,1,1,823,656
+ 38 - Government Post Graduate College of Commerce Qila Sialkot. (P),32.49406,74.54201,Combined,Punjab,1,1,656,553
+ 39 - Government Post Graduate College of Commerce Qila Sialkot. (Male) (P),32.49406,74.54204,Male,Punjab,3,0,1615,0
+ 40 - Government Post Graduate College of Commerce Qila Sialkot. (Female) (P),32.49406,74.54207,Female,Punjab,0,2,0,1311
+ 100 - Government Girls Higher Secondary School Dharowal Sialkot. (Female) (P),32.49429,74.54919,Female,Punjab,0,2,0,915
+ 107 - Government Girls Higher Secondary School Dharowal Sialkot. (Male) (P),32.49429,74.54922,Male,Punjab,2,0,1462,0
+ 108 - Government Girls Higher Secondary School Dharowal Sialkot. (Female) (P),32.49429,74.54925,Female,Punjab,0,2,0,1272
+ 109 - Government Girls Higher Secondary School Dharowal Sialkot. (Male) (P),32.49429,74.54928,Male,Punjab,3,0,1737,0
+ 110 - Government Girls Higher Secondary School Dharowal Sialkot. (Female) (P),32.49429,74.54931,Female,Punjab,0,2,0,1424
+ 99 - Government Girls Higher Secondary School Dharowal Sialkot. (Male) (P),32.49429,74.54934,Male,Punjab,2,0,953,0
+ 82 - GovernmentGirls Primary School Nazam Pur Ghalian. (Female) (P),32.49445,74.56556,Female,Punjab,0,2,0,929
+ 265 - Office Public Health  Engineering  Iqbal Town. Sialkot.(Male) (P),32.49457,74.50842,Male,Punjab,4,0,1916,0
+ 266 - Office Public Health  Engineering  Iqbal Town. Sialkot.(Female) (P),32.49457,74.50845,Female,Punjab,0,2,0,1518
+ 267 - Office Public Health  Engineering  Iqbal Town. Sialkot.(Male) (P),32.49457,74.50848,Male,Punjab,2,0,1139,0
+ 268 - Office Public Health  Engineering  Iqbal Town. Sialkot.(Female) (P),32.49457,74.50851,Female,Punjab,0,2,0,864
+ 270 - Office Public Health Engineering  Iqbal Town Sialkot.  (Male) (P),32.49457,74.50854,Male,Punjab,2,0,1244,0
+ 271 - Office Public Health Engineering Iqbal Town Sialkot. (Female) (P),32.49457,74.50857,Female,Punjab,0,2,0,1023
+ 273 - Office Public Health Engineering Iqbal Town Sialkot. (Female) (P),32.49457,74.5086,Female,Punjab,0,2,0,1047
+ 48 - Government Muslim Boys High School Sialkot. (P),32.49507,74.5401,Combined,Punjab,1,1,861,747
+ 49 - Government Islamia Girls High School Sialkot.(Male) (P),32.49509,74.53969,Male,Punjab,2,0,1246,0
+ 50 - Government Islamia Girls High School Sialkot.(Female) (P),32.49509,74.53972,Female,Punjab,0,2,0,1093
+ 249 - Office of  Child Protection Miana Pura (Male) (P),32.49572,74.52271,Male,Punjab,2,0,1353,0
+ 250 - Office of  Child Protection Miana Pura (Female) (P),32.49572,74.52274,Female,Punjab,0,2,0,1027
+ 251 - Government Boys Elementary School Miana Pura Mashrqi.(Male) (P),32.49589,74.52161,Male,Punjab,2,0,1296,0
+ 252 - Government Boys Elementary School Miana Pura Mashrqi.(Female) (P),32.49589,74.52164,Female,Punjab,0,2,0,988
+ 373 - Government Girls Primary School Harer.(Male) (P),32.49669,74.48814,Male,Punjab,2,0,1486,0
+ 374 - Government Girls Primary School Harer.(Female) (P),32.49669,74.48817,Female,Punjab,0,2,0,1261
+ 46 - Government Boys Elementary School Mehraja Road Sialkot (Male) (P),32.49683,74.54333,Male,Punjab,2,0,1174,0
+ 259 - Government Illama Iqbal College for women purni sabzi mandi (Male) (P),32.49688,74.52643,Male,Punjab,2,0,1287,0
+ 260 - Government Illama Iqbal College for women purni sabzi mandi (Female) (P),32.49688,74.52646,Female,Punjab,0,2,0,1110
+ 261 - Government Illama Iqbal College for women purni sabzi mandi (Male) (P),32.49688,74.52649,Male,Punjab,2,0,1527,0
+ 262 - Government Illama Iqbal College for women purni sabzi mandi (Female) (P),32.49688,74.52652,Female,Punjab,0,2,0,1397
+ 263 - Government Illama Iqbal College for women purni sabzi mandi (Male) (P),32.49688,74.52655,Male,Punjab,2,0,1122,0
+ 264 - Government Illama Iqbal College for women purni sabzi mandi (Female) (P),32.49688,74.52658,Female,Punjab,0,2,0,922
+ 274 - Government Illama Iqbal College for women purni sabzi mandi (Male) (P),32.49688,74.52661,Male,Punjab,2,0,1102,0
+ 275 - Government Illama Iqbal College for women purni sabzi mandi (Female) (P),32.49688,74.52664,Female,Punjab,0,2,0,959
+ 276 - Government Illama Iqbal College for women purni sabzi mandi.(P),32.49688,74.52667,Combined,Punjab,1,1,736,604
+ 47 - Government Haq Girls Elementary School Mehraja Road Sialkot. (Female),32.49744,74.54253,Female,Punjab,0,2,0,958
+ 13 - Government M.C Girls Elementary School Water Works (Male) (P),32.49778,74.5345,Male,Punjab,2,0,1538,0
+ 14 - Government M.C Girls Elementary  School Water Works (Female) (P),32.49778,74.53453,Female,Punjab,0,2,0,1381
+ 51 - Government Pillot High School Sialkot. (Male) (P),32.49799,74.55149,Male,Punjab,3,0,1741,0
+ 52 - Government Pillot High School Sialkot. (Female) (P),32.49799,74.55152,Female,Punjab,0,2,0,1448
+ 59 - Government Jamia High School Sialkot (Male) (P),32.49854,74.55498,Male,Punjab,2,0,1047,0
+ 60 - Government Jamia High School Sialkot (Female) (P),32.49854,74.55501,Female,Punjab,0,2,0,913
+ 81 - Government Comprehensive(Jamia) High School Sialkot (Male) (P),32.49854,74.55504,Male,Punjab,2,0,1342,0
+ 83 - Government Jamia High School Sialkot (P),32.49854,74.55507,Combined,Punjab,1,1,782,561
+ 376 - Government Boys Primary School Harer. (Female)  (P),32.49878,74.48685,Female,Punjab,0,2,0,1215
+ 11 - Government Girls (J&K) Jon and Scot Elementary School Abbit Road. (Male) (P),32.49881,74.53424,Male,Punjab,2,0,1474,0
+ 12 - Government Girls (J&K) Jon and Scot Elementary School Abbit Road. (Female) (P),32.49881,74.53427,Female,Punjab,0,2,0,1333
+ 375 - Government Boys Primary School Harer. (Male)  (P),32.49884,74.48685,Male,Punjab,2,0,1523,0
+ 41 - Government Marray College Sialkot (Male) (P),32.49934,74.54904,Male,Punjab,2,0,1225,0
+ 42 - Government Marray College Sialkot (Female) (P),32.49934,74.54907,Female,Punjab,0,2,0,1083
+ 43 - Government Marray College Sialkot (Male) (P),32.49934,74.5491,Male,Punjab,2,0,1543,0
+ 44 - Government Marray College Sialkot (Female) (P),32.49934,74.54913,Female,Punjab,0,2,0,1268
+ 45 - Government Marray College Sialkot (P),32.49934,74.54916,Combined,Punjab,1,1,576,498
+ 223 - Government Girls Higher Secondary School Model Town (Male)(P),32.49957,74.52699,Male,Punjab,2,0,1033,0
+ 224 - Government Girls Higher Secondary High School Model Town (Female)(P),32.49957,74.52702,Female,Punjab,0,2,0,931
+ 225 - Government Girls Higher Secondary School Model Town (Male)(P),32.49957,74.52705,Male,Punjab,3,0,1651,0
+ 226 - Government Girls Higher Secondary High School Model Town (Female)(P),32.49957,74.52708,Female,Punjab,0,2,0,1497
+ 253 - Government Girls Higher Secondary School Model Town. (Male) (P),32.49957,74.52711,Male,Punjab,2,0,1091,0
+ 254 - Government Girls Higher Secondary School Model Town. (Female) (P),32.49957,74.52714,Female,Punjab,0,2,0,995
+ 255 - Government Girls Higher Secondary School Model Town. (Male) (P),32.49957,74.52717,Male,Punjab,2,0,1198,0
+ 256 - Government Girls Higher Secondary School Model Town. (Female) (P),32.49957,74.5272,Female,Punjab,0,2,0,1173
+ 257 - Government Girls Higher Secondary School Model Town. (Male) (P),32.49957,74.52723,Male,Punjab,2,0,1542,0
+ 258 - Government Girls Higher Secondary School Model Town. (Female) (P),32.49957,74.52726,Female,Punjab,0,2,0,1416
+ 377 - Government Girls Elementary Schooll Noul. (P) (Male),32.49969,74.47733,Male,Punjab,2,0,1262,0
+ 32 - General Post Office Sialkot  (Male) (P),32.49992,74.53805,Male,Punjab,2,0,993,0
+ 33 - General Post Office Sialkot (Female) (P),32.49992,74.53808,Female,Punjab,0,2,0,938
+ 34 - General Post Office Sialkot (P),32.49992,74.53811,Combined,Punjab,1,1,806,729
+ 25 - Government Jinnah Islamia College Sialkot. (Male) (P),32.50002,74.54907,Male,Punjab,2,0,1193,0
+ 26 - Government Jinnah Islamia College Sialkot. (Female) (P),32.50002,74.5491,Female,Punjab,0,2,0,1073
+ 29 - Government Jinnah Islamia College Sialkot.  (P),32.50002,74.54913,Combined,Punjab,1,1,719,620
+ 30 - Government Jinnah Islamia College Sialkot. (Male) (P),32.50002,74.54916,Male,Punjab,2,0,1449,0
+ 31 - Government Jinnah Islamia College Sialkot. (Female) (P),32.50002,74.54919,Female,Punjab,0,2,0,1236
+ 53 - Government Jinah Islamia College Sialkot. (Male) (P),32.50002,74.54922,Male,Punjab,2,0,1059,0
+ 54 - Government Jinah Islamia College Sialkot. (Female) (P),32.50002,74.54925,Female,Punjab,0,2,0,945
+ 84 - Government Jinnah Islamia College Sialkot.  (P),32.50002,74.54928,Combined,Punjab,1,1,816,582
+ 75 - Government Model Primary School Kakay Wali. (Male) (P),32.50028,74.57777,Male,Punjab,2,0,1424,0
+ 76 - Government Model Primary School Kakay Wali. (Female) (P),32.50028,74.5778,Female,Punjab,0,2,0,1135
+ 203 - Rergistered Classic School System Flagship Campus Near Mag Town (Male),32.50109,74.49926,Male,Punjab,2,0,1437,0
+ 204 - Rergistered Classic School System Flagship Campus Near Mag Town (Female),32.50109,74.49929,Female,Punjab,0,2,0,1300
+ 205 - Rergistered Classic School System Flagship Campus Near Mag Town (Male),32.50109,74.49932,Male,Punjab,2,0,937,0
+ 206 - Rergistered Classic School System Flagship Campus Near Mag Town (Female),32.50109,74.49935,Female,Punjab,0,2,0,804
+ 227 - Office Union Council Model Town (Male),32.5025,74.52341,Male,Punjab,2,0,1421,0
+ 228 - Office Union Council Model Town (Female),32.5025,74.52344,Female,Punjab,0,2,0,1248
+ 22 - Government Standred Girls Elementary School Puran Nagar  (Female),32.50271,74.53864,Female,Punjab,0,2,0,1465
+ 24 - Government Standred Girls Elementary School Puran Nagar  (Female),32.50271,74.53867,Female,Punjab,0,2,0,1349
+ 78 - Government Girls Elementary School Talwara Mughlan.(Primary Poration) (Female) (P),32.50306,74.56445,Female,Punjab,0,2,0,975
+ 98 - GovernmentGirls Elementary School Talwara Mughlan (Female) (P),32.50306,74.56448,Female,Punjab,0,2,0,1168
+ 21 - Government M.C Boys Elementary School Puran Nagar. (Male) (P),32.50324,74.538,Male,Punjab,3,0,1555,0
+ 23 - Government M.C Boys Elementary School Puran Nagar. (Male) (P),32.50324,74.53803,Male,Punjab,2,0,1398,0
+ 85 - Union Council Office Talwara Mughlan.(Male) (P),32.50333,74.56528,Male,Punjab,2,0,1328,0
+ 77 - Government Girls High School Talwara Mughlan. (Male) (P),32.50333,74.56556,Male,Punjab,2,0,1391,0
+ 97 - Government Girls High School Talwara Mughlan (Male) (P),32.50333,74.56559,Male,Punjab,2,0,1501,0
+ 35 - Government Girls Muslim Model School Muhammad pura. (Male) (P),32.50364,74.55025,Male,Punjab,2,0,1290,0
+ 36 - Government Girls Muslim Model School Muhammad pura. (Female) (P),32.50364,74.55028,Female,Punjab,0,2,0,1098
+ 37 - Government Girls Muslim Model School Muhammad pura.  (P),32.50364,74.55031,Combined,Punjab,1,1,737,667
+ 86 - Government Girls Primary School Ghazi Pur. (Primary Portion)(Female) (P),32.50383,74.56177,Female,Punjab,0,2,0,1056
+ 15 - Government Post Graduate College for women Kachery Road Sialkot. (Male) (P),32.50421,74.5323,Male,Punjab,2,0,1168,0
+ 16 - Government Post Graduate College for women Kachery Road Sialkot. (Female) (P),32.50421,74.53233,Female,Punjab,0,2,0,1059
+ 17 - Government Post Graduate College for women Kachery Road Sialkot. (Male) (P),32.50421,74.53236,Male,Punjab,2,0,1521,0
+ 18 - Government Post Graduate College for women Kachery Road Sialkot. (Female) (P),32.50421,74.53239,Female,Punjab,0,2,0,1342
+ 19 - Government Post Graduate College for women Kachery Road Sialkot. (Male) (P),32.50421,74.53242,Male,Punjab,2,0,1161,0
+ 20 - Government Post Graduate College for women Kachery Road Sialkot. (Female) (P),32.50421,74.53245,Female,Punjab,0,2,0,1033
+ 27 - Government College of Technology  Paris Road Sialkot. (Male) (P),32.50541,74.53777,Male,Punjab,2,0,1048,0
+ 28 - Government College of Technology  Paris Road Sialkot. (Female) (P),32.50541,74.5378,Female,Punjab,0,2,0,935
+ 212 - Government Boys Elementary School Pacca Graha. (P),32.50703,74.5128,Combined,Punjab,1,1,717,594
+ 213 - Government Boys Elementary School Pacca Graha. (Male) (P),32.50703,74.51283,Male,Punjab,2,0,1165,0
+ 214 - Government Boys Elementary School Pacca Graha. (Female) (P),32.50703,74.51286,Female,Punjab,0,2,0,905
+ 207 - Government Girls Elementry School Pacca Graha. (Male)(P),32.50732,74.51194,Male,Punjab,2,0,1119,0
+ 208 - Government Girls Elementry School Pacca Graha. (Female)(P),32.50732,74.51197,Female,Punjab,0,2,0,975
+ 209 - Government Girls High School Khadim Ali Road (Male) (P),32.50818,74.52046,Combined,Punjab,1,1,900,777
+ 210 - Government Girls High School Khadim Ali Road. (Male)(P),32.50818,74.52049,Male,Punjab,2,0,1555,0
+ 211 - Government Girls High School Khadim Ali Road (Female) (P),32.50818,74.52052,Female,Punjab,0,2,0,1270
+ 218 - Government Girls High School Khadim Ali Road (Male) (P),32.50818,74.52055,Male,Punjab,2,0,1137,0
+ 219 - Government Girls High School Khadim Ali Road (Female) (P),32.50818,74.52058,Female,Punjab,0,2,0,1129
+ 221 - Government Girls High School Khadim Ali Road (Male) (P),32.50818,74.52061,Male,Punjab,2,0,1429,0
+ 222 - Government Girls High School Khadim Ali Road (Female) (P),32.50818,74.52064,Female,Punjab,0,2,0,1112
+ 215 - Government Boys High School Khadim Ali Road.(Male) (P),32.50821,74.52038,Male,Punjab,3,0,1666,0
+ 216 - Government Boys High School Khadim Ali Road.(Female) (P),32.50821,74.52041,Female,Punjab,0,2,0,1381
+ 217 - Government Boys High School Khadim Ali Road. (P),32.50821,74.52044,Combined,Punjab,1,1,727,620
+ 220 - Government Boys High School Khadim Ali Road. (P),32.50821,74.52047,Combined,Punjab,1,1,546,510
+ 175 - Office of Union Council Bounkan (Female) (P),32.50917,74.50723,Female,Punjab,0,2,0,1215
+ 177 - Government Boys Primary School Bounkan.(Female)(P),32.51139,74.5025,Female,Punjab,0,2,0,1378
+ 178 - Government Boys Primary School Bounkan. (P),32.51139,74.50253,Combined,Punjab,1,1,520,405
+ 174 - Government Girls High School Bonkan (Male) (P),32.5125,74.50333,Male,Punjab,2,0,1557,0
+ 176 - Government Girls High School Bonkan (Male) (P),32.5125,74.50336,Male,Punjab,3,0,1643,0
+ 152 - Government Girls Higher Secondary School Sialkot Cantt. (Male) (P),32.51301,74.55482,Male,Punjab,3,0,1642,0
+ 153 - Government Girls Higher Secondary School Sialkot Cantt. (Female) (P),32.51301,74.55485,Female,Punjab,0,2,0,1475
+ 154 - Government Girls Higher Secondary School Sialkot Cantt. (Male) (P),32.51301,74.55488,Male,Punjab,2,0,1317,0
+ 155 - Government Girls Higher Secondary School Sialkot Cantt. (Female) (P),32.51301,74.55491,Female,Punjab,0,2,0,1206
+ 156 - Government Jinah Efficiency High SchoolCantt. (Male) (P),32.51332,74.55645,Male,Punjab,2,0,1061,0
+ 157 - Government Jinah Efficiency High SchoolCantt. (Female) (P),32.51332,74.55648,Female,Punjab,0,2,0,1008
+ 158 - Government Jinah Efficiency High SchoolCantt.  (P),32.51332,74.55651,Combined,Punjab,1,1,775,672
+ 159 - Government Jinah Efficiency High SchoolCantt. (Male) (P),32.51332,74.55654,Male,Punjab,3,0,1674,0
+ 160 - Government Jinah Efficiency High SchoolCantt. (Female) (P),32.51332,74.55657,Female,Punjab,0,2,0,1409
+ 194 - Government Girls Higher Secondary School Murad Pur (Part Primary) (Male) (P),32.515,74.49916,Male,Punjab,3,0,1589,0
+ 195 - Government Girls Higher Secondary School Murad Pur (Part Primary) (Female) (P),32.515,74.49919,Female,Punjab,0,2,0,1390
+ 196 - Government Girls Higher Secondary School Murad Pur.(Male) (P),32.515,74.49922,Male,Punjab,2,0,1299,0
+ 197 - Government Girls Higher Secondary School Murad Pur. (Female) (P),32.515,74.49925,Female,Punjab,0,2,0,1171
+ 198 - Government Girls Higher Secondary School Murad Pur.(Male) (P),32.515,74.49928,Male,Punjab,2,0,1544,0
+ 199 - Government Girls Higher Secondary School Murad Pur.(Female) (P),32.515,74.49931,Female,Punjab,0,2,0,1277
+ 229 - Government Girls Christian High School Bara Pathar.(Male) (P),32.51714,74.5178,Male,Punjab,2,0,1132,0
+ 230 - Government Girls Christian High School Bara Pathar.(Female) (P),32.51714,74.51783,Female,Punjab,0,2,0,1068
+ 231 - Government Girls Christian High School Bara Pathar.(Male) (P),32.51714,74.51786,Male,Punjab,2,0,1307,0
+ 232 - Government Girls Christian High School Bara Pathar.(Female) (P),32.51714,74.51789,Female,Punjab,0,2,0,1107
+ 233 - Government Girls Christian High School Bara Pathar.(Male) (P),32.51714,74.51792,Male,Punjab,2,0,1171,0
+ 234 - Government Girls Christian High School Bara Pathar.(Female) (P),32.51714,74.51795,Female,Punjab,0,2,0,926
+ 235 - Government Girls Christian High School Bara Pathar. (P),32.51714,74.51798,Combined,Punjab,1,1,642,551
+ 161 - Government Fedral Government Boys Middle School Cantt( Allah Chowk) (Male) (P),32.51749,74.56037,Male,Punjab,2,0,1074,0
+ 162 - Government Fedral Government Boys Middle School Cantt( Allah Chowk) (Female) (P),32.51749,74.5604,Female,Punjab,0,2,0,999
+ 163 - Government Fedral Government Boys Middle School Cantt( Allah Chowk).(Male) (P),32.51749,74.56043,Male,Punjab,2,0,1328,0
+ 164 - Government Fedral Government Boys Middle School Cantt( Allah Chowk).(Female) (P),32.51749,74.56046,Female,Punjab,0,2,0,1309
+ 165 - Government Fedral Government Boys Middle School Cantt( Allah Chowk)  (P),32.51749,74.56049,Combined,Punjab,1,1,854,808
+ 168 - Government Fedral Government Boys Middle School Cantt( Allah Chowk)(Male) (P),32.51749,74.56052,Male,Punjab,2,0,1000,0
+ 169 - Government Fedral Government Boys Middle School Cantt( Allah Chowk)(Female) (P),32.51749,74.56055,Female,Punjab,0,2,0,959
+ 200 - Basic Health Unit Murad Pur (East) (Male) (P),32.51833,74.50027,Male,Punjab,2,0,1391,0
+ 201 - Basic Health Unit Murad Pur (East) (Female) (P),32.51833,74.5003,Female,Punjab,0,2,0,1105
+ 202 - Basic Health Unit Murad Pur (West)  (P),32.51833,74.50033,Combined,Punjab,1,1,785,634
+ 172 - Government Girls Elementry School  Hantur Pura.(Male)(P),32.51889,74.51556,Male,Punjab,2,0,1547,0
+ 173 - Government Girls Elementry School  Hantur Pura.(Female)(P),32.51889,74.51559,Female,Punjab,0,2,0,1393
+ 179 - Government Girls Elementry School  Hunter Pura. (Male) (P),32.51889,74.51562,Male,Punjab,4,0,2050,0
+ 180 - Government Girls Elementry School  Hunter Pura. (Female) (P),32.51889,74.51565,Female,Punjab,0,3,0,1705
+ 185 - Government Boys Primary School Gohid Pur  (Male) (P),32.52055,74.5025,Male,Punjab,2,0,1522,0
+ 186 - Government Boys Primary School Gohid Pur  (Female) (P),32.52055,74.50253,Female,Punjab,0,2,0,1287
+ 181 - Government Higher Secondary School Gohid Pur (Intermediate Block upper Story) (P),32.52111,74.50111,Combined,Punjab,1,1,693,656
+ 182 - Government Higher Secondary School Gohid Pur (Intermediate Block upper Story) (Male) (P),32.52111,74.50114,Male,Punjab,2,0,1492,0
+ 183 - Government Higher Secondary School Gohid Pur (Intermediate Block upper Story) (Female) (P),32.52111,74.50117,Female,Punjab,0,2,0,1289
+ 184 - Government Higher Secondary School Gohid Pur (Intermediate Block upper Story)  (P),32.52111,74.5012,Combined,Punjab,1,1,582,467
+ 187 - Government Higher Secondary School Gohid Pur.  (P),32.52111,74.50123,Combined,Punjab,1,1,844,721
+ 188 - Government Higher Secondary School Gohid Pur. (Male) (P),32.52111,74.50126,Male,Punjab,3,0,1609,0
+ 189 - Government Higher Secondary School Gohid Pur. (Female) (P),32.52111,74.50129,Female,Punjab,0,2,0,1417
+ 190 - Government Higher Secondary School Gohid Pur. (Male) (P),32.52111,74.50132,Male,Punjab,2,0,1387,0
+ 191 - Government Higher Secondary School Gohid Pur. (Female) (P),32.52111,74.50135,Female,Punjab,0,2,0,1150
+ 166 - Government Primary School Lal Kurti Bazar Cantt Sialkot. (Male) (P),32.52861,74.58229,Male,Punjab,3,0,1791,0
+ 167 - Government Primary School Lal Kurti Bazar Cantt Sialkot. (Female) (P),32.52861,74.58232,Female,Punjab,0,3,0,1614

@@ -1,0 +1,87 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 160 - Government Middle School Khoi Pewar (Combined),31.30401,70.34222,Combined,FATA,1,1,486,186
+ 157 - Government Middle School Khoi Bahara Sharqi (Combined),31.34931,70.3625,Combined,FATA,2,1,832,524
+ 159 - Government High School Khoi Bahara (Combined),31.3497,70.34631,Combined,FATA,1,1,628,425
+ 158 - Government Girls High School Khoi Bahara (Combined),31.35113,70.3479,Combined,FATA,1,1,739,558
+ 139 - Government High School Ragha Sar (Combined),31.5511714,70.6475976,Combined,FATA,1,1,546,346
+ 140 - Government Primary School Ragha Sar (Combined),31.5511714,70.6476276,Combined,FATA,2,1,762,534
+ 146 - Government Primary School Landi Kutarzai (Combined),31.5511714,70.6476576,Combined,FATA,1,1,255,175
+ 144 - Government Girls Primary School Hazrat Khan Darazinda (Combined),31.7108519,70.1395843,Combined,FATA,1,1,594,445
+ 131 - Government Middle School Tijri (Combined),31.7373984,70.3265292,Combined,FATA,2,1,911,549
+ 132 - Government Primary School Ashpalai (Combined),31.7373984,70.3265592,Combined,FATA,1,1,511,289
+ 133 - Government High School Morga (Combined),31.7373984,70.3265892,Combined,FATA,1,1,592,435
+ 134 - Government Primary School Lawra Killa (Combined),31.7373984,70.3266192,Combined,FATA,1,1,947,623
+ 135 - Government Primary School Landi Matawar (Combined),31.7373984,70.3266492,Combined,FATA,1,1,198,172
+ 136 - Government Middle School Torey Baz (Combined),31.7373984,70.3266792,Combined,FATA,1,1,382,276
+ 137 - Government Primary School Landi No.2 (Combined),31.7373984,70.3267092,Combined,FATA,1,1,334,289
+ 138 - Government Middle School Landi  (Combined),31.7373984,70.3267392,Combined,FATA,1,1,294,256
+ 141 - Government Primary School Sardar Mir Ajab Khan Darazinda (Male),31.7373984,70.3267692,Male,FATA,2,0,1209,0
+ 142 - Government Girls Primary School Riaz Korona Darazinda (Female),31.7373984,70.3267992,Female,FATA,0,2,0,911
+ 143 - Government Girls High School Darazinda (Combined),31.7373984,70.3268292,Combined,FATA,1,1,510,421
+ 145 - Government Primary School Zore Shehr (Combined),31.7373984,70.3268592,Combined,FATA,1,1,623,493
+ 147 - Government Middle School Tor Kani (Combined),31.7433687,70.8012941,Combined,FATA,2,1,873,439
+ 150 - Government Girls Primary School Behran (Safar Khan) (Combined),31.7433687,70.8013241,Combined,FATA,1,1,578,306
+ 151 - Government High School Landi Baloch (Combined),31.8051478,70.8922373,Combined,FATA,1,1,611,489
+ 152 - Government Middle School Cheena (Combined),31.8051478,70.8922673,Combined,FATA,1,1,676,367
+ 156 - Injry Wam Pickuit (Combined),31.8159125,70.9136852,Combined,FATA,1,1,297,126
+ 148 - Government High School Jalal Khan Parwara (Combined),31.8188895,70.9128826,Combined,FATA,1,1,577,349
+ 149 - Government Primary School Mado Jan Parwara (Combined),31.8188895,70.9129126,Combined,FATA,1,1,607,288
+ 153 - Civil Hospital Sheikh Mela (Combined),31.8188895,70.9129426,Combined,FATA,1,1,574,565
+ 154 - Government Girls Middle School Baskai (Combined),31.8188895,70.9129726,Combined,FATA,1,1,316,202
+ 155 - Civil Hospital Mughal Kot (Combined),31.8188895,70.9130026,Combined,FATA,2,1,828,436
+ 107 - GGHS Sardari Ali (Kor) F.R.Tank,32.2074175,70.3895072,Combined,FATA,2,2,533,372
+ 120 - GHS Daulat Khan F.R. Tank,32.2074175,70.3895372,Combined,FATA,1,1,362,205
+ 121 - GPS Ping Mosa Khan F.R. Tank,32.2074175,70.3895672,Combined,FATA,1,1,338,174
+ 130 - GPS Rasool Khan FR Tank,32.2074175,70.3895972,Combined,FATA,1,1,158,82
+ 123 - BHU Sarmast Khel F.R. Tank,32.2074177,70.3895071,Combined,FATA,1,1,274,152
+ 125 - GHS Pir Tangi,32.2074177,70.3895371,Combined,FATA,2,1,576,344
+ 129 - GMS Girrni F.R. Tank,32.24442436169512,70.1689978763663,Combined,FATA,1,1,348,175
+ 128 - GHS Khirgi F.R Tank,32.30342773067378,70.20400441811285,Combined,FATA,2,2,541,446
+ 119 - GHS Kirri Wam F.R. Tank,32.30603934045773,70.16409997789643,Combined,FATA,2,2,683,575
+ 127 - GHS Sobati Katch F.R. Tank,32.30721171599705,70.27139800888806,Combined,FATA,1,1,276,222
+ 117 - GMS Karam Bobai F.R. Tank,32.30722243849568,70.27139449692997,Male,FATA,4,0,2079,0
+ 126 - GPS No.2 Qismat Khan F.R. Tank,32.3079694462137,70.28876684498769,Combined,FATA,1,1,120,83
+ 124 - GGPS Qismat Khan F.R. Tank,32.3179760881648,70.4987845272779,Combined,FATA,1,1,367,188
+ 118 - GGMS Guli Jan F.R. Tank,32.32559982355324,70.13021031235603,Female,FATA,0,3,0,1869
+ 116 - GGHS Jandola F.R. Tank,32.332725088295,70.12572411854305,Female,FATA,0,3,0,1128
+ 115 - GHS Jandola F.R. Tank,32.333738945571085,70.11201576730662,Male,FATA,4,0,1319,0
+ 114 - GMS Khecha F.R. Tank,32.34102575070545,70.14245402656351,Combined,FATA,2,2,854,661
+ 122 - GMS Ghundai Sheikhan F.R.Tank,32.406600678125606,70.46662224892458,Combined,FATA,1,1,382,176
+ 113 - GPS Zangi Khan F.R. Tank,32.43103326780794,70.20761547706888,Combined,FATA,1,1,219,149
+ 112 - GHS Din Muhammad Kor F.R. Tank,32.45084726917674,70.20504002573774,Combined,FATA,2,1,511,322
+ 111 - GPS Sara Ghar Yar Khan F.R.Tank,32.548317200160234,70.21813439240017,Combined,FATA,1,1,258,177
+ 110 - BHU Sakhi Marjan Kor F.R.Tank,32.560740150155745,70.24509967258287,Combined,FATA,1,1,277,217
+ 109 - GMS Rustam Kor F.R. Tank,32.566199519712974,70.27402498675676,Combined,FATA,2,1,1172,181
+ 108 - GGPS Arab Khan Kor FR Tank,32.574644526782436,70.3434003726152,Combined,FATA,1,1,512,279
+ 41 - Govt:High School Sheen Dhand (C ),33.5615,71.63131,Combined,FATA,2,1,1103,621
+ 42 - Govt: Girls Primary School Mir Akbar Guli Khel,33.57014,71.65967,Combined,FATA,1,1,262,224
+ 44 - Govt:Middle School Nazeem KalaTurki Ismail Khel,33.57499,71.64114,Combined,FATA,3,1,697,470
+ 43 - Basic Health UnitTurki Ismail Khel,33.57901,71.64817,Combined,FATA,1,1,501,337
+ 40 - Govt: Girls Primary School Landiwal No.1 Samand Khan Kalley,33.59349,71.70181,Combined,FATA,1,1,496,318
+ 39 - Govt: Girls Primary School Landiwal No.2,33.59778,71.71859,Combined,FATA,1,1,451,284
+ 38 - Govt: High School  Ara Khel,33.60756,71.71037,Combined,FATA,2,1,734,388
+ 32 - Govt:Middle School Toor Tandi,33.61655,71.75467,Combined,FATA,2,1,569,479
+ 30 - Govt: Girls Middle School Sher Abbas KalaF.R Kohat,33.61953,71.76713,Combined,FATA,1,1,418,369
+ 31 - Govt:Primary School Behram KhelF.R Kohat,33.6251,71.75131,Combined,FATA,2,1,705,495
+ 34 - Govt:Middle School Guzdarra,33.62571,71.83144,Combined,FATA,1,1,308,257
+ 36 - Govt:Primary School Jammu Madeer,33.62648,71.68121,Combined,FATA,1,1,269,206
+ 37 - Govt:Primary School Sultan Khel,33.62655,71.69688,Combined,FATA,2,1,624,457
+ 29 - Govt:Primary School Habib Ullah Kalley F.R Kohat,33.62874,71.78689,Combined,FATA,2,1,521,402
+ 28 - Govt:Primary School Asif Khel Paya Jawaki F.R Kohat,33.63042,71.78986,Combined,FATA,1,1,395,349
+ 35 - Govt:Middle School Shahi Khel,33.63377,71.67765,Combined,FATA,1,1,368,251
+ 46 - Govt:Middle School Samandi Mela Bosti Khel,33.64034,71.4754,Combined,FATA,2,1,753,414
+ 50 - Govt: Girls Primary School Amal Khel- Sharaki,33.64124,71.48373,Combined,FATA,2,1,866,548
+ 45 - Govt: Girls Primary School Aman Shah Bosti Khel,33.642,71.47561,Combined,FATA,1,1,370,165
+ 51 - Govt: Girls High School Muhammad Hussain Mela,33.64367,71.49165,Combined,FATA,2,1,743,436
+ 53 - Govt:High School Sheraki (PS-2) (C ),33.64402,71.50291,Combined,FATA,3,1,1205,669
+ 52 - Govt:High School Sheraki (PS-1) (C ),33.64605,71.48623,Combined,FATA,2,1,714,462
+ 33 - Govt:Middle School Ghariba Jawaki,33.64962,71.75549,Combined,FATA,1,1,410,290
+ 54 - Govt: Girls Primary School Gul Khan Kalley,33.65028,71.52895,Combined,FATA,2,1,715,408
+ 47 - Govt:High School Bosti Khel,33.65037,71.46575,Combined,FATA,3,1,915,609
+ 48 - Govt:Primary School Musa Khan Bosti Khel,33.6526,71.47261,Combined,FATA,2,1,623,334
+ 49 - Govt:Girls Primary School Sra Mela (C ),33.65684,71.45381,Combined,FATA,2,1,838,520
+ 55 - Govt:Primary School Mazeed Khel,33.66116,71.54281,Combined,FATA,2,1,992,589
+ 65 - Govt: Girls Primary School Mulan  (Female),33.67997,71.54626,Female,FATA,0,2,0,510
+ 59 - Govt:Primary School Mula Khel  (Female),33.68261,71.50869,Female,FATA,0,1,0,649
+ 56 - Govt: Girls Middle School Bazi Khel  (Male) (PS-1),33.69493,71.49451,Male,FATA,4,0,1165,0
+ 57 - Govt: Girls Middle School Bazi Khel   (Female) (PS-2),33.69493,71.49454,Female,FATA,0,2,0,684

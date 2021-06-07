@@ -1,0 +1,395 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 313 - Queen Marry College (School Wing)- Lahore. (Male),31.56215,74.34097,Male,Punjab,2,0,1159,0
+ 314 - Queen Marry College (School Wing)- Lahore. (Female),31.56215,74.341,Female,Punjab,0,2,0,1051
+ 315 - Queen Marry College (School Wing)- Lahore.  (Combined),31.56215,74.34103,Combined,Punjab,1,1,453,458
+ 320 - Queen Marry College- (School Wingh)- Lahore (Male),31.56215,74.34106,Male,Punjab,2,0,674,0
+ 321 - Queen Marry College- (School Wingh)- Lahore (Female),31.56215,74.34109,Female,Punjab,0,2,0,615
+ 322 - Queen Marry College- (School Wing)- Lahore. (Male),31.56215,74.34112,Male,Punjab,2,0,1106,0
+ 323 - Queen Marry College (School Wing)- Lahore. (Female),31.56215,74.34115,Female,Punjab,0,2,0,991
+ 324 - Queen Marry College- (School Wingh)- Lahore (Male),31.56215,74.34118,Male,Punjab,2,0,1211,0
+ 325 - Queen Marry College- (School Wingh)- Lahore (Female),31.56215,74.34121,Female,Punjab,0,2,0,1059
+ 326 - Queen Marry College- Lahore (Male),31.56215,74.34124,Male,Punjab,3,0,1516,0
+ 327 - Queen Marry College- Lahore (Female),31.56215,74.34127,Female,Punjab,0,3,0,1360
+ 328 - Queen Marry College- Lahore (Male),31.56215,74.3413,Male,Punjab,3,0,1340,0
+ 329 - Queen Marry College- Lahore (Female),31.56215,74.34133,Female,Punjab,0,3,0,1115
+ 316 - Govt. Abu al Khair Girls Middle School- Garhi Shahu- Allama Iqbal Road- Lahore  (Combined),31.56346,74.34545,Combined,Punjab,2,1,804,662
+ 317 - Govt. Abu al Khair Girls Middle School- Garhi Shahu- Allama Iqbal Road- Lahore (Male),31.56346,74.34548,Male,Punjab,3,0,1311,0
+ 318 - Govt. Abu al Khair Girls Middle School- Garhi Shahu- Allama Iqbal Road- Lahore (Female),31.56346,74.34551,Female,Punjab,0,2,0,1154
+ 303 - Office of the EDO- Hall Road- Lahore   (Male),31.56554,74.31898,Male,Punjab,2,0,1004,0
+ 304 - Office of the EDO- Hall Road- Lahore    (Female),31.56554,74.31901,Female,Punjab,0,2,0,862
+ 144 - Don Basco High School- Empress Road- Lahore Permanent. (Male),31.56743,74.33546,Male,Punjab,1,0,754,0
+ 145 - Don Basco High School- Empress Road- Lahore Permanent. (Female),31.56743,74.33549,Female,Punjab,0,1,0,670
+ 142 - Govt Modern Girls High School Raheem St. No.33 Qila Gujjar Singh Lahore Permanent. ( Male),31.56764,74.33143,Male,Punjab,2,0,1063,0
+ 143 - Govt Modern Girls High School Raheem St. No.33 Qila Gujjar Singh Lahore Permanent. (Female),31.56764,74.33146,Female,Punjab,0,2,0,938
+ 151 - Govt. Dial Sing Colleges  Lahore Permanent. (Male),31.56773,74.32344,Male,Punjab,3,0,1641,0
+ 152 - Govt. Dial Sing Colleges Lahore Permanent. (Female),31.56773,74.32347,Female,Punjab,0,3,0,1345
+ 160 - Govt. Dial Singh College- Nisbat Road- Lahore Permanent. (Male),31.56773,74.3235,Male,Punjab,4,0,1735,0
+ 161 - Govt.Dial Singh College- Nisbat Road- Lahore Permanent. (Female),31.56773,74.32353,Female,Punjab,0,3,0,1358
+ 166 - Sir Syed Cambridge School Mecloroad Lahore (Male),31.56773,74.32356,Male,Punjab,3,0,1571,0
+ 167 - Sir Syed Cambridge School Mecloroad Lahore (Female),31.56773,74.32359,Female,Punjab,0,2,0,1291
+ 305 - Govt. Dial Singh College- Lahore Permanent (Combined),31.56773,74.32362,Combined,Punjab,2,1,888,719
+ 306 - Govt. Dial Singh College- Lahore Permanent (Male),31.56773,74.32365,Male,Punjab,4,0,1458,0
+ 253 - Taj Education Centre- Pak Nager Akram Road- Lahore (Combined),31.56852,74.3036,Combined,Punjab,2,1,914,706
+ 148 - Agahi Education System Street No.4- Abdul Karim Road- Lahore (Male),31.56858,74.32899,Male,Punjab,3,0,1356,0
+ 149 - Agahi Education System Street No.4- Abdul Karim Road- Lahore (Female),31.56858,74.32902,Female,Punjab,0,2,0,1171
+ 292 - Pakistan Railway- Supritendent Office- G.T Road- Lahore.(Male),31.56891,74.36014,Male,Punjab,2,0,1534,0
+ 150 - Farooqi Education Institute Jamia Street- Lahore Hotel- Flamming road- Lahore  (Combined),31.5694,74.32667,Combined,Punjab,2,1,744,595
+ 311 - Govt. Muslim League High School- Empress Road- Lahore (Combined),31.57053,74.33552,Combined,Punjab,1,1,251,213
+ 312 - Govt. Muslim Leage High School- Empress Road- Lahore (Combined),31.57053,74.33555,Combined,Punjab,2,2,966,748
+ 140 - Hazrat Ayesha Siddiquia Model Degree & Commerce College Nocholson Road- Lahore Permanent (Male),31.57106,74.33437,Male,Punjab,3,0,1826,0
+ 141 - Hazrat Ayesha Siddiquia Model Degree & Commerce College Nocholson Road- Lahore Permanent (Female),31.57106,74.3344,Female,Punjab,0,3,0,1498
+ 146 - Hazrat Ayesha Saddiqia Model Degree & Commerce College- Nicolson Road- Lahore (Male),31.57106,74.33443,Male,Punjab,2,0,1331,0
+ 147 - Hazrat Ayesha Saddiqia Model Degree & Commerce College- Nicolson Road- Lahore (Female),31.57106,74.33446,Female,Punjab,0,2,0,1164
+ 162 - City District Govt. High School  Main Bazar- Gawal Mandi- Lahore Permanent. (Male),31.5718,74.32096,Male,Punjab,3,0,1435,0
+ 163 - City District Govt. High School  Main Bazar- Gawal Mandi- Lahore Permanent. (Female),31.5718,74.32099,Female,Punjab,0,2,0,1128
+ 164 - City District Govt. High School- Main Bazar- Gawal Mandi- Lahore Permanent. (Male),31.5718,74.32102,Male,Punjab,3,0,1584,0
+ 165 - City District Govt. High School- Main Bazar- Gawal Mandi- Lahore Permanent. (Female),31.5718,74.32105,Female,Punjab,0,2,0,1344
+ 307 - Govt. Degree College for Women- Gowal Mandi  (Female),31.57206,74.32007,Female,Punjab,0,3,0,1208
+ 158 - Govt. Islamia Model Middle School  Raja Ram St. Gawalmandi Lahore Permanent. (Male),31.57252,74.32103,Male,Punjab,4,0,1946,0
+ 159 - Govt. Islamia Model Middle School  Raja Ram St. Gawalmandi Lahore Permanent. (Female),31.57252,74.32106,Female,Punjab,0,3,0,1586
+ 170 - Govt. Anjuman Islamia High School Raja Ram Street Lahore Permanent  (Combined),31.57261,74.32104,Combined,Punjab,2,1,980,779
+ 309 - Pakistan Railway High School Abdul Ghafoor Afzal Road Lahore (Male),31.57335,74.34791,Male,Punjab,2,0,1243,0
+ 310 - Pakistan Railway High School Abdul Ghafoor Afzal Road Lahore (Female),31.57335,74.34794,Female,Punjab,0,2,0,931
+ 155 - Govt. Islamia College- Railway Road- Lahore Permanent (Combined),31.57398,74.32513,Combined,Punjab,1,1,733,483
+ 171 - Govt. Islamia College- Railway Road- Lahore Permanent.  (Combined),31.57398,74.32516,Combined,Punjab,1,1,587,438
+ 173 - Govt. Islamia College- Railway Road- Lahore Permanent. (Male),31.57398,74.32519,Male,Punjab,3,0,1303,0
+ 174 - Govt. Islamia College- Railway Road- Lahore Permanent.   (Female),31.57398,74.32522,Female,Punjab,0,2,0,972
+ 330 - Govt. Kinaird Girls High School Boharwala Chowk. Empress Road- Lahore (Male),31.57463,74.3351,Male,Punjab,3,0,1610,0
+ 331 - Govt. Kinaird Girls High School Boharwala Chowk. Empress Road- Lahore (Female),31.57463,74.33513,Female,Punjab,0,3,0,1337
+ 332 - Govt. Kinaird Girls High School Boharwala Chowk. Empress Road- Lahore (Male),31.57463,74.33516,Male,Punjab,3,0,1680,0
+ 333 - Govt. Kinaird Girls High School Boharwala Chowk. Empress Road- Lahore (Female),31.57463,74.33519,Female,Punjab,0,3,0,1386
+ 77 - Govt. Islamia High School- Outside Bhatti Gate- Lahore Permanent. (Male),31.57564,74.30981,Male,Punjab,3,0,1563,0
+ 78 - Govt.Islamia High School- Outside Bhatti Gate- Lahore Permanent. (Female),31.57564,74.30984,Female,Punjab,0,2,0,1221
+ 86 - Govt. Islamia High School- Barone Bhatti Gate- Lahore Permanent. (Male),31.57564,74.30987,Male,Punjab,3,0,1643,0
+ 87 - Govt. Islamia High School- Barone Bhatti Gate- Lahore Permanent.(Female),31.57564,74.3099,Female,Punjab,0,2,0,1249
+ 88 - City District Govt. Girls High School- Lohari Gate- Near Fish Market- Lahore.(Male),31.57677,74.31054,Male,Punjab,3,0,1353,0
+ 89 - City District Govt. Girls High School- Lohari Gate- Near Fish Market- Lahore.(Male),31.57677,74.31057,Male,Punjab,1,0,743,0
+ 90 - City District Govt. Girls High School- Lohari Gate- Near Fish Market- Lahore.(Female),31.57677,74.3106,Female,Punjab,0,2,0,982
+ 91 - City District Govt. Girls High School- Moori Gate- Near Fish Market- Lahore.(Female),31.57677,74.31063,Female,Punjab,0,1,0,580
+ 94 - City District Govt. Girls High School- Moori Gate- Near Fish Market- Lahore. (Male),31.57677,74.31066,Male,Punjab,4,0,1914,0
+ 95 - City District Govt. Girls High School- Moori Gate- Near Fish Market- Lahore. (Female),31.57677,74.31069,Female,Punjab,0,3,0,1471
+ 175 - Govt. College of Technology- Railway Road- Lahore Permanent.(Male),31.57684,74.33327,Male,Punjab,3,0,1489,0
+ 176 - Govt. College of Technology- Railway Road- Lahore Permanent. (Female),31.57684,74.3333,Female,Punjab,0,1,0,1049
+ 177 - Govt. College of Technology- Railway Road- Lahore Permanent.(Male),31.57684,74.33333,Male,Punjab,4,0,1796,0
+ 178 - Govt. College of Technology- Railway Road- Lahore Permanent. (Female),31.57684,74.33336,Female,Punjab,0,2,0,1365
+ 399 - Engineering University (UET)- Lahore. (Combined),31.577,74.35593,Combined,Punjab,1,1,608,479
+ 400 - Engnerninig University (UET) Lahore (Combined),31.577,74.35596,Combined,Punjab,2,2,1328,1073
+ 403 - Engineering University (UET) Lahore- (Combined),31.577,74.35599,Combined,Punjab,2,1,854,640
+ 98 - Govt. Model High School Shah Allam Market Lahore  (Male),31.5775,74.31714,Male,Punjab,1,0,619,0
+ 99 - Govt. Model High School Shah Allam Market Lahore  (Female),31.5775,74.31717,Female,Punjab,0,1,0,450
+ 407 - The Lahore Lycium School GT Road Singh Pura Opposite Mandi  (Combined),31.57773,74.36395,Combined,Punjab,2,1,844,657
+ 415 - The Lahore Lycium School GT Road Singh Pura Opposite Mandi  (Combined),31.57773,74.36398,Combined,Punjab,2,1,770,611
+ 112 - Sir SikandarVocational School- Jora Mori Shah Alam- Lahore. (Male),31.57861,74.31611,Male,Punjab,2,0,1000,0
+ 183 - Govt. High School Chamra Mandi Lahore Permanent.  (Male),31.57889,74.34056,Male,Punjab,1,0,722,0
+ 184 - Govt. High School Chamra Mandi Lahore Permanent. (Female),31.57889,74.34059,Female,Punjab,0,1,0,561
+ 185 - Govt. High School Chamra Mandi Lahore Permanent.  (Male),31.57889,74.34062,Male,Punjab,2,0,892,0
+ 186 - Govt. High School Chamra Mandi Lahore Permanent. (Male),31.57889,74.34065,Male,Punjab,1,0,771,0
+ 187 - Govt. High School Chamra Mandi Lahore Permanent. (Female),31.57889,74.34068,Female,Punjab,0,1,0,764
+ 188 - Govt. High School Chamra Mandi Lahore Permanent. (Female),31.57889,74.34071,Female,Punjab,0,1,0,607
+ 256 - Govt. High School- Chammra Mandi- Lahore Permanent. (Male),31.57889,74.34074,Male,Punjab,3,0,1735,0
+ 257 - Govt. High School- Chammra Mandi- Lahore Permanent. (Female),31.57889,74.34077,Female,Punjab,0,2,0,1349
+ 61 - Suleman Public H/s- Bhati Gate- New Police Station- Lahore  (Combined),31.57902,74.30907,Combined,Punjab,2,2,960,765
+ 69 - Suleman Public H/s- Bhati Gate- New Police Station- Lahore (Female),31.57902,74.3091,Female,Punjab,0,2,0,872
+ 79 - City District Govt. Junior Model Girls Middle School Near Ganda Nala- Outside Bhatti Gate- Lahore. (Male),31.57902,74.30913,Male,Punjab,2,0,796,0
+ 80 - City District Govt. Junior Model Girls Middle School Near Ganda Nala- Outside Bhati Gate- Lahore. (Male),31.57902,74.30916,Male,Punjab,2,0,959,0
+ 81 - City District Govt. Junior Model Girls Middle School Near Ganda Nala- Outside Bhati Gate- Lahore. (Female),31.57902,74.30919,Female,Punjab,0,1,0,591
+ 82 - City District Govt. Junior Model Girls Middle School Near Ganda Nala- Outside Bhati Gate- Lahore.(Female),31.57902,74.30922,Female,Punjab,0,1,0,668
+ 83 - City District Govt. Junior Model Girls Middle School Near Ganda Nala- Outside Bhatti Gate- Lahore. (Male),31.57902,74.30925,Male,Punjab,3,0,1331,0
+ 84 - City District Govt. Junior Model Girls Middle School Near Ganda Nala- Outside Bhati Gate- Lahore. (Male),31.57902,74.30928,Male,Punjab,2,0,1231,0
+ 85 - City District Govt. Junior Model Girls Middle School Near Ganda Nala- Outside Bhatti Gate- Lahore.(Female),31.57902,74.30931,Female,Punjab,0,4,0,1861
+ 127 - Govt.Model Middle School- Shah Muhammad Ghous- Outside Dehli Gate- Lahore Permanent. (Male),31.5793,74.3252,Male,Punjab,3,0,1745,0
+ 128 - Govt.Model Middle School- Shah Muhammad Ghous- Outside Dehlii Gate- Lahore Permanent. (Female),31.5793,74.32523,Female,Punjab,0,3,0,1395
+ 289 - City District Govt. High School Tazzab Ahatta Baghban Pura Lahore Permanent (Male),31.57935,74.34464,Male,Punjab,1,0,525,0
+ 290 - City District Govt. High School Tazzab Ahatta Baghban Pura Lahore Permanent (Male),31.57935,74.34467,Male,Punjab,3,0,1200,0
+ 291 - City District Govt. High School Tazzab Ahatta Baghban Pura Lahore Permanent (Female),31.57935,74.3447,Female,Punjab,0,3,0,991
+ 293 - City District Govt. High School Tazzab Ahatta Baghban Pura Lahore Permanent(Male),31.57935,74.34473,Male,Punjab,2,0,792,0
+ 294 - City District Govt. High School Tazzab Ahatta Baghban Pura Lahore Permanent(Female),31.57935,74.34476,Female,Punjab,0,4,0,2267
+ 295 - City District Govt. High School Tazzab Ahatta Baghban Pura Lahore Permanent (Male),31.57935,74.34479,Male,Punjab,4,0,1902,0
+ 296 - City District Govt. High School Tazzab Ahatta Baghban Pura Lahore Permanent (Female),31.57935,74.34482,Female,Punjab,0,3,0,1589
+ 244 - IVARS High School- Tezab Ahata- Lahore (Male),31.57944,74.34444,Male,Punjab,3,0,1571,0
+ 245 - IVARS High School- Tezab Ahata- Lahore (Female),31.57944,74.34447,Female,Punjab,0,2,0,1261
+ 71 - Victoria Higher Secondary Girls School-Madan Bhaian-Mori Gate-Lahore. (Male),31.57958,74.31123,Male,Punjab,3,0,1593,0
+ 72 - Victoria Higher Secondary Girls School-Madan Bhaian-Mori Gate-Lahore. (Female),31.57958,74.31126,Female,Punjab,0,2,0,1251
+ 73 - Victoria Higher Secondary Girls School-Madan Bhaian-Mori Gate (Male),31.57958,74.31129,Male,Punjab,3,0,1501,0
+ 74 - Victoria Higher Secondary Girls School-Madan Bhaian-Mori Gate-Lahore. (Female),31.57958,74.31132,Female,Punjab,0,2,0,1115
+ 75 - Victoria Higher Secondary Girls School-Madan Bhaian-Mori Gate-Lahore (Male),31.57958,74.31135,Male,Punjab,3,0,1382,0
+ 76 - Victoria Higher Secondary Girls School-Madan Bhaian-Mori Gate-Lahore (Female),31.57958,74.31138,Female,Punjab,0,2,0,1038
+ 100 - City District Government Junior Model Middle School- Sutar Mandi- Lahore Permanent. (Male),31.57961,74.31497,Male,Punjab,2,0,1011,0
+ 101 - City District Government Junior Model Middle School- Sutar Mandi- Lahore Permanent. (Male),31.57961,74.315,Male,Punjab,1,0,708,0
+ 102 - City District Government Junior Model Middle School- Sutar Mandi- Lahore Permanent. (Female),31.57961,74.31503,Female,Punjab,0,2,0,773
+ 103 - City District Government Junior Model Middle School- Sutar Mandi- Lahore Permanent. (Female),31.57961,74.31506,Female,Punjab,0,1,0,520
+ 104 - City District Government Junior Model Middle School- Sutar Mandi- Lahore Permanent. (Male),31.57961,74.31509,Male,Punjab,3,0,1366,0
+ 105 - City District Government Junior Model Middle School- Sutar Mandi- Lahore Permanent. (Female),31.57961,74.31512,Female,Punjab,0,2,0,1037
+ 106 - Dispensory EPI Centre- CDGL Chowk- Rang Mehal- Lahore  (Combined),31.57968,74.32105,Combined,Punjab,1,1,619,443
+ 117 - Govt. formen Girls High School Rang Mehal- Lahore Permanent. (Male),31.57976,74.31739,Male,Punjab,2,0,1397,0
+ 118 - Govt. formen Girls High School Rang Mehal- Lahore Permanent. (Female),31.57976,74.31742,Female,Punjab,0,2,0,1065
+ 402 - Govt. Girls Middle School- Begum Pura- Lahore (Part-I) (Combined),31.58,74.36139,Combined,Punjab,2,1,1031,732
+ 404 - Govt. Girls Middle School Begum Pura Lahore (Combined),31.58,74.36142,Combined,Punjab,1,1,709,701
+ 406 - Govt. Girls Primary School- Begum Pura- Lahore ()(Part-II) (Combined),31.58,74.36145,Combined,Punjab,2,1,779,674
+ 405 - Govt. Dar-ul-Furqan High School- Begum Pura- G.T. Road- Lahore (Combined),31.58021,74.36164,Combined,Punjab,2,1,767,582
+ 410 - Govt. Dar-ul-Furqan High School- Begum Pura-  G.T- Road- Lahore. (Male),31.58021,74.36167,Male,Punjab,3,0,1351,0
+ 411 - Govt. Dar-ul-Furqan High School- Begum Pura- G.T. Road- Lahore  (Female),31.58021,74.3617,Female,Punjab,0,3,0,1022
+ 123 - Govt.Girls High School Dehli Gate- Lahore Permanent. (Male),31.58069,74.3307,Male,Punjab,4,0,1744,0
+ 124 - Govt.Girls High School Dehli Gate- Lahore Permanent. (Female),31.58069,74.33073,Female,Punjab,0,3,0,1415
+ 297 - City District Govt. Girls High School Jinnah Park (Elementary Section)- Daudi Pir- Sultan Pura- Lahore Permanent.(Male),31.58111,74.34323,Male,Punjab,3,0,1422,0
+ 298 - City District Govt. Girls High School (High Section) Jinnah Park- Daudi Pir- Sultan Pura- Lahore Permanent.(Female),31.58111,74.34326,Female,Punjab,0,2,0,1110
+ 299 - City District Govt.Girls High School (Elementary Section) Jinnah Park- Daudi Pir- Sultan Pura- Lahore Permanent.(Male),31.58111,74.34329,Male,Punjab,4,0,1874,0
+ 300 - City District Govt. Girls High School (High Section) Jinnah Park- Daudi Pir- Sultan Pura- Lahore Permanent.(Female),31.58111,74.34332,Female,Punjab,0,3,0,1617
+ 301 - City District Govt. Girls High School (Elementary Section) Jinnah Park- Daudi Pir- Sultan Pura- Lahore Permanent.(Male),31.58111,74.34335,Male,Punjab,4,0,1962,0
+ 302 - City District Govt. Girls High (High Section) School Jinnah Park- Daudi Pir- Sultan Pura- Lahore Permanent.(Female),31.58111,74.34338,Female,Punjab,0,2,0,1430
+ 408 - Govt. Chirragh Girls High School Suleman Park Begum Pura (Combined),31.58111,74.36056,Combined,Punjab,2,2,1145,965
+ 121 - Govt Modern Middle School Takiya Sadhowa Lahore Permanent. (Male),31.5813,74.32145,Male,Punjab,3,0,1660,0
+ 122 - Govt Modern Middle School Takiya Sadhowa Lahore Permanent. (Female),31.5813,74.32148,Female,Punjab,0,2,0,1243
+ 125 - Govt. Modern Middle School- Takia- Sadhwandi- Lahore Permanent. (Male),31.5813,74.32151,Male,Punjab,2,0,948,0
+ 126 - Govt. Modern Middle School- Takia- Sadhwandi- Lahore Permanent. (Female),31.5813,74.32154,Female,Punjab,0,2,0,745
+ 92 - Govt. Madrasa Karimia Primiary School Mohallah Jalotian Bhatti Gate- Lahore Permanent. (Male),31.58138,74.31127,Male,Punjab,2,0,1164,0
+ 93 - Govt. Madrasa Karimia Primiary School Mohallah Jalotian Bhatti Gate- Lahore Permanent.(Female),31.58138,74.3113,Female,Punjab,0,2,0,866
+ 189 - Govt. Girls High School- Chamra Mandi Faiz Bagh- Lahore. (Male),31.58139,74.33361,Male,Punjab,2,0,930,0
+ 190 - Govt. Girls High School- Chamra Mandi- Faiz Bagh- Lahore (Female),31.58139,74.33364,Female,Punjab,0,1,0,750
+ 194 - Govt. Girls High School- Chamra Mandi Faiz Bagh- Lahore (Male),31.58139,74.33367,Male,Punjab,4,0,1500,0
+ 195 - Govt. Girls High School- Chamra Mandi Faiz Bagh- Lahore (Female),31.58139,74.3337,Female,Punjab,0,3,0,1147
+ 136 - Govt. Tehzeeb ul Banat High School Takia Sadhvan- Rangmehal Lahore Permanent. (Male),31.58141,74.3214,Male,Punjab,2,0,809,0
+ 137 - Govt. Tehzeeb ul Banat High School Takia Sadhvan- Rangmehal Lahore Permanent. (Female),31.58141,74.32143,Female,Punjab,0,1,0,613
+ 131 - Najaf Grammar School- Kocha Khair Din  (Combined),31.58144,74.32557,Combined,Punjab,2,1,1094,898
+ 107 - City District Govt. Dispensery Wachowala Laohre (Male),31.58154,74.31531,Male,Punjab,3,0,1345,0
+ 108 - City District Govt. Dispensery Wachowala Laohre (Female),31.58154,74.31534,Female,Punjab,0,2,0,1062
+ 109 - Govt. Taleem-ul-Binat High School- Sheesha Moti Bazar-  Andron Lohari Gate- Lahore (Male),31.58154,74.31537,Male,Punjab,2,0,1083,0
+ 110 - Govt. Taleem-ul-Binat High School- Sheesha Moti Bazar-  Andron Lohari Gate- Lahore  (Male),31.58154,74.3154,Male,Punjab,2,0,1084,0
+ 111 - Govt. Taleem-ul-Binat High School- Shesha Moti Bazar-  Andron Lohari Gate- Lahore (Female),31.58154,74.31543,Female,Punjab,0,3,0,1590
+ 96 - CDGL Boys Primary School wachowali Bazar- Lahore Permanent (Male),31.58154,74.31546,Male,Punjab,4,0,1717,0
+ 97 - CDGL Boys Primary School wachowali Bazar- Lahore Permanent (Female),31.58154,74.31549,Female,Punjab,0,2,0,1304
+ 180 - Vaccination Centre- Hide Market- Lahore. (combined),31.58195,74.3375,Combined,Punjab,2,1,829,687
+ 230 - Shamshad Park- Dispensary- New Shadbagh(Female),31.58195,74.33753,Female,Punjab,0,2,0,1267
+ 251 - Zacha Bacha Center- Chammra Mandi- Lahore Permanent. (Male),31.58195,74.33756,Male,Punjab,2,0,876,0
+ 252 - Zacha Bacha Center- Chammra Mandi- Lahore Permanent. (Female),31.58195,74.33759,Female,Punjab,0,1,0,698
+ 113 - Govt. Christian High School Rang Mehal- Lahore Permanent. (Male),31.58197,74.31876,Male,Punjab,2,0,1243,0
+ 114 - Govt. Christian High School Rang Mehal- Lahore Permanent. (Female),31.58197,74.31879,Female,Punjab,0,3,0,1709
+ 115 - Govt. Christian High School Rang Mehal- Lahore Permanent. (Combined),31.58197,74.31882,Combined,Punjab,2,1,879,681
+ 116 - Govt. Christian High School Rang Mehal- Lahore Permanent. (Combined),31.58197,74.31885,Combined,Punjab,1,1,681,511
+ 242 - City District Govt. Girls Middle School - Kocha Muhammadi- Sultan Pura- Lahore Permanent. (Male),31.58207,74.34557,Male,Punjab,2,0,1311,0
+ 243 - City District Govt. Girls Middle School - Kocha Muhammadi- Sultan Pura- Lahore Permanent. (Female),31.58207,74.3456,Female,Punjab,0,2,0,1048
+ 401 - CDG Girls Middle School- Kocha Muhammadi- Lahore (Combined),31.58207,74.34563,Combined,Punjab,2,2,1152,885
+ 193 - Zia ul Aloom Girls School- Faiz Bagh- Lahore (Combined),31.58222,74.33472,Combined,Punjab,2,1,788,589
+ 409 - Govt. Girls Higher Secondary School- Singh Pura- Lahore (Part-II)  (Combined),31.58222,74.36667,Combined,Punjab,2,2,1154,952
+ 412 - Govt Girls Higher Sceondary School Singh Pura Lahore ()(Part-II) (Combined),31.58222,74.3667,Combined,Punjab,2,2,1153,904
+ 172 - Govt. Girls Model School- Ghala Mandi- Old Fruit Market- Lahore permanent.  (Combined),31.5824,74.33194,Combined,Punjab,2,1,699,518
+ 179 - Govt. Girls Model School- Ghala Mandi- Old Fruit Market- Lahore Permanent.  (Combined),31.5824,74.33197,Combined,Punjab,1,1,279,254
+ 132 - City District Primary Govt. Junior Model School Yakki Gate- Lahore Permanent. (Male),31.58361,74.32883,Male,Punjab,3,0,1396,0
+ 133 - City District Primary Govt. Junior Model School Yakki Gate- Lahore Permanent. (Female),31.58361,74.32886,Female,Punjab,0,2,0,1046
+ 134 - City District Primary Govt. Junior Model School Yakki Gate- Lahore Permanent. (Male),31.58361,74.32889,Male,Punjab,3,0,1336,0
+ 135 - City District Primary Govt. Junior Model School Yakki Gate- Lahore Permanent. (Female),31.58361,74.32892,Female,Punjab,0,2,0,1076
+ 238 - Pak Model Girls High School  Main Bazar  Park- Sultan Pura(Male),31.58363,74.34348,Male,Punjab,3,0,1652,0
+ 239 - Pak Model Girls High School  Main Bazar  Park- Sultan Pura (Female),31.58363,74.34351,Female,Punjab,0,2,0,1367
+ 240 - Pak Model Girls High School  Main Bazar  Park- Sultan Pura (Male),31.58363,74.34354,Male,Punjab,3,0,1433,0
+ 241 - Pak Model Girls High School  Main Bazar  Park- Sultan Pura (Female),31.58363,74.34357,Female,Punjab,0,2,0,1096
+ 234 - City District Govt. Girls Middle School Chah Miran Sultan Pura- Lahore Permanent (Female),31.58364,74.34155,Female,Punjab,0,2,0,1239
+ 237 - City District Govt. Girls Middle School Chah Miran Sultan Pura- Lahore Permanent (Female),31.58364,74.34158,Female,Punjab,0,2,0,850
+ 255 - City District Govt. Girls Middle School- Chah Miran- Sultan Pura- Lahore Permanent. (Female),31.58364,74.34161,Female,Punjab,0,2,0,1144
+ 246 - Pak Angel Girls School- 45- Panj Peer- Road- Lahore (Combined),31.58368,74.34341,Combined,Punjab,2,2,797,666
+ 51 - Govt.City Muslim League High School Said Mitha Bazar- Androon Lohari Gate.  Lahore Permanent. (Male),31.58433,74.3131,Male,Punjab,2,0,997,0
+ 52 - Govt.City Muslim League High School Said Mitha Bazar- Androon Lohari Gate.  Lahore Permanent. (Female),31.58433,74.31313,Female,Punjab,0,1,0,741
+ 53 - Govt.City Muslim  League  High School-Said Mitha Bazar- Lahore Permanent. (Male),31.58433,74.31316,Male,Punjab,2,0,1018,0
+ 54 - Govt.City Muslim  League  High School-Said Mitha Bazar- Lahore Permanent. (Male),31.58433,74.31319,Male,Punjab,2,0,904,0
+ 55 - Govt.City Muslim  League  High School-Said Mitha Bazar- Lahore Permanent. (Female),31.58433,74.31322,Female,Punjab,0,1,0,701
+ 56 - Govt.City Muslim  League  High School-Said Mitha Bazar- Lahore Permanent. (Female),31.58433,74.31325,Female,Punjab,0,1,0,674
+ 233 - CDG Boys Middle School- Naulakha Park Akram Road near Misri Shah Police Station- Lahore (Male),31.58438,74.34174,Male,Punjab,4,0,1625,0
+ 236 - CDG Boys Middle School- Naulakha Park Akram Road near Misri Shah Police Station- Lahore (Male),31.58438,74.34177,Male,Punjab,2,0,1112,0
+ 254 - CDG Boys Middle School- Naulakha Park Akram Road near Misri Shah Police Station- Lahore (Male),31.58438,74.3418,Male,Punjab,3,0,1373,0
+ 59 - Govt. Asifa New Model Girls High School Tehsil Bazar- Lahore Permanent. (Male),31.58442,74.31067,Male,Punjab,2,0,992,0
+ 60 - Govt. Asifa New Model Girls High School Tehsil Bazar- Lahore Permanent. (Female),31.58442,74.3107,Female,Punjab,0,2,0,732
+ 62 - Govt. Asifa New Model Girls High School Tehsil Bazar- Lahore Permanent. (Male),31.58442,74.31073,Male,Punjab,3,0,1053,0
+ 63 - Govt. Asifa New Model Girls High School Tehsil Bazar- Lahore Permanent. (Female),31.58442,74.31076,Female,Punjab,0,2,0,813
+ 64 - MC Model School- Bhati Gate- Lahore  (Combined),31.58442,74.31079,Combined,Punjab,2,1,829,543
+ 65 - Govt. Asifa New Model Girls High School Tehsil Bazar- Lahore Permanent. (Male),31.58442,74.31082,Male,Punjab,3,0,1444,0
+ 66 - Govt. Asifa New Model Girls High School Tehsil Bazar- Lahore Permanent.(Female),31.58442,74.31085,Female,Punjab,0,2,0,989
+ 335 - The Lahore School- St. No. 5- Hassan Park- Ghorey Shah- Lahore.  (Combined(,31.58461,74.3506,Combined,Punjab,2,1,913,733
+ 35 - Govt. Islamia High School Misri Shah Lahore Permanent. (Male),31.58465,74.3318,Male,Punjab,3,0,1319,0
+ 36 - Govt. Islamia High School Misri Shah Lahore Permanent.. (Female),31.58465,74.33183,Female,Punjab,0,1,0,949
+ 37 - Govt. Islamia High School Misri Shah Lahore Permanent..(Male),31.58465,74.33186,Male,Punjab,2,0,1036,0
+ 38 - Govt. Islamia High School Misri Shah Lahore Permanent..(Male),31.58465,74.33189,Male,Punjab,1,0,930,0
+ 39 - Govt. Islamia High School Misri Shah Lahore Permanent..(Female),31.58465,74.33192,Female,Punjab,0,2,0,839
+ 40 - Govt. Islamia High School Misri Shah Lahore Permanent..(Female),31.58465,74.33195,Female,Punjab,0,1,0,738
+ 41 - Govt. Islamia High School- Misri Shah- Lahore Permanent.( Male),31.58465,74.33198,Male,Punjab,3,0,1277,0
+ 42 - Govt. Islamia High School- Misri Shah- Lahore Permanent.(Female),31.58465,74.33201,Female,Punjab,0,2,0,931
+ 336 - Seeds School St. No. 5- Hassan Park- Ghorey Shah- Lahore (Combined),31.58492,74.35106,Combined,Punjab,1,1,496,438
+ 337 - Seeds School- St. No. 5- Hassan Park- Ghorey Shah- Lahore. (Combined),31.58492,74.35109,Combined,Punjab,1,1,423,386
+ 287 - Al-Daras High School for Boys Main Iqbal Road Chah Miran- Lahore (Male),31.58506,74.3472,Male,Punjab,4,0,1679,0
+ 288 - Al-Daras High School for Boys Main Iqbal Road Chah Miran- Lahore  (Female),31.58506,74.34723,Female,Punjab,0,2,0,1295
+ 398 - Al-Dars High School for Boys - II- Main Iqbal Road- Chah Miran- Lahore.  (Combined),31.58506,74.34726,Combined,Punjab,2,1,999,827
+ 260 - The Grammar School System Abdullah Park Chah Miran (Male),31.58566,74.33864,Male,Punjab,2,0,1105,0
+ 261 - The Grammar School System Abdullah Park Chahmiran (Female),31.58566,74.33867,Female,Punjab,0,2,0,840
+ 235 - Islamic Model School- Ahata Dhanay Dar- Chah Miran- Lahore (Combined),31.58568,74.3386,Combined,Punjab,2,1,832,616
+ 119 - Govt. Islamia High School English Medium  Sheranwala Gate- Lahore Permanent. (Male),31.58592,74.32424,Male,Punjab,2,0,1208,0
+ 120 - Govt. Islamia High School English Medium Sheranwala Gate- Lahore Permanent. (Female),31.58592,74.32427,Female,Punjab,0,2,0,851
+ 138 - Govt. Islamia High School English Medium- Sheranwala Gate- Lahore Permanent  (Male),31.58592,74.3243,Male,Punjab,2,0,991,0
+ 139 - Govt. Islamia High School English Medium- Sheranwala Gate- Lahore Permanent  (Female),31.58592,74.32433,Female,Punjab,0,1,0,638
+ 31 - Govt. High School Madrasa-tul-Binat- Misri Shah- Lahore (Male),31.58599,74.33144,Male,Punjab,3,0,1506,0
+ 32 - Govt. High School Madrasa-tul-Binat- Misri Shah- Lahore (Female),31.58599,74.33147,Female,Punjab,0,3,0,1234
+ 45 - Govt. Fatima Jinnah College for Women Choona Mandi- Lahore. (Male),31.58661,74.3192,Male,Punjab,3,0,1464,0
+ 46 - Govt. Fatima Jinnah College for Women Choona Mandi- Lahore. (Female),31.58661,74.31923,Female,Punjab,0,2,0,1079
+ 47 - Govt. Fatima Jinnah College for Women- Choona Mandi- Lahore (Male),31.58661,74.31926,Male,Punjab,2,0,1152,0
+ 48 - Govt. Fatima Jinnah College For Women- Choona Mandi- Lahore. (Male),31.58661,74.31929,Male,Punjab,2,0,883,0
+ 49 - Govt. Fatima Jinnah College for Women- Choona Mandi- Lahore (Female),31.58661,74.31932,Female,Punjab,0,2,0,822
+ 50 - Govt. Fatima Jinnah College for Women- Choona Mandi- Lahore. (Female),31.58661,74.31935,Female,Punjab,0,1,0,686
+ 191 - City District Govt.  High School for Boys- Jahangir Abad Misri Shah - Lahore Permanent. (Male),31.58667,74.33584,Male,Punjab,2,0,1288,0
+ 192 - City District Govt.  High School for Boys- Jahangir Abad Misri Shah - Lahore Permanent. (Female),31.58667,74.33587,Female,Punjab,0,1,0,1060
+ 247 - CDG High School for Boys Jahangirabad Misri Shah- Lahore (Male),31.58667,74.3359,Male,Punjab,3,0,1556,0
+ 248 - CDG High School for Boys Jehangirabad Misri Shah- Lahore (Female),31.58667,74.33593,Female,Punjab,0,2,0,1236
+ 249 - CDG High School for Boys Jehangirabad Misri Shah- Lahore (Male),31.58667,74.33596,Male,Punjab,2,0,1081,0
+ 250 - CDG High School for Boys Jehangirabad Misri Shah- Lahore (Female),31.58667,74.33599,Female,Punjab,0,2,0,865
+ 181 - LDA Wasa Office- Aziz Road- Chowk Nakhuda- Wasan Pura- Lahore Permanent. (Male),31.58694,74.33611,Male,Punjab,4,0,1203,0
+ 182 - LDA Wasa Office- Aziz Road- Chowk Nakhuda- Wasan Pura- Lahore Permanent. (Female),31.58694,74.33614,Female,Punjab,0,2,0,1015
+ 196 - The Faran Ideal School- opp Lal Masjid- Aziz Road- Wasan Pura- Lahore (Male),31.58722,74.33889,Male,Punjab,4,0,1541,0
+ 197 - The Faran Ideal School- opp Lal Masjid- Aziz Road- Wasan Pura- Lahore (Female),31.58722,74.33892,Female,Punjab,0,3,0,1286
+ 23 - The Royal Academy for Boys & Girls Beroon Sharanwala Gate. Lahore. (Female),31.58728,74.3251,Female,Punjab,0,1,0,908
+ 24 - The Royal Academy for Boys & Girls Beroon Sharanwala Gate. Lahore. (Female),31.58728,74.32513,Female,Punjab,0,1,0,582
+ 202 - Modern  Standard High  School- Chowk Nakhuda- Lahore  (Male),31.5875,74.33778,Male,Punjab,2,0,859,0
+ 203 - Modern  Standard High  School- Chowk Nakhuda- Lahore  (Male),31.5875,74.33781,Male,Punjab,2,0,1030,0
+ 204 - Modern  Standard High  School- Chowk Nakhuda- Lahore  (Female),31.5875,74.33784,Female,Punjab,0,1,0,704
+ 205 - Modern  Standard High  School- Chowk Nakhuda- Lahore  (Female),31.5875,74.33787,Female,Punjab,0,2,0,858
+ 207 - Modern  Standard High  School- Chowk Nakhuda- Lahore (Male),31.5875,74.3379,Male,Punjab,3,0,1050,0
+ 208 - Modern  Standard High  School- Chowk Nakhuda- Lahore  (Female),31.5875,74.33793,Female,Punjab,0,2,0,835
+ 198 - Govt. Model High School- Elahi Park- Wassan Pura- Lahore Permanent. (Male),31.58778,74.33556,Male,Punjab,3,0,1219,0
+ 199 - Govt. Model High School- Elahi Park- Wassan Pura- Lahore Permanent. (Female),31.58778,74.33559,Female,Punjab,0,2,0,1038
+ 200 - Govt. Model High School- Elahi Park- Wassan Pura- Lahore Permanent. (Male),31.58778,74.33562,Male,Punjab,4,0,1685,0
+ 201 - Govt. Model High School- Elahi Park- Wassan Pura- Lahore Permanent. (Female),31.58778,74.33565,Female,Punjab,0,3,0,1457
+ 262 - Zacha Bacha Child and Mother Center- Hazoori Shah- Khoi Miran- Lahore Permanent (Male),31.58806,74.34612,Male,Punjab,2,0,1314,0
+ 263 - Zacha Bacha Child and Mother Center- Hazoori Shah- Khoi Miran- Lahore Permanent. (Female),31.58806,74.34615,Female,Punjab,0,2,0,1077
+ 264 - Zacha Bacha Child and Mother Center- Hazoori Shah- Khoi Miran- Lahore Permanent. (Male),31.58806,74.34618,Male,Punjab,2,0,1150,0
+ 265 - Zacha Bacha Child and Mother Center- Hazoori Shah- Khoi Miran- Lahore Permanent.(Female),31.58806,74.34621,Female,Punjab,0,2,0,853
+ 285 - Union Council No. 21- Makhan Pura Takkia Ujagar Shah- Main Road Lahore (Male),31.58833,74.34834,Male,Punjab,2,0,998,0
+ 286 - Union Council No. 21- Makhan Pura Takkia Ujagar Shah- Main Road Lahore (Female),31.58833,74.34837,Female,Punjab,0,2,0,753
+ 281 - City District Government Junior Model & Girls Model School- Central Road- Chah Miran(Combined),31.58861,74.35,Combined,Punjab,2,2,999,775
+ 282 - City District Govt. Junior Model Girls Middle School - Central Road- Scheme No.2- Chahmiran - Lahore Permanent (Combined),31.58861,74.35003,Combined,Punjab,2,2,958,728
+ 283 - City District Govt. Junior Model Girls Middle School - Central Road- Scheme No.2- Chahmiran - Lahore Permanen (Male),31.58861,74.35006,Male,Punjab,3,0,1580,0
+ 284 - City District Govt. Junior Model Girls Middle School - Central Road- Scheme No.2- Chahmiran - Lahore Permanent (Female),31.58861,74.35009,Female,Punjab,0,2,0,1234
+ 19 - Office Administrator General Bus Stand Badami Bagh- Lahore Permanent. (Male),31.58888,74.32117,Male,Punjab,3,0,1858,0
+ 20 - Office Administrator General Bus Stand Badami Bagh- Lahore Permanent. (Female),31.58888,74.3212,Female,Punjab,0,2,0,1502
+ 21 - Office Administrator General Bus Stand Badami Bagh- Lahore Permanent. (Male),31.58888,74.32123,Male,Punjab,3,0,1223,0
+ 22 - Office Administrator General Bus Stand Badami Bagh- Lahore Permanent.(Male),31.58888,74.32126,Male,Punjab,1,0,779,0
+ 210 - Govt Girls Elimentory School CDG Junior Model School Misri Shah- Lahore (Male),31.58917,74.33598,Male,Punjab,2,0,811,0
+ 229 - Govt Girls Elementary School CDG Junior Model School Misri Shah- Lahore (Male),31.58917,74.33601,Male,Punjab,3,0,1541,0
+ 231 - Govt Girls Elementary School CDG Junior Model School Misri Shah- Lahore (Male),31.58917,74.33604,Male,Punjab,3,0,1358,0
+ 15 - Govt. Kashmir Girls Middle School Farooq Gunj- Sheran Wala Lahore (Male),31.58948,74.32689,Male,Punjab,3,0,1563,0
+ 16 - Govt. Kashmir Girls Middle School Farooq Gunj- Sheran Wala Lahore (Female),31.58948,74.32692,Female,Punjab,0,2,0,1241
+ 17 - Govt. Kashmir Girls Middle School Farooq Gunj- Sheran Wala Lahore (Male),31.58948,74.32695,Male,Punjab,2,0,1283,0
+ 18 - Govt. Kashmir Girls Middle School Farooq Gunj- Sheran Wala Lahore (Female),31.58948,74.32698,Female,Punjab,0,2,0,988
+ 33 - Govt. Kashmir Girls Middle School Farooq Gunj- Sheran Wala Lahore (Male),31.58948,74.32701,Male,Punjab,4,0,1980,0
+ 34 - Govt. Kashmir Girls Middle School Farooq Gunj- Sheran Wala Lahore (Female),31.58948,74.32704,Female,Punjab,0,3,0,1609
+ 29 - Z.A School System- 10/22-A Farooq Gunj Mehboob Road Misri Shah Lahore  (Male),31.58974,74.32783,Male,Punjab,2,0,1136,0
+ 30 - Z.A School System- 10/22-A Farooq Gunj Mehboob Road Misri Shah Lahore  (Female),31.58974,74.32786,Female,Punjab,0,2,0,901
+ 381 - Bismal Acdamic School & College Yasrab Colony Bhagat Pura Lahore () (Part-I) (Combined),31.5898,74.34373,Combined,Punjab,2,1,1067,770
+ 211 - Govt. Munawar Middle School Wasan pura- Lahore Permanent. (Female),31.59083,74.33833,Female,Punjab,0,4,0,1879
+ 232 - Govt. Munawar Middle School Wasan pura- Lahore Permanent. (Female),31.59083,74.33836,Female,Punjab,0,2,0,1183
+ 276 - Hanfia Elementary Girls Model School Makhan Pura (Hanfia Chowk) Lahore (Combined),31.59139,74.34444,Combined,Punjab,2,1,749,594
+ 277 - Hanfia Elementary Girls Model School Makhan Pura (Hanfia Chowk) Lahore (Male),31.59139,74.34447,Male,Punjab,3,0,1350,0
+ 278 - Hanfia Elementary Girls Model School Makhan Pura (Hanfia Chowk) Lahore (Female),31.59139,74.3445,Female,Punjab,0,2,0,915
+ 13 - Office TMA Ravi Town-  Badami Bagh- Lahore  Permanent (Male),31.59186,74.31695,Male,Punjab,2,0,1137,0
+ 14 - Govt. Dispensary-General Bus Stand- Lari Adda- Lahore. (Female),31.59186,74.31698,Female,Punjab,0,1,0,744
+ 25 - Office TMA Ravi Town-  Badami Bagh- Lahore  Permanent (Male),31.59186,74.31701,Male,Punjab,4,0,2037,0
+ 26 - Govt. Dispensary- General Bus Stand- Lahore. (Female),31.59186,74.31704,Female,Punjab,0,3,0,1532
+ 27 - Office TMA Ravi Town-  Badami Bagh- Lahore  Permanent (Male),31.59186,74.31707,Male,Punjab,3,0,1406,0
+ 28 - Govt. Dispensary- General Bus Stand- Lahore. (Female),31.59186,74.3171,Female,Punjab,0,2,0,988
+ 206 - British High School for Boys St. No.53 Muhammadi Mohallah Wassan Pura Lahore (Combined),31.59195,74.33889,Combined,Punjab,2,2,819,711
+ 209 - British High School for Boys St. No.53 Muhammadi Mohallah Wassan Pura Lahore (Male),31.59195,74.33892,Male,Punjab,2,0,1397,0
+ 266 - New Al-Zamar Public School Shamshad Park Makhan Pura  Lahore (Male),31.5925,74.34278,Male,Punjab,4,0,2203,0
+ 267 - New Al-Zamar Public School Shamshad Park Makhan Pura  Lahore (Female),31.5925,74.34281,Female,Punjab,0,3,0,1700
+ 268 - New Al-Zamar Public School Shamshad Park Makhan Pura  Lahore (Male),31.5925,74.34284,Male,Punjab,3,0,1330,0
+ 269 - New Al-Zamar Public School Shamshad Park Makhan Pura  Lahore (Female),31.5925,74.34287,Female,Punjab,0,2,0,1017
+ 272 - Madina High School  St.no.16- Ghazali Road- Makhan Pura- Lahore (Male),31.59333,74.345,Male,Punjab,2,0,1364,0
+ 273 - Madina High School  St.no.16- Ghazali Road- Makhan Pura- Lahore (Female),31.59333,74.34503,Female,Punjab,0,1,0,1008
+ 338 - CDGL Boys High School- Opposite Water Supply Tanki- Main Road New Wassanpura Scheme No. 2.  () (Part-I) (Combined),31.595,74.34778,Combined,Punjab,1,1,703,537
+ 339 - CDGL Boys High School- Opposite Water Supply Tanki- Main Road New Wassanpura Scheme No. 2. (Part-I) (Combined),31.595,74.34781,Combined,Punjab,2,1,1038,871
+ 341 - CDGL Boys High School- Opposite Water Supply Tanki- Main Road New Wassanpura Scheme No. 2  (Part-III) (Combined),31.595,74.34784,Combined,Punjab,2,1,850,689
+ 342 - CDGL Boys High School- Opposite Water Supply Tanki- Main Road New Wassanpura Scheme No. 2  (Part-III) (Combined),31.595,74.34787,Combined,Punjab,2,1,985,716
+ 348 - CDGL Boys High School- Opposite Water Supply Tanki- Main Road New Wassanpura Scheme No. 2 Lahore. (Part-V) (Combined),31.595,74.3479,Combined,Punjab,2,1,784,614
+ 349 - CDGL Boys High School- Opposite Water Supply Tanki- Main Road New Wassanpura Scheme No. 2 Lahore. () (Part-V) (Combined),31.595,74.34793,Combined,Punjab,1,1,316,282
+ 270 - Fine College for Girls Ayoub Road Makhen Pura Lahore (Male),31.59556,74.34139,Male,Punjab,3,0,1395,0
+ 271 - Fine College for Girls Ayoub Road Makhen Pura Lahore (Female),31.59556,74.34142,Female,Punjab,0,2,0,1015
+ 308 - Basam School System- Main Bazar- Qila Muhammadi No. 1- Lahore  (Combined),31.59604,74.30325,Combined,Punjab,1,1,576,483
+ 274 - Guardian Public School- Makhan Pura- Lahore (Male),31.59611,74.34306,Male,Punjab,4,0,2138,0
+ 275 - Guardian Public School- Makhan Pura- Lahore (Female),31.59611,74.34309,Female,Punjab,0,2,0,1624
+ 377 - Saint Pauls Perish Girls High School- Sher Shah Road- Shad Bagh- Lahore (Combined),31.59722,74.34834,Combined,Punjab,2,1,882,669
+ 384 - Anwar Rehana Memorial Public School- Shehbaz Road (Combined),31.59774,74.35268,Combined,Punjab,2,2,1200,863
+ 378 - Govt. Girls Primary School- Hammad Colony- Lahore (Combined),31.59789,74.34695,Combined,Punjab,1,1,169,189
+ 379 - Govt. Girls Primary School- Hammad Colony- Lahore (Combined),31.59789,74.34698,Combined,Punjab,1,1,676,464
+ 383 - Government Girls Primary School- Hamad Colony- Bahagatpura- Lahore. (Combined),31.59789,74.34701,Combined,Punjab,2,1,959,595
+ 413 - Govt.Girls Primary School- Hammad Colony- Lahore (Male),31.59789,74.34704,Male,Punjab,3,0,1264,0
+ 414 - Govt.Girls Primary School- Hammad Colony- Lahore (Female),31.59789,74.34707,Female,Punjab,0,2,0,1012
+ 361 - Govt. Naveed Junior Model School Yasrab Colony- Bhagatpura- New Shad Bagh Bazar Lahore () (Part-I) (Combined),31.59804,74.35258,Combined,Punjab,2,2,1312,850
+ 382 - Government Naveed Junior Model School- Yasrub Colony- Bahagatpura- Lahore. (Combined),31.59804,74.35261,Combined,Punjab,1,1,661,540
+ 223 - City District Govt. Girls High School-B-Block- Shad Bagh- Lahore Permanent.(Male),31.59808,74.33753,Male,Punjab,3,0,1312,0
+ 224 - City District Govt. Girls High School-B-Block- Shad Bagh- Lahore Permanent. (Female),31.59808,74.33756,Female,Punjab,0,2,0,962
+ 225 - City District Govt. Girls High School-B-Block- Shad Bagh- Lahore Permanent. (Male),31.59808,74.33759,Male,Punjab,4,0,1709,0
+ 226 - City District Govt. Girls High School-B-Block- Shad Bagh- Lahore Permanent. (Female),31.59808,74.33762,Female,Punjab,0,3,0,1431
+ 227 - City District Govt. Girls High School-B-Block- Shad Bagh- Lahore Permanent. (Male),31.59808,74.33765,Male,Punjab,4,0,1751,0
+ 228 - City District Govt. Girls High School-B-Block- Shad Bagh- Lahore Permanent. (Female),31.59808,74.33768,Female,Punjab,0,3,0,1443
+ 221 - Govt. Pak Standard Girls High School- B-Block- Shad Bagh- Lahore Permanent. (Male),31.59808,74.33765,Male,Punjab,3,0,1253,0
+ 222 - Govt. Pak Standard Girls High School- B-Block- Shad Bagh- Lahore Permanent. (Female),31.59808,74.33768,Female,Punjab,0,2,0,1023
+ 5 - City District Govt. Junior Model Primary School Data Nagar- Badami Bagh- Lahore Permanent. (Male),31.59844,74.32016,Male,Punjab,4,0,2012,0
+ 6 - City District Govt. Junior Model Primary School School Data Nagar- Badami Bagh- Lahore Permanent. (Female),31.59844,74.32019,Female,Punjab,0,3,0,1609
+ 3 - City District Govt. Boys Model Middle School- Data Nagar- Badami Bagh- Lahore Permanent. (Male),31.59887,74.32013,Male,Punjab,3,0,1677,0
+ 4 - City District Govt. Boys Model Middle School- Data Nagar- Badami Bagh- Lahore Permanent.(Female),31.59887,74.32016,Female,Punjab,0,3,0,1235
+ 346 - Fiaz Model School- Akram park- New Shad Bagh- Lahore ()(Part-I) (Combined),31.59889,74.34639,Combined,Punjab,2,1,810,650
+ 347 - Fiaz Model School- Akram park- New Shad Bagh- Lahore ()(Part-I) (Combined),31.59889,74.34642,Combined,Punjab,2,1,814,600
+ 7 - Govt. Muhammadia Girls High School- Nishtar Colony- Sher Shah Road- Badami Bagh- Lahore (Male),31.59902,74.31814,Male,Punjab,4,0,1583,0
+ 8 - Govt. Muhammadia Girls High School- Nishtar Colony- Sher Shah Road- Badami Bagh- Lahore (Female),31.59902,74.31817,Female,Punjab,0,2,0,1073
+ 340 - Lahore Children High School- Chowk Tokewala- Shad Bagh- Lahore  (Part-I) (Combined),31.59917,74.34167,Combined,Punjab,2,1,853,722
+ 1 - Allied School- Data Nagar- Sher Shah Road- Badami Bagh- Lahore. (Male),31.6002,74.32027,Male,Punjab,4,0,2090,0
+ 10 - Allied School- Data Nagar- Sher Shah Road- Badami Bagh- Lahore (Male),31.6002,74.3203,Male,Punjab,2,0,1139,0
+ 11 - Allied School- Data Nagar- Sher Shah Road- Badami Bagh- Lahore (Female),31.6002,74.32033,Female,Punjab,0,1,0,742
+ 12 - Allied School- Data Nagar- Sher Shah Road- Badami Bagh- Lahore (Female),31.6002,74.32036,Female,Punjab,0,1,0,844
+ 2 - Allied School- Data Nagar- Sher Shah Road- Badami Bagh- Lahore. (Female),31.6002,74.32039,Female,Punjab,0,4,0,1635
+ 9 - Allied School- Data Nagar- Sher Shah Road- Badami Bagh- Lahore (Male),31.6002,74.32042,Male,Punjab,2,0,962,0
+ 359 - Sun Shine High School- Kashmir Road- Madina Chowk- Near Allama Ehsan Elahi Hospital (Combined),31.60099,74.35167,Combined,Punjab,2,1,1023,665
+ 385 - Sun Shine High School- Kashmir Road- Madina Chowk- Near Allama Ehsan Elahi Hospital- (Combined),31.60099,74.3517,Combined,Punjab,2,2,1375,1017
+ 387 - NGS School System Amir Road lahore (Combined),31.60101,74.35135,Combined,Punjab,1,1,509,455
+ 388 - NGS School System Amir Road lahore (Combined),31.60101,74.35138,Combined,Punjab,2,2,1128,885
+ 389 - NGS School System Amir Road lahore (Combined),31.60101,74.35141,Combined,Punjab,2,1,990,751
+ 213 - Govt. Girls High School- Shad Bagh- Lahore (Male),31.60111,74.33862,Male,Punjab,2,0,1247,0
+ 214 - Govt. Girls High School- Shad Bagh- Lahore  (Female),31.60111,74.33865,Female,Punjab,0,2,0,1085
+ 220 - Govt. Girls High School- Shad Bagh- Lahore (Combined),31.60111,74.33868,Combined,Punjab,2,1,787,670
+ 391 - The Knowledge Point high School  Kashmir Raod- Madina Chowk- Baghatpura- Lahore  () (Part-I) (Combined),31.60112,74.35117,Combined,Punjab,2,2,1113,830
+ 392 - The Knowledge Point high School  Kashmir Raod- Madina Chowk- Baghatpura- Lahore  () (Part-I) (Combined),31.60112,74.3512,Combined,Punjab,2,1,798,579
+ 393 - The Knowledge Point high School  Kashmir Raod- Madina Chowk- Baghatpura- Lahore  () (Part-I) (Combined),31.60112,74.35123,Combined,Punjab,2,1,1039,652
+ 212 - Govt. Post Graduate College for Women- Gol Bagh- Shad Bagh- Lahore Permanent. (Male),31.60167,74.3375,Male,Punjab,2,0,1162,0
+ 215 - Govt. Post Graduate College for Women- Gol Bagh- Shad Bagh- Lahore Permanent.(Male),31.60167,74.33753,Male,Punjab,2,0,1116,0
+ 216 - Govt. Post Graduate College for Women- Gol Bagh- Shad Bagh- Lahore Permanent.(Female),31.60167,74.33756,Female,Punjab,0,2,0,954
+ 217 - Govt. Post Graduate College for Women- Gol Bagh- Shad Bagh- Lahore Permanent.(Female),31.60167,74.33759,Female,Punjab,0,2,0,949
+ 218 - Govt. Post Graduate College for Women- Gol Bagh- Shad Bagh- Lahore Permanent. (Male),31.60167,74.33762,Male,Punjab,3,0,1696,0
+ 219 - Govt. Post Graduate College for Women- Gol Bagh- Shad Bagh- Lahore Permanent. (Female),31.60167,74.33765,Female,Punjab,0,2,0,1482
+ 279 - Govt. Post Graduate College for Woemen- Gol Bagh- Shad Bagh- Lahore Permanent.(Male),31.60167,74.33768,Male,Punjab,2,0,887,0
+ 280 - Govt. Post Graduate College for Woemen- Gol Bagh- Shad Bagh- Lahore Permanent. (Female),31.60167,74.33771,Female,Punjab,0,1,0,668
+ 350 - Pan Islamic School Sehbaz Road (Combined),31.6025,74.35555,Combined,Punjab,1,1,424,258
+ 354 - Pan Islmic Foundationl School- Shahbaz Road- Bhagatpura near Bund Road- Lahore  (Part-I) (Combined),31.6025,74.35558,Combined,Punjab,2,2,1349,845
+ 355 - Pan Islmic Foundationl School- Shahbaz Road- Bhagatpura near Bund Road- Lahore (Part-I) (Combined),31.6025,74.35561,Combined,Punjab,2,1,937,640
+ 362 - Govt. High School (Boys)- Main Aamir Road- Shadbagh- Lahore () (Part-I) (Combined),31.60309,74.34196,Combined,Punjab,2,2,1304,1032
+ 363 - Govt. High School (Boys)- Main Aamir Road- Shadbagh- Lahore () (Part-I) (Combined),31.60309,74.34199,Combined,Punjab,2,1,903,737
+ 364 - Govt. High School (Boys)- Main Aamir Road- Shadbagh- Lahore () (Part-II) (Combined),31.60309,74.34202,Combined,Punjab,2,2,1100,839
+ 365 - Govt. High School (Boys)- Main Amir Road- Shadbagh- Lahore () (Part-III) (Combined),31.60309,74.34205,Combined,Punjab,1,1,730,587
+ 370 - Govt. High School (Boys)- Main Aamir Road- Shadbagh- Lahore () (Part-VI) (Combined),31.60309,74.34208,Combined,Punjab,1,1,337,295
+ 371 - Govt. High School (Boys)- Main Aamir Road- Shadbagh- Lahore () (Part-VI) (Combined),31.60309,74.34211,Combined,Punjab,2,2,1188,873
+ 386 - Govt. High School- Aamir Road- Shadbagh- Lahore ()(Part-X) (Combined),31.60309,74.34214,Combined,Punjab,2,1,890,785
+ 368 - Ishah E Moshra High School Shad Bagh (Combined),31.60328,74.33378,Combined,Punjab,1,1,778,505
+ 369 - Ishah E Moshra High School Shad Bagh (Combined),31.60328,74.33381,Combined,Punjab,1,1,823,586
+ 360 - Zaheer Public Model School- Shehbaz Road Shadbagh- Lahore.(Part-I) (Combined),31.60376,74.3548,Combined,Punjab,2,1,1103,833
+ 380 - PGH School Bhagat Pura Lahore (Combined),31.60409,74.35014,Combined,Punjab,1,1,715,566
+ 372 - I.S High School- 8 Afzal Town- Bhagat Pura. ()  (Part-II) (Combined),31.60418,74.35007,Combined,Punjab,2,1,971,745
+ 367 - Millat Model School Iqbal Road Shadbagh (Combined),31.60458,74.33918,Combined,Punjab,1,1,768,643
+ 394 - The Unique Kids Jugian Jodha (Combined),31.60492,74.34247,Combined,Punjab,1,1,689,501
+ 395 - The Unique Kids Jugian Jodha (Combined),31.60492,74.3425,Combined,Punjab,1,1,567,371
+ 373 - Unique Model School- Fazal Park- Shadbagh- Lahore () (Part-I) (Combined),31.60528,74.33917,Combined,Punjab,1,1,707,553
+ 374 - Unique Model School- Fazal Park- Shadbagh- Lahore () (Part-I) (Combined),31.60528,74.3392,Combined,Punjab,2,1,1149,891
+ 375 - Unique Model School- Fazal Park- Shadbagh- Lahore () (Part-II) (Combined),31.60528,74.33923,Combined,Punjab,2,1,736,672
+ 376 - Unique Public School Iqbal Road Shad Bagh (Combined),31.60528,74.33926,Combined,Punjab,1,1,710,578
+ 366 - Ghazi Public School- Ghazi Park Amir Road- shadbagh- Lahore () (Part-I) (Combined),31.60609,74.34247,Combined,Punjab,2,1,861,745
+ 351 - Wapda Office-Bhagat Pura Near Seiko Factory Main Seiko Road- Lahore () (Part-I) (Combined),31.60622,74.35774,Combined,Punjab,2,2,1112,873
+ 352 - Wapda Office-Bhagat Pura Near Seiko Factory Main Seiko Road- Lahore () (Part-I) (Male),31.60622,74.35777,Male,Punjab,3,0,1359,0
+ 353 - Wapda Office-Bhagat Pura Near Seiko Factory Main Seiko Road- Lahore- (Part-II) (Female),31.60622,74.3578,Female,Punjab,0,3,0,871
+ 390 - LID Education School- Taj Ghazi Park- Main Eesa Bazar Street No.3- Lahore  () (Part-I) (Combined),31.6075,74.34195,Combined,Punjab,1,1,430,307
+ 396 - Govt. Middle School Bhumman Jhuggian Judha- Band Road Lahore () (Part-I)  (Combined),31.61611,74.34861,Combined,Punjab,2,2,1411,853
+ 397 - AKS School System Swami Nagar Road Tazab Ahata (Combined),31.61851,74.34364,Combined,Punjab,1,1,733,530
+ 334 - Government Taleem-o-Tarbiyat E/S - Elahi Town- China Scheme- Bhagatpura near Gujjar Pura Thana (Part-I) (Combined),31.61964,74.38445,Combined,Punjab,2,2,1414,1035
+ 356 - Govt. Taleem O Tarbiat School Elahi Town (Combined),31.61964,74.38448,Combined,Punjab,1,1,300,245
+ 357 - Govt. Taleem-o-Tarbiat E/S  Elahi Town- China Scheme- Bhagatpura- near PS Gujjar Pura- Lahore ()(Part-III) (Combined),31.61964,74.38451,Combined,Punjab,2,1,944,684
+ 358 - Govt. Taleem-o-Tarbiat E/S  Elahi Town- China Scheme- Bhagatpura- near PS Gujjar Pura- Lahore ()(Part-III) (Combined),31.61964,74.38454,Combined,Punjab,2,1,1150,764

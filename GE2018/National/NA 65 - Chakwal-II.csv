@@ -1,0 +1,469 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 116 - Government Primary School Kharli,32.60862,72.56826,Combined,Punjab,1,1,499,471
+ 104 - Government Boys Elementory School Matton Khurd .,32.61003,72.70081,Combined,Punjab,2,1,638,521
+ 103 - Government Primary School Matan Kalan .,32.63113,72.67628,Combined,Punjab,1,1,251,234
+ 107 - Government Boys Primary School Laphi,32.63853,72.62444,Combined,Punjab,1,1,534,538
+ 106 - Government Girls High School Sar Kallan,32.64335,72.64354,Female,Punjab,0,2,0,1054
+ 109 - Government Girls High School Sar Kalan,32.64335,72.64357,Female,Punjab,0,2,0,873
+ 108 - Basic Health Units Sar Kalan .,32.64527,72.64861,Male,Punjab,2,0,936,0
+ 105 - Government Boys Primary School Sar Kallan,32.64582,72.64667,Male,Punjab,2,0,1113,0
+ 100 - Government Primary School Bhall.,32.65065,72.57644,Male,Punjab,3,0,1322,0
+ 101 - Government Girls Primary School Bhall.,32.65075,72.57636,Female,Punjab,0,2,0,1249
+ 96 - Government Boys Primary School Makhial .,32.66195,72.65616,Female,Punjab,0,2,0,1208
+ 98 - Government Girls High School Noor Pur,32.66464,72.5871,Male,Punjab,2,0,1016,0
+ 99 - Government Girls High School Noor Pur,32.66464,72.58713,Female,Punjab,0,2,0,986
+ 95 - Government Girls High School Makhial,32.66646,72.65557,Male,Punjab,3,0,1212,0
+ 102 - Government Girls Primary School Bhalial,32.66689,72.59407,Combined,Punjab,2,2,942,878
+ 112 - Government Girls High School Munara,32.66874,72.51631,Combined,Punjab,2,2,777,770
+ 417 - Government Boys High School Gohal,32.67005,72.11068,Combined,Punjab,2,2,836,762
+ 120 - Government Girls Elementary School Sehti,32.67226,72.58263,Female,Punjab,0,2,0,927
+ 117 - Government Elementary School Sehti,32.67393,72.57264,Male,Punjab,3,0,1169,0
+ 118 - Government Elementary School Sehti,32.67393,72.57267,Female,Punjab,0,3,0,1132
+ 119 - Government Boys Elementary School Sehti,32.67393,72.5727,Male,Punjab,2,0,970,0
+ 68 - Government Boys Primary School Gahi,32.67419,72.68334,Male,Punjab,3,0,1290,0
+ 69 - Government Girls High Scool Gahi,32.67426,72.68343,Female,Punjab,0,3,0,1247
+ 110 - Government High School Munara,32.67503,72.51959,Male,Punjab,2,0,1075,0
+ 111 - Government High School Munara,32.67503,72.51962,Female,Punjab,0,2,0,1151
+ 71 - Government Girls High School Guffanwala,32.67615,72.67451,Female,Punjab,0,3,0,1354
+ 91 - Vaternery Hospital Buchal Kalan,32.67626,72.63475,Male,Punjab,2,0,1038,0
+ 94 - Government Boys Primery School No.2 Buchal Kalan,32.67698,72.63833,Male,Punjab,2,0,1050,0
+ 70 - Government Boys Elementary School Guffanwala,32.67702,72.67361,Male,Punjab,3,0,1371,0
+ 97 - Government Boys Primary School Boola,32.67738,72.65328,Combined,Punjab,2,2,628,624
+ 419 - Government Girls Elementary School Chaki Sheikh Jee Lawa,32.67989,71.91206,Combined,Punjab,1,1,554,476
+ 420 - Government Girls Elementary School Chaki Sheikhh Jee,32.67989,71.91209,Combined,Punjab,2,2,935,814
+ 65 - Government Girls Higher Secondary School Buchal Khurd,32.68066,72.70597,Female,Punjab,0,2,0,1100
+ 89 - Government Girls Higher Secondary School Buchal Kalan,32.68109,72.62764,Male,Punjab,2,0,832,0
+ 90 - Government Girls Higher Secondary School Buchal Kalan,32.68109,72.62767,Female,Punjab,0,2,0,776
+ 92 - Government Girls Higher Secondary School Buchal Kalan,32.68109,72.6277,Female,Punjab,0,2,0,1084
+ 64 - Government High School Buchal Khurd,32.68117,72.70535,Male,Punjab,2,0,1100,0
+ 418 - Government Boys Elementary Schook Chaki Sheikh Jee,32.68253,71.90908,Combined,Punjab,1,1,312,234
+ 87 - Government Boys High School Buchal Kallan .,32.68344,72.62995,Male,Punjab,2,0,1148,0
+ 88 - Government Boys High School Buchal Kallan .,32.68344,72.62998,Female,Punjab,0,3,0,1210
+ 93 - Government High School Buchal Kalan,32.68344,72.63001,Female,Punjab,0,2,0,1042
+ 66 - Government Boys Primary School Sardhi,32.68582,72.71304,Male,Punjab,3,0,1191,0
+ 67 - Government Girls Primary School Sardhi,32.6868,72.71696,Female,Punjab,0,2,0,1095
+ 80 - Government Girls Elementary School Dharukana,32.69107,72.6198,Female,Punjab,0,2,0,811
+ 79 - Government Boys Elementary School Dharukana,32.69147,72.62257,Male,Punjab,2,0,790,0
+ 81 - Government Boys Elementary School Dharukana,32.69147,72.6226,Combined,Punjab,2,2,736,742
+ 460 - Government Primray School Lawa South,32.69172,71.92915,Combined,Punjab,1,1,497,488
+ 467 - Government Girls High School Lawa No.2,32.69206,71.93053,Combined,Punjab,1,1,510,503
+ 468 - Government Girls High School No.2 Lawa,32.69206,71.93056,Combined,Punjab,1,1,636,584
+ 459 - Government Girls Primray School No.3 Mohallah Eid Gah Lawa,32.6945,71.91787,Combined,Punjab,1,1,538,470
+ 463 - Rural Health Center Lawa,32.69599,71.94571,Combined,Punjab,2,2,795,809
+ 461 - Government Boys Higher.Secondary School Lawa,32.69611,71.94269,Combined,Punjab,1,1,423,412
+ 462 - Government Boys Higer Secondary School Lawa,32.69611,71.94272,Combined,Punjab,1,1,557,563
+ 466 - Government Boys Primray School Lawa Sharqi,32.69616,71.94128,Combined,Punjab,1,1,536,539
+ 464 - Government Girls Higher Secondary  School Lawa,32.69796,71.93974,Combined,Punjab,2,2,959,877
+ 465 - Government Girls Higher.Secondary School Lawa,32.69796,71.93977,Combined,Punjab,2,2,727,714
+ 458 - Government Primray School Lawa Gharb,32.70058,71.9362,Combined,Punjab,1,1,478,486
+ 285 - Government Girls High School Chinji,32.70901,72.36793,Female,Punjab,0,2,0,985
+ 287 - Government Girls High School Chinji,32.70901,72.36796,Female,Punjab,0,2,0,1408
+ 289 - Government Girls High School Chinji,32.70901,72.36799,Female,Punjab,0,2,0,1141
+ 284 - Government Higher Secondary School Chinji,32.70903,72.37109,Male,Punjab,2,0,999,0
+ 286 - Government Higher Secondary School Chinji,32.70903,72.37112,Male,Punjab,3,0,1396,0
+ 288 - Government Higher Secondary School Chinji,32.70903,72.37115,Male,Punjab,2,0,1120,0
+ 76 - Government Boys Primary School Miani .,32.71052,72.64979,Combined,Punjab,2,2,868,883
+ 293 - Government Primary School Dhoke Prerha Wali,32.71058,72.2802,Combined,Punjab,1,1,374,296
+ 84 - Government Boys High School Jhamra,32.71103,72.61927,Combined,Punjab,2,2,817,784
+ 85 - Government Boys High School Jhamra,32.71103,72.6193,Male,Punjab,2,0,1070,0
+ 74 - Government Boys Primary School Chak Misri,32.71104,72.69926,Combined,Punjab,2,2,844,788
+ 72 - Government Boys Primary School Ransial .,32.71128,72.68941,Male,Punjab,2,0,1042,0
+ 276 - Government Boys Elementary School Kotehra,32.71372,72.3947,Female,Punjab,0,4,0,1797
+ 114 - Government High School Wasnal,32.71458,72.54863,Female,Punjab,0,4,0,1629
+ 113 - Government Girls Elementary School Wasnal,32.71461,72.54986,Male,Punjab,4,0,1633,0
+ 294 - Governmnet Primary School Dhoke Kahala,32.71509,72.31387,Combined,Punjab,1,1,625,569
+ 82 - Government Girls High School Jhamra,32.7164,72.60916,Combined,Punjab,1,1,563,574
+ 86 - Government Girls High School Jhamra,32.7164,72.60919,Female,Punjab,0,2,0,1067
+ 73 - Government Girls Primary School Ransial .,32.71693,72.69018,Female,Punjab,0,2,0,961
+ 275 - Government Girls High School Kotehra,32.71774,72.39068,Male,Punjab,4,0,1883,0
+ 279 - Veternary Hospital Bhilomar,32.72433,72.43233,Combined,Punjab,2,1,612,600
+ 281 - Government Girls High School Bhilomar,32.72466,72.43221,Female,Punjab,0,2,0,1103
+ 77 - Government Boys Primary School Bhassen,32.72553,72.63346,Combined,Punjab,1,1,350,351
+ 305 - Government Primary  School Dhoke Peera,32.72596,72.26343,Combined,Punjab,1,1,451,382
+ 304 - Governmnet Primary School Kund Main Muhammad,32.72606,72.20564,Combined,Punjab,2,2,935,833
+ 416 - Government Girls Elementary School Changa ( Lawa ),32.72643,71.98119,Combined,Punjab,2,2,769,724
+ 414 - Government Girls Primary. School  Dhoke Kalaji,32.73124,71.94424,Male,Punjab,2,0,1066,0
+ 415 - Government Girls Primary. School  Dhoke Kalaji,32.73124,71.94427,Female,Punjab,0,2,0,961
+ 78 - Government Elementary School Pahar Khan,32.73127,72.63557,Combined,Punjab,1,1,457,436
+ 280 - Government Boys High School Bhilomar,32.73153,72.43489,Male,Punjab,3,0,1181,0
+ 83 - Government Girls Elementary School Kahoot,32.73372,72.61706,Combined,Punjab,2,2,722,690
+ 412 - Government Girls Primray School Tiween,32.73867,71.88091,Combined,Punjab,2,1,660,591
+ 283 - Government Boys Primray School Qadir Pur,32.7478,72.45915,Combined,Punjab,1,1,364,348
+ 75 - Government Primary School Manak Pur .,32.74832,72.70229,Combined,Punjab,1,1,399,359
+ 303 - Government Primary School Dabra Dhibba,32.74933,72.24814,Combined,Punjab,2,2,837,757
+ 292 - Government Primary School Dhoke Mehr Ali,32.75096,72.32334,Combined,Punjab,2,2,879,739
+ 291 - Government Primary School Dhoke Kund Mominal,32.75584,72.34115,Combined,Punjab,1,1,511,445
+ 278 - Government Primary School Dhoke Chab ( Bhilomar),32.75962,72.41286,Combined,Punjab,1,1,634,553
+ 282 - Government Boys Primray School Nagri,32.76062,72.47829,Combined,Punjab,1,1,414,349
+ 296 - Government Girls Higher Secondary School Thoha Mehram Khan,32.76128,72.2905,Female,Punjab,0,2,0,1194
+ 295 - Government Boys High School Thoha Mehram Khan,32.7616,72.28859,Male,Punjab,3,0,1332,0
+ 302 - Government Girls Elementary School Dhibba Harmal,32.76196,72.247,Combined,Punjab,1,1,481,425
+ 300 - Basic Health Unit Thoa Mehrm Khan,32.76338,72.28956,Combined,Punjab,2,2,920,872
+ 274 - Government High School Dhok Nosheri,32.76519,72.40192,Combined,Punjab,1,1,378,356
+ 290 - Government Middle School Dhok Usri,32.76532,72.32589,Combined,Punjab,1,1,459,416
+ 428 - Government Boys Higher Secondary School Danda Shah Bilawal,32.76729,71.95365,Male,Punjab,2,0,1141,0
+ 430 - Government Boys Higher Secondary School Danda Shah Bilawal,32.76729,71.95368,Combined,Punjab,1,1,577,480
+ 427 - Government Girls High School Danda Shah Bilawal,32.77317,71.94943,Combined,Punjab,2,2,767,666
+ 429 - Government Special Education Center Danda Shah Bilawal,32.77336,71.95047,Female,Punjab,0,2,0,1096
+ 272 - Government Boys Elementary School Khichian,32.77499,72.37197,Male,Punjab,2,0,691,0
+ 273 - Government Boys Elementary School Khichian,32.77499,72.372,Female,Punjab,0,2,0,592
+ 181 - Government Girls High School Kallar Kahar,32.77726,72.69665,Male,Punjab,4,0,1629,0
+ 182 - Government Girls High School Kallar Kahar,32.77726,72.69668,Female,Punjab,0,3,0,1443
+ 184 - Government Girls High School Kallar Kahar,32.77726,72.69671,Female,Punjab,0,4,0,1662
+ 301 - Government High School Kurkwali,32.77934,72.21815,Combined,Punjab,2,2,923,793
+ 115 - Government Girls Elementary School Nagri,32.77936,72.49103,Combined,Punjab,1,1,362,346
+ 183 - Government Higher Secondary school Kallar Kahar,32.78143,72.71085,Male,Punjab,4,0,1766,0
+ 187 - Government Higher Secondary School Kallar Kahar,32.78143,72.71088,Combined,Punjab,1,1,245,212
+ 188 - Government Elementary School Chumbi,32.78171,72.73813,Combined,Punjab,2,2,750,784
+ 297 - Government Boys Elementary School Dhok Kumhari,32.79167,72.3165,Combined,Punjab,2,2,1051,960
+ 413 - Government Boys Primray School Markhakki (Darbata),32.79269,71.93606,Combined,Punjab,1,1,470,432
+ 277 - Government Elementary School Mehmood Wala,32.79295,72.44368,Combined,Punjab,2,1,743,661
+ 131 - Government Elementary School Maira,32.79356,72.5629,Combined,Punjab,1,1,554,482
+ 409 - Government Girls Primary School Gattal,32.79796,72.0707,Combined,Punjab,1,1,379,344
+ 410 - Government Boys High School Gattal,32.79932,72.07234,Combined,Punjab,1,1,598,541
+ 411 - Government Boys High School Gattal,32.79932,72.07237,Combined,Punjab,2,2,799,710
+ 132 - Government Elmentary School Thar Chak,32.80017,72.50301,Combined,Punjab,1,1,592,545
+ 423 - Government Girls Elementary School Dhok Muhammad Khan Kot Qazi,32.80861,71.99867,Combined,Punjab,1,1,536,461
+ 263 - Government Elementary School Dhoke Gattal (Bhaghtal),32.81075,72.21447,Combined,Punjab,2,1,635,558
+ 399 - Government High School Dhurnal No. 1,32.81097,72.09337,Male,Punjab,3,0,1444,0
+ 400 - Government High School Dhurnal No. 1 .,32.81097,72.0934,Female,Punjab,0,3,0,1377
+ 405 - Government High School No. 1 Dhurnal,32.81097,72.09343,Male,Punjab,3,0,1386,0
+ 406 - Government No.1 High School Dhurnal,32.81097,72.09346,Female,Punjab,0,2,0,1230
+ 401 - Government High School Dhurnal No. 2,32.81289,72.10336,Combined,Punjab,2,2,863,805
+ 402 - Government High School No. 2 Dhurnal,32.81289,72.10339,Combined,Punjab,2,2,756,752
+ 403 - Government High School No. 2 Dhurnal,32.81289,72.10342,Male,Punjab,3,0,1457,0
+ 404 - Government High School No. 2 Dhurnal,32.81289,72.10345,Female,Punjab,0,3,0,1337
+ 299 - Government Primary School Dhoke Gar,32.81668,72.30871,Combined,Punjab,1,1,626,531
+ 421 - Government Boys High School Kot Qazi,32.82117,72.01403,Male,Punjab,2,0,1112,0
+ 422 - Government Boys High School Kot Qazi,32.82117,72.01406,Female,Punjab,0,2,0,1003
+ 408 - Government Elementary School Balwal,32.82185,72.06005,Combined,Punjab,2,2,774,763
+ 249 - Government Boys Elementary School Chakwalian,32.82468,72.45645,Male,Punjab,2,0,1012,0
+ 250 - Government Girls Elementary School Chakwalian,32.82496,72.45705,Female,Punjab,0,2,0,966
+ 407 - Government Girls Elemantary School Balwal,32.82498,72.05786,Combined,Punjab,1,1,542,500
+ 266 - Government Boys High School Jhatla,32.82924,72.38301,Male,Punjab,3,0,1355,0
+ 268 - Government Boys High School Jhatla,32.82924,72.38304,Male,Punjab,4,0,1409,0
+ 271 - Government Boys High School Jhatla,32.82924,72.38307,Female,Punjab,0,2,0,1239
+ 258 - Government Boys High School Chowkhandi,32.82933,72.29469,Male,Punjab,4,0,1662,0
+ 259 - Government Boys High School Chowkhandi,32.82933,72.29472,Female,Punjab,0,3,0,1480
+ 267 - Government Girls Higher Secondary School Jhatla,32.82952,72.38223,Female,Punjab,0,2,0,1264
+ 269 - Government Girls Higher Secondary School Jhatla,32.82952,72.38226,Female,Punjab,0,2,0,1285
+ 270 - Government Girls Higher Secondary School Jhatla,32.82952,72.38229,Male,Punjab,3,0,1288,0
+ 298 - Government Primary School Dhoke Lashkaryal,32.83177,72.32175,Combined,Punjab,1,1,424,341
+ 262 - Government Boys High School Bhaghtal,32.8357,72.22224,Combined,Punjab,1,1,479,448
+ 190 - Government Girls Community Model school Ratta Sharif,32.83839,72.68593,Combined,Punjab,1,1,444,379
+ 260 - Government Girls High School Bhaghtal,32.84352,72.21929,Combined,Punjab,1,1,565,468
+ 261 - Government Girls High School Bhaghtal,32.84352,72.21932,Combined,Punjab,2,1,799,671
+ 189 - Government Elementary school Hattar,32.84846,72.60909,Combined,Punjab,2,2,821,751
+ 127 - Government Girls Higher Secondary School Bharpur,32.85606,72.56404,Combined,Punjab,1,1,331,299
+ 128 - Government Girls Higher Secondary School Bharpur,32.85606,72.56407,Combined,Punjab,2,2,903,781
+ 397 - Government Boys Primary School Sukka,32.85963,72.03612,Combined,Punjab,2,2,836,761
+ 314 - Government  Girls Primray School Dhoke Bhira,32.85972,72.14844,Combined,Punjab,1,1,487,395
+ 318 - Government Boys High School Mial,32.86097,72.11044,Combined,Punjab,1,1,560,536
+ 319 - Government Boys High School Mial,32.86097,72.11047,Combined,Punjab,1,1,377,304
+ 320 - Government Boys High School Mial,32.86097,72.1105,Male,Punjab,2,0,995,0
+ 321 - Government Girls High School Mial,32.86153,72.12038,Female,Punjab,0,2,0,930
+ 313 - Government Boys High School Dhulli,32.86175,72.19145,Combined,Punjab,2,1,769,720
+ 315 - Government Girls High School Dhulli,32.8623,72.19113,Female,Punjab,0,2,0,1056
+ 316 - Government Girls High School Dhulli,32.8623,72.19116,Male,Punjab,2,0,1110,0
+ 317 - Government Girls High School Dhulli,32.8623,72.19119,Combined,Punjab,1,1,339,283
+ 121 - Government High School Bharpur,32.86254,72.56373,Male,Punjab,3,0,1532,0
+ 122 - Government High School Bharpur,32.86254,72.56376,Female,Punjab,0,2,0,1409
+ 123 - Government High School Bharpur,32.86254,72.56379,Combined,Punjab,1,1,359,307
+ 257 - Government Girls Primray School Dhok Patwari,32.86341,72.38142,Combined,Punjab,2,1,645,531
+ 431 - Government Boys Primray School Murad Wand,32.86375,71.96758,Combined,Punjab,1,1,594,566
+ 129 - Colonel Toqueer Hadeer Shahid Government Elementary School Bhatti Gujar,32.86444,72.64511,Male,Punjab,3,0,1185,0
+ 426 - Government Boys High School  Kot Shammas Campus No.2 (Middle Portion),32.86472,72.02284,Combined,Punjab,1,1,603,525
+ 424 - Government Girls Elementary School Kot Shammas,32.86488,72.02705,Male,Punjab,2,0,1113,0
+ 425 - Government High School Kot Shammas,32.8652,72.02296,Female,Punjab,0,2,0,1039
+ 256 - Government Girls High School Pira Fatehial,32.86526,72.32757,Combined,Punjab,1,1,534,474
+ 254 - Government High School Pira Fatehial,32.86526,72.32767,Male,Punjab,4,0,1771,0
+ 255 - Government Boys High School Pira Fatehial,32.86526,72.3277,Female,Punjab,0,3,0,1664
+ 130 - Government Girls High School Bhatti Gujar,32.86976,72.65083,Female,Punjab,0,2,0,1164
+ 251 - Government Boys Elementary School Adlaka,32.87067,72.42699,Male,Punjab,3,0,1379,0
+ 252 - Government Girls Elementary school Adlaka,32.87111,72.4353,Female,Punjab,0,2,0,1266
+ 398 - Government Girls High School Sukka,32.87167,72.0464,Combined,Punjab,1,1,546,505
+ 253 - Government Elementary School Momdot,32.87401,72.46027,Combined,Punjab,2,1,727,709
+ 264 - Government Boys Primray School Dhoke Hum,32.8774,72.27681,Combined,Punjab,1,1,444,407
+ 186 - Government Girls Elementary School Rehna Saddat,32.87879,72.71314,Female,Punjab,0,2,0,1197
+ 432 - Government Boys Higher Secondary School Pichnand,32.879,72.00105,Combined,Punjab,1,1,572,507
+ 437 - Government Higher Secondary School Pichnand,32.879,72.00108,Male,Punjab,2,0,1188,0
+ 440 - Government Higher Secondary School Pichnand,32.879,72.00111,Male,Punjab,2,0,921,0
+ 441 - Government Higher Secondary School  Pichnand,32.879,72.00114,Combined,Punjab,1,1,588,473
+ 185 - Government Boys Primary School Rehna Saddat,32.87994,72.71238,Male,Punjab,3,0,1244,0
+ 309 - Basic Health Unit Wanhar,32.88068,72.1782,Combined,Punjab,2,1,651,578
+ 312 - Basic Health Unit Wanhar,32.88068,72.17823,Combined,Punjab,1,1,520,471
+ 438 - Union Council Office Pichnand,32.88084,71.99986,Female,Punjab,0,2,0,1083
+ 311 - Union Council Office Bidhar,32.88091,72.17934,Male,Punjab,2,0,557,0
+ 436 - Government. Girls Elementary School Kanhat,32.88436,71.91857,Combined,Punjab,2,2,693,685
+ 124 - Government Elementary School Kallu,32.88541,72.52197,Combined,Punjab,1,1,477,382
+ 439 - Government Girls Elementary  School No.2 Pichnand,32.88594,71.99487,Female,Punjab,0,2,0,864
+ 265 - Government Boys Elementary School Dhoke Baza,32.88602,72.26151,Combined,Punjab,2,1,774,715
+ 310 - Government High School Wanhar (Bidhar Campus),32.88639,72.18277,Female,Punjab,0,2,0,521
+ 306 - Government Girls High School Wanhar,32.8882,72.18445,Combined,Punjab,2,2,888,735
+ 126 - Government Girls Elementary School Walana,32.88913,72.61765,Female,Punjab,0,2,0,1106
+ 433 - Government Boys Primray School No.1 Pichnand,32.88979,71.99207,Combined,Punjab,2,1,742,641
+ 434 - Veterinary Center Pichnand,32.89045,71.99239,Combined,Punjab,1,1,491,447
+ 442 - Government Girls High School Pichnand,32.89057,71.98507,Male,Punjab,2,0,1053,0
+ 443 - Government Girls High School Pichnand,32.89057,71.9851,Female,Punjab,0,2,0,1023
+ 308 - Government High School Wanhar on Main Road,32.89072,72.19419,Combined,Punjab,1,1,366,373
+ 307 - Government Boys Elementary School Dhoke Faqira,32.8908,72.22433,Combined,Punjab,2,1,767,666
+ 125 - Government Elementary School Walana,32.89162,72.61525,Male,Punjab,2,0,1101,0
+ 391 - Government Elementary School Dhoke Hijal,32.89183,72.08072,Male,Punjab,2,0,1045,0
+ 392 - Government Girls Primary School Dhoke Hijal,32.89458,72.08002,Female,Punjab,0,2,0,915
+ 205 - Government Girls Primary School Dhok Mangial,32.89999,72.44834,Combined,Punjab,2,1,669,602
+ 322 - Government Boys High School Dhoke Musahib,32.90562,72.13387,Male,Punjab,3,0,1139,0
+ 323 - Government Boys High School Dhoke Musahib,32.90562,72.1339,Female,Punjab,0,2,0,1011
+ 154 - Government Girls High School Moorat,32.90775,72.47134,Combined,Punjab,2,2,890,864
+ 155 - Government Boys High School Malakwal,32.90867,72.39503,Male,Punjab,2,0,843,0
+ 156 - Government Boys High School Malakwal,32.90867,72.39506,Female,Punjab,0,2,0,756
+ 157 - Government High School Malakwal,32.90867,72.39509,Male,Punjab,2,0,1071,0
+ 393 - Government Boys High School Leti,32.90984,72.0655,Combined,Punjab,1,1,321,261
+ 394 - Government Boys High School Leti,32.90984,72.06553,Combined,Punjab,1,1,462,388
+ 395 - Government. Girls High School Leti,32.91098,72.06544,Combined,Punjab,1,1,365,321
+ 396 - Government. Girls High School Leti,32.91098,72.06547,Combined,Punjab,1,1,454,404
+ 158 - Government  College  for Women Talagang Malakwal,32.91125,72.39628,Female,Punjab,0,2,0,909
+ 159 - Government  College for  Women Talagang Malakwal,32.91125,72.39631,Female,Punjab,0,2,0,901
+ 161 - Government Girls High School Malakwal,32.91212,72.39478,Combined,Punjab,2,2,857,802
+ 449 - Government Girls Primary School Dhok Choi,32.91267,71.90187,Female,Punjab,0,2,0,923
+ 13 - Government Primary  School Pipli,32.91279,72.63714,Combined,Punjab,1,1,564,529
+ 160 - Community Welfare Center Malakwal,32.91316,72.40151,Male,Punjab,2,0,920,0
+ 162 - Government Boys High School Malakwal (Primary Portion),32.91416,72.40306,Combined,Punjab,2,2,803,758
+ 448 - Government Middle School Dhok. Mail,32.91494,71.90273,Male,Punjab,2,0,1041,0
+ 326 - Government Boys Elementary School Daroot,32.91529,72.1851,Combined,Punjab,1,1,363,334
+ 327 - Government Boys Elementary School Daroot,32.91529,72.18513,Combined,Punjab,1,1,609,526
+ 435 - Government Boys Primray School Banjra,32.91644,71.95462,Combined,Punjab,2,2,769,728
+ 324 - Government Girls High School Daroot,32.9165,72.17737,Male,Punjab,2,0,1028,0
+ 325 - Government Girls High School Daroot,32.9165,72.1774,Female,Punjab,0,2,0,971
+ 5 - Government Girls Primary School Kalo Jao,32.91715,72.75519,Combined,Punjab,2,2,746,703
+ 194 - Government High School No. 2 Talagang,32.91976,72.41209,Male,Punjab,4,0,1642,0
+ 212 - Government Boys High School No.2 Talagang,32.91976,72.41212,Male,Punjab,4,0,1685,0
+ 213 - Government Boys High School No.2 Talagang,32.91976,72.41215,Female,Punjab,0,4,0,1519
+ 211 - Government Girls High School No.2 Talagang,32.92035,72.41242,Female,Punjab,0,4,0,1585
+ 210 - Government Girls High School No.6 Talagang,32.92062,72.41303,Male,Punjab,4,0,1691,0
+ 202 - Government Girls Primary School Dhok Jhamal,32.92221,72.45342,Combined,Punjab,1,1,477,415
+ 14 - Govrnmnt Model Primary School Dhok Sial Campus No.2,32.9248,72.67183,Combined,Punjab,1,1,538,495
+ 203 - Government Elementary College For Women Teachers Talagang,32.92528,72.41148,Male,Punjab,4,0,1788,0
+ 204 - Government Elementary College For Women  Teachers Talagang,32.92528,72.41151,Female,Punjab,0,4,0,1598
+ 447 - Government Primray School Dhoke Jhatt,32.92542,71.92169,Combined,Punjab,2,2,727,683
+ 215 - High Way Office Talagang,32.9258,72.40709,Female,Punjab,0,4,0,2029
+ 206 - Government Boys Primary School No. 3 Talagang Gharbi,32.92635,72.40977,Male,Punjab,3,0,1136,0
+ 209 - Government Boys Primary School No. 3 Talagang Gharbi,32.92635,72.4098,Female,Punjab,0,2,0,1126
+ 166 - Government Girls High School Akwal,32.92676,72.35721,Female,Punjab,0,2,0,837
+ 196 - Office of the Deputy Director Live Stock Talagang,32.92698,72.42429,Male,Punjab,4,0,1469,0
+ 197 - Veterenary Hospital Talagang,32.92698,72.42432,Female,Punjab,0,4,0,1400
+ 164 - Government Girls High School Akwal (Primary Portion),32.92715,72.36768,Female,Punjab,0,2,0,1283
+ 198 - Government Girls High School No.1 Talagang,32.92752,72.41792,Male,Punjab,3,0,1588,0
+ 199 - Government Girls High School No.1 Talagang,32.92752,72.41795,Female,Punjab,0,3,0,1588
+ 208 - Government Girls High School No.1 Talagang,32.92752,72.41798,Female,Punjab,0,2,0,927
+ 200 - Government Boys High School No1 Talagang,32.92795,72.41814,Male,Punjab,4,0,1737,0
+ 201 - Government Boys High School No.1 Talagang,32.92795,72.41817,Female,Punjab,0,4,0,1644
+ 207 - Government Boys High School No.1 Talagang,32.92795,72.4182,Male,Punjab,2,0,940,0
+ 214 - Government Boys High School No.1 Talagang,32.92795,72.41823,Male,Punjab,4,0,2247,0
+ 332 - Government Girls Elementary School Dhoke Fateh Shah,32.92805,72.10888,Female,Punjab,0,2,0,1144
+ 191 - Tehsil Municipal Administration Office Talagang,32.92828,72.41541,Male,Punjab,3,0,1366,0
+ 192 - Government Girls MC High School Talagang,32.92852,72.41503,Female,Punjab,0,2,0,1294
+ 195 - Government Girls Elementary School No. 5 Talagang,32.92852,72.41506,Female,Punjab,0,4,0,1516
+ 218 - Government Post Graduate College Talagang,32.92852,72.41509,Male,Punjab,3,0,1381,0
+ 219 - Government Post Graduate College Talagang,32.92852,72.41512,Female,Punjab,0,3,0,1365
+ 193 - Government Girls Primary School No.3 Tlg Near Jinnah Park,32.92852,72.41504,Combined,Punjab,1,1,526,492
+ 389 - Government Girls Primray School Dhok Ishral,32.92953,72.0415,Combined,Punjab,1,1,576,467
+ 390 - Government Boys Primray School Dhok Ishral,32.92962,72.04053,Combined,Punjab,2,1,800,632
+ 163 - Government High School Akwal,32.93043,72.37043,Male,Punjab,3,0,1402,0
+ 165 - Government High School Akwal,32.93043,72.37046,Male,Punjab,2,0,931,0
+ 167 - Government High School Akwal,32.93043,72.37049,Male,Punjab,3,0,1378,0
+ 168 - Government High School Akwal,32.93043,72.37052,Female,Punjab,0,2,0,1265
+ 331 - Government Boys Primary School Dhoke Fateh Shah,32.93084,72.11323,Male,Punjab,3,0,1318,0
+ 169 - Government High School Saghar,32.93174,72.2756,Male,Punjab,3,0,1338,0
+ 170 - Government High School Saghar,32.93174,72.27563,Female,Punjab,0,2,0,1295
+ 171 - Government High School Saghar,32.93174,72.27566,Male,Punjab,2,0,1087,0
+ 175 - Government High School Saghar,32.93174,72.27569,Combined,Punjab,2,2,823,760
+ 216 - Government Girls Elementary School Dhok Tarair Talagang,32.93408,72.40614,Male,Punjab,3,0,1310,0
+ 217 - Government Girls Elementary School Dhok Tarrair,32.93408,72.40617,Female,Punjab,0,2,0,1227
+ 177 - Government Girls High School Bilal Abad,32.93557,72.31155,Male,Punjab,2,0,1121,0
+ 178 - Government Girls High School Bilal Abad,32.93557,72.31158,Female,Punjab,0,2,0,1027
+ 18 - Basic Health Unit Dharabi,32.93637,72.53661,Female,Punjab,0,2,0,1212
+ 446 - Government Primary School Dhoke Matoki .,32.93657,71.93763,Combined,Punjab,1,1,231,237
+ 176 - Government High School Bilal Abad,32.93721,72.30341,Combined,Punjab,1,1,442,417
+ 179 - Government High School Bilal Abad,32.93721,72.30344,Male,Punjab,3,0,1323,0
+ 180 - Government High School Bilal Abad,32.93721,72.30347,Female,Punjab,0,2,0,1203
+ 11 - Government High School Balkassar,32.93888,72.64457,Male,Punjab,2,0,951,0
+ 7 - Government High School BalKassar,32.93888,72.6446,Male,Punjab,2,0,1013,0
+ 9 - Government High School Balkassar,32.93888,72.64463,Male,Punjab,2,0,718,0
+ 1 - Government Elementary School Thoa Bahadar,32.93893,72.6992,Male,Punjab,3,0,1300,0
+ 2 - Government Elementary School Thoa Bahadar,32.93893,72.69923,Female,Punjab,0,2,0,1262
+ 17 - Government Girls Elementary School Dharabi,32.93894,72.53403,Male,Punjab,2,0,1407,0
+ 172 - Government Girls Primary School No.3 Saghar,32.93914,72.26685,Female,Punjab,0,2,0,1053
+ 3 - Government Girls High School Thoa Bahadar,32.93943,72.6998,Male,Punjab,2,0,1033,0
+ 4 - Government Girls High School Thoa Bahadar,32.93943,72.69983,Female,Punjab,0,2,0,960
+ 173 - Government Girls High School Saghar,32.93975,72.27444,Combined,Punjab,2,2,755,733
+ 174 - Government Girls High School Saghar,32.93975,72.27447,Combined,Punjab,1,1,617,561
+ 23 - Government Primary School Dhok Mohri,32.94053,72.61127,Combined,Punjab,2,2,778,702
+ 153 - Government High School Naka Kahot,32.94108,72.47601,Combined,Punjab,2,2,765,764
+ 10 - Government Girls High School Balkassar,32.94305,72.64398,Female,Punjab,0,2,0,673
+ 8 - Government Girls High School Balkassar,32.94305,72.64401,Female,Punjab,0,2,0,1007
+ 12 - Government Girls High School Balkassar,32.94305,72.64399,Female,Punjab,0,2,0,887
+ 328 - Government Boys High School Dher Mond,32.94388,72.17162,Combined,Punjab,2,1,668,589
+ 329 - Government Boys High School Dher Mond,32.94388,72.17165,Combined,Punjab,2,2,932,796
+ 152 - Government Girls High School Naka Kahoot,32.94413,72.47522,Combined,Punjab,2,2,797,819
+ 330 - Government Girls Community Model Elementary School Dher Mond,32.9445,72.16814,Combined,Punjab,2,2,877,788
+ 15 - Government High School Dharabi,32.94698,72.53574,Male,Punjab,3,0,1309,0
+ 16 - Government High School Dharabi,32.94698,72.53577,Female,Punjab,0,2,0,1252
+ 19 - Government Girls Elementary School Bikhari Kalan,32.94881,72.6303,Female,Punjab,0,2,0,1054
+ 20 - Government Girls Community Model School Bikhari Kalan,32.94881,72.63033,Male,Punjab,2,0,1139,0
+ 150 - Government Girls Elementary School Dudial (Primary Portion),32.94903,72.40845,Combined,Punjab,1,1,467,443
+ 151 - Basic Health Unit Dudial,32.94903,72.40848,Combined,Punjab,1,1,610,590
+ 137 - Government Girls Primary School Gulshan Barwal,32.95039,72.33437,Combined,Punjab,2,2,687,651
+ 148 - Government Girls Elementary School Dudial,32.9514,72.40029,Combined,Punjab,2,2,927,854
+ 21 - Government High School Bikhari Kalan,32.95154,72.63842,Male,Punjab,2,0,889,0
+ 22 - Government High School Bikhari Kalan,32.95154,72.63845,Female,Punjab,0,2,0,911
+ 149 - Basic Health Unit Dudial,32.95192,72.40308,Combined,Punjab,1,1,526,475
+ 341 - Government Elementary School Dhoke Jhakar,32.95347,72.09016,Combined,Punjab,2,1,742,705
+ 444 - Government Boys High School Kot Gullah,32.95594,71.91113,Combined,Punjab,1,1,539,485
+ 445 - Government Boys High School Kot Gullah,32.95594,71.91116,Combined,Punjab,1,1,660,536
+ 451 - Government Boys High School Sadiq Abad,32.95667,71.96902,Male,Punjab,2,0,894,0
+ 452 - Government Boys High School Sadiq Abad,32.95667,71.96905,Combined,Punjab,2,1,678,600
+ 6 - Government Primary School Hastal,32.95937,72.71233,Combined,Punjab,2,2,832,835
+ 26 - Government Primary School Mari,32.96049,72.68637,Male,Punjab,2,0,1050,0
+ 143 - Government Basic Health Unit Tehi,32.96337,72.41155,Combined,Punjab,2,1,783,661
+ 27 - Government Girls Primary School Mari,32.96445,72.68695,Female,Punjab,0,2,0,954
+ 34 - Government Boys Primray School Dheri Anwal,32.96463,72.53484,Combined,Punjab,1,1,176,169
+ 145 - Union Council Office Tehi,32.96508,72.41209,Female,Punjab,0,2,0,1137
+ 142 - Government High School Tehi,32.96518,72.41206,Combined,Punjab,2,2,984,857
+ 144 - Government Boys High School Tehi,32.96518,72.41209,Male,Punjab,3,0,1315,0
+ 146 - Government Boys High School Tehi,32.96518,72.41212,Male,Punjab,3,0,1289,0
+ 147 - Government Boys High School Tehi,32.96518,72.41215,Female,Punjab,0,2,0,1246
+ 450 - Government Girls Elementary School Sadiq Abad,32.96854,71.97398,Female,Punjab,0,2,0,733
+ 354 - Government Boys Primray School Kot Shera,32.97139,72.00471,Combined,Punjab,2,2,893,762
+ 238 - Government Boys Primary School Dhok dali,32.9751,72.3388,Combined,Punjab,2,1,842,717
+ 380 - Government Boys High School Singwala,32.97759,72.23932,Male,Punjab,2,0,969,0
+ 382 - Government Boys High School Singwala,32.97759,72.23935,Combined,Punjab,2,2,770,777
+ 381 - Government Girls High School Singwala,32.97827,72.23238,Female,Punjab,0,2,0,926
+ 339 - Government Girls Elementary School Dhoke Nooral Tamman,32.97906,72.08315,Combined,Punjab,2,1,637,547
+ 138 - Government Elementary School Traggar,32.98415,72.40688,Combined,Punjab,2,2,857,834
+ 133 - Government Primary School Mustafa abad(Chatwal),32.98677,72.41145,Combined,Punjab,2,2,790,737
+ 24 - Government Elementary School Sidher,32.98846,72.60577,Combined,Punjab,2,2,781,740
+ 25 - Government Elementary School Sidher,32.98846,72.6058,Combined,Punjab,2,1,759,712
+ 141 - Government Girls Elementary School Pihra Jangla,32.99083,72.45341,Female,Punjab,0,2,0,1245
+ 52 - Government Primary school Munday,32.99173,72.6783,Combined,Punjab,2,2,752,718
+ 359 - Government Girls Primary School Dhoke Masam Ban Khattain (Khoian),32.99278,72.05899,Male,Punjab,2,0,1013,0
+ 53 - Government High School Munday,32.99304,72.67913,Male,Punjab,2,0,1080,0
+ 54 - Government High School Munday,32.99304,72.67916,Female,Punjab,0,2,0,972
+ 454 - Government Boys Elemantary School Khushal Garh,32.99614,71.92414,Combined,Punjab,2,2,719,700
+ 134 - Government High School Jasial,32.99673,72.39584,Combined,Punjab,2,2,862,802
+ 135 - Government High School Jasial,32.99673,72.39587,Combined,Punjab,1,1,525,485
+ 136 - Government High School Jasial,32.99673,72.3959,Combined,Punjab,2,2,830,841
+ 140 - Government Elementary School Pihra Jangla,32.99688,72.44685,Male,Punjab,3,0,1420,0
+ 375 - Government Girls High School Budhial,32.99762,72.18402,Combined,Punjab,2,2,721,741
+ 376 - Government Boys High School Budhial,32.99826,72.18517,Combined,Punjab,2,2,763,740
+ 28 - Government High School Karsal,32.99908,72.58403,Male,Punjab,2,0,1103,0
+ 30 - Government High School Karsal,32.99908,72.58406,Combined,Punjab,2,2,811,794
+ 456 - Government Boys Elementary School Larian,32.99983,71.8766,Combined,Punjab,2,1,695,606
+ 29 - Office of the Union Council Karsal,33.00145,72.59023,Female,Punjab,0,2,0,997
+ 343 - Government Girls Primray School No.1 Bun Tamman,33.00172,72.10825,Male,Punjab,3,0,1288,0
+ 344 - Government Girls Primray School No.1 Bun Tamman,33.00172,72.10828,Female,Punjab,0,2,0,1175
+ 340 - Government Girls High School Tamman,33.00382,72.10887,Combined,Punjab,2,1,654,628
+ 31 - Government Girls High School Karsal,33.0044,72.57912,Combined,Punjab,2,2,711,683
+ 235 - Government Boys High School Mogla,33.0049,72.31522,Female,Punjab,0,2,0,900
+ 236 - Government Boys High School Mogla,33.0049,72.31525,Combined,Punjab,1,1,352,264
+ 234 - Government Girls High School Mogla,33.00499,72.30962,Male,Punjab,2,0,1025,0
+ 237 - Government Girls High School Mogla,33.00499,72.30965,Combined,Punjab,2,1,655,627
+ 333 - Government Girls Primray School Dhoke Munian,33.00687,72.15067,Male,Punjab,2,0,988,0
+ 336 - Government Higher.Secondary School Tamman,33.00727,72.10421,Combined,Punjab,2,2,890,795
+ 337 - Government Higher Secondary School Tamman,33.00727,72.10424,Male,Punjab,3,0,1239,0
+ 338 - Government Higher Secondary School Tamman,33.00727,72.10427,Female,Punjab,0,2,0,1250
+ 342 - Government Girls Primray School No.2 Tamman,33.0073,72.11311,Combined,Punjab,2,1,657,621
+ 139 - Government Priamry School Naka Rehan,33.00904,72.44478,Combined,Punjab,2,1,675,667
+ 232 - Government Boys Primary School Dhoke Sabal,33.01073,72.26099,Male,Punjab,2,0,1219,0
+ 55 - Government Primary School Warrey,33.01192,72.69008,Combined,Punjab,2,2,784,706
+ 334 - Government Primray School Dhoke Munian,33.01699,72.14866,Female,Punjab,0,2,0,889
+ 453 - Government Boys Primary School Dhoke Kharmar,33.01775,71.93403,Combined,Punjab,1,1,256,247
+ 457 - Government Primray School Turap Janoobi (Chaki Shah Jee ),33.01884,71.83724,Combined,Punjab,1,1,413,374
+ 377 - Government Boys Primray School Dhoke Jugial,33.02137,72.22806,Combined,Punjab,1,1,457,384
+ 356 - Government Boys Elementary School Khoian,33.02309,72.05664,Male,Punjab,2,0,980,0
+ 357 - Government Girls Community Model Elementary School Khoian,33.02354,72.05984,Female,Punjab,0,2,0,882
+ 358 - Government Girls Community Model Elementary School Khoian,33.02354,72.05987,Female,Punjab,0,2,0,879
+ 347 - Government Girls High School Multan Khurd (Primary Portion),33.02636,72.01124,Combined,Punjab,1,1,437,396
+ 35 - Government Girls Elementary School Chawali,33.02685,72.57059,Combined,Punjab,1,1,366,324
+ 349 - Government Primray School No.1 Multan Khurd,33.0271,72.01051,Combined,Punjab,1,1,581,547
+ 42 - Government Model Elementary School Moolwal Campus No.1,33.02794,72.53522,Female,Punjab,0,2,0,896
+ 41 - Government Model Primary School Moolwal Campus No.2,33.02839,72.53513,Male,Punjab,2,0,916,0
+ 32 - Government Elementary School Chawali,33.03016,72.56536,Male,Punjab,4,0,1465,0
+ 33 - Government Elementary School Chawali,33.03016,72.56539,Female,Punjab,0,3,0,1409
+ 355 - Government Boys Primray School No.2 Multan Khurd,33.03062,72.01001,Combined,Punjab,1,1,508,457
+ 51 - Government Model Primary School Alawal,33.03544,72.66565,Combined,Punjab,1,1,551,510
+ 239 - Government Girls High School Kot Sarang,33.03575,72.38797,Male,Punjab,3,0,1051,0
+ 240 - Government Girls High School Kot Sarang,33.03575,72.388,Female,Punjab,0,2,0,962
+ 241 - Government Girls High School Kot Sarang (Primary Portion),33.03575,72.38803,Male,Punjab,3,0,1402,0
+ 243 - Government Girls High School Kot Sarang Kot Sarang,33.03575,72.38806,Combined,Punjab,2,1,715,653
+ 244 - Government Girls High School Kot Sarang,33.03575,72.38809,Combined,Punjab,2,2,848,738
+ 242 - Government Boys Primary School Kot Sarang,33.03783,72.38416,Female,Punjab,0,2,0,1405
+ 233 - Government Girls Elementary School Dhaular,33.03887,72.30338,Female,Punjab,0,2,0,955
+ 230 - Government Boys High School Dhaular,33.03896,72.31024,Male,Punjab,2,0,1000,0
+ 231 - Government  Boys High School Dhaular,33.03896,72.31027,Female,Punjab,0,2,0,919
+ 345 - Government Boys High School Multan Khurd,33.03941,72.01202,Male,Punjab,2,0,837,0
+ 346 - Government Boys High School Multan Khurd,33.03941,72.01205,Female,Punjab,0,2,0,741
+ 348 - Government Boys High School Multan Khurd,33.03941,72.01208,Combined,Punjab,1,1,574,586
+ 350 - Government Boys High School Multan Khurd,33.03941,72.01211,Male,Punjab,3,0,1196,0
+ 351 - Government Boys High School Multan Khurd,33.03941,72.01214,Female,Punjab,0,2,0,1177
+ 352 - Government Girls Primary School No.2 Tamman Road Multan Khurd,33.03947,72.02045,Male,Punjab,2,0,1314,0
+ 353 - Basic Health Unit Multan Khurd,33.04029,72.00739,Female,Punjab,0,2,0,1235
+ 39 - Government Girls Elementary School Kot Chaudharian,33.04126,72.51512,Male,Punjab,3,0,1364,0
+ 40 - Government Girls Elementary School Kot Chaudharian,33.04126,72.51515,Female,Punjab,0,2,0,1179
+ 455 - Government Boys Primray School Chattah,33.04179,71.87878,Combined,Punjab,1,1,270,220
+ 43 - Government High School Roopwal,33.0442,72.52075,Female,Punjab,0,2,0,1154
+ 44 - Government High School Roopwal,33.0442,72.52078,Male,Punjab,2,0,1194,0
+ 220 - Government Girls Primary School Murali,33.04875,72.45213,Combined,Punjab,2,2,826,727
+ 50 - Government Girls High School Roopwal,33.04887,72.53094,Combined,Punjab,2,2,876,846
+ 368 - Government Girls Primary School Dhoke Tahli,33.04946,71.97161,Female,Punjab,0,2,0,914
+ 335 - Government Girls Elemantary School Noor pur,33.04973,72.0946,Combined,Punjab,1,1,472,450
+ 367 - Government Primary School Dhoke Tahli,33.04977,71.97267,Male,Punjab,2,0,953,0
+ 378 - Government Boys High School Patwali,33.05012,72.17525,Combined,Punjab,1,1,508,545
+ 379 - Government Boys High School Patwali,33.05012,72.17528,Combined,Punjab,2,2,687,669
+ 228 - Government Praimary School Mangral (Dhaular),33.05125,72.33598,Combined,Punjab,1,1,480,402
+ 365 - Government Boys Primray School Shah Muhammad Wali (PEF) Mohallah Imam Bargah Shah Muhammad Wali,33.05661,71.93214,Combined,Punjab,1,1,489,469
+ 366 - Government Girls High School Shah Muhammad Wali,33.06053,71.93721,Combined,Punjab,2,2,807,750
+ 385 - Government Girls High School Misrial,33.06677,72.18944,Female,Punjab,0,2,0,921
+ 37 - Government Higher Secondary School Bhagwal,33.06903,72.59977,Female,Punjab,0,2,0,1051
+ 38 - Government Higher Secondary School Bhagwal,33.06903,72.5998,Combined,Punjab,2,2,860,798
+ 383 - Government Boys High School Misrial,33.06944,72.18736,Combined,Punjab,1,1,492,464
+ 384 - Government Boys High School Misrial,33.06944,72.18739,Male,Punjab,2,0,1024,0
+ 226 - Government Elementary School Deewal,33.06961,72.48155,Combined,Punjab,2,2,743,736
+ 387 - Government Boys Elementary School Dhoke Khalas,33.07353,72.22612,Combined,Punjab,1,1,348,306
+ 227 - Government Praimary School Khairchal,33.0756,72.30212,Combined,Punjab,1,1,636,467
+ 245 - Government Girls Primary School Rehman abad,33.07565,72.3344,Male,Punjab,2,0,988,0
+ 246 - Government Girls Primary School Rehman abad,33.07565,72.33443,Female,Punjab,0,2,0,858
+ 36 - Government Girls High School Bhagwal,33.07743,72.59382,Male,Punjab,2,0,1093,0
+ 373 - Government Girls Elementary School Dandi,33.08209,72.10587,Female,Punjab,0,2,0,889
+ 372 - Government Boys High School Dandi,33.08332,72.10866,Male,Punjab,2,0,949,0
+ 374 - Government Boys High School Dandi,33.08332,72.10869,Combined,Punjab,1,1,501,434
+ 223 - Government Girls Elementary School Mirjan,33.0842,72.44682,Combined,Punjab,2,2,848,740
+ 224 - Government Girls Elementary School Mirjan,33.0842,72.44685,Combined,Punjab,2,1,685,629
+ 386 - Government Boys Primray School Pather,33.08591,72.24417,Combined,Punjab,1,1,455,335
+ 371 - Government Boys Primray School Surhali,33.09028,72.09353,Combined,Punjab,2,1,778,645
+ 361 - Government Girls Elementary School Jabbi Shah Dilawar,33.09195,71.98819,Combined,Punjab,1,1,396,366
+ 364 - Government Girls Elementary School Jabbi Shah Dilawar,33.09195,71.98822,Combined,Punjab,2,2,820,733
+ 362 - Government Boys High School Jabi Shah Dilawar,33.09333,71.98632,Combined,Punjab,2,1,675,611
+ 46 - Government Girls Elementary School Ranjha,33.09679,72.5483,Female,Punjab,0,2,0,1165
+ 45 - Government Elementary School Ranjha,33.10033,72.54991,Male,Punjab,3,0,1260,0
+ 369 - Government Boys Elementary School Kotehra ( Jabbi),33.10065,72.04409,Combined,Punjab,2,2,940,766
+ 370 - Government Girls Primary School Kotehra,33.10115,72.04467,Combined,Punjab,1,1,529,456
+ 49 - Government Primary School Peerwal,33.10175,72.60435,Combined,Punjab,1,1,326,332
+ 221 - Government Primary School Naraghi,33.11127,72.41376,Male,Punjab,3,0,1349,0
+ 222 - Government Priamry School Naraghi,33.11127,72.41379,Female,Punjab,0,2,0,1244
+ 388 - Government Girls Elementary School Markhal,33.11681,72.22614,Combined,Punjab,2,1,830,661
+ 47 - Government Elementary School Patalian,33.11727,72.57258,Male,Punjab,2,0,1078,0
+ 48 - Government Girls Elementary School Patalian,33.11871,72.57399,Female,Punjab,0,2,0,944
+ 229 - Government Boys Primary School Datwal,33.11923,72.27474,Combined,Punjab,1,1,193,163
+ 247 - Government Boys Primray School Dhoke Pathan,33.13196,72.34908,Male,Punjab,2,0,848,0
+ 248 - Government Boys Primray School Dhoke Pathan,33.13196,72.34911,Female,Punjab,0,2,0,666
+ 57 - Government High School Warwal,33.13446,72.52632,Female,Punjab,0,2,0,1397
+ 59 - Government High School Warwal (Primary Portion),33.13458,72.51782,Female,Punjab,0,2,0,1005
+ 225 - Government Boys Elementary School Mithrala,33.13707,72.46033,Combined,Punjab,2,1,835,663
+ 58 - Government Girls High School Warwal,33.1391,72.52151,Male,Punjab,3,0,1222,0
+ 56 - Office of the Union Council Warwal,33.14038,72.52151,Male,Punjab,3,0,1558,0
+ 360 - Government Primray School Dhok. Chhoi,33.14246,72.00065,Combined,Punjab,1,1,321,282
+ 363 - Government Primray School Dhok. Chhoi,33.14246,72.00068,Combined,Punjab,1,1,549,518
+ 62 - Government High School Hasal,33.17044,72.55037,Combined,Punjab,1,1,240,237
+ 63 - Government High School Hasal,33.17044,72.5504,Combined,Punjab,2,2,805,662
+ 60 - Government Girls Elementary School Hasal,33.17258,72.55722,Male,Punjab,2,0,1144,0
+ 61 - Government Girls Elementary School Hasal,33.17258,72.55725,Female,Punjab,0,2,0,1072

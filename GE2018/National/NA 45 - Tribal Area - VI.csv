@@ -1,0 +1,122 @@
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 124 - GPS Khap Yanga (M/F),33.37527,70.50389,Combined,FATA,1,1,334,115
+ 70 - GPS Palosin Wazir (M/F),33.42,70.58889,Combined,FATA,2,1,1677,468
+ 117 - BHU Manduri (Male),33.44722,70.44473,Male,FATA,2,0,1538,0
+ 118 - GGMS Manduri (Female),33.44722,70.44476,Female,FATA,0,2,0,1124
+ 120 - GPS Ahmadi Shama (M/F),33.44722,70.44479,Combined,FATA,1,1,549,411
+ 121 - GGPS Chappri (M/F),33.44722,70.44482,Combined,FATA,1,1,903,681
+ 71 - improvise Gulishing Wazir (M/F),33.45778,70.56445,Combined,FATA,1,1,909,166
+ 72 - GPS Doll Ragha (M/F),33.46278,70.56389,Combined,FATA,1,1,1070,535
+ 73 - GPS Chapper (M/F),33.46305,70.56306,Combined,FATA,2,1,1225,794
+ 122 - GPS Sara Ghorga (M/F),33.48917,70.40361,Combined,FATA,1,1,561,424
+ 123 - GPS Talo Kunj (M/F),33.49472,70.36694,Combined,FATA,1,1,428,199
+ 74 - GPS Tari Khoidad Khel (M/F),33.49778,70.69528,Combined,FATA,1,1,714,287
+ 78 - GPS Zawa (M/F),33.49805,70.69473,Combined,FATA,1,1,623,306
+ 76 - BHU Qurat (M/F),33.49805,70.69528,Combined,FATA,1,1,420,202
+ 111 - GHS Shah Ibrahaim (Male),33.49833,70.37778,Male,FATA,2,0,1173,0
+ 114 - CHC Bagan (M/F),33.49917,70.38139,Combined,FATA,1,1,976,765
+ 119 - GGPS Uhat (M/F),33.49917,70.38142,Combined,FATA,1,1,679,529
+ 116 - GGPS Bagan (Female),33.49944,70.38306,Female,FATA,0,2,0,1336
+ 112 - GGPS Bagzai (Female),33.51694,70.34444,Female,FATA,0,1,0,829
+ 115 - GHS Bagan (Male),33.51694,70.34447,Male,FATA,2,0,1689,0
+ 110 - GGHS ALizai (Female),33.53361,70.35001,Female,FATA,0,2,0,1377
+ 109 - GHS Alizai (Male),33.53583,70.34834,Male,FATA,2,0,1799,0
+ 75 - GPS Saper Kot (M/F),33.54472,70.68555,Combined,FATA,1,1,646,252
+ 69 - GPS Pastawani (M/F),33.54805,70.44972,Combined,FATA,1,1,902,671
+ 77 - GPS Omigai (M/F),33.55833,70.59528,Combined,FATA,1,1,356,133
+ 106 - GPS Maro Khel (M/F),33.56667,70.32639,Combined,FATA,1,1,279,198
+ 68 - GPS Kudalai (M/F),33.56722,70.52695,Combined,FATA,1,1,466,238
+ 107 - GHS Bilyamin (Male),33.57083,70.30473,Male,FATA,1,0,1026,0
+ 108 - GGMS Bilyamin (Female),33.57555,70.31111,Female,FATA,0,1,0,731
+ 67 - GPS Mundan (M/F),33.57722,70.53861,Combined,FATA,1,1,507,354
+ 104 - GMS Arawali (M/F),33.58889,70.32361,Combined,FATA,1,1,949,708
+ 63 - GPS Jalamai (M/F),33.59472,70.36444,Combined,FATA,1,1,471,325
+ 64 - GPS Narari (M/F),33.59472,70.36447,Combined,FATA,1,1,657,554
+ 102 - GPS Tangai (Male/Female),33.59833,70.30139,Combined,FATA,1,1,322,257
+ 66 - GGPS Manatoo (F),33.615,70.48722,Female,FATA,0,1,0,826
+ 105 - GHS Makhizai (M/F),33.6175,70.30167,Combined,FATA,1,1,776,533
+ 65 - GHS Manatoo (M),33.62194,70.48416,Male,FATA,2,0,1251,0
+ 82 - GGPS Kalki Mela Marghan (M/F),33.63389,70.52889,Combined,FATA,2,1,1334,941
+ 101 - GPS Mingak (M/F),33.63583,70.30305,Combined,FATA,1,1,298,180
+ 99 - GHS Sakhi Ahmad Shah (Male),33.63945,70.31667,Male,FATA,1,0,898,0
+ 103 - CHC Wali  China (M/F),33.64,70.21361,Combined,FATA,1,1,221,116
+ 80 - GGPS Shamkhai (M/F),33.64167,70.51056,Combined,FATA,1,1,661,523
+ 81 - GGPS Kotki (M/F),33.64194,70.5239,Combined,FATA,1,1,414,273
+ 100 - GGPS Sakhi Ahmad Shah (Femal),33.64278,70.31667,Female,FATA,0,1,0,622
+ 98 - GPS Shashu (M/F),33.65445,70.32166,Combined,FATA,1,1,637,463
+ 62 - GPS Gawakai (M/F),33.65778,70.40445,Combined,FATA,1,1,712,475
+ 79 - GPS Navi Killi (M/F),33.66389,70.50166,Combined,FATA,1,1,1028,680
+ 85 - GPS Marghan Dara (M/F),33.66722,70.55278,Combined,FATA,1,1,609,414
+ 97 - GGPS Durrani (Female),33.67028,70.31944,Female,FATA,0,2,0,1086
+ 96 - GPS Durrani (Male),33.67111,70.32056,Male,FATA,2,0,1556,0
+ 48 - IPS New Suffa Model School at warasta (M/F),33.67861,70.41056,Combined,FATA,2,1,1165,910
+ 94 - GHS Kochi (Male),33.68084,70.30389,Male,FATA,2,0,1503,0
+ 95 - GGPS Kochi (Female),33.68084,70.31223,Female,FATA,0,1,0,985
+ 83 - GGPS Kot Naki Marghan (M/F),33.68111,70.59,Combined,FATA,2,2,1877,1296
+ 84 - GPS Tatang (M/F),33.68139,70.46555,Combined,FATA,1,1,1055,738
+ 130 - GHS Pir Qayyum (Male),33.68639,70.32667,Male,FATA,4,0,3563,0
+ 131 - GGPS Pir Qayyum (Female),33.69,70.32806,Female,FATA,0,3,0,2679
+ 86 - GPS Mirmat Khel,33.69056,70.58694,Combined,FATA,1,1,280,175
+ 87 - GPS Samandar Kalay,33.69056,70.58697,Combined,FATA,1,1,435,329
+ 89 - GPS Wam ALi Sjher Zai (M/F),33.69056,70.587,Combined,FATA,1,1,423,219
+ 90 - GHS Tindo (M),33.69473,70.40611,Male,FATA,2,0,1700,0
+ 91 - GGHS Tindo (F),33.69556,70.39833,Female,FATA,0,2,0,1298
+ 125 - Town Committee Office Sadda (Male),33.70083,70.32972,Male,FATA,3,0,2138,0
+ 126 - GPS Sadda (Female),33.7025,70.3275,Female,FATA,0,2,0,1570
+ 88 - GPS Dar Kaly (M/F),33.70389,70.59139,Combined,FATA,2,2,1717,1217
+ 129 - Tehsil Headquarter Office Sadda (M/F),33.70444,70.32694,Combined,FATA,1,1,767,644
+ 127 - GHS Sadda (Male),33.70444,70.33945,Male,FATA,2,0,1355,0
+ 128 - GGHS Sadda (Female),33.70583,70.34084,Female,FATA,0,1,0,1030
+ 46 - GPS Wrasta Mila (M/F),33.71139,70.55862,Combined,FATA,1,1,518,316
+ 93 - GGMS Satin (Female),33.71167,70.36278,Female,FATA,0,2,0,1415
+ 54 - GPS Mir Bagh (M/F),33.71167,70.38611,Combined,FATA,1,1,861,671
+ 92 - GPS Satin (Male),33.71445,70.365,Male,FATA,3,0,1990,0
+ 59 - GPS Nika Zarat (M/F),33.71778,70.59,Combined,FATA,1,1,859,546
+ 47 - GPS Dargai No.1 (M/F),33.71833,70.54333,Combined,FATA,1,1,1106,826
+ 52 - GHS Badama (M),33.72139,70.38223,Male,FATA,2,0,1560,0
+ 44 - GMS Sanda Ghar (Male),33.72861,70.52834,Male,FATA,2,0,1535,0
+ 45 - GGPS Audh (F),33.72861,70.52837,Female,FATA,0,2,0,1079
+ 53 - GGMS Badama (F),33.72917,70.38306,Female,FATA,0,2,0,1080
+ 51 - GGPS Ghooi Ghara (M/F),33.73528,70.44056,Combined,FATA,1,1,350,250
+ 49 - GMS Tarali (M),33.73917,70.40445,Male,FATA,1,0,989,0
+ 50 - GGPS Tarali (F),33.74472,70.40889,Female,FATA,0,1,0,844
+ 60 - GPS Jawdara (M/F),33.75195,70.48139,Combined,FATA,2,1,1267,976
+ 57 - GPS Dargai No.2 (M),33.76583,70.54833,Male,FATA,2,0,1688,0
+ 58 - GPS Dargai No. 3,33.76583,70.54836,Female,FATA,0,2,0,1262
+ 41 - GGPS Star Jumat (M/F),33.76917,70.52667,Combined,FATA,1,1,937,626
+ 40 - GPS Qalat (M/F),33.77306,70.48222,Combined,FATA,1,1,611,509
+ 39 - GPS Dogar (F),33.77389,70.51083,Female,FATA,0,1,0,966
+ 38 - GHS Dogar (M),33.77528,70.51472,Male,FATA,2,0,1250,0
+ 34 - GGPS Bagh Killy,33.77885,70.34082,Combined,FATA,1,1,359,224
+ 42 - GMS Towdi Obe (M/F),33.78083,70.44444,Combined,FATA,1,1,908,722
+ 35 - GPS Gawdar (M/F),33.78278,70.38861,Combined,FATA,1,1,1062,694
+ 43 - GPS Tari Tang (M/F),33.78305,70.52972,Combined,FATA,1,1,854,776
+ 15 - GGPS Gondal ( F ),33.79333,70.43361,Female,FATA,0,1,0,590
+ 16 - GPS Lokha Kily ( M/F ),33.80472,70.41944,Combined,FATA,1,1,601,436
+ 12 - GPS Sar Pakh NO. 2 ( M/F),33.805,70.41944,Combined,FATA,1,1,664,557
+ 14 - GPS Gondal (M),33.805,70.41947,Male,FATA,1,0,675,0
+ 36 - GPS CHapper (M/F),33.80611,70.50445,Combined,FATA,1,1,899,712
+ 37 - GGMS Cam Chapper (M/F),33.80611,70.50448,Combined,FATA,1,1,537,473
+ 55 - GPS Cham Kali,33.82444,70.51833,Combined,FATA,2,1,1212,937
+ 56 - GPS Dapa (M/F),33.82444,70.51836,Combined,FATA,1,1,817,592
+ 18 - GGPS Baza Sultan (F),33.845,70.3675,Female,FATA,0,1,0,966
+ 61 - GMS Khazana (M/F),33.845,70.36753,Combined,FATA,1,1,812,654
+ 13 - GGMS Gul Zara Sar Pakh (M/F),33.84666,70.40028,Combined,FATA,1,1,690,628
+ 17 - GMS Baza ( Male ),33.84694,70.37833,Male,FATA,2,0,1146,0
+ 113 - GPS Samkhkak (M/F),33.84778,70.46027,Combined,FATA,1,1,310,266
+ 19 - GMS Samkhkak (M/F),33.84778,70.4603,Combined,FATA,1,1,559,499
+ 7 - GPS Kot Meran (M),33.85278,70.3225,Male,FATA,1,0,1034,0
+ 10 - GGMS Gogani ( F ),33.85806,70.31195,Female,FATA,0,1,0,613
+ 9 - GPS Gogani ( M ),33.85806,70.31198,Male,FATA,1,0,623,0
+ 8 - GGPS Kot Meran (F),33.85806,70.31223,Female,FATA,0,1,0,955
+ 32 - GPS School Avi Darra (M),33.85944,70.41666,Male,FATA,2,0,1434,0
+ 33 - GGPS Avi Darra,33.85944,70.41917,Female,FATA,0,2,0,1076
+ 31 - GPS Kimal Baza,33.87416,70.35833,Combined,FATA,1,1,953,818
+ 30 - GPS Said Karam (M/F),33.87444,70.35861,Combined,FATA,1,1,592,464
+ 11 - GPS Kooda (M/F),33.87555,70.27028,Combined,FATA,1,1,713,696
+ 1 - GHS Angori (M/F),33.885,70.24722,Combined,FATA,1,1,433,378
+ 3 - GPS Makhrani (M),33.885,70.24916,Male,FATA,1,0,908,0
+ 5 - GPS Arwaza (M/F),33.88639,70.33445,Combined,FATA,1,1,826,638
+ 6 - GPS Mian Pati (M/F),33.88667,70.32667,Combined,FATA,1,1,403,331
+ 2 - GPS Tanorak (M/F),33.89639,70.28278,Combined,FATA,1,1,354,340
+ 4 - BHU Makhrani (F),33.89695,70.24972,Female,FATA,0,1,0,783
