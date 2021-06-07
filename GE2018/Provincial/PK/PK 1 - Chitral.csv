@@ -1,0 +1,295 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+11,Govt; Primary School (GPS) Aspar,-53.49309,2.455844,Combined,KPK,2,1,757,562
+10,Govt; Primary School (GPS) Karagram,-66.97935,-40.11435,Combined,KPK,1,1,385,291
+6,Govt Primary School Ram Ram,35.27234,71.62836,Combined,KPK,2,1,871,470
+3,Govt: Primary School Marakabat (PS No.1),35.29211,71.56821,Combined,KPK,2,1,653,451
+7,Govt Primary School Kamsai,35.29749,71.66439,Combined,KPK,1,1,462,352
+1,Govt; High School (GHS) Arrandu,35.31008,71.55092,Combined,KPK,2,1,736,648
+2,Govt Girls Primary School (GGPS) Arrandu,35.31202,71.55158,Combined,KPK,1,1,526,407
+5,Govt Primary School Langoorbat,35.32656,71.59922,Combined,KPK,1,1,403,351
+4,Govt; Primary School Akroy,35.34268,71.61663,Combined,KPK,1,1,503,412
+12,Govt Primary School (GPS) Aspar No.1 Birinj,35.35939,71.70419,Combined,KPK,1,1,476,428
+9,Govt; High School  (GHS) Domail.,35.37482,71.69286,Combined,KPK,2,1,723,578
+8,GMPS Darul Uloom Domailnisar,35.38494,71.66743,Combined,KPK,2,2,905,681
+14,Govt Primary School (GPS) Baradam,35.39982,71.76756,Combined,KPK,1,1,298,249
+13,Govt Primary School(GPS) Kochan Gole,35.4187,71.7539,Combined,KPK,1,1,493,352
+15,Govt; High School (GHS) Ashirate,35.43473,71.74458,Combined,KPK,2,2,1090,812
+16,Govt Girls Primary School (GGPS) Ashirate Khas,35.43485,71.74493,Combined,KPK,1,1,149,119
+32,Govt Pirmary School(GPS) Beori Bala,35.47256,71.80532,Combined,KPK,1,1,511,391
+20,Govt Boys Primary School (GPS) Paitasun Gol,35.47565,71.67348,Combined,KPK,1,1,525,394
+17,Govt Girls Primary School (GGPS) Badugal,35.47658,71.74564,Combined,KPK,1,1,468,368
+18,Basic Health Unit (BHU) Nagar,35.48039,71.74099,Combined,KPK,1,1,545,432
+19,Govt High School (GHS) Ursoon,35.49273,71.69503,Combined,KPK,2,1,614,442
+31,Govt Middle School (GMS) Beori Payeen,35.50082,71.78841,Combined,KPK,1,1,473,392
+22,Govt; High School (GHS) Sweer,35.51153,71.73561,Combined,KPK,2,1,640,480
+23,Govt Girls Primary School (GGPS) Sweer,35.51694,71.74194,Combined,KPK,1,1,476,321
+30,Govt Middle School (GMS) Kalkatak,35.51982,71.75851,Combined,KPK,2,1,700,543
+25,Govt Middle School (GMS) Jinjirate,35.53077,71.75941,Combined,KPK,2,1,674,427
+24,Govt Primary School (GPS) Osiak,35.55323,71.78085,Combined,KPK,2,1,689,486
+29,Govt Girls Primary School (GGPS) Khorandok,35.55727,71.79767,Combined,KPK,2,1,742,574
+26,Govt Primary School  (GPS) Drosh,35.55815,71.79288,Combined,KPK,1,1,439,337
+28,Govt Girls High School (GGHS) Drosh,35.55993,71.79481,Combined,KPK,2,2,824,659
+27,Govt Girls Primary School (GGPS) Drosh.,35.55995,71.79483,Combined,KPK,2,2,813,684
+35,Govt Primary School (GPS)Potoniandeh,35.5657,71.8092,Combined,KPK,2,1,697,529
+34,Regional Institute for Teachers Training (RITT) Drosh,35.57199,71.80299,Combined,KPK,1,1,520,393
+33,Govt Higher Secondary School (GHSS) Drosh,35.57225,71.80292,Combined,KPK,2,1,616,459
+37,Govt Primary School (GPS) Wardap,35.57264,71.79689,Combined,KPK,1,1,279,193
+38,Govt Primary School (GPS) Tek Kaldaam,35.57657,71.81502,Combined,KPK,2,2,837,626
+21,Govt Middle School (GMS) Jinjirate Koh,35.57909,71.71425,Combined,KPK,2,1,595,445
+39,Govt; Primary School (GPS) Shahnigar,35.58292,71.80912,Combined,KPK,2,2,819,642
+40,Govt Girls Primary School (GGPS) Lasht Shishi,35.59271,71.82437,Combined,KPK,2,1,628,402
+41,Govt Primary School (GPS) Lawi,35.59985,71.82088,Combined,KPK,1,1,519,262
+54,Govt Primary School (GPS) Purgal Shishikoh,35.6028,71.86231,Combined,KPK,2,1,680,459
+36,Govt Primary School (GPS) Khairabad,35.61135,71.79764,Combined,KPK,1,1,256,169
+53,Govt Primary School (GPS) Goren,35.62027,71.88216,Combined,KPK,1,1,293,230
+42,Govt High School (GHS) Kessu,35.63345,71.79329,Combined,KPK,2,2,938,597
+51,Govt Middle School (GMS) Taar,35.63778,71.8885,Combined,KPK,2,2,789,508
+61,Govt Middle School (GMS) Birir,35.64276,71.70529,Combined,KPK,1,1,454,351
+43,Govt Primary School (GPS) Kesu,35.64438,71.79256,Combined,KPK,1,1,402,241
+60,Govt Girls Primary School (GGPS) Bishal Birir,35.64492,71.69128,Combined,KPK,1,1,326,235
+50,Govt Primary School (GPS) Tingle,35.64585,71.89793,Combined,KPK,1,1,363,280
+52,Govt Primary School (GPS) Sherati,35.65111,71.87293,Combined,KPK,1,1,355,185
+76,Govt Primary School (GPS) Gaherite,35.66509,71.75897,Combined,KPK,2,1,660,505
+48,Govt High School (GHS) Birganisar,35.67438,71.92561,Combined,KPK,1,1,482,295
+49,Govt Girls Primary Schoool(GGPS) Birga Bala,35.67737,71.9096,Combined,KPK,1,1,468,281
+71,Govt Middle School (GMS) Sheikhanandeh,35.68377,71.64944,Combined,KPK,2,1,617,509
+70,Basic Health Unit Bumburate,35.69274,71.67329,Combined,KPK,1,1,546,347
+65,Govt High School (GHS) Bumburate,35.69801,71.6832,Combined,KPK,2,1,654,455
+59,Govt Girls Primary School (GGPS) Der Ayun,35.70357,71.76436,Combined,KPK,1,1,253,177
+143,Govt Primary School (GPS) Jughoor,35.70834,71.76611,Combined,KPK,2,1,660,473
+77,Govt Primary School (GPS) Kore Broze,35.70834,71.76614,Combined,KPK,2,1,711,452
+83,Govt Primary School (GPS) Seen,35.70834,71.76617,Combined,KPK,2,1,636,413
+57,Govt Primary School (GPS) Sahan Bala,35.71122,71.76391,Combined,KPK,1,1,539,412
+47,Govt Primary School (GPS) Kalas,35.71129,71.94581,Combined,KPK,2,2,689,505
+58,Govt Girls Community Modle School (GGCMS) Sahan Payeen,35.71146,71.76674,Combined,KPK,2,1,562,377
+64,Govt Primary School (GPS) Pehlawanandeh Bumburate,35.71178,71.70465,Combined,KPK,2,1,547,389
+56,Govt High School (GHS) Ayun,35.71304,71.76926,Combined,KPK,2,1,740,523
+69,Govt Girls Primary School (GGPS) Shoghure Ayun,35.7166,71.76801,Combined,KPK,1,1,169,122
+68,Govt Girls Primary School  (GGPS) Darkhanandeh Ayun,35.71917,71.77432,Combined,KPK,2,1,635,480
+67,Govt Middle School (GMS) Ayun Muldeh,35.73157,71.7725,Combined,KPK,1,1,519,412
+66,Govt Girls Primary School (GGPS) Muldeh Ayun,35.73176,71.77449,Combined,KPK,2,1,554,374
+74,Govt; High School (GHS) Broze,35.73789,71.78275,Combined,KPK,1,1,460,303
+72,Govt Primary School (GPS) Domoon,35.74575,71.79481,Combined,KPK,2,1,785,497
+55,Govt Primary School (GPS) Atani Lasht,35.74623,71.77094,Combined,KPK,2,1,594,396
+73,Govt Girls High School (GGHS) Broze,35.74722,71.78532,Combined,KPK,1,1,393,264
+75,Basic Health Unit (BHU) Broze,35.7494,71.78631,Combined,KPK,2,1,714,456
+46,Govt Girls Primary School (GGPS) Madaklasht,35.76211,72.01958,Combined,KPK,1,1,266,200
+45,Govt High School Madaklasht,35.76752,72.02295,Combined,KPK,2,1,630,629
+44,Govt Primary School (GPS) Madaklasht,35.77505,72.03088,Combined,KPK,2,2,689,673
+62,Govt Middle School (GMS) Rumboor Prakalak,35.77568,71.69266,Combined,KPK,2,1,712,526
+78,Govt Middle School (GMS) Orghuch,35.78843,71.76579,Combined,KPK,2,1,852,488
+80,Govt Girls Middle School (GGMS) Chumurkhon,35.7946,71.7818,Combined,KPK,2,1,726,503
+63,Govt Primary School (GPS) Sheikhnandeh,35.79776,71.65328,Combined,KPK,1,1,261,205
+79,Govt High School (GHS) Chumurkhon,35.7994,71.78176,Combined,KPK,2,1,891,592
+140,Govt Girls Middle School (GGMS)Bakarabad,35.81528,71.77887,Combined,KPK,2,1,784,545
+162,Govt Girls Primary School (GGPS) Bakamak,35.82664,71.76749,Combined,KPK,1,1,329,239
+158,Govt Girls Primary School (GGPS) Sheyaqo Tek,35.83006,71.77148,Female,KPK,0,2,0,571
+141,Govt Girls Middle School (GMS) Jughoor,35.83073,71.78722,Female,KPK,0,3,0,1028
+142,Govt Boys Middle School Jughoor,35.83078,71.78911,Male,KPK,3,0,1420,0
+159,Govt Primary School (GPS) Ochusht,35.83117,71.7687,Male,KPK,2,0,728,0
+157,Government  Boys Primary School (GPS)  Hone,35.83329,71.77723,Combined,KPK,1,1,362,264
+156,Govt Degree College Chitral,35.83518,71.78387,Combined,KPK,1,1,437,341
+160,Govt Girls Primary School (GGPS) Mustajapandeh,35.83929,71.77271,Combined,KPK,2,1,717,593
+161,Govt Middle School (GMS) Khorkashan Deh,35.83955,71.76823,Combined,KPK,1,1,320,260
+155,Govt Girls Middle School  (GGMS) Moghulandeh,35.84674,71.77785,Combined,KPK,2,2,698,559
+153,Govt Girls High School (GGHS) Muldeh Chitral,35.84938,71.78886,Combined,KPK,2,2,674,576
+154,District Health  Officer (DHO) Office Chitral,35.85009,71.78414,Combined,KPK,2,1,721,488
+152,Elementery Education Foundation Office Chitral,35.85165,71.79014,Combined,KPK,1,1,356,301
+151,Govt Commerce College Chitral,35.8536,71.78885,Combined,KPK,2,1,599,439
+150,Govt High School (GHS) Chitral,35.85389,71.78833,Combined,KPK,2,2,918,719
+144,Govt Girls Degree College Danin,35.85717,71.79223,Combined,KPK,1,1,444,333
+145,Govt Girls Middle School (GGMS) Danin,35.86463,71.79681,Combined,KPK,2,2,770,627
+146,Govt Primary School (GPS) Lasht Danin,35.87339,71.8014,Combined,KPK,2,2,808,604
+149,Govt High School (GHS) Balach,35.88525,71.7952,Combined,KPK,2,1,656,481
+147,Govt Girls Middle School (GGMS) Singoor,35.89021,71.79982,Combined,KPK,2,1,605,481
+148,Govt Girls Primary School (GGPS)  Mirandeh Singoor,35.89799,71.79881,Combined,KPK,2,2,919,832
+82,Govt Middle School (GMS) Seenlasht,35.91517,71.81536,Combined,KPK,2,1,602,483
+84,Govt High School (GHS) Kari,35.91919,71.84544,Combined,KPK,1,1,525,390
+92,Govt Primary School (GPS) Birmogh,35.92431,72.02946,Combined,KPK,1,1,325,223
+137,Govt Primary School (GPS) Begusht,35.92757,71.52621,Combined,KPK,1,1,487,433
+85,Govt Girls Primary School (GGPS) Ragh,35.93155,71.87682,Combined,KPK,1,1,257,181
+91,Govt Middle School (GMS) Golen,35.93322,71.98241,Combined,KPK,1,1,307,195
+81,Govt Primary School (GPS) Shali,35.93526,71.81129,Combined,KPK,2,1,549,397
+88,Govt High School (GHS) Kuju Payeen,35.93567,71.8928,Combined,KPK,1,1,403,259
+87,Govt Girls Middle School (GGMS) Kuju Bala,35.93935,71.89765,Male,KPK,2,0,574,0
+89,Govt Girls Primary School (GGPS) Koghuzi,35.94005,71.92769,Combined,KPK,2,2,746,570
+86,Govt Primary School (GPS) Lotdeh Kuju Bala,35.94384,71.90543,Female,KPK,0,1,0,433
+90,Govt High School (GHS) Koghuzi,35.94698,71.94221,Combined,KPK,1,1,445,314
+136,Govt Primary School (GPS) Monoor,35.95991,71.55511,Combined,KPK,2,2,663,618
+135,Govt Primary School (GPS) Owrik,35.97009,71.5636,Combined,KPK,2,1,534,490
+113,Govt Primary School (GPS) Narkorate,35.97462,71.56522,Combined,KPK,1,1,298,280
+114,Govt Primary School (GPS) Haskalam,35.97474,71.56739,Combined,KPK,1,1,253,226
+138,Govt Primary School (GPS) Bashqar Bala,35.97542,71.55118,Combined,KPK,1,1,528,483
+139,Govt Boys Primary School (GPS) Yourjugh,35.97595,71.549,Combined,KPK,1,1,431,356
+93,Govt Girls Midde School (GGMS) Mori Lasht,35.97712,71.96698,Combined,KPK,1,1,506,333
+95,Govt Primary School (GPS) Mori Payeen,35.97861,71.96033,Combined,KPK,1,1,582,405
+130,Govt Primary School (GPS) Wahat,35.98449,71.52967,Combined,KPK,2,1,672,572
+112,Govt Girls Community Model School (GGCMS) Garum Chashma,35.98594,71.55681,Combined,KPK,1,1,495,417
+132,Govt Boys Primary School (GPS) Rui,35.98718,71.5078,Combined,KPK,1,1,279,252
+94,Govt High Secondary  School (GHSS) Mori Lasht,35.98926,71.97284,Combined,KPK,1,1,552,376
+129,Govt Higher Secondary School  (GHSS) Garum Chashma,35.99321,71.55882,Combined,KPK,1,1,364,330
+131,Govt High School (GHS) Parabeg,35.99429,71.48114,Combined,KPK,2,1,560,480
+111,Govt Primary School (GPS) Uchugol,35.99674,71.6346,Combined,KPK,1,1,400,364
+134,Govt Primary School (GPS) Gohik,36.00346,71.45491,Combined,KPK,2,2,830,775
+115,Govt Girls Middle School (GGMS) Murdan,36.00547,71.5804,Combined,KPK,1,1,509,463
+110,Govt Middile School (GMS) Mugh,36.00928,71.64665,Combined,KPK,1,1,343,301
+117,Govt Primary School (GPS) Kilishpi,36.00983,71.83076,Combined,KPK,2,1,583,513
+116,Govt Girls Primary School (GGPS) Utrai,36.0106,71.58207,Combined,KPK,2,1,536,485
+103,Govt High School (GHS) Shoghore.,36.01504,71.76271,Combined,KPK,2,2,711,597
+96,Govt High School (GHS) Mroi,36.02043,72.01208,Combined,KPK,2,1,768,513
+104,Govt Primary School (GPS) Momi,36.03587,71.72327,Combined,KPK,2,1,651,556
+118,Govt Primary School (GPS) Parsan,36.04216,71.84323,Combined,KPK,2,1,656,553
+249,Govt High School Sor-Laspoor,36.04703,72.46755,Combined,KPK,2,2,819,587
+97,Govt High  School (GHS) Prayeet Payeen,36.04996,72.01695,Combined,KPK,1,1,373,256
+120,Govt Primary School (GPS) Tosqar,36.05357,71.82816,Combined,KPK,1,1,263,211
+98,Govt Primary School (GPS) Prayeet Bala,36.05527,72.02154,Combined,KPK,1,1,486,325
+128,Govt Primary School (GPS) Hinjil,36.05895,71.79474,Combined,KPK,1,1,469,425
+119,Govt Primary School (GPS) Madashil,36.06239,71.81526,Combined,KPK,1,1,501,457
+127,Govt Primary School (GPS) Sunich,36.06266,71.76228,Combined,KPK,1,1,470,430
+250,Govt High School Balim,36.0697,72.44469,Combined,KPK,2,2,761,614
+133,Govt Primary School (GPS) Gobore,36.07161,71.36488,Combined,KPK,2,1,627,471
+102,Govt Boys High School (GHS) Barenis,36.07264,72.03819,Combined,KPK,1,1,357,280
+101,Govt Primary School(GPS) Barenis,36.07305,72.03894,Combined,KPK,1,1,217,136
+121,Govt Middle School (GMS) Herth,36.07415,71.82339,Combined,KPK,2,1,556,468
+100,Govt Girls High School (GGHS) Barenis,36.07667,72.0397,Combined,KPK,2,2,798,561
+125,Govt Middle School (GMS) Breshgram,36.08285,71.81533,Combined,KPK,1,1,471,405
+126,Govt; Primary School (GPS) Gram,36.08372,71.81073,Combined,KPK,1,1,495,471
+251,Basic Health Unit Broke,36.08536,72.45744,Combined,KPK,2,1,600,525
+99,Govt Primary School (GPS) Pasti,36.08935,71.9461,Combined,KPK,1,1,200,95
+122,Govt High School (GHS) Sosoom,36.09256,71.83673,Combined,KPK,1,1,348,359
+123,Govt Girls Primary School (GGPS) Pitra gram,36.09763,71.84419,Combined,KPK,1,1,436,371
+124,Govt Primary School (GPS) Kiyar,36.09845,71.84956,Combined,KPK,1,1,457,366
+252,Govt High School Herchin,36.11326,72.47299,Combined,KPK,2,1,655,553
+254,Govt; Girls  Primary School  (GGPS) Raman,36.11449,72.46388,Female,KPK,0,2,0,811
+253,Govt Primary School Raman,36.11456,72.46712,Male,KPK,2,0,906,0
+169,Govt; Middle School (GMS)  Riri,36.13631,72.03912,Combined,KPK,2,2,869,613
+106,Govt Primary School (GPS) Shali Arkari,36.13868,71.66961,Combined,KPK,1,1,252,193
+248,Govt Primary School Green Lasht,36.13916,72.07909,Combined,KPK,1,1,223,190
+174,Govt; Middle School (GMS) Nichagh Owir,36.14217,71.98161,Combined,KPK,1,1,439,341
+173,Govt; Girls Primary School (GGPS) Muzhen Owir,36.14614,71.95682,Combined,KPK,1,1,342,266
+246,Govt Primary School Reshun Gole-1,36.14869,72.11268,Combined,KPK,1,1,414,383
+172,Govt;  Primary School  (GPS) Pakhturi Owir,36.15067,71.96774,Combined,KPK,1,1,439,369
+247,Govt Girls Primary School Reshun,36.15071,72.09509,Combined,KPK,2,1,577,457
+171,Govt;  High School (GHS) Shongush Owir,36.15312,71.98341,Combined,KPK,1,1,210,168
+245,Govt High School Reshun,36.15667,72.10095,Combined,KPK,1,1,517,482
+168,Govt; High School (GHS)  Barum,36.1574,72.01204,Combined,KPK,2,1,673,509
+109,Govt Primary School (GPS) Basti Arkari,36.1637,71.59235,Combined,KPK,1,1,403,334
+170,Govt; Primary School (GPS)  Awi Owir,36.16486,71.977,Combined,KPK,1,1,382,326
+175,Govt; Primary School (GPS) Shogram,36.1737,72.12019,Combined,KPK,1,1,238,185
+244,Govt Primary School Zait,36.17608,72.12463,Combined,KPK,1,1,347,297
+167,Govt Primary School (GPS) Shabronze,36.17712,71.99624,Combined,KPK,1,1,445,307
+166,Govt Middle School  (GMS) Lone,36.17719,72.0752,Combined,KPK,2,1,551,518
+255,Govt Middle School Gasht,36.17885,72.47782,Combined,KPK,1,1,384,379
+165,Govt Girls Primary School (GGPS) Lone Bala,36.18599,72.07628,Combined,KPK,1,1,383,318
+105,Govt High School (GHS) Arkari,36.19979,71.6756,Combined,KPK,2,2,732,726
+163,Govt; Girls Middle School (GGMS) Gohkir,36.20429,72.08617,Combined,KPK,2,1,689,483
+176,Govt; Primary School (GPS) Drungagh,36.20864,72.11476,Combined,KPK,2,2,536,399
+164,Govt; High School (GHS) Gohkir,36.21338,72.09134,Combined,KPK,1,1,407,299
+256,Govt Girls Primary School Shahi Das,36.21445,72.49505,Combined,KPK,1,1,178,146
+107,Govt Girls Primary School (GGPS) Rabat,36.22001,71.70934,Combined,KPK,1,1,153,132
+242,Govt Primary School Kuraagh,36.2201,72.16463,Combined,KPK,1,1,497,444
+180,Govt Primary School (GPS) Sarwarabad,36.22464,72.15459,Combined,KPK,1,1,150,115
+243,Govt Primary School Churun Owir,36.22738,72.21203,Combined,KPK,1,1,430,414
+241,Govt High School Charun,36.22812,72.18226,Combined,KPK,2,2,665,661
+177,Govt;  Girls Primary School (GGPS) Drungagh,36.23227,72.15629,Combined,KPK,1,1,321,255
+178,Govt; Boys Middle School (GMS)  Kosht,36.23232,72.1562,Combined,KPK,1,1,411,332
+179,Govt;  Girls Primary School (GGPS)l Barumkagh,36.23385,72.1436,Combined,KPK,1,1,493,371
+181,Govt Middle School (GMS) Torkosht,36.24055,72.14165,Combined,KPK,2,1,751,545
+182,Basic Health Unit (BHU) Kosht,36.24508,72.16934,Combined,KPK,1,1,466,370
+240,Govt Primary School Junali Koch,36.25037,72.20271,Combined,KPK,1,1,252,275
+183,Govt High School (GHS) Kosht,36.25576,72.15884,Combined,KPK,1,1,453,340
+184,Govt Primary School (GPS)  Muzh  Deh Kosht,36.2563,72.16,Combined,KPK,1,1,393,352
+185,Govt Primary School (GPS) Sandrangh,36.25638,72.15976,Combined,KPK,1,1,366,307
+237,Govt Girls Primary School Booni Gole,36.25786,72.26107,Combined,KPK,1,1,436,424
+236,Govt Primary School Booni Gole,36.25914,72.26187,Combined,KPK,1,1,329,338
+187,Govt Primary School (GPS)  Murdair,36.26198,72.16051,Combined,KPK,1,1,406,370
+259,Govt Middle School Miragaram No.1,36.26263,72.37045,Combined,KPK,1,1,348,276
+186,Govt Gilrs Primary School (GGPS) Murdair,36.264,72.15965,Combined,KPK,1,1,480,392
+234,Govt Girls Middle School Booni Payeen,36.26407,72.23802,Combined,KPK,1,1,435,390
+260,Govt Middle School Awi,36.26472,72.34029,Combined,KPK,2,2,758,694
+188,Govt High School (GHS) Mozhgole,36.26773,72.18623,Combined,KPK,2,1,556,418
+235,Govt High School Booni,36.26896,72.25018,Combined,KPK,2,2,747,670
+239,Govt Girls High School Booni,36.26917,72.26494,Combined,KPK,2,2,579,616
+238,Govt Middle School Krui Junali,36.27113,72.27538,Combined,KPK,2,2,607,600
+272,Govt Primary School (GPS) Rakhap.,36.27365,72.51406,Combined,KPK,1,1,488,526
+262,Govt Primary School Parwak Payeen,36.27398,72.37765,Combined,KPK,1,1,295,280
+258,Govt High School Sonoghore,36.27494,72.41002,Combined,KPK,2,2,726,661
+257,Govt Primary School Sarghooz,36.27616,72.47957,Combined,KPK,1,1,265,213
+263,Govt Middle School Parwak,36.27763,72.39993,Combined,KPK,1,1,396,370
+264,Govt Primary School Parwak Bala,36.27896,72.42159,Combined,KPK,1,1,466,446
+108,Govt Primary School (GPS) Owir Arkari,36.28111,71.67207,Combined,KPK,1,1,438,368
+261,Govt Primary School Awi Lasht,36.283,72.30112,Combined,KPK,1,1,250,197
+189,Govt Primary School (GPS)  Nogram,36.2831,72.17925,Combined,KPK,2,1,621,466
+271,Veterinary Hospital Mastuj,36.28544,72.52009,Combined,KPK,1,1,504,511
+265,Govt Primary School Nisor Gol,36.29075,72.4374,Combined,KPK,1,1,133,117
+273,Govt High School Mastuj,36.29177,72.53323,Combined,KPK,1,1,526,468
+190,Govt Middle School (GMS)  Shunu,36.29643,72.18728,Combined,KPK,1,1,413,292
+192,Govt Girls High School (GGHS) Warijun,36.30354,72.22181,Combined,KPK,1,1,259,212
+212,Govt Boys Primary School Istaru,36.30517,72.34378,Combined,KPK,2,1,563,374
+191,Govt Girls Primary School  (GGPS) Zaini,36.30589,72.19832,Combined,KPK,2,1,603,498
+195,Govt High School (GHS) Drasun,36.30739,72.23408,Combined,KPK,1,1,412,371
+193,Govt Middle School (GMS) Warijun,36.30753,72.23402,Combined,KPK,2,2,698,589
+267,Govt Primary School Ghoroo Bala,36.30971,72.53982,Combined,KPK,1,1,203,181
+199,Govt High School  (GHS) Kushum,36.31226,72.28152,Combined,KPK,2,2,875,661
+274,Govt Girls Middle School Chuinj Payeen,36.31447,72.5658,Combined,KPK,1,1,384,320
+194,Govt Primary School  (GPS) Gaht,36.3166,72.21834,Combined,KPK,2,1,545,445
+198,Govt Priamary School (GPS) Kushum,36.31829,72.27841,Combined,KPK,2,2,887,605
+266,Govt Middle School Parkusap,36.31834,72.55402,Combined,KPK,1,1,603,535
+197,Govt Girls Middle School  (GGMS) Saht,36.32116,72.22987,Combined,KPK,2,1,439,309
+196,Govt Middle School (GMS) Saht,36.32504,72.23777,Combined,KPK,1,1,546,425
+200,Govt Priamary School (GPS) Zizdi,36.32578,72.33895,Combined,KPK,1,1,339,227
+275,Govt Boys High School Chuinj,36.3275,72.58395,Combined,KPK,3,1,549,485
+201,Govt High School (GHS)  Madak,36.34315,72.35105,Combined,KPK,2,1,589,383
+211,Govt Primary School Shagrom,36.34462,72.13353,Combined,KPK,1,1,310,181
+214,Govt Girls Primary School (GGPS) Warkup,36.35019,72.36395,Combined,KPK,1,1,471,343
+276,Govt Boys Primary School Kargin,36.3518,72.60944,Combined,KPK,2,1,526,488
+202,Govt Priamry School (GPS) Madak Payeen,36.35287,72.35435,Combined,KPK,1,1,436,303
+213,Govt  High School (GHS) Warkup,36.35463,72.36531,Combined,KPK,2,1,566,434
+210,Govt High School Warrimun,36.36557,72.17184,Combined,KPK,1,1,517,344
+203,Govt Primary School (GPS) Nishku,36.37358,72.36737,Combined,KPK,1,1,227,147
+204,Govt Girls Middle School (GGMS) Nishku,36.38557,72.36981,Combined,KPK,2,1,623,433
+215,Govt Middle School (GMS) Rayeen,36.39048,72.37762,Combined,KPK,1,1,424,280
+209,Govt High School Zondrangram,36.39058,72.21334,Combined,KPK,2,1,705,498
+268,Govt Middle School Khuzh,36.39093,72.61095,Combined,KPK,1,1,535,516
+216,Govt Primary School (GPS) Rayeen Bala,36.40095,72.37589,Combined,KPK,1,1,427,326
+223,Govt Boys Primary School Odir,36.40232,72.44988,Combined,KPK,1,1,462,332
+277,Govt Girls Primary School Brep,36.41002,72.64656,Combined,KPK,1,1,371,363
+222,Govt High School Melp,36.41592,72.45485,Combined,KPK,1,1,455,317
+224,Govt Girls Primary School Muzhgram,36.42373,72.48113,Combined,KPK,2,1,591,378
+278,Govt High School Brep,36.42519,72.65356,Combined,KPK,2,1,549,484
+207,Govt Primary School Parsang,36.42626,72.28696,Combined,KPK,1,1,266,171
+279,Basic Health Unit Brep,36.43193,72.65998,Combined,KPK,1,1,436,420
+208,Govt Middle School Terich Payeen,36.43522,72.30836,Combined,KPK,2,1,544,327
+217,Govt Primary School (GPS) Shirjuli,36.43575,72.4105,Combined,KPK,1,1,263,167
+205,Govt High School (GHS) Lonekoh Lasht,36.43584,72.354,Combined,KPK,2,1,806,500
+219,Govt Girls High School  (GGHS) Shagram Payeen,36.45062,72.41852,Combined,KPK,1,1,526,411
+269,Govt Primary School Istach,36.45358,72.66235,Combined,KPK,1,1,281,249
+206,Govt Primary School Longole,36.45541,72.36153,Combined,KPK,1,1,240,145
+218,Govt Higher Secondary School  (GHSS) Shagram,36.45763,72.4234,Combined,KPK,2,1,552,385
+221,Govt Girls Primary School (GGPS) Shotkhar,36.46576,72.42931,Combined,KPK,1,1,427,339
+220,Govt Girls Middle School (GGMS) Shotkhar,36.47262,72.43654,Combined,KPK,1,1,496,389
+270,Govt Middle School Dizg,36.47525,72.68597,Combined,KPK,1,1,510,437
+280,Govt Primary School (GPS) Phashk,36.48775,72.73792,Combined,KPK,1,1,283,243
+281,Govt Primary School (GPS) Mehting,36.49019,72.7279,Combined,KPK,1,1,158,136
+229,Govt Middle School Washich,36.49379,72.42786,Combined,KPK,2,2,824,695
+230,Govt Primary School Zanglasht,36.50187,72.43804,Combined,KPK,1,1,432,334
+228,Govt High School Khot,36.50197,72.51171,Combined,KPK,2,2,864,681
+226,Basic Health Unit Khot,36.50372,72.48843,Combined,KPK,2,2,785,604
+225,Govt Primary School Khot Payeen,36.5044,72.49321,Combined,KPK,2,2,789,614
+227,Govt Primary School Khot Bala,36.50496,72.54601,Combined,KPK,2,1,762,566
+282,Govt Primary School Birzoz,36.50567,72.74667,Combined,KPK,1,1,178,141
+288,Govt Primary School Miragaram No.2,36.52088,72.77436,Combined,KPK,1,1,543,455
+283,Govt High School Bang,36.52376,72.76778,Combined,KPK,1,1,517,494
+289,Govt Primary School Emit,36.54297,72.79578,Combined,KPK,1,1,145,141
+231,Govt High School Ujnu,36.55465,72.47047,Combined,KPK,2,2,779,573
+284,Govt Primary School Patrangaz,36.5556,72.80486,Combined,KPK,1,1,220,191
+285,Govt Primary School Pawar,36.57756,72.82994,Combined,KPK,1,1,297,254
+286,Govt Primary School Wasum,36.58851,72.88363,Combined,KPK,1,1,263,216
+287,Govt High School Zupoo,36.59508,72.89925,Combined,KPK,1,1,194,153
+232,Govt High School Rech,36.60112,72.53186,Combined,KPK,2,2,788,676
+290,Govt Primary School Gazan,36.60448,72.92941,Combined,KPK,1,1,175,145
+233,Govt Middle School Sor Rech,36.62915,72.55914,Combined,KPK,2,2,787,593
+291,Govt Primary School Dubargar,36.68224,72.91312,Combined,KPK,1,1,267,210
+292,Govt Primary School Shoosht,36.74857,72.93717,Combined,KPK,2,1,601,502
+293,Govt Middle School Yarkhoon Lasht,36.7924,73.02163,Combined,KPK,1,1,542,417
+294,Govt Primary School Boroghul,36.81295,73.31622,Combined,KPK,1,1,360,289

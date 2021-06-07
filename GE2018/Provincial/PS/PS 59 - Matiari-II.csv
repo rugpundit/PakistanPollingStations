@@ -1,0 +1,170 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+96,GBPS- Jam Samoon (Combined),25.45787,68.5709,Combined,Sindh,2,2,652,622
+94,GBHS- Tajpur (Male),25.47026,68.59201,Male,Sindh,4,0,2313,0
+95,GBHS- Tajpur (Female),25.47059,68.59184,Female,Sindh,0,4,0,2024
+88,GBPS-Suleman Khatian (Combined),25.47425,68.53974,Combined,Sindh,2,2,587,471
+89,GBMS- Arif Khatian (Combined),25.4807,68.55324,Combined,Sindh,1,1,576,520
+58,GBPS Mustaq Hajano (combined),25.49028,68.41695,Combined,Sindh,1,1,258,213
+84,GBHS Allah Dino Sandh (Combined),25.50155,68.51937,Combined,Sindh,2,2,605,522
+85,GBHS Allah Dino Sandh (Combined),25.50155,68.5194,Combined,Sindh,2,1,548,418
+86,GBPS- Allah Dino Sand (Combined),25.50184,68.52048,Combined,Sindh,2,2,589,558
+87,GBPS Allah Dino Sand (Combined),25.50184,68.52051,Combined,Sindh,2,2,556,436
+92,GBLSS- Sanghar Soomro (Combined),25.50542,68.5847,Combined,Sindh,2,2,537,407
+93,GBLSS Sanghar  Soomro (Combined),25.50542,68.58473,Combined,Sindh,1,1,289,197
+55,GBPS-Ghulam Hyder Joya(Combined),25.51139,68.48139,Combined,Sindh,2,2,674,552
+82,GBHS- Shahpur Darpur (Combined),25.51637,68.55407,Combined,Sindh,2,2,848,747
+83,GBHS  Shapur Darpur (Combined),25.51637,68.5541,Combined,Sindh,1,1,394,353
+80,GBPS- Shahpur Darpur (Combined),25.51667,68.55278,Combined,Sindh,2,2,823,752
+81,GBPS Shapur Darpur (Combined),25.51667,68.55281,Combined,Sindh,1,1,263,194
+57,GBPS- Dalel Mangrio (Combined),25.51917,68.47056,Combined,Sindh,2,2,643,549
+90,GBPS- Abdullah Unar(Combined),25.52644,68.58556,Combined,Sindh,2,1,452,383
+56,GBLSS- Penar Hampota (Combined),25.53121,68.4968,Combined,Sindh,2,2,626,447
+50,GBPS-Jaindal Kot (Combined),25.5341,68.46158,Combined,Sindh,2,1,364,288
+51,GGPS Jaindal Kot (Combined),25.53444,68.46167,Combined,Sindh,2,2,712,553
+91,GBPS Abdullah Chutto (Combined),25.54,68.58778,Combined,Sindh,2,1,470,400
+52,GBPS- Jumma Khan Khosa (Combined),25.54549,68.49712,Combined,Sindh,2,2,539,433
+44,GBPS Soomar Chand (Male),25.54903,68.44389,Male,Sindh,2,0,917,0
+45,GBLSS Soomar Chand (Female),25.54944,68.44389,Female,Sindh,0,2,0,862
+53,GPS Kot Farooque (Combined),25.55464,68.52299,Combined,Sindh,2,1,512,413
+48,GBPS Dodo Mangwano (Combined),25.5549,68.48071,Combined,Sindh,2,2,619,578
+49,GDLSS- Shaikh Teer (Combined),25.55529,68.46722,Combined,Sindh,2,1,622,469
+78,GBPS  Kanbho Khan Batti (Combined),25.55556,68.57389,Combined,Sindh,2,1,462,385
+77,GBPS- Bux Batti (Combined),25.55713,68.57677,Combined,Sindh,2,1,490,387
+74,GBHSS-Palejani (Combined),25.5621,68.5671,Combined,Sindh,2,1,418,408
+75,GBHSS Palijani (Combined),25.5621,68.56713,Combined,Sindh,2,2,706,529
+46,GBPS Memon Ji Wasi (Combined),25.56539,68.43652,Combined,Sindh,2,2,498,561
+54,GBPS Mosque School Suleman Khaskheli (Combined),25.5675,68.56001,Combined,Sindh,2,2,609,534
+71,GBPS- Palijani (Combined),25.56764,68.55987,Combined,Sindh,1,1,347,367
+72,GBPS Palijani (Combined),25.56764,68.5599,Combined,Sindh,2,2,530,423
+73,GBPS- Ahmed Khan Detho alias Lal Khan Batti (Combined),25.56955,68.55529,Combined,Sindh,2,1,455,362
+79,GBPS- Aloo Palijo (Combined),25.57275,68.58646,Combined,Sindh,2,2,583,501
+76,GBPS- Muhib Palijo (Combined),25.57276,68.60771,Combined,Sindh,2,1,435,362
+47,GGPS Qasim ji Wasi (Combined),25.57428,68.47898,Combined,Sindh,2,1,485,434
+59,GBPS- Hafiz Ali Muhammad Detho (Combined),25.57609,68.55121,Combined,Sindh,2,2,558,485
+60,GBPS Hafiz Ali Muhammad Detho(Combined),25.57609,68.55124,Combined,Sindh,2,1,478,370
+69,GBPS Jumo Faqeer Barejo (Combined),25.58133,68.6134,Combined,Sindh,1,1,405,302
+64,GBPS- Hussain Bhambhro (Combined),25.58316,68.49017,Combined,Sindh,2,2,597,484
+143,GBPS Hala Haveli (Combined),25.58361,68.64861,Combined,Sindh,2,2,566,474
+42,GBPS Sahib Sama (Male),25.58491,68.43512,Male,Sindh,2,0,736,0
+43,GBPS Sahib Sama (Female),25.58491,68.43515,Female,Sindh,0,2,0,613
+40,GGPS Dato Bhatti (Combined),25.58585,68.45123,Combined,Sindh,3,3,1089,972
+65,GBPS  Kot Sadiq Memon (Combined),25.58805,68.50333,Combined,Sindh,2,2,764,630
+70,GBPS- Ayoub Barejo (Combined),25.58854,68.60503,Combined,Sindh,2,2,606,480
+41,GBPS Rasheed Tagar (Combined),25.59397,68.46905,Combined,Sindh,1,1,545,474
+17,GBPS Kachi Mohallah (Combined),25.59513,68.44096,Combined,Sindh,2,2,603,539
+6,GGHS-Matiari (Female),25.59519,68.44492,Female,Sindh,0,2,0,855
+5,UC office Matirai (Male),25.59524,68.44183,Male,Sindh,3,0,989,0
+4,Govt: Girls College Matiari (Female),25.59551,68.44455,Female,Sindh,0,2,0,481
+2,Govt: Girls College Matiari (Female),25.59551,68.44458,Female,Sindh,0,2,0,624
+8,Govt. Girls College- Matiari (Female),25.59551,68.44461,Female,Sindh,0,2,0,703
+14,GGC- Matiari (Female),25.59551,68.44464,Female,Sindh,0,3,0,913
+16,GGC Matiari (Female),25.59551,68.44467,Female,Sindh,0,2,0,810
+10,GGPS- Matiari (Female),25.59558,68.44482,Female,Sindh,0,1,0,147
+12,GGPS Matiari (Female),25.59558,68.44485,Female,Sindh,0,3,0,1081
+11,GBPS Main Matiari (Male),25.5956,68.44489,Male,Sindh,4,0,1283,0
+9,GBPS Muslim Matiari (Male),25.5956,68.44492,Male,Sindh,1,0,175,0
+1,GMDMS Matiari (Male),25.59613,68.4445,Male,Sindh,2,0,768,0
+3,GMDMS- Matiari (Male),25.59613,68.44453,Male,Sindh,2,0,552,0
+7,Govt: Muhammad Dawood High School Matiari (Male),25.59613,68.44456,Male,Sindh,2,0,806,0
+15,GMDHS (Male),25.59613,68.44459,Male,Sindh,2,0,985,0
+13,GMDMS- Matiari (Male),25.59613,68.44462,Male,Sindh,3,0,1133,0
+68,GBPS-Integrated Chanesar Chutto (Combined),25.59941,68.61288,Combined,Sindh,2,2,482,434
+39,GPS- Jaima Ghuosia Tahiriya Matiari (Male),25.60425,68.44855,Male,Sindh,4,0,1834,0
+66,GBPS- Bau Khan Pathan (Combined),25.6066,68.59686,Combined,Sindh,2,2,567,497
+67,GBPS- Bau Khan Pathan (Combined),25.6066,68.59689,Combined,Sindh,1,1,466,364
+146,GBPS Parsi Farm (Combined),25.60913,68.62651,Combined,Sindh,2,2,583,494
+145,GBPS Haji Jumo Khan Makrani Baloch (Combined).,25.61117,68.6437,Combined,Sindh,2,1,500,360
+38,GPS- Sono Khan Khushk (Felame),25.61232,68.45552,Female,Sindh,0,4,0,1700
+109,GBPS Makkan Shah Ji Wasi (Combined),25.61702,68.47208,Combined,Sindh,2,2,618,510
+61,Govt.Dispensary- Shamir Ji Wasi (Combined),25.61739,68.51909,Combined,Sindh,1,1,406,382
+62,Govt.Dispensary- Shamir Ji Wasi (Combined),25.61739,68.51912,Combined,Sindh,2,2,485,444
+63,GBPS Elemantry School Shahmir Ji Wasi (Combined),25.62028,68.52194,Combined,Sindh,2,2,514,495
+36,Govt: ( Boys) Primary School Misiri Jakherja (Combined),25.62094,68.4412,Combined,Sindh,2,2,684,676
+144,GBPS Haji Khizar Chutto (Combined),25.62111,68.61,Combined,Sindh,2,2,529,539
+37,Govt: Boys Primary School Male Ji Wasi (Combined),25.62691,68.45378,Combined,Sindh,2,2,676,620
+107,GBHS Baudero (Combined),25.63063,68.49233,Combined,Sindh,2,2,616,537
+108,GBHS Baudero (Combined),25.63063,68.49236,Combined,Sindh,2,2,508,498
+20,GHSS Oderal Satation (Combine),25.63198,68.59408,Combined,Sindh,2,1,433,356
+21,GHSS Oderolal Station (Combined),25.63198,68.59411,Combined,Sindh,1,1,392,337
+18,GHS Oderoalal Station (Combined),25.6321,68.59352,Combined,Sindh,2,2,559,441
+19,GHS Oderolal Staion (Combine),25.6321,68.59355,Combined,Sindh,2,1,474,382
+22,GGPS Oderolal Station (Combine),25.63226,68.59377,Combined,Sindh,2,2,643,544
+23,GGPS  Oderolal Station (Combined),25.63226,68.5938,Combined,Sindh,1,1,399,320
+24,GGHS  Oderolal Station (Combined),25.63226,68.59383,Combined,Sindh,2,1,470,385
+25,GGHS Oderolal Staion (Combine),25.63226,68.59386,Combined,Sindh,2,1,300,261
+141,GBPS Haji Sher Muhammad Makrani Balouch (Combined),25.63639,68.65195,Combined,Sindh,2,2,846,715
+142,GBPS Haji Ismail Baloch (Combined),25.63933,68.65672,Combined,Sindh,2,2,649,598
+140,GBPS Gamo Mirjat (Combined),25.63944,68.63458,Combined,Sindh,2,1,491,392
+148,GBPS Shahdad Jat (Combined),25.64222,68.56445,Combined,Sindh,2,2,590,493
+149,GBPS- Allah Dino Chand (Combined).,25.64222,68.56448,Combined,Sindh,2,2,664,571
+147,Irrigation Bungalow (Deh Dari Mori (Combined),25.64258,68.5599,Combined,Sindh,2,2,745,596
+124,GBPS Muhammad Ali Khan Khushk (Combined),25.64271,68.55634,Combined,Sindh,2,2,380,416
+125,GBLLS Muhammad Ali Khan Khushk (Combined),25.64278,68.55611,Combined,Sindh,2,2,239,253
+135,GGPS Muhammad Abra (Combined),25.64722,68.60973,Combined,Sindh,1,1,222,187
+134,GBPS Muhammad Abra (Combined),25.64861,68.60583,Combined,Sindh,2,2,562,619
+104,GGHS Sekhat (Combined),25.64871,68.49705,Combined,Sindh,2,2,636,627
+105,GGHS Sekhat (Male),25.64871,68.49708,Male,Sindh,3,0,1203,0
+106,GGHS Sekhat (Female),25.64871,68.49711,Female,Sindh,0,3,0,1046
+122,GBPS Khidryoon (Combined),25.65696,68.57516,Combined,Sindh,2,1,463,379
+132,BHU Dhalo Khaskhali (Combined).,25.65805,68.67139,Combined,Sindh,2,2,494,426
+139,GBPS Allah Bux Mirjat (Combined),25.65807,68.65311,Combined,Sindh,2,2,786,618
+103,GBPS Akhund Jo Khoh (Combined),25.65822,68.53909,Combined,Sindh,2,2,830,739
+138,GBPS Nobat Mari (Combined),25.66236,68.64854,Combined,Sindh,2,2,525,498
+136,GHS Tahir Hingoro (Combined),25.66534,68.63437,Combined,Sindh,1,1,313,232
+137,GHS Tahir Hingoro (Combined),25.66534,68.6344,Combined,Sindh,2,1,543,383
+102,GBPS- Muhammad Soomar Burdi (Combined),25.66539,68.51386,Combined,Sindh,2,2,673,610
+133,GBPS Punhoo Hingoro (Combined),25.67111,68.66444,Combined,Sindh,1,1,338,280
+123,GBPS Mitho Khoso (Combined),25.67219,68.54207,Combined,Sindh,2,2,455,456
+166,GPMS Idress (Adur) Fakir (Combined),25.67557,68.50076,Combined,Sindh,2,2,678,564
+169,GBPS Bachal Waryah (Combined),25.67557,68.50079,Combined,Sindh,2,2,481,423
+101,GBPS- Meenhon Macchi (Combined),25.67576,68.52753,Combined,Sindh,2,2,446,476
+121,GGPS Bhiryoon @ GBMS Pinyo Khidri (Combine),25.67631,68.56601,Combined,Sindh,2,2,623,552
+163,GBHS Khyber (Female),25.68034,68.50257,Female,Sindh,0,2,0,613
+165,GBHS- Khyber (Female),25.68034,68.5026,Female,Sindh,0,2,0,783
+162,GBPS Khyber (Male),25.68047,68.50223,Male,Sindh,2,0,647,0
+164,GBPS Khyber (Male),25.68047,68.50226,Male,Sindh,2,0,885,0
+131,GGPS Whab Shah (Combined),25.68266,68.63303,Combined,Sindh,2,2,552,486
+119,GBPS Abu Bakar Moroja (Male),25.68286,68.56657,Male,Sindh,1,0,422,0
+120,GBPS Abu Bakar Moroja(Female),25.68286,68.5666,Female,Sindh,0,1,0,389
+130,GBPS Arzi Hakro (Combined),25.68341,68.60493,Combined,Sindh,2,2,930,694
+129,GBPS Khalifo Yar Muhammad (Combined),25.68757,68.58237,Combined,Sindh,2,2,335,281
+97,GBPS- Rasheed Khyber (Combined).,25.68944,68.52214,Combined,Sindh,2,2,471,467
+100,GBLSS Jumoon Shahok (Combined),25.69234,68.50637,Combined,Sindh,1,1,334,276
+99,GBPS-Jumo Shahook (Combined).,25.69252,68.50607,Combined,Sindh,2,1,457,382
+98,GBPS Ghalib Khyber New (Combined),25.69333,68.52639,Combined,Sindh,1,1,307,329
+116,GGHS Oderolal Village (Female),25.69986,68.5585,Female,Sindh,0,2,0,511
+118,GGHS Oderolal Village (Female),25.69986,68.55853,Female,Sindh,0,2,0,772
+115,GBHS Oderolal Village (Male),25.70174,68.56461,Male,Sindh,2,0,636,0
+117,GBHS Oderolal Village (Male),25.70174,68.56464,Male,Sindh,2,0,865,0
+127,GBPS Ghulam Shah Mari (Combined),25.7037,68.60735,Combined,Sindh,2,2,236,183
+128,GBPS Ghulam Shah Mari (Combined),25.7037,68.60738,Combined,Sindh,2,2,545,481
+110,GBPS Sher Muhammad Thorha (Male),25.70403,68.5455,Male,Sindh,3,0,1096,0
+111,GBPS Sher Muhammad Thorha (Female),25.70403,68.54553,Female,Sindh,0,3,0,974
+112,GGPS Sher Muhammad Thorha (Combined),25.70763,68.54656,Combined,Sindh,1,1,271,292
+113,GGPS Sher Muhammad Thora (Combined),25.70763,68.54659,Combined,Sindh,2,2,655,543
+126,GBPS Usman Khoso (Combined),25.71323,68.58197,Combined,Sindh,1,1,408,287
+153,GBPS Talib Noohpotoa (Female),25.71583,68.50639,Female,Sindh,0,2,0,944
+114,GBPS Darya Khan Dahri (Combined),25.71591,68.56454,Combined,Sindh,2,2,632,512
+151,GBLSS- Fakir Noohthiani (Female),25.72265,68.5251,Female,Sindh,0,2,0,929
+150,Basic Health Unit- Fakir Noohthiani (Male),25.72453,68.52461,Male,Sindh,3,0,1096,0
+152,GPS Dost Muhammad Dahri (Male),25.72536,68.51588,Male,Sindh,3,0,1115,0
+167,GBPS-Agham Wassan ( Male),25.73745,68.52078,Male,Sindh,2,0,745,0
+168,GBPS Agham Wasan (Female),25.73745,68.52081,Female,Sindh,0,2,0,792
+156,GBPS Punhoon Sahowal (Combined).,25.74815,68.51653,Combined,Sindh,2,2,591,520
+34,GBPS- Soof Bhacho (Combined),25.74841,68.44506,Combined,Sindh,1,1,309,229
+35,GBPS- Wado Salaro (Combined) (P),25.74841,68.44509,Combined,Sindh,2,2,787,655
+30,GBPS Khando (Male),25.74946,68.44926,Male,Sindh,2,0,765,0
+32,GBPS- Khando (Male),25.74946,68.44929,Male,Sindh,2,0,903,0
+31,GGPS - Khando (Female),25.7496,68.4492,Female,Sindh,0,2,0,677
+33,GGPS- Khando (Female),25.7496,68.44923,Female,Sindh,0,2,0,854
+157,UC Office Fakir Noohthani @ Khandu Road (Male),25.75229,68.50284,Male,Sindh,2,0,868,0
+161,GBPS- Col: Hashmi (Combined).,25.75293,68.55856,Combined,Sindh,2,1,749,667
+158,GBLS (Hondal Shoro) Khando Stop (Female),25.75306,68.50639,Female,Sindh,0,2,0,690
+154,GBPS Darya Khan Talpur (Male),25.77123,68.51515,Male,Sindh,3,0,1185,0
+155,GBPS Darya Khan Talpur (Female),25.77123,68.51518,Female,Sindh,0,3,0,1057
+28,GBPS-Gamoo Jarah (Combined),25.77158,68.44756,Combined,Sindh,2,2,853,791
+27,GBPS- Mahar Faqir (Laiqe Dino Faqir) (Combined),25.77284,68.46436,Combined,Sindh,1,1,455,439
+159,GBPS- Gul Sehto (Combined),25.77336,68.48876,Combined,Sindh,1,1,314,304
+160,GBPS Gul Sehto (Combined),25.77336,68.48879,Combined,Sindh,1,1,521,453
+26,GBPS- Shakal Chand (Combined),25.7852,68.4309,Combined,Sindh,2,2,689,671
+29,GBPS- Madarsa Muhammadia (Combined),25.79112,68.38654,Combined,Sindh,2,1,506,363

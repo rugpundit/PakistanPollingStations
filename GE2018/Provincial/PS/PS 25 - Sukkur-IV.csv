@@ -1,0 +1,169 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+68,Govt: Primary School Gosarji Sukkur (Male)(P),26.4286467,67.8622865,Male,Sindh,3,0,1375,0
+69,Govt: Primary School Gosarji Sukkur (Female)(P),26.4286467,67.8623165,Female,Sindh,0,3,0,1199
+73,Govt: Girls Primary School Tamachani (Female) (P),26.4286467,67.8623465,Female,Sindh,0,3,0,1372
+72,Govt: Boys Primary School Tamachani (Male)(P),26.4286467,67.8623765,Male,Sindh,4,0,1519,0
+83,Govt: primary Girls School Nasirabad (Female) (P),26.4286467,67.8624065,Female,Sindh,0,3,0,1275
+82,Govt: Middle School Nasirabad  (Male) (P),26.4286467,67.8624365,Male,Sindh,4,0,1592,0
+109,Govt: Boys Primary School New Yard Colony Rohri (Male)(P),27.6659149,68.9045922,Male,Sindh,2,0,985,0
+110,Govt: Boys Primary School New Yard Colony Rohri (Male)(P),27.6659149,68.9046222,Female,Sindh,0,2,0,821
+107,Union Council Office Long Bhatti (Male)(P),27.6811775,68.9239989,Male,Sindh,3,0,1126,0
+108,Union Council Office Long Bhatti (Female)(P),27.6811775,68.9240289,Female,Sindh,0,2,0,923
+115,Veterinary Hospital Rajib Ali Dayo (Com)(P),27.6811775,68.9240589,Combined,Sindh,2,2,837,688
+89,Badminton Hall Rohri (Com) (P) (Imrovised),27.6840507,68.8889435,Combined,Sindh,2,2,722,562
+91,Town Hall Rohri (Male)(P),27.6840507,68.8889735,Male,Sindh,3,0,1286,0
+92,Town Hall Rohri (Female)(P),27.6840507,68.8890035,Female,Sindh,0,3,0,1178
+93,Taluka Maternity Hospital Near MC office Rohri (Male)(P),27.6840507,68.8890335,Male,Sindh,4,0,1905,0
+94,Taluka Maternity Hopital Near MC office Rohri (Female)(P),27.6840507,68.8890635,Female,Sindh,0,4,0,1512
+106,Govt: High School Long Bhatti (Com)(P),27.6849601,68.9034744,Combined,Sindh,2,2,762,577
+113,Govt: Boys High School Badal Bakus Rohri (Male)(P),27.6856364,68.8774261,Male,Sindh,2,0,946,0
+114,Govt: Boys High School Badal Bakus Rohri (Female)(P),27.6856364,68.8774561,Female,Sindh,0,2,0,704
+103,Govt: Boys High School Badal Bakus Rohri (Com)(P),27.6856364,68.8774861,Combined,Sindh,1,1,464,283
+111,Govt: Food Lab Rohri (Male)(P),27.6877172,68.8878258,Male,Sindh,3,0,1082,0
+112,Govt: Food Lab Rohri (Female)(P),27.6877172,68.8878558,Female,Sindh,0,2,0,897
+116,Govt: Boys Primary School Loco Shed Rohri (Male)(P),27.6877172,68.8878858,Male,Sindh,3,0,1059,0
+117,Govt: Boys High School Loco Shed Rohri (Female)(P),27.6877172,68.8879158,Female,Sindh,0,3,0,896
+118,Govt: Girls Elementary/ Primary School Loco Shed After Railway Crosing Rohri (Male)(P),27.6877172,68.8879458,Male,Sindh,3,0,1303,0
+119,Govt: Girls Elementary/ Primary School Loco Shed After Railway Crosing Rohri (Female)(P),27.6877172,68.8879758,Female,Sindh,0,2,0,1080
+120,Govt: Girls High School Railway Loco Shed Rohri (Com)(P),27.6887935,68.8990034,Combined,Sindh,1,1,263,205
+101,Govt: High School Islamia Shahdado Muhalla Rohri (Male)(P),27.6890246,68.8982582,Male,Sindh,3,0,1402,0
+87,Govt: Girls Primary School Qazi Muhallah Upper Municipal Liabrary Rohri (Female)(P),27.6894052,68.8874532,Female,Sindh,0,2,0,940
+90,Govt: Primary School Mahindi-Jo-Pir Rohri (Com)(P),27.6894052,68.8874832,Combined,Sindh,2,2,717,597
+59,Shoukatul Islam Yateem Khana Bunder Station Jinnah Chowk Sukkur (Female) (P),27.6895053,68.8653862,Female,Sindh,0,2,0,955
+61,Shoukatul Islam Yateem Khana Bunder Station Jinnah Chowk Sukkur (Female) (P),27.6895053,68.8654162,Female,Sindh,0,2,0,1086
+86,Municipal Liabarary Rohri MPS (Male)(P),27.6895771,68.8863354,Male,Sindh,3,0,1107,0
+97,Govt: Primary School Shahdado Muhalla Rohri (Com)(P),27.6907128,68.8978856,Combined,Sindh,2,2,779,738
+100,Govt: Primary School Boy Elementry Main School Rohri (Com)(P),27.6907128,68.8979156,Combined,Sindh,1,1,510,428
+104,Govt: Girls High School Secondary Rohri (Com)(P),27.6907128,68.8979456,Combined,Sindh,2,1,572,428
+58,Rehabillitation Center for Special Childern Bunder Road Sukkur (Male) (P),27.69147475,68.87076538,Male,Sindh,2,0,1112,0
+96,Old Taluka Hospital Rohri (Com) (P),27.691702,68.8975131,Combined,Sindh,1,1,264,259
+56,Govt: Girls High School Ghat Sukkur (Male) (P),27.6917769,68.8729688,Male,Sindh,2,0,918,0
+57,Govt: Girls Primary School Ghat Sukkur (Female) (P),27.6917769,68.8729988,Female,Sindh,0,2,0,821
+54,Govt: Islamia Primary School Bunder Station Sukkur (Male) (P),27.6919568,68.8701702,Male,Sindh,2,0,826,0
+55,Govt: School Qadira Rizvia Sukkur (Female) (P),27.69223508,68.86940881,Female,Sindh,0,2,0,761
+98,Govt: Boys Primary School Islamia Shahdado Muhalla Rohri (Com)(P),27.6926265,68.8945324,Combined,Sindh,1,1,356,357
+99,Assistant District Office Rohri (Com)(P),27.6926265,68.8945624,Combined,Sindh,1,1,325,318
+88,Sui Southern Gas Company Office Near WAPDA Office Rohri (Com),27.6926857,68.894905,Combined,Sindh,1,1,481,457
+102,Union Council Office Rohri (Female) (P),27.6932941,68.8935704,Female,Sindh,0,3,0,1300
+52,Saint Sevior High School Sukkur (Male) (P),27.69356785,68.87302489,Male,Sindh,4,0,1456,0
+62,PG Male Dispensry Minara Road Sukkur(Male) (P),27.6935751,68.870722,Male,Sindh,4,0,1488,0
+53,Saint Sevior High School Sukkur (Female) (P),27.69360978,68.87303886,Female,Sindh,0,3,0,1272
+63,Govt: Islamia Shaheed Gunj Sukkur (Female) (P),27.6942754,68.8656101,Female,Sindh,0,3,0,1380
+64,Govt. Muslim Elementry School (Bagh-e-Hayat Ali Shah) Sukkur (Male) (P),27.6942906,68.8632348,Male,Sindh,3,0,1303,0
+66,Sindhi Employees Social Dispensry Bagh-e-Hayat Ali Shah Sukkur (Male) (P),27.6942906,68.8632648,Male,Sindh,4,0,1542,0
+67,Govt: Muslim Elementry School Bagh-e-Hayat Ali shah Sukkur (Female) (P),27.6942906,68.8632948,Female,Sindh,0,3,0,1383
+51,DMB High School Sukkur (Female) (P),27.6946177,68.8683114,Female,Sindh,0,2,0,735
+50,Govt: Primary School Agah Nizamuddin Sukkur (Male) (P),27.6949589,68.8679854,Male,Sindh,2,0,778,0
+65,Govt: Girls Primary School Bagh-e-Hayat Sukkur (Female) (P),27.6957474,68.8636074,Female,Sindh,0,3,0,1160
+37,Govt: Faran High School Sukkur (Male) (P),27.6963223,68.8740866,Male,Sindh,2,0,944,0
+35,Govt: High School Tamir Nau Regent Sukkur (Male) (P),27.69698965,68.87834192,Male,Sindh,4,0,1457,0
+32,Hira Public School Sukkur(Female) (P),27.69714038,68.87885727,Female,Sindh,0,2,0,988
+33,Hira Public School Sukkur(Male) (P),27.69714038,68.87888727,Male,Sindh,2,0,929,0
+34,Hira Public School Sukkur(Female) (P),27.69714038,68.87891727,Female,Sindh,0,2,0,812
+36,Govt: Primary School Tamir Nau Regent Sukkur (Female) (P),27.69728518,68.87816638,Female,Sindh,0,3,0,1240
+40,Govt: M.K High School Sukkur (Female) (P),27.6975447,68.876555,Female,Sindh,0,3,0,1138
+39,Govt: (N) Modern High School Sukkur (Male) (P),27.697769,68.8760427,Male,Sindh,3,0,1233,0
+41,Railway Boys High School Sukkur (Combined) (P),27.6978563,68.8680785,Combined,Sindh,1,1,267,243
+2,Government Boys Elementary School Wasspur Old Sukkur (Female) (P),27.6982392,68.8852127,Female,Sindh,0,2,0,794
+7,Government Boys Elementary School Wasspur Old Sukkur (Female) (P),27.6982392,68.8852427,Female,Sindh,0,3,0,1103
+44,Public Health Office Minara Road Sukkur (Male) (P),27.69827063,68.87367384,Male,Sindh,2,0,832,0
+5,Govt: Islamia Arts College Sukkur (Com) (P),27.6988269,68.8769276,Combined,Sindh,2,2,836,685
+3,Waiting Room District Jail Sukkur (Male) (P),27.6992008,68.8699414,Male,Sindh,2,0,823,0
+30,Govt: Islamia Arts College Sukkur (Female) (P),27.69925013,68.87720572,Female,Sindh,0,2,0,1146
+42,Conservator of Forest Office Sukkur (Male) (P),27.6993986,68.8703607,Male,Sindh,3,0,1060,0
+43,Conservator of Forest Office Sukkur (Female) (P),27.6994103,68.869336,Female,Sindh,0,2,0,949
+29,Govt: Islamia Science College Sukkur. (Male) (P),27.69959405,68.87749141,Male,Sindh,3,0,1275,0
+31,Government Primary School Tharmal Colony Sukkur (Male) (P),27.69998488,68.88285548,Male,Sindh,3,0,1249,0
+1,Govt: Primary School District Jail Sukkur (Male) (P),27.7012144,68.8795823,Male,Sindh,2,0,924,0
+95,Govt: Primary School Masjid Gurgage Muhallah Near River Indus Rohri (Com)(P),27.7013096,68.8744125,Combined,Sindh,2,2,908,820
+105,Govt: Girls Primary School Kot Mir Yaqoob Ali Shah Rohri (Com)(P),27.7013096,68.8744425,Combined,Sindh,2,2,731,666
+47,Danish Public School Sukkur (Female) (P),27.70297616,68.87612104,Female,Sindh,0,2,0,887
+46,Danish Public School Sukkur (Male) (P),27.70298817,68.87617103,Male,Sindh,2,0,1021,0
+45,Govt: Primary School Nusrat Colony No-06 (Female) (P),27.70334352,68.87741188,Female,Sindh,0,2,0,746
+6,Al-Madina Public School Old Sukkur (Male) (P),27.7041466,68.8826241,Male,Sindh,3,0,1331,0
+22,Govt: Girls higher Secondary School Old Sukkur (Male) (P),27.7043135,68.878407,Male,Sindh,3,0,1336,0
+48,Govt: Girls Higher Secondary School Old Sukkur (Male),27.70441055,68.87879406,Male,Sindh,4,0,1637,0
+49,Govt: Girls Higher Secondary School Old Sukkur (Female),27.70441055,68.87882406,Female,Sindh,0,4,0,1450
+17,Govt: Girls (N) Sayda Fatima Elementry School Old Sukkur (Female) (P),27.7045536,68.8800196,Female,Sindh,0,2,0,683
+4,Fatimatuzehra Maternaty Home Child Care Old Sukkur (Female)(P),27.705372,68.8826562,Female,Sindh,0,2,0,700
+19,Govt: Mehran High School Tanga Stand Old Sukkur (Female) (P),27.7055095,68.8796754,Female,Sindh,0,2,0,907
+14,Govt: Primary School Main Old Sukkur (Male) (P),27.7055573,68.8795597,Male,Sindh,3,0,1145,0
+15,Govt: Primay School Main Old Sukkur (Female) (P),27.7055573,68.8795897,Female,Sindh,0,3,0,1107
+16,Govt: Munispal High School Tanga Stand Old Sukkur (Male) (P),27.7055573,68.8796197,Male,Sindh,2,0,752,0
+20,Main Prymary School Old Sukkur (Male) (P),27.7055573,68.8796497,Male,Sindh,3,0,1277,0
+21,Main Prymary School Old Sukkur (Female) (P),27.7055573,68.8796797,Female,Sindh,0,3,0,1136
+18,Govt: (P) Municipal (Boys) High School Old Sukkur (Male) (P),27.7055673,68.8794891,Male,Sindh,2,0,1020,0
+23,Govt: Girls Primary School Narishal Old Sukkur (Female) (P),27.7059152,68.8789303,Female,Sindh,0,2,0,1102
+28,Railway Traik Supply Depu Sukkur (Female) (P),27.70620839,68.87138838,Female,Sindh,0,4,0,1700
+26,Railway Traik Supply Depu Sukkur (Male) (P),27.70622223,68.87138099,Male,Sindh,2,0,1054,0
+27,Railway Traik Supply Depu Sukkur (Male) (P),27.70622223,68.87141099,Male,Sindh,2,0,879,0
+76,Govt: Boys High School Bagerji (Male)(P),27.7067896,68.8458217,Male,Sindh,4,0,1829,0
+11,Govt: Dispensry Female Old Sukkur Jinnat Building (Female) (P),27.70767745,68.87978058,Female,Sindh,0,3,0,1159
+8,Govt: Boys Islamia Elementary School Royal Road Old Sukkur. (MALE)(P),27.7076963,68.8813979,Male,Sindh,4,0,1462,0
+10,Govt: Boys Islamia Elementary School Royal Road Old Sukkur. (MALE)(P),27.7076963,68.8814279,Male,Sindh,3,0,1211,0
+9,Govt: Girls Islamia Elementary/Primary School Royal Road Old Sukkur (Female) (P),27.7076963,68.8814579,Female,Sindh,0,3,0,1302
+12,Govt: High School Numaish Colony Old Sukkur (Male) (P),27.70991176,68.87657886,Male,Sindh,3,0,1226,0
+13,Govt: High School Numaish Colony Old Sukkur (Male) (P),27.70991176,68.87660886,Female,Sindh,0,2,0,996
+24,Govt: High School Numaish Colony Old Sukkur (Com) (P),27.70991176,68.87663886,Combined,Sindh,2,2,621,537
+70,Govt: Middle Boys School Village Deha (Male)(P),27.748188,68.8077242,Male,Sindh,4,0,1438,0
+71,Govt: Girls Primary School Village Deha (Female)(P),27.748188,68.8077542,Female,Sindh,0,3,0,1316
+85,IRRIGATION BUNGLOW PANJBAND NEAR VILLAGE SOOFAN WARO (Com) (P),27.7508225,68.8056389,Combined,Sindh,2,2,633,531
+74,Govt: Primary Boys School Bagerji (Male)(P),27.7575908,68.7567774,Male,Sindh,2,0,1001,0
+75,Govt: Primary Boys School Bagerji (Female)(P),27.7575908,68.7568074,Female,Sindh,0,2,0,844
+77,Govt: Girls High School Bagerji (Female) (P),27.7575908,68.7568374,Female,Sindh,0,4,0,1628
+80,Govt: Boys Primnary School Village Ghumra (Male) (P),27.7575908,68.7568674,Male,Sindh,4,0,1423,0
+159,GovtL Grls Middle School Tharichani (Female)(P),27.75996819,69.04558666,Female,Sindh,0,3,0,1170
+160,Govt: Boys Primary School Tharichani (Com),27.75996819,69.04561666,Combined,Sindh,2,1,636,487
+158,GovtL Grls Middle School Tharichani (Male)(P),27.75996954,69.04557274,Male,Sindh,4,0,1421,0
+157,Govt: Primary School Miran Pur Saeedki (Com) (P),27.76021329,69.05897236,Combined,Sindh,2,2,917,741
+162,Govt: Boys Primary School Sangi (Female)(P),27.76098613,69.03988429,Female,Sindh,0,2,0,1076
+161,Govt: Boys Primary School Sangi (Male)(P),27.76099526,69.03989767,Male,Sindh,3,0,1385,0
+78,Govt: Boys High School Village Ghumra (Male) (P),27.766719,68.749275,Male,Sindh,4,0,1692,0
+79,Govt: Boys High School Village Ghumra (Female) (P),27.766719,68.749305,Female,Sindh,0,4,0,1609
+81,Govt:  Primnary School Village Kalori Ghumra (Female) (P),27.766719,68.749335,Female,Sindh,0,3,0,1318
+167,Govt: Primary School Molvi Abdul Wahab (Male)(P),27.7680394,68.99458424,Male,Sindh,3,0,1125,0
+168,Govt: Primary SchoolMolvi Abdul Wahab (Female)(P),27.76806434,68.9945982,Female,Sindh,0,2,0,958
+84,Village Faqeer Muhammad Jatoi- Near Site Area Sukkur (Com) (T),27.77523,68.86523,Combined,Sindh,1,1,280,204
+151,Govt: Boys Primary School Hingoro.(Com) (P),27.79000259,69.07797296,Combined,Sindh,2,1,661,486
+152,Govt: High School Hingoro (Male) (P),27.79187196,69.07758026,Male,Sindh,3,0,1200,0
+153,Govt: High School Hingoro (Female) (P),27.79187196,69.07761026,Female,Sindh,0,2,0,1020
+149,Govt: Primary School Bag Pai Pano Akil (Male) (P),27.79255116,69.0481107,Male,Sindh,2,0,1119,0
+155,Govt: Primary School Waryam Jatoi (Male) (P),27.80408092,69.04423578,Male,Sindh,2,0,1026,0
+156,Govt: Primary School Waryam Jatoi (Female) (P),27.80408092,69.04426578,Female,Sindh,0,2,0,906
+154,Govt: Girls Primary School Haji Khan Ghunio (Com)(P),27.80638241,69.08219856,Combined,Sindh,2,2,740,603
+163,Govt: Boys Primary School Ishaque Indhar (Com)(P),27.80897136,68.98328592,Combined,Sindh,1,1,359,267
+164,Govt: Boys Primary School Panhwari  (Com)(P),27.81869545,69.01804248,Combined,Sindh,2,1,554,433
+165,Govt: Boys Primary School Soomra (Male) (P),27.82360472,69.02348159,Male,Sindh,3,0,1268,0
+172,Govt: Primary School Hussain Beli (Com)(P),27.82400312,68.96835914,Combined,Sindh,1,1,36,36
+166,Govt: Middle School Soomra (Female) (P),27.82495425,69.0225991,Female,Sindh,0,2,0,1093
+131,Govt: Boys Primary School Arazi Saidki (Male) (P),27.82743416,69.07332777,Male,Sindh,2,0,878,0
+136,Govt: Boys Primary School Kot Sadique Shah (Com) (P),27.83218556,69.08668951,Combined,Sindh,2,2,735,556
+132,Govt: Girls Primary School Haroon Jatoi (Female) (P),27.83381576,69.05485336,Female,Sindh,0,2,0,711
+134,Govt: Girls Primary School Nuraja Pano Akil (Female) (P),27.83381576,69.05488336,Female,Sindh,0,2,0,774
+135,Govt: High School Noraja (Com) (P),27.83781654,69.05181133,Combined,Sindh,2,2,755,615
+171,Govt: Primary School Umaid Ali Mahar (Com) (T),27.84022237,68.95737213,Combined,Sindh,1,1,411,289
+173,Irrigation Bunglow near village sarfoo (Com)(P),27.84972684,68.83123368,Combined,Sindh,1,1,487,395
+170,Govt: Primary School Raza Goth (Com)(P),27.85676107,69.00924586,Combined,Sindh,2,2,916,656
+169,Govt: Primary School Phullu Goth (Com)(P),27.86082033,69.01315144,Combined,Sindh,1,1,625,439
+126,Govt: Boys Primary School Sain Dino Chachar (Com) (P),27.8622985,69.1503217,Combined,Sindh,2,2,675,554
+124,Govt: Boys Primary School Jumo Jiskani (Male) (T),27.86980578,69.13393137,Male,Sindh,3,0,1405,0
+125,Govt: Girls Primary School Jumo Jiskani (Female) (T),27.86980578,69.13396137,Female,Sindh,0,3,0,1176
+123,Govt: Boys Primary School Bhellar (Com) (P),27.8836569,69.1304556,Combined,Sindh,2,2,790,623
+129,Govt: Boys Primary School Redhi  (Male) (P),27.8900162,69.10096722,Male,Sindh,3,0,1241,0
+130,Govt: Boys Primary School Redhi  (Female) (P),27.8900162,69.10099722,Female,Sindh,0,3,0,1166
+127,Govt: Boys Primary School Kot Sher Muhammad Bullo (Male),27.89076297,69.13676254,Male,Sindh,3,0,1367,0
+128,Govt: Boys Primary School Kot Sher Muhammad Bullo (female) (P),27.89076297,69.13679254,Female,Sindh,0,3,0,1234
+121,Govt: Boys Primary School Hussain Kalwar (Male) (P),27.90168937,69.11576899,Male,Sindh,3,0,1318,0
+147,Govt: Boys Lower Secondary School Ismail Zangajo(Male) (P),27.90517683,69.13349095,Male,Sindh,3,0,1215,0
+148,Govt: Primary School Ismail Zangajo(Female) (P),27.90517683,69.13352095,Female,Sindh,0,2,0,990
+122,Basic Health Unit Hussain Kalwar (Female) (P),27.90876206,69.11770013,Female,Sindh,0,2,0,1052
+145,Govt: Girls Primary School Usman Korai (Male) (P),27.91743454,69.15823552,Male,Sindh,2,0,869,0
+146,Govt: Girls Primary School Usman Korai (Female) (P),27.91743454,69.15826552,Female,Sindh,0,2,0,617
+142,Govt: High School Samo Chachar (Male) (P),27.93335823,69.11956938,Male,Sindh,3,0,1331,0
+143,Govt: High School Samo Chachar. (Female) (T),27.93335823,69.11959938,Female,Sindh,0,2,0,940
+140,Govt: Middle School Phullani (Com) (P),27.94205735,69.0789364,Combined,Sindh,2,1,567,523
+139,Govt: Boys Primary School Shahpur (Com) (P),27.95063462,69.10093978,Combined,Sindh,2,1,669,539
+144,Govt: Boys Primary School Sadhoja (Com) (P),27.96080903,69.1098511,Combined,Sindh,2,1,646,533
+141,Govt: Boys Primary School Jam Khizar Chachar (Imp) (Com) (P),27.96084376,69.07580596,Combined,Sindh,2,2,884,641
+137,Govt. Dispensary Umar Chachar (Male) (P),27.98944257,69.06179655,Male,Sindh,2,0,952,0
+138,Govt. Dispensary Umar Chachar (Female) (P),27.98944257,69.06182655,Female,Sindh,0,2,0,746

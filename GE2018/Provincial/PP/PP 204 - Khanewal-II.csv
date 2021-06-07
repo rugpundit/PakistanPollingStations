@@ -1,0 +1,168 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+92,Govt Girls Primary School Bahadar Wala,30.3074482,71.9349201,Combined,Punjab,2,2,611,527
+93,Govt Gilrs Primary School Bahadar Wala,30.3074482,71.9349501,Combined,Punjab,1,1,477,334
+44,Office of the U/C Kot Bahadir,30.3082198,71.937676,Male,Punjab,3,0,1276,0
+45,Office of the U/C Kot Bahadir,30.3082198,71.937706,Female,Punjab,0,2,0,885
+46,Govt Boys Primary School Kory Wala,30.3082198,71.937736,Male,Punjab,3,0,1345,0
+47,Govt Boys Primary School Kory Wala,30.3082198,71.937766,Female,Punjab,0,3,0,1030
+48,Govt Boys Primary School Chak No 14/V,30.3082198,71.937796,Combined,Punjab,2,2,1056,766
+49,Govt Girls Primary School Chak No 13/V,30.3082198,71.937826,Combined,Punjab,2,2,937,697
+121,Govt Boys Middle School  Darkhawast wala -kohi Wala,30.327200378075773,71.75052376880687,Male,Punjab,2,0,590,0
+114,Govt Boys Primary School  Kotla syed Kabir,30.327275211678135,71.71868323327696,Combined,Punjab,2,2,955,685
+117,Govt Boys Primary School  Inayat Pur (Gharib Abad) (IInd Portion),30.32852,71.73321,Combined,Punjab,1,1,397,341
+123,Govt Girls Primary School Chah Tolay Wala -Kohi Wala,30.3293611001263,71.7469767590004,Female,Punjab,0,1,0,422
+122,Govt Girls Primary School  Darkhawast wala,30.33215,71.76948,Combined,Punjab,2,1,613,364
+120,Govt Boys High School Haji Pur,30.340632201153188,71.72841125505067,Combined,Punjab,2,1,684,488
+110,Govt Boys Middle School  Korai Balouch (Ist Portion),30.344337796222273,71.69070625141526,Male,Punjab,4,0,1697,0
+111,Govt Boys Middle School  Korai Balouch (IInd  Portion),30.344337796222273,71.6907362514153,Female,Punjab,0,3,0,1256
+113,Office of Union Council Moonganwala,30.358754664958777,71.70969373222707,Female,Punjab,0,2,0,912
+115,Govt Boys Primary School  Inayat Pur (Ist Portion),30.35882631905689,71.7404674258008,Combined,Punjab,2,1,551,400
+116,Govt Boys Middle School  Inayat Pur (Ist Portion),30.35882631905689,71.7404974258008,Combined,Punjab,2,2,701,523
+112,Govt. Model  Middle School  Moongawala,30.358844016102214,71.70897462423271,Male,Punjab,3,0,1190,0
+130,Govt Boys Middle School  Mirali Wala Okanwala,30.359367277316498,71.7835548082898,Combined,Punjab,2,2,943,635
+131,Govt Boys Middle School  Mirali Wala Okanwala,30.359367277316498,71.7835848082898,Combined,Punjab,1,1,386,377
+53,Govt Girls High  School  Jawaind Singh wala  5 / Kassi (Ist Portion),30.3619181,71.805339,Male,Punjab,2,0,933,0
+54,Govt Girls High  School  Jawaind Singh wala 5/ Kassi  (IInd  Portion),30.3619181,71.805369,Female,Punjab,0,2,0,774
+42,Govt Girls Middle School 12/Qitta,30.3620594,71.8077709,Combined,Punjab,2,1,614,468
+50,Govt Boys High School Chak No 5/Kassi (Ist Portion),30.3638254,71.8019568,Male,Punjab,4,0,1466,0
+51,Govt Boys High School Chak No 5/Kassi (Ist Portion),30.3638254,71.8019868,Combined,Punjab,2,2,1038,703
+52,Govt Boys High School Chak No 5/Kassi (IInd  Portion),30.3638254,71.8020168,Female,Punjab,0,3,0,1206
+119,Govt Girls Primary School Shah Pur Nathuwala,30.364122468270775,71.75388895409051,Combined,Punjab,2,2,591,520
+118,Govt. Girls Pry. School Chak Wali Dad,30.370849219433374,71.74374186744782,Combined,Punjab,1,1,358,279
+166,Govt Girls Middle School Bolachan,30.37643828292853,71.66246479294536,Combined,Punjab,2,2,776,653
+164,Govt Boys Primary School Qaim wala (Balochan),30.37654,71.64282,Combined,Punjab,1,1,410,326
+57,Govt Girls Middle  School 3/Kassi (Basti Syedaan ),30.3767725,71.8198101,Combined,Punjab,2,1,589,463
+132,Govt Model Primary School  Shah Wala (Okanwala),30.37963410208652,71.72044198229908,Combined,Punjab,2,2,1008,741
+133,Govt Boys Primary School  Qureshiwala (Okanwala)(Ist Portion),30.380422787955176,71.76371732552825,Male,Punjab,3,0,1220,0
+134,Govt Boys Primary School  Qureshiwala (Okanwala) (IInd  Portion),30.380422787955176,71.7637473255282,Female,Punjab,0,2,0,965
+106,Govt Boys Primary School (Basti Diwana wala) Sarfraz Pur.,30.381461629343484,71.6941157096638,Combined,Punjab,2,2,685,559
+41,Govt Girls High School  Mulapur,30.384397972095844,71.84316478019619,Combined,Punjab,2,1,567,449
+38,Govt Boys Middle School  Mula pur,30.38650434656573,71.83896905512209,Female,Punjab,0,2,0,904
+37,Govt Boys Middle School  Mula pur (Ist Portion),30.38650434656573,71.8389990551221,Male,Punjab,3,0,1009,0
+167,Govt Girls Primary School Sandrana (Basti Bootywala),30.388492179881116,71.68781940662554,Combined,Punjab,2,2,882,658
+165,Govt Boys Middle School  Basti Balochan,30.389951473318916,71.66223001007543,Combined,Punjab,2,1,568,455
+70,Govt Boys Primary School  Kabirwala Rural Qitta Baddu Wana (IInd  Portion),30.390160373795887,71.87658118478312,Combined,Punjab,2,2,905,720
+109,Govt Boys Middle School  Ibrahim Pur,30.392055171749835,71.69070131329698,Combined,Punjab,2,2,1061,730
+35,Govt. Pry. Masjid Maktab School Gharib abad Mulapur,30.39462534091465,71.84616571249447,Male,Punjab,4,0,1422,0
+36,Govt. Pry- Masjid Maktab School Gharib abad Mulapur,30.39462534091465,71.8461957124945,Female,Punjab,0,3,0,1119
+82,Govt Boys Primary School  Karam Pur Jutta,30.3957012671627,71.76619982335536,Combined,Punjab,2,2,712,559
+39,Govt. Boys Degree Collage Kabirwala Multan Road(1st Port),30.396832945619263,71.85074773328029,Male,Punjab,4,0,1579,0
+40,Govt. Boys Degree Collage Kabirwala Multan Road  (IInd-Port),30.396832945619263,71.8507777332803,Female,Punjab,0,3,0,1310
+17,T.M.O. Office Kabirwala,30.398856075615,71.85334917119492,Male,Punjab,3,0,1058,0
+18,T.M.O. Office Kabirwala,30.398856075615,71.8533791711949,Female,Punjab,0,2,0,842
+15,Govt. Girls Pry. School Dara-ul-Aloom Eid Gah Ist Portation,30.40058036436518,71.8649389085441,Male,Punjab,4,0,1684,0
+16,Govt Girls Primary School Dar-ul-Aloom Eid-Gah Kabirwala,30.40058036436518,71.8649689085441,Female,Punjab,0,4,0,1435
+11,Govt Boys High School  Dar-ul - Aloom Kabirwala (IInd  Portion),30.400584872280774,71.86378091097302,Female,Punjab,0,4,0,1577
+9,Govt Boys High  School  Dar-ul - Aloom Kabirwala (Ist Portion),30.400584872280774,71.863810910973,Male,Punjab,4,0,1737,0
+10,Govt Boys High  School  Dar-ul - Aloom Kabirwala (Ist Portion),30.400584872280774,71.863840910973,Male,Punjab,3,0,957,0
+12,Govt Boys High School  Dar-ul - Aloom Kabirwala (IInd  Portion),30.400584872280774,71.863870910973,Female,Punjab,0,2,0,842
+2,Govt Girls Vocational College Kabirwala,30.400621099213634,71.87133857490447,Female,Punjab,0,2,0,895
+77,Govt Girls Higher Secondary School  Kukar Hatta (Ist Portion),30.401139753499596,71.75414490099571,Male,Punjab,4,0,1449,0
+78,Govt Girls Higher Secondary School  Kukar Hatta (IInd Portion),30.401139753499596,71.7541749009957,Female,Punjab,0,3,0,1152
+55,Govt Boys Primary School  5/Kassi,30.4017466,71.8617654,Combined,Punjab,2,1,546,453
+56,Govt Grils Primary School 3/Kassi (Jadeed ),30.4017466,71.8617954,Combined,Punjab,2,2,841,662
+124,Govt Boys High School kohi Wala (Ist Portion),30.4017466,71.8618254,Male,Punjab,3,0,1331,0
+125,Govt Boys High School Kohi Wala (IInd  Portion),30.4017466,71.8618554,Female,Punjab,0,3,0,1144
+126,Govt Girls Higher Secondary School  Kohi Wala (Ist Portion),30.4017466,71.8618854,Male,Punjab,3,0,1108,0
+127,Govt Girls Higher Secondary School  Kohi Wala (Ist Portion),30.4017466,71.8619154,Combined,Punjab,2,2,714,605
+128,Govt Girls Higher Secondary School  Kohi Wala (Ist Portion),30.4017466,71.8619454,Combined,Punjab,2,1,720,495
+129,Govt Girls High School  Kohi Wala (IInd  Portion),30.4017466,71.8619754,Female,Punjab,0,2,0,776
+13,Govt Girls Primary School Muhammad Pur Muqeem (Near Pir Dardar Pir Kabir),30.402127990834778,71.8694197059696,Male,Punjab,4,0,1556,0
+75,Govt Boys High School Kukkar Hatta (Ist Portion),30.402510281214763,71.75727100999104,Male,Punjab,3,0,1216,0
+76,Govt Boys High School Kukkar Hatta (IInd  Portion),30.402510281214763,71.757301009991,Female,Punjab,0,2,0,930
+1,Govt Girls Degree College Kabirwala,30.40251572249968,71.86999381081353,Male,Punjab,3,0,1080,0
+84,Govt Girls Primary School Shadian Wala Ameer Pur (Ist Portion),30.4031151251395,71.80263912550285,Male,Punjab,4,0,1625,0
+85,Govt Girls Primary School Shadian Wala Ameer Pur (IInd  Portion),30.4031151251395,71.8026691255028,Female,Punjab,0,3,0,1273
+107,Govt Boys Primary School  Rasool Pur Kalan,30.40344814368608,71.68801744371146,Combined,Punjab,1,1,393,311
+108,Govt Boys Primary School  Rasool Pur Kalan,30.40344814368608,71.6880474437115,Combined,Punjab,2,1,648,487
+25,Govt Girls High School  Maan Wala (Ist Portion),30.404197132958068,71.85364603008492,Male,Punjab,3,0,1325,0
+26,Govt Girls High School  Maan Wala (Ist Portion),30.404197132958068,71.8536760300849,Male,Punjab,3,0,1140,0
+27,Govt Girls High School  Maan Wala (IInd  Portion),30.404197132958068,71.8537060300849,Female,Punjab,0,2,0,600
+28,Govt Girls High School  Maan Wala (IInd  Portion),30.404197132958068,71.8537360300849,Female,Punjab,0,3,0,1325
+79,BHU Kukar Hatta,30.404346875735776,71.76207856098083,Combined,Punjab,2,2,509,391
+80,BHU Kukar Hatta,30.404346875735776,71.7621085609808,Combined,Punjab,2,2,821,680
+83,Govt Girls Model Primary School Asim Abad (Ameer Pur),30.40503152619112,71.80747834702258,Combined,Punjab,1,1,224,184
+69,Govt Boys Primary School  Rehanpur (Khokhra Abad) (Ist Portion),30.40515,71.88819,Combined,Punjab,2,1,650,488
+21,Govt. Boys High School Maan wala- Kabirwala,30.40689156893847,71.85329053171233,Female,Punjab,0,3,0,1311
+22,Govt. Boys High School Maan wala- Kabirwala,30.40689156893847,71.8533205317123,Female,Punjab,0,2,0,851
+23,Govt Boys High School  Man Wala (Ist Portion),30.40689156893847,71.8533505317123,Male,Punjab,4,0,1733,0
+24,Govt Boys High School  Maan Wala (IInd  Portion),30.40689156893847,71.8533805317123,Female,Punjab,0,4,0,1399
+14,Govt Girls High  School  Kabirwala,30.40700539011906,71.86651778234618,Female,Punjab,0,3,0,1357
+19,Govt Girls Middle  School Street No 48- Roshan Wala  Ist Portion Kabirwala,30.407202798534993,71.86017330245058,Male,Punjab,3,0,1174,0
+20,Govt Girls Middle  School Street No 48- Roshan Wala  Ist Portion Kabirwala,30.407202798534993,71.8602033024506,Male,Punjab,4,0,1480,0
+7,Govt Boys Zargham Shaheed High  School   Mukhdoompur Road Kabirwala,30.408522943311727,71.87096216409289,Male,Punjab,4,0,1688,0
+8,Govt Boys Zargham Shaheed High  School   Mukhdoompur Road Kabirwala,30.408522943311727,71.8709921640929,Female,Punjab,0,4,0,1438
+5,Govt. Boys High School Kabirwala,30.410065434164913,71.8694979865655,Combined,Punjab,2,2,729,629
+6,Govt. Boys High School Kabirwala,30.410065434164913,71.8695279865655,Combined,Punjab,2,2,618,544
+3,Govt Boys High School Kabirwala,30.410065434164913,71.8695579865655,Male,Punjab,3,0,1257,0
+4,Govt Boys High School Hostal Kabirwala,30.410425615265417,71.86950769067877,Female,Punjab,0,3,0,983
+29,Govt Boys Primary School Maan wala (Molvi Wala) (Ist Portion),30.410885941601492,71.83193829536633,Male,Punjab,3,0,1057,0
+30,Govt Boys Primary School Maan wala (Molvi Wala) (IIst Portion),30.410885941601492,71.8319682953663,Female,Punjab,0,2,0,852
+160,Govt Boys High School Mankot (IInd  Portion),30.411941589979598,71.6403770108398,Combined,Punjab,2,2,953,799
+81,Govt Boys Primary School  No.2 Mapal Wala Karam pur,30.415192136294948,71.7760956203241,Combined,Punjab,2,2,755,568
+163,Govt Girls Middle School Ihsan Pur,30.415353140759727,71.62314503523183,Combined,Punjab,1,1,407,276
+103,Govt Girls Middle School  Ameer Garh,30.416324189947733,71.69275290268907,Combined,Punjab,2,1,565,454
+31,Govt Girls Primary School  Mastan Shah Wala Kabirwala,30.418570653107697,71.83776193898332,Combined,Punjab,2,2,670,528
+32,Govt Girls Primary School  Mastan Shah Wala Kabirwala,30.418570653107697,71.8377919389833,Combined,Punjab,2,1,568,410
+34,Govt. Model Middle School Gudara- Kabirwala  Basti Haswar Shah (2nd Portion),30.42279,71.82227,Female,Punjab,0,3,0,998
+68,Govt Boys Primary School  Qitta Habib Shah wala,30.423006426564577,71.88125792688088,Combined,Punjab,2,2,879,677
+87,Govt Boys Middle School Narhal,30.42369,71.80502,Combined,Punjab,1,1,373,322
+86,Govt Boys Middle School Narhal,30.42381,71.80479,Combined,Punjab,2,2,752,666
+33,Govt Girls Model Middle School Gadara- Kabirwala (Ist Portion),30.423810181767177,71.82409831907684,Male,Punjab,3,0,1270,0
+161,Govt. Girls Primary School Dalil wala (Ist Portion),30.42458,71.63174,Combined,Punjab,2,2,899,684
+162,Govt. Girls Primary School Dalil wala (2nd Portion),30.42458,71.63177,Combined,Punjab,1,1,186,156
+98,Govt Boys High School Chak Hyder Abad (Ist Portion),30.424900349642087,71.72245580595748,Male,Punjab,2,0,795,0
+99,Govt Boys High School Chak Hyder Abad (IInd  Portion),30.424900349642087,71.7224858059575,Female,Punjab,0,2,0,636
+159,Govt Girls Primary School Saif Pur,30.42531356726107,71.6259717109775,Combined,Punjab,1,1,149,99
+156,Govt Boys Primary School  Gagra Kalandar Jahanian,30.427910730830366,71.59373780865442,Combined,Punjab,1,1,383,328
+101,Govt Girls Middle School  Nawan Sheher Chak Hyder Abad,30.42796310602864,71.70802934831417,Combined,Punjab,2,2,889,704
+102,Govt Girls Middle School  Nawan Sheher Chak Hyder Abad,30.42796310602864,71.7080593483142,Combined,Punjab,1,1,457,352
+100,Govt Boys Primary School   Khan Pur Chak Hyder abad,30.42796807281471,71.70326094805017,Combined,Punjab,2,2,1028,859
+104,Govt. Boys Primary School Ahmad Pur (Kotli Syed Baha-ud-Din),30.429458031903984,71.68394090807058,Combined,Punjab,1,1,422,291
+157,Govt Model Primary School  Hanjan wahi,30.429950949148456,71.62064203906897,Combined,Punjab,2,2,675,570
+158,Govt Model Primary School  Hanjan wahi,30.429950949148456,71.620672039069,Combined,Punjab,2,1,602,480
+43,Govt. Boys Primary School  NO 1 Maharanwala,30.43,71.94818,Combined,Punjab,1,1,522,398
+61,Govt Boys High School Mu barak Pur (Ist  Portion),30.431546948501197,71.93245622601518,Male,Punjab,3,0,1366,0
+62,Govt Boys High School Mu barak Pur (IInd  Portion),30.431546948501197,71.9324862260152,Female,Punjab,0,2,0,962
+63,Govt Model Primary School  Nabbi Pur,30.433040692002603,71.89590740183252,Combined,Punjab,2,2,680,530
+64,Govt Model Primary School Nabbi pur,30.433040692002603,71.8959374018325,Combined,Punjab,2,2,699,577
+60,Govt Model Primary  School Kothi No.7 Mubarak Pur,30.43588,71.90526,Combined,Punjab,2,2,1044,744
+67,Govt Boys Primary School Tawakal Wala,30.437387228702086,71.8599577755904,Combined,Punjab,2,2,888,596
+138,Govt Boys Middle School  salarwahin Kohna (Ist Portion),30.437672445178563,71.6650765544113,Male,Punjab,4,0,1494,0
+139,Govt Boys Middle School  salarwahin Kohna (IInd Portion),30.437672445178563,71.6651065544113,Female,Punjab,0,3,0,1022
+154,Govt Girls Primary School Mian Pur,30.439033925632636,71.62369248482806,Combined,Punjab,2,2,593,522
+88,Govt Boys Middle School  Butta Kot,30.439475422054485,71.82213511450551,Combined,Punjab,2,2,997,856
+155,Govt Girls Primary School  Khair Din Hamyana,30.440118717548366,71.56017000812751,Combined,Punjab,1,1,426,400
+97,Govt Girls Primary School Kot Wala Ghagar.,30.440398122960296,71.73999074594745,Combined,Punjab,2,2,712,576
+140,Govt Girls Middle School Salarwahin Kohna (Ist Portion),30.443131478005096,71.65327062638701,Male,Punjab,3,0,1329,0
+141,Govt Girls Middle School Salarwahin Kuhna (IInd  Portion),30.443131478005096,71.653300626387,Female,Punjab,0,3,0,1028
+91,Govt. Boys Primary School-  Basti Sher Garh,30.44337169469407,71.79082452900873,Combined,Punjab,1,1,489,455
+95,Govt Boys Middle School  Chatore Garh (Old),30.444300599949145,71.74843504763199,Combined,Punjab,2,1,562,471
+105,Govt Boys Primary School  Khan Bahadar Garh,30.449307014813705,71.71813144127816,Combined,Punjab,2,2,948,698
+151,Govt Boys Middle School  Shah Dhanayal.,30.452528641315247,71.62847114117231,Combined,Punjab,2,2,721,574
+73,Govt Boys Middle School  Mari Sahu (Ist Portion),30.45269821903243,71.87816041114077,Male,Punjab,3,0,1199,0
+74,Govt Boys Middle School  Mari Sahu (IInd  Portion),30.45269821903243,71.8781904111408,Female,Punjab,0,3,0,1004
+137,Govt Boys Primary School  Basti Sohara at Kotli Bhutta,30.456709360349386,71.83019500766903,Combined,Punjab,2,1,594,466
+89,Govt Boys Middle School  Haqnawaz Wala,30.45737718661326,71.80571532518069,Combined,Punjab,2,2,644,571
+90,Govt Boys Middle School  Haqnawaz Wala,30.45737718661326,71.8057453251807,Combined,Punjab,2,2,585,492
+65,Govt Boys Middle School  Chak Shar Khan (Ist Portion),30.45870964547419,71.84755038767103,Combined,Punjab,1,1,339,257
+66,Govt Boys Middle School  Chak Shar Khan (Ist Portion),30.45870964547419,71.847580387671,Combined,Punjab,2,2,821,546
+152,Govt Boys High School Salarwahin Nao (Ist Portion),30.46213127436842,71.61909604374894,Combined,Punjab,1,1,495,428
+153,Govt Boys High School Salarwahin Nao (2nd Portion),30.46213127436842,71.6191260437489,Combined,Punjab,2,2,824,695
+94,Govt Model Primary School  Chatore Garh (Jadeed)  Ist Portion,30.46263535798634,71.73392875535195,Combined,Punjab,2,1,532,397
+96,Govt Model Primary School  Chatore Garh (Jadeed)  IInd Portion,30.46263535798634,71.7339587553519,Combined,Punjab,2,1,518,412
+136,Govt Boys Primary School  Sultanabad,30.467040188120286,71.825029819868,Combined,Punjab,2,2,886,609
+143,Govt. Boys Primary School (Basti Ghous Pur) (Ist-Port),30.46791748199586,71.6969435198255,Combined,Punjab,1,1,245,228
+144,Govt. Boys Primary School Basti Ghos Pur (Iind-Port),30.46791748199586,71.6969735198255,Combined,Punjab,1,1,454,356
+148,Govt Boys Middle School  Thull Najeeb,30.47243984721996,71.6562773997905,Combined,Punjab,2,2,978,703
+135,Govt Boys High School Chak Naurang Shah,30.47297397650258,71.84448774722848,Combined,Punjab,2,1,511,487
+71,Office of Union Council Mari Sahu,30.475681395121043,71.87612511446528,Combined,Punjab,2,2,632,514
+142,Govt Model Primary School  Khatti Chor,30.485026082062557,71.7148300691372,Combined,Punjab,2,2,696,517
+149,Govt Boys Middle School  Jhok Azam,30.487492457740426,71.63417496200364,Combined,Punjab,2,2,646,506
+146,Govt Boys Middle School  Jamal Kay Taragar,30.48895644132095,71.67751720493915,Combined,Punjab,2,2,790,608
+150,Govt Boys Primary School   Jamal Kay taragar,30.488987198376275,71.67753186570908,Combined,Punjab,2,2,852,694
+58,Govt Boys Middle School  Bilawal Pur,30.4957235,71.949408,Male,Punjab,4,0,1727,0
+59,Govt Boys Middle School  Bilawal Pur,30.4957235,71.949438,Female,Punjab,0,3,0,1280
+72,Govt Boys Middle School  Bastti Lakha Mari Sahu,30.498676036270364,71.86098741753187,Combined,Punjab,2,2,1048,814
+145,Govt Boys Middle School  Binda Sargana,30.50623314895059,71.6968590594809,Combined,Punjab,2,2,992,645
+147,Govt Boys Primary School  Khokhra Mohabat taragar,30.515014588841105,71.6702517906715,Combined,Punjab,2,2,681,497

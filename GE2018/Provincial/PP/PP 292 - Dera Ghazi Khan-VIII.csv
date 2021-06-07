@@ -1,0 +1,102 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+35,Boys Primary School Mir Nagar Abdullah (Combined),29.59872,70.47462,Combined,Punjab,2,1,670,549
+37,Rural Health Centre  Qadir Abad  (Combined),29.60443,70.50038,Combined,Punjab,2,2,1064,779
+38,Rural Health Centre  Qadir Abad  (Combined),29.60443,70.50041,Combined,Punjab,2,1,607,416
+49,Boys Primary School  Chaker Wala No. 1 (Female),29.63338,70.53922,Female,Punjab,0,3,0,955
+34,Boys Primary School Zhurani Wala (Combined),29.63726,70.45535,Combined,Punjab,2,2,1135,921
+36,Boys Primary School  Kot Hassu (Combined),29.63895,70.46777,Combined,Punjab,2,1,578,422
+46,Boys Primary School  Hassay Wala (Combined),29.64046,70.50101,Combined,Punjab,2,2,1200,798
+47,Boys Primary School  Hassay Wala (Combined),29.64046,70.50104,Combined,Punjab,2,1,826,526
+42,Boys Middle School Bitta Ghulam Ali Khan Ahmadani (Combined),29.65194,70.395,Combined,Punjab,2,2,1094,773
+43,Middle School Bitta Ghulam Ali Khan Ahmadani (Combined),29.65194,70.39503,Combined,Punjab,2,2,1064,832
+50,Boys Primary School Bijar Ahmdani(Combined),29.65802,70.50045,Combined,Punjab,2,1,588,459
+32,Boys Middle School Farooq Abad (Combined),29.66,70.54861,Combined,Punjab,2,2,726,585
+33,Boys Middle School Farooq Abad (Combined),29.66,70.54864,Combined,Punjab,2,2,799,662
+39,Boys High School  Mian Pheroo (Combined),29.67722,70.45722,Combined,Punjab,2,1,673,458
+40,Boys High School  Mian Pheroo (Combined),29.67722,70.45725,Combined,Punjab,2,2,925,665
+41,Boys High School  Mian Pheroo (Combined),29.67722,70.45728,Combined,Punjab,2,2,1367,950
+58,Boys Primary  School  Khan Wala (Combined),29.67743,70.50027,Combined,Punjab,2,2,768,582
+59,Boys Primary  School  Khan Wala (Combined),29.67743,70.5003,Combined,Punjab,2,1,739,340
+28,Boys Middle School  Mulla Wala (Female),29.68611,70.55556,Female,Punjab,0,3,0,1194
+29,Boys Middle School Mulla  Wala (Combined),29.68611,70.55559,Combined,Punjab,2,2,811,624
+30,Boys Middle School Mulla  Wala (Combined),29.68611,70.55562,Combined,Punjab,2,2,989,735
+31,Boys Middle School Mulla Wala(Combined),29.68611,70.55565,Combined,Punjab,2,1,622,557
+52,Boys Primary School  Meway Wala (Combined),29.68722,70.43945,Combined,Punjab,2,2,1148,856
+45,Boys middle School Darkhast Jamal Khan(Combined),29.68786,70.48914,Combined,Punjab,2,2,1065,727
+48,Boys Primary School  Chaker Wala No. 1 (Male),29.68897,70.48115,Male,Punjab,4,0,1341,0
+44,Basic Health Unit Mian Phero (Combined),29.69555,70.46667,Combined,Punjab,2,1,700,517
+99,Boys Primary School  Gopang Wala (Combined),29.70765,70.51911,Combined,Punjab,2,1,537,325
+57,Boys Primary  School Vainse  Wala (Combined),29.70928,70.50534,Combined,Punjab,2,1,575,368
+53,Boys Primary  School Mir Muhammad Kachella (Combined),29.72505,70.43961,Combined,Punjab,2,1,742,458
+56,Boys Primary  School  Gadrey Wala (Combined),29.72551,70.53516,Combined,Punjab,2,2,971,678
+96,Boys High School Talpur  (Combined),29.73048,70.48919,Combined,Punjab,1,1,467,394
+97,Boys High School Talpur (Combined),29.73048,70.48922,Combined,Punjab,2,2,1183,808
+98,Girls Primary School Basti Talpur (Combined),29.7321,70.48873,Combined,Punjab,2,1,719,469
+93,Boys Primary School  Hazarat Wala (Combined),29.73751,70.49776,Combined,Punjab,2,1,635,496
+104,Govt  Primary School Masoo Talpur (Combined),29.73963,70.47009,Combined,Punjab,2,2,914,696
+51,Boys Middle School  Bakhar Wah (Combined),29.74195,70.48833,Combined,Punjab,2,2,1101,777
+54,Boys Primary  School  Aslam  Abad (Combined),29.74195,70.48836,Combined,Punjab,2,1,675,413
+94,Boys Primary School Basti Dhamray Wala at Bijjar Buzdar (Combined),29.74444,70.49389,Combined,Punjab,2,2,1052,823
+95,Girls Primary School Bijjar Buzdar (Combined),29.74444,70.49392,Combined,Punjab,2,1,629,414
+25,Boys High School Khanpur Janubi (Male),29.7525,70.56612,Male,Punjab,4,0,1790,0
+26,Boys High School Khanpur  Janubi  (Female),29.7525,70.56615,Female,Punjab,0,3,0,1199
+27,Boys High School Khanpur  Janubi (Male),29.7525,70.56618,Male,Punjab,4,0,1720,0
+24,Boys Primary  School  Chatay Wala (Combined),29.7525,70.59361,Combined,Punjab,1,1,464,309
+102,Govt Primary School chah buzdar basti  Gongay Wala Eid Gah (Combined),29.75661,70.48952,Combined,Punjab,2,1,596,478
+103,GovtPrimary School Chah Buzdar Basti Gongay Wala Eid Gah (Combined),29.75695,70.48953,Combined,Punjab,1,1,271,185
+21,Boys Primary  School  Kot Jannu (Combined),29.75861,70.60528,Combined,Punjab,2,2,855,572
+22,Boys Primary  School  Kot Jannu (Combined),29.75861,70.60531,Combined,Punjab,2,2,637,532
+23,Girls Primary School Jatoi Wala (Combined),29.77611,70.55972,Combined,Punjab,2,2,861,621
+101,Boys High School  Shah Buzdar  (Combined),29.77669,70.48902,Combined,Punjab,1,1,469,379
+18,Union Council office Basti Fouja  (Combined),29.7774,70.59733,Combined,Punjab,2,2,1188,867
+19,Boys Middle School Basti Fouja (Combined),29.7774,70.59736,Combined,Punjab,2,2,1029,699
+20,Boys Middle School Basti Fouja (Combined),29.7774,70.59739,Combined,Punjab,2,2,978,729
+91,Girls Primary School Basti Sher Muhammad Buzdar (Combined),29.78583,70.50333,Combined,Punjab,2,1,637,433
+92,Girls Primary School Basti Sher Muhammad Buzdar (Combined),29.78583,70.50336,Combined,Punjab,2,2,821,546
+90,Boys Primary School  Hajan Murad  (Combined),29.79083,70.53445,Combined,Punjab,2,2,1229,813
+100,Girls Primary School  Azam Kachella (Combined),29.79131,70.48776,Combined,Punjab,2,2,1235,874
+5,Girls High School Mana Ahmdani (Combined),29.80004,70.62518,Combined,Punjab,2,2,715,577
+9,Boys Primary  School  Mana Ahmdani  (Combined),29.80004,70.62521,Combined,Punjab,1,1,452,431
+1,Boys High School  Mana Ahmadabni (Combined),29.80507,70.6226,Combined,Punjab,2,2,722,528
+2,Boys High School  Mana Ahmadabni (Combined),29.80507,70.62263,Combined,Punjab,2,2,717,556
+3,Boys High School  Mana Ahmdani (Combined),29.80507,70.62266,Combined,Punjab,2,1,571,440
+4,Boys High School  Mana Ahmdani (Combined),29.80507,70.62269,Combined,Punjab,2,2,728,546
+10,Girls High School  Mana Ahmdani  (Combined),29.8056,70.62035,Combined,Punjab,1,1,430,368
+6,Girls High School  Mana Ahmdani (Combined),29.8056,70.62038,Combined,Punjab,1,1,494,344
+7,Girls High School  Mana Ahmdani (Male),29.8056,70.62041,Male,Punjab,3,0,1014,0
+8,Girls High School  Mana Ahmdani (Female),29.8056,70.62044,Female,Punjab,0,2,0,798
+69,Govt Primary School Chak Buzdar(Combined),29.8075,70.45166,Combined,Punjab,1,1,425,235
+14,Boys Primary School  Basti Budhan (Male),29.81244,70.60716,Male,Punjab,4,0,1262,0
+15,Boys Primary School  Basti Budhan (Female),29.81246,70.60717,Female,Punjab,0,2,0,884
+71,Govt Boys Primary School Karam Buzdar (Combined),29.81389,70.43055,Combined,Punjab,2,2,935,632
+16,Boys Primary School Noor Wahi Sidhran (Combined),29.81797,70.56908,Combined,Punjab,2,1,588,410
+17,Boys Primary School Noor Wahi Sidhran (Combined),29.81797,70.56911,Combined,Punjab,1,1,390,257
+88,Boys Middle School  Mari Wala  (Combined),29.82028,70.50833,Combined,Punjab,2,1,752,551
+89,Boys Middle School  Mari Wala (Combined),29.82028,70.50836,Combined,Punjab,2,1,704,519
+85,Girls Middel School  Nawan Shaher (Combined),29.82056,70.50916,Combined,Punjab,2,2,868,696
+84,Girls Primary School Basti  Naurang Shah (Combined),29.82667,70.50417,Combined,Punjab,2,1,668,501
+75,Boys Primary School Oudh Wala (Combined),29.82778,70.55417,Combined,Punjab,2,2,1035,790
+11,Boys Middle School  Kotla Ahmed Khan  (Combined),29.83536,70.60564,Combined,Punjab,2,1,833,545
+12,Boys Middle School  Kotla Ahmed Khan  (Combined),29.83538,70.60563,Combined,Punjab,2,1,803,539
+67,Boys Primary  School Chak Jalohar at Basti Tagia Khan Ramdiani  (Combined),29.83945,70.44,Combined,Punjab,1,1,463,336
+68,Boys Primary  School Chak Jalohar at Basti Tagia Khan Ramdiani (Combined),29.83945,70.44003,Combined,Punjab,1,1,519,362
+79,Boys Primary  School Moochi Wala (M/S Mohammad Ali Ramdani)    (Combined),29.84167,70.51111,Combined,Punjab,2,2,1169,976
+86,Boys Primary  School Moochi Wala (M/S Mohammad Ali Ramdani)    (Combined),29.84167,70.51114,Combined,Punjab,2,1,885,571
+80,Govt Girls College Choti Zareen  (Male),29.84361,70.49638,Male,Punjab,4,0,1406,0
+81,Govt Girls College Choti Zareen (Female),29.84361,70.49641,Female,Punjab,0,3,0,987
+82,Govt Girls College Choti Zareen (Combined),29.84361,70.49644,Combined,Punjab,2,2,1150,860
+83,Govt Girls College Choti Zareen (Combined),29.84361,70.49647,Combined,Punjab,2,2,1101,892
+74,Boys Primary  School  Gazzi Wala No. 3  (Combined),29.84389,70.53306,Combined,Punjab,2,2,1048,919
+87,Primary School Gazzi Wala No2 Basti Pandhi (Combined),29.84389,70.53309,Combined,Punjab,2,1,663,449
+70,Girls Primary School  Sumra Gabool  (Combined),29.845,70.47112,Combined,Punjab,1,1,287,212
+64,Boys Primary  School  Choti Zareen (Male),29.84528,70.48917,Male,Punjab,4,0,1308,0
+63,Veternary Hospital  Choti Zareen (Combined),29.84528,70.48972,Combined,Punjab,2,2,984,752
+61,Boys High School  Choti Zareen  (Combined),29.84556,70.49055,Combined,Punjab,1,1,330,184
+62,Boys High School  Choti Zareen (Combined),29.84556,70.49058,Combined,Punjab,2,2,785,638
+77,Markaz Complex Choti Zareen (Combined),29.84556,70.49083,Combined,Punjab,2,1,737,520
+60,Girls High School Choti Zareen (Combined),29.84583,70.49,Combined,Punjab,1,1,400,276
+66,Girls High School Choti Zareen (Combined),29.84583,70.49003,Combined,Punjab,2,2,1265,834
+78,Girls Primary School  Basti Birmani (Combined),29.85945,70.51167,Combined,Punjab,2,2,764,630
+76,Boys Middle School  Thatha Gabolan (Combined),29.87556,70.5325,Combined,Punjab,2,1,626,473
+73,Girls Primary School  Thatha Gaboolan (Combined),29.87889,70.52583,Combined,Punjab,2,2,955,674
+72,Boys Primary  School Basti Hussain Khan Manay Wala (Combined),29.87917,70.505,Combined,Punjab,2,2,916,617

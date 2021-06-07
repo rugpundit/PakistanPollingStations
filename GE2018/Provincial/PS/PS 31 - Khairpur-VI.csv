@@ -1,0 +1,130 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+28,GPS Daraza (Male),27.3054,68.51338,Male,Sindh,3,0,1025,0
+29,GMS Daraza (Female),27.30545,68.51338,Female,Sindh,0,2,0,865
+26,GPS Juneja (Male),27.31243,68.49963,Male,Sindh,4,0,1368,0
+27,GPS Juneja (Female),27.31243,68.49966,Female,Sindh,0,3,0,1139
+49,GPS Fateh Muhammad Jatoi,27.32407,68.46994,Combined,Sindh,2,2,938,808
+4,GPS Station Gambat,27.33929,68.54289,Combined,Sindh,2,2,942,710
+5,Govt. Elelmentary School Kazim Abad,27.34727,68.5313,Combined,Sindh,2,2,765,625
+6,Govt: Degree College Gambat-I (Male),27.34838,68.5241,Male,Sindh,4,0,1355,0
+7,Govt: Degree College Gambat-II (Female),27.34838,68.52413,Female,Sindh,0,3,0,1129
+8,GMS Girls Memon Muhalla Gambat-I (Male),27.34854,68.51784,Male,Sindh,3,0,983,0
+9,GMS Girls Memon Muhalla Gambat-II (Female),27.34854,68.51787,Female,Sindh,0,2,0,876
+10,GHS Girls Gambat (Male),27.35219,68.5216,Male,Sindh,4,0,1726,0
+11,GHS Girls (Female),27.35224,68.52158,Female,Sindh,0,4,0,1530
+1,GPS Gambat No. 2 (Male),27.35405,68.52157,Male,Sindh,4,0,1686,0
+2,GPS Gambat No. 2 (Female),27.35405,68.5216,Female,Sindh,0,4,0,1423
+3,GPS Gambat No. 2,27.35405,68.52163,Combined,Sindh,2,1,678,564
+12,Govt: Murad High School Gambat (Male),27.35407,68.51974,Male,Sindh,3,0,973,0
+17,GHS Murad 2nd Portion (Female),27.35407,68.51977,Female,Sindh,0,4,0,1345
+16,Govt: Murad High School 1st Portion (Male),27.35408,68.5197,Male,Sindh,4,0,1692,0
+13,Govt: Murad High School Gambat (Female),27.35408,68.51971,Female,Sindh,0,2,0,835
+14,GPS Haji Khuda Bux Ujjan (Male),27.35409,68.50961,Male,Sindh,2,0,968,0
+15,GPS Haji Khuda Bux Ujjan (Female),27.35409,68.50964,Female,Sindh,0,2,0,826
+48,GPS Girls Jamra (Female),27.35781,68.4753,Female,Sindh,0,2,0,731
+47,GPS Jamra (Male),27.35901,68.47659,Male,Sindh,3,0,1050,0
+63,GHS Altaf Pathan (Female),27.35995,68.37813,Female,Sindh,0,3,0,1173
+62,GHS Altaf Pathan (Male),27.35997,68.37809,Male,Sindh,4,0,1503,0
+45,GMS Girls Jamra-I (Male),27.36,68.47407,Male,Sindh,3,0,1151,0
+46,GMS Girls Jamra-II (Female),27.36,68.4741,Female,Sindh,0,2,0,940
+127,Govt. Boys Elementry School Pipri-I (Male),27.36879,68.54994,Male,Sindh,3,0,998,0
+128,Govt. Boy Elementry School Pipri-II (Female,27.36879,68.54997,Female,Sindh,0,2,0,859
+53,GPS Jado Wahan,27.37604,68.42071,Combined,Sindh,2,2,930,723
+54,GHS Jado Wahan,27.37657,68.42055,Combined,Sindh,2,2,937,792
+19,GPS Khwaja Muhalla Khuhra,27.37766,68.51325,Combined,Sindh,2,2,852,751
+18,GPS Abbasi Muhalla Khuhra,27.37914,68.51589,Combined,Sindh,2,1,585,578
+38,GHS Khuhra (Male),27.37927,68.52274,Male,Sindh,4,0,1275,0
+39,GHS Khuhra (Female),27.37928,68.52278,Female,Sindh,0,2,0,1035
+23,Govt. Polly Technical Institute Khuhra.,27.3793,68.52132,Combined,Sindh,1,1,589,484
+60,GPS Mehro Wahan,27.37989,68.4169,Combined,Sindh,2,1,628,481
+21,GHS Girls Khuhra 1st Portion (Male),27.3799,68.51765,Male,Sindh,4,0,1880,0
+22,GHS Girls Khuhra 2nd Portion (Female),27.3799,68.51768,Female,Sindh,0,4,0,1728
+20,GPS Market Mohalla Khuhra-II,27.38015,68.51743,Combined,Sindh,2,2,773,710
+61,GPS Shuhabuddin Arain,27.38196,68.40527,Combined,Sindh,2,1,677,426
+42,GPS Village Shaikh,27.38801,68.50278,Combined,Sindh,2,2,809,700
+68,GHS Agra (Female),27.38855,68.38428,Female,Sindh,0,3,0,1058
+64,GPS Agra,27.38959,68.38042,Combined,Sindh,1,1,478,455
+44,GPS Sukwahan,27.39156,68.487,Combined,Sindh,2,2,1017,888
+52,GPS Haji Ismail,27.39478,68.46571,Combined,Sindh,1,1,368,314
+67,GPS Fakir Nanak Yousuf-I (Male),27.39656,68.38401,Male,Sindh,3,0,1164,0
+69,Govt. Boys High School Belharo-I (Male),27.39882,68.418,Male,Sindh,4,0,1543,0
+70,Govt. Boys High School Belharo-II (Female),27.39882,68.41803,Female,Sindh,0,4,0,1314
+82,GPS Fatoo Sial.(Partially improvised),27.40189,68.35071,Male,Sindh,4,0,1316,0
+83,GPS Fatoo Sial.(Partially improvised),27.40189,68.35074,Female,Sindh,0,3,0,1087
+24,GPS Khah Ujjan,27.40212,68.50152,Combined,Sindh,1,1,495,396
+41,GPS Burdi,27.40288,68.51198,Combined,Sindh,1,1,425,365
+40,GPS Kaleri,27.40354,68.53405,Combined,Sindh,2,1,662,512
+116,GPS Drib Mehar Shah,27.40598,68.55942,Combined,Sindh,2,1,771,699
+43,GPS Pir Esso @ GHS Pir Esso,27.40697,68.47795,Combined,Sindh,2,2,737,640
+57,GPS Mubarak Kalhoro,27.40888,68.43661,Combined,Sindh,1,1,547,447
+117,GMPS Siddiq Ujjan,27.41016,68.5592,Combined,Sindh,1,1,557,508
+118,GMPS Siddiq Ujjan,27.41016,68.55923,Combined,Sindh,1,1,407,367
+71,GPS Keechi Wahan (Male),27.4105,68.40188,Male,Sindh,2,0,723,0
+72,GPS Keechi Wahan (Female),27.4105,68.40191,Female,Sindh,0,1,0,564
+50,GPS Golo Wahan-I (Male) (Partially improvised),27.41093,68.46017,Male,Sindh,2,0,922,0
+51,Imporovised @ Village Golo Wahn (Female),27.41093,68.4602,Female,Sindh,0,2,0,841
+131,GPS Deh Wassan-I (Male) at Motan Shah,27.4112,68.59385,Male,Sindh,3,0,1120,0
+132,Improvised at GPS Deh Wassan II (Female),27.4112,68.59388,Female,Sindh,0,3,0,1039
+130,GMS Dost Muhammad Mari,27.41741,68.61074,Combined,Sindh,1,1,546,426
+65,GPS Mehtani (Male),27.41799,68.37959,Male,Sindh,4,0,1585,0
+58,GPS Guhram Khuhro,27.4194,68.43739,Combined,Sindh,1,1,460,409
+66,GPS Girls Mehtani (Female),27.41974,68.37921,Female,Sindh,0,4,0,1377
+129,GPS Bachal Khariro,27.42635,68.61057,Combined,Sindh,2,2,669,540
+76,GPS Bagalo,27.42915,68.3978,Male,Sindh,3,0,1014,0
+121,GPS Jam Narejo,27.43162,68.51952,Combined,Sindh,2,2,975,785
+30,GPS Kamal Dero-I (Male),27.43256,68.44733,Male,Sindh,3,0,1197,0
+31,GHS Kamaldero (Female),27.43256,68.44736,Female,Sindh,0,2,0,1016
+123,GPS Mari,27.43594,68.57186,Combined,Sindh,2,1,738,586
+75,GPS Sobdar Lashari,27.43794,68.39903,Combined,Sindh,1,1,436,400
+55,GHS Satabo (Male),27.4383,68.42342,Male,Sindh,4,0,1300,0
+56,GHS Satabo (Female),27.43832,68.42345,Female,Sindh,0,3,0,1165
+110,GPS Shaikh Tayab.(Improvised),27.43909,68.58158,Combined,Sindh,2,2,815,632
+77,Sindhri Fellow Ship School Razidero,27.44013,68.39241,Female,Sindh,0,2,0,866
+37,GPS Muhammad Ramzan Kalhoro,27.44037,68.48623,Combined,Sindh,1,1,607,517
+124,Govt. Boys Primary School Tando Masti,27.44061,68.64539,Combined,Sindh,2,2,1096,954
+125,Govt. Middle School Part-I Tando Masti Khan (Male),27.44067,68.64536,Male,Sindh,3,0,1037,0
+126,GMS-II Tando Masti Khan (Fakir Mohalla) (Female),27.44067,68.64539,Female,Sindh,0,3,0,870
+78,GPS Razi Dero-I,27.44155,68.38982,Combined,Sindh,2,2,888,683
+109,Govt. High School Kolab Jial,27.44366,68.59104,Combined,Sindh,2,2,736,723
+33,GPS Lal Bakhsh Bhatti,27.4505,68.4268,Combined,Sindh,2,2,731,664
+119,GPS Ghullam Ujjan,27.45295,68.5307,Combined,Sindh,2,2,907,770
+120,Govt: Dispensary Arbab Ali Channa,27.45295,68.53073,Combined,Sindh,2,1,624,544
+80,GMS Sono Bhatti-I (Male),27.45572,68.42614,Male,Sindh,4,0,1265,0
+81,GPS Sono Bhatti (Female),27.45572,68.42617,Female,Sindh,0,3,0,1094
+79,GPS Dilawar Khuhro,27.45602,68.40015,Combined,Sindh,1,1,442,308
+35,GPS Saidi Lower (Female),27.45723,68.45307,Female,Sindh,0,2,0,766
+108,GPS Liaquat Kandhro,27.4573,68.57207,Combined,Sindh,2,2,981,883
+74,GPS Muhammad Siddiq Narejo (Female),27.45987,68.38824,Female,Sindh,0,3,0,1200
+73,GPS Muhammad Siddiq Narejo (Male),27.45987,68.38826,Male,Sindh,4,0,1439,0
+34,GPS Soomar Ghumro (Male),27.46271,68.46095,Male,Sindh,3,0,1042,0
+32,GPS Khemtia,27.46313,68.43886,Combined,Sindh,2,2,774,645
+115,GPS Phullan Kandhro,27.46932,68.55686,Combined,Sindh,1,1,637,588
+36,GPS Rind,27.47088,68.48689,Combined,Sindh,2,2,730,599
+85,GMS Khanan Narejo (Male),27.47563,68.38364,Male,Sindh,3,0,1208,0
+86,GMS Khanan Narejo (Female),27.47563,68.38367,Female,Sindh,0,3,0,990
+122,GPS Sher Muhammad Chang,27.48048,68.49241,Combined,Sindh,1,1,232,182
+111,GPS Shareef Kandhro,27.48167,68.57431,Combined,Sindh,2,2,811,801
+114,GHS Lal Bakhsh Kandhro,27.48664,68.55584,Combined,Sindh,1,1,583,521
+113,GGHS Rafique Mahesar (Female),27.49055,68.54352,Female,Sindh,0,2,0,946
+104,GPS Ali Bakhsh Sarohi,27.49071,68.46065,Combined,Sindh,1,1,370,310
+112,GPS Rafiq Mahassar (Male),27.49121,68.54356,Male,Sindh,3,0,1194,0
+88,Govt. Muhakumuddin Panhwar Higher Secondary School Ripri. Male-II.,27.49835,68.46774,Male,Sindh,2,0,580,0
+100,GPS Toori (Male) (partially improvised),27.49866,68.49318,Male,Sindh,2,0,824,0
+101,GPS Toori (Female).(partially improvised),27.49866,68.49321,Female,Sindh,0,2,0,615
+98,Govt. Unani Shifakhana Baharo,27.50222,68.43437,Combined,Sindh,2,2,825,676
+97,GGPS Baharo,27.5027,68.43403,Female,Sindh,0,3,0,1022
+96,GPS Baharo-I (Male),27.50286,68.43398,Male,Sindh,3,0,1114,0
+102,GPS Ali Muhammad Narejo,27.50692,68.49077,Combined,Sindh,1,1,333,286
+106,GPS Aslam Mahassar,27.50816,68.54144,Combined,Sindh,2,2,749,644
+103,GPS Khat Nareja,27.51055,68.49588,Combined,Sindh,1,1,574,375
+87,Govt. Muhakumuddin Panhwar Higher Secondary School Ripri. Male-I.,27.5112,68.46677,Male,Sindh,4,0,1455,0
+89,GPS Ripri (Female),27.51133,68.46603,Female,Sindh,0,4,0,1823
+107,GPS Khuda Bakhsh Maitlo,27.51658,68.53853,Combined,Sindh,2,2,744,627
+84,GPS Phullo Bandar,27.52601,68.40681,Combined,Sindh,2,1,610,504
+90,Govt. Boys Elementary School Lal Kumbhar-I (Male),27.53042,68.4659,Male,Sindh,3,0,1254,0
+91,GPS Sher Muhammad Shahani (Female),27.54456,68.46871,Female,Sindh,0,3,0,989
+99,GPS Kharal Abad,27.55229,68.42711,Combined,Sindh,2,1,710,555
+93,Govt. Boys PS to Elementary School Gulo Sial.,27.56488,68.45943,Combined,Sindh,2,2,923,767
+95,GPS Nazar Muhammad Malhi,27.57826,68.50079,Combined,Sindh,2,1,693,455
+92,GPS Kuria,27.58983,68.44323,Combined,Sindh,1,1,554,412
+94,GPS Sadiq Kalhoro,27.60743,68.44995,Combined,Sindh,1,1,338,311

@@ -1,0 +1,132 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+118,Government Girls Primary School Datta Khabal Mohri Male PS-I,34.28206,73.23898,Male,KPK,3,0,1234,0
+119,Government Girls Primary School Datta Khabal Mohri Female (PS-II),34.28212,73.23895,Female,KPK,0,3,0,1025
+116,Government High School Datta,34.28746,73.25165,Male,KPK,4,0,1559,0
+126,Government Primary School Chamhora,34.28999,73.21299,Combined,KPK,2,2,962,810
+117,Government High School Datta,34.29284,73.25845,Female,KPK,0,4,0,1401
+121,Government Primary School No.1 Haryala,34.3,73.22694,Male,KPK,3,0,1209,0
+129,Government Girls Primary School Ghazi Kot,34.30488,73.22009,Combined,KPK,2,2,777,625
+128,Regional Institute of teachers Educations Ghazikot Mansehra female,34.305,73.21583,Female,KPK,0,4,0,1364
+127,Government Primary School Ghazikot,34.30588,73.21529,Male,KPK,4,0,1532,0
+102,Social Welfare Officer-Ghazikot Township Mansehra Male PS-I,34.30833,73.20722,Male,KPK,2,0,781,0
+103,Social Welfare Officer- Ghazikot Township Mansehra female PS-II,34.30833,73.20725,Female,KPK,0,2,0,1135
+122,Government Girls Primary School Haryala,34.30997,73.22589,Female,KPK,0,2,0,972
+23,Government Primary School Janglan,34.31018,73.29214,Combined,KPK,2,2,590,501
+123,Government Primary School Chakia,34.31232,73.25037,Male,KPK,3,0,1129,0
+120,Government High School Khushala,34.31308,73.22928,Combined,KPK,2,2,611,537
+22,Government Girls High School Narbeer,34.31579,73.27679,Combined,KPK,2,1,544,442
+124,Government Girls Primary School Chakia,34.31624,73.23986,Female,KPK,0,3,0,906
+125,Governmnent Girls Middle School Chakia,34.31833,73.2411,Combined,KPK,2,2,767,656
+114,Office of the District Officer water Supply mansehra male PS-I,34.31989,73.19208,Male,KPK,3,0,1111,0
+115,Office of the District Officer water Supply Mansehra female PS-II,34.31989,73.19211,Female,KPK,0,2,0,926
+94,Government Commerce College Mansehra Male PS-I,34.32029,73.20139,Male,KPK,2,0,783,0
+96,Government Commerce College Mansehra PS-II,34.32029,73.20142,Male,KPK,2,0,574,0
+97,Government Commerece College female Mansehra PS-III,34.32029,73.20145,Female,KPK,0,2,0,521
+98,Government Commerce College Mansehra male PS-IV,34.32029,73.20148,Male,KPK,4,0,1235,0
+99,Governmnent Commerce College Mansehra female PS-V,34.32034,73.20147,Female,KPK,0,3,0,1162
+87,Divisional Forest Office Siran Devision,34.32069,73.20722,Combined,KPK,2,1,506,468
+112,Government Primary School Dhangri Bala,34.32074,73.18149,Male,KPK,2,0,683,0
+101,Assistant Director Food Controller Mansehra,34.32083,73.20722,Female,KPK,0,4,0,1204
+113,Government Girls Primary School Dhangri Bala,34.32096,73.18177,Female,KPK,0,2,0,599
+100,Small Industries Office Mansehra,34.32256,73.20522,Male,KPK,4,0,1359,0
+86,Government Girls Primary School Aziz Abad Mutrayan Female,34.32325,73.21413,Female,KPK,0,4,0,1564
+88,Sub Divisional Office-Public Health Office Mansehra Male PS-1,34.32367,73.195,Male,KPK,3,0,1017,0
+89,Sub Divisional OfficePublic Health Office Mansehra Female PS-II,34.32367,73.19503,Female,KPK,0,3,0,943
+95,Government Girls Higer Secondary School No 2 Mansehra,34.32416,73.19756,Female,KPK,0,2,0,693
+90,District Forest Office -Water Shed Office Mansehra Male(PS-I),34.32524,73.18938,Male,KPK,2,0,773,0
+91,District Forest Office -Water Shed Office Mansehra Female (PS-II),34.32524,73.18941,Female,KPK,0,2,0,737
+104,King Abdullah Hospital Mansehra Male PS-I,34.3256,73.2015,Male,KPK,3,0,1233,0
+105,King Abdullah Hospital Mansehra female PS-II,34.3256,73.20153,Female,KPK,0,3,0,1144
+93,Tameer e Nau public School Mansehra,34.32706,73.1946,Female,KPK,0,4,0,1239
+61,Government Primary School Sufaida,34.32777,73.24532,Male,KPK,3,0,1310,0
+92,Government Girls Primary School Dub No.1 Mansehra,34.32871,73.19509,Male,KPK,4,0,1397,0
+62,Government Girls Primary School Sufaida,34.32947,73.24497,Female,KPK,0,3,0,1046
+110,Government High School No 1 Chitti Dheri Mansehra Male PS-I,34.32949,73.18536,Male,KPK,4,0,1253,0
+111,Government High School No 2 Chitti Dheri Mansehra female PS-II,34.32949,73.18539,Female,KPK,0,4,0,1174
+15,Government Primary School Pairan,34.32964,73.29803,Male,KPK,3,0,913,0
+109,Government Girls Primary School Chitti Dheri,34.33004,73.18478,Combined,KPK,2,2,579,533
+13,Government Higher Secondary School Pairan Male (PS-I),34.3303,73.29828,Male,KPK,3,0,964,0
+14,Government Higher Secondary school Pairan female (PS-II),34.3303,73.29831,Female,KPK,0,2,0,832
+77,OPF School Safdar Road Mansehra Female (PS-II),34.33064,73.19106,Female,KPK,0,3,0,838
+76,OPF school safdar road mansehra male PS-I,34.33075,73.19107,Male,KPK,3,0,957,0
+63,Government Middle School Hado Bandi,34.33084,73.22814,Male,KPK,3,0,1194,0
+17,Government Girls Primary School Pairan,34.33091,73.3042,Combined,KPK,2,1,562,475
+51,Government Girls Primary School Ganda,34.3311,73.17359,Female,KPK,0,3,0,1396
+16,Governmnent Primary School Dakhan Pairan,34.33115,73.28548,Female,KPK,0,2,0,748
+64,Government Girls Primary school Hado bandi,34.33194,73.22723,Female,KPK,0,3,0,1061
+52,Government Girls Degree College No.2 Chitti Dheri,34.33237,73.18384,Combined,KPK,2,2,865,756
+83,Government Middle School Jabri Female,34.3327,73.20334,Female,KPK,0,2,0,669
+50,Government Primary School Ganda,34.33345,73.17035,Male,KPK,4,0,1703,0
+71,Government Girls Middle School Mansehra,34.33348,73.1981,Female,KPK,0,4,0,1519
+78,Government Higher Secondary School No.1 Mansehra Male (PS-I),34.3337,73.20194,Male,KPK,3,0,860,0
+80,Government Higher Secondary School No.1 Mansehra Male (PS-II),34.3337,73.20197,Male,KPK,3,0,1106,0
+82,Government Higher Secondary School No.1 Mansehra Male (PS-III),34.3337,73.202,Male,KPK,2,0,750,0
+72,Assistant Director agriculture Office Shinkiari Road Mansehra male PS-I,34.33403,73.19593,Male,KPK,4,0,1319,0
+73,Assistant Director Agriculture office Shinkiari road mansehra Female PS-II,34.33403,73.19596,Female,KPK,0,3,0,1160
+79,Governmernt Girls Degree College No.1 Mansehra Female (PS-1),34.33432,73.20207,Female,KPK,0,2,0,749
+81,Government Girls Degree College No.1 Mansehra Female (PS-II),34.33432,73.2021,Female,KPK,0,3,0,1033
+70,Governmnent Centenial Model School for Girls No. 1 Mansehra,34.33475,73.19993,Male,KPK,4,0,1611,0
+106,Governmnent Primary School Lohar Banda,34.33491,73.18893,Male,KPK,4,0,1352,0
+107,Governmnent Girls Primary School Lohar Banda,34.33503,73.19297,Female,KPK,0,4,0,1214
+65,Government centenial Model School no 3 Mansehra Male PS-I,34.3355,73.19991,Male,KPK,4,0,1578,0
+66,Governmnent Cenitenial Model School No  3 female PS-II,34.3355,73.19994,Female,KPK,0,4,0,1473
+68,Government Girls Primary School Jabri Mansehra,34.33943,73.2045,Female,KPK,0,2,0,918
+67,Executive Engineer C&W Mansehra,34.34027,73.20779,Male,KPK,3,0,1083,0
+69,Noor School & College (Boys section) Mansehra,34.34111,73.19806,Combined,KPK,1,1,401,310
+53,Government Primary School Batdarian,34.34223,73.19026,Male,KPK,4,0,1691,0
+21,Government Primary School Talesar (Lamba Nakka),34.3437,73.25332,Combined,KPK,1,1,292,233
+54,Governmet Girls Primary School Batdarian,34.34421,73.19045,Female,KPK,0,3,0,1306
+108,District Health Officer Mansehra,34.34472,73.19695,Combined,KPK,2,1,584,463
+59,Government Primary School Dara Female (PS-?I),34.34512,73.21703,Female,KPK,0,3,0,999
+60,Government Girls Primary School Dara Female (PS-II),34.34512,73.21706,Female,KPK,0,3,0,1066
+57,Government Primary SChool Dara Male PS-I,34.3456,73.21806,Male,KPK,4,0,1289,0
+58,Government Primary School Dara Male (PS-II),34.3456,73.21809,Male,KPK,4,0,1326,0
+48,Government Primary School kotkay,34.34561,73.24461,Combined,KPK,2,2,1076,856
+47,Government Middle School Kotkay,34.35102,73.23686,Combined,KPK,2,1,587,476
+49,Government Girls Primary school Lambi Dheri,34.35195,73.22944,Combined,KPK,2,2,1031,767
+75,Deputy Commissioner inland Revenue TFC Mansehra,34.35205,73.20161,Combined,KPK,1,1,349,281
+20,Governmnent Middle School ShahKhel Garhi,34.3524,73.2775,Combined,KPK,2,1,685,465
+19,Government Girls Primary School Maira Amjad Ali,34.35428,73.3033,Female,KPK,0,3,0,992
+46,Government Primary School Kharar maira,34.35466,73.2439,Combined,KPK,2,2,687,612
+56,Al Quran Public School and College Thakra Mansehra,34.35762,73.20747,Female,KPK,0,2,0,836
+44,Government High School Labarkot,34.35918,73.2336,Male,KPK,3,0,1210,0
+45,Government Girls Primary School Labarkot,34.35976,73.2339,Female,KPK,0,2,0,947
+18,Government High School Maira Amjad Ali,34.36158,73.30992,Male,KPK,3,0,1165,0
+36,Government Primary School Chitta Batta,34.36395,73.26207,Male,KPK,4,0,1780,0
+34,Governmnent High School Chitta Batta,34.36449,73.26231,Male,KPK,3,0,1213,0
+35,Government Girls high chitta batta female (PS-I),34.36543,73.25993,Female,KPK,0,3,0,865
+37,Government Girls High School Chitta Batta Female (PS-II),34.36543,73.25996,Female,KPK,0,3,0,1338
+25,Government Girls Primary School Cherh (Female),34.36547,73.28924,Female,KPK,0,4,0,1447
+40,Government Post Graduate College Mansehra Male PS-I,34.36711,73.21342,Male,KPK,4,0,1698,0
+41,Government Post Graduate College mansehra female (PS-II),34.36711,73.21345,Female,KPK,0,3,0,1247
+24,Government Primary School Cherh (Male),34.36819,73.29298,Male,KPK,4,0,1676,0
+33,Governmnent Girls Primary School Sandesar,34.37226,73.26697,Female,KPK,0,3,0,1379
+32,Governmnent Girls Middle School Sandesar,34.37245,73.26703,Male,KPK,4,0,1689,0
+43,Modren Public School Kalghan,34.37752,73.22422,Female,KPK,0,2,0,930
+42,Government Primary School kalghan,34.37805,73.22037,Male,KPK,3,0,1132,0
+11,Government Primary School Mandihar,34.38288,73.30334,Male,KPK,3,0,962,0
+12,Government Girls Primary School Mandihar,34.38301,73.30309,Female,KPK,0,2,0,779
+38,Government Girls High School Reerh,34.38692,73.28057,Male,KPK,4,0,1406,0
+39,Governmnent Girls Primary School Reerh,34.38948,73.28377,Female,KPK,0,3,0,1136
+2,Government Girls High School Attershisha female,34.38986,73.3131,Female,KPK,0,2,0,1074
+30,Government major Zareen Shaheed Primary School Hathi Mera,34.39171,73.2376,Male,KPK,2,0,933,0
+1,Government Primary School Attershisha Male,34.39299,73.30691,Male,KPK,3,0,1227,0
+31,Government Girls Primary School Hathi Mera,34.39361,73.24638,Female,KPK,0,2,0,760
+130,Government High School Gandhian Male PS-I,34.39369,73.21507,Male,KPK,3,0,1199,0
+132,Government High School Gandian Male PS-II,34.39369,73.2151,Male,KPK,3,0,1128,0
+131,Government Girls High School Gandian female PS-I,34.39426,73.21666,Female,KPK,0,3,0,968
+133,Government Girls High School Gandian female PS-II,34.39426,73.21669,Female,KPK,0,3,0,917
+134,Government Middle School Hafeez bandi,34.39476,73.18714,Combined,KPK,2,2,652,551
+10,Basic Health Unit Attershisha Gotar,34.39589,73.30076,Combined,KPK,2,1,514,371
+135,Government Primary School lung,34.39712,73.19107,Combined,KPK,2,1,535,408
+3,Government Middle School Phagla Male,34.40054,73.31018,Male,KPK,4,0,1767,0
+27,Government High School Mongan Machi pol,34.40375,73.27297,Male,KPK,4,0,1578,0
+28,Goverment Girls High School Mongan Machi Pol,34.40582,73.27689,Female,KPK,0,3,0,1188
+4,Government Girls High School Phagla,34.4062,73.31015,Female,KPK,0,4,0,1409
+29,Government Girls Primary School Seri Bela,34.4075,73.29528,Combined,KPK,1,1,271,208
+26,Government Primary School Bakrial,34.4102,73.28462,Combined,KPK,2,2,1026,806
+5,Government Primary School Arab khun,34.41533,73.31335,Combined,KPK,2,1,520,452
+8,Basic Health Unit Jabba,34.42392,73.31184,Male,KPK,3,0,1277,0
+9,Government Primary School Gadwai Jabba,34.4282,73.3143,Female,KPK,0,3,0,984
+7,Government High School Jabba,34.43475,73.32101,Female,KPK,0,3,0,1138
+6,Poultry Research Institute Jabba Mansehra,34.43737,73.32152,Male,KPK,4,0,1539,0

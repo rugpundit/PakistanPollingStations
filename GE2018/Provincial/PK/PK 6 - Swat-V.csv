@@ -1,0 +1,5 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+75,Govt: Girls High School Shamozai (Male),34.68084,72.1275,Male,KPK,2,0,1197,0
+76,Govt: Primary School Kohay (Combined),34.70917,72.16385,Combined,KPK,1,1,467,369
+90,Govt: Primary School Gamkot (Combined),34.73028,72.17,Combined,KPK,1,1,723,564
+79,Govt: Primary School Rangila (Combined),34.74887,72.17813,Combined,KPK,1,1,797,598

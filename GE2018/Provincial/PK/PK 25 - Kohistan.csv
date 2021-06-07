@@ -1,0 +1,66 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+25,Govt: High School Lohi,35.16631,73.23707,Combined,KPK,1,1,422,366
+19,Govt: Primary School Memar Shah Ababad Qaiser,35.17035,73.23803,Combined,KPK,1,1,191,171
+26,Govt: High School Pero Bela (PS 1),35.17512,73.26324,Combined,KPK,2,1,736,554
+27,Govt: High School Pero Bela (PS 2),35.17512,73.26327,Combined,KPK,1,1,438,314
+23,Govt: Girls Primary School Shahi Ameer Abad,35.17769,73.32339,Combined,KPK,2,1,411,267
+22,Govt: Middle School Bariyar,35.17974,73.42283,Combined,KPK,2,1,770,540
+18,Govt: Primary School Kuz Seri,35.19725,73.23985,Combined,KPK,1,1,187,119
+17,Govt: GIrls Priamary School Kuz Bak,35.2098,73.19798,Combined,KPK,1,1,505,403
+21,Govt: primary School Gabar Sair,35.21242,73.37663,Combined,KPK,1,1,506,398
+20,Govt: Milddle School Gujar Banda,35.22033,73.30576,Combined,KPK,1,1,387,253
+15,Govt: Middle School Goshali (PS-1),35.22545,73.20608,Combined,KPK,1,1,416,322
+37,Govt: Primary School Kuz Zaid Khar (improvised Polling Station),35.24396,73.16315,Combined,KPK,1,1,445,430
+7,Govt: High School Jalkot,35.25327,73.21796,Combined,KPK,1,1,226,220
+10,Govt: Primary School Rajkot,35.2588,73.22187,Combined,KPK,1,1,281,235
+8,Govt: Primary School Charto,35.26057,73.23008,Combined,KPK,1,1,364,334
+36,District Council Hall Komila,35.26281,73.2192,Combined,KPK,2,1,610,512
+13,Govt: Primary School Kuz Gaheen No. 1,35.26886,73.3224,Combined,KPK,2,1,661,591
+14,Govt: Primary School Sadam/ Sikandar Dadair,35.26889,73.35002,Combined,KPK,1,1,423,310
+12,Govt: Primary School Saidan Dadair,35.2723,73.34379,Combined,KPK,2,1,590,587
+11,Govt: High School Bar Bela,35.27504,73.28807,Combined,KPK,1,1,338,287
+3,Govt: High School Tiyal,35.27742,73.23295,Combined,KPK,1,1,388,399
+9,Govt: Girls Primary School Nimarty Sosak,35.28615,73.26591,Combined,KPK,1,1,271,244
+38,Govt: Primary School Rango,35.2977,73.19314,Combined,KPK,1,1,185,155
+4,Govt: High School Chuchang,35.298,73.20633,Combined,KPK,2,1,538,510
+42,Govt: Primary School Gaider,35.29821,73.10378,Combined,KPK,1,1,302,256
+44,Govt: Primary School Gabar,35.3002,73.16536,Combined,KPK,1,1,197,157
+39,Govt: Primary School Chechar,35.30296,73.18813,Combined,KPK,1,1,336,300
+40,Govt: Primary School Janasabad (Improvised/Tent),35.303,73.17719,Combined,KPK,1,1,260,237
+43,Govt: Primary School Umerabad,35.30417,73.1085,Combined,KPK,1,1,512,474
+48,Govt: Girls Primary School Shar Seo,35.3051,73.11156,Combined,KPK,1,1,225,195
+47,Govt: Middle School Razika,35.30531,73.12252,Combined,KPK,1,1,306,318
+41,Govt: High School Seo,35.30618,73.1888,Combined,KPK,1,1,427,457
+46,Govt: Primary School Dalilabad,35.31013,73.1286,Combined,KPK,1,1,352,317
+45,Govt: Primary School Kogai,35.32554,73.1927,Combined,KPK,1,1,365,339
+50,Govt: Middle School Doga,35.37212,73.15337,Combined,KPK,1,1,326,283
+64,Govt: Middle School Pari,35.38132,72.92704,Combined,KPK,1,1,234,155
+49,BHU Doga,35.38559,73.19835,Combined,KPK,1,1,265,236
+5,Govt: GIrls Primary School Kaigah,35.40025,73.20198,Combined,KPK,1,1,537,457
+52,Govt: Primary School owch Gayal,35.41189,73.16937,Combined,KPK,1,1,246,220
+51,Govt: Primary School Gayal Sair,35.42666,73.1968,Combined,KPK,1,1,213,208
+72,Govt: Middle School Dome Sair,35.42984,73.09763,Combined,KPK,2,1,923,476
+63,Govt: Middle School Bagroo,35.42992,72.94368,Combined,KPK,1,1,296,130
+57,Govt: Middle School Khoor,35.45035,73.13655,Combined,KPK,1,1,475,322
+32,Govt: High School Harban,35.45594,73.62238,Combined,KPK,2,1,1011,402
+71,Govt: Middle School Isgal,35.45676,73.05608,Combined,KPK,2,1,809,537
+59,Govt: Primary School Sair Garhi,35.46142,73.1321,Combined,KPK,1,1,406,297
+61,Govt: Primary School Daansh Badshah Abad,35.46218,73.02898,Combined,KPK,2,1,554,216
+55,Govt: Middle School Aleel,35.4629,73.1261,Combined,KPK,1,1,540,324
+62,Govt: Primary School Berti,35.46659,72.96389,Combined,KPK,1,1,460,254
+56,Govt: Primary School Serto (Tent),35.47317,73.13303,Combined,KPK,1,1,446,265
+60,Govt: Primary School Karang,35.47758,72.96655,Combined,KPK,1,1,468,205
+33,Govt: Middle School Dargah,35.48432,73.60838,Combined,KPK,1,1,528,240
+69,Govt: Primary School Kanoi,35.48521,72.93083,Combined,KPK,1,1,435,162
+70,Govt: Middle School Barigo,35.48937,72.86222,Combined,KPK,1,1,473,113
+34,Govt: Primary School Basha  No.1,35.49903,73.71709,Combined,KPK,1,1,347,243
+30,Govt: Middle School Summer Nala,35.50062,73.39613,Combined,KPK,2,1,561,269
+54,Govt: High School Kafar Banda,35.50461,73.13554,Combined,KPK,2,1,554,284
+28,Govt: Middle School Sazeen,35.51254,73.49987,Combined,KPK,1,1,451,372
+68,Govt: Primary School Mir Shahi,35.51259,72.85129,Combined,KPK,1,1,362,61
+35,Govt: Primary School Masrang,35.51697,73.60297,Combined,KPK,2,1,871,422
+29,Rest House Sazeen Camp,35.5298,73.50613,Combined,KPK,1,1,132,116
+31,Govt: High School Shatial,35.53484,73.53374,Combined,KPK,2,1,845,462
+67,Govt: Primary School Ashpidar No. 1,35.55354,72.86901,Combined,KPK,1,1,403,72
+65,Govt: Middle School Mola Khail Gabral,35.56121,72.88521,Combined,KPK,2,1,724,272
+66,BHU Gabral,35.56408,72.88522,Combined,KPK,1,1,320,87

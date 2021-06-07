@@ -1,0 +1,170 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+62,Govt Primary School Bai Khan Sheikhu Ke (P)*           (COMBINED),30.32513,73.70238,Combined,Punjab,2,1,656,538
+40,Govt Boys Primary School Dona mathela Salam key        (COMBINED),30.33223,73.80156,Combined,Punjab,1,1,270,241
+66,Govt. Boys High School Ratay Ke East  (P)*                         (MALE),30.34575,73.61816,Male,Punjab,4,0,1625,0
+67,Govt. Boys High School Ratay Ke West (P)*                      (FEMALE),30.34575,73.61819,Female,Punjab,0,3,0,1169
+68,Govt. Boys Primary School Khair Abad Jandeka(Choor  Matum) (P)*               (COMBINED),30.35434,73.64149,Combined,Punjab,1,1,478,310
+63,Govt. Boys Primary School Qaim Janday Ke  (P)*      (COMBINED),30.36419,73.67412,Combined,Punjab,2,1,549,473
+58,Govt. Boys High School Malhu Shaikhu ka(P)*                (COMBINED),30.36719,73.71511,Combined,Punjab,2,2,1007,789
+72,Govt.Boys Primary School- Farid Abad (Billimar) (P)*    (COMBINED),30.37678,73.63674,Combined,Punjab,2,1,776,497
+65,Govt. Girls Elementary School Nama Janday Ke (P)*     (COMBINED),30.3775,73.66917,Combined,Punjab,2,1,472,326
+57,Govt. Boys Primary School Abdal Ke  (P)*                      (COMBINED),30.37868,73.73294,Combined,Punjab,2,1,724,538
+38,Govt. Girls Primary School Wasoo Salam Kay  (P)*         (FEMALE),30.38021,73.8201,Female,Punjab,0,2,0,676
+61,Govt Boys Primary School Noor Shah (P)*                  (COMBINED),30.38046,73.71438,Combined,Punjab,1,1,273,242
+39,Govt Boys Primary School Wasoo Salam Kay                     (MALE),30.38104,73.81897,Male,Punjab,2,0,852,0
+64,Govt. Boys Elementary School Nama Janday Ke (P)*            (COMBINED),30.38157,73.66309,Combined,Punjab,2,1,549,404
+55,Govt. Boys Primary School Sojay Ke                  (COMBINED),30.38225,73.78262,Combined,Punjab,2,1,978,817
+59,Govt Boys Primary School Molya Chishti East side (P)*        (COMBINED),30.38226,73.69958,Combined,Punjab,1,1,497,387
+60,Govt Boys Primary School Molya Chishti (P)*                  (COMBINED),30.38226,73.69961,Combined,Punjab,1,1,435,291
+37,Govt Boys Middle school Head Suleman ki  (p)*           (FEMALE),30.38652,73.85415,Female,Punjab,0,2,0,1213
+36,Govt Girls High school Head Suleman ki (p)*                 (MALE),30.38848,73.85263,Male,Punjab,4,0,1701,0
+56,Govt. Boys Primary School Bukkan Ghuddar Ke (P)*              (COMBINED),30.3912,73.75153,Combined,Punjab,2,1,844,610
+74,Govt. Boys Primary School Mathaila Budhal Manga (T)*       (COMBINED),30.39208,73.75858,Combined,Punjab,1,1,397,378
+69,Govt. Boys Primary School 14/D (P)*                        (COMBINED),30.39231,73.68475,Combined,Punjab,2,1,693,490
+44,Govt. Girls Primary & Model Elementary School Thakar Ke Makhna  (P)*     (COMBINED),30.39528,73.8456,Combined,Punjab,2,2,1203,996
+41,Govt. Boys Elementry School Niki Maney Ke (P)*             (COMBINED),30.39624,73.80752,Combined,Punjab,2,1,593,460
+42,Govt. Girls Elementry School Niki Maney Ke (P)*        (COMBINED),30.39649,73.80716,Combined,Punjab,2,1,623,419
+70,Office of the Union Council Mohib Ali Autar (P)*            (COMBINED),30.40046,73.62563,Combined,Punjab,2,1,763,554
+71,Govt. Boys Primary School- Chak Mughal (P)*              (COMBINED),30.40046,73.62566,Combined,Punjab,2,1,719,433
+75,Govt. Girls Primary School- Mehtab Garh  (P)*              (COMBINED),30.41349,73.79557,Combined,Punjab,2,2,1078,793
+77,Govt. Girls Elementary  School- Mahant Darshan(P)*     (COMBINED),30.41353,73.78483,Combined,Punjab,1,1,454,358
+76,Govt. Boys Primary School- Mahant Darshan (P)*        (COMBINED),30.41768,73.77261,Combined,Punjab,2,2,830,600
+117,Govt. Boys Middle School 42/SP   Samundri East Side (P)*      (MALE),30.41961,73.66595,Male,Punjab,3,0,1075,0
+118,Govt. Boys Middle School 42/SP     Samundri West Side (P)*      (FEMALE),30.41961,73.66598,Female,Punjab,0,2,0,705
+122,Govt. Boys Primary School Thakra                              (COMBINED),30.42594,73.67183,Combined,Punjab,2,1,663,510
+80,Govt. Boys Middle School- Chura Lakhwera Maneka (P)*       (COMBINED),30.42877,73.78298,Combined,Punjab,2,1,608,499
+73,Govt. Boys Primary School Tarsangi                           (COMBINED),30.42929,73.74226,Combined,Punjab,1,1,415,350
+119,Govt. Boys Primary School Amin Kot (Haveli Lakha) (P)*   (COMBINED),30.43017,73.65245,Combined,Punjab,2,1,582,481
+79,Govt. Girls Middle School- Chura Ismael Maneka                   (COMBINED),30.43122,73.78373,Combined,Punjab,1,1,427,324
+128,Govt. Boys Elementry School    Chak Bawa (P)*                 (MALE),30.43339,73.70273,Male,Punjab,4,0,2032,0
+129,Govt. Girls Elementary School - Chak Bawa (Bareet) (P)*            (FEMALE),30.43642,73.70116,Female,Punjab,0,2,0,1607
+45,Govt. Girls Primary School Basti Mathela (Dakhli Dranga) east (P)*   (COMBINED),30.43943,73.83051,Combined,Punjab,1,1,442,343
+111,Govt. Boys Primary School Pipli Mehtab Rai (P)*             (COMBINED),30.44034,73.64228,Combined,Punjab,2,1,737,588
+46,Govt. Boys Primary School Basti Mathela (Dakhli Dranga) (P)*     (COMBINED),30.44052,73.82993,Combined,Punjab,2,1,621,430
+123,Govt. Girls Elementry School Hakomat garh  (P)*     (COMBINED),30.44056,73.70677,Combined,Punjab,2,2,1130,833
+124,Govt. Girls Primary School Bhidal Autar (P)*                         (COMBINED),30.44056,73.7068,Combined,Punjab,2,2,742,627
+125,Govt. Boys Middle School Jawaiya Balouch (P)*                   (COMBINED),30.44056,73.70683,Combined,Punjab,2,2,1456,1142
+126,Govt Girls Primary School Bahmani (P)*                     (COMBINED),30.44056,73.70686,Combined,Punjab,2,1,650,478
+106,Govt  Girls Elementary School Chak 3/SP  (P)*           (COMBINED),30.44333,73.60472,Combined,Punjab,2,2,1071,818
+127,Office of Union Council- Chak Bawa (T)**                      (COMBINED),30.44573,73.69795,Combined,Punjab,2,2,1376,1093
+16,Wapda Office Haveli Lakha     (MALE),30.44573,73.69798,Male,Punjab,4,0,1557,0
+17,Wapda Office Haveli Lakha west side               (FEMALE),30.44573,73.69801,Female,Punjab,0,2,0,1132
+78,Basic Health Unit- Bullahay Wal     (COMBINED),30.44769,73.79752,Combined,Punjab,1,1,367,280
+18,Govt Elementary School No 5 Haveli Lakha (P)*           (MALE),30.44797,73.69353,Male,Punjab,4,0,2367,0
+19,Govt Elementary School No 5 Haveli Lakha (P)*          (FEMALE),30.44797,73.69356,Female,Punjab,0,4,0,2043
+26,Govt. Girls Elementary School Shakoor Abad (P)*                  (MALE),30.44797,73.69359,Male,Punjab,4,0,1485,0
+27,Govt. Girls Elementary School Shakoor Abad (P)*             (FEMALE),30.44797,73.69362,Female,Punjab,0,3,0,1239
+28,District Public School & College Haveli Lakha                    (MALE),30.44797,73.69365,Male,Punjab,3,0,1127,0
+29,District Public School & College Haveli Lakha                   (FEMALE),30.44797,73.69368,Female,Punjab,0,2,0,926
+21,Govt. Boys Elementary School No 2 Haveli Lakha (P)*           (FEMALE),30.4491,73.69993,Female,Punjab,0,4,0,1818
+15,Govt. Girls Elementary School Mohalla Peer Islam (P)*          (FEMALE),30.44991,73.70052,Female,Punjab,0,3,0,1333
+20,Govt Girls Degree Collage Haveli Lakha                       (MALE),30.44991,73.70055,Male,Punjab,4,0,1977,0
+23,Govt Girls High School No:1 Haveli Lakha (P)*                (FEMALE),30.44991,73.70058,Female,Punjab,0,2,0,1050
+25,Govt. Girls Elementary School Mohalla Peer Islam (P)*            (FEMALE),30.44991,73.70061,Female,Punjab,0,3,0,1273
+95,Govt. Boys  Primary School- Matan wala   (P)*          (COMBINED),30.45071,73.70126,Combined,Punjab,2,2,1285,942
+3,Govt. Primary School No.3 Haveli Lakha Ahmed Pur (P)* (FEMALE),30.45091,73.6747,Female,Punjab,0,2,0,815
+53,Basic Health Unit Jamal Kot     (MALE),30.451,73.839,Male,Punjab,4,0,1300,0
+14,Govt. Boys Elementry School No. 04 Haveli Lakha                (MALE),30.45123,73.7053,Male,Punjab,4,0,1588,0
+22,Govt Boys Elementary School No:4 Haveli Lakha                (MALE),30.45123,73.70533,Male,Punjab,4,0,1279,0
+120,Govt. Boys Primary School    Mahtay Kay Mehtab Rai (P)*          (MALE),30.45166,73.67899,Male,Punjab,4,0,1523,0
+121,Govt. Girls Primary School Mahtay  Kay Mehtab Rai                  (FEMALE),30.45166,73.67902,Female,Punjab,0,2,0,1241
+2,Govt. Girls Priamry School Mandi Wasaway Wala Islam Naghar                             (COMBINED),30.45169,73.68177,Combined,Punjab,2,2,1043,810
+96,Govt. Girls Middle School- Farid Pur Suhag (P)*               (COMBINED),30.45184,73.68544,Combined,Punjab,2,2,1325,982
+13,Govt Girls High School No.2 Haveli Lakha                            (FEMALE),30.45196,73.69199,Female,Punjab,0,4,0,2034
+54,Govt. Boys High School Jamal Kot (Ali Ke Rohila) (P)*          (FEMALE),30.45215,73.83742,Female,Punjab,0,2,0,1095
+4,Govt. Girls Elementary & High School Mandi Haveli Lakha (P)*    (MALE),30.4525,73.6774,Male,Punjab,3,0,1184,0
+5,Govt Girls Elementary & High School  Mandi Haveli (P)*  (FEMALE),30.4525,73.67743,Female,Punjab,0,2,0,1037
+10,Govt High School No.1 Haveli Lakha                                  (MALE),30.45326,73.67919,Male,Punjab,4,0,2069,0
+11,Govt High School No.1 Haveli Lakha                               (FEMALE),30.45326,73.67922,Female,Punjab,0,4,0,1797
+6,Govt. Boys High School No. 1 Haveli Lakha(P)*              (MALE),30.45326,73.67925,Male,Punjab,4,0,1225,0
+7,Office of Market Committee- Haveli Lakha (P)*             (FEMALE),30.45326,73.67928,Female,Punjab,0,2,0,1015
+8,Govt High School No.1 Haveli Lakha                                (MALE),30.45326,73.67931,Male,Punjab,4,0,1923,0
+9,Govt High School No.1 Haveli Lakha                            (FEMALE),30.45326,73.67934,Female,Punjab,0,4,0,1611
+33,Govt Boys Primary School Ghulam Ahmad Saheed Dakhli Bakar Ke Muhar (P)*                        (COMBINED),30.45559,73.89907,Combined,Punjab,1,1,433,315
+84,Govt. Boys Primary School- Harake kalan (P)*             (COMBINED),30.45712,73.78636,Combined,Punjab,1,1,400,341
+12,Govt City High School No.2 Haveli Lakha                    (MALE),30.45733,73.6928,Male,Punjab,4,0,2540,0
+92,Govt. Girls Primary School- HariKe Noabad   (P)*          (COMBINED)                     (Improvised),30.46396,73.76563,Combined,Punjab,2,2,931,673
+1,Govt. Priamry School Mandi Wasaway Wala Islam Naghar  (MALE),30.46473,73.66672,Male,Punjab,3,0,949,0
+97,Govt. Boys High School- 1/SP wasaway wala (P)*            (COMBINED),30.46473,73.66675,Combined,Punjab,2,2,1071,720
+98,Office of the Union Council 1/SP/ wasaway Wala (P)*                (COMBINED),30.46473,73.66678,Combined,Punjab,1,1,432,325
+90,Govt. Boys Primary School- Adlike Suhag   (P)*             (COMBINED),30.4688,73.77619,Combined,Punjab,2,2,833,631
+43,Govt. Boys Primary School Pana Muhar (P)*                  (COMBINED),30.46952,73.84901,Combined,Punjab,2,1,1069,723
+49,Govt. Girls Primary School Thakar Ke Banda  (P)*       (COMBINED),30.47022,73.82992,Combined,Punjab,2,1,561,442
+99,Rural Health Center  1/SP/ wasaway Wala (P)*     (COMBINED),30.47204,73.67367,Combined,Punjab,2,2,979,750
+91,Govt. Boys Primary School- Sodike                                   (COMBINED),30.47217,73.79366,Combined,Punjab,2,2,701,510
+102,Govt. Boys Primary School- 44/SP Kot Fateh Singh     (COMBINED),30.47864,73.71708,Combined,Punjab,2,1,920,769
+89,Govt. Boys High School- 43/SP Khurpa   (P)*                   (COMBINED),30.47864,73.71711,Combined,Punjab,2,1,824,591
+93,Govt. Boys High School- 43/SP Khurpa                        (MALE),30.47864,73.71714,Male,Punjab,4,0,1146,0
+94,Govt. Girls Middle School- 43/SP Khurpa  (P)*       (FEMALE),30.47864,73.71717,Female,Punjab,0,3,0,811
+24,Govt. Degree College for Boys Haveli Lakha                   (MALE),30.47869,73.71745,Male,Punjab,4,0,1753,0
+114,Govt Boys Primary School Bapar Wal (P)*                       (COMBINED),30.48058,73.58018,Combined,Punjab,1,1,403,331
+112,Govt. Girls Elementry School- 45/SP Khoti Pur (P)*     (COMBINED),30.48736,73.62891,Combined,Punjab,1,1,694,432
+81,Govt. Girls Primary School Bhurat Garh                      (COMBINED),30.49076,73.83721,Combined,Punjab,2,2,1014,760
+100,Govt. Girls High School- 1/SP wasaway wala  (P)*      (COMBINED),30.49113,73.66539,Combined,Punjab,2,1,516,411
+35,Govt primary School Sabu Ke Muhar (P)*                     (COMBINED),30.49217,73.91663,Combined,Punjab,1,1,308,265
+31,Govt. Boys Primary School Qasim Ke Muhar               (MALE),30.49277,73.87815,Male,Punjab,2,0,821,0
+82,Govt. Primary School- Wali Kot     (COMBINED),30.49339,73.79156,Combined,Punjab,2,1,815,583
+104,Govt. Girls Elementary School- 44/SP  (Waltoya)   (COMBINED),30.49446,73.66558,Combined,Punjab,1,1,146,112
+51,Govt. Girls Primary & Elementary  School Nehal Muhar (P)*    (FEMALE),30.49719,73.8663,Female,Punjab,0,3,0,1226
+52,Basic Health Unit Nehal Muhar     (COMBINED),30.49776,73.87142,Combined,Punjab,1,1,479,420
+50,Govt. Boys Primary School Nehal Muhar (P)*                   (MALE),30.49945,73.86826,Male,Punjab,4,0,1521,0
+32,Govt. Girls Primary School Qasim Ke Muhar              (FEMALE),30.50364,73.87687,Female,Punjab,0,2,0,599
+87,Govt. Girls Elementry School- Jahangir abad (P)*        (COMBINED),30.50505,73.77383,Combined,Punjab,1,1,246,173
+47,Govt. Boys Middle School Shahamand (P)*                  (COMBINED),30.50979,73.82935,Combined,Punjab,2,1,1172,886
+85,Govt. Boys Primary School- Amlike Suhag (P)*             (MALE),30.51094,73.77879,Male,Punjab,3,0,1185,0
+86,Govt. Girls Primary School- Amlike Suhag (P)*            (FEMALE),30.51146,73.77906,Female,Punjab,0,2,0,935
+88,Govt Primary School Jasso ke Suhag (P)*                       (COMBINED),30.51147,73.76926,Combined,Punjab,1,1,400,260
+30,Govt. Boys Primary School Amira Tajeka                   (COMBINED),30.51584,73.91549,Combined,Punjab,2,1,799,638
+34,Govt. Girls Primary School Jemal Baziday Ke (P)*                    (COMBINED),30.5193,73.93095,Combined,Punjab,2,1,698,548
+83,Govt. Boys Primary School- Kot Baidi (Narain) (P)*                (COMBINED),30.52273,73.82436,Combined,Punjab,1,1,443,304
+163,Govt. Boys High School- Qila Deewa Singh (P)*                (MALE),30.53081,73.75053,Male,Punjab,4,0,2064,0
+48,Govt. Boys Primary School Lilli Ke     (COMBINED),30.5309,73.84623,Combined,Punjab,2,1,817,623
+115,Govt. Model Primary School Nawan Kot Jagir (P)*        (COMBINED),30.53098,73.5748,Combined,Punjab,1,1,391,302
+116,Govt. Boys Elementry School- Farid Pur Jagir (P)*              (COMBINED),30.53535,73.61443,Combined,Punjab,2,1,595,441
+167,Govt. Boys Elementry School- Bonga saleh (P)*                 (COMBINED),30.5492,73.73431,Combined,Punjab,2,1,1028,818
+164,Govt. Girls Middle School- Qila Deewa Singh (P)*             (FEMALE),30.54937,73.73425,Female,Punjab,0,4,0,1522
+113,Govt. Boys Primary School- Kari Wala Jagir(P)*                (COMBINED),30.5495,73.58659,Combined,Punjab,2,1,595,498
+101,Govt. Girls Primary School Kotha Jhang Shesham              (COMBINED),30.55699,73.67053,Combined,Punjab,2,1,695,521
+105,Govt. Girls Elementary School 5/SP Kartar Pur (P)*    (COMBINED),30.55699,73.67056,Combined,Punjab,2,1,1152,833
+107,Govt. Boys High School 3/SP      (MALE),30.55699,73.67059,Male,Punjab,4,0,1482,0
+108,Basic Health Unit 3/SP           (FEMALE),30.55699,73.67062,Female,Punjab,0,2,0,1060
+109,Govt. Boys Middle School 2/SP Chambah             (COMBINED),30.55699,73.67065,Combined,Punjab,2,2,863,656
+110,Govt. Boys Primary School Chak Anokh Singh (P)*          (COMBINED),30.55699,73.67068,Combined,Punjab,2,1,680,560
+150,Govt. Boys Primary School- Rorhi (P)*                   (COMBINED),30.57639,73.84,Combined,Punjab,2,1,700,505
+170,Govt. Girls Elementry School- Ladhay wal (P)*             (COMBINED),30.58363,73.70457,Combined,Punjab,2,1,868,676
+169,Govt. Boys High School- Ladhay wal (P)*                              (COMBINED),30.58364,73.70454,Combined,Punjab,2,2,1080,882
+168,Government Boys Primary School Sazawar Sidharka (P)*  (COMBINED),30.58848,73.68618,Combined,Punjab,2,2,880,606
+157,Govt. Boys Primary School- Chak Sahiba Wala (P)*                        (MALE),30.60361,73.78416,Male,Punjab,4,0,1365,0
+158,Govt. Girls Primary School- Chak Sahiba Wala  (P)*                 (FEMALE),30.60361,73.78419,Female,Punjab,0,2,0,960
+159,Govt. Boys Middle School- Muda (P)*               (COMBINED),30.60361,73.78422,Combined,Punjab,2,2,607,438
+152,Govt Boys High School- Chourasta Mian Khan D Block (P)*         (MALE),30.61189,73.76305,Male,Punjab,4,0,1491,0
+153,Govt Girls Primary School- Chourasta Mian Khan   (COMBINED),30.61189,73.76308,Combined,Punjab,2,1,598,477
+154,Govt. Boys High School- Chourasta Mian Khan A Block (P)*      (FEMALE),30.61189,73.76311,Female,Punjab,0,3,0,1066
+155,Govt. Boys High School- Chourasta Mian Khan C Block (T)**       (MALE),30.61189,73.76314,Male,Punjab,4,0,1870,0
+156,Govt. Boys High School- Chourasta Mian Khan B Block (P)*        (FEMALE),30.61189,73.76317,Female,Punjab,0,4,0,1474
+160,Govt. Boys Primary School- Koiki Bahawal (P)*          (COMBINED),30.61189,73.7632,Combined,Punjab,2,2,737,532
+161,Govt. Boys Primary School- Noore Key (P)*            (COMBINED),30.61189,73.76323,Combined,Punjab,2,1,462,346
+162,Govt.Boys Primary School- Noore Key (Pinjri Pur)       (COMBINED),30.61189,73.76326,Combined,Punjab,2,1,529,394
+165,Union Council Jafarabad   (COMBINED),30.61189,73.76329,Combined,Punjab,2,2,674,502
+166,Govt. Boys High School- Jammu Wachal (Chak Manik Kamboh) (P)*  (COMBINED),30.61189,73.76332,Combined,Punjab,2,2,874,671
+130,Govt. Boys High School-     Mancharian  East Side   (P)*      (MALE),30.61636,73.71686,Male,Punjab,4,0,1829,0
+131,Govt. Boys High School-       Mancharian West Side (P)*        (FEMALE),30.61636,73.71689,Female,Punjab,0,3,0,1167
+151,Govt. Maktab Masjid School- 7/D (Rakh Dharmay Wala) (P)*  (COMBINED),30.61753,73.7579,Combined,Punjab,2,1,545,408
+148,Govt. Boys Primary School- Enyain (P)*                        (COMBINED),30.62104,73.8137,Combined,Punjab,2,2,679,541
+132,Govt. Girls High School-      Mancharian (P)*           (MALE),30.62176,73.6998,Male,Punjab,4,0,1854,0
+134,Govt. Girls High School-      Mancharian (P)*                  (FEMALE),30.62176,73.69983,Female,Punjab,0,2,0,1344
+136,office of the Union Council Dharamay Wala                   (COMBINED),30.6275,73.70083,Combined,Punjab,2,1,442,357
+140,Govt. Boys Primary School- Bhai Rao Key (P)*                   (COMBINED),30.63087,73.72952,Combined,Punjab,2,2,995,759
+138,Govt. Girls High School- Dharamay wala High Portion (P)*     (MALE),30.63198,73.7323,Male,Punjab,3,0,1163,0
+139,Govt. GirlsHigh School- Dharamay wala Primary Portion (P)*    (FEMALE),30.63198,73.73233,Female,Punjab,0,2,0,933
+147,Govt. Girls Primary School- Somian Bhollo(P)*        (COMBINED),30.64914,73.81876,Combined,Punjab,2,1,703,515
+149,Govt. Boys Primary School- Dhabai  (P)*                    (COMBINED),30.64914,73.81879,Combined,Punjab,2,2,796,652
+133,Masjid Maktab School- Changa (COMBINED),30.64944,73.70027,Combined,Punjab,1,1,239,166
+135,Govt. Boys High School- Dharamay wala High Portion (P)*   (MALE),30.65714,73.73826,Male,Punjab,4,0,1328,0
+137,Govt. Boys High School- Dharamay wala High Portion (P)*   (FEMALE),30.65714,73.73829,Female,Punjab,0,3,0,1121
+144,Govt. Boys Primary School- Adda Pur  (P)*                  (COMBINED),30.65714,73.73832,Combined,Punjab,1,1,361,315
+143,Govt. Boys Primary School- Qila Soura Singh (P)*         (COMBINED),30.65914,73.7625,Combined,Punjab,2,1,835,541
+146,Govt. Boys Middle School- Bhawan Munzabta  (P)*    (COMBINED),30.66347,73.80218,Combined,Punjab,1,1,430,344
+142,Govt. Boys Primary School- Bakho Shah (P)*            (COMBINED),30.6664,73.71554,Combined,Punjab,2,1,1009,845
+145,Govt. Boys Primary School- Chak Kamboh  (P)*                  (COMBINED),30.7032,73.81592,Combined,Punjab,2,2,985,648
+141,Govt. Boys Middle School- Mazharabad  (P)*              (COMBINED),30.70741,73.72475,Combined,Punjab,2,1,679,488

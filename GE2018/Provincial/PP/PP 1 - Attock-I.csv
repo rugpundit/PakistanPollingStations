@@ -1,0 +1,3 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+1,AGRICULTURAL OFFICE ATTOCK (MALE) I (P),33.78043,72.35783,Male,Punjab,4,0,1443,0
+2,GOVT. GIRLS HIGH SCHOOL PEOPLES COLONY ATTOCK (FEMALE) II (P),33.79066,72.35699,Female,Punjab,0,4,0,1327

@@ -1,0 +1,74 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+38,Govt: H/S Shafi Muhammad Umrani(Combined),28.45623,68.29984,Combined,Balochistan,1,1,513,431
+39,Govt: H/S Shafi Muhammad Umrani ( High Section) ( Combined),28.45623,68.29987,Combined,Balochistan,1,1,513,431
+36,Govt: P/S Shahzada khan Umrani (Combined),28.51657,68.33479,Combined,Balochistan,2,1,632,505
+34,Govt: Primary School Juma khan Umrani(Male),28.52888,68.24779,Male,Balochistan,3,0,1131,0
+35,Govt: Girls M/S Juma Khan Umrani(Female),28.52969,68.24837,Female,Balochistan,0,3,0,1009
+44,BHU Haji Dildar khan Umrani(Portion-I) Male,28.53373,68.39194,Male,Balochistan,2,0,835,0
+46,BHU Haji Dildar khan umrani(Portion-II) Female,28.53373,68.39197,Female,Balochistan,0,2,0,737
+45,Govt: M/S Alhanda khan Umrani(Male),28.53381,68.39212,Male,Balochistan,2,0,834,0
+66,TCF School Abro Mohalla (Portion-II) (Female),28.53421,68.21663,Female,Balochistan,0,3,0,1341
+65,TCF School Abro Mohalla (Portion-I) (Female),28.53421,68.21666,Female,Balochistan,0,3,0,1149
+68,Govt: Degree College DMJ (Portion-II) (Male),28.53429,68.22745,Male,Balochistan,4,0,1244,0
+67,Govt: Degree College DMJ (Portion-I) (Male),28.53447,68.22672,Male,Balochistan,4,0,1327,0
+61,Govt: Girls High School Abdul Wahab Somroo Protion-I (Female),28.5351,68.21729,Female,Balochistan,0,4,0,1242
+62,Govt: Girls High School Abdul Wahab Somroo Protion-II (Female),28.5351,68.21732,Female,Balochistan,0,3,0,1125
+69,Technical Training Centre DMJ (Portion-I)(Female),28.53517,68.22586,Female,Balochistan,0,3,0,943
+70,Technical Training Centre DMJ (Portion-II) (Female),28.53517,68.22589,Female,Balochistan,0,3,0,947
+59,Govt: Boys Model High School Dera Mrurad Jamali Portion-I (Male),28.53602,68.21864,Male,Balochistan,4,0,1221,0
+60,Govt: Boys Model High School Dera Murad Jamali Portion-II (Male),28.53602,68.21867,Male,Balochistan,4,0,1226,0
+43,Govt: P/S Mehmood khan (Goth Jagan) Combined,28.53832,68.3656,Combined,Balochistan,2,2,835,737
+33,Govt: P/S nabi Bakhsh Bhangar(Combined),28.54143,68.34753,Combined,Balochistan,1,1,477,390
+64,Office of Chaiman Market Committee DMJ Portion-I (Male),28.54248,68.22212,Male,Balochistan,3,0,1042,0
+75,Office of Chairman Market Committee DMJ Portion-II (Male),28.54248,68.22215,Male,Balochistan,4,0,1266,0
+32,Govt: P/S Arbab khan Umrani (Combined),28.54414,68.27412,Combined,Balochistan,2,2,998,661
+76,Govt: M/S Taj-ul-uloom DMJ(Female),28.54463,68.21906,Female,Balochistan,0,4,0,1238
+93,Govt: Boys P/S Bhutta Mohalla DMJ(Male),28.54556,68.22637,Male,Balochistan,2,0,829,0
+72,Govt: Girls Model H/S DMJ (Portion-I)(Female),28.54637,68.21913,Female,Balochistan,0,3,0,949
+74,Govt: Girls Model H/S DMJ (Portion-II)(Female),28.54637,68.21916,Female,Balochistan,0,4,0,1327
+85,Govt: Girls H/S Jara khan Joya DMJ(Portion-I)(Female),28.54663,68.22261,Female,Balochistan,0,4,0,1251
+89,Govt: Girls H/S Jara kha Joya DMJ(Portion-II)(Female),28.54663,68.22264,Female,Balochistan,0,4,0,1315
+90,Govt: H/S Shaheed Sohail Aslam DMJ(Portion-I)(Male),28.54666,68.22311,Male,Balochistan,2,0,885,0
+91,Govt: H/S Shaheed Sohail Aslam DMJ(Portion-II)(Male),28.54666,68.22314,Male,Balochistan,3,0,917,0
+56,Live Stock Officer D.M.Jamali Protion-I (Male),28.54703,68.20142,Male,Balochistan,2,0,839,0
+58,Live Stock Office D.M.Jamali Protion-II (Male),28.54703,68.20145,Male,Balochistan,3,0,1061,0
+71,Govt: Special H/S DMJ as Portion-I (Male),28.54774,68.21748,Male,Balochistan,3,0,978,0
+73,Govt: Boys Special H/S Dera Murad jamali (Portion-II)(Male),28.54774,68.21751,Male,Balochistan,4,0,1268,0
+92,Govt: Primary School Bohar Mohalla DMJ(Female),28.54783,68.22651,Female,Balochistan,0,4,0,1254
+57,Govt: Girls P/S Irrigation colony D.M.Jamali (Female),28.54923,68.20352,Female,Balochistan,0,4,0,1406
+84,Govt: Girls Inter College (Portion-I)(Male),28.55175,68.21924,Male,Balochistan,3,0,1106,0
+88,Govt: Girls Inter College DMJ (Portion-II)(Male),28.55175,68.21927,Male,Balochistan,3,0,1156,0
+82,Office of Agriculture Engineer- Agriculture Engineering Department Near Ghee Mill (MMD) DMJ(Female),28.55249,68.21832,Female,Balochistan,0,4,0,1258
+87,Govt: P/S Ghee Mill Mohalla (Portion-II)(Male),28.5532,68.22018,Male,Balochistan,4,0,1156,0
+83,Govt: P/S Ghee Mill Mohalla (Portion-I) (Male),28.5532,68.22023,Male,Balochistan,3,0,1105,0
+77,Fishries Office DMJ (Portion-I)(Male),28.55776,68.21619,Male,Balochistan,2,0,840,0
+79,Fishries Office DMJ Portion-III(Male),28.55776,68.21622,Male,Balochistan,3,0,1064,0
+30,Govt: P/S Mola Bakhsh Pandrani ( Combined),28.56675,68.28199,Combined,Balochistan,1,1,539,356
+80,Govt: Boys P/S Bachal khan Mugheri(Male),28.56904,68.22807,Male,Balochistan,2,0,521,0
+49,Govt: Girls P/S Muhammad Sadique bangulzai (Female),28.57391,68.23788,Female,Balochistan,0,2,0,788
+48,Govt: Boys P/S Muhammad Sadique bangulzai(Male),28.57391,68.23799,Male,Balochistan,3,0,953,0
+50,Govt: P/S Haji khan Painhar (Combined),28.58878,68.26347,Combined,Balochistan,1,1,342,177
+21,Govt; P/S Sohbat khan ( Combined),28.58978,68.38394,Combined,Balochistan,2,2,878,604
+27,BHU Abdul Hameed Khosa (Female),28.60343,68.40955,Female,Balochistan,0,4,0,1415
+22,BHU Allah Waraya Shar ( Male),28.60374,68.32206,Male,Balochistan,3,0,1091,0
+26,Govt: Boys H/S Abdul Hameed khosa(Male),28.60401,68.40894,Male,Balochistan,4,0,1630,0
+24,Govt:P/S Abdul Khaliq Khosa (Combined),28.60502,68.328,Combined,Balochistan,2,1,696,523
+23,Govt: Girls P/S Pir bakhsh Shar ( Female),28.61003,68.35939,Female,Balochistan,0,2,0,860
+20,Govt: Boys P/S Wahid Bakhsh khosa ( Combined),28.62323,68.38594,Combined,Balochistan,1,1,272,205
+19,Govt: Girls P/S Mir Muhammad Shah (Female),28.63113,68.39333,Female,Balochistan,0,4,0,1304
+52,Govt: Boys P/S Dost Muhammad Pandrani(Combined),28.63188,68.1951,Combined,Balochistan,2,1,607,485
+18,Govt: Boys M/S Mir Muhammad Shah ( Male),28.63335,68.39278,Male,Balochistan,2,0,796,0
+51,Al-Aziz Public School Goth Rehmatullah Jakhrani (Jakhrani Pull Rabi Canal ) (Combined),28.63739,68.17323,Combined,Balochistan,2,1,606,485
+29,Civil Dispensary- Mir Hassan ( Female),28.64468,68.41101,Female,Balochistan,0,3,0,1178
+28,Govt: Boys H/S Mir Hassan (Male),28.64546,68.40851,Male,Balochistan,4,0,1492,0
+17,BHU Shah Pur ( Female),28.71932,68.4128,Female,Balochistan,0,4,0,1338
+55,Govt: M/S Nuttal ( Combined),28.75217,68.07981,Combined,Balochistan,2,2,1098,612
+4,Govt: P/S Banri ( combined),28.85318,68.3244,Combined,Balochistan,2,1,599,182
+10,Govt: H/S Chattar Portion-II Male,28.86632,68.32904,Male,Balochistan,2,0,945,0
+8,Govt: H/S Chattar Portion-I (Combined),28.86632,68.32907,Combined,Balochistan,2,2,696,622
+9,Govt: P/S Wazirani ( Combined),28.88241,68.34661,Combined,Balochistan,2,1,643,362
+7,Govt: M/S Korar (Portion-II) Tahir Kot ( Female),28.92199,68.33056,Female,Balochistan,0,3,0,884
+6,Govt: M/S Korar ( Portion -I) Male,28.93461,68.32357,Male,Balochistan,4,0,1384,0
+2,Govt: H/S Phuleji (combined),28.99487,68.34834,Combined,Balochistan,2,1,607,431
+3,Govt: H/S Phuleji ( Portion-II) ( Combined),28.99487,68.34837,Combined,Balochistan,1,1,416,275
+1,Govt: P/S Phuleji balina combined,29.00181,68.34608,Combined,Balochistan,2,2,789,448

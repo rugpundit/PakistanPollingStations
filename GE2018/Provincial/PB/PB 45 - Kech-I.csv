@@ -1,0 +1,53 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+9,Govt Boys P/S Shaitap,25.84573,63.21426,Combined,Balochistan,1,1,327,203
+27,Govt Boys P/S Talsar,25.92451,63.87902,Combined,Balochistan,1,1,357,226
+31,Govt Boys P/S Rodhkahn,26.00638,63.59031,Combined,Balochistan,2,2,617,566
+58,Govt Girls Middle School Heronk,26.01006,63.59492,Female,Balochistan,0,3,0,883
+57,Govt Boys H/S Heronk,26.01182,63.59504,Male,Balochistan,3,0,1161,0
+25,Govt GGCMPS Hoshab,26.01399,63.89485,Female,Balochistan,0,3,0,1007
+36,Govt Boys P/S Marastan,26.01439,63.88153,Combined,Balochistan,1,1,265,167
+24,Govt Boys H/S Hoshab,26.01668,63.88195,Male,Balochistan,4,0,1334,0
+26,Govt Boys P/S Ball Hoshab,26.01891,63.57649,Combined,Balochistan,1,1,339,231
+39,Govt Boys M/S Baloor,26.02587,64.3074,Combined,Balochistan,2,2,587,523
+35,Govt Boys P/S Segek,26.02621,63.4454,Combined,Balochistan,2,1,505,400
+23,Govt Boys H/S Tijaban,26.02622,63.7142,Combined,Balochistan,2,1,506,376
+59,Govt Boys P.S Kallag,26.0281,63.45162,Combined,Balochistan,1,1,329,243
+53,Govt Girls M/S Shahrak,26.02853,63.34174,Female,Balochistan,0,3,0,878
+37,Govt Boys P/S Jath,26.03326,63.42043,Combined,Balochistan,1,1,342,320
+52,Govt Boys H/S Shahrak,26.03328,63.33413,Male,Balochistan,3,0,1046,0
+55,Govt Boys P/S Danesar,26.03673,63.40998,Combined,Balochistan,1,1,218,192
+51,Govt Boys P.S Kesaak,26.04517,63.2007,Combined,Balochistan,1,1,280,208
+32,Govt Boys P/S Aashal,26.0584,63.30313,Combined,Balochistan,1,1,131,153
+54,Govt Boys P/S Kicken,26.06041,63.30664,Combined,Balochistan,1,1,114,68
+38,Govt Boys P/S Choteen,26.06761,64.64912,Combined,Balochistan,1,1,161,141
+34,Govt Boys P/S Band Malik Haji Mohammad Baks Bazar,26.11271,64.42896,Combined,Balochistan,1,1,317,269
+30,Govt Boys M/S Gattedap,26.11301,64.35706,Combined,Balochistan,1,1,210,165
+33,Govt Boys H/S Dandar,26.14772,64.4511,Combined,Balochistan,2,2,874,622
+6,Govt Girls M/S Korepusht,26.26242,63.07285,Female,Balochistan,0,2,0,624
+28,Govt Boys P/S Balgathar Amin Bazar Loop,26.26284,63.98052,Combined,Balochistan,2,2,797,602
+18,Govt Boys H/S Alandoor (High Section for Male),26.27519,63.03028,Male,Balochistan,4,0,1456,0
+19,Govt Boys H/S Alandoor (Primary Section for Female),26.27519,63.03031,Female,Balochistan,0,3,0,1010
+44,Govt Boys H/S Nag,26.28307,62.95662,Combined,Balochistan,2,2,604,475
+8,Govt Boys P/S Jadin,26.2848,63.14243,Combined,Balochistan,2,1,569,362
+5,Government Boys P/S Koreposht,26.29194,63.1507,Male,Balochistan,2,0,836,0
+12,Govt: Boys H/S Menaz,26.29287,63.08334,Combined,Balochistan,2,2,726,661
+14,Govt: Girls H/S Menaz Buleda,26.29332,63.08396,Female,Balochistan,0,2,0,780
+10,Govt: Boys P/S Muhammad Abad Menaz,26.2949,63.07656,Combined,Balochistan,2,1,496,399
+4,Government Girls M/S Magribi koshk,26.29879,63.18953,Female,Balochistan,0,3,0,1151
+1,Government Boys H/S Koshk (High Section for Male),26.29916,63.19249,Male,Balochistan,3,0,1229,0
+2,Government Boys H/S Koshk (Primary Section for Female),26.29916,63.19252,Female,Balochistan,0,2,0,737
+43,Govt Boys P/S Taplo,26.2993,62.985,Combined,Balochistan,1,1,234,185
+11,GGCMPS Muhammad Abad Buleda,26.301,63.07678,Combined,Balochistan,1,1,402,373
+17,Govt Boys P/S Reko Buleda,26.30237,63.11,Combined,Balochistan,1,1,277,231
+42,Govt Boys M/S Khan Kallag,26.30521,62.98556,Combined,Balochistan,1,1,111,262
+16,Govt: Girls H/S Soloo,26.30571,63.1177,Female,Balochistan,0,3,0,968
+20,Govt Boys P/S Bahot Bazar,26.30766,62.91759,Combined,Balochistan,2,1,474,378
+7,Govt Boys P/S Chib Buleda,26.30838,63.1165,Combined,Balochistan,2,2,775,538
+3,Government Boys H/S Bit,26.31002,63.1563,Male,Balochistan,4,0,1762,0
+40,Govt Boys H/S Badai,26.44226,62.71809,Combined,Balochistan,1,1,398,222
+41,Govt Boys P/S Dashtuk,26.46259,62.05915,Combined,Balochistan,1,1,314,188
+48,Govt Boys P/S Margothi,26.50547,63.05016,Combined,Balochistan,1,1,198,198
+47,Govt Boys P/S Kasvi,26.54251,62.91016,Combined,Balochistan,1,1,352,371
+46,Govt Boys M/S Tahtani Gethan,26.54684,62.94242,Combined,Balochistan,1,1,215,141
+49,Govt Boys P/S Darbuli,26.5787,62.97877,Combined,Balochistan,1,1,231,250
+50,Govt Boys P/S Garebun,26.58614,62.90485,Combined,Balochistan,1,1,185,184

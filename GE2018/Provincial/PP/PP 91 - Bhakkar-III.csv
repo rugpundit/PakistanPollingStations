@@ -1,0 +1,148 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+71,Govt Boys High School Karlu wala (Primary Portion),30.967751,71.2007535,Combined,Punjab,1,1,576,454
+72,Govt Boys High School Karlu wala (High Portion),30.967751,71.2007835,Combined,Punjab,2,1,728,590
+52,Govt Boys Elementary School Sangeran Wala(Elementory Portion),31.205616309980666,71.39073445009079,Combined,Punjab,2,1,667,532
+53,Govt Boys Elementary School Sangeran Wala(Primary Portion),31.205616309980666,71.3907644500908,Combined,Punjab,1,1,540,377
+115,Govt Girls Primary School Chak No 2 Rakh Mauj Garh,31.223627639483087,71.33451477140218,Combined,Punjab,2,1,826,573
+54,Govt Boys Elementary School Shady wala,31.255662496428556,71.34326138509826,Combined,Punjab,1,1,626,400
+90,Govt Model Primary School Ghup Ghulwanwala,31.26517970986872,71.78061149670015,Combined,Punjab,1,1,506,349
+125,Govt Boys Elementary School 71ML (Elementory Portion),31.27381,71.28384,Female,Punjab,0,2,0,868
+110,Govt Girls Primary School Magasi wala,31.29364693735699,71.90594805013373,Combined,Punjab,2,1,1054,741
+112,Govt Boys Primary School Magasi wala,31.29364693735699,71.9059780501337,Combined,Punjab,2,1,735,553
+127,Govt Boys High School 72ML (High Portion),31.31233,71.22742,Combined,Punjab,1,1,501,364
+120,Govt Boys Primary School 70ML,31.31710573205484,71.22540830689951,Combined,Punjab,2,1,704,527
+128,Govt Boys High School 70-A ML (P),31.31710573205484,71.2254383068995,Combined,Punjab,1,1,680,518
+89,Govt Boys Elementary School Basti Islamabad,31.331088963551764,71.75911629101643,Combined,Punjab,2,1,824,533
+121,Govt Boys Primary School 74ML,31.338948685520062,71.2081639737558,Combined,Punjab,1,1,496,368
+108,Govt Boys High School Dhingana No 1 (Primary Portion),31.3440126861032,71.9217406482121,Combined,Punjab,2,1,1108,744
+109,Govt Boys High School Dhingana (Middle Portion),31.3440126861032,71.9217706482121,Combined,Punjab,1,1,641,433
+132,Govt Model Primary School 216 TDA,31.344550989812767,71.2464775345381,Combined,Punjab,1,1,604,426
+91,Govt Boys Primary School Shah Said Ali wala,31.345325005166604,71.76350006154051,Combined,Punjab,2,1,857,625
+92,Govt Girls Primary School Shah Said Ali wala,31.345325005166604,71.7635300615405,Combined,Punjab,1,1,595,463
+88,Govt Girls Primary School Cheena Haider Abad,31.34571298713025,71.70272873615546,Combined,Punjab,1,1,620,470
+83,Govt Boys Higher Secondary School Haider Abad,31.346475215634424,71.69456379899984,Combined,Punjab,2,1,829,738
+84,Govt Girls Primary School Mohallah Gharbi Haider Abad,31.3479950409008,71.69217017263567,Male,Punjab,2,0,1182,0
+85,Govt Girls Primary School Mohallah Janubi Haider Abad,31.3479950409008,71.6922001726357,Female,Punjab,0,2,0,1045
+86,Govt Girls CM Elementary School Haider Abad (Male),31.34889827631811,71.69643050719131,Male,Punjab,2,0,960,0
+87,Govt Girls CM Elementary School Haider Abad(Female),31.34889827631811,71.6964605071913,Female,Punjab,0,2,0,846
+55,Govt Boys Primary School Jhangi Ram,31.349105,71.6823051,Combined,Punjab,1,1,355,225
+56,Govt Boys Primary School Dadoo,31.349105,71.6823351,Combined,Punjab,2,1,858,700
+93,Govt Boys Primary School Muhani Shah wala,31.349105,71.6823651,Combined,Punjab,2,1,851,759
+79,Govt Boys School Muhammad Yar Wala,31.3611242,71.6077008,Combined,Punjab,2,1,962,685
+129,Govt Boys Elementary School 75ML (P),31.366308799031206,71.20194046825259,Combined,Punjab,1,1,553,400
+18,Govt Boys Primary School Chak No 55TDA,31.3778,71.29939,Combined,Punjab,2,1,787,615
+44,Govt Boys Elementary School Noor Shah Kaisian wala (P),31.380785003701064,71.50415627744749,Combined,Punjab,2,1,743,606
+34,Govt Girls Primary School Mankera No.2 (P),31.381631611030947,71.44256029681546,Female,Punjab,0,2,0,999
+45,Boys Primary School  Basti Shah wali (PEF),31.386008764548677,71.55940780201334,Combined,Punjab,2,1,836,667
+40,Junior Public Elementary School Mankera,31.386119513136617,71.44393950054739,Combined,Punjab,1,1,463,353
+35,Govt Girls Primary School Andron Qila Mankera,31.38706,71.44231,Female,Punjab,0,2,0,1094
+38,Govt Girls High School Mankera  (Middle Portion),31.3873200941417,71.44313750397691,Female,Punjab,0,2,0,928
+166,Govt Boys Primary School Chak No 72 TDA,31.387611472140048,71.0616276533223,Combined,Punjab,1,1,544,431
+36,Govt Girls Primary School Mankera No1  (P),31.387633032478558,71.4415715936164,Male,Punjab,2,0,1090,0
+32,Govt Boys High School Mankera  (Middle Portion),31.387767533755383,71.43843795045596,Male,Punjab,2,0,1064,0
+33,Govt Boys High School Mankera  (High Portion),31.387767533755383,71.438467950456,Male,Punjab,2,0,1172,0
+119,Govt Girls Primary School Chak No-66 ML,31.38829,71.20709,Combined,Punjab,2,1,816,644
+37,Govt College of Commerce Mankera,31.39227,71.44157,Male,Punjab,2,0,1225,0
+167,Govt Girls Primary School Chak No-81 ML,31.39287913504242,71.03217338356139,Combined,Punjab,1,1,494,362
+10,Govt Girls Primary School Khan Pur Janubi,31.39318237952087,71.13768671450785,Combined,Punjab,2,1,894,687
+117,Govt Girls High SchoolS Chak No-67 ML (Primary Portion),31.39336,71.22572,Male,Punjab,2,0,1398,0
+118,Govt Girls High SchoolS Chak No-67 ML (High Portion),31.39336,71.22575,Female,Punjab,0,2,0,1021
+131,Govt Girls Elementory School Chak No 214 TDA,31.39352,71.24251,Combined,Punjab,1,1,626,521
+130,Govt Boys Primary School Nusrat wala,31.400890619345972,71.26782231018501,Combined,Punjab,2,1,700,575
+189,Govt Girls Elementary School 65 ML,31.402542469867157,71.18217587414493,Combined,Punjab,1,1,407,318
+190,Govt Boys Primary School Chak No 65ML,31.402542469867157,71.1822058741449,Combined,Punjab,1,1,242,176
+168,Govt Model Primary School Chak No 80ML,31.40398265886587,71.0460514407811,Combined,Punjab,1,1,403,303
+94,Govt Boys Primary School Lot No 255,31.404449447029105,71.71829001444023,Combined,Punjab,1,1,622,435
+185,Govt Boys High School Chak No 73TDA (P),31.410689544103896,71.1540170834074,Combined,Punjab,1,1,474,346
+41,Govt Boys Primary School Allot No 182 Chudhari wala,31.41196860278478,71.40206916725042,Combined,Punjab,1,1,554,467
+184,Govt Boys Elementary School Chak No 62ML (P),31.418229706923228,71.19328267966898,Combined,Punjab,2,1,763,626
+169,Govt Girls CM Elementary School Chak No 79ML,31.418995811340803,71.05216793105674,Combined,Punjab,1,1,632,526
+47,Govt Girls Elementary School Sarki,31.426338741881377,71.3759947937743,Combined,Punjab,1,1,651,526
+111,Govt Boys Elementary School Shah wala,31.429696580707738,71.93794442028275,Combined,Punjab,1,1,585,424
+100,Govt Boys Primary School Topri wala,31.430698956834192,71.81332437603997,Combined,Punjab,1,1,661,526
+186,Govt Boys Primary School Chak No 62TDA,31.432348917519107,71.17194846338404,Combined,Punjab,1,1,407,315
+171,Govt Boys Primary School 67TDA,31.43583364325546,71.11439590812218,Combined,Punjab,2,1,727,544
+46,Govt Boys Primary School ALot Ali wali,31.437006509385665,71.492932676589,Combined,Punjab,1,1,499,417
+164,Govt Girls Primary School Chak No 69 TDA,31.437051955733743,71.08211331097507,Combined,Punjab,1,1,504,358
+165,Govt Girls Primary School Chak No70TDA,31.438669287097262,71.06048171363713,Combined,Punjab,1,1,550,335
+48,Boys Primary School Bumby Wala (PEF),31.44263131673946,71.3338271241977,Combined,Punjab,1,1,513,369
+182,Govt Girls High School Chak No 60-61ML (P),31.45020515440929,71.21146270985776,Combined,Punjab,1,1,579,474
+173,Govt Girls Elementary School Chak No 63 TDA,31.451584431852453,71.15365533760131,Combined,Punjab,2,1,838,608
+96,Govt Boys High School Darbula (PS-1),31.45320709004178,71.80161788313187,Combined,Punjab,2,1,671,543
+97,Govt Boys High School Darbual (PS-2),31.45320709004178,71.8016478831319,Combined,Punjab,1,1,528,430
+187,Govt Boys Elementary School Chak No 209TDA (P),31.456170932869487,71.23833113568253,Combined,Punjab,2,1,834,695
+175,Govt Boys Primary School Chak No 57 TDA,31.45974196875308,71.10982135247383,Combined,Punjab,1,1,390,358
+174,Govt Girls Primary School 66TDA,31.461506071561438,71.11896075117653,Combined,Punjab,1,1,433,329
+105,Govt Boys Elementary School Bhidwal wala (Primary Portion),31.4636536157818,71.91159640912264,Combined,Punjab,1,1,422,358
+106,Govt Boys Elementary School Bhidwal wala (Elementory Portion),31.4636536157818,71.9116264091226,Combined,Punjab,1,1,617,487
+57,Govt Boys Elementary School Magasi wala (Primary Portion),31.46623850041064,71.29953752730148,Combined,Punjab,1,1,558,399
+58,Govt Boys Elementary School Magasi wala (Elementory Portion),31.46623850041064,71.2995675273015,Combined,Punjab,2,1,873,749
+172,Govt Boys Primary School Chak No 58TDA,31.47445249857137,71.12171014805438,Combined,Punjab,2,1,751,518
+16,Govt Girls CMS Elementary School Notak No 1,31.475308852268505,71.0295207696225,Combined,Punjab,2,1,897,793
+176,Govt Boys High School Chak No 59TDA (P),31.475421077122526,71.16696717090214,Combined,Punjab,2,1,841,650
+17,Office Agriculture Officer Notak,31.475869485356892,71.0301318724942,Combined,Punjab,2,1,312,269
+13,Govt Boys High School Notak Daggar(Primary Portion),31.477040906602184,71.03130414094059,Female,Punjab,0,2,0,880
+14,Govt Boys High School Notak  (Middle Portion),31.47708800488766,71.03132473053499,Male,Punjab,2,0,1124,0
+15,Govt Boys High School Notak (High Portion),31.47708800488766,71.031354730535,Combined,Punjab,2,1,946,759
+43,Govt Girls Elementary School Ariyan wala,31.47790476299967,71.46350655369658,Combined,Punjab,1,1,409,339
+42,Govt Boys Primary School Ariyan Wala,31.4784,71.46668,Combined,Punjab,2,1,842,613
+19,Govt Boys Primary School Chak No 56TDA,31.480973135169908,71.09476943785181,Combined,Punjab,1,1,582,446
+6,Govt Girls Community Modal Elementary School Chak No 54 TDA (P),31.482972569580596,71.09296483746866,Combined,Punjab,1,1,530,366
+153,Govt Boys Primary School 208 TDA,31.483070205806026,71.24419321048498,Combined,Punjab,1,1,291,208
+11,Govt Boys Primary School Chak No 57-58ML,31.490700105210518,71.22292344659948,Combined,Punjab,2,2,1064,825
+188,Govt Girls Elementary School Chak No 56ML Dost Muhammad Wala,31.490903912153968,71.2667372138266,Combined,Punjab,1,1,245,229
+177,Govt Boys Elementary School Chak No 53TDA,31.494631558333783,71.12548571286044,Combined,Punjab,2,1,717,585
+178,Govt Boys Primary School Chak No 52TDA,31.494810400828793,71.15718221901024,Combined,Punjab,2,1,678,562
+98,Govt Boys Elementary School Doury wala (Primary Portion),31.496163995049855,71.76124121566292,Combined,Punjab,2,1,771,704
+156,Govt Girls Model Elementary School 51TDA,31.500224493615207,71.17032892161372,Combined,Punjab,2,1,867,666
+151,Govt Primary School Chak No 206 TDA,31.51067290839013,71.27478669183526,Combined,Punjab,2,1,694,477
+99,Govt Model Primary School Obhal,31.514507028826955,71.73716818441062,Combined,Punjab,1,1,388,365
+107,Govt Boys High School Sher Garh  No 1,31.519204083490624,71.95675882127364,Combined,Punjab,2,1,1024,834
+154,Govt Girls Elementary School Chak No 48 TDA,31.519338759802967,71.17031732397847,Male,Punjab,2,0,1195,0
+155,Govt Boys Primary School Chak No 48 TDA,31.519338759802967,71.1703473239785,Female,Punjab,0,2,0,967
+7,Govt Boys Elementary School KhanPur Shaumali(Primary Portion),31.523153917079043,71.20554865438719,Combined,Punjab,2,1,663,488
+8,Govt Boys Elementary School KhanPur Shaumali(Elementory Portion),31.523153917079043,71.2055786543872,Combined,Punjab,1,1,539,382
+101,Govt Boys High School Mahni (High Portion),31.52377346021204,71.84584226790936,Combined,Punjab,2,1,736,622
+103,Govt Boys High School Mahni (Primary Poration),31.524246238834138,71.8507707556943,Combined,Punjab,2,1,758,630
+150,Govt Girls Elementary School Chak No 49 TDA (P),31.524289435829978,71.1353825750069,Combined,Punjab,2,1,983,829
+104,Govt Primary School Dairy Form Rakh Mahni,31.524615948755287,71.85987925335974,Combined,Punjab,1,1,479,339
+102,Govt Model Elementary School Mahni,31.524843294737153,71.85966757377561,Combined,Punjab,1,1,666,547
+142,Govt Girls Elementary School Chak No 204 TDA (P),31.5275,71.25166,Combined,Punjab,1,1,654,531
+1,Govt Girls High School China Daggar (P),31.529633814763873,71.03586031274402,Combined,Punjab,2,2,855,731
+148,Govt Boys High School Chak No 47 TDA (High Portion),31.53021199331451,71.16576257969724,Male,Punjab,3,0,1377,0
+149,Govt Boys High School Chak No 47 TDA (Primary Portion),31.53021199331451,71.1657925796972,Female,Punjab,0,2,0,1161
+2,Govt Boys High School China Daggar (P),31.533510542784636,71.03679602892653,Combined,Punjab,2,2,1008,885
+5,Govt Girls High School 42-43 TDA,31.535459516802604,71.09723581359152,Combined,Punjab,2,1,841,678
+59,Boys Primary School Yaro wala (PEF),31.53877,71.29118,Combined,Punjab,1,1,544,486
+27,Govt Boys Primary School Muradian Wala Moza Daggar Shada,31.53886,71.29131,Combined,Punjab,1,1,261,164
+146,Govt Girls Elementary School Chak No 46 TDA,31.541061860948428,71.16444406552947,Combined,Punjab,1,1,673,569
+147,Govt Boys Primary School Chak No 46 TDA (P),31.541061860948428,71.1644740655295,Combined,Punjab,2,1,731,609
+143,Govt Girls High School Chak No 44 TDA,31.55091637622351,71.13488805296161,Combined,Punjab,2,1,1024,767
+145,Govt Boys Primary School Chak No 45 TDA  (P),31.5547984992982,71.15748625770205,Combined,Punjab,1,1,729,597
+138,UC Office Karari Kot,31.56583,71.21584,Combined,Punjab,2,1,669,536
+134,Govt Girls High School Karari Kot (Elementory Portion),31.5675,71.21139,Combined,Punjab,2,2,1137,855
+135,Govt Girls High School Karari Kot (High Portion),31.5675,71.21142,Combined,Punjab,2,2,1060,856
+136,Govt Boys High School Karari Kot (Elementory Portion),31.57055,71.2125,Combined,Punjab,1,1,639,544
+137,Govt Boys High School Karari Kot (High Portion),31.57055,71.21253,Combined,Punjab,2,1,931,735
+140,Govt Primary School Chrohiyan wala,31.57222,71.22389,Combined,Punjab,1,1,763,563
+141,Govt Primary School Chak No 202TDA,31.57861,71.29083,Combined,Punjab,2,1,750,602
+25,Govt Boys High School Daggar Shada (Primary Portion),31.58016,71.33849,Female,Punjab,0,2,0,884
+26,Govt Boys High School Daggar Shahda(High Portion),31.58016,71.33852,Male,Punjab,2,0,1140,0
+159,Govt MiddlElementary School Kamal Theem (P),31.58111,71.15556,Combined,Punjab,2,1,780,592
+160,Govt Girls Elementary School Kamal Theem Chah Gorcha (Primary Portion),31.58111,71.15559,Combined,Punjab,2,1,689,517
+113,Govt Boys Elementary School Khew (Elementory Portion),31.58457781403145,71.76527910544993,Combined,Punjab,2,1,686,466
+114,Govt Boys Elementary School Khew (Primary Portion),31.58457781403145,71.7653091054499,Combined,Punjab,1,1,416,341
+23,Govt Boys Primary School Chanjri,31.590051404498947,71.36760768345118,Male,Punjab,2,0,1042,0
+24,Govt Girls Primary School Chanjri,31.590051404498947,71.3676376834512,Female,Punjab,0,2,0,849
+162,Govt Middle Elementary School Chak No 36TDA (P),31.61125663935853,71.15543569718896,Male,Punjab,2,0,1142,0
+163,Govt Girls Primary School Chak No 36TDA,31.61209386508497,71.15625677448247,Female,Punjab,0,2,0,888
+144,Govt Girls Primary School Chak No 45 TDA  (P),31.6141115,71.0795923,Combined,Punjab,2,1,935,735
+31,Govt Model School Mehmood wala,31.621334287815493,71.3006006347521,Combined,Punjab,2,2,968,873
+63,Govt Boys Elementary School Jhari Sawag,31.62283,71.46873,Combined,Punjab,2,1,827,591
+21,Govt Boys Elementary School Nawan Gasu(Primary Portion),31.630442370855874,71.39356998748299,Male,Punjab,2,0,1213,0
+22,Govt Boys Elementary School Nawan Gasu(Middle Portion),31.630442370855874,71.393599987483,Female,Punjab,0,2,0,1058
+65,Govt Boys Primary School Nawab Wala,31.63414,71.43526,Combined,Punjab,1,1,480,398
+158,Govt Boys Primary School 188 TDA,31.64091,71.18267,Combined,Punjab,1,1,433,337
+28,Govt Boys Primary School Mured wala Khansar,31.653320711649222,71.30799146049644,Combined,Punjab,1,1,444,368
+29,Govt Girls Primary School Mured wala Khansar,31.653320711649222,71.3080214604964,Combined,Punjab,1,1,528,472
+30,Govt Girls Primary School Norang Wala Khansar,31.670206736954178,71.33727375407554,Combined,Punjab,1,1,482,405

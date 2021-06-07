@@ -1,0 +1,175 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+149,Govt: Boys Primary School- Kund Kanjwan   (Combined),30.141172770430234,73.36390764961283,Combined,Punjab,2,1,654,435
+163,Govt:Boys Primary School- Kot  Bahawal (East)   (Combined),30.1581487648016,73.2074109879031,Combined,Punjab,2,2,836,689
+164,Govt:Boys Primary School- Kot Bahawal (West)  (Combined),30.1581487648016,73.2074409879031,Combined,Punjab,2,1,691,473
+120,Govt:Boys Middle School- Kot Bakhsha (West) (Combined),30.175636072699273,73.27707688842717,Combined,Punjab,1,1,361,287
+151,Govt:Boys Middle School- Kot Bakhsha (West)    (Combined),30.175636072699273,73.2771068884272,Combined,Punjab,1,1,311,241
+150,Govt.Boys Middle School- Kot  Bakhsha East  (Combined),30.175667589154312,73.2770212062496,Combined,Punjab,2,1,817,681
+161,Govt:Girls  Middle School Hotta  (Combined),30.187285544288144,73.20220117868588,Combined,Punjab,1,1,280,210
+158,Govt:Boys High School- Hotta (East)  (Male),30.189170799412096,73.20323297748644,Male,Punjab,3,0,1329,0
+159,Govt:Boys High School- Hotta (East) (Female),30.189170799412096,73.2032629774864,Female,Punjab,0,2,0,983
+160,Govt:Boys High School- Hotta (West) (Combined),30.189170799412096,73.2032929774864,Combined,Punjab,1,1,459,353
+162,Office of the Union Council No.22.Hotta   (Combined),30.189805437702393,73.2034853617494,Combined,Punjab,1,1,471,401
+152,Govt:Boys Primary School- Mari Aunmb   (Combined),30.194470838922935,73.30541518130477,Combined,Punjab,1,1,625,558
+168,Govt: Boys Primary School  10/KB  (Combined),30.205873997302913,73.24266895370711,Combined,Punjab,1,1,524,417
+156,Govt:Boys Primary School- Malooka Kalan    (Male),30.208080321875258,73.18288361762828,Male,Punjab,2,0,1104,0
+157,Govt:Boys Primary School- Malooka Kalan    (Female),30.208080321875258,73.1829136176283,Female,Punjab,0,2,0,816
+165,Govt:Boys Primary School- 8/KB (East) (Combined),30.20839359900302,73.25328175750157,Combined,Punjab,2,2,778,701
+166,Govt:Boys Primary School- 8/KB (West)   (Combined),30.20839359900302,73.2533117575016,Combined,Punjab,1,1,301,239
+130,Govt:Girls Primary School- Feroz Pur Chishtian   (Combined),30.21756760564284,73.3005775038605,Combined,Punjab,1,1,723,597
+154,Govt: Girls High School Purana Thana  (Male),30.21779,73.19183,Male,Punjab,2,0,1234,0
+155,Govt: Girls High School Purana Thana (Female),30.21779,73.19186,Female,Punjab,0,2,0,960
+129,Govt:Boys High School- Feroz Pur Chishtian (Combined),30.217923302668098,73.29754607176491,Combined,Punjab,2,2,874,769
+153,Govt:Boys Primary School- Purana Thana  (Combined),30.21961264877238,73.19224100591444,Combined,Punjab,1,1,594,483
+142,Govt:Boys Primary School- 16/KB   (Combined),30.222247431642142,73.14161681939618,Combined,Punjab,1,1,580,424
+148,Govt:Boys Primary School- 11/KB   (Combined),30.22550336169449,73.22148785664078,Combined,Punjab,2,1,856,653
+167,Govt:Boys Primary School- 9/KB  (Combined),30.227137953858985,73.25134506555435,Combined,Punjab,1,1,666,639
+128,Govt:Boys Primary School- Mahint Darshan  (Combined),30.23547002953427,73.28060913106623,Combined,Punjab,2,1,973,788
+146,Govt:Girls Middle School- 13/KB   (Male),30.23757569234867,73.19890584666936,Male,Punjab,2,0,1052,0
+147,Govt:Girls Middle School- 13/KB  (Female),30.23757569234867,73.1989358466694,Female,Punjab,0,2,0,799
+118,Govt:Model Primary School- 6/KB           (Combined),30.240777317411336,73.31897658699546,Combined,Punjab,1,1,576,406
+144,Govt:Girls Middle School- 14/KB  (Male),30.253458733575407,73.193787488348,Male,Punjab,2,0,1130,0
+145,Govt:Girls Middle School- 14/KB    (Female),30.253458733575407,73.193817488348,Female,Punjab,0,2,0,858
+175,Govt:Boys Middle School- Shahu Bloach    (Combined),30.25621570919782,73.38016670714089,Combined,Punjab,1,1,553,502
+115,Govt:Girls Primary School- Salamat             (Combined),30.25673054226391,73.34112482642519,Combined,Punjab,2,1,846,659
+124,Govt: Girls High School- Kalyana (East)    (Combined),30.2589861423627,73.22593712611356,Combined,Punjab,2,1,718,528
+126,Govt: Girls High School- Kalyana (West)  (Combined),30.25899477281175,73.22597983173713,Combined,Punjab,2,1,945,699
+143,Govt:Boys Primary School- 15/KB   (Combined),30.25964579893641,73.18563569020584,Combined,Punjab,1,1,624,453
+125,Office of the Union Council No.21. Kalyana  (Combined),30.259805543703347,73.22516317673193,Combined,Punjab,1,1,535,393
+119,Govt:Girls Primary School- Naib Wal     (Combined),30.260685630825336,73.32238815183439,Combined,Punjab,1,1,675,496
+121,Govt:Boys High School- Kalyana (East)        (Male),30.265693889874218,73.22083553205917,Male,Punjab,3,0,1581,0
+122,Govt:Boys High School- Kalyana (East)       (Female),30.265693889874218,73.2208655320592,Female,Punjab,0,2,0,1159
+123,Govt:Boys High School- Kalyana (West)   (Combined),30.265693889874218,73.2208955320592,Combined,Punjab,2,1,836,686
+177,Govt: Girls Middle  School- Thatha Manzoor Khan  (Combined),30.27162207440315,73.38097683993013,Combined,Punjab,1,1,490,326
+127,Govt:Girls Primary School- Malyana    (Combined),30.27608,73.25574,Combined,Punjab,1,1,481,321
+176,Govt Modle Primary School Lal Khan Dhudhi (Combined),30.2771435157447,73.39711210384878,Combined,Punjab,1,1,654,493
+113,Govt:Boys Primary School- Jora            (Combined),30.278380208379964,73.3567324285522,Combined,Punjab,2,1,788,606
+116,Govt.Boys Middle School- Amar Singh Hotta Road East         (Combined),30.283259674789647,73.30254923044929,Combined,Punjab,1,1,565,405
+117,Govt.Boys Middle School- Amar Singh Sochan-Hotta Road  (West)  (Combined),30.283259674789647,73.3025792304493,Combined,Punjab,1,1,546,473
+132,Govt: Boys Primary School-  Bhawan Shah    (Combined),30.284619716086958,73.21078771716192,Combined,Punjab,1,1,215,174
+111,Govt:Girls Primary School-Opana  (Male),30.29242054654493,73.26726996926381,Male,Punjab,2,0,1159,0
+112,Govt:Girls Primary School-Opana    (Female),30.29242054654493,73.2672999692638,Female,Punjab,0,2,0,854
+114,Govt:Girls Primary School- Aalam Dhudhi    (Combined),30.297043524090224,73.39287623719923,Combined,Punjab,2,1,779,496
+133,Govt:Boys Primary School- Tehi Javind Singh (Combined),30.30145096997734,73.2318157479189,Combined,Punjab,2,1,941,725
+97,Govt: Boys Primary School- Malik Pur-    (Male),30.30631765924122,73.35958645788178,Male,Punjab,2,0,1238,0
+98,Govt: Boys Primary School- Malik Pur-   (Female),30.30631765924122,73.3596164578818,Female,Punjab,0,2,0,986
+103,Govt:Boys Primary School- 2/KB   (Combined),30.30668690260489,73.32931188001953,Combined,Punjab,2,2,910,796
+102,Govt:Girls High School- Adda Kot Dewan Hotta Road   (Combined),30.309151750310413,73.34817959838497,Combined,Punjab,1,1,284,164
+99,Govt:Boys Primary School- Ali Kamal ( Male),30.31161863353611,73.3739077212962,Male,Punjab,2,0,1174,0
+137,Govt:Boys Primary School- 3/EB    (Male),30.312969532989,73.20353362980867,Male,Punjab,2,0,1038,0
+138,Govt:Boys Primary School- 3/EB   (Female),30.312969532989,73.2035636298087,Female,Punjab,0,2,0,896
+131,Govt:Boys Primary School- Singh Pura  (Combined),30.313132177632642,73.22106838708949,Combined,Punjab,1,1,369,255
+101,Govt:Boys Primary School- Dhakku Chishti   (Combined),30.313785597036162,73.3433611705079,Combined,Punjab,2,2,953,758
+96,Govt"DPS- Malik Pur  Hota Road-  (Combined),30.315259279994372,73.3579345870915,Combined,Punjab,1,1,669,508
+108,Govt:Boys Primary School- Arifabad  (Male),30.31622571625253,73.3186266992504,Male,Punjab,2,0,1271,0
+109,Govt:Boys Primary School- Arifabad  (Female),30.31622571625253,73.3186566992504,Female,Punjab,0,2,0,916
+134,Govt:Boys High School- Azmat (East)      (Male),30.317805998357237,73.24292026948999,Male,Punjab,2,0,1121,0
+135,Govt:Boys High School- Azmat (South)    (Female),30.317914063106734,73.24277717468506,Female,Punjab,0,2,0,813
+136,Govt:Boys High School- Azmat (West)      (Combined),30.317914063106734,73.2428071746851,Combined,Punjab,1,1,234,181
+107,Govt Boys Middle School Pakka Sidhar  (Combined),30.31961165404956,73.27578521770992,Combined,Punjab,1,1,656,508
+104,Govt:Boys Middle School- Pacca  Sidhar     (Male),30.31961165404956,73.2758152177099,Male,Punjab,2,0,1126,0
+105,Govt:Boys Middle School- Pacca  Sidhar     (Female),30.31961165404956,73.2758452177099,Female,Punjab,0,2,0,852
+83,Govt:Girls Primary School- Basti Ghous Nagar (Combined),30.3200978563819,73.41482841063387,Combined,Punjab,2,1,834,621
+84,Govt:Boys Primary School- Khairabad   (Combined),30.321950820380653,73.40054746192412,Combined,Punjab,1,1,532,378
+100,Govt:Girls Primary School- Malik Pur  (Female),30.323548231553264,73.37437236551891,Female,Punjab,0,2,0,927
+106,Govt:Girls Primary School- Pakka  Sidhar   (Combined),30.323836066850923,73.27982606898308,Combined,Punjab,1,1,711,554
+95,Govt:Boys Primary School- Rasool Pur (Combined),30.32579469852103,73.33553655365895,Combined,Punjab,2,1,909,708
+171,Govt:Boys Primary School- Behram Pur East (Combined),30.325941025300533,73.39095997642427,Combined,Punjab,2,2,770,632
+172,Govt:Boys Primary School- Behram Pur    west (Combined),30.32595583016088,73.39098776700979,Combined,Punjab,1,1,264,208
+110,Govt: Girls Middle School-  Kot Bhubhar     (Combined),30.32606593620491,73.29545816579326,Combined,Punjab,1,1,718,495
+173,Govt:Girls Primary School- Behram Pur   (Combined),30.326271760825588,73.39197579003877,Combined,Punjab,1,1,488,381
+86,Govt:Boys Primary School Basti Ghous Nagar  (Male),30.3269642335,73.41731776783604,Male,Punjab,2,0,1008,0
+87,Govt:Boys Primary School Basti Ghous Nagar (Female),30.3269642335,73.417347767836,Female,Punjab,0,2,0,816
+174,Office of the Union Council No.19 Behram Pur (Combined),30.329873271332207,73.39253614749659,Combined,Punjab,1,1,663,471
+139,Govt:Boys Middle School- Warseen  (Male),30.3325899,73.3909011,Male,Punjab,2,0,1068,0
+140,Govt:Boys Middle School- Warseen   (Female),30.3325899,73.3909311,Female,Punjab,0,2,0,783
+169,Govt:Boys Primary School 7/KB (Combined),30.3325899,73.3909611,Combined,Punjab,2,2,799,711
+94,Govt:Boys Primary School- Tibba  Nanak Sar  (Combined),30.333495433931212,73.32171329007114,Combined,Punjab,1,1,665,474
+46,Nursing School- Hota Road- Pakpattan East     (Male),30.33385704021137,73.39000462211212,Male,Punjab,2,0,670,0
+47,Nursing School-Hota Road- Pakpattan  West (Female),30.33385704021137,73.3900346221121,Female,Punjab,0,2,0,529
+51,Govt:Boys Middle School Sufia Abad    (Male),30.3349480224083,73.39185364334307,Male,Punjab,3,0,1711,0
+52,Govt:Boys Middle School Sufia Abad   (Female),30.3349480224083,73.3918836433431,Female,Punjab,0,2,0,1424
+48,Govt: Girls City High School East(Middle protion)  - Pakpattan    (Male),30.337297018627357,73.39041966540415,Male,Punjab,2,0,834,0
+49,Govt: Girls City High School (Middle protion)   (Male),30.337297018627357,73.3904496654041,Male,Punjab,2,0,1065,0
+50,Govt: Girls City High School West- Pakpattan   (High Portion (Female),30.337297018627357,73.3904796654042,Female,Punjab,0,3,0,1622
+53,Govt: Girls City High School West- Pakpattan   (High Portion   (Male),30.337297018627357,73.3905096654042,Male,Punjab,2,0,1342,0
+54,Govt:Girls High School-Old Tehsil Road-Pakpattan North  (Female),30.337297018627357,73.3905396654041,Female,Punjab,0,3,0,1132
+55,Govt: Girls City High School - Pakpattan   (Middle Portion   (Combined),30.337297018627357,73.3905696654042,Combined,Punjab,1,1,544,460
+62,Arif Memorial Middle School (PEF)   (Combined),30.33922,73.38406,Combined,Punjab,2,2,946,829
+63,ACPS Public School (PEF) Hussan Pura   (Male),30.33941,73.38316,Male,Punjab,2,0,1010,0
+64,ACPS Public School (PEF) Hussan Pura     (Female),30.33941,73.38319,Female,Punjab,0,2,0,916
+81,Govt.Girls Primary School Tiba Sher Kot  (Male),30.339651333756777,73.37000132314319,Male,Punjab,3,0,1555,0
+82,Govt.Girls Primary School Tiba Sher Kot (Female),30.339651333756777,73.3700313231432,Female,Punjab,0,2,0,1262
+65,Govt: MC Boys High School- No.1 near Darbar- Pakpattan North    (Male),30.33987045662307,73.38826785344952,Male,Punjab,2,0,1044,0
+66,Govt: MC Boys High School- No.1 near Darbar- Pakpattan North    (Female),30.33987045662307,73.3882978534495,Female,Punjab,0,2,0,836
+76,Govt:MC.Boys High School- No.1 near Darbar- Pakpattan East    (Male),30.339890817413988,73.38830022028263,Male,Punjab,4,0,1503,0
+77,Govt:MC.Boys High School No.1 near Darbar- Pakpattan West    (Female),30.339890817413988,73.3883302202826,Female,Punjab,0,3,0,1377
+41,Office of the Social Welfare Office-  Pir Kot Road- Pakpattan East  (Combined),30.341331984867416,73.39364216112381,Combined,Punjab,2,2,893,706
+67,Govt:M.C Boys Primary School- near Kabir Chungi- Pakpattan      (Combined),30.34193446300207,73.37882966944738,Combined,Punjab,2,2,1067,876
+78,Govt:MC Girls Middle School- Circular  Road- Pakpattan  East    (Male),30.34252706118939,73.38630519771174,Male,Punjab,2,0,982,0
+79,Govt:MC Girls Middle School- Circular  Road- Pakpattan West  (Female),30.34252706118939,73.3863351977117,Female,Punjab,0,2,0,802
+80,Govt:MC Girls Middle School- Circular  Road- Pakpattan  East   (Combined),30.34252706118939,73.3863651977117,Combined,Punjab,2,2,815,687
+141,Govt:Boys Primary School Bara   (Combined),30.3427752,73.3783759,Combined,Punjab,2,1,779,697
+42,Govt: Boys Primary School Pir kot   (Male),30.34427,73.39818,Male,Punjab,2,0,1007,0
+43,Govt: Boys Primary School Pir kot (Female),30.34427,73.39821,Female,Punjab,0,2,0,810
+44,Govt: MC Girls Primary School- Pir Kot- East    (Male),30.34434,73.39955,Male,Punjab,2,0,1127,0
+45,Govt: MC Girls Primary School- Pir Kot- West (Female),30.34434,73.39958,Female,Punjab,0,2,0,910
+34,Govt:MC Boys Primary School-Pir Karyian West (Female),30.344445016977183,73.39825174116487,Female,Punjab,0,2,0,1229
+33,Govt: MC.Boys Primary School- Pir Karyian East (Male),30.34445809271907,73.39825825978814,Male,Punjab,3,0,1458,0
+35,Govt:MC Boys Primary School-Pir Karyian West (Combined),30.34445809271907,73.3982882597881,Combined,Punjab,2,2,849,749
+70,Govt:  Fazil ka Islmia Boys High School- Pakpattan East   (Male),30.345837532721742,73.38480025531744,Male,Punjab,3,0,1237,0
+71,Govt:  Fazil ka Islmia Boys High School- Pakpattan West    (Female),30.345837532721742,73.3848302553174,Female,Punjab,0,2,0,1135
+60,Office of the Excise & Taxation- Sahiwal Road- Pakpattan East     (Male),30.346971940702474,73.3796697062172,Male,Punjab,3,0,1329,0
+61,Office of the Excise & Taxation- Sahiwal Road- Pakpattan West   (Female),30.346971940702474,73.3796997062172,Female,Punjab,0,2,0,1195
+68,Govt:Faridia College for Boys Pakpattan (East) (Male),30.347108704649642,73.38485031595735,Male,Punjab,3,0,1394,0
+69,Govt:Faridia College for Boys Pakpattan (West)   (Female),30.347108704649642,73.3848803159573,Female,Punjab,0,2,0,1290
+74,Govt:Faridia College for Boys Pakpattan  North   (Male),30.347108704649642,73.3849103159574,Male,Punjab,2,0,1234,0
+75,Govt:Faridia College for Boys Pakpattan  South  (Female),30.347108704649642,73.3849403159574,Female,Punjab,0,2,0,1139
+73,Office of the  Tehsil Council Pakpattan West  (Female),30.347718487715817,73.38699412018968,Female,Punjab,0,2,0,587
+72,Office of the  Tehsil Council Pakpattan East  (Male),30.347737691375748,73.38697667839874,Male,Punjab,2,0,832,0
+56,Govt.Boys High School- Sahiwal Road- Pakpattan East   (Male),30.347805661607694,73.3800216995366,Male,Punjab,3,0,1398,0
+57,Govt.Boys High School- Sahiwal Road-Pakpattan  West (Female),30.347805661607694,73.3800516995366,Female,Punjab,0,2,0,1204
+58,Govt.Boys High School- Sahiwal Road- Pakpattan  North    (Male),30.347805661607694,73.3800816995366,Male,Punjab,2,0,918,0
+59,Govt.Boys High School- Sahiwal Road-Pakpattan  South  (Female),30.347805661607694,73.3801116995366,Female,Punjab,0,2,0,817
+29,Office of the Market  Committee- Pakpattan (West)  (Female),30.349225087860997,73.39223811766603,Female,Punjab,0,2,0,1285
+28,Office of the Market  Committee- Pakpattan (East) (Male),30.349225087860997,73.392268117666,Male,Punjab,3,0,1421,0
+30,Govt:Boys High School- Urban Area- Pakpattan East (Male),30.349413167705915,73.39917961404083,Male,Punjab,2,0,1269,0
+31,Govt:Boys High School- Urban Area-Pakpattan West (Female),30.349413167705915,73.3992096140408,Female,Punjab,0,2,0,1072
+32,Govt:Boys High School- Urban Area- Pakpattan East (Combined),30.349413167705915,73.3992396140408,Combined,Punjab,2,2,604,523
+85,Govt:Girls Primary School Soma  (Combined),30.349844565961426,73.40844308587495,Combined,Punjab,2,1,785,598
+40,Govt: MC.Girls  High School- No.2 Pakpattan West  (Female),30.350267164715383,73.38979756626037,Female,Punjab,0,2,0,1136
+37,Govt: MC.Girls  High School- No.2 Pakpattan East (Female),30.350280160281336,73.3897875470437,Female,Punjab,0,3,0,1264
+93,Govt:Boys High School- 37/SP    (Combined),30.35072397241967,73.35112586009143,Combined,Punjab,2,1,790,664
+18,Govt. Secondary School. (Special Education) (Baray Muttasra Smaat) 37/SP Road Pakpattan East (Male),30.350733666449067,73.37080966295191,Male,Punjab,3,0,1501,0
+19,Govt.Secondary School. (Special Education) (Baray Muttasra Smaat) 37/SP Road Pakpattan West   (Female),30.350733666449067,73.3708396629519,Female,Punjab,0,2,0,1293
+20,Govt. Secondary School. (Special Education) (Baray Muttasra Smaat) 37/SP Road Pakpattan East    (Male),30.350733666449067,73.3708696629519,Male,Punjab,2,0,617,0
+21,Govt.Secondary School. (Special Education) (Baray Muttasra Smaat) 37/SP Road Pakpattan West   (Female),30.350733666449067,73.3708996629519,Female,Punjab,0,2,0,541
+91,Govt:Girls High School- 37/SP   (Male),30.35133730193605,73.35129798958822,Male,Punjab,2,0,966,0
+92,Govt:Girls High School-  37/SP   (Female),30.35133730193605,73.3513279895882,Female,Punjab,0,2,0,834
+39,Govt:MC Boys Middle School No.2 Pakpattan- West    (Male),30.351456604963936,73.38998585550333,Male,Punjab,2,0,1234,0
+36,Govt:MC Boys Middle School- No.2 Pakpattan- East (Male),30.35149814438199,73.38999925723138,Male,Punjab,2,0,1411,0
+38,Govt:MC Boys Middle School- No.2 Pakpattan- East (Combined),30.35149814438199,73.3900292572314,Combined,Punjab,1,1,277,244
+23,Govt:Girls Primary School- Basti Girja Ghar West (Female),30.351979903638533,73.38158493000482,Female,Punjab,0,2,0,636
+22,Govt:Girls Primary School- Basti Girja Ghar East    (Male),30.35198113505986,73.38161620433623,Male,Punjab,2,0,763,0
+16,Govt:Boys Primary School- Basti Azizabad East (Male),30.354681483785843,73.37155940883653,Male,Punjab,2,0,876,0
+17,Govt:Boys Primary School Basti Aziz abad West  (Female),30.354681483785843,73.3715894088365,Female,Punjab,0,2,0,697
+24,Office of the SDO.WAPDA Depalpur Road- Pak. (Male),30.355590254675228,73.39865206229855,Male,Punjab,2,0,1260,0
+26,Office of the SDO.WAPDA Depalpur Road- Pak. (Male),30.355590254675228,73.3986820622985,Male,Punjab,2,0,1075,0
+25,Office of the XEN Wapda- Depalpur Road- Pakpattan (Female),30.355590254675228,73.3987120622986,Female,Punjab,0,2,0,1107
+27,Office of the XEN Wapda- Depalpur Road- Pakpattan (Female),30.355590254675228,73.3987420622986,Female,Punjab,0,2,0,892
+7,Govt:Girls Primary School- Basti Aslam Noai (Female),30.35852,73.39721,Female,Punjab,0,2,0,823
+9,Govt:Girls Primary School- Basti Aslam Noai (Female),30.35852,73.39724,Female,Punjab,0,3,0,1589
+6,Tehsil Office- Basti Aslam Noai East  (Male),30.35883565900632,73.3974953820856,Male,Punjab,2,0,1041,0
+8,Tehsil Office- Basti Aslam Noai East  (Male),30.35883565900632,73.3975253820856,Male,Punjab,3,0,1835,0
+10,Tehsil Office- Basti Aslam Noai West   (Male),30.35883565900632,73.3975553820856,Male,Punjab,4,0,2060,0
+13,Govt:Boys Primary School- Basti Aslam Noai (Female),30.35883565900632,73.3975853820856,Female,Punjab,0,1,0,461
+14,Govt: Girls College for Women East    (Male),30.360316374701103,73.38782693438355,Male,Punjab,2,0,477,0
+15,Govt: Girls College for Women West  (Female),30.360316374701103,73.3878569343835,Female,Punjab,0,2,0,396
+2,Govt:Girls High School- Colony  Area- Pakpattan  West (Female),30.36096,73.3858,Female,Punjab,0,2,0,1677
+4,Govt:Girls High School- Colony  Area- Pakpattan  West  (Female),30.36096,73.38583,Female,Punjab,0,2,0,458
+1,Govt Boys High School Colony Area- Pakpattan (Male),30.36165,73.38578,Male,Punjab,2,0,1997,0
+3,Govt: Boys High School Colony Area- Pakpattan (Male),30.36165,73.38581,Male,Punjab,2,0,526,0
+5,Govt:Boys Primary School- Madayshah  (Combined),30.36506345498636,73.35996000791607,Combined,Punjab,1,1,437,374
+88,Govt:Boys Middle School- 19/SP   (Male),30.376997191361223,73.37595372093026,Male,Punjab,2,0,1419,0
+89,Govt:Boys Middle School- 19/SP  (Female),30.376997191361223,73.3759837209303,Female,Punjab,0,2,0,1022
+90,Govt: Girls Primary School- 19/SP  (Combined),30.377509373517324,73.37689236031856,Combined,Punjab,2,2,927,712

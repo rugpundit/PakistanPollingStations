@@ -1,0 +1,172 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+143,Govt. Girls  Primary School-71/12-L  (Combined),30.187220380181422,72.47301932133071,Combined,Punjab,2,1,734,568
+139,Girls Primary School-  73/12-L    (Combined),30.200742557715504,72.42372271300593,Combined,Punjab,2,1,619,516
+144,Govt Girls  Primary School-72/12-L  (Combined),30.206532768510794,72.47392953916074,Combined,Punjab,1,1,411,292
+140,Govt. Girls Elementary School-  74/12-L Combined (Combined),30.21107040272427,72.4527411448018,Combined,Punjab,2,1,759,585
+148,Govt High School- 69-A/12-L   (Female),30.218514506536707,72.5015595024857,Female,Punjab,0,2,0,757
+149,Govt High School- 69-A/12-L   (Male),30.218514506536707,72.5015895024857,Male,Punjab,2,0,1076,0
+141,Boys High School-75/12-L   (Combined),30.224273642558252,72.44379791243368,Combined,Punjab,1,1,617,470
+146,Govt Girls Middle School- 69/12-L  (Male),30.22445147455172,72.49721910974414,Male,Punjab,2,0,919,0
+147,Govt Girls Middle School- 69/12-L  (Female),30.22445147455172,72.4972491097441,Female,Punjab,0,2,0,718
+136,Boys Primary School-  80/12-L    (Combined),30.23414747772847,72.47015660446066,Combined,Punjab,2,1,700,531
+137,Boys Primary School-  80/12-L    (Combined),30.23414747772847,72.4701866044607,Combined,Punjab,1,1,336,226
+133,Boys Primary School-  76/12-L  (Combined),30.237602585343794,72.40166868591838,Combined,Punjab,1,1,608,444
+160,Boys Primary School-  79/12-L   (Combined),30.252368734304017,72.46604535468563,Combined,Punjab,2,1,808,603
+134,Girls Middle School- 77/12-L (Combined),30.254330545922553,72.43408069736566,Combined,Punjab,1,1,416,332
+135,Girls Middle School- 77/12-L (Combined),30.254330545922553,72.4341106973657,Combined,Punjab,1,1,541,432
+150,Girls Middle  School- 81/12-L   (Combined),30.25659483305949,72.50039631558049,Combined,Punjab,2,1,717,593
+158,Boys Primary School- 37/14-L     (Combined),30.261292430046602,72.42138317477875,Combined,Punjab,1,1,562,490
+159,Boys Primary School-  78/12-L  (Combined),30.26223831217913,72.46532159136387,Combined,Punjab,1,1,595,522
+132,Boys Primary School-  67/12-L  (Combined),30.269519183438153,72.5360537923223,Combined,Punjab,2,2,974,704
+131,Boys High School- 66/12-L (Combined),30.270109989813953,72.5559104614865,Combined,Punjab,2,2,884,585
+130,Boys High School- 66/12-L (Combined),30.27011084309832,72.5558852425282,Combined,Punjab,2,2,894,548
+161,Boys High School- 82/12-L  (Combined),30.27898622386782,72.46021607546966,Combined,Punjab,2,1,858,699
+156,Boys Primary School-  36/14-L  (Combined),30.279982016245217,72.40860180881211,Combined,Punjab,1,1,555,380
+157,Boys Primary School-  36/14-L     (Combined),30.279982016245217,72.4086318088121,Combined,Punjab,1,1,542,386
+155,Girls Primary School-  34/14-L   (Female),30.281994420731106,72.44417243947571,Female,Punjab,0,2,0,1176
+152,Girls Primary School-  83/12-L    (Combined),30.282217998718874,72.50258390479662,Combined,Punjab,1,1,664,522
+154,Boys Primary School-  34/14-L   (Male),30.28320047321123,72.44419303195795,Male,Punjab,3,0,1401,0
+151,Girls Primary School-  33/14-L   Combined (Combined),30.289236506665418,72.47274970732967,Combined,Punjab,2,1,792,645
+153,Boys Primary School-  84/12-L    (Combined),30.291839532239972,72.51330968283216,Combined,Punjab,2,1,727,610
+162,Boys Middle School- 65/12-L    (Combined),30.2924945835461,72.54274036026106,Combined,Punjab,1,1,627,521
+163,Boys Middle School- 65/12-L    (Combined),30.2924945835461,72.5427703602611,Combined,Punjab,1,1,407,293
+50,Boys Middle School-  63-64/12-L  (Combined),30.306023750718058,72.5839550849393,Combined,Punjab,1,1,562,478
+51,Boys Middle School-  63-64/12-L  (Combined),30.306023750718058,72.5839850849393,Combined,Punjab,1,1,556,473
+114,Boys High School- 32/14-L (Male),30.309912887589295,72.40620165111116,Male,Punjab,2,0,1058,0
+115,Boys High School- 32/14-L (Female),30.309912887589295,72.4062316511112,Female,Punjab,0,2,0,751
+113,Basic Health Unit- 35/14-L  (Combined),30.311689403648806,72.41223767465992,Combined,Punjab,1,1,389,256
+112,Basic Health Unit- 35/14-L  (Combined),30.31175540219002,72.41223805639916,Combined,Punjab,1,1,491,409
+164,Girls Middle School- 85/12-L    (Combined),30.314167860047142,72.54651200873093,Combined,Punjab,2,1,820,682
+110,Boys High School- 31/14-L (Female),30.31616079277906,72.45714889423182,Female,Punjab,0,2,0,889
+111,Boys High School- 31/14-L (Male),30.31616424247844,72.45715202606291,Male,Punjab,2,0,1265,0
+165,Girls Primary School-  91/12-L    (Combined),30.319198545209257,72.52063389879365,Combined,Punjab,1,1,545,439
+166,Girls Primary School-  91/12-L    (Combined),30.319198545209257,72.5206638987936,Combined,Punjab,1,1,544,445
+108,Girls Primary School-  30/14-L  (Combined),30.32507766519442,72.46947880399358,Combined,Punjab,1,1,545,431
+109,Girls Primary School-  30/14-L    (Combined),30.32507766519442,72.4695088039936,Combined,Punjab,1,1,559,433
+167,Girls High School- 92/12-L  (Combined),30.328083297527627,72.50490490040599,Combined,Punjab,1,1,584,418
+168,Girls High School- 92/12-L   (Combined),30.328083297527627,72.504934900406,Combined,Punjab,1,1,414,324
+107,Boys Primary School-  29/14-L    (Combined),30.332746556854858,72.488952913019,Combined,Punjab,1,1,380,321
+106,Boys Primary School-  29/14-L    (Combined),30.332746556854858,72.488982913019,Combined,Punjab,1,1,540,413
+145,Boys Primary School-  68/12-L    (Combined),30.333572631820164,72.61287637630737,Combined,Punjab,2,1,622,521
+61,Girls Primary School- 90/12-L P-I   (Combined),30.334293683387415,72.54190798409549,Combined,Punjab,2,1,743,517
+62,Girls Primary School-  90/12-L     (Combined),30.334293683387415,72.5419379840955,Combined,Punjab,2,1,777,532
+104,Boys Primary School-  28/14-L   (Male),30.33860813913962,72.4485145074215,Male,Punjab,2,0,1095,0
+174,Boys Primary School-  95/12-L   (Male),30.3444094,72.4991173,Male,Punjab,2,0,1203,0
+175,Boys Primary School-  95/12-L  I (Male),30.3444094,72.4991473,Male,Punjab,2,0,1089,0
+172,Girls Primary School-  93-A/12-LI (Female),30.34536692161155,72.49967739296882,Female,Punjab,0,2,0,832
+170,Boys Primary School-  93-A/12-L  I (Male),30.345599414092128,72.4996464102228,Male,Punjab,2,0,1109,0
+128,Boys Middle School-   26/14-L  (Combined),30.35553415359041,72.46774612641495,Combined,Punjab,1,1,415,321
+129,Boys Middle School-   26/14-L  (Combined),30.35553415359041,72.4677761264149,Combined,Punjab,2,2,624,457
+100,Girls Middle School- 25/14-L  (Combined),30.35565332248911,72.44618817281794,Combined,Punjab,1,1,492,332
+101,Girls Middle School- 25/14-L  (Combined),30.35565332248911,72.4462181728179,Combined,Punjab,1,1,491,323
+125,Boys High School-  23/14-L    (Combined),30.37930061003789,72.43987881186412,Combined,Punjab,2,2,828,705
+38,Govt. Elementary School- 54/12-L (Combined),30.38356,72.64259,Combined,Punjab,2,1,674,471
+39,Govt. Elementary School- 54/12-L (Combined),30.38356,72.64262,Combined,Punjab,2,1,657,486
+40,Govt. Elementary School- 54/12-L (Combined),30.38356,72.64265,Combined,Punjab,2,1,647,506
+126,Boys Primary School-  24/14-L   (Male),30.384913138943222,72.46546634677841,Male,Punjab,2,0,1103,0
+127,Girls Primary School-  24/14-L   (Female),30.38539900483851,72.46750778319257,Female,Punjab,0,2,0,920
+92,Boys Primary School-  22/14-L(Combined),30.391807091302773,72.44028035637179,Combined,Punjab,1,1,399,224
+124,Boys Primary School-  22/14-L(Combined),30.391807091302773,72.4403103563718,Combined,Punjab,1,1,568,510
+120,Girls Middle School- 21/14-L (Male),30.39566708284055,72.4938988687182,Male,Punjab,2,0,1135,0
+121,Girls Middle School- 21/14-L (Female),30.39566708284055,72.4939288687182,Female,Punjab,0,2,0,948
+118,Govt. Higher Secodary School- 20/14-L (Male),30.396762800671045,72.4728164195173,Male,Punjab,2,0,1102,0
+119,Govt. Girls Primary School- 20/14-L (Female),30.396762800671045,72.4728464195173,Female,Punjab,0,2,0,887
+123,Girls Primary School-  19/14-L   (Female),30.40839812696203,72.4448041750846,Female,Punjab,0,2,0,849
+116,Boys Primary School-  18/14-L   (Male),30.41053082386995,72.47106154652603,Male,Punjab,2,0,1428,0
+122,Govt.Boys Middle- School  19/14-L  (Male),30.41060697097212,72.44805277795798,Male,Punjab,2,0,1011,0
+117,Girls Primary School-  18/14-L   (Female),30.412429135412918,72.46829366877282,Female,Punjab,0,2,0,1124
+70,Girls Elementary School-  14/14-L (Combined),30.5190213,72.7887217,Combined,Punjab,2,2,739,620
+71,Boys High School- 14/14-L (Combined),30.5190213,72.7887517,Combined,Punjab,2,2,676,616
+72,Girls Primary School-  17/14-L (Combined),30.5190213,72.7887817,Combined,Punjab,2,2,874,644
+73,Girls Primary School-  17/14-L    (Combined),30.5190213,72.7888117,Combined,Punjab,2,2,832,606
+74,Boys Primary School-  12/14-L  (Combined),30.5190213,72.7888417,Combined,Punjab,2,1,663,507
+75,Girls Primary School-  12/14-L (Combined),30.5190213,72.7888717,Combined,Punjab,1,1,461,311
+76,Boys High School- 9/14-L (Combined),30.5190213,72.7889017,Combined,Punjab,1,1,474,362
+77,Girls High School- 9/14-L (Combined),30.5190213,72.7889317,Combined,Punjab,1,1,513,377
+78,Girls High School- 9/14-L  (Combined),30.5190213,72.7889617,Combined,Punjab,2,2,758,640
+79,Girls High School- 9/14-L  (Combined),30.5190213,72.7889917,Combined,Punjab,2,1,657,446
+80,Boys Primary School-  10/14-L  (Combined),30.5190213,72.7890217,Combined,Punjab,2,1,653,592
+81,Girls Primary School-  10/14-L  (Combined),30.5190213,72.7890517,Combined,Punjab,1,1,466,341
+82,Boys Primary School- 7/14-L (Combined),30.5190213,72.7890817,Combined,Punjab,2,1,815,639
+83,Girls Primary School- 7/14-L (Combined),30.5190213,72.7891117,Combined,Punjab,1,1,597,477
+84,Girls Higher  Secondary School-  Iqbalnagar (Combined),30.5190213,72.7891417,Combined,Punjab,2,2,771,560
+85,Girls Higher  Secondary School-  Iqbalnagar  (Combined),30.5190213,72.7891717,Combined,Punjab,1,1,671,503
+86,Boys Higher Secondary School Iqbal Nagar (Male),30.5190213,72.7892017,Male,Punjab,2,0,978,0
+87,Boys Higher Secondary School Iqbal Nagar (Male),30.5190213,72.7892317,Male,Punjab,2,0,1000,0
+88,Girls Primary School-  11/14-L (Female),30.5190213,72.7892617,Female,Punjab,0,3,0,1392
+89,Boys Middle School- 16/14-L (Male),30.5190213,72.7892917,Male,Punjab,2,0,1166,0
+90,Boys Middle School- 16/14-L (Male),30.5190213,72.7893217,Male,Punjab,2,0,949,0
+91,Govt. Girls High  School- 16/14-L (Female),30.5190213,72.7893517,Female,Punjab,0,4,0,1596
+169,Boys Primary School-  93/12-L   (Male),30.5194327,72.7891834,Male,Punjab,2,0,1371,0
+171,Girls Primary School-  93/12-L (Female),30.5194327,72.7892134,Female,Punjab,0,2,0,1009
+93,Boys Higher Secondary School- 96/12-L  P-I(Male),30.5194327,72.7892434,Male,Punjab,2,0,1219,0
+94,Boys Higher Secondary School- 96/12-L             (Female),30.5194327,72.7892734,Female,Punjab,0,2,0,1096
+95,Girls High School- 98/12-L (Male),30.5194327,72.7893034,Male,Punjab,2,0,819,0
+96,Girls High School- 98/12-L (Female),30.5194327,72.7893334,Female,Punjab,0,2,0,712
+97,Boys Primary School-  98/12-L    (Combined),30.5194327,72.7893634,Combined,Punjab,1,1,531,425
+173,Boys Primary School-  94/12- L    (Combined),30.5194327,72.7893934,Combined,Punjab,2,2,766,721
+176,Girls Middle School- 95/12-L(Female),30.5194327,72.7894234,Female,Punjab,0,2,0,873
+177,Girls Middle School- 95/12-LI (Female),30.5194327,72.7894534,Female,Punjab,0,2,0,845
+17,Boys Middle School-  56-A/12-L  (Combined),30.5194483,72.789218,Combined,Punjab,1,1,488,416
+18,Boys Middle School-  56-A/12-L  (Combined),30.5194483,72.789248,Combined,Punjab,1,1,474,349
+19,Girls Primary School-  167/9-L  (Combined),30.5194483,72.789278,Combined,Punjab,2,1,629,517
+20,Girls Primary School-  167/9-L    (Combined),30.5194483,72.789308,Combined,Punjab,2,2,831,636
+21,Boys Primary School-  166/9-L   (Combined),30.5194483,72.789338,Combined,Punjab,2,1,701,506
+22,Boys Primary School-  166/9-L   (Combined),30.5194483,72.789368,Combined,Punjab,2,1,681,512
+41,Girls Primary School-  55/12-L  (Combined),30.5194483,72.789398,Combined,Punjab,1,1,437,355
+44,Boys High School- 53/12-L (Combined),30.5194483,72.789428,Combined,Punjab,2,2,818,649
+45,Boys High School- 53/12-L (Combined),30.5194483,72.789458,Combined,Punjab,2,2,854,721
+23,Girls High School- 168/9-L       P-I (Combined),30.5203527,72.7859977,Combined,Punjab,2,2,727,597
+24,Girls High School- 168/9-L       P-I (Combined),30.5203527,72.7860277,Combined,Punjab,2,1,637,463
+25,Boys Higher Secondary School- 168/9-L  (Combined),30.5203527,72.7860577,Combined,Punjab,2,2,861,622
+26,Boys Higher Secondary School- 168/9-L  (Combined),30.5203527,72.7860877,Combined,Punjab,2,1,691,570
+27,Boys Primary School-  165-A/9-L  (Combined),30.5203527,72.7861177,Combined,Punjab,2,1,649,514
+28,Girls Primary School-  165-A/9-L   (Combined),30.5203527,72.7861477,Combined,Punjab,1,1,553,458
+29,Boys Primary School-  86/12-L  (Combined),30.5203527,72.7861777,Combined,Punjab,1,1,467,322
+30,Boys Primary School-  86/12-L  (Combined),30.5203527,72.7862077,Combined,Punjab,1,1,508,375
+31,Boys Middle School-  86-A/12L  (Combined),30.5203527,72.7862377,Combined,Punjab,2,1,655,490
+32,Boys Primary  School-  87/12-LMasooranwali  (Combined),30.5203527,72.7862677,Combined,Punjab,1,1,595,477
+33,Boys Primary  School-  87/12-LMasooranwali  (Combined),30.5203527,72.7862977,Combined,Punjab,1,1,433,358
+34,Girls Middle  School- 87-/12-LAbadi Gujran (Combined),30.5203527,72.7863277,Combined,Punjab,1,1,576,400
+35,Boys Primary School-  56/12-L  (Combined),30.5203527,72.7863577,Combined,Punjab,2,2,895,719
+36,Boys Middle School- 57/12-L   (Combined),30.5203527,72.7863877,Combined,Punjab,1,1,514,344
+37,Boys Middle School-  57/12-L    (Combined),30.5203527,72.7864177,Combined,Punjab,2,1,862,505
+46,Boys High School- 58/12-L  (Combined),30.5203527,72.7864477,Combined,Punjab,2,2,819,622
+47,Boys High School- 58/12-L  (Combined),30.5203527,72.7864777,Combined,Punjab,2,1,630,466
+48,Boys Middle School- 62/12-L  (Combined),30.5203527,72.7865077,Combined,Punjab,2,1,642,499
+49,Boys Middle School- 62/12-L  (Combined),30.5203527,72.7865377,Combined,Punjab,1,1,350,256
+52,Boys Primary School-  59/12-L(Main Abadi  (Combined),30.5203527,72.7865677,Combined,Punjab,2,2,849,570
+53,Boys Primary School-  59/12-L( Kundianwala (Combined),30.5203527,72.7865977,Combined,Punjab,2,2,837,633
+54,Girls Middle School- 60/12-L  (Combined),30.5203527,72.7866277,Combined,Punjab,1,1,512,366
+55,Girls Middle School- 60/12-L  (Combined),30.5203527,72.7866577,Combined,Punjab,2,1,630,508
+56,Boys Primary School-  61/12-L  (Combined),30.5203527,72.7866877,Combined,Punjab,2,2,805,692
+57,Boys Primary School-   88/12-L   (Male),30.5203527,72.7867177,Male,Punjab,3,0,1422,0
+58,Girls Primary School-  88/12-L   (Female),30.5203527,72.7867477,Female,Punjab,0,2,0,1046
+59,Girls Middle School- 88/12-L  (Combined),30.5203527,72.7867777,Combined,Punjab,2,2,737,627
+60,Boys Primary School-  88/12-L    (Combined),30.5203527,72.7868077,Combined,Punjab,2,1,666,476
+12,Girls Midle School- 52/12-L (Combined),30.5356364,72.7675297,Combined,Punjab,2,1,611,544
+13,Girls Midle School- 52/12-L (Combined),30.5356364,72.7675597,Combined,Punjab,2,1,664,546
+42,Girls Middle School- 47/12-L (Combined),30.5356364,72.7675897,Combined,Punjab,2,1,746,517
+43,Boys Middle School- 47/12-L (Combined),30.5356364,72.7676197,Combined,Punjab,2,1,680,595
+1,Govt. Girls High  School- 48/12-L   (Male),30.5356364,72.7676497,Male,Punjab,3,0,1407,0
+2,Govt. Girls High  School- 48/12-L   (Female),30.5356364,72.7676797,Female,Punjab,0,3,0,1162
+3,Girls Middle School- 49/12-L   (Combined),30.5356364,72.7677097,Combined,Punjab,2,1,699,600
+4,Girls Middle School- 49/12-L   (Combined),30.5356364,72.7677397,Combined,Punjab,2,1,636,490
+5,Boys Primary School- 49/12-L  (Combined),30.5356364,72.7677697,Combined,Punjab,1,1,422,321
+9,Boys Middle School- 105/12-L (Male),30.5356364,72.7677997,Male,Punjab,2,0,1085,0
+10,Boys Middle School- 105/12-L (Female),30.5356364,72.7678297,Female,Punjab,0,2,0,841
+11,Girls Community Model School- 106/12-L   (Combined),30.5356364,72.7678597,Combined,Punjab,2,1,814,517
+14,Boys Middle School- 51/12-L (Combined),30.6600997,73.1071773,Combined,Punjab,2,1,615,516
+15,Boys Middle School- 51/12-L (Combined),30.6600997,73.1072073,Combined,Punjab,1,1,416,329
+63,Boys High School 89/12-L   (Combined),30.6600997,73.1072373,Combined,Punjab,1,1,569,514
+64,Boys High School- 89/12-L                 Combined (Combined),30.6600997,73.1072673,Combined,Punjab,1,1,528,452
+65,Govt Elementary School-  97/12-L   (Male),30.6600997,73.1072973,Male,Punjab,3,0,1270,0
+66,Govt Elementary School-  97/12-L   (Female),30.6600997,73.1073273,Female,Punjab,0,2,0,1001
+98,Govt. Girls Community Model  School- 99/12-L (Combined),30.6600997,73.1073573,Combined,Punjab,2,2,747,629
+99,Govt. Girls Community Model  School- 99/12-L (Combined),30.6600997,73.1073873,Combined,Punjab,2,1,688,536
+6,Boys High School- 50/12-L     -I (Combined),30.6600997,73.1074173,Combined,Punjab,2,2,731,635
+7,Boys High School- 50/12-L     -I (Combined),30.6600997,73.1074473,Combined,Punjab,1,1,604,474
+8,Govt. Girls High  School- 50/12L  (Combined),30.6600997,73.1074773,Combined,Punjab,1,1,407,310
+67,Boys High School- 13/14-L (Combined),30.6693986,73.1226514,Combined,Punjab,2,1,653,521
+68,Boys High School- 13/14-L (Combined),30.6693986,73.1226814,Combined,Punjab,1,1,572,491
+69,Girls Middle School- 13/14-L (Combined),30.6693986,73.1227114,Combined,Punjab,1,1,556,399

@@ -1,0 +1,129 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+25,GPS Lal Dino Bhambro (Male) (P),27.24308334,69.03187421,Male,Sindh,3,0,1345,0
+26,GPS Lal Dino Bhambro (Female) (P),27.24308334,69.03190421,Female,Sindh,0,2,0,834
+22,GPS Shahbaz Dino Khorkhani (Com) (P),27.24462569,68.98908957,Combined,Sindh,2,1,869,689
+21,GPS Bakhshan Khan Chakrani (Com) (P),27.26768576,69.00328741,Combined,Sindh,2,2,786,630
+18,GPS Toryoon (Com) (P),27.2772232,68.9962527,Combined,Sindh,2,2,739,650
+28,GPS Muhammad Nawaz Shambani  (Com) (P),27.2932525,69.07050862,Combined,Sindh,2,2,927,685
+29,GPS Muhammad Nawaz Shambani (Com),27.2932525,69.07053862,Combined,Sindh,1,1,587,419
+19,GPS Haji Khan Shambhani (Male) (P),27.30177787,68.9981973,Male,Sindh,2,0,1067,0
+20,GPS Haji Khan Shambhani (Female) (P),27.30177787,68.9982273,Female,Sindh,0,2,0,945
+27,GPS Ghulam Sarwar Shambani (Com) (P),27.31995017,69.05976588,Combined,Sindh,2,1,623,433
+35,GPS Garhar (Com) (P),27.32329914,69.33822471,Combined,Sindh,1,1,377,212
+23,GPS Soonahro Faqeer (Com) (P),27.32527082,69.02053698,Combined,Sindh,2,2,794,596
+17,GPS Januji (Male) (P),27.34257319,68.98434226,Male,Sindh,3,0,1379,0
+16,GHS Januji (Female) (P),27.34507671,68.98604103,Female,Sindh,0,2,0,1022
+24,GPS Khabri Bhitt(Com) (P),27.35428688,69.02390893,Combined,Sindh,2,1,645,550
+33,GPS Allah Warayo Bhambro (Com) (P),27.37639336,69.03371399,Combined,Sindh,2,2,921,763
+13,BHU Himmat Shah (Male) (P),27.39063063,69.00371288,Male,Sindh,2,0,1108,0
+14,BHU Himmat Shah (Female) (P),27.39063063,69.00374288,Female,Sindh,0,2,0,1020
+36,GPS Wahid Dino Jhundo (Com),27.40617149,69.08135143,Combined,Sindh,2,2,888,713
+12,GPS Muhammad Bux Bhambro (Com) (P),27.42243219,69.0076739,Combined,Sindh,2,2,865,786
+32,GPS Ghulam Hussain Bhambro (Com) (P),27.44259814,69.07122399,Combined,Sindh,2,1,740,579
+11,Govt: Ring Sirangwaro (Partly) (Imp) (Com) (P),27.46155081,69.3449762,Combined,Sindh,1,1,183,115
+34,GPS Ali Murad Mangrio (Com) (P),27.46661963,69.08353241,Combined,Sindh,2,2,790,642
+30,GBPS Kot Sraiko (Male) (P),27.46795556,69.02260277,Male,Sindh,2,0,1115,0
+31,GBPS Kot Sraiko (Female) (P),27.46795556,69.02263277,Female,Sindh,0,2,0,953
+15,GMS Wadhyal Shah (Com) (P),27.47785788,68.99977341,Combined,Sindh,2,2,949,721
+6,GPS Saddique Ali Shah(Male) (P),27.48653133,69.03045107,Male,Sindh,4,0,1512,0
+2,Govt: Inspection Benglow Bargah. (Com) (P) (Improvised),27.49039253,69.02009703,Combined,Sindh,2,1,648,492
+1,GPS Abu Bakar Mahar at Sahi Pat (Com),27.49192597,69.09375293,Combined,Sindh,2,2,947,716
+3,GPS Riazabad (com) (P),27.49709947,69.02358137,Combined,Sindh,2,1,661,494
+10,GPS Raja Ghous Bux at Khosan Jo kumb (Com),27.50361107,69.17426253,Combined,Sindh,1,1,392,253
+7,GPS Qaim Behan (Female) (P),27.50478629,69.04090464,Female,Sindh,0,3,0,1267
+4,GHS Salehpat (Male) (P),27.52117813,69.04739469,Male,Sindh,3,0,1354,0
+5,GGHS Salehpat (Female) (P),27.52117813,69.04742469,Female,Sindh,0,2,0,1091
+114,GPS Ariz Muhammad Mahar (Partly) (imp) (com) (P),27.52505207,69.10077402,Combined,Sindh,1,1,420,289
+115,GPS Khoori (Partly) (imp) (com) (P),27.54139534,69.11815737,Combined,Sindh,1,1,397,372
+105,BHU Thariri (Com) (P),27.5466218,69.0281485,Combined,Sindh,2,2,634,447
+113,GPS Dakhano ( Talib phulpoto) (Com) (P),27.55204237,69.08576586,Combined,Sindh,2,2,783,562
+111,GPS Fazal Abad (Com) (P),27.55761489,69.04847655,Combined,Sindh,2,2,635,557
+112,GPS Thore (Com) (P),27.56416018,69.11639882,Combined,Sindh,1,1,273,172
+9,GBPS Wass (Com) (P),27.56480727,69.19131349,Combined,Sindh,2,1,596,467
+110,GPS Hussain Abad (Com) (P),27.56565334,69.04706565,Combined,Sindh,2,2,651,562
+107,GPS Fatoo Mahar (Male) (P),27.56568754,69.03282903,Male,Sindh,2,0,985,0
+108,GPS Fatoo Mahar (Female) (P),27.56568754,69.03285903,Female,Sindh,0,2,0,783
+106,GPS Noor Ali Shah Abad (Com) (P),27.5710852,69.0204306,Combined,Sindh,1,1,496,441
+8,GPS CHUTTO KHOOH @ MUBARAK MAHAR.(com) (P),27.58405464,69.20475083,Combined,Sindh,2,2,796,516
+83,Govt: Middle School Wah Burriro (Male) (P),27.587818,68.8662155,Male,Sindh,3,0,1421,0
+84,Govt: Middle School Wah Burriro (Female) (P),27.587818,68.8662455,Female,Sindh,0,3,0,1388
+90,GPS Anwar Waryam (Com) (P),27.587818,68.8662755,Combined,Sindh,1,1,503,462
+103,GPS Bhit Noor Ali Shah (Com) (P),27.587818,68.8663055,Combined,Sindh,1,1,622,490
+63,Middle School Hamanloi (com) (P),27.5879074,68.8095808,Combined,Sindh,2,2,738,603
+64,GPS Abiloi (com) (P),27.5879074,68.8096108,Combined,Sindh,2,2,825,663
+94,GPS Rasool Pur (Com) (P),27.5879074,68.8096408,Combined,Sindh,1,1,630,515
+61,GPS Kalri (com) (P),27.5896251,68.8665881,Combined,Sindh,2,2,850,645
+100,GMS Arore (Male) (P),27.6001444,68.8958791,Male,Sindh,3,0,1261,0
+101,GMS Arore (Female) (P),27.6001444,68.8959091,Female,Sindh,0,2,0,1061
+102,GHS Dodanko (Com) (P),27.6001444,68.8959391,Combined,Sindh,2,2,782,738
+68,GBPS Ambah (Male) (P),27.6054251,68.8472132,Male,Sindh,2,0,827,0
+69,GBPS Ambah (Female) (P),27.6054251,68.8472432,Female,Sindh,0,2,0,811
+73,GPS Abi Jano (com) (P),27.6054251,68.8472732,Combined,Sindh,2,2,716,690
+74,GPS Mari Janullah Shah (com) (P),27.6054251,68.8473032,Combined,Sindh,2,2,804,681
+77,GPS Sachal Metlo (Com) (P),27.6054251,68.8473332,Combined,Sindh,2,2,724,658
+78,GPS Gharo Goth (com) (P),27.6054251,68.8473632,Combined,Sindh,1,1,486,364
+79,GPS Trimoonh (Male) (P),27.6054251,68.8473932,Male,Sindh,2,0,900,0
+80,GPS Trimoonh (Female) (P),27.6054251,68.8474232,Female,Sindh,0,2,0,737
+81,GPS Darawahan (Male) (P),27.6054251,68.8474532,Male,Sindh,4,0,2103,0
+82,GMS Darawahan (Female) (P),27.6054251,68.8474832,Female,Sindh,0,4,0,1767
+98,GPS Gul Muhammad Lashari (com) (P),27.6054251,68.8475132,Combined,Sindh,2,1,702,529
+99,GPS Kandri(Com) (P),27.6054251,68.8475432,Combined,Sindh,1,1,543,461
+109,GPS Haji Noonari salehpat Road (com) (P),27.6155556,68.98749503,Combined,Sindh,2,1,597,490
+128,GMS Gulbahar Kandhro (Male),27.64405179,68.98073666,Male,Sindh,3,0,1127,0
+129,GMS Gulbahar Kandhro (Female),27.64405179,68.98076666,Female,Sindh,0,2,0,1012
+130,GPS Nawazo Mangrio (Partly) (Imp) (Com) (P),27.65995432,69.01342658,Combined,Sindh,2,1,803,618
+70,GBPS Roshan Abad  (Com) (P),27.6602409,68.8490762,Combined,Sindh,2,2,821,684
+71,GGPS Roshan Abad (Com) (P),27.6602409,68.8491062,Combined,Sindh,2,2,732,667
+85,Govt: Boys Higher Secondary School Kandhra (Male) (P),27.6602409,68.8491362,Male,Sindh,2,0,953,0
+86,Govt: Boys Higher Secondary School  Kandhra (Female) (P),27.6602409,68.8491662,Female,Sindh,0,2,0,708
+87,Govt: High School Girls Kandhra (Male) (P),27.6602409,68.8491962,Male,Sindh,2,0,1009,0
+88,Govt: High School Girls Kandhra (Female) (P),27.6602409,68.8492262,Female,Sindh,0,2,0,798
+89,Govt: School Tando Ali Abad(Com) (P),27.6602409,68.8492562,Combined,Sindh,2,2,685,548
+91,GPS Girls Kandhra (Male) (P),27.6602409,68.8492862,Male,Sindh,2,0,1245,0
+92,GPS Girls Kandhra (Female) (P),27.6602409,68.8493162,Female,Sindh,0,2,0,930
+93,GPS Boys Kandhra (com) (P),27.6602409,68.8493462,Combined,Sindh,2,2,520,383
+95,GPS Lutuf Ali Khan Jagirani (Com) (P),27.6602409,68.8493762,Combined,Sindh,2,2,688,602
+96,GPS Pir Muhammad Jagirani (Com) (P),27.6602409,68.8494062,Combined,Sindh,2,1,619,489
+97,GPS Jungal Tunio (com) (P),27.6602409,68.8494362,Combined,Sindh,1,1,523,469
+67,GGPS Nandi Patni (Com) (P),27.6633988,68.8997486,Combined,Sindh,2,2,697,578
+58,BHU Tando Mir Hassan (Male) (P),27.6638005,68.8603215,Male,Sindh,4,0,1936,0
+59,BHU Tando Mir Hassan (Female) (P),27.6638005,68.8603515,Female,Sindh,0,4,0,1649
+75,GPS Tando Mir Muhammad Hassan (Male) (P),27.66412454,68.86018503,Male,Sindh,3,0,1124,0
+76,GPS Tando Mir Muhammad Hassan (Female) (P),27.66412454,68.86021503,Female,Sindh,0,2,0,916
+65,GHS Patni (Male) (P),27.6659149,68.9045922,Male,Sindh,4,0,1886,0
+66,GGPS Wadi Patni (Female) (P),27.6659149,68.9046222,Female,Sindh,0,3,0,1449
+49,Govt: Atta Hussain Shah Degree College Rohri (Com) (P),27.66808895,68.86521092,Combined,Sindh,2,1,634,528
+52,GPS Hakra (Male) (P),27.67033251,68.94325228,Male,Sindh,3,0,1094,0
+53,GPS Hakra (Female) (P),27.67033251,68.94328228,Female,Sindh,0,2,0,946
+104,Govt: Masjid School Aadhi Pahar (Com) (P),27.6725415,68.9243392,Combined,Sindh,1,1,519,374
+127,GPS Bux Chanjan (Com) (P),27.6729549,68.9269472,Combined,Sindh,2,1,666,608
+62,GPS Bux Katper (com) (P),27.6740288,68.8874532,Combined,Sindh,2,1,546,434
+42,GMS Mari (Male) (P),27.6784605,68.9272127,Male,Sindh,2,0,1078,0
+43,GMS Mari (Female) (P),27.6784605,68.9272427,Female,Sindh,0,2,0,995
+45,GGMS Ali Wahan  (Male) (P),27.6784605,68.9272727,Male,Sindh,4,0,1836,0
+50,Govt: Girls Middle School Ali Wahan (Male) (P),27.6784605,68.9273027,Male,Sindh,2,0,1093,0
+51,Govt: Girls Middle School Ali Wahan (Female) (P),27.6784605,68.9273327,Female,Sindh,0,2,0,993
+60,Inspection Bunglow Mando Dero (Com) (P),27.6784605,68.9273627,Combined,Sindh,1,1,91,59
+44,GHS Ali Wahan  (Male) (P),27.6811775,68.9239989,Male,Sindh,4,0,1700,0
+46,GPS Ali Wahan (Female) (P),27.6811775,68.9240289,Female,Sindh,0,2,0,1300
+47,GPS Ali Wahan (Female) (P),27.6811775,68.9240589,Female,Sindh,0,3,0,1447
+125,GPS Sitam Daro (Male) (P),27.6811775,68.9240889,Male,Sindh,2,0,891,0
+126,GPS Sitam Daro (Female) (P),27.6811775,68.9241189,Female,Sindh,0,2,0,843
+37,GPS Achyoon Qubyoon (Male) (P),27.6843772,68.8800014,Male,Sindh,2,0,1254,0
+38,GPS Achyoon Qubyoon (Female) (P),27.6843772,68.8800314,Female,Sindh,0,2,0,1143
+39,GPS Achyoon Qubyoon (Com) (P),27.6843772,68.8800614,Combined,Sindh,1,1,369,324
+40,GPS Loung Bhatti (Male),27.6849601,68.9034744,Male,Sindh,2,0,873,0
+41,GPS Loung Bhatti (Female),27.6849601,68.9035044,Female,Sindh,0,2,0,833
+54,GGHS (M) Long Bhatti (Male) (P),27.6849601,68.9035344,Male,Sindh,3,0,1124,0
+55,GGHS (M) Long Bhatti (Female) (P),27.6849601,68.9035644,Female,Sindh,0,2,0,885
+131,GPS Ghulam Hyder Khoso (Com) (P),27.68530244,69.00398757,Combined,Sindh,1,1,366,301
+48,GPS Gol Ali Wahan (Com) (P),27.6876914,68.9008663,Combined,Sindh,2,2,730,658
+118,GPS Haji Khan Burriro(Com) (P),27.68890754,69.03715064,Combined,Sindh,1,1,484,451
+119,Govt: Kundi Buffelo Farm (Com) (P),27.69323627,68.98009071,Combined,Sindh,1,1,335,268
+120,Govt: Kundi Buffelo Farm (Male) (P),27.69323627,68.98012071,Male,Sindh,4,0,1690,0
+121,Govt: Kundi Buffelo Farm (Female) (P),27.69323627,68.98015071,Female,Sindh,0,4,0,1501
+56,GPS Sharaf Abad (Male) (P),27.6935696,68.8676961,Male,Sindh,3,0,1115,0
+57,GPS Sharaf Abad (Female) (P),27.6935696,68.8677261,Female,Sindh,0,2,0,889
+72,GPS Ali Sher Jawari (com) (P),27.6949255,68.8826095,Combined,Sindh,1,1,399,331
+117,GHS Dubar (Com),27.70842272,69.05042138,Combined,Sindh,1,1,440,258
+116,GPS Abdul Rehman Khaki (Com) (P),27.74725487,69.01585362,Combined,Sindh,1,1,453,351

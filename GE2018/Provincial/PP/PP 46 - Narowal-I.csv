@@ -1,0 +1,130 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+141,141-Govt.Boys H/S Satheyala (Combined) (P),32.1017,74.87281,Combined,Punjab,1,1,727,498
+70,70-Govt.Boys P/S Bhati-Kahlwan. (Combined) (P),32.21782834210195,74.96161336744063,Combined,Punjab,2,1,849,594
+68,68-Govt. Boys P/S Eno-Wali (Combined) (P),32.22254,74.94925,Combined,Punjab,2,2,1158,815
+71,71-Govt. P/S Mehlo Wala (Combined) (P),32.24364504977493,74.95792725980435,Combined,Punjab,1,1,788,545
+60,60-Govt. Girls PS Jamkey (Combined),32.25423,74.9345,Combined,Punjab,1,1,541,392
+77,77-Govt.Girls Elementry School Sarjal. (Combined) (P),32.25502,74.92508,Combined,Punjab,2,1,881,578
+140,140-Govt.Girls H/S Satheyala (Combined) (P),32.25529,74.96868,Combined,Punjab,2,2,1071,741
+72,72-Govt.Girls  Primary School Pindi Kahlawan. (Combined) (P),32.2610318488429,74.88277875769766,Combined,Punjab,2,2,1114,720
+61,61-Govt. Girls PS Jalokey. (Combined) (P),32.263258882463894,74.92106362209736,Combined,Punjab,2,1,767,510
+74,74-Govt.Girls H/S Dhamthal. (Combined) (P),32.27156,74.88899,Combined,Punjab,1,1,735,535
+78,78-Govt.Girls Elementry School Sangyal. (Combined) (P),32.27262,74.95957,Combined,Punjab,2,2,1100,756
+63,63-Govt. Boys E/S Langar-Key (Combined) (P),32.27496995865836,74.92809753100904,Combined,Punjab,2,2,1080,765
+62,62-Govt. Girls PS Soian (Combined),32.27668,74.91048,Combined,Punjab,2,1,756,487
+142,142-Govt.Girls P/S Dhala (Combined) (P),32.28386,74.98866,Combined,Punjab,1,1,672,480
+133,133-Govt.Girls P/S Sahluwali (Combined) (P),32.2844,75.01662,Combined,Punjab,2,1,816,536
+131,131-Govt.Girls P/S Saleh-pur (Combined) (P),32.2889,75.02627,Combined,Punjab,1,1,681,483
+66,66-Govt.Girls P/S Targa (Combined) (P),32.28974,74.94217,Combined,Punjab,2,1,929,572
+65,65-Basic Health Unit Romal. (Combined),32.29008,74.93802,Combined,Punjab,2,1,1029,674
+53,53-Govt.Girls P/S Jahanian. (Combined) (P),32.29066,74.89021,Combined,Punjab,2,1,799,608
+67,67-Govt.P/S Chak-Hakeem (Combined) (P),32.29096,74.92775,Combined,Punjab,2,1,896,569
+51,51-Govt. Girls Primary School Gnaish Pur(Combined),32.29295,74.91666,Combined,Punjab,1,1,412,325
+135,135-Govt.Girls P/S Chakre (Combined) (P),32.29716,74.998,Combined,Punjab,2,2,932,739
+132,132-Govt.Girls P/S Banhal. (Combined) (P),32.29958,75.0107,Combined,Punjab,2,1,824,603
+136,136-Govt.Boys P/S Shaikhpur / Chahar (Combined) (P),32.3004,75.03642,Combined,Punjab,2,2,957,735
+52,52-Govt.Girls P/S Jandran. (Combined) (P),32.30099,74.9045,Combined,Punjab,1,1,644,551
+119,119-Govt.Girls P/S Mohlan (Combined) (P),32.30196493060836,74.98006214167151,Combined,Punjab,2,2,1010,735
+144,144-Govt.H/S Jabaal (Combined) (P),32.30269,74.97695,Combined,Punjab,1,1,855,634
+64,64-Govt.P/S Pindi Amolak. (Combined) (P),32.30305,74.96305,Combined,Punjab,2,1,835,568
+116,116-Govt.Girls P/S Dungharay-Khurd. (Combined) (P),32.31062,74.98899,Combined,Punjab,1,1,605,459
+134,134-Govt.Girls P/S  Aziz-pur (Combined) (P),32.3117,75.00184,Combined,Punjab,1,1,667,425
+143,143-Govt.Girls P/S Bhagwal. (Combined) (P),32.31307,75.11374,Combined,Punjab,1,1,466,361
+21,21-Govt.Girls P/S Ladharr. (Combined) (P),32.31318,74.90063,Combined,Punjab,2,1,701,498
+117,117-Govt. Boys P/S Pindi-Porbeian (Combined) (P),32.315,74.98666,Combined,Punjab,2,1,949,709
+45,45-Govt.Girls P/S Jaghal (Combined) (P),32.31528,74.95194,Combined,Punjab,2,1,715,459
+56,56-Govt. Boys E/S Rajian (Combined) (P),32.31548,74.88721,Combined,Punjab,2,2,995,843
+20,20-Govt. GPS Nagrey No. 2 (Combined),32.31551,74.91127,Combined,Punjab,1,1,638,479
+137,137-Govt.H/S Rambari. (Combined) (P),32.31778,75.03584,Combined,Punjab,1,1,724,567
+118,118-Govt.Girls P/S Parerra. (Combined) (P),32.31834,74.99678,Combined,Punjab,1,1,584,470
+43,43-Govt.Girls P/S Rajwal. (Combined) (P),32.31861,74.95777,Combined,Punjab,2,1,844,506
+18,18-Govt.Girls H/S Bhattian Dewan (Male) (P),32.31931,74.92951,Male,Punjab,3,0,1412,0
+19,19-Govt.Girls H/S Bhattian Dewan (Female) (P),32.31931,74.92954,Female,Punjab,0,2,0,1005
+55,55-Govt.Boys P/S Habit Pur (Combined) (P),32.32417,74.86383,Combined,Punjab,2,2,1065,779
+15,15-Govt.Girls P/S Chack Mirdah. (Combined) (P),32.32774770786979,74.91532653958829,Combined,Punjab,2,1,693,480
+139,139-Govt.P/S Barwal (Combined) (P),32.33083,75.05222,Combined,Punjab,2,1,807,562
+46,46-Govt.Boys E/S Sapanwal No.1 (Combined) (P),32.33096688672406,74.95356469443085,Combined,Punjab,2,1,847,602
+7,7-Govt. Girls P/S Nangal Suotkan (Male) (P),32.33099,74.89256,Male,Punjab,4,0,2162,0
+138,138-Govt. Girls P/S Chanda. (Combined) (P),32.33185,75.01936,Combined,Punjab,2,1,751,603
+16,16-Govt. Girls Community Model School Khushal Garh (Combined),32.33229,74.92339,Combined,Punjab,1,1,566,407
+48,48-Govt. Girls Primary School Chak Daudhu(Combined),32.33406,74.92539,Combined,Punjab,1,1,454,273
+122,122-Govt.Girls E/S Kokial-Khurd (Combined) (P),32.33793,75.02036,Combined,Punjab,2,1,836,639
+17,17-Govt.Girls P/S Bubak (Combined) (P),32.33839,74.86519,Combined,Punjab,2,1,886,631
+128,128-Govt.Girls P/S Karyal (Combined) (P),32.340587111738316,75.06591426000814,Combined,Punjab,2,2,1111,720
+11,11-Govt. Boys H/S Zafarwal(Male)  (P),32.34167,74.90503,Male,Punjab,3,0,1217,0
+12,12-Govt. Boys High School- Zafarwal (Female)  (P),32.34167,74.90506,Female,Punjab,0,2,0,1022
+13,13-Govt Boys High School- Zafarwal(Male),32.34167,74.90509,Male,Punjab,2,0,966,0
+14,14-Govt Boys High School- Zafarwal(Female),32.34167,74.90512,Female,Punjab,0,2,0,758
+90,90-Govt.Girls P/S Sadghal. (Combined) (P),32.34286,75.03313,Combined,Punjab,2,1,852,702
+4,4-Govt. Girls Middle School Eid Gah- Zafarwal(Female) (P),32.34417,74.89674,Female,Punjab,0,2,0,967
+6,6-Govt. Girls E/S Eid Gah Road Zafarwal (Female),32.34422,74.89706,Female,Punjab,0,2,0,885
+10,10-Govt. Girls H/S Zafarwal (Female) (P),32.34456,74.90037,Female,Punjab,0,2,0,1113
+9,9-Govt. Girls H/S Zafarwal (Male) (P),32.34456,74.9004,Male,Punjab,3,0,1292,0
+1,1-Govt. P/S No 2  Zafarwal (Male)  (P),32.3447,74.90278,Male,Punjab,3,0,2259,0
+3,3-Govt. Girls Degree College  - Zafarwal (Male) (P),32.34512,74.90315,Male,Punjab,2,0,1171,0
+5,5-Govt Girls Degree College Zafarwal(Male),32.34512,74.90318,Male,Punjab,2,0,1055,0
+106,106-Govt.Girls H/S Chak -Doula. (Combined) (P),32.34534,75.03928,Combined,Punjab,2,1,942,646
+57,57-Govt.Girls P/S  Uncha Kalan. (Male) (P),32.34637,74.87987,Male,Punjab,3,0,1323,0
+58,58-Govt.Girls P/S Uncha Kalan. (Female) (P),32.34637,74.8799,Female,Punjab,0,2,0,969
+109,109-Govt.H/S Bara Pind.(Male),32.34801,74.9856,Male,Punjab,3,0,1230,0
+110,110-Govt H/S Bara-Pind(Female),32.34801,74.98563,Female,Punjab,0,2,0,1035
+2,2-Govt. P/S Mahal Jalal Pur- Zafarwal(Female) (P),32.34834,74.9112,Female,Punjab,0,3,0,2132
+37,37-Govt.Girls P/S Pindi-Chaniani (Combined) (P),32.35014,74.96293,Combined,Punjab,2,2,950,670
+32,32-Govt.Boys P/S Saluwal (Combined) (P),32.35185,74.95319,Combined,Punjab,2,1,1046,726
+107,107-Govt.Girls P/S Badwal. (Combined) (P),32.35341465158362,75.03756045129677,Combined,Punjab,2,1,894,655
+129,129-Govt.Boys H/S Lasser -Kalan. (Male) (P),32.35389,75.06195,Male,Punjab,3,0,1251,0
+130,130-Govt.Boys H/S Lasser -Kalan. (Female) (P),32.35389,75.06198,Female,Punjab,0,2,0,973
+87,87-Govt.Boys P/S Jarpal (Combined) (P),32.35576,74.98667,Combined,Punjab,1,1,390,268
+114,114-Govt.Girls P/S Saincha. (Combined) (P),32.36037079960822,75.02090210181247,Combined,Punjab,2,1,706,481
+47,47-Govt.Girls P/S Wadhala. (Combined) (P),32.36095881568949,74.90290995956414,Combined,Punjab,2,2,1105,849
+33,33-Govt.Boys H/S Marara (Combined) (P),32.36272,74.94214,Combined,Punjab,1,1,668,515
+115,115-Govt. Girls PS Talan (Combined),32.36512,75.03122,Combined,Punjab,1,1,471,365
+36,36-Govt.Girls E/S Marjal (Combined) (P),32.36786,74.95726,Combined,Punjab,2,2,1170,949
+112,112-Govt. Boys H/S Luhara. (Male) (P),32.37154,75.03324,Male,Punjab,3,0,1384,0
+113,113-Govt. Boys H/S Luhara. (Female) (P),32.37154,75.03327,Female,Punjab,0,2,0,1106
+31,31-Govt.Girls  P/S Chani-Baghareyan (Combined) (P),32.37175,74.91376,Combined,Punjab,2,1,813,578
+94,94-Govt.Boys P/S Dhudham Kalan (Combined) (P),32.37472,75.0925,Combined,Punjab,2,1,752,470
+102,102-Govt.Girls P/S Hamral. (Combined) (P),32.37504437128729,75.02421922696715,Combined,Punjab,2,1,867,644
+91,91-Govt.Boys P/S Jatwal Kalan (Combined) (P),32.37583,75.08945,Combined,Punjab,2,1,901,563
+103,103-Govt.E/S Lagwal. (Combined) (P),32.37745,75.00376,Combined,Punjab,2,2,1105,845
+41,41-Govt. Girls High School Rapu Chak (Combined),32.38054,74.9623,Combined,Punjab,2,2,959,831
+30,30-Govt.Girls P/S Terah. (Combined) (P),32.38561,74.90968,Combined,Punjab,2,1,971,676
+111,111-Govt.Girls P/S Sadwal (Combined) (P),32.3875,75.04471,Combined,Punjab,2,2,933,762
+92,92-Govt.H/S Delra. (Male) (P),32.38945,75.09528,Male,Punjab,2,0,1046,0
+93,93-Govt.H/S Delra. (Female) (P),32.38945,75.09531,Female,Punjab,0,2,0,760
+23,23-Govt.Girls H/S Jandiala. (Female) (P),32.38966,74.94269,Female,Punjab,0,2,0,1075
+40,40-Govt.Boys High School Rapu-Chak (Combined) (P),32.39029,74.95174,Combined,Punjab,2,1,896,693
+24,24-Govt.Girls P/S Jarpal (Combined) (P),32.39253692809183,74.9414036935941,Combined,Punjab,2,1,1023,744
+104,104-Govt.Girls P/S Jarpal. (Male) (P),32.39253692809183,74.9414336935941,Male,Punjab,3,0,1235,0
+105,105-Govt.Girls P/S Jarpal. (Female) (P),32.39253692809183,74.9414636935941,Female,Punjab,0,2,0,989
+86,86-Govt.Girls P/S Ghumrola (Female) (P),32.39324,75.00053,Female,Punjab,0,2,0,1163
+22,22-Govt.Boys M/S Jandeyala. (Male) (P),32.39444,74.92088,Male,Punjab,2,0,1343,0
+127,127-Govt.Girls P/S Niki Gujran. (Combined) (P),32.39676186843931,75.08635072473628,Combined,Punjab,1,1,613,329
+85,85-Govt.Boys P/S Ghumrola(Male) (P),32.39743,75.00611,Male,Punjab,3,0,1701,0
+101,101-Govt. Boys E/S Barri Minhasan. (Combined) (P),32.40109,75.04524,Combined,Punjab,2,2,1028,767
+80,80-Govt.Boys H/S Darman.(Male) (P),32.40419,75.00073,Male,Punjab,4,0,1816,0
+27,27-Govt.Girls P/S Sakroor (Combined) (P),32.40786,74.99813,Combined,Punjab,2,1,858,575
+29,29-Govt.Girls P/S Kot-Naju. (Combined) (P),32.40786,74.99816,Combined,Punjab,2,1,739,502
+39,39-Govt.Girls P/S Chakri (Combined) (P),32.40786,74.99819,Combined,Punjab,1,1,573,400
+25,25-Govt. P/S Devli(Combined),32.41034655900031,74.9390473514358,Combined,Punjab,2,1,798,555
+82,82-Govt. P/S Nawan Pind (Combined) (P),32.41077,75.02235,Combined,Punjab,1,1,746,561
+28,28-Govt.Girls E/S Malla. (Combined) (P),32.41338,74.96127,Combined,Punjab,2,1,835,581
+125,125-Govt.Girls P/S Bherr. (Combined) (P),32.413954387349044,75.08543094313403,Combined,Punjab,1,1,667,443
+26,26-Govt.Boys P/S Chak-Vechla. (Combined) (P),32.41539,74.97195,Combined,Punjab,2,1,1024,692
+126,126-Govt. Girls P/S Nagwal. (Combined) (P),32.41837403437483,75.06856527623013,Combined,Punjab,2,1,773,529
+83,83-Govt.Girls P/S Balal Nagar (Combined) (P),32.4209,75.00584,Combined,Punjab,2,1,868,525
+84,84-Govt.Girls P/S Dingha-Narian-Pur (Combined) (P),32.42128,75.02177,Combined,Punjab,2,1,762,581
+98,98-Govt.Girls P/S Tara-Pur (Female) (P),32.42245,75.01273,Female,Punjab,0,2,0,750
+99,99-Govt.Girls P/S Pind-Burhumnah. (Male) (P),32.42245,75.01276,Male,Punjab,2,0,1226,0
+123,123-Govt. P/S Bharri. (Combined) (P),32.42350741976259,75.03219854819314,Combined,Punjab,2,1,552,325
+124,124-Govt. Girls PS Thakar Dawarah(Combined),32.42976,75.05154,Combined,Punjab,2,1,789,519
+89,89-Govt.Girls E/S Jhang (Combined) (P),32.43834,75.09167,Combined,Punjab,2,1,969,659
+88,88-Govt.P/S Bhattli (Combined) (P),32.44167,75.09861,Combined,Punjab,2,1,906,629
+100,100-Govt.P/S Pind-Burhumnah. (Female) (P),32.44302,75.01373,Female,Punjab,0,2,0,844
+97,97-Basic Health Unit Taara Pur (Male),32.4459,75.02094,Male,Punjab,2,0,1118,0
+96,96-Govt. Girls Primary School Badala Gujran. (Combined),32.45666,75.06781,Combined,Punjab,2,1,832,568
+120,120-Govt.Girls primary school - berra kalan. (Combined) (P),32.46218,75.02909,Combined,Punjab,2,1,949,604
+121,121-Govt.Girls P/S Jangochak (Combined) (P),32.47452,75.02995,Combined,Punjab,2,1,1009,702
+69,69-Govt.Girls E/S Eno-Wali (Combined) (P),32.84752,74.06014,Combined,Punjab,1,1,308,209
+79,79-Govt.P/S Sangial. (Combined) (P),32.84752,74.06017,Combined,Punjab,1,1,576,425
+95,95-Govt.Girls P/S Kohlian (Combined) (P),32.95412,73.43829,Combined,Punjab,2,1,1119,757

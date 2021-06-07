@@ -1,0 +1,81 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+78,GMS Kagwala (Female),33.94099,71.54311,Female,KPK,0,4,0,2084
+74,GPS No.1 Utmanzai (Kagawala) (Male) PS-I,33.94133,71.54569,Male,KPK,4,0,1603,0
+75,GPS No.1 Utmanzai (Kagawala) (Male) PS-II,33.94133,71.54572,Male,KPK,4,0,1316,0
+76,GPS Alizai  (Male) PS-I,33.94521,71.55209,Male,KPK,4,0,1686,0
+77,GPS Ali Zai (Kagawala) (Male) PS-II,33.94521,71.55212,Male,KPK,4,0,1678,0
+79,GHS  Kagwala PS-I (Female),33.94596,71.55379,Female,KPK,0,3,0,1277
+80,GHS  Kagwala PS-II (Female),33.94596,71.55382,Female,KPK,0,3,0,1103
+68,BHU Bazid Khel (Female),33.94946,71.5387,Female,KPK,0,3,0,1347
+62,GPS No.1 Bazid Khel (Male) (P),33.95018,71.53509,Male,KPK,4,0,1788,0
+65,GPS Bazid Khel No.2 (P)  (Male),33.95084,71.53824,Male,KPK,3,0,896,0
+63,GMS Bazid Khel (Male) (P) PS-1,33.95093,71.5355,Male,KPK,4,0,1255,0
+64,GMS Bazid Khel (Male) (P) PS-2,33.95093,71.53553,Male,KPK,3,0,1037,0
+66,GGPS Bazid Khel No.2 (Female) (P) PS-1,33.95304,71.53951,Female,KPK,0,3,0,1175
+67,GGPS Bazid Khel No.2 (Female) (P) PS-2,33.95304,71.53954,Female,KPK,0,3,0,1008
+73,GGPS No.2 Ahmad Khel  (Female) (P),33.95472,71.54723,Female,KPK,0,4,0,1551
+72,GPS No.3 Ahmed Khel (Female) (P),33.9556,71.5414,Female,KPK,0,3,0,1290
+69,GHS Ahmed Khel (Male) (P) PS-1,33.95857,71.54269,Male,KPK,4,0,1784,0
+71,GHS Ahmed Khel (Male) (P) PS-2,33.95857,71.54272,Male,KPK,4,0,1523,0
+70,GPS Garhi Shahidan (Male) (P),33.95876,71.55648,Male,KPK,4,0,1316,0
+3,GGPS No.1 Marozai- Dehbahader (Female) PS-I (P),33.9644,71.5513,Female,KPK,0,3,0,982
+4,GGPS No.1 Marozai- Dehbahader (Female) PS-II,33.9644,71.55133,Female,KPK,0,2,0,966
+1,GGMS/GGPS No.1 Dehbahader  (Male) PS-1,33.96548,71.54836,Male,KPK,4,0,1604,0
+2,GGMS/GGPS No.1 Dehbahader  (Male) PS-2,33.96548,71.54839,Male,KPK,4,0,1374,0
+57,GGPS No.3 Achar (Female),33.96548,71.54842,Female,KPK,0,3,0,1053
+55,GGPS No.1 Achar (Female),33.96949,71.55254,Female,KPK,0,4,0,1551
+5,GHSS Musazai (Male) PS-I,33.97305,71.61902,Male,KPK,4,0,2381,0
+6,GHSS Musazai (Male) PS-II,33.97305,71.61905,Male,KPK,4,0,1329,0
+7,GHSS Musazai (Male) PS-III,33.97305,71.61908,Male,KPK,4,0,1355,0
+33,GGPS Gulshan Rehman Colony (Male),33.97494,71.56123,Male,KPK,3,0,1094,0
+53,GGMS Gulshan Rehman Colony (Male)  PS-1,33.97494,71.56126,Male,KPK,4,0,1204,0
+54,GGMS Gulshan Rehman Colony (Male)  PS-2,33.97494,71.56129,Male,KPK,4,0,1214,0
+32,G Shaheed Saad ur Rahman HS Gulshan Rehman Colony (Male) PS-1,33.97575,71.56177,Male,KPK,4,0,1220,0
+34,G Shaheed Saad ur Rahman HS Gulshan Rehman Colony (Male) PS-2,33.97575,71.5618,Male,KPK,3,0,1163,0
+51,GPS Gulshan Rehman Colony (Male),33.97575,71.56183,Male,KPK,4,0,1849,0
+56,GPS for Boys Gulshan Rehman Colony (Male) PS-II,33.97575,71.56186,Male,KPK,4,0,1704,0
+8,GGPS No.2 Musazai (Female) PS-1,33.97577,71.60883,Female,KPK,0,4,0,1634
+9,GGPS No.2 Musazai (Female) PS-II,33.97577,71.60886,Female,KPK,0,4,0,1660
+35,GDC for Women Gulshan Rehman Colony Kohat Road (Female) PS-I,33.97671,71.56377,Female,KPK,0,4,0,1670
+52,GDC for Women Gulshan Rehman Colony Kohat Road (Female) PS-II,33.97671,71.5638,Female,KPK,0,4,0,1585
+30,GMS (Ghazi Baba) Landi Arbab Near Ring Road (Male),33.97702,71.55449,Male,KPK,4,0,1690,0
+31,GGPS No. 02- (Ghazi Baba) Landi Arbab Near Ring Road (Female),33.97702,71.55452,Female,KPK,0,3,0,1201
+43,GPS Garhi Atta Muhammad (Female),33.97765,71.57964,Female,KPK,0,3,0,1349
+41,Dispensary Garhi Atta Muhammad (Male) PS-1,33.97776,71.58479,Male,KPK,3,0,927,0
+42,Dispensary Garhi Atta Muhammad (Male) PS-2,33.97776,71.58482,Male,KPK,4,0,1250,0
+47,GPS No.1 Garhi Qamar Din (Male) PS-1,33.98015,71.56562,Male,KPK,4,0,1384,0
+48,GPS No.1 Garhi Qamar Din (Male) PS-2,33.98015,71.56565,Male,KPK,4,0,1632,0
+49,GGPS Garhi Qamar Din (Female) PS-1,33.98081,71.56604,Female,KPK,0,3,0,1109
+50,GGPS Garhi Qamar Din (Female) PS-2,33.98081,71.56607,Female,KPK,0,3,0,915
+46,GPS Madina Colony (Female),33.98357,71.56712,Female,KPK,0,4,0,1527
+44,GPS Tor Baba (Male) PS-1,33.9853,71.57095,Male,KPK,3,0,1178,0
+45,GPS Tor Baba (Male) PS-2,33.9853,71.57098,Male,KPK,3,0,1180,0
+37,GGMS No.2 Hazar Khawani (Female),33.98611,71.59378,Female,KPK,0,2,0,926
+40,GPS No.3 Hazar Khawani (Female) PS-II,33.98698,71.59329,Female,KPK,0,4,0,1663
+38,GPS Dir Colony (Male) PS-1,33.98946,71.58462,Male,KPK,4,0,1756,0
+39,GPS Dir Colony (Male) PS-2,33.98946,71.58465,Male,KPK,4,0,1301,0
+27,GGHS Hazar Khawani (Female),33.99129,71.60561,Female,KPK,0,3,0,1292
+22,GGPS No. 02 Hazar Khawani (Female) PS-1,33.9914,71.6055,Female,KPK,0,4,0,1723
+25,GGPS No. 02 Hazar Khawani (Female) PS-II,33.9914,71.60553,Female,KPK,0,4,0,2113
+18,Hall No. 01 Rehman Baba Complex (Male),33.99294,71.58988,Male,KPK,4,0,1760,0
+19,Hall No. 02 Rehman Baba Complex (Female),33.99294,71.58991,Female,KPK,0,3,0,1121
+26,GPS No.4 Hazar Khawani (Male) PS-I,33.993,71.6065,Male,KPK,4,0,1649,0
+36,GPS No.4 Hazar Khawani (Male) PS-II,33.993,71.60653,Male,KPK,4,0,1803,0
+20,GPS No.1 Hazar Khawani (Male) PS-I,33.99359,71.60616,Male,KPK,4,0,1264,0
+21,GPS No.1 Hazar Khawani (Male) PS-II,33.99359,71.60619,Male,KPK,4,0,1243,0
+23,GHSS Hazar Khawani (Male) PS-I,33.99359,71.60622,Male,KPK,4,0,1499,0
+24,GHSS Hazar Khawani (Male) PS-II,33.99359,71.60625,Male,KPK,4,0,1561,0
+29,GPS Afridi Abad (Female),33.9984,71.59531,Female,KPK,0,3,0,959
+28,Civil Dispensary Afridi Abad Phundu Road (Male),33.99913,71.59641,Male,KPK,4,0,1594,0
+11,GPS  Bari Bagh Dora Road (Female)  PS-I,34.0013,71.58909,Female,KPK,0,4,0,1559
+14,GPS  Bari Bagh Dora Road (Female)   PS-II,34.0013,71.58912,Female,KPK,0,3,0,1373
+17,GPS Beri Bagh Dora Road (Female) PS-3,34.0013,71.58915,Female,KPK,0,3,0,1228
+10,GHS for Boys Bari Bagh Dora Road (Male) PS-I,34.00139,71.58852,Male,KPK,4,0,1603,0
+12,GHS for Boys Bari Bagh Dora Road (Male) PS-II,34.00139,71.58855,Male,KPK,4,0,1505,0
+13,GHS for Boys Bari Bagh Dora Road (Male) PS-III,34.00139,71.58858,Male,KPK,4,0,1425,0
+15,G Shaheed Hamza Kamran HS Akhoon Abad No.4 near Dar-ul-Alum Ghosia Jama Masjid Phundu road (Male) PS-1,34.00391,71.59168,Male,KPK,3,0,977,0
+16,G Shaheed Hamza Kamran HS Akhoon Abad No.4 near Dar-ul-Alum Ghosia Jama Masjid Phundu road (Male) PS-2,34.00391,71.59171,Male,KPK,3,0,960,0
+60,GPS No.2 Haider Colony (Male) PS-1,34.00432,71.58839,Male,KPK,4,0,2055,0
+61,GPS No.2 Haidar Colony  (Male) PS-2,34.00432,71.58842,Male,KPK,4,0,1971,0
+58,GGPS Haider Colony (Female) PS-1,34.00441,71.58873,Female,KPK,0,3,0,1531
+59,GGPS Haider Colony (Female) PS-2,34.00441,71.58876,Female,KPK,0,3,0,1321

@@ -1,0 +1,97 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+326,GPS Qabool Jat ( Fully Improvised),24.06563307354382,67.69413355505341,Combined,Sindh,1,1,393,358
+324,GPS Haji Ismail Katiar ( Fully Improvised ),24.11485619000132,67.65620419040097,Combined,Sindh,2,2,1031,824
+323,GPS Haji Yousif Katiar,24.12490466969256,67.65298360898605,Combined,Sindh,1,1,401,295
+307,GPS Shah Bunder,24.165214587527217,67.9030512387393,Combined,Sindh,1,1,397,302
+311,GPS Karim Dino,24.179703411086845,67.89021781295618,Combined,Sindh,1,1,527,419
+322,GPS Bagan @ Village Jalal Shah,24.18405871,67.75491548,Combined,Sindh,1,1,380,295
+314,GPS Muhammad Shah Bari,24.18783976,68.14452334,Combined,Sindh,1,1,279,197
+319,GPS Haji Abdul Ghani Jat,24.19013996,67.84560556,Combined,Sindh,1,1,641,317
+315,GPS Haji Bhai Khan ( Partially Improvised ),24.19519056,68.08294871,Combined,Sindh,2,2,820,649
+316,GPS Jaffar Bohar,24.19521142,68.12899077,Combined,Sindh,1,1,451,357
+312,GPS Abdul Rahim Jat ( Partially Improvised ),24.19630616,68.09718085,Combined,Sindh,2,1,745,568
+320,GPS Haji Allah Dino Mandro,24.2039066,67.81848285,Combined,Sindh,1,1,569,399
+321,GPS Hussain Mendhro,24.20414634,67.76077794,Combined,Sindh,1,1,441,385
+216,GPS Kook ( Partially Improvised ),24.2094062,68.16883447,Combined,Sindh,2,1,588,442
+313,GBPS Haji Ahmed Jat,24.2326503,68.08930082,Combined,Sindh,1,1,589,394
+317,GPS Gul Muhammad Laghari (Partially improvised),24.23296455,68.10755837,Combined,Sindh,2,1,697,598
+309,GPS Aghedino Shah ( Partially Improvised ),24.233849024717045,67.90954902438324,Combined,Sindh,1,1,466,410
+318,GPS Jeand Zangejo,24.23485325,67.78602662,Combined,Sindh,1,1,493,415
+306,GPS Amoo Magsi ( Partially Improvised ),24.23982294456147,67.85327608633068,Combined,Sindh,1,1,418,293
+300,GPS Saleh Khaskheli ( Partially Improvised ),24.251929027731055,67.83879866278129,Combined,Sindh,1,1,499,353
+288,GPS Haji Qabil Kehar (Female),24.259122668263796,67.9107492487947,Female,Sindh,0,2,0,833
+286,GPS Amoo Mandrio ( Partially Improvised ),24.25917269698634,67.98441875791545,Combined,Sindh,1,1,416,291
+240,Improvised Haji Warayo Thaheem ( Partially Improvised ),24.259591973726952,68.35346335110594,Combined,Sindh,2,1,761,545
+202,GPS Haji Umer Thaheem (Partialy improvised),24.26040714,68.20003133,Combined,Sindh,1,1,231,195
+241,GPS Basrio Wangai ( Partially Improvised ),24.27287498131642,68.27815788740854,Combined,Sindh,2,2,928,625
+281,GPS Umer Khan Laghari  ( Partially improvised ),24.276621703088484,68.08860273677664,Combined,Sindh,2,2,816,653
+285,GPS Jhungo Jalbani ( Partially Improvised ),24.282435762617183,67.92154203510489,Combined,Sindh,2,1,649,492
+303,GPS Haji Arab Kehar ( Partially Improvised ),24.28746602469158,67.842243615577,Combined,Sindh,2,1,735,534
+273,GPS Haji Shafi Muhammad Jat,24.299362825622552,68.08703215561387,Combined,Sindh,2,1,639,522
+219,GPS Saeedano @ Village Ishaque Thaheem Portion-II (Female) ( Partially improvised),24.3144752,68.24503652,Female,Sindh,0,2,0,801
+305,GPS Ismail Charan ( Partially Improvised ),24.31576297893393,67.85489580131556,Combined,Sindh,1,1,465,271
+290,GMS Hussain Dal,24.322850634838634,67.94235051071097,Combined,Sindh,2,1,731,602
+283,GPS Hussain Dal,24.322931975111405,67.94191755214517,Combined,Sindh,1,1,478,356
+279,GPS Bachal Chandio,24.3315038502648,68.03793663258753,Combined,Sindh,1,1,580,526
+207,GPS Molvi Muhammad Umer ( Partially Improvised ),24.33875468,68.13000819,Combined,Sindh,2,1,827,622
+267,GPS Shah Yaqeeq (Female),24.34719385842401,68.03232260710853,Female,Sindh,0,2,0,849
+304,GPS Qadir Dino Shah Part-II ( Partially Improvised ),24.351110826029483,67.8763444307848,Combined,Sindh,2,2,730,635
+301,GPS Qadir Dino Shah Part-I,24.351148160907936,67.87660810966682,Combined,Sindh,1,1,312,192
+295,GMS Main Ahmed Jat ( Partially Improvised ),24.352163526817435,67.89872273771786,Combined,Sindh,2,2,894,650
+280,GPS Fateh Ali Jatoi,24.353249342051004,68.05520621172866,Combined,Sindh,2,2,987,677
+206,GPS Haji Allah Dino Memon,24.35381431,68.10313379,Combined,Sindh,1,1,535,428
+296,GPS Hussain Shah @ Jhandan,24.367920005881164,67.96561311506332,Combined,Sindh,1,1,388,218
+299,GPS Allahdad Solangi ( Partially Improvised ),24.369718257555093,67.96540352281232,Combined,Sindh,2,2,785,594
+186,GPS Allah Warayo Jat ( Partially Improvised ),24.37342314,68.22025871,Combined,Sindh,2,1,703,531
+293,GPS Jumoo Jamali ( Partially Improvised ),24.37497883749551,67.9575118346007,Combined,Sindh,2,1,772,583
+271,GPS Ghulam Hussain Lakhatiyo (Male) ( Partially Improvised ),24.377132501741052,68.00776175721883,Male,Sindh,3,0,1385,0
+294,GHS Goongani,24.38563656071689,67.93033456053749,Combined,Sindh,1,1,543,373
+291,GGPS Goongani,24.386338008746712,67.92987948665039,Combined,Sindh,1,1,605,439
+269,GPS Murad Ali Mirghal (Female),24.389146198724916,67.99480204390407,Female,Sindh,0,2,0,837
+272,GGPS Chuhar Jamali (Female),24.393218978587544,67.99428586149804,Female,Sindh,0,2,0,1116
+262,Town Committee Office Chuhar Jamali (Male),24.393345453448813,67.99469546193173,Male,Sindh,4,0,1640,0
+298,GPS Aali Baran ( Partially Improvised ),24.39458441754498,67.88535098771288,Combined,Sindh,2,2,895,631
+226,Improvised PS Haji Ramoon Mallah,24.39622354577637,68.33287480337133,Combined,Sindh,1,1,422,333
+297,GMS Khanto Mori,24.396592048426864,67.97112553627777,Combined,Sindh,2,1,639,478
+260,GPS Chuhar Jamali (New Building) (Male),24.39838752787104,67.9920205264124,Male,Sindh,4,0,1700,0
+261,GGMS Chuhar Jamali (Female),24.39845414455958,67.99206509858736,Female,Sindh,0,3,0,1402
+265,GHS Chuhar Jamali Part-II (Female),24.399933459394845,67.99335910336319,Female,Sindh,0,3,0,1212
+264,GHS Chuhar Jamali Part-I (Male),24.399955450674216,67.99339377503466,Male,Sindh,3,0,1493,0
+263,Irrigation office Chuhar Jamali (Female),24.400371549496445,67.99344531823829,Female,Sindh,0,2,0,1369
+175,GPS Zakria Otho ( Partially Improvised ),24.409900303799713,68.05940685404985,Combined,Sindh,2,1,781,648
+195,Dispensary Village Shaikh Jo Raj,24.41327463,68.12661727,Combined,Sindh,2,1,627,475
+198,GHS Begna,24.419409394120546,68.25695999541144,Combined,Sindh,2,1,647,479
+187,GPS Haji Umer Jat,24.425458818997264,68.26051259994564,Combined,Sindh,1,1,475,422
+176,GPS Ramzan Otho ( Partially Improvised ),24.43719485326043,67.99614694438208,Combined,Sindh,2,1,659,620
+194,Inspection Bangalow Marho Bola Khan,24.45002889,68.11618617,Combined,Sindh,1,1,461,392
+232,GPS Haji Qadoo Machhi ( Partially improvised ),24.45053434,68.40179043,Combined,Sindh,2,1,728,520
+237,GPS Arab Khatti ( Fully Improvised ),24.450547990321216,68.3385281999503,Combined,Sindh,1,1,492,317
+215,GMS Tarr Khowaja Portion-II (Female),24.453249509329908,68.24891994606074,Female,Sindh,0,2,0,715
+210,GPS Gul Muhammad Garho ( Partially Improvised ),24.46753542046268,68.24251559110141,Combined,Sindh,1,1,575,453
+238,GHS Baran Abad,24.46796781,68.3647578,Combined,Sindh,1,1,425,339
+185,GPS Ahmed Otho ( Partially Improvised ),24.477272635589692,68.01272264652354,Combined,Sindh,2,2,718,667
+212,GMS Sikander Hingorjo ( Partially Improvised ),24.495360080487675,68.24427726176604,Combined,Sindh,2,1,708,601
+234,GPS Natho Jangiyani,24.49752266,68.32680982,Combined,Sindh,1,1,370,278
+184,GHS Mureed Khoso,24.49861472010364,68.03586115298947,Combined,Sindh,2,1,696,570
+250,GPS Haji Ali Muhammad Jat ( Partially Improvised ),24.50852367,68.29105342,Combined,Sindh,2,1,721,581
+180,GPS Muhammad Essa Sand ( Partially Improvised ),24.527452966150182,68.0441237300915,Combined,Sindh,2,2,746,677
+182,GPS Muhammad Soomar Bhurgri (Male),24.53467621532904,68.02447566459169,Male,Sindh,2,0,870,0
+183,GMS Muhammad Soomar Bhurgri (Female) ( Fully Improvised ),24.53467621532904,68.0245056645917,Female,Sindh,0,2,0,718
+252,GPS Aselo Lodho ( Partially Improvised ),24.562408,68.28598814,Combined,Sindh,1,1,608,502
+249,GPS Achar Samejo ( Partially improvised),24.57908591,68.37774811,Combined,Sindh,1,1,437,386
+253,GPS Malik Muhammad Siddique ( Partially Improvised ),24.57950152,68.25889833,Combined,Sindh,2,2,737,582
+201,Inspection Bangalow Kothi,24.882880435530613,67.1812730508526,Combined,Sindh,1,1,510,390
+203,GPS Ghulam Muhammad Arain ( Partially Improvised ),24.882880435530613,67.1813030508526,Combined,Sindh,1,1,478,395
+227,GPS Uris Temro,24.882880435530613,67.1813330508526,Combined,Sindh,1,1,495,424
+254,GHS (Boys) Jati Old Portion-I  (Male),24.882880435530613,67.1813630508526,Male,Sindh,3,0,1244,0
+255,GHS (Boys) Jati Old Portion-II  (Female),24.882880435530613,67.1813930508526,Female,Sindh,0,2,0,1040
+256,GPS Haji Younis Mirbahar Portion-I (Male),24.882880435530613,67.1814230508526,Male,Sindh,2,0,815,0
+258,GGHS Jati (Male),24.882880435530613,67.1814530508526,Male,Sindh,3,0,1453,0
+259,GGPS Jati (Female),24.882880435530613,67.1814830508526,Female,Sindh,0,3,0,1180
+274,GPS Chhachh Suleman Khan (Male),24.882880435530613,67.1815130508526,Male,Sindh,2,0,1013,0
+275,GPS Chhach Jehan Khan (Female),24.882880435530613,67.1815430508526,Female,Sindh,0,2,0,862
+277,GHS Ladiyoon Portion-I (Male),24.882880435530613,67.1815730508526,Male,Sindh,2,0,916,0
+278,GHS Ladiyoon Portion-II (Female),24.882880435530613,67.1816030508526,Female,Sindh,0,2,0,823
+282,Darogo Landhi Irrigation Qadria @ Ladiyoon ( Partially Improvised ),24.882880435530613,67.1816330508526,Combined,Sindh,2,1,725,607
+222,GPS Muhammad Khan Malkani,24.9503663818162,67.13024836344876,Combined,Sindh,1,1,584,491
+223,GPS Main Jati Portion-I (Male),24.9503663818162,67.1302783634488,Male,Sindh,2,0,1108,0

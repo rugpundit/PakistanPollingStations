@@ -1,0 +1,167 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+6,Govt Boys Primary School- Bodial (Combined)(P),33.40326,72.95842,Combined,Punjab,1,1,472,366
+7,Govt. Girls Elementary School- Bodial (Combined)(P),33.4111,72.95639,Combined,Punjab,1,1,656,572
+35,Govt Girls Primery School- Mandwal (combined)(P),33.42124574014539,72.85602746841822,Combined,Punjab,1,1,515,408
+32,Govt.Boys High School- Chahan (Male)(P),33.42407173545868,72.87865446723184,Male,Punjab,3,0,1347,0
+33,Govt.Boys High School- Chahan (Female)(P),33.42407173545868,72.8786844672318,Female,Punjab,0,2,0,1216
+5,Govt boys High School- Dhallah (combined)(P),33.42643,72.95787,Combined,Punjab,2,2,802,739
+34,Govt.Girls Primery School- Dhoke Chahh- Chahan (combined)(P),33.46515965481979,72.84230664671034,Combined,Punjab,1,1,417,363
+31,Govt. Girls Middle School- Maira Khenger (combined)(P),33.46935075822765,72.92317324539141,Combined,Punjab,2,2,935,859
+1,Govt Boys High School- Adyala (Combined),33.47041,73.01414,Combined,Punjab,2,2,1106,954
+2,Govt Boys High School- Adyala (Combined)(P),33.47041,73.01417,Combined,Punjab,2,2,920,804
+3,Govt Boys Primery School- Khasala (combined)(P),33.47041,73.0142,Combined,Punjab,2,1,800,675
+30,Govt. Elementary School- Maira Kalan (combined)(P),33.48147727998961,72.93089756058184,Combined,Punjab,2,2,945,826
+4,Govt. Girls Primary School- Khasala Khurd (combined)(P),33.49186,73.07982,Combined,Punjab,1,1,682,578
+27,Govt. Boys Primary School- Raja Hassu Khan (combined)(P),33.49707908406629,72.96928789121772,Combined,Punjab,2,1,752,597
+28,Basic Health Unit Kolian Pur (combined)(P),33.5099572481234,72.95080235128576,Combined,Punjab,1,1,194,164
+29,Basic Health Unit Kolian Pur (combined)(P),33.5099572481234,72.9508323512858,Combined,Punjab,1,1,496,381
+8,Govt Girls primery School- Banda Nagial (combined)(P),33.53049,73.00382,Combined,Punjab,2,2,967,825
+25,Qandeel Elecmentry School- Ranyal (combined)(P),33.536561217434716,72.97629491726185,Combined,Punjab,2,1,811,664
+22,Govt. Boys Elementary School- Ranyal (Male)(P),33.53841664635669,72.97671561039155,Male,Punjab,3,0,1802,0
+23,Govt. Boys Elementary School- Ranyal (Female)(P),33.53841664635669,72.9767456103915,Female,Punjab,0,1,0,685
+24,Govt. Boys Elementary School- Ranyal (Female)(P),33.53841664635669,72.9767756103916,Female,Punjab,0,2,0,908
+26,Union Council Office Ranyal (combined)(P),33.539112744276146,72.98183926699797,Combined,Punjab,1,1,704,572
+10,Basic Health Unit- Hayal Dhamial (combined)(P),33.54189,73.01376,Combined,Punjab,2,2,953,882
+9,Basic Health Unit- Hayal Dhamial (combined)(P),33.54189,73.01379,Combined,Punjab,2,2,1050,856
+18,Govt.Girls Middle School- Thalian (Male)(P),33.54218455129477,72.90929215466248,Male,Punjab,2,0,940,0
+19,Govt.Girls Middle School- Thalian (Female)(P),33.54218455129477,72.9093221546625,Female,Punjab,0,2,0,811
+20,Govt Boys Primery School- Ghariba (combined)(P),33.545616999861416,72.92605116245595,Combined,Punjab,1,1,683,541
+13,Govt. Girls Primary School Pind Ranjah (combined)(P),33.566806570253924,72.85701169348262,Combined,Punjab,2,2,741,718
+21,Govt. Girls Primary School- Kot Kolian- (Comb) (P),33.56895766986425,72.92361810093813,Combined,Punjab,1,1,363,282
+12,Govt. Girls High School- Bajnial (combined)(P),33.574354840807125,72.8892151311345,Combined,Punjab,2,2,866,842
+11,Govt. Boys Primary School- Mohri Khatran (combined)(P),33.577146179161325,72.82774870709993,Combined,Punjab,1,1,448,452
+14,Govt. High School- Pind Nasrullah (Male)(P),33.60165867853733,72.87239918083827,Male,Punjab,2,0,717,0
+15,Govt. High School- Pind Nasrullah (Male)(P),33.60165867853733,72.8724291808383,Male,Punjab,2,0,1182,0
+16,Govt. High School- Pind Nasrullah (Female)(P),33.60165867853733,72.8724591808383,Female,Punjab,0,1,0,664
+17,Govt. High School- Pind Nasrullah (Female)(P),33.60165867853733,72.8724891808383,Female,Punjab,0,2,0,1096
+60,Govt Girls Primary School Wanni (Female)(P),33.62335,72.83813,Female,Punjab,0,2,0,813
+61,Govt Girls Primary School Wanni (Female)(P),33.62335,72.83816,Female,Punjab,0,2,0,797
+58,Govt Boys High School Wanni (Male)(P),33.62457,72.84187,Male,Punjab,2,0,893,0
+59,Govt Boys High School Wanni (Male)(P),33.62457,72.8419,Male,Punjab,2,0,842,0
+83,Govt Boys Primary School Mohra Murado  (male)(P),33.6378,73.08033,Male,Punjab,1,0,466,0
+100,Govt. Degree  College- Mohallah Pari Taxila  (Male)(P),33.6378,73.08055,Male,Punjab,1,0,400,0
+102,Govt. Degree College College- Mohallah Pari- Taxila- (Female) (P),33.6378,73.08058,Female,Punjab,0,3,0,1628
+135,Govt Boys Primary School Kolian. (combined)(P),33.6378,73.08061,Combined,Punjab,2,2,998,862
+163,Govt Boys Primary School- Malikabad Old Building (Female)(T),33.6378,73.08064,Female,Punjab,0,1,0,203
+36,Govt Girls High School Wahdat Colony-Taxila (Male)(P).,33.6378,73.08067,Male,Punjab,2,0,797,0
+37,Govt Girls High School Wahdat Colony-Taxila (Male)(P).,33.6378,73.0807,Male,Punjab,1,0,524,0
+38,Govt Girls High School Wahdat Colony- Taxila (Female)(P).,33.6378,73.08073,Female,Punjab,0,1,0,738
+39,Govt Girls High School Wahdat Colony- Taxila (Female)(P).,33.6378,73.08076,Female,Punjab,0,1,0,486
+40,Govt Model Primary School- Dhoke Wajjan (Male)(P),33.6378,73.08079,Male,Punjab,2,0,1052,0
+41,Govt Model Primary School- Dhoke Wajjan (Male)(P),33.6378,73.08082,Male,Punjab,2,0,1186,0
+42,Govt  Model Primary School-Najaf Ali Shah(New) Dhoke Wajjan (Female)(P),33.6378,73.08085,Female,Punjab,0,2,0,1012
+98,Muncipal Committee Model Girls High School-Taxila. (Male)(P),33.6378,73.08088,Male,Punjab,2,0,1071,0
+56,Govt. Boys Primary School- Dhoke Aksar Khan- (Comb) (P),33.64045,72.83083,Combined,Punjab,1,1,282,239
+57,Govt. Boys Primary School- Dhoke Aksar Khan- (Comb) (P),33.64045,72.83086,Combined,Punjab,1,1,433,352
+55,Govt. Primary School- Paswal- Taxila- (Comb) (P),33.64928,72.83884,Combined,Punjab,1,1,339,251
+170,Govt Boys Primary School Pind Noshehri. (combined)(P),33.65978,72.78138,Combined,Punjab,2,1,703,530
+167,Govt Girls High School Thatha Khalil. (combined)(P),33.66208,72.75423,Combined,Punjab,1,1,523,417
+54,Govt Model Primary School Bhadana. (combined)(P),33.6666,72.82986,Combined,Punjab,1,1,358,281
+52,Govt Boys Elementary School Chokhar. (combined)(P),33.66813,72.79987,Combined,Punjab,2,1,744,710
+53,Govt Girls Elementary School Chokhar- (combined)(P),33.6688,72.80034,Combined,Punjab,2,1,807,667
+168,Govt Boys High School Thatha Khalil. (Male)(P),33.67247,72.75581,Male,Punjab,3,0,1816,0
+169,Union Council Office Thatha Khalil (Female)(P).,33.6732,72.75595,Female,Punjab,0,3,0,1603
+161,Govt Girls Primary School Ban Bhola- ( Combined),33.71162,72.76957,Combined,Punjab,1,1,651,608
+160,Govt Girls Priamry School Dhoke Sadu.  (combined)(P),33.72025,72.77985,Combined,Punjab,2,2,958,892
+63,Wahdat Public School- New Wahdat Town- (Comb) (P),33.724942333022675,72.80097875450265,Combined,Punjab,1,1,569,499
+43,Govt  Model Primary School-Najaf Ali Shah(New) Dhoke Wajjan (Female)(P),33.72651,72.81284,Female,Punjab,0,2,0,1071
+162,Govt Boys Primary School Malikabad New Building (Male)(P),33.72971,72.77779,Male,Punjab,1,0,240,0
+165,Govt Boys Primary School- Malikabad New Building (Female)(P),33.72971,72.77782,Female,Punjab,0,3,0,1450
+62,Govt Girls Primary School- Pind Gondal- (combined)(P),33.73083444232015,72.7915166347725,Combined,Punjab,2,2,1113,911
+89,Govt Girls Primary School Sarai Kala- (Female)(P),33.73428,72.79697,Female,Punjab,0,1,0,523
+90,Govt Girls Primary School Sarai Kala- (Female)(P),33.73428,72.797,Female,Punjab,0,2,0,1193
+50,Govt. High School- HIT Taxila Cantt (Male) (P),33.73434495200546,72.83055188117211,Male,Punjab,1,0,642,0
+51,Govt. High School- HIT Taxila Cantt (Female) (P),33.73434495200546,72.8305818811721,Female,Punjab,0,1,0,550
+45,Govt. High School- HIT Taxila Cantt (Male) (P),33.734430105535736,72.83057511050448,Male,Punjab,1,0,615,0
+46,Govt High School HIT Taxila (Female)(P).,33.734430105535736,72.8306051105045,Female,Punjab,0,1,0,577
+49,Govt Boys Primary Karam Wal School- Taxila (Comb) (T),33.73455,72.84127,Combined,Punjab,2,2,1171,1005
+81,Govt Boys High School Khurram Paracha.(primary portion) (combined)(P),33.73562,72.87636,Combined,Punjab,2,2,1425,1302
+87,Govt Boys High School Taxila  Sarai Khola(Old Primary)(Male)(P),33.73567,72.79961,Male,Punjab,2,0,1216,0
+88,Govt Boys High School Taxila Sarai Khola(Old Primary)(Male)(P),33.73567,72.79964,Male,Punjab,2,0,1094,0
+93,Ghandara High School- St No-13 Thatha Khalil Road- Taxila (Female),33.73638,72.79281,Female,Punjab,0,2,0,672
+47,F.G Public High School Taxila (Male)(P).,33.73679693988234,72.82693529029342,Male,Punjab,2,0,997,0
+48,F.G Public High School Taxila (Female)(P),33.73679693988234,72.8269652902934,Female,Punjab,0,2,0,914
+94,Govt Boys Primary School Jamilabad-Taxila (Male)(P).,33.73706,72.79034,Male,Punjab,1,0,584,0
+91,Islamic Public School Thatha Khalil Road- Taxila (Male)(T).,33.73706,72.79267,Male,Punjab,1,0,779,0
+92,Islamic Public School Thatha Khalil Road- Taxila (Female)(T).,33.73706,72.7927,Female,Punjab,0,1,0,451
+103,Govt High School Taxila (Chowk Sarai Kala) (Male) (P),33.73772,72.80056,Male,Punjab,1,0,541,0
+104,Govt High School Taxila (Chowk Sarai Kala) (Male) (P),33.73772,72.80059,Male,Punjab,2,0,1164,0
+105,Govt High School Taxila (Chowk Sarai Kala) (Female) (P),33.73772,72.80062,Female,Punjab,0,2,0,1273
+44,Govt Primary School- Bhair Darghai (Comb) (P),33.73773,72.82847,Combined,Punjab,1,1,520,516
+158,Govt Boys Primary School Brahama. (combined)(P),33.73836,72.70727,Combined,Punjab,1,1,606,574
+99,Muncipal Committee Model Girls High School-Taxila. (Female)(P),33.73838,72.80927,Female,Punjab,0,2,0,922
+86,Govt. Girls Primary School Khurram Gujjar (combined)(P),33.73849,72.87698,Combined,Punjab,2,2,946,929
+164,Roman Public School Malikabad. (Male)(T),33.73935,72.77829,Male,Punjab,3,0,1804,0
+159,Govt Girls Primary School Ghazi Koli (combined)(P),33.73944,72.73634,Combined,Punjab,1,1,715,668
+95,Govt Taleem-Ul-Quran High School- Taxila- Faisal Shaheed Road- Taxila- (Male) (P),33.74035,72.80249,Male,Punjab,1,0,552,0
+96,Govt Taleem-Ul-Quran High School- Taxila- Faisal Shaheed Road- Taxila- (Male) (P),33.74041,72.80314,Male,Punjab,2,0,975,0
+97,Govt Taleem-Ul-Quran High School- Taxila- Faisal Shaheed Road- Taxila- (Female) (P) Sher,33.74041,72.80317,Female,Punjab,0,2,0,1346
+101,Govt. Degree  College- Mohallah Pari Taxila  (Male)(P),33.743,72.80373,Male,Punjab,3,0,1559,0
+106,Vaterenty Hospital Taxila. (Male)(T),33.74422,72.80352,Male,Punjab,3,0,1408,0
+107,Vaterenty Hospital Taxila. (Female)(T),33.74422,72.80355,Female,Punjab,0,3,0,1332
+125,Project Manager Officer Taxila (Male)(P),33.7459,72.81609,Male,Punjab,2,0,917,0
+126,Project Manager Officer Taxila (Male)(P),33.7459,72.81612,Male,Punjab,1,0,616,0
+127,Project Manager Officer Taxila (Female)(P),33.7459,72.81615,Female,Punjab,0,2,0,1340
+112,Govt Primary School Railway Road Taxila. (Male)(P),33.74717781691319,72.81093928841165,Male,Punjab,2,0,1052,0
+113,Govt Primary School Railway Road Taxila. (Female)(P),33.74717781691319,72.8109692884116,Female,Punjab,0,2,0,1002
+108,Govt  Girl high school Taxila  (Male)(P).,33.74740532216165,72.80994205537502,Male,Punjab,2,0,1062,0
+114,Govt Girls High School Taxila (Male)(P),33.74746,72.81007,Male,Punjab,2,0,1267,0
+115,Govt Girls High School Taxila- (Female)(P),33.74746,72.8101,Female,Punjab,0,2,0,1168
+118,Govt Boys Primary School Railway Road Taxila. (Female)(P),33.74749,72.81059,Female,Punjab,0,2,0,1135
+109,Govt Taleem-ul-Quran Primary School- Main Bazar- Taxila  (Male)(P).,33.74892,72.80484,Male,Punjab,2,0,1138,0
+110,Muncipal Liabrary Taxila (Female)(P),33.74942671670034,72.804996892228,Female,Punjab,0,2,0,1014
+111,Muncipal Liabrary Taxila (Female)(P),33.74942671670034,72.805026892228,Female,Punjab,0,2,0,970
+119,Govt Boys Primary School- Mohra Shah Wali- Taxila (Male)(T),33.75021,72.81419,Male,Punjab,2,0,809,0
+120,Govt Boys Primary School Mohra Shah Wali- Taxila (Female)(T),33.75021,72.81422,Female,Punjab,0,2,0,744
+116,Ghandara School Mohallah Makran Taxila. (Male)(T),33.75279,72.80953,Male,Punjab,2,0,914,0
+117,Ghandara School Mohallah Makran Taxila. (Male)(T),33.75279,72.80956,Male,Punjab,1,0,352,0
+129,Convent Public School New Model Town Taxila (Female)(T),33.75887842185976,72.81275959849255,Female,Punjab,0,2,0,1217
+128,Barani  Public Girls Sec. School Taxila- ( (Male)(T),33.75932,72.81248,Male,Punjab,2,0,1377,0
+121,Govt Boys Elementry School Gangoo Bahadur Taxila. (Male)(P),33.75983,72.82132,Male,Punjab,2,0,1059,0
+122,Govt Boys Elementry School Gangoo Bahadur Taxila. (Male)(P),33.75983,72.82135,Male,Punjab,2,0,842,0
+123,Govt Boys Elementary School Gangoo Bahadur Taxila. (Female)(P),33.75983,72.82138,Female,Punjab,0,2,0,927
+124,Govt Boys Elementary School Gangoo Bahadur Taxila. (Female)(P),33.75983,72.82141,Female,Punjab,0,2,0,775
+85,Govt Boys Primary School Gangoo Juma (combined)(P),33.76146,72.83337,Combined,Punjab,2,1,713,602
+157,Govt Boys Primary School Mustafa Dhoke Mochian. (combined)(P),33.76445,72.70979,Combined,Punjab,1,1,641,483
+82,Govt Boys Elementary School UET (combined)(P),33.76587,72.81887,Combined,Punjab,2,1,855,722
+84,Govt Boys Primary School Mohra Murado  (female)(P),33.76705,72.86036,Female,Punjab,0,1,0,367
+74,Marry Public School Rahbar Colony Taxila (male),33.76989,72.81914,Male,Punjab,2,0,852,0
+72,Govt. TEVTA College HMC Road Taxila (Male)(P),33.78965,72.81624,Male,Punjab,4,0,2035,0
+73,Govt. TEVTA College HMC Road Taxila  (Female)(P),33.78965,72.81627,Female,Punjab,0,3,0,1790
+156,Govt Boys Primary School Gattia.(combined)(P),33.79095,72.70658,Combined,Punjab,1,1,743,668
+131,Govt Primary School- Sammu- (combined)(P),33.79225,72.78484,Combined,Punjab,1,1,681,575
+79,Govt Girls Community Model School- Usman Khattar- Taxila (Male)(P),33.79268,72.824,Male,Punjab,2,0,799,0
+80,Govt Girls Community Model School- Usman Khattar (Female)(P),33.79268,72.82403,Female,Punjab,0,2,0,749
+76,Basic Health Unit - Usman Khattar- (Comb) (P),33.79358,72.82197,Combined,Punjab,1,1,658,559
+77,Govt. High School- Usman Khattar- (Male) (P),33.79386,72.82805,Male,Punjab,2,0,807,0
+78,Govt. High School Usman Khattar- (Female)(P),33.79386,72.82808,Female,Punjab,0,1,0,703
+149,Govt Girls High School Wah Village  (Female)(P).,33.79808,72.69208,Female,Punjab,0,3,0,1489
+130,Govt Boys Elementary School Gohdu. (combined)(P),33.79824,72.79898,Combined,Punjab,2,2,1022,956
+132,Govt Boys High School Ghari Afghanan (Male)(P),33.79861,72.78008,Male,Punjab,2,0,1021,0
+134,Govt Boys High School Ghari Afghanan (Male)(P),33.79861,72.78011,Male,Punjab,2,0,1057,0
+148,Govt Boys High School Wah Village  (Male)(P),33.79876,72.70063,Male,Punjab,3,0,1666,0
+151,Govt Boys High School Wah Village (combined)(P),33.79876,72.70066,Combined,Punjab,2,2,1026,914
+133,Govt Girls High School- Ghari Afghanan (Female)(P),33.80274,72.78568,Female,Punjab,0,3,0,1876
+66,Govt Boys Elementary School Anwarabad Ghari Skindar (Male)(P),33.80373,72.8204,Male,Punjab,3,0,1685,0
+67,Govt Boys Elementary School Anwarabad Ghari Skindar (Male)(P),33.80373,72.82043,Male,Punjab,1,0,613,0
+138,Govt Boys Primary School Malpur. (combined)(P),33.8048,72.77525,Combined,Punjab,2,2,771,728
+150,Union Council Office Wah Village (combined)(P).,33.80502,72.70242,Combined,Punjab,1,1,542,458
+64,Govt Model Priamry School Salar Gah (Male)(P),33.8051,72.85666,Male,Punjab,2,0,1230,0
+65,Govt Model Priamry School Salar Gah (Female)(P),33.8051,72.85669,Female,Punjab,0,2,0,1019
+68,Govt Girls Primary School Ahata Ghari Skindar- (Female)(P),33.80521,72.81699,Female,Punjab,0,2,0,1494
+69,Govt Girls Primary School Ahata Ghari Skindar- (Female)(P),33.80521,72.81702,Female,Punjab,0,1,0,520
+152,Wah Grammar School Qadar Town .(Male)(P),33.80525,72.70395,Male,Punjab,3,0,1349,0
+153,Wah Grammar School Qadar Town .(Male)(P),33.80525,72.70398,Male,Punjab,2,0,919,0
+154,Govt Girls Primary School Dhoke  Jhatla. (Female)(P),33.80627,72.70716,Female,Punjab,0,4,0,2062
+71,Govt GIRLS Model Primary School Bhalar Top (Female)(P),33.82169,72.83196,Female,Punjab,0,3,0,1308
+137,Govt Girls Primary School Bajjar- (Female) (P),33.82207,72.77705,Female,Punjab,0,2,0,901
+136,Govt Boys Primary School- Bajjar- (Male) (P),33.82293,72.77591,Male,Punjab,2,0,1038,0
+139,Govt Boys Primary School Bhoti Pind.(Male)(P),33.82881954296759,72.74706073261518,Male,Punjab,3,0,1743,0
+140,Govt Girls Elementary School Bhoti Pind. (Female) (P),33.8290619229055,72.74720820422625,Female,Punjab,0,3,0,1531
+145,Govt. Boys Primary School- Mohra Nasroo- (Male) (P),33.833558128087205,72.72617411219647,Male,Punjab,2,0,754,0
+146,Govt. Boys Primary School- Mohra Nasroo- (Female) (P),33.833558128087205,72.7262041121965,Female,Punjab,0,1,0,658
+143,Govt Boys Primary School Lab Village  (Male)(P),33.85201610435253,72.75365937413402,Male,Punjab,3,0,1308,0
+144,Govt Girls Middle School Lab Village (Female)(P),33.85405985602492,72.75387152144013,Female,Punjab,0,2,0,1090
+141,Govt Boys High School Lab Thuthoo. (Male)(P),33.85549805149021,72.74036225837769,Male,Punjab,2,0,1095,0
+142,Basic Health Unit- Lab thuthoo (Female)(T),33.855915983898115,72.74104016493705,Female,Punjab,0,2,0,966
+147,Govt Boys Primary School Nikoo (Comb)(P).,33.8645,72.69308,Combined,Punjab,1,1,477,396

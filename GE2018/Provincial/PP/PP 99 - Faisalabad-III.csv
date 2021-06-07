@@ -1,0 +1,4 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+3,Government Boys Primary School Jhumra Road Khurrianwala  (Female),31.5053,73.26262,Female,Punjab,0,2,0,957
+1,Government Boys Primary School Chak No.266/RB Saboana (Combined) ( P ),31.50705,73.236,Combined,Punjab,2,2,870,700
+2,Government Boys Primary School Chak No.266/RB Saboana (Male) ( P ),31.50705,73.23603,Male,Punjab,3,0,1277,0

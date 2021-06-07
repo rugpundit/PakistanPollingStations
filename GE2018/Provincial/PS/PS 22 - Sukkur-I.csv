@@ -1,0 +1,83 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+60,GBPS Ghatti (Com) (P),27.66007672,69.27707684,Combined,Sindh,2,2,867,645
+61,GHS Thikratho(Male) (P),27.66714558,69.24262708,Male,Sindh,3,0,1322,0
+62,GHS Thikratho (Female) (P),27.66714558,69.24265708,Female,Sindh,0,3,0,1188
+63,GHS Thikratho (Com) (P),27.66714558,69.24268708,Combined,Sindh,2,2,589,509
+68,GPS Qabil Mahtam (Male),27.68160842,69.27299287,Male,Sindh,2,0,1059,0
+69,GGPS Qabil Mahtam (Female),27.68160842,69.27302287,Female,Sindh,0,2,0,871
+64,GBPS Roophar (Male) (P),27.69150382,69.21524557,Male,Sindh,2,0,1077,0
+66,GHS Mubarakpur (Male) (P),27.70631103,69.29237947,Male,Sindh,3,0,1337,0
+67,GHS Mubarakpur (Female) (P),27.70631103,69.29240947,Female,Sindh,0,3,0,1108
+70,GBPS Garho Daro(Male) (P),27.72025051,69.29078035,Male,Sindh,4,0,1717,0
+71,GBPS Garho Daro(Female) (P),27.72025051,69.29081035,Female,Sindh,0,2,0,1127
+77,GBMS Nirch (Male) (P),27.72950507,69.10554536,Male,Sindh,2,0,987,0
+78,GBMS Nirch (Female) (P),27.72950507,69.10557536,Female,Sindh,0,2,0,741
+59,GMS Qaim Mochi (Com) (P),27.73764231,69.21653478,Combined,Sindh,2,2,943,668
+87,GBPS Junas (Com) (P),27.74103823,69.1533934,Combined,Sindh,2,2,952,703
+72,GPS Alam Khan Pitafi (com) (P),27.74510301,69.23234113,Combined,Sindh,2,2,895,662
+90,GBPS Mitho Kalhoro(Male),27.74561147,69.1069662,Male,Sindh,2,0,949,0
+91,GBPS Mitho Kalhoro(Female),27.74561147,69.1069962,Female,Sindh,0,2,0,711
+75,GBPS Katta (Male) (P),27.7466616,69.0551603,Male,Sindh,3,0,1148,0
+76,GBPS Katta (Female) (P),27.7466616,69.0551903,Female,Sindh,0,2,0,962
+79,GBPS Sorho(Com) (P),27.74955454,69.09573295,Combined,Sindh,2,1,678,531
+56,Govt: Middle School Wazeer Malano (Com) (P),27.76953977,69.234001,Combined,Sindh,2,2,921,650
+51,GHS Sultanpur (Male) (P),27.7827805,69.181096,Male,Sindh,2,0,1172,0
+52,GHS Sultanpur (Female) (P),27.7827805,69.181126,Female,Sindh,0,2,0,1123
+85,GHS Haleji Sharif (Male) (P),27.78315082,69.13725696,Male,Sindh,3,0,1243,0
+86,GHS Haleji Sharif (Female) (P),27.78315082,69.13728696,Female,Sindh,0,2,0,980
+46,GBPS Hasul (Male) (P),27.7867363,69.19174296,Male,Sindh,3,0,1311,0
+47,GBPS Hasul (Female) (P),27.7867363,69.19177296,Female,Sindh,0,2,0,992
+106,FG Public School Pano Akil (Female) (P),27.78988192,69.116922,Female,Sindh,0,3,0,949
+105,FG Public School Pano Akil (Male) (P),27.78988988,69.11692753,Male,Sindh,3,0,1258,0
+103,Cantt: Board  (Male) (P),27.80695286,69.14042047,Male,Sindh,3,0,1361,0
+104,Cantt: Board  (Female) (P),27.80695332,69.14043062,Female,Sindh,0,3,0,1157
+43,GBPS Drib(Com) (P),27.81181201,69.18694974,Combined,Sindh,2,2,805,589
+81,GBPS Cheechro (Com) (P),27.81898755,69.24036117,Combined,Sindh,2,2,734,575
+53,GBELS Talli (Illlahi Bux Mangi) (Male) (P),27.83440345,69.17042873,Male,Sindh,3,0,1184,0
+54,GBELS Talli (Illlahi Bux Mangi)  (Female) (P),27.83440345,69.17045873,Female,Sindh,0,2,0,954
+35,GBPS Dur Muhammad Thahim (Male) (P),27.83478821,69.10449202,Male,Sindh,3,0,1345,0
+36,GGPS Dur Muhammad Thahim (Female) (P),27.83478821,69.10452202,Female,Sindh,0,3,0,1170
+33,GBPS Bachal Khan Dharejo (Male)(P),27.840019,69.10142152,Male,Sindh,3,0,1194,0
+34,GBPS Bachal Khan Dharejo (Female)(P),27.840019,69.10145152,Female,Sindh,0,2,0,958
+30,GBPS Baiji Sharif (Com) (P),27.84122941,69.08796659,Combined,Sindh,1,1,502,455
+21,GPBS Jumo Kalhoro.(Com) (P),27.84697078,69.11843574,Combined,Sindh,2,1,649,459
+31,Govt: Shaheed Abdul Aziz Bullo Degree College Pano Akil (Com) (P),27.84867227,69.09702466,Combined,Sindh,1,1,501,377
+32,Govt: Shaheed Abdul Aziz Bullo Degree College Pano Akil (Com) (P),27.84867227,69.09705466,Combined,Sindh,2,1,662,590
+93,GBPS Ibrahim Mahesar (Male) (P),27.84901869,69.19166312,Male,Sindh,4,0,1559,0
+94,GBPS Ibrahim Mahesar (Female) (P),27.84901869,69.19169312,Female,Sindh,0,3,0,1333
+20,GBPS New Basti.(Com)(P),27.85032425,69.11657242,Combined,Sindh,2,1,592,500
+7,GBHSS Pano Akil (Com) (P),27.8526892,69.11153161,Combined,Sindh,2,2,717,579
+40,GBPS Bag Khalidi (Com) (P),27.85290539,69.12625013,Combined,Sindh,1,1,477,397
+22,GBHSS Pano Akil IV (Com) (P),27.85294343,69.11191245,Combined,Sindh,2,1,715,495
+9,GBHSS Pano Akil III(Com) (P),27.85301324,69.11164414,Combined,Sindh,2,1,606,544
+11,GGHSS Pano Akil (Female) (P),27.85301324,69.11167414,Female,Sindh,0,3,0,1284
+10,GGHSS Pano Akil (Male) (P),27.85301324,69.11170414,Male,Sindh,4,0,1652,0
+19,GBPS Station Muhalla. (Com) (P),27.85330254,69.11687252,Combined,Sindh,1,1,586,433
+8,GBPS Station Muhalla II(Com) (P),27.85330496,69.11685902,Combined,Sindh,1,1,539,406
+27,GNMS Public School Pano Akil. (Com) (P),27.8548535,69.10312518,Combined,Sindh,2,2,838,630
+28,GNMS Public School Pano Akil. (Com) (P),27.8548535,69.10315518,Combined,Sindh,2,2,861,670
+6,GBPS Main Urdu Panoakil(Com) (P),27.85502234,69.11210996,Combined,Sindh,2,2,893,695
+18,GBPS Main Urdu II Pano Aki.(Com) (P),27.85510984,69.11227968,Combined,Sindh,2,2,686,540
+82,GHS Mulla Ali (Com) (P),27.85582847,69.19927971,Combined,Sindh,2,2,804,702
+15,GGPS Munwar Masjid I (Male) (P),27.85721205,69.11011686,Male,Sindh,2,0,1014,0
+16,GGPS Munwar Masjid I.(Female) (P),27.85721205,69.11014686,Female,Sindh,0,2,0,822
+17,GGPS Munwar Masjid II.(Com) (P),27.85721205,69.11017686,Combined,Sindh,2,2,811,637
+14,GGPS Main Near Jamia Masjid Pano Akil. (Com) (P),27.85748362,69.11049729,Combined,Sindh,2,2,743,656
+1,GBPS Haji Abdul Raheem Jatoi Main Sindhi Panoakil(Com) (P),27.85777433,69.10998474,Combined,Sindh,2,2,816,631
+2,GBPS Haji Abdul Raheem Jatoi Main Sindhi-II Panoakil (Male) (P),27.85777433,69.11001474,Male,Sindh,3,0,1117,0
+3,GBPS Haji Abdul Raheem Jatoi Main Sindhi-II Panoakil (Female),27.85777433,69.11004474,Female,Sindh,0,2,0,855
+80,GBPS Gharko(Com) (P),27.85944529,69.20671187,Combined,Sindh,2,2,760,634
+29,G(B)MS Chungha (Com)(P),27.85977515,69.07062656,Combined,Sindh,2,2,717,571
+42,GBPS Maqbool Chachar (Com),27.86463613,69.06408475,Combined,Sindh,2,2,715,585
+37,GPBS Pano Ghulam Ali (Com) (P),27.86945382,69.0966847,Combined,Sindh,2,2,768,629
+38,GBPS Mir khan Sohoo (Male) (P),27.87008115,69.10638391,Male,Sindh,2,0,1100,0
+39,GBPS Mir khan Sohoo (Female) (P),27.87008115,69.10641391,Female,Sindh,0,2,0,887
+41,GGPS Sardar Haji khan Chachar (Com) (P),27.88068838,69.08786611,Combined,Sindh,2,1,676,513
+83,GHS Motto Mirbhar (Male) (P),27.89301937,69.20424712,Male,Sindh,4,0,1608,0
+84,GHS Motto Mirbhar (Female) (P),27.89301937,69.20427712,Female,Sindh,0,3,0,1332
+95,GBPS Koro Khan Korai (Male) (P),27.8949571,69.15311566,Male,Sindh,2,0,754,0
+97,GBPS Sahib Khan Korai (Com) (P),27.90896914,69.15160102,Combined,Sindh,2,2,859,731
+98,GBPS Dadloi (Male) (P),27.9097818,69.17171095,Male,Sindh,3,0,1164,0
+100,GBPS Dadloi (Com) (P),27.9097818,69.17174095,Combined,Sindh,2,2,512,467
+99,GGMS Dadloi (Female) (P),27.90984883,69.17164687,Female,Sindh,0,2,0,928
+102,GGPS Bakhsho Selro (Female) (P),27.91913853,69.1871808,Female,Sindh,0,2,0,1147

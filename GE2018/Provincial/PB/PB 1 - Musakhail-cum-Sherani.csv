@@ -1,0 +1,134 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+48,P/S Mukland,30.73492854859096,70.11609847101487,Combined,Balochistan,1,1,308,188
+47,P/S Zarni,30.785386848284016,70.13637048016246,Combined,Balochistan,1,1,278,166
+50,Boys H/S Garrgoji,30.81190264040626,70.1780797098585,Combined,Balochistan,1,1,502,393
+49,P/S Kiyara,30.817277385351737,70.1859937075372,Combined,Balochistan,1,1,245,218
+44,P/S Neeli,30.828877830509025,70.22527926638183,Combined,Balochistan,1,1,547,408
+27,BHU Nakhal,30.8553732,69.8217318,Combined,Balochistan,1,1,493,314
+34,M/S H.Hayat Khan,30.8553732,69.8217618,Female,Balochistan,0,2,0,579
+36,U/C office Wah Hassan Khail,30.8553732,69.8217918,Male,Balochistan,1,0,366,0
+37,GBP/S Syed Noor Wah Hassan Khail,30.8553732,69.8218218,Female,Balochistan,0,2,0,719
+38,M/S Tangi Wah,30.8553732,69.8218518,Male,Balochistan,2,0,839,0
+74,P/S Murad Khan,30.8553739,69.8217298,Male,Balochistan,2,0,770,0
+75,Boys Model H/S Musakhel,30.8553739,69.8217598,Male,Balochistan,2,0,846,0
+77,DHQ  Musakhel,30.8553739,69.8217898,Male,Balochistan,1,0,370,0
+78,DHQ Hospital Musakhel (Female Portion),30.8553739,69.8218198,Female,Balochistan,0,1,0,353
+79,B & R Rest House Musakhel,30.8553739,69.8218498,Female,Balochistan,0,2,0,795
+80,Girls P/S Jaffar Abad,30.8553739,69.8218798,Female,Balochistan,0,2,0,926
+76,Old RHC Mkl,30.8553741,69.821731,Male,Balochistan,2,0,1155,0
+81,Girls H/S Musakhel,30.8553741,69.821761,Female,Balochistan,0,2,0,756
+4,BHU Ghuryasa,30.8578472,69.8200579,Male,Balochistan,1,0,286,0
+5,P/S Ghurryasa Jadeed,30.8578472,69.8200879,Female,Balochistan,0,1,0,273
+59,Boys M/S Kashpan,30.8578472,69.8201179,Combined,Balochistan,1,1,448,287
+60,BHU Khan Mohammad Kot,30.8578472,69.8201479,Male,Balochistan,1,0,658,0
+61,Veterinary Hospital Khan Mohammad Kot,30.8578472,69.8201779,Female,Balochistan,0,1,0,520
+62,P/S Gharrwandi,30.8578472,69.8202079,Combined,Balochistan,1,1,264,214
+63,H/S Burg Pusht,30.8578472,69.8202379,Male,Balochistan,3,0,1303,0
+64,CD Burg Pusht,30.8578472,69.8202679,Female,Balochistan,0,2,0,911
+65,M/S Patra,30.8578472,69.8202979,Combined,Balochistan,1,1,780,546
+66,H/S Kingri,30.8578472,69.8203279,Male,Balochistan,3,0,1221,0
+67,Girls M/S Kingri,30.8578472,69.8203579,Female,Balochistan,0,2,0,1060
+68,M/S Khajjoori,30.8578472,69.8203879,Male,Balochistan,1,0,910,0
+69,BHU Khajjoori,30.8578472,69.8204179,Female,Balochistan,0,2,0,657
+70,CD Chap,30.8578472,69.8204479,Combined,Balochistan,1,1,240,170
+71,CD Sham,30.8578472,69.8204779,Combined,Balochistan,1,1,702,515
+72,H/S Rarra Sham,30.8578472,69.8205079,Male,Balochistan,3,0,1610,0
+73,BHU Rarra Sham,30.8578472,69.8205379,Female,Balochistan,0,3,0,1352
+10,M/S  Jamaludin Shadezai Sarakhwa,30.8578481,69.8200573,Combined,Balochistan,2,1,718,483
+11,P/S Haji Bazak Salmezai,30.8578481,69.8200873,Combined,Balochistan,1,1,337,216
+12,P/S Zawar Miran,30.8578481,69.8201173,Combined,Balochistan,1,1,295,196
+21,P/S H.Hayat Khan Loghai Ponga,30.8578481,69.8201473,Male,Balochistan,1,0,472,0
+23,BHU Nali MIrdadzai,30.8578481,69.8201773,Male,Balochistan,1,0,641,0
+24,M/S Hassan Khail (F),30.8578481,69.8202073,Female,Balochistan,0,1,0,447
+13,P/S Chassan,30.8578483,69.8200566,Combined,Balochistan,1,1,531,404
+19,Boys M/S Toi Sar  (Combined),30.8578483,69.8200866,Combined,Balochistan,2,1,644,492
+20,P/S Ibrahimzai,30.8578483,69.8201166,Combined,Balochistan,1,1,364,228
+25,U/C Office Toi Sar,30.8578483,69.8201466,Combined,Balochistan,1,1,332,209
+26,CD Cheena Khundi,30.8578483,69.8201766,Combined,Balochistan,1,1,461,334
+28,CD Zezha,30.8578483,69.8202066,Combined,Balochistan,2,2,1031,748
+31,P/S Zam,30.8578483,69.8202366,Combined,Balochistan,2,1,838,558
+32,U/C Office Zam,30.8578483,69.8202666,Combined,Balochistan,2,2,1038,585
+33,P/S Taghni,30.8578483,69.8202966,Male,Balochistan,1,0,362,0
+35,Imp: Nishpa Kudezai,30.8578483,69.8203266,Male,Balochistan,1,0,364,0
+39,Boys H/S Drug (M),30.8581685,69.8201292,Male,Balochistan,2,0,777,0
+40,Girls M/S Firqa Umrani,30.8581685,69.8201592,Male,Balochistan,2,0,956,0
+41,Girls H/S Drug,30.8581685,69.8201892,Female,Balochistan,0,2,0,667
+42,P/S Kili Ibrahim Shaikh,30.8581685,69.8202192,Female,Balochistan,0,2,0,878
+43,Boys H/S Nath,30.8581685,69.8202492,Combined,Balochistan,1,1,315,258
+45,H/S Karkana,30.8581685,69.8202792,Male,Balochistan,4,0,1404,0
+46,Girls M/S Raje Umrani Karkana,30.8581685,69.8203092,Female,Balochistan,0,4,0,1165
+53,Boys M/S Tangi Sar,30.8581685,69.8203392,Combined,Balochistan,1,1,413,271
+1,Boys High School Dakiyan (Male),30.8581685,69.8201305,Male,Balochistan,1,0,539,0
+2,GGPS Malak Ghaffar,30.8581685,69.8201605,Female,Balochistan,0,1,0,339
+3,Anghazha Maghdozi,30.8581685,69.8201905,Combined,Balochistan,1,1,205,124
+6,Boys P/S Sami  Aghburg,30.8581685,69.8202205,Combined,Balochistan,1,1,493,279
+7,Boys P/S Nagharrba,30.8581685,69.8202505,Combined,Balochistan,1,1,440,255
+8,Boys P/S Zawar Essoot  (Combined),30.8581685,69.8202805,Combined,Balochistan,1,1,527,382
+9,P/S M. Hazar Khan Koch   Jamalzai,30.8581685,69.8203105,Combined,Balochistan,1,1,354,245
+14,P/S Zawar Khuramzai,30.8581685,69.8203405,Combined,Balochistan,1,1,253,163
+15,P/S Loghai,30.8588647,69.8197213,Combined,Balochistan,1,1,522,392
+16,P/S Paramzai,30.8588647,69.8197513,Combined,Balochistan,1,1,438,326
+17,P/S Cham    (Combined),30.8588647,69.8197813,Combined,Balochistan,1,1,287,220
+22,BHU New Mehmoodabad Loghai Ponga (F),30.8600449,69.8222342,Female,Balochistan,0,1,0,318
+52,P/S Burrkoi,30.945925307082966,70.13525532049634,Combined,Balochistan,1,1,368,247
+29,Imp: Salli,31.01797,69.95062,Combined,Balochistan,2,2,1090,724
+51,P/S Kewan,31.08221699749818,70.12664851688972,Combined,Balochistan,1,1,454,252
+54,P/S Saradarga,31.09330870674043,70.2290176710102,Combined,Balochistan,1,1,322,282
+18,P/S Tap Kudaizai,31.264309582591924,70.00923083002797,Combined,Balochistan,1,1,638,338
+30,P/S Salli,31.283435499865384,70.16961775200996,Combined,Balochistan,2,1,663,401
+55,V/Hospital Anzrakhail,31.283435499865384,70.16964775201,Combined,Balochistan,2,1,755,500
+56,Imp: Guzi Bay,31.283435499865384,70.16967775201,Combined,Balochistan,1,1,495,213
+57,BHU Zimri at Ramak,31.283435499865384,70.16970775201,Combined,Balochistan,2,1,832,415
+58,Imp: Guzi Alif,31.283435499865384,70.16973775201,Combined,Balochistan,1,1,699,380
+89,Primary School Laghara Benzai,31.3063,69.99135,Combined,Balochistan,1,1,240,127
+98,High School Khan Alam,31.33454,69.65433,Combined,Balochistan,2,1,527,429
+83,Goverment High School Beyesh Lawarah (Rozi Khan),31.34485,69.89861,Combined,Balochistan,2,1,506,444
+82,Civil Dispensary Nawarsak,31.34624,69.91196,Combined,Balochistan,1,1,443,314
+88,Primary School Ghuryasa Karozai,31.35115,69.93157,Combined,Balochistan,1,1,313,245
+101,Primary School Killi Gul Mohammad,31.3562,69.92135,Combined,Balochistan,1,1,158,163
+84,Primary School Sray Urbuz,31.36062,69.88687,Combined,Balochistan,2,1,522,423
+87,Primary School Daag Lawarah,31.37524,69.91204,Combined,Balochistan,1,1,207,166
+86,Primary School Chashma Ragha,31.38732,69.97979,Combined,Balochistan,1,1,364,237
+85,Primary School Surwai Kanai,31.39087,69.90948,Combined,Balochistan,1,1,247,151
+114,Primary School Inzerkhezai,31.39201,69.77312,Combined,Balochistan,2,2,750,552
+130,Primary School Mundah Harifal,31.40281,69.69588,Combined,Balochistan,1,1,283,230
+112,High School Manikhuwa,31.40405,69.81158,Combined,Balochistan,2,1,689,486
+131,Primary School Sheraw (Malik H.Nazar Khan Harifal),31.40897,69.72842,Combined,Balochistan,1,1,69,63
+133,Primary School Behlol Syed Mohammad,31.41125,69.63876,Combined,Balochistan,2,1,452,343
+99,Primary School Zarghoon Mangalzai,31.41302,69.71962,Combined,Balochistan,1,1,283,205
+115,Primary School Spasta Aghberg,31.4132,69.77779,Combined,Balochistan,1,1,310,244
+100,Primary School Anmar Mangalzai,31.42222,69.71063,Combined,Balochistan,1,1,325,293
+116,Primary School Laher Choherkhail,31.42889,69.79199,Combined,Balochistan,1,1,233,177
+113,Primary School Gerdani Laher Karmanzai,31.44143,69.80627,Combined,Balochistan,1,1,355,290
+134,Primary School Khadarzai Kach Mala,31.45014,69.75579,Combined,Balochistan,1,1,249,202
+90,Civil Dispensry Astashai,31.45109,69.85004,Combined,Balochistan,2,1,510,290
+135,Primary School Lewar Khaderzai,31.46216,69.73338,Combined,Balochistan,1,1,327,223
+132,Middle School Samanzai,31.46928,69.61977,Combined,Balochistan,1,1,386,263
+91,Middle School Surlakai,31.47508,69.84602,Combined,Balochistan,2,1,603,459
+117,High School Khankai,31.48763,69.80094,Combined,Balochistan,2,2,517,398
+118,Primary School Ghurlama,31.4899,69.83075,Combined,Balochistan,2,2,777,594
+128,Primary School Darya Khanzai,31.49428,69.66396,Combined,Balochistan,2,2,526,426
+93,Primary School Aneyzai,31.5051,69.76038,Combined,Balochistan,1,1,421,309
+92,Middle School Karam Fateh Khan,31.51406,69.80254,Combined,Balochistan,1,1,289,199
+109,Primary School Uzhdan M.Ayub,31.52113,69.79478,Combined,Balochistan,1,1,119,102
+127,Primary School Terai Malezai,31.52245,69.66776,Combined,Balochistan,2,1,436,331
+125,Primary School Dewalgadh,31.52338,69.70438,Combined,Balochistan,2,2,629,468
+126,Primary School Killi Bezhai Harifal,31.53892,69.74825,Combined,Balochistan,1,1,105,81
+96,Primary School Oba Sar,31.5425,69.83582,Combined,Balochistan,1,1,234,180
+107,Primary School Shina Punga,31.54979,69.75916,Combined,Balochistan,2,2,667,510
+123,Primary School Kaza Malezai,31.56046,69.71194,Combined,Balochistan,1,1,193,136
+94,Middle School Kori Wasta,31.56543,69.82411,Combined,Balochistan,2,2,531,443
+124,Primary School Zarkai Landawar,31.56698,69.70705,Combined,Balochistan,1,1,277,233
+120,Primary School Ibrahimkhail,31.56705,69.69066,Combined,Balochistan,2,2,710,514
+108,Primary School Charkundai,31.57428,69.78205,Combined,Balochistan,1,1,169,117
+122,Primary School Pasta,31.58185,69.70411,Combined,Balochistan,2,2,619,398
+95,Primary School Ahmadi Darga,31.58656,69.87157,Combined,Balochistan,2,2,831,616
+129,Middle School Ragha Sar Nikkan,31.58747,69.79212,Combined,Balochistan,2,2,662,477
+106,Primary School Shinki Koneh,31.59584,69.75801,Combined,Balochistan,1,1,437,294
+105,Midddle School Toor Ghundi,31.60846,69.7812,Combined,Balochistan,2,2,616,426
+97,Primary Schoo Niazee Kot,31.63266,69.90333,Combined,Balochistan,1,1,198,125
+111,Primary School Toor Ragha,31.67074,69.66573,Combined,Balochistan,2,2,736,545
+104,Primary School Tarkha Bayen,31.71483,69.74545,Combined,Balochistan,2,1,662,491
+110,Middle School Mir Ali Khail,31.73596,69.59215,Combined,Balochistan,1,1,557,527
+102,High School Chachobai,31.74501,69.73403,Combined,Balochistan,2,2,649,492
+103,Primary School Mughal Kot,31.86692,69.72015,Combined,Balochistan,1,1,237,179

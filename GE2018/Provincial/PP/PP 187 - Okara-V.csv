@@ -1,0 +1,147 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+30,30. Comred Public School Abdullah Town- Pipli pahar Road - Depalpur (Male),-61.10384,-1.661036,Male,Punjab,2,0,541,0
+14,14. Ali Foundation Science School Zia-u-Din Colony Depalpur (Female),-7.478681,-0.7031361,Female,Punjab,0,2,0,482
+26,26. Muhammad Ali Jinnah Public School Lalazar Colony Depalpur (Female),-7.594853,1.054681,Female,Punjab,0,2,0,514
+24,24. City Modal High School Lalazar Depalpur (Male),10.78344,9.652783,Male,Punjab,2,0,547,0
+123,123. Govt. Girls Elementry School- Doula Pukhta (P)* (Combined),30.1853256,72.7001806,Combined,Punjab,2,2,1045,862
+124,124. Govt. Boys Primary School- Lohariwala(P)* (Combined),30.1853256,72.7002106,Combined,Punjab,2,1,483,439
+125,125. Govt. Boys Primary School- Bahawaldas (P)* (Combined),30.1853256,72.7002406,Combined,Punjab,2,2,1371,1076
+126,126. Govt. Girls Primary School Hakim Sudhar Key (P)* (Combined),30.1853256,72.7002706,Combined,Punjab,2,1,709,571
+114,114. Govt. Boys Primary School Pholarwan Kambo (P)* (Male),30.2944459,73.0639991,Male,Punjab,4,0,1483,0
+115,115. Govt. Girls Primary School Pholarwan Kambo (P)* (Female),30.2944459,73.0640291,Female,Punjab,0,3,0,1152
+116,116. Govt. Girls Primary School Natho Shah (P)* (Combined),30.2944459,73.0640591,Combined,Punjab,1,1,408,289
+117,117. Govt. Model Primary School Chohan Shaman (P)* (Combined),30.2944459,73.0640891,Combined,Punjab,1,1,287,226
+118,118. Govt. Boys Primary School Lalu Pur  (P)* (Combined),30.2944459,73.0641191,Combined,Punjab,2,1,556,429
+139,139. Govt. Boys Primary School- Birbal Ranjha(P)* (Combined),30.498986018637765,73.7073508019028,Combined,Punjab,2,1,592,380
+140,140. Govt Boys Primary School Kot Zaman shah(Chak Wazeer Singh) (P)* (Combined),30.5102206,73.7229806,Combined,Punjab,2,1,708,542
+138,138. Govt. Girls Primary School Mari Kamboh(T)** (Combined),30.517034627194388,73.68728861853387,Combined,Punjab,2,1,763,564
+109,109. Govt. Boys Elementry School Sukh Pur (P)* (Combined),30.530818112301684,73.57450311030752,Combined,Punjab,2,2,974,646
+110,110. Govt. Boys Primary School Thakar Singh Wala (P)* (Combined),30.530818112301684,73.5745331103075,Combined,Punjab,2,2,987,783
+108,108. Govt. Boys Primary School Shah Nawaz Khanwala (P)* (Combined),30.54402668267147,73.5515339949056,Combined,Punjab,2,1,808,613
+71,71. Govt. Girls Primary School Mohal Musa Khan (P)* (Female),30.5470394,73.4400641,Female,Punjab,0,2,0,890
+113,113. Govt. Boys High School Delman Ganj (Rakh Dhular) (P)* (Combined),30.5603893350143,73.53045519979884,Combined,Punjab,2,2,1043,737
+63,63. Govt. Boys Primary School Hoshnak Singh (P)* (Combined),30.5648603,73.5555097,Combined,Punjab,1,1,435,311
+67,67. Govt. Boys Primary School Asad-ullah Pur(P)* (Combined),30.5648603,73.5555397,Combined,Punjab,2,2,939,573
+122,122. Govt. Girls Elementry School Vendla jagir (P)* (Female),30.565383620957913,73.62256408436727,Female,Punjab,0,3,0,1162
+111,111. Govt. Girls Elementry School Proban Abad (P)* (Male),30.56592253109688,73.52684135274404,Male,Punjab,3,0,1389,0
+121,121. Govt. Boys Middle School Vendla jagir (P)* (Male),30.566966951518218,73.61988919573211,Male,Punjab,4,0,1510,0
+131,131. Govt. Girls Elementry School- Pasail (P)* (Combined),30.572821741808173,73.6440318198215,Combined,Punjab,2,2,1178,910
+112,112. Govt. Boys Primary School Proban Abad  (P)* (Female),30.57548932267928,73.5631396506806,Female,Punjab,0,2,0,1062
+70,70. Govt. Boys Elementary School Mohal Musa Khan (P)* (Male),30.5780376,73.503402,Male,Punjab,3,0,970,0
+66,66. Govt. Boys Elementary School Shah Yakka (P)* (Combined),30.5826737,73.5091235,Combined,Punjab,2,2,1223,933
+119,119. Govt. Girls Elementry School Tula Kamboh (P)* (Male),30.58693947461813,73.60361015218783,Male,Punjab,3,0,1145,0
+120,120. Govt. Girls Elementry School Tula Kamboh (P)* (Female),30.58693947461813,73.6036401521878,Female,Punjab,0,2,0,877
+65,65. Govt. Boys Primary School Baghwan Pura (P)* (Combined),30.596569,73.5089027,Combined,Punjab,2,1,1036,773
+106,106. Govt. Boys Primary School Bail Singh (P)* (Combined),30.59718545732955,73.60121213023993,Combined,Punjab,2,2,1340,981
+62,62. Govt. Boys Primary School Odan Wali (P)* (Combined),30.609812,73.5175193,Combined,Punjab,1,1,522,386
+64,64. Govt. Boys Primary School Nawan Kot (P)* (Combined),30.609812,73.5175493,Combined,Punjab,2,2,1013,729
+104,104. Govt. Boys High School Amli Moti Iqbal Block (P)* (Male),30.6105154,73.5987596,Male,Punjab,4,0,1824,0
+105,105. Govt. Boys High School Amli Moti Jinnah Block (P)* (Female),30.6105154,73.5987896,Female,Punjab,0,4,0,1407
+107,107. Govt. Model Primary School Ghadarah (P)* (Combined),30.6105154,73.5988196,Combined,Punjab,2,1,672,582
+132,132. Govt. Boys Primary School- Jasokey Dhoon (P)* (Combined),30.611888,73.7630465,Combined,Punjab,2,2,878,733
+133,133. Govt. Girls Primary School- Jasokey Dhoon (P)* (Combined),30.611888,73.7630765,Combined,Punjab,2,2,937,768
+134,134. Govt. Boys High School- Bhuman Shah East Side (P)* (Male),30.611888,73.7631065,Male,Punjab,4,0,1604,0
+135,135. Govt. Boys High School- Bhuman Shah West Side (P)* (Female),30.611888,73.7631365,Female,Punjab,0,3,0,1125
+136,136. Govt. Girls Elementry School Bhuman Shah Old Block (T)** (Male),30.611888,73.7631665,Male,Punjab,4,0,2254,0
+137,137. Govt. Girls Elementry School Bhuman Shah New Block (T)** (Female),30.611888,73.7631965,Female,Punjab,0,4,0,1524
+72,72. Govt. Boys Primary School 55/D (P)* (Combined),30.6146848,73.4757864,Combined,Punjab,2,2,1150,848
+69,69. Govt. Boys Secondary School Nehran wala (P)* (Combined),30.6189141,73.1617835,Combined,Punjab,2,2,1426,1030
+68,68. Govt. Model Primary School Qasmana (P)* (Combined),30.6190664,73.4440105,Combined,Punjab,2,2,869,624
+73,73. Govt. Boys Primary School Lakran Wala (Mubarik Aabad) (P)* (Combined),30.6190664,73.4440405,Combined,Punjab,2,2,810,566
+77,77. Govt. Model Primary School 56/A-D (P)* (Combined),30.6190664,73.4440705,Combined,Punjab,2,2,1017,736
+61,61. Govt. Girls Elementary School Kacha Pacca (P)* (Combined),30.6190731,73.4439914,Combined,Punjab,2,2,1238,882
+74,74. Govt. Boys High School 52/D (P)* (Combined),30.6247792,73.5119136,Combined,Punjab,2,2,692,559
+78,78. Govt. Boys Primary School Pipli Pahar (P)* (Combined),30.6399093,73.506439,Combined,Punjab,2,1,602,398
+79,79. Govt. Model Primary School 48/D (P)* (Combined),30.6437189,73.5410515,Combined,Punjab,2,2,1096,762
+83,83. Govt. Girls Primary School Nehal Tajeka (P)* (Combined),30.64372,73.54105,Combined,Punjab,2,2,795,599
+75,75. Govt. Boys Middle School 55/B-D (P)*(Male),30.6456307,73.4553225,Male,Punjab,4,0,1318,0
+76,76. Govt. Girls Primary School 55/B-D (P)* (Female),30.6456307,73.4553525,Female,Punjab,0,2,0,1058
+48,48. Govt. Girls Community Model School Mirza Pur (P)* (Female),30.6464577,73.6206051,Female,Punjab,0,4,0,1676
+84,84. Govt. Boys Primary School Daya Ram (P)* (Combined),30.6464577,73.6206351,Combined,Punjab,2,2,869,673
+82,82. Govt. Boys High School Chipli Pur  (P)* (Combined),30.6500823,73.5503538,Combined,Punjab,2,2,876,606
+81,81. Govt. Boys High School 50/D  (Middle Portion) (P)* (Female),30.6522919,73.5118105,Female,Punjab,0,2,0,985
+80,80. Govt. Boys High School 50/D (Primary Portion) (P)* (Male),30.6545756,73.5056094,Male,Punjab,4,0,1416,0
+89,89. Govt. Girls Primary School Dolowal  (P)* (Female),30.6545756,73.5056394,Female,Punjab,0,3,0,1156
+40,40. Govt. Maktab Masjid School- Canal Colony- Depalpur (T)* (Combined),30.65642,73.65699,Combined,Punjab,2,2,1157,876
+127,127. Govt. Model Primary School- Nizam Din (P)* (Boys Portion)(Male),30.65959997108831,73.67276956897291,Male,Punjab,3,0,1135,0
+128,128. Govt. Model Primary School- Nizam Din (P)*  (Girls Portion)(Female),30.65959997108831,73.6727995689729,Female,Punjab,0,3,0,870
+49,49. Govt Girl Primary School 47/D (Jewan wala) (P) (Combined),30.6630543,73.5840845,Combined,Punjab,2,2,788,655
+15,15. Government High School Basir Pur Road Depalpur Jinnah Block\ (P)* (Male),30.66327,73.66148,Male,Punjab,4,0,2271,0
+16,16. Govt. Boys High School Basir Pur Road- Depalpur Allama Iqbal Block (T)** (Female),30.66327,73.66151,Female,Punjab,0,4,0,1873
+11,11. Government Primary School No 2 Depalpur(P)* (Male),30.66413,73.65517,Male,Punjab,4,0,1368,0
+17,17. Government Elementary School Depalpur Tiba Ghilanian (p)* (Male),30.66413,73.6552,Male,Punjab,4,0,2422,0
+18,18. Government Elementary School Depalpur Tiba Ghilanian (P)* (Female),30.66413,73.65523,Female,Punjab,0,4,0,2053
+46,46. Govt.Model Primary School BariPur (P)* (Girls portion) (Combined),30.6642582,73.6560123,Combined,Punjab,2,2,1046,833
+54,54. Govt. Boys Primary School Ratta Khanna (P)* (Male),30.6667004,73.6592891,Male,Punjab,3,0,1295,0
+55,55. Govt. Girls Elementary School Ratta Khanna (Female),30.6667004,73.6593191,Female,Punjab,0,2,0,980
+90,90. Govt. Boys Primary School 50/D (NEW) (P)* (Combined),30.6667476,73.6427671,Combined,Punjab,2,2,1022,715
+29,29. Govt Boys Primary School No. 4 Old Building Depalpur (T)** (Male),30.66762,73.64028,Male,Punjab,2,0,768,0
+31,31. Govt Boys Primary School No.4 Basti Abdullah Depalpur NEW BUILDING (P)*(Female),30.66762,73.64031,Female,Punjab,0,3,0,1008
+13,13. Government Girls Elementary School No 2 Depalpur (Female),30.66763,73.65816,Female,Punjab,0,3,0,1271
+19,19. Government Boys High School Depalpur Town (Primary portion) (P)*(Male),30.66829,73.65378,Male,Punjab,4,0,2208,0
+35,35. Govt Boys High School Depalpur Town Depalpur East (P)* (Female),30.66829,73.65381,Female,Punjab,0,3,0,1113
+20,20. Government Girls High School Sadar Bazar Depalpur (primary portion) (P)* (Female),30.6686076,73.653483,Female,Punjab,0,4,0,1887
+52,52. Govt. Girls Community Model School Farid Kot (P)* (Female),30.6686148,73.6453082,Female,Punjab,0,4,0,2034
+23,23. Office of Market committee Depal pur (T)** (Male),30.66878,73.64485,Male,Punjab,4,0,1960,0
+6,6. Office of the Registrar Co-operative Society Depalpur (T)** (Female),30.66922,73.6471248,Female,Punjab,0,2,0,699
+28,28. District Council Building Depalpur (P)* (Female) (IMPROVISED),30.6695468,73.6512755,Female,Punjab,0,3,0,977
+22,22. Govt Girls High School Sadar Bazar Depalpur East (P)* (Female),30.66991,73.65415,Female,Punjab,0,4,0,1350
+21,21. Govt. Girls Degree Collage Depalpur (P)*(Male),30.66993,73.65482,Male,Punjab,4,0,1496,0
+27,27. Vetrenary. Hospital Depalpur (T)**(Male),30.67006,73.65082,Male,Punjab,4,0,1125,0
+34,34. Govt Girls Elementry School No. 3 Abdullah Basti Depalpur (P)* (Male),30.67018,73.64245,Male,Punjab,4,0,1413,0
+9,9. Office of the Muncipal Committee South Side Depalpur T)** (Male),30.67028,73.6559,Male,Punjab,4,0,2011,0
+25,25. Govt Girls High School Sadar Bazar Depal pur West (T)** (Female),30.6703128,73.6541728,Female,Punjab,0,4,0,1621
+10,10. Govt. Girls Primary School No. 5 Near Lari Adda Depalpur (T)** (Female),30.6707275,73.6590936,Female,Punjab,0,4,0,1674
+44,44. Govt. Boys Primary School Khair pur (P)* (Combined),30.67084,73.65331,Combined,Punjab,2,1,627,480
+45,45. Govt.Model Primary School- Qila Hari Chand (Boys Portion) (Combined),30.67084,73.65334,Combined,Punjab,2,2,1584,1274
+33,33. Govt Boys High School Depalpur Town West Depalpur (P)* (Female),30.67098,73.64182,Female,Punjab,0,3,0,1168
+85,85. Govt. Madel Primary School 45/D (P)* (Combined),30.6711218,73.571778,Combined,Punjab,2,1,624,518
+87,87. Govt. Boys Primary School 47/D Jewaya (P)* (Combined),30.6711218,73.571808,Combined,Punjab,2,2,784,581
+92,92. Govt Boys Primary School 44/D (P)* (Combined),30.6711218,73.571838,Combined,Punjab,1,1,362,291
+41,41. Govt. Boys Pimary School Jalal kot (P)* (Combined),30.67184,73.65667,Combined,Punjab,2,2,807,543
+1,1. Govt. Boys Primary School No.3 Sakhi Saidan Colony Depalpur (P)* (Male),30.67189,73.65086,Male,Punjab,4,0,2191,0
+4,4. Office of the Muncipal Committee Multi Purpose Hall Depalpur (T)** (Male),30.67189,73.65089,Male,Punjab,4,0,1213,0
+7,7. Kishwar Public Boys School-Super market Depalpur(Female),30.672,73.6538,Female,Punjab,0,2,0,364
+129,129. Govt. Boys primary School- Charat Singh (P)*(Combined),30.6720783,73.6515973,Combined,Punjab,1,1,366,281
+130,130. Govt. Boys Primary School- Bakhshay wala(P)* (Combined),30.6720783,73.6516273,Combined,Punjab,2,1,604,445
+5,5. Danish Public School near Bus Stand Depalpur (Male),30.67229,73.65628,Male,Punjab,2,0,474,0
+8,8. Creasent Public School Rata khana Road Depalpur(Female),30.67288,73.65501,Female,Punjab,0,2,0,422
+88,88. Govt. Boys Primary School Dolowal  (P)* (Male),30.6730825,73.5584438,Male,Punjab,4,0,1666,0
+50,50. Govt. Girls Primary School Meer Amanullah (P)* (Combined),30.6747968,73.65108,Combined,Punjab,1,1,409,375
+47,47. Govt. Boys High School Mirza Pur  (P)* (Male),30.67484,73.62119,Male,Punjab,4,0,2164,0
+42,42. Govt. Girls Community Model School Qila Tara Singh (P)* (Male),30.67519,73.62211,Male,Punjab,4,0,1850,0
+43,43. Govt. Boys Middle School Qila Tara singh(P)* (Female),30.67519,73.62214,Female,Punjab,0,4,0,1428
+12,12. The Knowledge Public School old Basirpur road Depalpur (Male),30.67664,73.64974,Male,Punjab,2,0,561,0
+2,2. Govt. Girls High School No.4 Khalil Abad- Depalpur (P)* (Female),30.67743,73.65227,Female,Punjab,0,4,0,2017
+3,3. Tameer-e-milat Public School Khalilabad(Combined),30.6779,73.65203,Combined,Punjab,1,1,389,316
+39,39. Office Of SDO (Sub Division Office) Rural Wapda Okara Road Depalpur (T)**(Female),30.6824483,73.6429051,Female,Punjab,0,2,0,654
+38,38. Office Of SDO (Sub Division Office) Urban Wapda Okara Road Depalpur (T)*(Male) *,30.6831739,73.6444688,Male,Punjab,2,0,740,0
+36,36. XEN Office of the Wapda Depalpur (T)** (Male),30.68322,73.64397,Male,Punjab,4,0,1623,0
+37,37. Govt. Girls Primary School Naveed Kot  (P)* (Female),30.68489,73.6459,Female,Punjab,0,4,0,1225
+51,51. Govt. Boys Middle School Farid Kot  (P)* (Male),30.688836,73.6924899,Male,Punjab,4,0,2697,0
+86,86. Govt. Boys Primary School 46/D (P)* (Combined),30.6984275,73.6179318,Combined,Punjab,2,1,485,442
+93,93. Govt. Boys Primary School Chak Jamiat Singh (Kanady) (P)* (Combined),30.6988563,73.539058,Combined,Punjab,2,1,709,518
+59,59. Govt Technical Training College Chorasta East side (P)* (Male),30.705968,73.6258759,Male,Punjab,4,0,1444,0
+60,60. Govt Technical Training College Chorsta west side (P)* (Female),30.705968,73.6259059,Female,Punjab,0,3,0,1194
+141,141. Govt. Boys Primary School Qilla Javind Singh(P)* (Combined),30.7084352,73.6273132,Combined,Punjab,2,2,934,617
+56,56. Govt. Boys High School 38/D (P)* (Combined),30.7084352,73.6273432,Combined,Punjab,2,2,1131,841
+57,57. Govt. Girls High School 38/D (P)* (Combined),30.7084352,73.6273732,Combined,Punjab,2,2,969,738
+91,91. Govt. Boys Elementry School 43/D (P)* (Combined),30.7108112,73.5378158,Combined,Punjab,2,2,1043,653
+100,100. Govt. Boys Elementry School 42/D Kalan (P)* (Male),30.7108112,73.5378458,Male,Punjab,4,0,2235,0
+142,142. Govt. Girls Primary School Islam Pura(P)* (Combined),30.7142708,73.6396645,Combined,Punjab,2,2,944,680
+53,53. Govt. Boys Primary School Saidan Sain (P)* (Combined),30.7172702,73.6118581,Combined,Punjab,2,2,1232,974
+58,58. Govt. Girls Primary School 38/D Khurd (P)* (Combined),30.7172702,73.6118881,Combined,Punjab,2,2,979,712
+96,96. Govt. Boys Primary School Sobha Ram (P)* (Combined),30.7172702,73.6119181,Combined,Punjab,2,2,810,665
+98,98. Govt. Boys Primary School 39/D (P)*(Male),30.7172702,73.6119481,Male,Punjab,4,0,1328,0
+99,99. Govt. Girls Primary School 39/D (P)* (Female),30.7172702,73.6119781,Female,Punjab,0,3,0,1009
+94,94. Govt. Boys Primary School Kharak Singh (P)* (Female),30.7362146,73.5827848,Female,Punjab,0,2,0,1052
+95,95. Govt. Girls Primary School Kharak Singh (P)* (Male),30.7362146,73.5828148,Male,Punjab,4,0,1450,0
+102,102. Govt. Boys High School 40/D (P)* (Male),30.7362146,73.5828448,Male,Punjab,4,0,2453,0
+103,103. Govt. Girls High School 40/D (P)* (Female),30.7397372,73.5695348,Female,Punjab,0,4,0,1853
+144,144. Govt. Boys Primary School 37/ D (P)* (Combined),30.7471981,73.5732155,Combined,Punjab,2,2,860,655
+101,101. Govt. Girls Primary School 42/D Kalan (P)* (Female),30.7476646,73.5568578,Female,Punjab,0,4,0,1641
+32,32. Govt Girls Primary School No. 6 Basti Hamey Shah Depalpur East Side(P)* (Male),30.809452,73.4444817,Male,Punjab,4,0,1431,0
+143,143. Govt. Model Primary School Chak Fazal Shah (P)* (Combined),30.8098266,73.4448999,Combined,Punjab,1,1,244,173
+145,145. Govt. Boys Masjid Maktab School Pindi Mohlan (P)* (Combined),30.8098266,73.4449299,Combined,Punjab,2,1,645,484
+146,146. Govt. Boys Primary School 35/D (P)* (Combined),30.8098266,73.4449599,Combined,Punjab,2,2,823,597
+97,97. Govt. Girls High School Sobha Ram (P)* (Combined),30.8119,73.44207,Combined,Punjab,1,1,390,350

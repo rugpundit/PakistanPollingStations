@@ -1,0 +1,32 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+137,Govt. Boys Elementary School Dhose (Male),30.92474,73.96017,Male,Punjab,3,0,1476,0
+136,Govt.Girls Elementary School Kandu Khara (Female),30.93646,73.90579,Female,Punjab,0,3,0,1178
+129,Govt. Boys Primary School Kot Gamma (Male),30.98763,73.93325,Male,Punjab,4,0,2259,0
+1,Govt  Boys High School Chak No. 27 Dholan (Combined),31.001476773432106,73.7340722588466,Combined,Punjab,1,1,565,480
+128,Govt. Girls Primary School Kot Boota Singh (Male),31.00236,73.924,Male,Punjab,4,0,1553,0
+122,Govt. Boys Primary School Kot Talab (Female),31.00367,73.9571,Female,Punjab,0,2,0,847
+2,Govt Girls Primary School Chak No. 27 Ganjay (Combined),31.00553698529714,73.75478894731579,Combined,Punjab,2,1,669,488
+4,Govt Girls Primary School Chak No. 26 (Combined),31.006085249887963,73.72018727317412,Combined,Punjab,2,1,664,471
+119,Govt  Primary School Kot Naina (Combined),31.01261,73.96607,Combined,Punjab,2,1,653,494
+3,Govt Boys Primary School Madar Chak No. 26 (Combined),31.0159133905312,73.72873540259313,Combined,Punjab,1,1,295,238
+5,Govt Boys Primary School Chak No. 25 (Combined),31.018279286018586,73.74288425877282,Combined,Punjab,1,1,206,103
+6,Govt Girls Primary School Chak No. 25 (Combined),31.020339393653277,73.73986223912276,Combined,Punjab,2,1,792,611
+8,Govt Girls Primary School Chak No. 69 (Combined),31.02764272949736,73.71352212039217,Combined,Punjab,2,2,1508,1078
+7,Govt Boys Primary School Chak No. 69 (Combined),31.0281919516984,73.71274025105824,Combined,Punjab,2,1,1127,655
+9,Govt High School Hanjrai Kalan (Male),31.038859155700607,73.74384484988131,Male,Punjab,4,0,1460,0
+10,Govt High School Hanjrai Kalan (Female),31.038859155700607,73.7438748498813,Female,Punjab,0,2,0,890
+13,Govt Elementary School Hanjrai Khurd (Combined),31.0402764567588,73.7364388753718,Combined,Punjab,1,1,606,421
+14,Govt Elementary School Hanjrai Khurd (Combined),31.0402764567588,73.7364688753718,Combined,Punjab,1,1,290,175
+27,Govt Elementary School Niaz Baig (Combined),31.053601599695615,73.78070271931384,Combined,Punjab,2,2,986,711
+11,Govt Primary School Kot Chatar Singh (Male),31.056880839491132,73.77023009674934,Male,Punjab,2,0,899,0
+12,Govt Primay School Chatar Singh (Female),31.056880839491132,73.7702600967493,Female,Punjab,0,1,0,605
+19,Govt Boys High School Sheikhum (Male),31.0583943,73.81661435,Male,Punjab,3,0,1596,0
+20,Govt Boys High School Sheikhum (Female),31.0583943,73.81664435,Female,Punjab,0,2,0,1146
+18,Govt Girls Elementary School Sheikhum (Combined),31.06657492,73.81154194,Combined,Punjab,1,1,499,337
+22,Govt Girls Elementry School Sheikhum   (Combined),31.06657492,73.81157194,Combined,Punjab,2,1,850,617
+16,Govt Primary School Kot Jan Muhammad Hanjrai Kalan (Male),31.074155581342332,73.75422825243305,Male,Punjab,2,0,834,0
+17,Govt Primary School Kot Jan Muhammad Hanjrai Kalan (Female),31.074155581342332,73.754258252433,Female,Punjab,0,1,0,487
+23,Govt Elementary School Jagowala Chak No. 40 (Combined),31.4486178,74.301534,Combined,Punjab,1,1,841,530
+24,Govt Boys Primary School Khurshidabad Chak No. 40 (Combined),31.4486178,74.301564,Combined,Punjab,2,1,876,487
+26,Govt Girls Middle School Jagowala (Combined),31.4486178,74.301594,Combined,Punjab,1,1,526,394
+25,Govt Girls Middle School Jagowala (Combined),31.4486178,74.301624,Combined,Punjab,2,1,714,552

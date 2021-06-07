@@ -1,0 +1,121 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+4,Govt Primary School  Khwar Jabber,35.12409,72.05706,Combined,KPK,1,1,585,440
+6,GovtGirls Primary School  Dam Jabber,35.1372,72.0548,Combined,KPK,2,1,896,678
+5,GovtPrimary School  Dam Jabber,35.1394,72.05775,Combined,KPK,2,1,766,619
+8,GovtGirls Primary School   Kattan Bala,35.13995,72.01367,Female,KPK,0,1,0,1057
+33,Govt: Primary School  Kass Barkand No-1,35.14109,72.14787,Combined,KPK,2,1,887,610
+13,GovtPrimay School  Sadiqa Banda,35.14132,72.08338,Combined,KPK,2,1,1245,819
+1,GovtPrimary Model School  Jabber,35.14292,72.04081,Combined,KPK,1,1,729,588
+7,GovtPrimary School  Kattan Bala,35.1441,72.01427,Male,KPK,2,0,1324,0
+2,GovtGirls Primary School Jabber,35.14438,72.03242,Combined,KPK,1,1,817,573
+3,Govt :Middle School  Kandow Jabber,35.14962,72.02941,Combined,KPK,1,1,658,462
+14,GovtGirls Primary School  Doag Almas,35.15103,72.06159,Combined,KPK,1,1,675,405
+15,GovtPrimary School  Almas,35.15213,72.07017,Male,KPK,2,0,1082,0
+16,GovtGirls Primary School  Almas,35.15424,72.0686,Female,KPK,0,1,0,809
+31,Govt: Middle School Barkand,35.15493,72.13693,Male,KPK,3,0,1414,0
+32,Govt: Primary School  Barkand,35.15504,72.13676,Female,KPK,0,1,0,950
+10,Govt: Middle School Tarpatar,35.15549,72.09219,Male,KPK,2,0,1127,0
+12,GovtPrimay School Tarpatar (Churrand),35.15586,72.09865,Combined,KPK,2,1,890,614
+11,GovtGirls Middle School Tarpatar,35.15591,72.09851,Female,KPK,0,1,0,791
+38,GovtGirlsPrimary School  Dodba,35.16013,71.90437,Combined,KPK,1,1,426,291
+24,GovtPrimary School  Galkore,35.16013,72.10944,Combined,KPK,2,1,946,722
+28,GovtPrimary School  Shomai,35.16354,72.1888,Combined,KPK,1,1,579,400
+23,GovtPrimary School Usheri,35.16434,72.11833,Female,KPK,0,2,0,1085
+22,GovtHigher Secondery School Usheri,35.16682,72.13463,Male,KPK,2,0,1477,0
+9,GovtPrimary School  Nishan Banda,35.16684,72.03275,Combined,KPK,2,1,990,695
+37,GovtPrimary School  Serati,35.16796,71.91849,Combined,KPK,2,1,991,662
+29,GovtPrimary School Palam,35.16844,72.14255,Combined,KPK,2,1,1032,666
+48,GovtPrimary School  Chiragali Payeen,35.16857,71.95784,Combined,KPK,2,1,971,757
+25,GovtHigh School  Samkut,35.1722,72.15609,Male,KPK,2,0,1217,0
+26,GovtPrimary School  Samkut,35.17225,72.15267,Female,KPK,0,1,0,825
+27,GovtPrimary School  Batal,35.17555,72.16137,Combined,KPK,2,1,964,659
+30,Govt: Prirmary School Amriat,35.17572,72.16052,Combined,KPK,1,1,710,433
+17,GovtPrimary School  Bela Bodi,35.17638,72.06855,Combined,KPK,2,1,957,625
+21,GovtPrimary School  Aligasar,35.17752,72.10408,Combined,KPK,1,1,542,318
+19,GovtGirls Primary School  Aligasar,35.1795,72.10754,Female,KPK,0,1,0,751
+39,GovtPrimary School  Pitawo Banda,35.18019,71.93584,Combined,KPK,1,1,578,392
+18,GovtMiddle School  Aligasar,35.18162,72.10051,Male,KPK,2,0,964,0
+34,Govt: Primary School  Nashnamal Gharbi,35.18544,72.1786,Combined,KPK,1,1,651,391
+20,GovtPrimary School Ganshal Payeen,35.18743,72.09624,Combined,KPK,1,1,524,360
+35,Govt: Primary School Dhanil,35.18803,72.18568,Combined,KPK,2,1,842,515
+40,GovtPrimary School  Sharmai,35.18919,71.95022,Combined,KPK,2,1,656,371
+46,GovtPrimary School Dagor,35.1895,72.00095,Combined,KPK,1,1,486,307
+47,GovtPrimary School  Rondesh,35.19003,71.97719,Combined,KPK,1,1,762,519
+45,GovtMiddle School  Achar Bala,35.19384,72.02621,Combined,KPK,2,1,916,669
+36,Govt: Primary School  Gurkohay,35.19757,72.19753,Combined,KPK,2,1,1041,702
+69,GovtPrimary School  Doon Payeen No.1,35.20373,71.98121,Combined,KPK,1,1,433,307
+44,GovtPrimary School  Achar Payeen,35.2069,72.00051,Combined,KPK,1,1,732,482
+68,GovtPrimary School  Doon Bala,35.22037,72.00212,Combined,KPK,1,1,748,610
+43,GovtGirlsPrimary School Sawni Bala,35.2205,71.98618,Female,KPK,0,1,0,760
+42,GovtHigh School Sawni Bala,35.22161,71.98838,Male,KPK,2,0,1191,0
+41,GovtPrimary School  Gargal,35.22441,71.97546,Combined,KPK,2,1,940,566
+71,Basic Health Unit Ghanshal Payeen,35.2298,72.02658,Combined,KPK,2,1,840,556
+74,GovtPrimary School  Ghanshal Bala,35.23712,72.05302,Combined,KPK,2,1,792,553
+70,GovtPrimary School Dooro,35.23734,71.99696,Combined,KPK,1,1,753,487
+72,GovtHigh School  Ghanshal Bala,35.23909,72.05769,Combined,KPK,2,1,969,722
+73,GovtPrimary School   Belo Ghanshal,35.24022,72.08026,Combined,KPK,1,1,442,257
+65,Govt: Primary School Jetkot,35.25146,72.00625,Combined,KPK,1,1,466,342
+67,Govt: Primary School Gujaro Kass,35.25168,72.0103,Combined,KPK,1,1,528,313
+76,GovtPrimary School Shahoor Bala,35.26711,72.03362,Combined,KPK,2,1,997,625
+75,GovtPrimary School Shahoor Payeen,35.27142,72.02226,Combined,KPK,1,1,741,437
+66,Govt: Primary School Guryal,35.27369,71.97793,Combined,KPK,1,1,727,465
+63,Govt: Highier Secondry School  Sheringal,35.27504,72.00291,Combined,KPK,2,1,883,603
+50,GovtGirls Primary School  Daramdala,35.28827,72.01035,Female,KPK,0,1,0,806
+49,Govt: Primary School  Daramdala Bala,35.29614,72.00339,Male,KPK,2,0,1137,0
+79,Govt Middle School Gordi Payeen,35.29995,72.02373,Combined,KPK,2,1,958,617
+51,Govt: High School  Doog Payeen,35.30991,72.00099,Combined,KPK,2,1,905,690
+77,GovtPrimary School  Narkun,35.32116,72.05767,Combined,KPK,1,1,704,400
+93,GovtPrimary School Damberkun,35.32379,72.07334,Combined,KPK,1,1,563,343
+54,GovtGirls Primary School miana  Doog,35.32772,71.99149,Female,KPK,0,2,0,960
+53,Govt: Middle School miana  Doog,35.33309,71.97814,Male,KPK,2,0,1280,0
+52,Govt: Primary School Maina Doog,35.33498,71.98014,Combined,KPK,1,1,669,460
+96,Govt: Primery School Shonga Bala,35.33651,72.08146,Combined,KPK,2,1,1061,567
+92,GovtPrimary School  Maidaan,35.3397,72.06247,Combined,KPK,1,1,680,396
+57,Govt: Primary School  Shat Bala,35.34109,71.9493,Male,KPK,3,0,1464,0
+58,Govt: Girls Primary School  Shat Kass,35.34312,71.96964,Female,KPK,0,2,0,998
+91,GovtGirls Primary School Patrak,35.34368,72.06038,Combined,KPK,1,1,703,420
+90,Rural Health Center Patrak,35.34373,72.05924,Combined,KPK,2,1,1234,758
+86,GovtPrimary School Pashrak,35.34775,72.05556,Combined,KPK,1,1,725,315
+99,GovtPrimary School  Dadban,35.34819,72.09449,Combined,KPK,2,1,846,480
+97,Govt: Primery School Mangala,35.34927,72.08875,Combined,KPK,1,1,310,190
+100,GovtPrimary School Kejoon,35.34953,72.11529,Combined,KPK,1,1,461,262
+101,GovPrimary School Atairkun,35.35511,72.14789,Combined,KPK,1,1,718,401
+102,GovtPrimary School Shalband khass,35.35541,72.13246,Combined,KPK,1,1,700,387
+59,Govt: Girls  Primary School  Malook Khowar Payeen,35.35564,71.97669,Combined,KPK,2,1,1055,749
+98,GovtHigh School Beyar,35.35793,72.11976,Combined,KPK,1,1,896,659
+106,GovtPrimary School Jania,35.36329,72.17968,Combined,KPK,2,1,1326,619
+105,Basic Health Unit Barikot,35.36338,72.17978,Combined,KPK,1,1,474,313
+56,Govt: Primary School  Badar Kanai,35.36662,71.96046,Combined,KPK,1,1,609,379
+55,Govt: High School  Badar Kanai,35.3673,71.9626,Combined,KPK,1,1,662,426
+87,GovtGirls Primary School Pingas,35.36789,72.05266,Combined,KPK,1,1,409,249
+89,Govt  Primary School Shetak,35.36816,72.05305,Combined,KPK,2,1,916,526
+103,GovtPrimary School  Barikot,35.37275,72.14874,Male,KPK,2,0,1241,0
+104,GovtGirlsMiddle School  Barikot,35.37286,72.15153,Female,KPK,0,1,0,700
+60,Govt: Primary School  Qadeer Kalay,35.37946,71.95013,Combined,KPK,1,1,774,511
+62,Govt: Middle School Roghano Kalay,35.38185,71.95361,Female,KPK,0,1,0,766
+61,Govt: Primary School Roghano Kalay,35.386,71.95796,Male,KPK,2,0,1146,0
+107,GovtGirls Primary School  Joon Kass,35.38637,72.16824,Combined,KPK,2,1,939,531
+94,GovtPrimary School Siasan,35.38899,72.0955,Male,KPK,2,0,1065,0
+88,GovtPrimary School Besho No-2,35.39285,72.05857,Combined,KPK,1,1,655,396
+95,GovtMiddle School Siasan,35.39742,72.10426,Female,KPK,0,1,0,585
+80,Govt? Middle School Sundarai,35.40637,72.0712,Combined,KPK,2,1,1249,753
+112,Govt Primary School Dilatror Kass,35.40701,72.17523,Combined,KPK,1,1,638,330
+111,GovtPrimary school Kalkot,35.41072,72.18046,Combined,KPK,1,1,1075,676
+113,GovtGirls Primary School  Shaneel,35.41151,72.17991,Combined,KPK,1,1,395,200
+81,Govt High School Bela Gwaldai,35.4132,72.05423,Combined,KPK,1,1,591,311
+82,GovtPrimary School Kisan Khail No1,35.41977,72.0386,Combined,KPK,2,1,898,482
+109,GovtGirls Primary School  Reman kass,35.42736,72.19242,Combined,KPK,2,1,944,515
+83,GovtPrimary School  Barkaly,35.42778,72.05157,Combined,KPK,1,1,830,541
+84,GovtPrimary School Gawoon Payeen,35.4278,72.05163,Combined,KPK,1,1,453,250
+85,GovtPrimary School Benju,35.42786,72.05165,Combined,KPK,2,1,837,349
+116,GovtPrimary School  Jandarai,35.43155,72.26657,Combined,KPK,2,1,1120,602
+117,GovtPrimary School Anar,35.43286,72.287,Combined,KPK,2,1,1114,545
+114,GovtPrimary School  Makrala,35.43568,72.22141,Combined,KPK,2,1,1150,759
+110,GovtPrimary school No-1 Doon Serai,35.43651,72.20534,Combined,KPK,2,1,1088,650
+120,GovtPrimary school Luntoor,35.44309,72.22229,Combined,KPK,2,1,507,334
+115,GovtPrimary school Lamoti,35.45857,72.23978,Combined,KPK,2,1,1342,775
+119,GovtPrimary School  Haji Shahi,35.46147,72.23315,Combined,KPK,1,1,677,459
+118,GovtHigh School  Thall,35.4772,72.24312,Combined,KPK,1,1,525,360
+123,GovtPrimary School-3 Thall,35.47953,72.24676,Combined,KPK,2,1,868,685
+121,GovtPrimary School-2 Thall,35.48839,72.24197,Combined,KPK,2,1,872,647
+122,GovtPrimary School Kumrat,35.51223,72.24395,Combined,KPK,1,1,533,378

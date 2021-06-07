@@ -1,0 +1,122 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+1,Government Girls Elementary School Wayanwali.  (Combined),31.99972,74.35508,Combined,Punjab,2,2,1235,987
+125,Government Boys High School Gondlawala (Male ),32.19509178124752,74.12130954882076,Male,Punjab,3,0,1520,0
+126,Government Boys High School Gondlawala (Female ),32.19509178124752,74.1213395488208,Female,Punjab,0,2,0,1036
+127,Government Boys High School Gondlawala (Male ),32.19509178124752,74.1213695488208,Male,Punjab,3,0,1578,0
+128,Government Boys High School Gondlawala (Female ),32.19509178124752,74.1213995488208,Female,Punjab,0,2,0,1079
+118,Government Boys  Primary School Kotli Peer Ahmad Shah (Male),32.19603833172503,74.16055695450294,Male,Punjab,3,0,1420,0
+120,Government Boys  Primary School Kotli Peer Ahmad Shah (Male),32.19603833172503,74.1605869545029,Male,Punjab,3,0,1508,0
+129,Govt.Girls Middle School Gondlawala (Male),32.19673687213176,74.12603623642534,Male,Punjab,3,0,1393,0
+130,Govt.Girls Middle School Gondlawala (Female),32.19673687213176,74.1260662364253,Female,Punjab,0,3,0,1001
+116,Union Council Office Talwandi Rahwali (Male),32.19991611745904,74.12568181376946,Male,Punjab,3,0,1358,0
+117,Union Council Office Talwandi rahwali (Female),32.19991611745904,74.1257118137695,Female,Punjab,0,3,0,917
+124,Office of Union Council Gondlawala (Combined),32.19991611745904,74.1257418137695,Combined,Punjab,2,2,1048,712
+99,Government Girls High School Buttranwali (Male),32.22625,74.24732,Male,Punjab,4,0,1914,0
+98,Govt. Boys Primary School Butteranwali (Combine),32.22707,74.24478,Combined,Punjab,2,1,850,654
+96,Government Girls Elementary School Lamban Wali (Male),32.23785,74.19666,Male,Punjab,4,0,1935,0
+97,Government Boys Primary School Lamban Wali (Female),32.23785,74.19669,Female,Punjab,0,3,0,1422
+62,Government Girls Primary School Dhingranwali (Combined),32.241433201813415,74.15270185450142,Combined,Punjab,2,2,911,808
+65,Government Girls High School Kashmir Colony Gujranwala  Cantonment . (Male),32.24197169996658,74.14529215682509,Male,Punjab,3,0,1695,0
+66,Government Girls High School Kashmir Colony Gujranwala  Cantonment . (Female),32.24197169996658,74.1453221568251,Female,Punjab,0,3,0,1529
+67,Government Girls High School Kashmir Colony Gujranwala  Cantonment . (Male),32.24197169996658,74.1453521568251,Male,Punjab,3,0,1640,0
+68,Government Girls High School Kashmir Colony Gujranwala  Cantonment . (Female),32.24197169996658,74.1453821568251,Female,Punjab,0,2,0,1345
+48,Government Model Primary School Sharif Farm (Male),32.242451391838976,74.16883462313233,Male,Punjab,4,0,2030,0
+49,Government Model Primary School Sharif Farm (Female),32.242451391838976,74.1688646231323,Female,Punjab,0,2,0,1711
+50,Government Model School Female Sharif Form Rahwali (Male),32.242451391838976,74.1688946231323,Male,Punjab,2,0,1138,0
+51,Government Model School Female Sharif Form Rahwali (Female),32.242451391838976,74.1689246231323,Female,Punjab,0,2,0,927
+63,Government Boys  High School Kashmir Colony Cantonment (Male),32.24355,74.14618,Male,Punjab,3,0,1553,0
+64,Government Boys  High School Kashmir Colony Cantonment (Female),32.24355,74.14621,Female,Punjab,0,3,0,1223
+73,Government Boys  High School Kashmir Colony Cantonment (Male),32.24355,74.14624,Male,Punjab,3,0,1085,0
+74,Government Boys  High School Kashmir Colony Cantonment (Female),32.24355,74.14627,Female,Punjab,0,3,0,938
+112,Govt.Girls Primary School Saleem Pura  Talwandi Rahwali Sharki  (Male),32.24479327541647,74.17061482166709,Male,Punjab,4,0,1878,0
+113,Govt.Girls Primary School Saleem Pura  Talwandi Rahwali Sharki  (Female),32.24479327541647,74.1706448216671,Female,Punjab,0,3,0,1426
+110,Government Boys Primary School Mohallah Salim Pura  Rahwali (Male),32.24481,74.1707,Male,Punjab,2,0,1167,0
+111,Government Boys Primary School Mohallah Salim Pura  Rahwali (Female),32.24481,74.17073,Female,Punjab,0,2,0,813
+41,Office of the Catonment Board Fire Brigade Block (Combined),32.24722,74.12201,Combined,Punjab,2,2,700,586
+94,Government Girls High School Trigary (Male),32.24725,74.221,Male,Punjab,3,0,1539,0
+95,Government Girls High School Trigary (Female),32.24725,74.22103,Female,Punjab,0,3,0,1136
+101,Government Boys  Elementary School Nazam Pur Gagaywali (Male),32.24746062826633,74.25834034889584,Male,Punjab,3,0,1501,0
+103,Government Boys  Elementary  School Nazam Pur Gagaywalii (Male),32.24746062826633,74.2583703488958,Male,Punjab,3,0,1494,0
+105,Government Boys Elementary  School Gagywali Nizampur (Combine),32.24746062826633,74.2584003488958,Combined,Punjab,1,1,704,583
+54,Dispensary Cantonment  Board Gujranwala   (Male),32.249530541925424,74.16233225832116,Male,Punjab,3,0,1369,0
+55,Dispensary Cantonment  Board Gujranwala   (Female),32.249530541925424,74.1623622583212,Female,Punjab,0,3,0,1093
+56,Dispensary Cantonment  Board Gujranwala   (Male),32.249530541925424,74.1623922583212,Male,Punjab,2,0,1216,0
+57,Dispensary Cantonment  Board Gujranwala  (Female),32.249530541925424,74.1624222583212,Female,Punjab,0,2,0,1019
+107,Almadad Walfare Hospital- Rahwali (Female),32.24962637727131,74.16759145200882,Female,Punjab,0,3,0,1300
+106,Almadad Walfare Hospital- Rahwali (Male),32.24962637727131,74.1676214520088,Male,Punjab,3,0,1813,0
+52,Government Boys Elementry School GT Road Gujranwala Cantonment (Male),32.24997847539118,74.1622296136489,Male,Punjab,3,0,1605,0
+53,Government Boys Elementry School GT Road Gujranwala Cantonment (Female),32.24997847539118,74.1622596136489,Female,Punjab,0,3,0,1417
+69,Government Boys High School Rahwali Bangla (Male),32.250064351783415,74.1527095125386,Male,Punjab,3,0,1699,0
+70,Government Boys High School Rahwali Bangla (Female),32.250064351783415,74.1527395125386,Female,Punjab,0,3,0,1373
+71,Government Boys High School Rahwali Bangla (Male),32.250064351783415,74.1527695125386,Male,Punjab,3,0,1355,0
+72,Government Boys High School Rahwali Bangla (Female),32.250064351783415,74.1527995125386,Female,Punjab,0,2,0,1019
+108,Government Boys Primary School Rahwali ( Male ),32.25035958498603,74.17247859488226,Male,Punjab,4,0,1757,0
+109,Government Boys Primary School Rahwali (Female),32.25035958498603,74.1725085948823,Female,Punjab,0,2,0,1203
+114,Government Girls Middle School Rahwali Sharqi (Male),32.251951084012646,74.16848833357763,Male,Punjab,4,0,1854,0
+115,Government Girls Middle School Rahwali Sharqi (Female),32.251951084012646,74.1685183335776,Female,Punjab,0,2,0,1345
+42,Government Girls Degree College Rahwali (Combine),32.25566462246371,74.16037376080678,Combined,Punjab,1,1,761,636
+58,Government Girls Degree College GT Road Gujranwala Cantt( Male),32.25566462246371,74.1604037608068,Male,Punjab,2,0,1312,0
+59,Government Girls Degree College GT Road Gujranwala Cantt( Female),32.25566462246371,74.1604337608068,Female,Punjab,0,2,0,1068
+60,Government Girls Degree College GT Road Gujranwala Cantt( Male),32.25566462246371,74.1604637608068,Male,Punjab,2,0,1041,0
+61,Government Girls Degree College GT Road Gujranwala Cantt( Female),32.25566462246371,74.1604937608068,Female,Punjab,0,2,0,782
+9,Govt Model Primary School Derwashke ( Combined ),32.25656,74.03722,Combined,Punjab,1,1,981,720
+37,Fg Degree College- Gujranwala Cantonment  (Male),32.256840382934435,74.13323135085959,Male,Punjab,2,0,1201,0
+38,Federal Government Degree College- Cantonment  (Female),32.256840382934435,74.1332613508596,Female,Punjab,0,2,0,1121
+39,Fg Degree College- Gujranwala Cantonment  (Male),32.256840382934435,74.1332913508596,Male,Punjab,2,0,1505,0
+40,Fg Degree College- Gujranwala Cantonment  (Female),32.256840382934435,74.1333213508596,Female,Punjab,0,2,0,1416
+75,Government Boys Primary School Ghulabpura (Male),32.257269645241045,74.14620820354607,Male,Punjab,3,0,1438,0
+76,Government Girls Primary School Ghulabpura (Female),32.257269645241045,74.1462382035461,Female,Punjab,0,3,0,1138
+92,Government Boys High School Trigary (Male),32.25731537259102,74.2159333085939,Male,Punjab,3,0,1719,0
+93,Government Boys High School Trigary (Female),32.25731537259102,74.2159633085939,Female,Punjab,0,3,0,1300
+83,Government Boys Primary School Ballay Wala (Combined),32.26352469144368,74.23071514977151,Combined,Punjab,1,1,831,585
+81,Government Boys High School Ballay Wala (Male),32.26392830412589,74.23724429780937,Male,Punjab,2,0,1579,0
+82,Government Boys High School Ballay Wala (Female),32.26392830412589,74.2372742978094,Female,Punjab,0,2,0,1126
+86,Government Boys Primary School Kotli Sahbu  (Combined),32.26595644914497,74.18263596056862,Combined,Punjab,2,1,938,646
+88,Government Boys High School Talwandi Khajoorwali (Male),32.27218,74.20166,Male,Punjab,3,0,1608,0
+89,Government Boys High School Talwandi Khajoorwali (Female),32.27218,74.20169,Female,Punjab,0,2,0,1244
+43,Government Girls Elementry School Baddoke Gosayan (Male),32.27316252470553,74.12526936433044,Male,Punjab,4,0,2039,0
+44,Government Girls Elementry School Baddoke Gosayan (Female),32.27316252470553,74.1252993643304,Female,Punjab,0,3,0,1504
+45,Government Girls Elementry School Baddoke Gosayan (Male),32.27316252470553,74.1253293643304,Male,Punjab,4,0,2183,0
+46,Government Girls Elementry School Baddoke Gosayan (Female),32.27316252470553,74.1253593643304,Female,Punjab,0,3,0,1520
+47,Government Boys Primary School Ameen Pur Kalan (Combine),32.27602593086594,74.05448328276212,Combined,Punjab,1,1,612,481
+84,Government Girls Elementary School Soian (Combined),32.27745,74.24001,Combined,Punjab,2,1,945,677
+90,Government Girls High School Talwandi Khajoorwali (Male),32.28073668949702,74.20165333114277,Male,Punjab,3,0,1840,0
+91,Government Girls High School Talwandi Khajoorwali (Female),32.28073668949702,74.2016833311428,Female,Punjab,0,3,0,1436
+87,Government Boys Primary School Thatha Dad (Combined),32.285499274858054,74.21547842196236,Combined,Punjab,2,2,1122,969
+85,Government Boys Primary School Kotli Bakha (Combined),32.29167,74.23805,Combined,Punjab,1,1,563,419
+78,Government Model Primary School Babu Chak (Combined),32.2958,74.20766,Combined,Punjab,1,1,823,615
+21,Government Boys Normal High School  No. 1 Gakhar (Male),32.29651,74.15152,Male,Punjab,2,0,1276,0
+22,Government Boys Normal High School  No. 1 Gakhar (Female),32.29651,74.15155,Female,Punjab,0,2,0,1028
+19,O/O Municipal Committee Gakhar (Male),32.29736,74.14973,Male,Punjab,2,0,1588,0
+20,O/O Municipal Committee Gakhar (Female),32.29736,74.14976,Female,Punjab,0,2,0,1364
+15,Government Food Godown Noor Pur Gakhar (Combined),32.29838,74.15345,Combined,Punjab,2,2,963,771
+25,Government Boys Higher Secondary School No. 02- Ghakhar (Male),32.29869,74.14884,Male,Punjab,3,0,1517,0
+26,Government Boys Higher Secondary School No. 02- Ghakhar (Female),32.29869,74.14887,Female,Punjab,0,2,0,1380
+30,Government Girls H/S/S Kot Noora road Gakhar (Male),32.29872,74.14494,Male,Punjab,3,0,2035,0
+31,Government Girls H/S/S Kot Noora road Gakhar (Female),32.29872,74.14497,Female,Punjab,0,2,0,1553
+4,Government Model Primary School Kot Noora.  (Combined),32.30025,74.1216,Combined,Punjab,2,2,1182,1018
+18,Government Girls Primary School Masjid Dery Wala Moh. Sharif Pura Gakhar (Combined),32.30167,74.15059,Combined,Punjab,2,2,972,867
+13,Government Boys Primary School No. 5 Moh. Ansarian (Male),32.30268,74.15663,Male,Punjab,3,0,1533,0
+28,Government Girls High School  Mohallah  Lakh Data Gakhar (Male),32.30299,74.14145,Male,Punjab,4,0,1865,0
+29,Government Girls High School  Mohallah  Lakh Data Gakhar (Female),32.30299,74.14148,Female,Punjab,0,4,0,1534
+36,Government Girls High School  Mohallah  Lakh Data Gakhar (Combined),32.30299,74.14151,Combined,Punjab,2,2,1095,860
+35,Government Boys Primary School Maghribi Cheemian Wala Gakhar (Combined),32.30462,74.14393,Combined,Punjab,2,2,1218,953
+23,Government Cluster Primary School Near Masjid Bohar wali Gakhar (Male),32.30482,74.14745,Male,Punjab,2,0,1311,0
+24,Government Cluster Primary School Near Masjid Bohar wali Gakhar (Female),32.30482,74.14748,Female,Punjab,0,2,0,1175
+34,Crescent Model High School near Masjid Daran wali Gakhar (Combined),32.30626,74.14445,Combined,Punjab,1,1,728,606
+17,Iqra Jannat ul Itfal G.T Road Gakhar (Combined),32.30671,74.14754,Combined,Punjab,2,1,1257,1012
+79,Government Girls High School Jalal (Male),32.30689188925117,74.22842257798263,Male,Punjab,3,0,1772,0
+80,Government Girls High School Jalal ( Female ),32.30689188925117,74.2284525779826,Female,Punjab,0,3,0,1380
+10,Government Boys Primary School  Sabri Town (Male),32.30761,74.15495,Male,Punjab,3,0,1610,0
+11,Government Boys Primary School  Sabri Town (Female),32.30761,74.15498,Female,Punjab,0,3,0,1137
+33,Grammer Model School System Near Rehmat Markete G.T Road  Gakhar (Combined),32.30796,74.14722,Combined,Punjab,2,2,1189,972
+32,Government Boys Primary School No. 3 Near Purani Eid Gah Gakhar (Combined),32.30984,74.14427,Combined,Punjab,1,1,581,440
+12,Assas National School Near Peer Abdullah Shah G.T Road Gakhar (Combined),32.31142,74.14574,Combined,Punjab,1,1,810,688
+16,Government Primary School No. 7 Bangla Abadi Gakhar (Combined),32.311434201028426,74.14866210104627,Combined,Punjab,2,2,841,623
+5,Govt.Boys Elementary School Pir Kot.  (Combined),32.31213,74.11959,Combined,Punjab,1,1,914,741
+77,Government Boys Primary School Kot Saadullah (Combined),32.31437,74.21914,Combined,Punjab,2,2,1121,845
+8,Govt.Girls High School Adil Garh. (Combined),32.31466,74.0937,Combined,Punjab,1,1,893,658
+6,Government Boys Primary School Dhab Cheema.  (Combined),32.32352,74.10493,Combined,Punjab,1,1,510,397
+7,Govt.Boys High School Kot Waris. (Combined),32.32802,74.08859,Combined,Punjab,1,1,1018,781
+2,Govt.Model  Primary School Gharap Garh (Combined),32.33331,74.08087,Combined,Punjab,1,1,735,613
+3,Govt.Boys Elementary School Kalair.  (Combined),32.3433,74.09438,Combined,Punjab,2,1,1031,733

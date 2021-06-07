@@ -1,0 +1,8 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+70,Govt Boys High School- Dunyapur Male Part-I(P),29.795039899021784,71.74043691639368,Male,Punjab,4,0,1737,0
+71,Govt Boys High School - Dunyapur Female Part-II(P),29.795039899021784,71.7404669163937,Female,Punjab,0,3,0,1421
+72,Govt Girls High School- Dunyapur Comb. Part-I(P),29.79680686887034,71.74026825118506,Combined,Punjab,2,2,934,706
+73,Govt Girls High School- Dunyapur Female Part-II(P),29.79680686887034,71.7402982511851,Female,Punjab,0,2,0,1030
+74,Govt Girls High School- Dunyapur Male Part-III(P),29.79680686887034,71.7403282511851,Male,Punjab,3,0,1267,0
+68,Govt Girls Primary School- Near  Old Hospital Dunyapur-(P),29.800979862176725,71.74309728676397,Combined,Punjab,1,1,314,299
+69,S.D.O. Office- Highway Dunyapur- Combined (P),29.80558834132508,71.7258626796811,Combined,Punjab,2,1,668,522

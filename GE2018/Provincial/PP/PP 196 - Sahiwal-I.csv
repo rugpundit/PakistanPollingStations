@@ -1,0 +1,20 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+166,Girls  Primary School 52/ GD  Combinned      (Combined),0.0,0.0,Combined,Punjab,2,1,793,594
+7,Boys  Primary School   85/5 -L   (Combined),30.642832925712156,73.18100673021583,Combined,Punjab,1,1,671,477
+8,Boys  High School  64/5 -L  (Male),30.683579158506888,73.20579750396506,Male,Punjab,3,0,1293,0
+9,Girls   High School64/5 -L  (Female),30.68487165122651,73.20650303619763,Female,Punjab,0,2,0,1036
+10,Govt.Girls Elementary  School   63/5 -L  (Combined),30.688455753604476,73.24211105812651,Combined,Punjab,1,1,598,486
+172,Boys primary School 71/4 -R (Male),30.71739677959215,73.13982100022226,Male,Punjab,3,0,1294,0
+173,Govt.Girls Elementary School   71/4 -R (Female),30.717868679559228,73.14040811185072,Female,Punjab,0,2,0,981
+176,Boys primary School   70/4 -R (Male),30.734629082305812,73.15468701342253,Male,Punjab,2,0,1141,0
+177,Govt.Girls Elementary School   70/4 -R (Female),30.736375319844765,73.15519164342967,Female,Punjab,0,2,0,870
+174,Girls Primary School   70/4 -RAdda Shabee  (Combined),30.74187314890936,73.12225544595807,Combined,Punjab,2,1,723,520
+175,Girls Primary School   70/4 -RAdda Shabee (Combined),30.74187314890936,73.1222854459581,Combined,Punjab,1,1,511,452
+167,Boys  Primary School 52A/ GD   (Combined),30.77019470903605,73.15014069114163,Combined,Punjab,2,1,772,657
+170,Boys  Elementary  School  55/GD   (Combined),30.773848120993584,73.12964295735107,Combined,Punjab,1,1,590,505
+171,Govt.Girls   Primary School  55/GD (Combined),30.773889967986907,73.12946827436524,Combined,Punjab,1,1,607,406
+168,Boys  Primary School  53/GD   (Combined),30.788573029916908,73.14228257001811,Combined,Punjab,2,2,844,689
+169,Girls  Middel School 53/GD    (Combined),30.79025965209501,73.13647279668591,Combined,Punjab,1,1,543,488
+180,Govt. Girls primary School bothanna.   Combined -I     (Combined),30.822984980834093,73.13351317014316,Combined,Punjab,2,1,822,526
+179,Girls Primary School Kore Shah  Zareen (Female),30.840810827032993,73.10660968557765,Female,Punjab,0,2,0,984
+178,Boys primary School  Kore Shah  Zareen  (Male),30.84083407455023,73.10444827402544,Male,Punjab,3,0,1545,0

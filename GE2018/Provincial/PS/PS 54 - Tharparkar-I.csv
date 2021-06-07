@@ -1,0 +1,26 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+4,GPS Mehranvero,24.3643608,70.7545527,Combined,Sindh,4,1,616,499
+117,GPS Samoon Rind,25.079990148504802,69.98709490726519,Combined,Sindh,1,1,344,295
+115,GPS Karim Rind,25.15748502567263,70.03565151736663,Combined,Sindh,2,1,323,216
+114,GPS Muhammad Faten Samejo Charnore (Female),25.17076112864736,69.97438276825952,Female,Sindh,0,2,0,590
+56,GPS Phulra Beh,25.196654286944906,70.62649263985435,Combined,Sindh,2,1,312,254
+55,GPS Desrani,25.21816670941949,70.70687925556943,Combined,Sindh,2,2,391,304
+49,GPS Karoo Khan Soomro,25.226996974319068,70.62223786102763,Combined,Sindh,2,2,355,276
+48,GPS Kharyoon Main,25.227089983456917,70.62221207367278,Combined,Sindh,1,1,269,237
+39,GPS Dahli,25.24465308092255,70.5513557961282,Combined,Sindh,2,2,433,310
+54,GPS Jan Muhammad Paro (Female),25.303279692833833,70.7111268020197,Female,Sindh,0,2,0,518
+62,Govt: Dispencary Chapar Khosa (Female),25.32641,70.53686,Female,Sindh,0,3,0,703
+43,GPS Gadhro Main Male,25.32770292934807,70.53807004755548,Male,Sindh,3,0,801,0
+28,GPS A. Bachayo Samejo Rohar Charan (Female),25.35299,70.33529,Female,Sindh,0,3,0,739
+25,GPS Bhagal Rahimoon (Female),25.42212,70.38052,Female,Sindh,0,3,0,601
+45,GPS Moosi-ji- Dhani,25.45019179722777,70.61780816361919,Combined,Sindh,2,2,540,393
+23,GPS Sair Jo Par Usman Paro (Female),25.4602,70.38329,Female,Sindh,0,3,0,745
+16,GPS Bhojhro Main Male,25.49721,70.38917,Male,Sindh,4,0,1068,0
+83,GHS Khemi Jo Par(Female),25.5631,70.37418,Female,Sindh,0,3,0,808
+106,GPS Sokhero Male,25.584083124162596,70.26606519445076,Male,Sindh,3,0,918,0
+13,GPS Lakiryoun (Male),25.58582,70.30158,Male,Sindh,4,0,1008,0
+108,GPS Kagia Main (Male),25.585896237354124,70.30152021464403,Male,Sindh,4,0,1147,0
+14,GPS Lakhniyon Rahimoon Female,25.58899,70.30494,Female,Sindh,0,3,0,814
+87,GPS Jali Jo Tar Rano Paro Female,25.67827315397112,70.3151805767151,Female,Sindh,0,2,0,541
+2,GPS Gaje Jo Par,25.68579,70.2374,Combined,Sindh,2,2,400,356
+88,Govt Dispencary Milkam,25.699519024906664,70.23193216753361,Combined,Sindh,2,1,370,277

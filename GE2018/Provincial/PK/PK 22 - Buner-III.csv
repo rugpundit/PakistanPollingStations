@@ -1,0 +1,110 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+45,Govt. Primary School-  Dapona Totalai,34.18251,72.49776,Combined,KPK,2,1,542,422
+56,Govt. Primary School- Dagai No.2 (P.S 1),34.18285,72.52052,Combined,KPK,1,1,502,366
+57,Govt. Primary School- Dagai No.2  (P.S 2),34.18285,72.52055,Combined,KPK,2,2,718,579
+41,Govt: Middle School- Akhon Serai,34.18668,72.49429,Combined,KPK,2,2,772,570
+54,Govt. Primary School- Dagai No.1,34.19036,72.5062,Male,KPK,4,0,1429,0
+55,Govt. Girls Primary School- Dagai,34.19087,72.50959,Female,KPK,0,4,0,1119
+50,Govt. Primary School- Kass Korona,34.19098,72.48225,Male,KPK,4,0,1508,0
+49,Govt. Girls High School- Kas Koroona,34.19188,72.46719,Female,KPK,0,4,0,1755
+51,Govt. Girls Primary School- Kass Korona,34.19305,72.46473,Male,KPK,2,0,648,0
+43,Govt. Primary School- Totalai No.1,34.19374,72.49862,Male,KPK,4,0,1271,0
+47,Governemtn High School Janak Banda Totalai,34.19397,72.45444,Combined,KPK,1,1,386,313
+46,Govt. Girls Primary School- Totalai,34.19433,72.49803,Male,KPK,2,0,1127,0
+44,Govt. Degree CollegeTotalai,34.19463,72.49949,Female,KPK,0,3,0,1008
+42,Govt. Higher Secondary School- Totalai,34.19475,72.49916,Female,KPK,0,2,0,822
+52,Govt. High School- Dagai,34.19511,72.52061,Male,KPK,3,0,1155,0
+53,Govt:  Girls High School Dagai,34.19566,72.52,Female,KPK,0,3,0,861
+48,Govt Girls Primary School Bena Maira,34.19895,72.4365,Combined,KPK,2,2,826,629
+39,Govt. Primary School- Jangdara,34.19995,72.48897,Male,KPK,3,0,1273,0
+40,Govt. Girls Primary School- Jangdara,34.20107,72.49113,Female,KPK,0,3,0,996
+36,Bacha Khan Model School Khali Kalay,34.21417,72.50969,Female,KPK,0,4,0,1446
+35,Govt. Higher Secondary School- Ghurghushti,34.22083463240235,72.5159412773235,Male,KPK,4,0,1817,0
+11,Govt. Girls Higher Secondary School- Panjtar,34.22366,72.51881,Combined,KPK,2,1,579,437
+38,Govt. High School- Nogram,34.22416,72.44489,Combined,KPK,2,1,838,638
+10,Govt. Girls Primary School- Qasim Khel,34.22699,72.51539,Combined,KPK,2,2,837,602
+9,Govt. Middle School- Hall,34.23489,72.54221,Combined,KPK,2,1,507,442
+5,Govt.Primary School-  Damnair,34.25802,72.60809,Combined,KPK,1,1,428,330
+7,Govt. Girls Middle School- Dakara,34.25874,72.57493,Female,KPK,0,2,0,835
+6,Govt. High School- Dakara,34.25943,72.57615,Male,KPK,3,0,999,0
+8,Govt. Primary School- Hisar Baba,34.26565172608447,72.55342610773718,Combined,KPK,1,1,404,288
+2,Govt. Girls Primary School- Dargalai,34.27464,72.63111,Female,KPK,0,2,0,803
+1,Govt. Primary School- Dargalai,34.27536,72.63375,Male,KPK,3,0,1114,0
+22,Govt. Middle School Karorai,34.275477506961586,72.56279858397922,Combined,KPK,1,1,391,305
+4,Govt: High School- Ghazi Kot,34.28119,72.61816,Combined,KPK,2,1,654,476
+32,Govt. Girls High School Swawai,34.29142,72.51035,Female,KPK,0,2,0,1095
+34,Govt. Primary School- Sawawai,34.292044882328284,72.51571701978307,Combined,KPK,2,1,471,334
+33,Govt. High  School- Sawawai,34.29303,72.51938,Male,KPK,4,0,1341,0
+13,Govt. Middle School Jamra,34.298813956231335,72.55803952762608,Combined,KPK,2,2,879,681
+3,Govt. High School- Mangal Thana,34.30381,72.60426,Combined,KPK,2,2,934,694
+12,Govt. High School- Chinglai,34.31377552034041,72.51467282232392,Combined,KPK,2,2,820,670
+14,Govt. Girls Higher Secondary School- Chinglai,34.31561,72.5144,Female,KPK,0,3,0,970
+15,Govt. Primary School- Chinglai,34.316509405571814,72.51363282116075,Male,KPK,4,0,1177,0
+23,Govt.  Primary School- Kangalai,34.31717955268385,72.57645368102439,Female,KPK,0,2,0,623
+20,Govt. High School- Kalan,34.31805,72.54861,Combined,KPK,2,2,900,702
+16,Govt. Primary School- Mirzakay,34.32278537346561,72.51288749384419,Male,KPK,4,0,1682,0
+17,Govt. Girls Primary School Mirzakay,34.32354292168417,72.51218159162887,Female,KPK,0,4,0,1342
+18,Govt. High School- Mirzakay,34.3238022934915,72.51464456815026,Combined,KPK,2,2,850,650
+19,Govt. Middle School- Dandi Kot,34.32502418316043,72.47664257840715,Combined,KPK,2,1,605,436
+117,Govt. Girls Middle  School- Langar,34.33853778977676,72.65905965945969,Combined,KPK,1,1,526,382
+118,Govt. Middle School- Malka,34.33964247651236,72.68047730046936,Combined,KPK,2,1,780,573
+21,Govt. Girls Primary School Naranj,34.342116098871266,72.58617828460909,Combined,KPK,1,1,157,137
+116,Govt. Primary School Tarinan,34.34413092302959,72.67037590869988,Combined,KPK,1,1,489,391
+119,Govt. Primary School- Amlook,34.34672496613235,72.69930354437638,Combined,KPK,2,1,692,542
+113,Govt. Girls Primary School- Khadar Khan,34.34918328125593,72.70590533603475,Combined,KPK,2,2,835,702
+115,Govt. High  School- Langow,34.35015124500002,72.65828541669711,Combined,KPK,2,1,628,454
+87,Govt. Primary School Badair,34.35205,72.54644,Combined,KPK,2,1,608,491
+88,Govt. High School Asharay,34.35821,72.57786,Combined,KPK,2,2,824,598
+114,Govt. Primary School- Kandar Katai,34.36141866880448,72.67123170682403,Combined,KPK,2,1,591,438
+112,Govt. Girls Primary School- Khanpur,34.36695159632925,72.68266644997001,Combined,KPK,2,2,838,666
+66,Govt. Primary School- Miana Kowga,34.369692829205896,72.50607357583418,Male,KPK,3,0,1325,0
+105,Govt. Primary School- Shadam,34.376849101872736,72.68284736897414,Combined,KPK,1,1,521,404
+104,Govt. Higher Secondary School- Nagrai (P. S 2),34.3801167855469,72.68168760482374,Combined,KPK,2,1,778,559
+103,Govt. Higher Secondary School- Nagrai (P. S 1),34.38013692741617,72.68173628957123,Combined,KPK,2,1,603,478
+73,Govt. Higher Seconday School- Agarai,34.38519657436004,72.53445314386953,Male,KPK,3,0,1032,0
+76,Japan International Coorperation Agency- Agarai,34.385219283272015,72.5327473482244,Combined,KPK,2,2,1162,931
+61,Govt. Girls Primary School Dara,34.38556285270907,72.4412203148473,Female,KPK,0,3,0,1006
+84,Govt. Girls High School- Sura,34.38577321071689,72.54765551738464,Female,KPK,0,4,0,1420
+74,Govt: Primary School No.1 Agarai,34.3859961387594,72.53458940028507,Female,KPK,0,2,0,787
+85,Govt Girls Comunity Model School Sura,34.386470226805464,72.54491451610684,Male,KPK,4,0,1762,0
+83,Govt. Primary School- Sura No.1,34.386708467394236,72.54385989239897,Male,KPK,4,0,1715,0
+86,Govt. Primary School- Sura No.3,34.38712782422561,72.55352409386335,Female,KPK,0,3,0,1387
+60,Govt. Primary School- Ambela Dara,34.38764096401088,72.45302527791893,Male,KPK,4,0,1288,0
+70,Govt. Primary School Manizai Kawga,34.389611174067475,72.51013793723591,Combined,KPK,1,1,488,329
+68,Govt. Middle School- Wach Khwar,34.39044429329665,72.51427128216106,Female,KPK,0,3,0,1515
+64,Govt. Girls Primary School Kowga,34.39067026694818,72.51137986499671,Male,KPK,2,0,503,0
+111,Govt. Middle School- Mandow,34.39075410561967,72.72762823015951,Combined,KPK,1,1,551,418
+99,Govt. Primary School- Kadal Miana,34.391277837657746,72.63171136096352,Combined,KPK,2,2,836,646
+67,Govt. Primary School- Kowga No.2,34.392210831824386,72.50284167789535,Female,KPK,0,2,0,750
+108,Govt. Girls Middle School- Charorai (P. S 1),34.39287710329164,72.7112489258183,Combined,KPK,1,1,431,343
+109,Govt. Girls Middle School- Charorai (P. S 2),34.392935351386235,72.7112052872561,Combined,KPK,2,1,851,569
+59,Govt. Girls Primary School- Ambela,34.39313574177313,72.47060733248088,Female,KPK,0,3,0,1162
+106,Govt. Primary School- Sher Ghar,34.39315491124036,72.6761293799626,Combined,KPK,2,2,811,666
+58,Govt. High School- Ambela,34.3945417289645,72.47376138208323,Male,KPK,4,0,1543,0
+107,Govt. High School- Charorai,34.39525340908375,72.71025422013396,Combined,KPK,1,1,456,386
+65,Govt. Primary School- Kowga No.1,34.39592101349667,72.50580196415767,Male,KPK,3,0,943,0
+69,Govt. Girls Higher Secondary School- Kowga,34.39600921690728,72.5070102847222,Combined,KPK,2,2,751,578
+80,Govt. Primary School- Nawagai No.4,34.402646848616314,72.55637987234871,Female,KPK,0,3,0,1221
+89,Govt. Primary School Amazo Koto,34.40365626240472,72.58683460126518,Combined,KPK,2,2,756,572
+63,TMA Office Mandanr,34.40372,72.49943,Combined,KPK,1,1,393,285
+82,Govt Higher Secondary School Nawagai,34.40428196521623,72.56639242799834,Male,KPK,4,0,1690,0
+81,Govt. Girls Primary School Koza Nawagai,34.404463033450995,72.5723165002185,Female,KPK,0,3,0,1197
+62,Govt. Girls Primary School- Kankoi,34.40558773741823,72.5114699843778,Combined,KPK,2,1,591,511
+72,Govt. Girls Primary School Wahidabad,34.40560495259648,72.52516227113959,Female,KPK,0,2,0,1104
+78,Govt. Girls High School- Nawagai,34.407305825923345,72.55117258815153,Female,KPK,0,4,0,1360
+71,Govt. Degree College Chamla,34.40778,72.52278,Male,KPK,3,0,1292,0
+110,Govt. Middle School- Chanal,34.40819978388004,72.72392658664046,Combined,KPK,2,2,892,711
+97,Govt. Girls Middle School- Makhranai,34.40927940280481,72.63955711488937,Female,KPK,0,2,0,935
+98,Govt. Girls Primary School Makhranai,34.40958000488057,72.63936190690931,Male,KPK,3,0,1138,0
+79,Govt. Primary School-Nawagai No.3,34.41016179659793,72.548666288434,Male,KPK,3,0,1437,0
+77,Govt. High School- Nawagai,34.41054056395814,72.5490237644665,Male,KPK,4,0,1622,0
+91,Govt: Girls Middle  School- Jangai Ghareeb Abad Kata Kot,34.41222,72.60361,Combined,KPK,1,1,422,332
+90,Govt. Primary School- Jangai Ghareeb Abad Kata Kot,34.41222,72.60416,Combined,KPK,2,1,580,434
+95,Govt. Primary School- Makhranai (P- S 1),34.413471113700126,72.6392271059749,Combined,KPK,2,2,700,575
+96,Govt. Primary School- Makhranai (P.S 2),34.41358600698057,72.63922482952418,Combined,KPK,1,1,433,346
+94,Govt. Girls High School- Koria,34.41445383539614,72.61682105768077,Combined,KPK,2,2,790,673
+92,Govt: Primary School- Kala khela,34.41623,72.62476,Combined,KPK,1,1,585,472
+93,Govt. Primary School- Kandow Patai,34.41963,72.6142,Combined,KPK,1,1,328,249
+102,Govt. Girls Middle School- Khanano Dherai,34.421414347100345,72.66563299266161,Combined,KPK,2,2,946,771
+101,Govt. Girls Primary School- Kuz Kalay,34.42506472439599,72.6630474127931,Combined,KPK,2,2,864,673
+100,Govt. Middle School- Kuz Kalay,34.42613728735385,72.66229434410448,Combined,KPK,2,2,801,657

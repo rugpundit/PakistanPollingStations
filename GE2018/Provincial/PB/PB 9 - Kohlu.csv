@@ -1,0 +1,25 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+23,Govt H/S Killi Noor Ahmad,29.8868114,69.2138113,Male,Balochistan,4,0,997,0
+21,Govt M/S Killi Taj Muhammad,29.888464612596334,69.21325754913497,Male,Balochistan,2,0,1164,0
+22,Govt Girls Primary School Killi Taj Muhammad,29.888792700652576,69.21336858640684,Female,Balochistan,0,2,0,820
+5,Govt Modle H/S Kohlu,29.894628328113576,69.25388496449348,Male,Balochistan,4,0,1160,0
+11,Govt H/S Oryani,29.8955156,69.2521798,Male,Balochistan,3,0,851,0
+13,Govt Girls M/S Oryani,29.8955156,69.2522098,Female,Balochistan,0,2,0,606
+15,Govt.M/s Dairy Farm,29.8955156,69.2522398,Combined,Balochistan,3,1,816,433
+25,Govt M/S Kote Shaher,29.8955156,69.2522698,Combined,Balochistan,2,1,738,507
+26,CD Wadera Shah Dad,29.8955156,69.2522998,Combined,Balochistan,3,1,856,537
+27,Govt P/S Naryal Gozo,29.8955156,69.2523298,Combined,Balochistan,2,1,636,293
+28,Govt P/S Rahzan Shaher,29.8955156,69.2523598,Male,Balochistan,3,0,1032,0
+30,Govt Girls P/S Rahzan shaher,29.8955156,69.2523898,Female,Balochistan,0,2,0,743
+31,Govt P/S Kuchar Shahija,29.8955156,69.2524198,Combined,Balochistan,1,1,553,279
+32,Govt P/S Makori,29.8955156,69.2524498,Combined,Balochistan,2,1,777,398
+34,Govt P/S Bargarh  Pawadi,29.8955156,69.2524798,Combined,Balochistan,2,1,850,498
+52,Govt. P/S Shalwar,29.8964097,69.2507829,Combined,Balochistan,1,1,329,111
+7,Govt Girls H/S Kohlu,29.897640581953606,69.25084583411196,Female,Balochistan,0,4,0,1186
+47,Govt P/S Jeewni,29.8990965,69.257085,Combined,Balochistan,1,1,292,172
+2,Govt Girls Community M/S Killi Fairoz Khan,29.90519266240958,69.23948394666333,Female,Balochistan,0,2,0,732
+3,Govt P/S Haji Bahram Khan,29.90825180581361,69.26856109947171,Male,Balochistan,4,0,1472,0
+4,Govt Girlz P/S Haji  Bahram Khan,29.908639646268053,69.26911558210503,Female,Balochistan,0,3,0,994
+9,Govt Girls M/S Gardawagh,29.91329935180985,69.27736544322622,Female,Balochistan,0,2,0,586
+10,Govt P/S Killi Darvesh,29.934598528056764,69.2945309322469,Combined,Balochistan,2,1,605,376
+17,Govt H/S Girsani Katal Gharbi (C),29.999612331086134,69.36751625127674,Combined,Balochistan,1,2,246,735

@@ -1,0 +1,86 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+20,TCF School Naya Nazimabad,24.95092,67.01595,Combined,Sindh,2,1,1070,464
+24,Standard Secondry School,24.9589,67.00394,Combined,Sindh,2,2,895,476
+23,GBPS Arz Muhammad Goth,24.97565,67.00154,Combined,Sindh,2,2,1479,766
+9,Saima Academy School.,24.97748,67.04365,Female,Sindh,0,2,0,791
+6,GBPS- Tapo Manghopir.,24.97796,67.0366,Male,Sindh,2,0,1242,0
+14,GBPS Haji Hamza Goth Manghopir.,24.98061,67.03825,Female,Sindh,0,4,0,1446
+4,GBLSS- Mushki Para Manghopir.,24.98223,67.04041,Male,Sindh,3,0,1470,0
+5,GBLSS- Mushki Para Manghopir.,24.98223,67.04044,Male,Sindh,4,0,1512,0
+13,Rural Health Center Manghopir.,24.98385,67.03754,Male,Sindh,4,0,2460,0
+15,Titarco. Yagangat Primary and Secondary School Sultanabad.,24.98633,67.03751,Male,Sindh,4,0,1600,0
+16,Titarco. Yagangat Primary and Secondary School Sultanabad.,24.98633,67.03754,Male,Sindh,4,0,1550,0
+1,GBSS- Ghram Cheshma Manghopir (Boys School) Sheikh Fareed Chilla.,24.98685,67.04642,Male,Sindh,3,0,1605,0
+2,GGSS- Ghram Cheshma Manghopir (Girls School) Sheikh Fareed Chilla.,24.98711,67.04626,Female,Sindh,0,2,0,1010
+12,GBPS- Manghopir Sindhi.,24.98794,67.04179,Combined,Sindh,2,2,1255,724
+17,Tanveer High School Sultanabad.,24.98849,67.03753,Female,Sindh,0,4,0,1636
+10,GBPS Haji Allah Bux,24.99063,67.04633,Female,Sindh,0,2,0,840
+25,Sikandar English High School Khairabad,24.99212,66.99078,Combined,Sindh,1,1,499,247
+26,Sikandar English High School Khairabad,24.99212,66.99081,Combined,Sindh,1,1,600,310
+18,Govt Boys Degree College Manghopir,24.99224,67.0396,Combined,Sindh,2,2,990,587
+19,Govt Boys Degree College Manghopir,24.99224,67.03963,Combined,Sindh,2,1,911,345
+28,Hilal Public School Haji Malik Goth,24.99258,66.99949,Combined,Sindh,2,1,784,431
+7,TCF School Umer Altaf Agha Campus- Mangal Goth.,24.99328,67.04723,Male,Sindh,2,0,907,0
+8,TCF School Umer Altaf Agha Campus- Mangal Goth.,24.99328,67.04726,Male,Sindh,2,0,756,0
+11,The Learning House School.,24.99546,67.04301,Combined,Sindh,2,2,1306,715
+3,Bab-ul-Ilm English Grammar School Pakhtoonabad,24.99837,67.04004,Female,Sindh,0,2,0,793
+30,Chapter One School Sector L-2,25.00698,67.05766,Combined,Sindh,2,1,1241,328
+33,The Keepler School,25.00698,67.05769,Female,Sindh,0,3,0,1525
+37,The Children Education Academy No-9 and 10 Sec-L-1 Surjani,25.007,67.06236,Female,Sindh,0,4,0,1723
+55,GGPS. Model Community School.,25.00814,67.07585,Male,Sindh,3,0,1481,0
+56,GGPS. Model Community School.,25.00814,67.07588,Combined,Sindh,2,1,1157,310
+57,GGPS. Model Community School.,25.00814,67.07591,Female,Sindh,0,3,0,1360
+64,Saint Micheal School Yousuf Goth.,25.00874,67.07859,Combined,Sindh,1,3,792,1323
+65,Saint Micheal School Yousuf Goth.,25.00874,67.07862,Male,Sindh,2,0,1129,0
+53,GBPS. Babul islam (URDU) Yousuf Goth.,25.00882,67.07178,Combined,Sindh,2,2,913,852
+54,GBPS. Babul islam (URDU) Yousuf Goth.,25.00882,67.07181,Combined,Sindh,2,2,901,594
+35,Matchlesss Childrens Academy L-3,25.00943,67.05564,Male,Sindh,3,0,1582,0
+36,Matchlesss Childrens Academy L-3,25.00943,67.05567,Male,Sindh,4,0,1691,0
+31,GBPSS Ahmed Goth Sector L-2,25.01006,67.05599,Male,Sindh,2,0,1261,0
+32,GBPSS Ahmed Goth Sector L-2,25.01006,67.05602,Combined,Sindh,1,2,619,883
+34,GBPS Ahmed Goth- Sector L-1.,25.01056,67.05572,Combined,Sindh,1,2,309,1100
+62,GBPS Siddique Goth. Combined,25.0106,67.07577,Combined,Sindh,1,1,560,338
+59,Govt. Degree College- Surjani. Yousuf Goth,25.01401,67.07404,Male,Sindh,4,0,1817,0
+63,Govt. Degree College Surjani.,25.01401,67.07407,Combined,Sindh,2,2,1227,532
+66,Govt. Degree College- Surjani. Yousuf Goth,25.01401,67.0741,Male,Sindh,4,0,2140,0
+67,Govt. Degree College- Surjani. Yousuf Goth,25.01401,67.07413,Female,Sindh,0,4,0,1298
+75,GBPS. M. Hussain Sec 4/B.,25.01507,67.06596,Male,Sindh,3,0,1514,0
+76,GBPS. M. Hussain Sec 4/B.,25.01507,67.06599,Male,Sindh,3,0,1582,0
+78,GBPS. Adam Sec 4-B,25.01507,67.06602,Female,Sindh,0,3,0,1382
+79,GBPS. Adam Sec 4-B,25.01507,67.06605,Combined,Sindh,1,1,470,578
+58,GBSS. Yousuf Goth,25.0151,67.07496,Male,Sindh,4,0,1643,0
+48,Al-Ahmed Grammar Secondary School,25.01515,67.05856,Female,Sindh,0,3,0,1209
+50,New Bright School 5-D Surjani,25.01518,67.05864,Combined,Sindh,1,3,525,1176
+60,GBPS. Abdul Rahim Goth.,25.01528,67.07513,Female,Sindh,0,3,0,1157
+61,GBPS. Abdul Rahim Goth.,25.01528,67.07516,Female,Sindh,0,4,0,1395
+22,GBPS. Haji Ameer Bux Goth,25.01605,67.03204,Combined,Sindh,2,1,775,381
+45,Fatima School 5-E Surjani,25.01611,67.06452,Female,Sindh,0,3,0,1000
+44,Fayaz Public School 5/E,25.01689,67.05824,Male,Sindh,2,0,1116,0
+77,Arshi Public School 4/B.,25.01694,67.06525,Combined,Sindh,1,2,153,1236
+80,Arshi Public School 4/B.,25.01694,67.06528,Combined,Sindh,2,1,745,523
+49,Arqam Public School (Safar Memorial Grammar Secondary School),25.01745,67.05639,Female,Sindh,0,3,0,1041
+40,Muhammad Hussain 5/D Local Body,25.01749,67.06026,Combined,Sindh,2,2,824,544
+41,Muhammad Hussain 5/D Local Body,25.01749,67.06029,Female,Sindh,0,4,0,1719
+38,GGBSS. No 14 5/D.,25.01762,67.05717,Combined,Sindh,2,1,1047,283
+39,GGBSS. No 14 5/D.,25.01762,67.0572,Male,Sindh,4,0,1550,0
+46,GGBSS. No 14 5/D.,25.01762,67.05723,Male,Sindh,3,0,1567,0
+47,GGBSS. No 14 5/D.,25.01762,67.05726,Combined,Sindh,2,1,1244,340
+51,The Muslim English Grammar School,25.01919,67.05654,Male,Sindh,3,0,1515,0
+68,Ali School Sec-4/A.,25.01935,67.06522,Combined,Sindh,2,1,1209,448
+74,Ali School Sec-4/A.,25.01935,67.06525,Male,Sindh,3,0,1699,0
+82,Azeemi Public Higher Secondary School,25.02022,67.07356,Female,Sindh,0,3,0,1328
+83,Azeemi Public Higher Secondary School,25.02022,67.07359,Male,Sindh,2,0,1014,0
+84,Azeemi Public Higher Secondary School,25.02022,67.07362,Male,Sindh,2,0,764,0
+85,Azeemi Public Higher Secondary School,25.02022,67.07365,Female,Sindh,0,3,0,1304
+81,Azeem Public Grammar School 4/D.,25.02326,67.07044,Combined,Sindh,2,1,1268,170
+72,Al-Saeed Grammar English 4/D.,25.02412,67.07185,Male,Sindh,3,0,1345,0
+69,Ayesha Public Secondary School,25.02471,67.0701,Male,Sindh,3,0,1416,0
+71,Al-Habib Public School 4/A.,25.02472,67.06487,Female,Sindh,0,4,0,1386
+73,Al-Habib Public School 4/A.,25.02472,67.0649,Female,Sindh,0,2,0,1215
+70,Madina Islamic Academy,25.02484,67.07153,Combined,Sindh,2,2,765,564
+21,GBPS. Abudullah Brohi Goth Mai Gari.,25.02532,66.95367,Combined,Sindh,2,1,818,455
+52,Al Rehman Academy Yousuf Goth Part-3,25.03055,67.06782,Combined,Sindh,2,1,1296,462
+42,Khadija Kazi Ali Memorial High School,25.03275,67.05982,Combined,Sindh,1,1,773,586
+43,Khadija Kazi Ali Memorial High School,25.03275,67.05985,Combined,Sindh,1,1,615,474
+27,GBPS Bund Mureed- Gul Mohammad Goth- Noorani Hotel,25.04386,67.01573,Combined,Sindh,2,1,836,471
+29,GBPS Bund Mureed- Gul Mohammad Goth- Noorani Hotel,25.04386,67.01576,Combined,Sindh,2,1,1037,476

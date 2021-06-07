@@ -1,0 +1,152 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+105,Government Girls Primary School Chak Qazi. (P),32.42638,74.46008,Combined,Punjab,1,1,723,610
+106,Government Girls Primary School Dogranwala New Building (P) (Now Elementery),32.42638,74.46011,Combined,Punjab,1,1,858,607
+89,Government Girls High School Kairali.,32.45798,74.47178,Combined,Punjab,1,1,370,329
+90,Government Girls Primary School Kot Manan  (P),32.46331,74.47317,Combined,Punjab,1,1,522,426
+107,Government Boys Primary School Wiram. (P),32.464,74.44658,Combined,Punjab,2,1,966,775
+91,Government Girls Elementry School Lodharay. (P),32.4654,74.46941,Combined,Punjab,1,1,596,542
+104,Government Girls Primary School Ganjian Wali Kalan. (P),32.46684,74.42923,Combined,Punjab,1,1,747,554
+31,Government Model Elementary School Butter. (Female) (P),32.46722,74.50372,Female,Punjab,0,2,0,947
+30,Government Model Elementary School Butter. (Male) (P),32.46723,74.50372,Male,Punjab,2,0,1194,0
+32,Government Model Elementary School Butter. (Male) (P),32.46723,74.50375,Male,Punjab,2,0,1343,0
+33,Government Model Elementary School Butter. (Female) (P),32.46723,74.50378,Female,Punjab,0,2,0,1093
+63,Government Model Primary School Rai Pur.(Male)(P),32.4683,74.44929,Male,Punjab,2,0,1474,0
+92,Government Boys Primary School Moman Kalan. (Male) (P),32.4683,74.4493,Male,Punjab,2,0,1474,0
+79,Basic Health Unit Model Town Ugoki  (P),32.47588,74.44242,Combined,Punjab,1,1,704,574
+94,Government Girls Primary School Jailanwala.(Male)  (P),32.47635,74.45607,Male,Punjab,2,0,1478,0
+95,Government Girls Primary School Jailanwala.(Female)  (P),32.47635,74.4561,Female,Punjab,0,2,0,1174
+93,Government Girls Primary School Moman Kalan. (Female),32.47638,74.45609,Female,Punjab,0,2,0,1166
+103,Government Girls Primary School NO.1 Dulchike. (Female),32.47696,74.43699,Female,Punjab,0,2,0,1142
+18,Government Girls Primary School Ganjianwali. (P),32.47726,74.49755,Combined,Punjab,1,1,690,553
+102,Government Boys Primary School Dulchike. (Male)(P),32.47795,74.43662,Male,Punjab,2,0,1394,0
+64,Government Model Primary School Rai Pur.(Female)(P),32.47839,74.42527,Female,Punjab,0,2,0,1116
+50,Government Girls Primary School Dhattal. (P),32.47883,74.46516,Combined,Punjab,1,1,850,601
+38,Government Boys Primary School Babaranwala.(Male) (P) (Now Elementery),32.47942,74.46427,Male,Punjab,2,0,1200,0
+65,Government Girls Primary School Rahimpur.(Male)  (P),32.4795,74.43827,Male,Punjab,2,0,1526,0
+66,Government Girls Primary School Rahimpur.(Female)  (P),32.4795,74.4383,Female,Punjab,0,2,0,1205
+37,Government Girls Primary School (Mohallah Rohail Pura) Shatab Garh.(Female)  (P) (Now Model),32.47972,74.50139,Female,Punjab,0,2,0,894
+48,Government Girls Elementary School Kotli Bhutta. (Male) (P),32.48017,74.44582,Male,Punjab,2,0,1009,0
+69,Government Girls Higher Secondery School Ugoki.(Elementry-Portion) (P),32.48027,74.45154,Combined,Punjab,1,1,537,425
+74,Government Girls Higher Secondery  School Ugoki.  (P),32.48027,74.45157,Combined,Punjab,1,1,557,390
+75,Government Girls Higher Secondery  School Ugoki. (Male) (P),32.48027,74.4516,Male,Punjab,2,0,1297,0
+76,Government Girls Higher Secondery School Ugoki. (Female) (P),32.48027,74.45163,Female,Punjab,0,2,0,1052
+67,Government Girls Higher Secondery School Ugoki.(Primery-Portion) (Male) (P),32.48029,74.45173,Male,Punjab,2,0,1527,0
+68,Government Girls Higher Secondery School Ugoki.(Primery-Portion) (Female) (P),32.48029,74.45176,Female,Punjab,0,2,0,1104
+49,Government Boys Elementary School Kotli Bhutta. (Female),32.48045,74.44576,Female,Punjab,0,2,0,849
+34,Government Model Primary School Shatab Garh.  (Male-Portion)(Male) (P),32.48056,74.50305,Male,Punjab,3,0,1644,0
+35,Government Model Primary School Shatab Garh.  (Male-Portion)(Female) (P),32.48056,74.50308,Female,Punjab,0,2,0,1362
+36,Government Model Primary School Shatab Garh.  (Female-Portion)(Male) (P),32.48056,74.50311,Male,Punjab,2,0,1211,0
+77,Government Boys Higher Secondrey School Ugoki. (Male) (P),32.48086,74.45393,Male,Punjab,3,0,1701,0
+78,Government Boys Higher Secondrey School Ugoki. (Female) (P),32.48086,74.45396,Female,Punjab,0,2,0,1464
+70,Government Boys Primary School Ugoki.(Male) (P),32.48204,74.45016,Male,Punjab,2,0,1438,0
+71,Government Boys Primary School Ugoki.(Female) (P),32.48204,74.45019,Female,Punjab,0,2,0,1194
+72,Government Boys Primary School Ugoki. (Male) (P),32.48204,74.45022,Male,Punjab,2,0,1544,0
+73,Government Boys Primary School Ugoki. (Female) (P),32.48204,74.45025,Female,Punjab,0,2,0,1230
+101,Government Community Model School Bhagwal Awanan.,32.48317,74.44949,Combined,Punjab,1,1,852,692
+99,Government Girls High School Bhagwal Awanan (Male) (P),32.48328,74.44968,Male,Punjab,2,0,1276,0
+41,Government Girls Primary School Mahal Kingra. (P),32.48329,74.49725,Combined,Punjab,1,1,488,371
+19,Government Girls High School Adalat Graha (Male) (P),32.48436,74.48831,Male,Punjab,3,0,1769,0
+20,Government Girls High School Adalat Graha(East)(Female) (P),32.48436,74.48834,Female,Punjab,0,2,0,1369
+25,Community Model Girls Primary School Adalat Graha. (Male) (P),32.48445,74.48906,Male,Punjab,2,0,1482,0
+26,Community Model Girls Primary School Adalat Graha. (Female) (P),32.48445,74.48909,Female,Punjab,0,2,0,1162
+39,Government Boys Primary School Babaranwala.(Female) (P) (Now Elementery),32.48638,74.47952,Female,Punjab,0,2,0,862
+23,Government Boys Elementary School Adalat Graha.(Primery-Portion) (Male) (P),32.48699,74.49151,Male,Punjab,2,0,1575,0
+24,Government Boys Elementary School Adalat Graha.(Primery-Portion) (Female) (P),32.48706,74.49146,Female,Punjab,0,2,0,1249
+21,Government Boys Elementary School Adalat Graha. (Male) (P) (Now High),32.48709,74.49005,Male,Punjab,2,0,1554,0
+22,Government Boys Elementary School Adalat Graha. (Female) (P) (Now High),32.48709,74.49008,Female,Punjab,0,2,0,1220
+27,Government Girls  Elementry School Mazafar Pura. (Male) (P),32.49201,74.49712,Male,Punjab,3,0,1771,0
+28,Government Girls Elementry School Mazafar Pura. (Female) (P),32.49201,74.49715,Female,Punjab,0,2,0,1423
+29,Government Boys Primary School Mazafar Pura.  (P),32.49203,74.49787,Combined,Punjab,2,1,918,700
+47,Government Boys Primery Schooll Noul. (Female),32.49259,74.4771,Female,Punjab,0,2,0,1041
+40,Government Model Primary School Dhanay. (P),32.49336,74.48095,Combined,Punjab,1,1,887,632
+96,Government Model Primary School Dabola.  (P),32.49419,74.46805,Combined,Punjab,1,1,829,624
+42,Government Girls Primary School Harer.(Male) (P),32.49669,74.48814,Male,Punjab,2,0,1486,0
+43,Government Girls Primary School Harer.(Female) (P),32.49669,74.48817,Female,Punjab,0,2,0,1261
+45,Government Boys Primary School Harer. (Female)  (P),32.49878,74.48685,Female,Punjab,0,2,0,1215
+44,Government Boys Primary School Harer. (Male)  (P),32.49884,74.48685,Male,Punjab,2,0,1523,0
+62,Government Iqra Girls Primary School Olakh Jattan (P),32.49911,74.44297,Combined,Punjab,2,1,932,813
+46,Government Girls Elementary Schooll Noul. (P) (Male),32.49969,74.47733,Male,Punjab,2,0,1262,0
+98,Government Girls Elementary Schooll Noul. (P),32.49969,74.47736,Combined,Punjab,1,1,582,486
+57,Government Boys High School Malikay Kalan (Male) (P),32.49982,74.4874,Male,Punjab,2,0,1220,0
+58,Government Boys High School Malikay Kalan (Female) (P),32.49982,74.48743,Female,Punjab,0,2,0,994
+59,Government Boys High School Malikay Kalan. (P),32.49982,74.48746,Combined,Punjab,2,1,908,692
+61,Government Girls Primary School Bhindar. (P),32.50008,74.45316,Combined,Punjab,1,1,552,468
+60,Government Girls Primary School Rattian Syedan  (P),32.50044,74.48619,Combined,Punjab,1,1,891,789
+87,Government Girls Primery School Sukhnian.,32.50603,74.44669,Combined,Punjab,1,1,483,398
+137,Government Boys Primary School Tibbi Araiyan (P),32.50639,74.48805,Combined,Punjab,2,1,927,789
+97,Government Model Primary School Bahu Bhaatti. (P),32.50747,74.46818,Combined,Punjab,2,1,925,779
+100,Government Boys Elementary School Bhagwal Awanan (Female) (P),32.50787,74.46159,Female,Punjab,0,2,0,1044
+82,Government Girls Elementry School Jorian Kalan.  (Male) (P),32.50953,74.44485,Male,Punjab,2,0,1454,0
+83,Government Boys High School Jorian Kalan.  (Female) (P),32.51109,74.43792,Female,Punjab,0,2,0,1214
+81,Government Girls Primary School Chak Malu. (P),32.51357,74.44783,Combined,Punjab,1,1,665,555
+84,Government Girls Elementary School Jorian Khurd . (P),32.51357,74.44786,Combined,Punjab,1,1,587,551
+55,Government Girls High School Malkay Kalan. (Male) (P),32.51534,74.49712,Male,Punjab,2,0,1123,0
+56,Government Girls High School Malkay Kalan. (Female) (P),32.51534,74.49715,Female,Punjab,0,2,0,891
+136,Government Girls Primary School Aulkh Awanan.,32.51581,74.49591,Combined,Punjab,1,1,574,396
+134,Government Boys Primary School Saleem Pur (P),32.51583,74.48722,Combined,Punjab,1,1,679,609
+85,Government Model Primary School Gadary. (Male) (P),32.51627,74.45129,Male,Punjab,2,0,1033,0
+86,Government Model Primary School Gadary.(Female) (P),32.51627,74.45132,Female,Punjab,0,2,0,831
+52,Government Girls High School Kour Pur (Female) (P),32.52306,74.49777,Female,Punjab,0,2,0,1137
+51,Government Girls High School Kour Pur (Male) (P),32.52306,74.49805,Male,Punjab,2,0,1380,0
+53,Government Girls High School Kour Pur (Male) (P),32.52306,74.49808,Male,Punjab,2,0,1445,0
+54,Government Girls High School Kour Pur (Female) (P),32.52306,74.49811,Female,Punjab,0,2,0,1276
+120,Government Boys HS Kala Ghumana (Male)(P),32.52555,74.47972,Male,Punjab,2,0,1277,0
+121,Government Boys HS Kala Ghumana(Female) (P),32.52555,74.47975,Female,Punjab,0,2,0,1047
+132,Government Girls Elementary School Nawan Pind (Male) (P),32.52583,74.49722,Male,Punjab,3,0,1696,0
+133,Government Girls Elementary School Nawan Pind (Female) (P),32.52583,74.49725,Female,Punjab,0,2,0,1299
+88,Government Girls Primary School Basant Pur  (P),32.52662,74.44724,Combined,Punjab,1,1,574,496
+80,Government Girls Primery School Ujowali.,32.52667,74.45114,Combined,Punjab,1,1,486,332
+135,Government Boys Model School Ghansar Pur  (P),32.5275,74.47694,Combined,Punjab,1,1,630,529
+138,Government Boys Primary School Nanghal(Male)(P),32.5275,74.48389,Male,Punjab,2,0,1178,0
+139,Government Boys Primary School Nanghal(Female)(P),32.5275,74.48392,Female,Punjab,0,2,0,878
+122,Government Boys Primary School Kapoor Wali (Male) (P),32.53305,74.45305,Male,Punjab,3,0,1624,0
+123,Government Girls High School  Kapoor Wali (Female) (P),32.53305,74.45308,Female,Punjab,0,2,0,1317
+124,Government Girls High School  Kapoor Wali  (P),32.53305,74.45311,Combined,Punjab,1,1,644,480
+129,Government Boys High School Chitti Shaikhan (Male) (P),32.53416,74.48638,Male,Punjab,3,0,1650,0
+131,Government Boys High School Chitti Shaikhan  (P),32.53416,74.48641,Combined,Punjab,1,1,598,494
+130,Government Girls High School Chitti Shaikhan (Female) (P),32.53556,74.48306,Female,Punjab,0,2,0,1410
+118,Government Girls Elementary School Chak Mandhar.(Male) (P),32.54,74.53084,Male,Punjab,2,0,1371,0
+119,Government Girls Elementary School Chak Mandhar.(Female) (P),32.54,74.53087,Female,Punjab,0,2,0,1097
+112,Government Boys High School Machi Khokhar (Male) (P),32.54139,74.50111,Male,Punjab,2,0,1431,0
+113,Government Boys High School Machi Khokhar (Female) (P),32.54139,74.50114,Female,Punjab,0,2,0,1213
+108,Government Boys High School Balanwala.(Male) (P),32.54194,74.52056,Male,Punjab,3,0,1725,0
+109,Government Boys High School Balanwala.(Female) (P),32.54194,74.52059,Female,Punjab,0,2,0,1363
+114,Government Girls Elementary School Machi Khokhar (P),32.54445,74.50166,Combined,Punjab,1,1,462,375
+117,Government Boys Primary School Hassan Wall. (P),32.54445,74.50169,Combined,Punjab,1,1,724,502
+148,Government Girls Primary School Gorian. (P),32.5467,74.43361,Combined,Punjab,1,1,572,460
+149,Government Girls Elementry School Khanbranwala. (Male) (P),32.55244,74.40694,Male,Punjab,2,0,1115,0
+150,Government Girls Elementry School Khanbranwala. (Female),32.55244,74.40697,Female,Punjab,0,2,0,920
+115,Government Girls Primary School Propi Arian.(Male)(P),32.55333,74.52778,Male,Punjab,3,0,1597,0
+116,Government Boys Primary School Propi Arian.(Female)(P),32.55333,74.52862,Female,Punjab,0,2,0,1379
+140,Government Model Primary School Jatha. (P),32.55763,74.45248,Combined,Punjab,1,1,742,548
+125,Government Boys Primary School Sandhu Wala (P),32.55944,74.48638,Combined,Punjab,1,1,646,562
+151,Government Girls Elementary School Sundar Pur  (P),32.55971,74.43849,Combined,Punjab,2,1,933,739
+142,Government Girls Primary School Dogran Kalan. (Female) (P),32.5653,74.46507,Female,Punjab,0,2,0,910
+141,Government Boys Primary School Dogran Kalan. (Male) (P),32.56645,74.45988,Male,Punjab,2,0,1183,0
+144,Government Boys Primary School Kot Harar.,32.56913,74.46999,Combined,Punjab,1,1,415,342
+126,Government Girls Primary School Lalpur. (P),32.56916,74.49194,Combined,Punjab,1,1,616,520
+143,Government Boys Primary School Khajuri Wala  (P),32.57037,74.49187,Combined,Punjab,1,1,579,476
+111,Government Girls Elementry School Kala Khambran.(Female) (P),32.57583,74.51028,Female,Punjab,0,2,0,919
+127,Government Model Elementary School Bharthanwala  (P),32.57924,74.42633,Combined,Punjab,1,1,850,713
+9,Government Girls High School Khannah. (P),32.57972,74.46917,Combined,Punjab,1,1,791,639
+110,Government Boys Primary School Kala Khambran.(Male) (P),32.57972,74.49194,Male,Punjab,2,0,1168,0
+14,Gvot. Model Primary School Lalian. (P),32.59167,74.40166,Combined,Punjab,1,1,560,452
+10,Government Girls Primary School  Gagay wali.,32.5975,74.49333,Combined,Punjab,1,1,478,399
+8,Government Girls Primary School Wadhal. (P)  ( improvisations),32.59944,74.46249,Combined,Punjab,2,1,966,664
+145,Government Girls Primary School Saroba. (P),32.60056,74.42611,Combined,Punjab,1,1,575,386
+128,Government Boys Primary School Mongar. (P),32.60472,74.41667,Combined,Punjab,2,1,906,602
+11,Government Boys Primary School Rahang.  (Male)(P),32.60639,74.42777,Male,Punjab,2,0,1043,0
+12,Government Boys Primary School Rahang. (Female) (P),32.60639,74.4278,Female,Punjab,0,2,0,771
+13,Govt Boys Primary School Kothay Pathanan (P),32.60694,74.42056,Combined,Punjab,1,1,603,464
+15,Government Boys Elementary School Daria Bidhar. (Male) (P),32.61833,74.44695,Male,Punjab,2,0,980,0
+16,Government Boys Elementary School Daria Bidhar. (Female) (P),32.61833,74.44698,Female,Punjab,0,2,0,742
+17,Government Girls Primary School Raawl Kukar. (P),32.62722,74.48444,Combined,Punjab,1,1,286,236
+7,Government Girls Primary School Bhahdar Pur. (P),32.62972,74.44917,Combined,Punjab,2,2,987,780
+6,Government Girls Elementry School Chakrala. (Female),32.63417,74.45416,Female,Punjab,0,2,0,941
+5,Government Boys Primary School Chakrala.(Male)(P) (Now Elementery),32.63861,74.46027,Male,Punjab,2,0,1286,0
+2,Government Girls Primary School Machrala.(Male)(P),32.64111,74.46638,Male,Punjab,2,0,1429,0
+3,Government Girls Primary School Machrala.(Female)(P),32.64111,74.46641,Female,Punjab,0,2,0,940
+4,Office Union Council Pindi Khokhran at Machrala. (P) ( improvisations),32.64722,74.47472,Combined,Punjab,2,1,919,691
+1,Union Council Office Headmarala.,32.65361,74.47723,Combined,Punjab,2,2,1052,762
+146,Government Boys Primary School Baqir Pur. (P),32.65389,74.4525,Combined,Punjab,1,1,689,463
+147,Government Boys Primary School Chak kala (P),32.68333,74.44861,Combined,Punjab,1,1,574,399

@@ -1,0 +1,117 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+110,St. Joseph High School Sarfraz Rafiquei Road Lahore Cantt(Combined),31.53194,74.38361,Combined,Punjab,2,1,793,589
+111,St. Joseph High School Sarfraz Rafiquei Road Lahore Cantt(Combined),31.53194,74.38364,Combined,Punjab,1,1,430,389
+107,St. Anthony High School- Sarfraz Rafiqi Road Lahore Cantt. (Combined),31.5325,74.38194,Combined,Punjab,2,2,1189,1158
+108,St. Anthony High School- Sarfraz Rafiqi Road Lahore Cantt. (Combined),31.5325,74.38197,Combined,Punjab,1,1,713,633
+109,St. Anthony High School- Sarfraz Rafiqi Road Lahore Cantt. (Combined),31.5325,74.382,Combined,Punjab,1,1,659,567
+116,Beaconhouse School System Askari 10- Lahore Cantt(Combined),31.53787,74.42068,Combined,Punjab,2,2,1142,1057
+113,Beaconhouse School System Askari 10- Lahore Cantt(Combined),31.538,74.42097,Combined,Punjab,2,2,840,833
+114,Beaconhouse School System Askari 10- Lahore Cantt(Combined),31.538,74.421,Combined,Punjab,2,2,777,731
+115,Beaconhouse School System Askari 10- Lahore Cantt(Combined),31.538,74.42103,Combined,Punjab,1,1,328,324
+47,Pak Ideal High School Chungi Gujjar Pura (Male),31.54292,74.42533,Male,Punjab,3,0,1869,0
+51,The Smart School Near Rangers Head Quarters- Ghazi Road- Lahore (Male),31.5448,74.40813,Male,Punjab,1,0,499,0
+52,The Smart School Near Rangers Head Quarters- Ghazi Road- Lahore (Female),31.5448,74.40816,Female,Punjab,0,1,0,472
+22,Al-Suffah Public School- C-Block Al Faisal Town- Lahore(Male),31.54546,74.40345,Male,Punjab,3,0,1129,0
+23,Al-Suffah Public School- C-Block Al-Faisal Town- Lahore(Female),31.54546,74.40348,Female,Punjab,0,2,0,974
+48,City Public High School Guldasht Town Near Police Chowki Lahore (Female),31.54567,74.42216,Female,Punjab,0,3,0,1364
+49,City Grammer School Guldasht Town Near Police Chowki Lahore (Male),31.54567,74.42219,Male,Punjab,2,0,1245,0
+50,City Grammer School Guldasht Town Near Police Chowki Lahore (FeMale),31.54567,74.42222,Female,Punjab,0,2,0,926
+40,Bab Ul ilam School System Dogej Town (Male),31.54584,74.42184,Male,Punjab,3,0,1214,0
+41,Bab Ul ilam School System Dogej Town (Female),31.54584,74.42187,Female,Punjab,0,2,0,962
+21,Iqra foundation School- B Block Nala Al Faisal Town Lahore (Female),31.54628,74.40224,Female,Punjab,0,3,0,1069
+44,Marriam Sadeeqa High School near Police Chowki- Guldasht Town- Lahore (Combined),31.54669,74.4222,Combined,Punjab,1,1,606,405
+45,Marriam Sadeeqa High School near Police Chowki- Guldasht Town- Lahore (Combined),31.54669,74.42223,Combined,Punjab,2,2,1082,714
+55,Govt Girls Higher Secondary School Joray Pull Ranger Headquarters Lahore (Female),31.54798,74.40981,Female,Punjab,0,3,0,1502
+56,Govt Girls Higher Secondary School Joray Pull Ranger Headquarters Lahore (Male),31.54798,74.40984,Male,Punjab,4,0,2179,0
+68,Government Higher Secondary School- Rangers Colony- Lahore Cantt. (Male),31.54798,74.40987,Male,Punjab,3,0,1823,0
+69,Government Higher Secondary School- Rangers Colony- Lahore Cantt. (Female),31.54798,74.4099,Female,Punjab,0,2,0,1396
+103,FG Boys Model High School No.2 Lahore Cantt`(Combined),31.54833,74.37473,Combined,Punjab,2,2,919,858
+94,FG Boys Model High School No.2 Lahore Cantt (Combined),31.54833,74.37476,Combined,Punjab,2,2,926,840
+95,FG Boys Model High School No.2 Lahore Cantt (Combined),31.54833,74.37479,Combined,Punjab,2,1,813,698
+96,FG Boys Model High School No.2 Lahore Cantt (Combined),31.54833,74.37482,Combined,Punjab,2,2,985,831
+97,FG Boys Model High School No.2 Lahore Cantt (Combined),31.54833,74.37485,Combined,Punjab,2,2,1054,894
+104,CB Degree College near Al Madina Masjid(Talaab Wali) (Combined),31.54837,74.38623,Combined,Punjab,2,1,795,606
+105,CB Degree College near Al Madina Masjid(Talaab Wali) (Combined),31.54837,74.38626,Combined,Punjab,1,1,713,617
+112,CB Degree College near Al Madina Masjid(Talaab Wali) (Combined),31.54837,74.38629,Combined,Punjab,1,1,635,597
+71,CB Degree College near Al Madina Masjid(Talaab Wali) (Combined),31.54839,74.38625,Combined,Punjab,2,2,1101,825
+18,Ayesha Grammer School B Block Zarar Shaheed Road Lahore (Male),31.54858,74.40561,Male,Punjab,3,0,1497,0
+19,Ayesha Grammar School- Near MCB- B-Block - Ghazi Road Lahore (Male),31.54858,74.40564,Male,Punjab,2,0,1132,0
+20,Ayesha Grammer School- Near MCB- B-Block Ghazi Road- Lahore (Female),31.54858,74.40567,Female,Punjab,0,3,0,1288
+39,CDGL Boys Model High School- Gujar Colony- Jorrey Pul- Lahore(Combined),31.54894,74.40977,Combined,Punjab,3,2,1233,862
+46,CDGL Boys High School Gujar Colony Jorey Pul Lahore (Combined),31.54894,74.4098,Combined,Punjab,2,2,962,751
+80,CDG Boys School Gujjar Colony Lahore (Combined),31.54941,74.40932,Combined,Punjab,2,2,1105,950
+81,CDG Boys School Gujjar Colony Lahore (Combined),31.54941,74.40935,Combined,Punjab,1,1,320,286
+82,CDG Boys School Gujjar Colony Lahore (Combined),31.54941,74.40938,Combined,Punjab,2,2,1228,997
+100,New Cantt: Public School PAF Colony Zarar Shaeed Road Lahore Cantt: (Combined),31.54944,74.39667,Combined,Punjab,2,1,955,770
+101,New Cantt: Public School Zarar Shaeed Road near Askari-9 Lahore Cantt: (Male),31.54944,74.3967,Male,Punjab,2,0,1378,0
+102,New Cantt: Public School Zarar Shaeed Road near Askari-9 Lahore Cantt: (Female),31.54944,74.39673,Female,Punjab,0,2,0,1397
+83,New Cantt:Public High School Ghaori Wala Gate No.5 Lahore Cantt(Combined),31.54944,74.39676,Combined,Punjab,2,1,986,690
+84,New Cantt:Public High School Ghaori Wala Gate No.5 Lahore Cantt(Combined),31.54944,74.39679,Combined,Punjab,1,1,501,327
+85,New Cantt:Public High School Ghaori Wala Gate No.5 Lahore Cantt(Combined),31.54944,74.39682,Combined,Punjab,2,1,838,676
+99,New Cantt: Public School PAF Colony Zarar Shaeed Road Lahore Cantt: (Combined),31.54944,74.39685,Combined,Punjab,2,1,751,700
+60,Blue Sky Alfaisal Town Lahore (Combined),31.54949,74.40557,Combined,Punjab,1,1,581,466
+93,Jinnah Islamia Girls High School Zarrar Shaheed Raod Lahore Cantt (Combined),31.54972,74.38306,Combined,Punjab,2,2,1139,998
+106,FG Boys High School No.1 Sarfraz Rafique Road near VIP Store Lahore Cantt: (Combined),31.55055,74.38306,Combined,Punjab,2,1,809,721
+87,F.G Boys Model High School No 1 Saddar Goal Chakkar Lahore Cantt. (Combined),31.55055,74.38309,Combined,Punjab,1,1,521,480
+90,F.G Boys Model High School No 1 Saddar Goal Chakkar Lahore Cantt. (Combined),31.55055,74.38312,Combined,Punjab,1,1,550,521
+91,F.G Boys Model High School No 1 Saddar Goal Chakkar Lahore Cantt. (Combined),31.55055,74.38315,Combined,Punjab,1,1,304,237
+98,F.G Boys Model High School No 1 Saddar Goal Chakkar Lahore Cantt. (Combined),31.55055,74.38318,Combined,Punjab,2,2,1049,842
+86,Govt. Tariq High School- For Boys near Old Officer Colony Lahore Cantt.(Combined),31.55083,74.38306,Combined,Punjab,2,2,1211,1100
+88,Govt. Tariq High School- For Boys near Old Officer Colony Lahore Cantt.(Combined),31.55083,74.38309,Combined,Punjab,2,2,1186,996
+89,Govt. Tariq High School- For Boys near Old Officer Colony Lahore Cantt.(Combined),31.55083,74.38312,Combined,Punjab,2,2,876,810
+17,Rehbar Medical & Dental College -- Al Faisal Town- Lahore( Combind ),31.551,74.41094,Combined,Punjab,1,1,695,609
+53,Rehbar Medical College- Harbanspura road- Near Jorey Pull Chowk (Combined),31.551,74.41097,Combined,Punjab,1,1,614,533
+54,Rehbar Medical College- Harbanspura road- Near Jorey Pull Chowk (Male),31.551,74.411,Male,Punjab,3,0,1822,0
+57,Rehbar Medical College- Harbanspura road- Near Jorey Pull Chowk (Female),31.551,74.41103,Female,Punjab,0,3,0,1865
+61,Rehbar Medical and Dental College- D-Block Al-Faisal Town Lahore(Combined),31.551,74.41106,Combined,Punjab,2,1,924,732
+62,Rehbar Medical and Dental College- D-Block Al-Faisal Town Lahore(Combined),31.551,74.41109,Combined,Punjab,1,1,464,396
+63,Rehbar Medical and Dental College- D-Block Al-Faisal Town Lahore(Combined),31.551,74.41112,Combined,Punjab,2,1,875,690
+32,Nazeer Public School Hussain Road Lahore (Combined),31.55137,74.41997,Combined,Punjab,2,2,964,751
+33,Nazeer Public School Hussain Road Lahore (Male),31.55137,74.42,Male,Punjab,2,0,1376,0
+70,Cantonment Public High School- Ibn e Sina Campus- Lahore Cantt (Combined),31.55139,74.38167,Combined,Punjab,2,2,1622,1314
+92,Cantonment Public High School- Ibn e Sina Campus- Lahore Cantt,31.55139,74.3817,Combined,Punjab,1,1,731,673
+42,Govt. Elementary School Ittehad Town- Lahore(Combined),31.55189,74.41987,Combined,Punjab,2,2,1194,806
+43,Govt. Elementary School Ittehad Town- Lahore(Combined),31.55189,74.4199,Combined,Punjab,2,1,677,453
+67,Punjab Grammer School Altaf Colony Lahore (Combined),31.55203,74.42144,Combined,Punjab,2,2,1268,932
+11,Prime Askari School- Ameer ud Din Park- Lahore (Combined),31.55246,74.40572,Combined,Punjab,2,2,1487,1136
+16,Prime Askari School- Ameer ud Din Park- Lahore (Combined),31.55246,74.40575,Combined,Punjab,2,2,852,735
+58,The Sprirt School Ahmad hassan Road Lahore (Male),31.55251,74.40857,Male,Punjab,2,0,1077,0
+59,The Sprirt School Ahmad hassan Road Lahore (Female),31.55251,74.4086,Female,Punjab,0,2,0,962
+34,Umair Public High School - Altaf Colony- Lahore (Female),31.55301,74.42482,Female,Punjab,0,2,0,913
+72,Govt. Model High School Chungi Gujjar Pura Lahore Cantt(Combined),31.55358,74.43288,Combined,Punjab,1,1,150,150
+14,Oxford High School- Taj Pura Lahore (Combined),31.55476,74.40685,Combined,Punjab,2,2,1043,844
+15,Oxford High School- Taj Pura Lahore(Combined),31.55476,74.40688,Combined,Punjab,1,1,697,555
+12,Milli Foundation High School- Ameer-ud-din Park- Lahore (Combined),31.55555,74.40357,Combined,Punjab,2,2,1004,805
+35,New Milenium High School Cirag Town- Near Altaf Colony Harbanspura- Lahore (Male),31.55557,74.42513,Male,Punjab,2,0,1357,0
+36,New Milenium High School Chirag Town- Near Altaf Colony Harbanspura- Lahore (Female),31.55557,74.42516,Female,Punjab,0,2,0,962
+66,Elite Public School System Main Bazar Imama Town near Baraf Khana Lahore (Combined),31.55899,74.4109,Combined,Punjab,2,2,1049,829
+13,Roshni Public School- Taj Pura- Lahore (Combined),31.55904,74.40696,Combined,Punjab,1,1,381,287
+73,Roshni Public School- Taj Pura- Lahore (Combined),31.55904,74.40699,Combined,Punjab,2,2,1268,1160
+74,Roshni Public School- Taj Pura- Lahore (Combined),31.55904,74.40702,Combined,Punjab,2,2,977,794
+76,Roshni Public School- Taj Pura- Lahore (Combined),31.55904,74.40705,Combined,Punjab,2,1,920,655
+78,Kunal School Alam Khan Campus Tajpura Lahore(Combined),31.55932,74.40514,Combined,Punjab,2,2,970,678
+77,Marvellous High School TajPura Lahore(Combined),31.55937,74.40516,Combined,Punjab,1,1,398,228
+79,Awais High School Tajpura Scheme Lahore (Combined),31.55944,74.40525,Combined,Punjab,1,1,115,65
+30,Govt Girls Primary School- Peer Naseer Road- Lahore(Male),31.56131,74.43302,Male,Punjab,3,0,1285,0
+37,CDGL. Boys Primary School- Peer Naseer- Lahore (Male),31.56149,74.36368,Male,Punjab,3,0,1585,0
+38,CDGL. Boys Primary School- Peer Naseer- Lahore (Female),31.56149,74.36371,Female,Punjab,0,2,0,1084
+5,Ghullam Muhammad Public High School (Female),31.562,74.40781,Female,Punjab,0,2,0,1221
+7,Ghullam Muhammad Public High School (Combined),31.562,74.40784,Combined,Punjab,2,2,987,749
+31,Pak Ideal Girls School Chandiya (Female),31.56207,74.42482,Female,Punjab,0,2,0,1029
+4,CDG MC Middle School Girls School Razzaq Colony Lahore (Male),31.56245,74.4083,Male,Punjab,3,0,1684,0
+75,Allied School Tajbagh Campus(Combined),31.56288,74.41703,Combined,Punjab,1,1,297,211
+1,Pak Grammer High School-  Taj Bagh Scheme- Lahore  (Combined),31.5644,74.41405,Combined,Punjab,2,2,652,583
+10,Pak Grammer High School- Taj Bagh Scheme- Lahore (Combined),31.5644,74.41408,Combined,Punjab,2,1,746,635
+2,Pak Grammer High School- Taj Bagh Scheme- Lahore(Male),31.5644,74.41411,Male,Punjab,4,0,1583,0
+3,Pak Grammer High School- Taj Bagh Scheme- Lahore (Female),31.5644,74.41414,Female,Punjab,0,2,0,1386
+6,Pak Grammer High School- Taj Bagh Sheme- Lahore (Combined),31.5644,74.41417,Combined,Punjab,2,1,753,634
+64,Pak Grammer School Taj Bagh Lahore (Combined),31.5644,74.4142,Combined,Punjab,1,1,419,375
+65,Pak Grammer School Taj Bagh Lahore (Combined),31.5644,74.41423,Combined,Punjab,1,1,711,610
+8,Pak Grammer High School- Taj Bagh Scheme- Lahore (Combined),31.5644,74.41426,Combined,Punjab,1,1,610,468
+9,Pak Grammer High School- Taj Bagh Scheme- Lahore(Combined),31.5644,74.41429,Combined,Punjab,2,2,784,582
+24,CDG Primery School- Nawan Pind- Lahore (Combined),31.56789,74.43443,Combined,Punjab,2,1,866,673
+25,CDG Primery School- Nawan Pind- Lahore (Combined),31.56789,74.43446,Combined,Punjab,2,2,875,640
+26,Govt Primary School For Boys Nawan Pind Lahore (Combined),31.56789,74.43449,Combined,Punjab,2,1,639,500
+29,PAS School System Rani Pind (Combined),31.57663,74.45322,Combined,Punjab,2,2,818,650
+27,Gateway Boys High School RehmanPura- Lahore (Male),31.57736,74.45723,Male,Punjab,2,0,962,0
+28,Gateway Boys High School- Rehman Pura - Lahore- (Female),31.57736,74.45726,Female,Punjab,0,2,0,754

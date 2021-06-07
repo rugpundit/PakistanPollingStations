@@ -1,0 +1,98 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+95,GGMS/GGPS Chughal Pura (Female)  (P) PS-1,34.01842,71.62574,Female,KPK,0,3,0,1263
+96,GGMS/GGPS Chughal Pura (Female)  (P) PS-2,34.01842,71.62577,Female,KPK,0,4,0,1336
+93,GPS  Chughal Pura (Male) PS-I,34.01854,71.62613,Male,KPK,4,0,1763,0
+94,GPS  Chughal Pura (Male) PS-II,34.01854,71.62616,Male,KPK,4,0,1819,0
+84,GPS  Duran Pura (Male) PS-1,34.02771,71.6266,Male,KPK,3,0,1031,0
+97,GPS  Duran Pura (Male) PS-2,34.02771,71.62663,Male,KPK,3,0,1201,0
+98,GGPS   Duran Pur (Female),34.02838,71.62979,Female,KPK,0,4,0,1626
+85,GPS  No.1  Pakha Ghulam (Male)  (P) PS-1,34.0364,71.60725,Male,KPK,3,0,1037,0
+86,GPS  No.1  Pakha Ghulam (Male)  (P) PS-2,34.0364,71.60728,Male,KPK,3,0,953,0
+90,GGHS Pakha Ghulam  (Female) PS-1,34.03654,71.60658,Female,KPK,0,3,0,1385
+91,GGHS Pakha Ghulam  (Female) PS-2,34.03654,71.60661,Female,KPK,0,3,0,1310
+92,GGHS Pakha Ghulam  (Female) PS-3,34.03654,71.60664,Female,KPK,0,4,0,1677
+87,GGPS No.2/3 Pakha Ghulam  N0.2 (Male) (P) PS-1,34.03822,71.60262,Male,KPK,3,0,1089,0
+88,GGPS No.2/3 Pakha Ghulam No. 2 (Male) PS-2,34.03822,71.60265,Male,KPK,4,0,1276,0
+89,GGPS No.2/3 Pakha Ghulam No. 2 (Male) PS-3,34.03822,71.60268,Male,KPK,4,0,1456,0
+81,GGHSS Wadpaga (Female) (P) PS-1,34.03918,71.64846,Female,KPK,0,4,0,1263
+82,GGHSS Wadpaga (Female) (P) PS-2,34.03918,71.64849,Female,KPK,0,3,0,1217
+78,GHS Wadpaga (Male) PS.1  (P),34.05259,71.65403,Male,KPK,4,0,1604,0
+79,GHS Wadpaga (Male) PS.2  (P),34.05259,71.65406,Male,KPK,4,0,1497,0
+83,GGPS  Muhammadi Zai (Female)   (P),34.05259,71.65409,Female,KPK,0,3,0,1157
+80,GPS  Muhammadi Zai (Male)   (P),34.05334,71.6555,Male,KPK,4,0,1661,0
+73,GPS Kukar (Male)  (P),34.05526,71.60415,Male,KPK,4,0,1716,0
+75,GGHS Kukar (Female) (P)  PS-1,34.05701,71.59856,Female,KPK,0,3,0,891
+76,GGHS Kukar (Female) (P)  PS-2,34.05701,71.59859,Female,KPK,0,3,0,1428
+74,GGPS Kukar (Male)  (P),34.05722,71.59867,Male,KPK,3,0,1153,0
+32,GGPS Tapu Korona Malakabad (Female),34.06021,71.58992,Female,KPK,0,4,0,1798
+30,GHS/GPS Nasapa Payan  (Male) PS-1,34.06093,71.59837,Male,KPK,4,0,1593,0
+31,GHS/GPS Nasapa Payan  (Male) PS-2,34.06093,71.5984,Male,KPK,3,0,1067,0
+77,GPS  Khattar (Combined),34.06378,71.61137,Combined,KPK,2,1,557,487
+33,GPS  Ram Kishan (Male)(P) PS-I,34.06632,71.57713,Male,KPK,3,0,935,0
+34,GPS  Ram Kishan (Male) PS-II  (P),34.06632,71.57716,Male,KPK,3,0,795,0
+35,GGPS  Muslim Abad (Female),34.06978,71.57674,Female,KPK,0,3,0,1223
+15,GPS  Khazana Payan (Male) PS-1,34.07346,71.60395,Male,KPK,3,0,924,0
+16,GPS  Khazana Payan (Male) PS-II,34.07346,71.60398,Male,KPK,3,0,1087,0
+17,GGPS Khanzana Payan No.1 (Female),34.0735,71.6003,Female,KPK,0,4,0,1414
+27,GPS Banda Inayat Ullah (Male),34.07354,71.58327,Male,KPK,4,0,1345,0
+28,GGPS Banda Inayat Ullah (Female),34.07354,71.5833,Female,KPK,0,3,0,996
+72,GGPS Kankola (Female),34.0787,71.6241,Female,KPK,0,2,0,647
+71,GMS/GPS Kankola (Male),34.07882,71.62478,Male,KPK,2,0,889,0
+25,GPS  Khazana Sugar Mills (Male)  (P) PS-1,34.07924,71.58836,Male,KPK,4,0,1276,0
+26,GPS  Khazana Sugar Mills (Male)  (P) PS-2,34.07924,71.58839,Male,KPK,4,0,1348,0
+36,GMS  Khazana Sugar Mills (Female),34.0801,71.58852,Female,KPK,0,3,0,1056
+18,GMS  Toda (Male) PS-1,34.08168,71.61095,Male,KPK,4,0,1397,0
+19,GMS  Toda (Male) PS-2,34.08168,71.61098,Male,KPK,4,0,1255,0
+20,GGPS  Toda (Female),34.0826,71.60968,Female,KPK,0,4,0,1835
+29,GGHS Haryana Payan (Male)  (P),34.08302,71.57133,Male,KPK,4,0,1964,0
+13,GPS Khazana Bala (Male)  PS-I  (P),34.08303,71.59888,Male,KPK,4,0,1614,0
+14,GPS Khazana Bala (Female)  PS-II (P),34.08303,71.59891,Female,KPK,0,3,0,1134
+4,GGMS/GGPS  Garhi Karim Dad (Female),34.08303,71.59894,Female,KPK,0,2,0,577
+8,GGMS/GGPS Garhi Chiragh Shah Farman (Female),34.08303,71.59897,Female,KPK,0,2,0,840
+68,GPS  Daman Afghani (Male)  (P),34.08377,71.65195,Male,KPK,3,0,929,0
+2,GPS  Esa Khel Hameed (Female),34.08495,71.56905,Female,KPK,0,4,0,1543
+37,GPS Sewan  (Female),34.08569,71.58556,Female,KPK,0,2,0,744
+21,GPS  Wahid Garhi (Male) (P),34.08651,71.61961,Male,KPK,4,0,2015,0
+23,GPS Toda No.2 (Male) PS-1 (P),34.0867,71.61475,Male,KPK,4,0,1952,0
+24,GPS Toda No.2 (Female) PS-2  (P),34.0867,71.61478,Female,KPK,0,4,0,1341
+38,GPS  Haryana Payan (Female),34.08679,71.57225,Female,KPK,0,3,0,1264
+22,GGPS   Wahid Garhi (Female),34.08707,71.61976,Female,KPK,0,4,0,1458
+12,GMPS Garhi Imran No.2 (Combined),34.08783,71.60667,Combined,KPK,2,1,632,439
+69,GGHS Daman Afghani (Male),34.08899,71.64476,Male,KPK,3,0,1062,0
+70,GGPS  Daman Afghani (Female) (P),34.08899,71.64479,Female,KPK,0,4,0,1490
+65,GPS  Landi Daud Zai (Combined),34.09423,71.68153,Combined,KPK,2,2,620,553
+63,GGMS Shakar Pura (Male) (P),34.09683,71.63033,Male,KPK,4,0,1222,0
+62,GPS Gulbahar Shakar Pura (Male) (P),34.09697,71.626,Male,KPK,4,0,1306,0
+39,GJMS  Babo Zai (Male) (P),34.10241,71.58607,Male,KPK,4,0,1756,0
+56,GCMHSS Nahaqi (Male)  (P) PS-1,34.10368,71.61413,Male,KPK,3,0,1086,0
+57,GCMHSS Nahaqi (Male)  (P) PS-2,34.10368,71.61416,Male,KPK,4,0,1402,0
+58,GGHS  Nahaqi (Female) PS-1,34.10368,71.61419,Female,KPK,0,2,0,837
+59,GGHS  Nahaqi (Female) PS-2,34.10368,71.61422,Female,KPK,0,3,0,1055
+48,GPS  Nahaqi (Male) PS-1,34.10386,71.61321,Male,KPK,3,0,1007,0
+49,GGPS  Nahaqi (Female) PS-2,34.10386,71.61324,Female,KPK,0,2,0,778
+66,GPS  Jala Bela (Male),34.10495,71.69161,Male,KPK,3,0,1043,0
+40,GGPS  Shah Alam (Male)  (P),34.10503,71.58237,Male,KPK,4,0,1758,0
+42,GPS  Shah Alam (Female) (P) PS-2,34.10516,71.58199,Female,KPK,0,3,0,1213
+41,GPS  Shah Alam (Female) (P) PS-1,34.10527,71.58186,Female,KPK,0,3,0,1315
+47,GGPS  Mewra (Female) (P),34.10554,71.59216,Female,KPK,0,4,0,1693
+45,GPS  Mewra No.1 (Male)  (P),34.1067,71.60126,Male,KPK,3,0,1360,0
+46,GMS  Mewra  (Male),34.1076,71.5966,Male,KPK,3,0,965,0
+61,GGPS  Garhi Hamza (Female),34.11,71.604,Female,KPK,0,2,0,682
+60,GPS  Garhi Hamza (Male),34.11039,71.60451,Male,KPK,3,0,979,0
+43,GGPS  Jatti Payan (Female),34.11067,71.57493,Female,KPK,0,3,0,1154
+44,GPS  Jatti Payan (Male),34.11208,71.57265,Male,KPK,4,0,1420,0
+50,GHS  Gul Bela (Male) (P),34.11999,71.65185,Male,KPK,4,0,1889,0
+11,GPS  Harsabadin (Male),34.12012,71.62582,Male,KPK,2,0,799,0
+67,GGPS  Jala Bela (Female),34.12123,71.56644,Female,KPK,0,2,0,865
+51,GGMS/GGPS Gul Bela (Female) PS-1,34.122,71.65146,Female,KPK,0,3,0,1417
+52,GGMS/GGPS Gul Bela (Female) PS-2,34.122,71.65149,Female,KPK,0,3,0,1343
+9,GPS  Kariri (Male) (P),34.12415,71.63571,Male,KPK,3,0,1142,0
+10,GGPS  Kariri (Female) (P),34.12508,71.63065,Female,KPK,0,4,0,1486
+54,GGPS  Garhi Sharif Gul (Female),34.13433,71.64992,Female,KPK,0,2,0,818
+55,GPS  Kochian (Male),34.13438,71.46195,Male,KPK,4,0,1829,0
+53,GPS  Garhi Sharif Khan (Male),34.13441,71.64839,Male,KPK,4,0,1234,0
+1,BHU Saeed Abad (Naquman) (Male),34.13493,71.60651,Male,KPK,4,0,2018,0
+7,GPS  Dab (Male),34.13533,71.629,Male,KPK,3,0,1170,0
+6,GGPS Bunyadi (Female),34.14068,71.614,Female,KPK,0,3,0,1270
+5,GPS  Bunyadi (Male) (P),34.14436,71.61824,Male,KPK,4,0,1778,0
+3,GHS  Garhi Karim Dad (Male),34.14917,71.59664,Male,KPK,2,0,733,0

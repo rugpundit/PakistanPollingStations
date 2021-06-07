@@ -1,0 +1,103 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+10,Government Boys Primary School  Abdul Fateh (Combined),28.37894,68.34829,Combined,Balochistan,1,1,389,620
+4,Government Boys Primary School  Abdul Rehman Khosa (Female),28.37894,68.34832,Female,Balochistan,0,2,0,991
+38,Government Boys High School  Manjhi Pur (Combined),28.42679,68.67424,Combined,Balochistan,1,1,142,153
+36,Government Boys High School  Panhwar (Male),28.4271,68.77832,Male,Balochistan,4,0,1242,0
+40,Government Girls High School Manjhi Pur (Female),28.42847,68.67236,Female,Balochistan,0,3,0,1013
+39,Civil Dispensary Manjhi Pur  (Male),28.42904,68.66879,Male,Balochistan,4,0,1384,0
+37,Government Girls Middle School  Panhwar (Female),28.42973,68.77823,Female,Balochistan,0,2,0,746
+1,Government Boys Primary School  Amanullah Domki (Male),28.42999,68.37275,Male,Balochistan,2,0,1076,0
+2,UC Building Amanullah  Domki (Female),28.43009,68.37453,Female,Balochistan,0,2,0,1033
+57,Government Boys High School  Mehoo Pur Portion-II (Female),28.43047,68.57557,Female,Balochistan,0,3,0,1082
+56,Government Boys High School  Mehoo Pur Portion-I (Male),28.4308,68.575,Male,Balochistan,4,0,1264,0
+18,Government Boys Primary School  Malguzar (Combined),28.43133,68.4243,Combined,Balochistan,1,1,695,567
+30,Government Boys High School  Rind Ali (Male),28.43291,68.88802,Male,Balochistan,4,0,1324,0
+62,Government Boys Primary School  Sohrab Khan Khosa Portion-I(Male),28.43386,68.62054,Male,Balochistan,3,0,1032,0
+63,Government Boys Primary School  Sohrab Khan Khosa Portion-II (Female),28.43386,68.62057,Female,Balochistan,0,3,0,974
+21,Government Boys Primary School  Mohammad Hassan (Combined),28.43521,68.40051,Combined,Balochistan,1,1,691,666
+31,Government Boys High School  Din Mohammad (Female),28.43592,68.85626,Female,Balochistan,0,2,0,843
+60,Government Boys High School  Murad Ali (Male),28.43593,68.49918,Male,Balochistan,3,0,869,0
+34,Civil Dispensary Ibrahim Gajani  (Female),28.43684,68.81417,Female,Balochistan,0,2,0,622
+35,Government Boys High School  Ibrahim Gajani (Male),28.437,68.81553,Male,Balochistan,3,0,957,0
+61,Government Girls Middle School  Murad Ali (Female),28.43803,68.49857,Female,Balochistan,0,3,0,732
+101,Government Grils Primary School  Goth Hamza Khan (Female),28.43946,68.68985,Female,Balochistan,0,2,0,729
+100,Government Boys Primary School  Goth Hamza Khan (Male),28.43981,68.69044,Male,Balochistan,2,0,808,0
+25,Civil Dispensary Malguzar    (Female),28.44397,69.14498,Female,Balochistan,0,1,0,242
+24,Basic Health Unit Malguzar  (Female),28.44409,69.14507,Female,Balochistan,0,1,0,252
+23,Government Boys High School Malguzar (Male),28.44434,69.14481,Male,Balochistan,2,0,841,0
+88,Government Boys High School  Goth Mohammad Salah Gajani  (Male),28.44456,68.80212,Male,Balochistan,4,0,1315,0
+29,Civil Dispensary Burra  Khan Bajkani (Female),28.44562,68.90179,Female,Balochistan,0,2,0,567
+28,Government Boys Primary School  Burra Khan Bajkani (Male),28.44569,68.90172,Male,Balochistan,2,0,999,0
+41,Government Boys Primary School  Dolat Khan (Combined),28.44852,68.65729,Combined,Balochistan,1,1,443,298
+22,Government Boys Middle School  Saido Jakharani (Combined),28.45074,69.17506,Combined,Balochistan,1,1,324,164
+17,Government Boys Primary School  Bhand (Female),28.45569,68.45832,Female,Balochistan,0,3,0,1141
+82,Civil Dispensary Jumal Bugti (Female),28.4566,68.79176,Female,Balochistan,0,2,0,550
+14,Government Boys Primary School  Bahadur Khan (Female),28.45695,68.44453,Female,Balochistan,0,3,0,1163
+15,Government Girls  Primary School  Bahadur Khan (Female),28.45707,68.44437,Female,Balochistan,0,2,0,839
+81,Government Boys High School  Jumal Bugti (Male),28.45725,68.79115,Male,Balochistan,3,0,982,0
+16,Government Girls Primary School  Bhand  (Male),28.45766,68.46513,Male,Balochistan,2,0,687,0
+11,Government Boys Primary School  Abdul Nabi Brohi (Male),28.45786,68.35601,Male,Balochistan,3,0,1037,0
+68,Government Boys Primary School  Naseebullah (Combined),28.45821,68.59924,Combined,Balochistan,1,1,454,329
+20,Government Girls Primary School  Haji Abdul Majeed Khosa (Female),28.45947,68.38469,Female,Balochistan,0,2,0,1064
+59,Government Boys Primary School  Dambri (Combined),28.4602,68.51266,Combined,Balochistan,1,2,322,634
+26,Government Boys Primary School  Arz Mohammad (Combined),28.46135,68.98021,Combined,Balochistan,1,1,382,143
+12,Government Boys Primary School  Kareem Sumalani (Female),28.46279,68.35379,Female,Balochistan,0,2,0,832
+19,Government Boys High School  Mohammad Bakhsh Noor Pur(Male),28.46416,68.39061,Male,Balochistan,3,0,1336,0
+27,RD-238 China Camp  (Combined),28.46425,68.90572,Combined,Balochistan,2,1,481,270
+32,Government Boys Middle School  Mohammad Amin Kanrani (Combined),28.46823,68.74305,Combined,Balochistan,2,1,624,473
+90,Government Boys Primary School  Bashir Khan (Combined),28.46913,68.48615,Combined,Balochistan,1,1,469,606
+58,Government Boys Primary School  Ghulam Mustafa (Combined),28.47589,68.54426,Combined,Balochistan,1,1,518,484
+13,Government Boys Middle School  Baloo Pur (Male),28.47703,68.43232,Male,Balochistan,3,0,1112,0
+69,Government Boys Primary School  Bostan (Combined),28.48098,68.60114,Combined,Balochistan,1,1,384,312
+77,Government Girls Middle School DIrgi (Female),28.48156,68.49709,Female,Balochistan,0,3,0,943
+76,Government Boys High School Dirgi  (Male),28.48245,68.49892,Male,Balochistan,3,0,810,0
+83,Government Boys Primary School  Ghulam Jan Kanrani (Male),28.4845,68.72039,Male,Balochistan,2,0,525,0
+80,Government Boys Primary School New AKhtiyar Khan (Female),28.48753,68.45804,Female,Balochistan,0,4,0,1433
+84,Government Boys High  School  Ghulam Muhammad Kanrani (Female),28.49372,68.74596,Female,Balochistan,0,2,0,407
+86,Government Boys Primary School  Wandh Lashari (Male),28.4943,68.68657,Male,Balochistan,2,0,430,0
+43,Government Boys Primary School  Noor Mohammad (Nooran) (Combined),28.49611,68.62737,Combined,Balochistan,1,1,376,319
+87,Government Girls Primary School  Sardar Khan Lashari (Female),28.49889,68.68867,Female,Balochistan,0,1,0,383
+33,Government Boys Middle School  Kot Lashkar Khan (Combined),28.49934,68.69933,Combined,Balochistan,2,1,426,380
+67,Government Girls Primary School  Khair Pur Gola (Female),28.50038,68.52464,Female,Balochistan,0,2,0,938
+97,Government Boys Primary School  Jhaloo (Combined),28.50274,68.49387,Combined,Balochistan,1,1,614,717
+78,Government Boys Primary School Noor Muhammad ((Male),28.50498,68.47125,Male,Balochistan,2,0,756,0
+66,Government Boys Primary School  Sardar Shah (Male),28.50516,68.52746,Male,Balochistan,2,0,1154,0
+74,Animal Husbandary Sohbat Pur (Male),28.51414,68.53983,Male,Balochistan,3,0,1264,0
+71,BHU Sohbat Pur (Male),28.51909,68.54224,Male,Balochistan,3,0,931,0
+70,Government Boys High School  Sohbat Pur (Male),28.51923,68.54343,Male,Balochistan,3,0,748,0
+42,Government Boys Inter College Hair Din  (Combined),28.52066,68.66948,Combined,Balochistan,2,2,571,543
+73,Government Boys Primary School  Abdul Rehman Katoher Sohbat Pur (Female),28.52115,68.53992,Female,Balochistan,0,2,0,842
+72,Government Girls High School  Sohbat Pur (Female),28.52127,68.54123,Female,Balochistan,0,2,0,651
+75,Agriculture Office Sohbat Pur (Female),28.52188,68.54153,Female,Balochistan,0,3,0,1091
+45,Government Boys Primary School  Mir Hassan Khosa (Combined),28.5259,68.61515,Combined,Balochistan,1,1,413,324
+9,Government Boys Middle School  Zafar Ali (Male),28.53094,68.41983,Male,Balochistan,2,0,653,0
+8,Government Boys Primary School  Jehan Ali (Female),28.53246,68.42141,Female,Balochistan,0,3,0,993
+65,Government Boys Primary School  Abdul Abdul Satar Khosa (Male),28.5326,68.50663,Male,Balochistan,2,0,973,0
+79,Government Boys Primary School  Abdul Sattar (Combined),28.5326,68.50666,Combined,Balochistan,1,1,335,469
+7,Government Girls Middle School  Jiya Khan (Female),28.53653,68.40387,Female,Balochistan,0,3,0,944
+6,Government Boys High School  Ghulam Rasool (Male),28.53792,68.40604,Male,Balochistan,3,0,846,0
+46,Government Boys High School  Adam Pur (Male),28.54256,68.59189,Male,Balochistan,3,0,759,0
+47,Civil Dispensary Adam Pur  (Female),28.54411,68.59103,Female,Balochistan,0,2,0,626
+3,Government Boys Primary School  Qasim Khan Khosa (Male),28.54414,68.45048,Male,Balochistan,3,0,1201,0
+64,Government Boys Primary School  Abdul Majeed Katohar (Female),28.54667,68.51806,Female,Balochistan,0,3,0,823
+44,Government Boys Primary School  Noor Mohammad Jarwar (Combined),28.55441,68.60855,Combined,Balochistan,1,1,769,510
+5,Government Boys Primary School   Ahmed Ali  (Female),28.56272,68.47355,Female,Balochistan,0,2,0,535
+52,Government Boys Primary  Abdul Qadir Bhangar (Combined),28.56286,68.49908,Combined,Balochistan,1,1,539,478
+50,Government Boys High School  Abdul Rashid Khosa (Male),28.56962,68.55905,Male,Balochistan,3,0,851,0
+51,Civil Dispensary Abdul Rashid Khosa  (Female),28.56987,68.55971,Female,Balochistan,0,3,0,965
+49,Government Boys Primary School  Darbhani (Combined),28.57607,68.57491,Combined,Balochistan,1,1,546,340
+53,Basic Health Unit Jhanda Talab  (Male),28.58124,68.48208,Male,Balochistan,2,0,687,0
+54,Government Boys High  School  Jhanda Talab (Female),28.58138,68.48164,Female,Balochistan,0,3,0,973
+48,Government Boys Primary School  Dad Mohammad (Combined),28.58252,68.59458,Combined,Balochistan,1,1,523,404
+94,Government Boys Primary School  Shamsuddin Khosa (Male),28.58256,68.45971,Male,Balochistan,3,0,1342,0
+95,Government Boys Primary School  Mohammad Ibrahim (Female),28.58771,68.43761,Female,Balochistan,0,2,0,1342
+91,Government Boys Primary School  Izhar Khan Khan Khosa (Male),28.5952,68.48962,Male,Balochistan,2,0,1038,0
+92,Government Grils  Primary School  Izhar Khan Khan Khosa (Female),28.59666,68.49028,Female,Balochistan,0,2,0,936
+96,Government Boys Primary School  Munawar Khan Khosa (Combined),28.60136,68.41959,Combined,Balochistan,1,1,289,386
+93,Government Boys Primary School  Sikdandar Khan Khosa (Male),28.60442,68.4985,Male,Balochistan,1,0,439,0
+103,Government Girls Primary School Sikandar Khan Khosa (Female),28.60451,68.49809,Female,Balochistan,0,2,0,423
+55,Government Boys Primary School  Naseer Khan (Combined),28.60485,68.52247,Combined,Balochistan,1,1,345,223
+98,Government Boys High School  Gharri Portion-I (Male),28.60575,68.45001,Male,Balochistan,2,0,502,0
+99,Government Boys High School  Gharri Portion-II (Female),28.60589,68.4502,Female,Balochistan,0,1,0,429
+85,Government Boys Primary School  Khalan (Male),28.62673,68.50925,Male,Balochistan,2,0,748,0
+102,Government Girls Primary School  Khalan (Female),28.62695,68.50865,Female,Balochistan,0,2,0,559

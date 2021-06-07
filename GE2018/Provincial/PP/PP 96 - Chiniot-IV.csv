@@ -1,0 +1,159 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+102,Government Girls Primary School Chak No.202,31.37973,72.76782,Combined,Punjab,1,1,408,300
+101,Government Girls Elementary School Chak No.202,31.38203,72.78576,Combined,Punjab,2,2,1062,1033
+106,Government Girls Primary School Chak No.247 Kashmir coloney,31.38329,72.7015,Combined,Punjab,2,2,980,815
+110,Government Girls Primary School Chak No.249,31.38363,72.68195,Combined,Punjab,2,2,668,616
+104,Government Girls Primary School Chak No.201,31.39403,72.78283,Combined,Punjab,2,2,784,735
+116,Government Girls Elementary School Chak No.203,31.39498,72.74206,Combined,Punjab,1,1,512,426
+103,Government Boys Primary School Chak No.201,31.39532,72.78379,Combined,Punjab,1,1,507,471
+115,Government Boys High School Chak No.203,31.39603,72.74262,Combined,Punjab,2,2,959,791
+105,Government Boys High School Chak No.247,31.39643,72.68065,Combined,Punjab,1,1,515,457
+107,Government Boys Elementary School Chak No.245 Est (Saggal),31.40726,72.66637,Combined,Punjab,2,2,821,689
+108,Government Boys Elementary School Chak No.245 Est (Saggal),31.40726,72.6664,Combined,Punjab,1,1,541,467
+117,Government Boys Primary School Chak No.212  Est,31.41115,72.7231,Combined,Punjab,1,1,628,456
+65,Government Boys High School Chak No.200,31.41134,72.79742,Combined,Punjab,2,2,761,634
+109,Government Boys Primary School Chak No.245 Haral,31.41148,72.68462,Combined,Punjab,1,1,285,231
+64,Government Girls Elementary School Chak No.200,31.41163,72.79769,Combined,Punjab,1,2,586,511
+119,Government Boys Elementary School Chak No.244,31.41521,72.6946,Combined,Punjab,1,1,464,398
+66,Government Girls High School Chak No.199,31.41663,72.76778,Combined,Punjab,1,1,556,509
+67,Government Girls High School Chak No.199,31.41663,72.76781,Combined,Punjab,2,2,728,645
+63,Government Boys Primary School Chak No.200 Jadeed,31.41791,72.80168,Combined,Punjab,1,1,389,336
+113,Government Boys Primary School Chak No.211,31.41946,72.73736,Combined,Punjab,1,1,450,363
+114,Government Girls Primary School Chak No.211,31.41955,72.73727,Combined,Punjab,1,1,487,385
+112,Government Girls  Primary School Chak No.246,31.42094,72.6423,Combined,Punjab,2,2,1078,813
+111,Government Girls Elementary School Chak No.243 Est,31.43683,72.7009,Combined,Punjab,2,2,909,747
+138,Government Girls Primary School Chak No.227,31.44133,72.63456,Female,Punjab,0,2,0,774
+136,Government Boys Primary School  Chak No.227,31.44144,72.63464,Male,Punjab,2,0,1101,0
+69,Government  Elementary School Chak No.210,31.44411,72.75253,Combined,Punjab,1,1,587,452
+68,Government Boys High School Chak No.210,31.44427,72.75099,Combined,Punjab,1,1,544,465
+139,Government Boys Primary School Chak No.226,31.44705,72.65907,Male,Punjab,2,0,938,0
+137,Government Girls Primary School Chak No.226,31.44707,72.65901,Female,Punjab,0,2,0,734
+125,Government Boys Primary School Chak No.228,31.44736,72.62715,Combined,Punjab,2,2,860,641
+60,Government Gils Primary School Chak 209,31.44972,72.74402,Combined,Punjab,1,1,491,427
+61,Government Boys Primary School Chak 209,31.45198,72.73974,Combined,Punjab,2,2,768,564
+141,Government Boys High School Chak No.223,31.45395,72.67753,Combined,Punjab,2,1,730,549
+142,Government Boys High School Chak No.223,31.45395,72.67756,Combined,Punjab,1,2,591,562
+62,Government Boys High School Chak 205,31.457,72.8023,Combined,Punjab,2,2,1044,895
+122,Government Boys Elementary School Chak No.225,31.46098,72.65195,Combined,Punjab,1,1,414,321
+123,Government Boys Elementary School Chak No.225,31.46098,72.65198,Combined,Punjab,2,2,741,506
+56,Government Model Primary School Chak 207 (Girls Campus),31.46301,72.78548,Combined,Punjab,2,2,1028,880
+120,Government Boys High School Chak No.241,31.4651,72.71915,Combined,Punjab,2,2,698,586
+121,Government Girls Elementary School Chak No.241,31.46513,72.70979,Combined,Punjab,1,1,584,417
+59,Government Model Elementary School Chak 208  (Girls Campus),31.4711,72.76353,Combined,Punjab,2,2,833,725
+70,Government  Elementary School  Kalar Wala,31.47332,72.56321,Combined,Punjab,2,2,779,667
+124,Government Boys Primary School Chak No.229,31.4749,72.61114,Combined,Punjab,2,2,850,714
+145,Government Boys Elementary School Chak 240 Handlana,31.48108,72.70599,Combined,Punjab,2,2,1005,786
+126,Government Girls Primary School Chak No.224,31.48125,72.65097,Combined,Punjab,2,2,696,549
+133,Government  Boys High School Chak No.195,31.48498,72.67853,Combined,Punjab,1,2,688,560
+129,Government Boys Elementary School Chak No.222,31.48504,72.67849,Combined,Punjab,1,1,586,474
+58,Government Model Primary School Chak  239 Sharqi,31.49046,72.75709,Combined,Punjab,1,1,500,413
+146,Government Girls High School Chak 240  Malaka,31.49082,72.72046,Combined,Punjab,1,1,433,353
+147,Government Girls High School Chak 240  Malaka,31.49082,72.72049,Combined,Punjab,1,1,583,477
+134,Government Girls Elementary School Chak No.195,31.49251,72.63203,Combined,Punjab,1,1,390,324
+71,Government Model Primary School Mandar,31.4936,72.56332,Combined,Punjab,2,2,867,741
+140,Government Girls Primary School Chak No.223 North,31.49376,72.69558,Combined,Punjab,1,1,517,455
+57,Government Model  Primary School Chak  239 Shumali  (Girls Campus),31.49399,72.75498,Combined,Punjab,2,2,839,678
+135,Government Girls Primary School Chak No.196 (Jewanka),31.49428,72.6091,Combined,Punjab,2,1,687,557
+72,Government Boys High School Darbar Dhunday Shah,31.49988,72.54089,Combined,Punjab,2,2,987,763
+73,Government Boys High School Darbar Dhunday Shah,31.49988,72.54092,Combined,Punjab,1,1,561,463
+48,Government Boys High School Chak 221,31.50291,72.70091,Combined,Punjab,1,1,422,308
+143,Government Boys Primary School Chak 186,31.5031,72.73641,Combined,Punjab,2,2,659,518
+130,Government Boys Elementary School Chak No.191,31.50668,72.65335,Combined,Punjab,2,1,748,550
+47,Government Boys Primary School- Chak 221,31.50823,72.69975,Combined,Punjab,2,1,645,502
+127,Government Boys Primary School Chak No.190,31.50833,72.67535,Combined,Punjab,1,1,570,460
+144,Government Girls Primary School Chak 238 Bahler Wali,31.51373,72.75507,Combined,Punjab,2,2,1035,850
+131,Government Girls Primary School Chak No.194 Syal wala,31.51406,72.63345,Combined,Punjab,1,1,396,289
+74,Government Girls Elementary School Rehman Colony Suleman,31.51775,72.53383,Combined,Punjab,2,2,1040,787
+80,Government Girls Model School Thatta Muhammad Shah  (ADDA NALKA),31.51782,72.56623,Combined,Punjab,2,2,982,700
+55,Government Model Primary School  CHAK NO 189/JB,31.51841,72.67307,Combined,Punjab,1,1,352,244
+128,Government Boys Primary School Chak No.192 West,31.51886,72.65507,Combined,Punjab,1,1,505,402
+79,Government Boys Primary School Taqi Abad,31.5242,72.58604,Combined,Punjab,2,2,1002,719
+49,Government Girls Elementary School Chak 187,31.52965,72.71371,Male,Punjab,3,0,1265,0
+50,Government Girls Elementary School Chak 187,31.52965,72.71374,Female,Punjab,0,3,0,1122
+132,Government Boys Primary School Chak No.193 Ameer Wala,31.53527,72.64233,Combined,Punjab,1,1,410,268
+75,Government Elementary School Thatta Muhammad Shah,31.5368,72.53578,Combined,Punjab,1,1,450,344
+76,Government Elementary School Thatta Muhammad Shah,31.5368,72.53581,Combined,Punjab,2,2,1027,676
+54,Government Boys Primary School Chak No 466 Khanoana Chhota,31.5376,72.674,Combined,Punjab,2,1,732,539
+77,Government Model Primary School Warra,31.53873,72.54459,Combined,Punjab,1,1,500,344
+83,Government Girls Community Model School Nither Kay,31.53927,72.62321,Male,Punjab,2,0,1136,0
+84,Government Girls Community Model School Nither Kay,31.53927,72.62324,Female,Punjab,0,2,0,938
+78,Government Model Elementary School Thatta Wara,31.54119,72.54259,Combined,Punjab,1,1,672,484
+51,Government Model Primary School Chak 188,31.54132,72.70251,Combined,Punjab,1,1,514,421
+82,Government Boys Primary School Nither Kay,31.54267,72.62164,Combined,Punjab,2,2,720,560
+81,Government Girls Primary School Haweli Bata,31.54671,72.60976,Combined,Punjab,1,1,621,530
+85,Government Boys Primary School Haveli Bata,31.5481,72.61787,Combined,Punjab,2,2,795,598
+52,Government Boys Elementary School Chak No 466 Ahatay,31.5529,72.70038,Combined,Punjab,2,1,772,579
+53,Government Model Primary School Chak No 466 Khanoana Bara,31.55313,72.67255,Combined,Punjab,2,2,787,620
+156,Government Boys Primary School Siddiqia Coloney,31.56046,72.65019,Combined,Punjab,1,2,564,563
+157,Office Municipal Committee Bhowan,31.56373,72.6478,Male,Punjab,2,0,781,0
+158,Office Municipal Committee Bhowan,31.56373,72.64783,Male,Punjab,3,0,1489,0
+159,Government Boys Primary School No. 2 Bhowana,31.56404,72.65079,Female,Punjab,0,4,0,1834
+148,Union Council No. 23 Office Bhowana,31.56943,72.65303,Male,Punjab,4,0,1785,0
+152,Deputy DEO (Female) Office Bhowana,31.56956,72.65298,Male,Punjab,4,0,1841,0
+153,Government Girls Higher Secondry School Bhowana (Middle Portion),31.56979,72.64876,Female,Punjab,0,4,0,1567
+149,Union Council No. 23 Office Bhowana,31.56996,72.64893,Female,Punjab,0,4,0,1477
+151,Government Girls Higher Secondry School Bhowana,31.56996,72.64896,Female,Punjab,0,4,0,2030
+150,Government Boys Primary School No. 1  Bhowana,31.57,72.64891,Male,Punjab,4,0,2329,0
+92,Government Boys Elementary School Chah Muhammad Khan Wala,31.57072,72.57995,Combined,Punjab,2,2,759,665
+88,Government Girls Primary School Ahmad Wala,31.57132,72.58076,Combined,Punjab,1,1,280,195
+25,Government Boys Primary School Jhalar Nathu Shah,31.57444,72.45213,Combined,Punjab,1,1,523,346
+155,Government Boys Primary School Saghre Wala Thatha Sar Nanga,31.57563,72.68226,Combined,Punjab,1,1,382,310
+99,Government Model Primary School  Thatta Jhanb,31.57732,72.6934,Combined,Punjab,1,1,477,411
+154,Government Girls Primary School Kot Najabat,31.5822,72.66937,Combined,Punjab,1,1,288,250
+96,Government Girls Primary School Kotla Shahzada,31.58606,72.7266,Combined,Punjab,1,1,212,190
+86,Government Boys  High School TAHLI MANGINI,31.58863,72.60724,Male,Punjab,2,0,1096,0
+87,Government Boys  High School TAHLI MANGINI,31.58863,72.60727,Female,Punjab,0,2,0,822
+97,Government Model Primary School Saghar Wala,31.58977,72.71327,Combined,Punjab,1,1,464,393
+90,Basic Health Centre Mangini,31.59272,72.60763,Combined,Punjab,1,1,638,495
+91,Basic Health Centre Mangini,31.59272,72.60766,Combined,Punjab,2,2,767,570
+100,Government Model  Primary School Thatha Loona,31.59597,72.71863,Combined,Punjab,2,1,862,606
+89,Government Girls Elementary School School Mangini,31.59718,72.60841,Combined,Punjab,2,1,703,498
+98,Government Model Primary School Summandar,31.59917,72.68362,Combined,Punjab,1,1,516,420
+23,Government Boys Primary School Sheikhan,31.59928,72.4604,Combined,Punjab,2,2,721,628
+95,Government Girls Elementary School Barkhudar,31.60011,72.69895,Combined,Punjab,2,2,901,692
+22,Government Boys Primary School Doaba Marro,31.60765,72.49345,Combined,Punjab,2,1,800,524
+24,Government Girls Primary School Adda Sheikhan,31.61126,72.45483,Combined,Punjab,2,2,821,656
+21,Government Elementary School Mangna wala,31.61618,72.48106,Combined,Punjab,2,2,1077,790
+26,Government Boys Primary School Shadi Pur,31.62593,72.43085,Male,Punjab,3,0,1349,0
+27,Government Boys Primary School Shadi Pur,31.62593,72.43088,Female,Punjab,0,3,0,1082
+19,Government Boys Primary School  SHEREEN AWAN,31.6267,72.45841,Combined,Punjab,1,1,498,326
+93,Government Model Primary School UBHAN,31.63142,72.62708,Combined,Punjab,2,1,747,494
+6,Govt. Government Boys Elementary School  Kull,31.63189,72.51704,Combined,Punjab,2,1,659,466
+17,Government Boys High School Inayat Pur,31.63611,72.46825,Combined,Punjab,2,2,925,768
+7,Government Model Primary School Thatha Haryan,31.63715,72.50505,Combined,Punjab,1,1,491,372
+94,Government Model Primary School SAIKE SALOKE,31.64554,72.69176,Combined,Punjab,1,1,343,202
+1,Government Boys High School Kalri,31.6491,72.54065,Combined,Punjab,1,1,294,233
+2,Government Boys High School Kalri,31.6491,72.54068,Combined,Punjab,2,2,888,751
+3,Government Boys High School Kalri,31.6491,72.54071,Combined,Punjab,2,2,792,628
+4,Government Girls High School Kalri,31.64997,72.54554,Combined,Punjab,1,1,486,346
+18,Government Model Primary School Sajawaleywala,31.65158,72.46008,Combined,Punjab,1,1,240,193
+16,Government Boys Primary School Mehran Baqar,31.65724,72.50171,Combined,Punjab,1,1,512,353
+20,Government Boys Primary School  KOT AMEER,31.65802,72.47147,Combined,Punjab,1,1,247,184
+11,Government Girls Primary School SARDAREY WALA,31.65905,72.43694,Combined,Punjab,1,1,388,239
+9,Government Model Primary School Noor Pur Piple,31.66663,72.53011,Combined,Punjab,2,2,913,666
+10,Government Boys Primary School Kot Sultan,31.67141,72.46299,Combined,Punjab,1,1,514,366
+13,Government Boys Primary School Bhulley Wala,31.6787,72.50439,Combined,Punjab,1,1,456,318
+5,Government Boys Primary School Kaloka,31.67928,72.54848,Combined,Punjab,2,2,837,666
+14,Government Boys Primary School Jhil,31.687,72.48175,Combined,Punjab,1,1,315,205
+31,Government Girls Primary School Vijhakay,31.68749,72.57212,Combined,Punjab,2,2,695,499
+32,Government Girls Primary School Duratta Sanghrawan,31.68788,72.55402,Combined,Punjab,1,1,321,200
+29,Government Boys Elementary School Vigilkay,31.68894,72.57093,Combined,Punjab,1,1,498,425
+8,Government Model Primary School Piple Bhutta,31.68925,72.52874,Combined,Punjab,2,1,722,564
+30,Girls  Primary School Muhammad Wala,31.69881,72.58982,Combined,Punjab,1,1,436,337
+28,Government Boys Primary School Mamolla,31.70009,72.58782,Combined,Punjab,2,2,746,557
+35,Government Boys Middle School Wada Shah Haji Usman,31.70857,72.649,Combined,Punjab,1,1,523,361
+36,Government Model Primary School Wada Shah Haji Usman,31.70885,72.65308,Combined,Punjab,1,1,538,415
+33,Girls Elementary School Saru Wala,31.70924,72.61512,Combined,Punjab,2,2,925,678
+34,Government Boys Primary School Saru Wala,31.71052,72.61967,Combined,Punjab,2,1,777,581
+12,Government Boys Primary School Thatha Umra,31.71459,72.49751,Combined,Punjab,1,1,338,231
+37,Government Boys High School Pir Panja,31.72714,72.62941,Male,Punjab,2,0,1168,0
+38,Government Girls High School Pir Panja,31.73103,72.62898,Female,Punjab,0,2,0,1011
+15,Government Girls Primary School Ramdana  ( Improvised),31.73333,72.5,Combined,Punjab,1,1,192,150
+41,Government Boys Primary School Ghosay Wala,31.73563,72.60234,Combined,Punjab,1,1,370,314
+45,Government Boys High School Burani kanian wali,31.74296,72.54228,Combined,Punjab,2,1,722,553
+46,Government Boys High School Burani kanian wali,31.74296,72.54231,Combined,Punjab,1,1,668,449
+40,Government Girls Primary School Ganjy Wala,31.74739,72.57981,Combined,Punjab,2,2,1026,761
+39,Government Model Primary School Punjay Wala,31.75849,72.57524,Combined,Punjab,1,1,664,516
+42,Govt Model Primary School Jaisal,31.77084,72.64655,Combined,Punjab,2,1,711,507
+44,Government Girls High School Barana,31.77791,72.59721,Combined,Punjab,2,2,829,704
+43,Government Boys High School Barana,31.78008,72.59439,Combined,Punjab,2,1,627,530

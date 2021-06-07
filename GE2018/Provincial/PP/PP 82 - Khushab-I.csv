@@ -1,0 +1,231 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+127,Government Boys High School-  Bitta (High Portion).,32.18805,71.9229,Male,Punjab,2,0,1672,0
+128,Government Boys High School-  Bitta (Middle Portion).,32.19122,71.92761,Female,Punjab,0,2,0,1615
+186,Government Boys Elementary School-  Chak No: 39/DB.,32.20241,71.75279,Combined,Punjab,2,2,775,657
+173,Government Boys Primary School-  Jay Singh- Utra.,32.22362,71.76285,Combined,Punjab,1,1,210,205
+182,Government Boys Primary School-  Chak No: 34/DB.,32.23112,71.7281,Combined,Punjab,1,1,801,603
+185,Government Boys Elementary School-  Chak No: 38/DB.,32.23131,71.74252,Combined,Punjab,1,1,723,665
+171,Government Boys Elementary School-  Mitha Khoh- Utra.,32.2363,71.80228,Combined,Punjab,1,1,754,600
+172,Government Girls Primary School-  Mitha Khoh- Utra.,32.2363,71.80231,Combined,Punjab,1,1,646,518
+183,Government Boys Elementary School-  Chak No.8/MB.,32.24369,71.89458,Combined,Punjab,2,2,857,704
+184,Government Girls High School-  Chak No: 36/DB.,32.25025,71.74625,Combined,Punjab,2,2,807,621
+130,Government Boys Primary School-  Kukranwali.,32.25552,71.97865,Combined,Punjab,2,2,772,716
+131,Government Girls Primary School- No.1.  Okhli Mohla,32.25883,71.98363,Combined,Punjab,1,1,621,561
+132,Government Boys High School-  Okhli Mohla (High Portion).,32.25936,71.98549,Combined,Punjab,2,2,995,859
+170,Government Boys Primary School-  Ghazi Khailan Wala- Utara.,32.26008,71.86992,Combined,Punjab,1,1,568,491
+129,Government Boys Primary School-  Bhan Mardu.,32.26212,71.97584,Combined,Punjab,1,1,507,503
+181,Government Boys Primary School-  Chak No: 33/DB.,32.27214,71.71539,Combined,Punjab,1,1,550,406
+126,Government Boys Primary School-  Mandianwala.,32.27956,71.95345,Combined,Punjab,1,1,314,273
+175,Government Girls Elementry School-  Shahwala Utra,32.28118,71.8081,Combined,Punjab,2,2,1046,876
+164,Government Boys Primay School-  Khaney Khail Utara,32.2866468,72.2743301,Male,Punjab,2,0,1223,0
+165,Government Boys Primay School-  Khaney Khail Utara,32.2866468,72.2743601,Female,Punjab,0,2,0,991
+121,Government BoysPrimary  School- Chab.,32.2866468,72.2743901,Combined,Punjab,2,2,828,751
+122,Government Boys Primary School-  Dhairi.,32.2866468,72.2744201,Combined,Punjab,1,1,339,341
+123,Government Boys Primary School-  Dhaman.,32.2866468,72.2744501,Combined,Punjab,1,1,561,515
+125,Government Boys Primary School-  Kochara.,32.2866468,72.2744801,Combined,Punjab,1,1,618,599
+86,Government Girls Elementary School-  Dhaak.,32.2867058,72.2743356,Combined,Punjab,2,2,949,825
+77,Government Girls Primary School-  Bansi.,32.2867058,72.2743656,Combined,Punjab,1,1,307,284
+78,Government Boys Primary School-  Balwal.,32.2867058,72.2743956,Combined,Punjab,1,1,401,312
+156,Government Boys Elementary School-  Ameerwala (Primary Portion).,32.2890484,72.274797,Combined,Punjab,1,1,473,422
+168,Government Boys Primay School-  Thatianwala.,32.29151,71.92115,Combined,Punjab,1,1,220,176
+169,Government Girls Primary School-  Kalunwala- Utara.,32.29152,71.92106,Combined,Punjab,1,1,660,504
+133,Government Boys Primary School-  Pidranwala.,32.3064724,72.0107963,Combined,Punjab,1,1,309,233
+180,Civil Dispencary-  Utara.,32.30687,73.01966,Combined,Punjab,1,1,397,332
+167,Government Boys Primary School-  Jhanday Khail Utara,32.31319,71.95585,Combined,Punjab,2,2,949,760
+176,Government Boys Elementary School-  Mohallahh Zail Dar- Utara. (East),32.31479,71.89888,Combined,Punjab,2,2,839,684
+177,Government Boys Elementary School-  Mohallah Zail Dar- Utara. (West),32.31479,71.89891,Combined,Punjab,2,2,944,812
+179,Government Girls Elementary School-  Utara.,32.31616,71.90305,Combined,Punjab,1,1,388,375
+174,Government Boys High School-  Shahwala Utra.,32.31627,71.90753,Combined,Punjab,2,2,913,768
+163,Government Boys Elementary School-  Chak No. 05/TDA.,32.31796,71.94383,Combined,Punjab,1,1,486,366
+178,Government Boys Primary School-  Habib Khailanwali- Near Tanga Adda-  Utara.,32.32032,71.90315,Combined,Punjab,1,1,448,407
+166,Union Council Office-  Utara.,32.32274,71.90785,Combined,Punjab,2,2,969,794
+162,Government Girls Primary School-  Chak No.5/TDA.,32.3231,71.94458,Combined,Punjab,1,1,487,426
+151,Government Boys High School- Gunjial.,32.32325,71.90588,Combined,Punjab,2,2,811,741
+152,Government Girls Primary School- Ameerwala (East),32.32355,71.89153,Male,Punjab,2,0,1152,0
+148,Government Girls High School- Gunjial (High Portion),32.32514,71.91759,Combined,Punjab,1,1,381,277
+149,Government Grils High School- Gunjial (Primary Portion),32.32514,71.91762,Combined,Punjab,1,1,477,404
+150,Government Girls Primary School-  Gunjial.,32.3252,71.9066,Combined,Punjab,1,1,607,529
+147,Government Boys Elementary School-  Gunjial-I.,32.3252,71.91752,Combined,Punjab,1,1,808,707
+154,Government Boys Elementary School-  Ameerwala (Middle Portion).,32.32664,71.89124,Combined,Punjab,1,1,726,608
+153,Government Girls Primary School-  Ameerwala (West),32.32865,71.89864,Female,Punjab,0,2,0,984
+160,Basic Health Unit-  Shumar.,32.33278,71.84191,Combined,Punjab,1,1,726,650
+158,Government Boys Primary School-  Dera Noray Khail- Shumar.,32.33281,71.85553,Combined,Punjab,1,1,579,462
+159,Government Boys Elementary School-  Shumar,32.33371,71.84641,Combined,Punjab,2,2,913,836
+155,Government Girls Primary School-  Shumar.,32.33478,71.84392,Combined,Punjab,2,2,991,866
+226,Governament Boys Primary School-  Railway Station-  Quaidabad.,32.335,71.90456,Combined,Punjab,1,1,403,346
+225,Governament Girls Primary School-  Railway Station-  Quaidabad.,32.33536629972082,71.89842515974343,Combined,Punjab,1,1,461,378
+224,Government Boys Primary School-  Labour Colony-  Quaidabad.,32.337066382621536,71.87574748120988,Female,Punjab,0,2,0,803
+227,Government Girls Higher Secondry School- Quaidabad (East).,32.33743600383142,71.88563151722471,Male,Punjab,2,0,1271,0
+229,Government Girls Higher Secondary School- Quaidabad (West).,32.33744056670852,71.88557966013866,Male,Punjab,2,0,915,0
+230,Government Girls Higher Secondary School- Quaidabad (East).,32.33907,71.8782,Female,Punjab,0,2,0,864
+223,Government Boys High School- Quaidabad (South).,32.340012101367854,71.87734520332927,Male,Punjab,2,0,899,0
+221,Government Boys High School-  Quaidabad- (West).,32.340051961105544,71.87732950255001,Female,Punjab,0,3,0,1426
+222,Government Boys High School-  Quaidabad- (East).,32.3400601494259,71.87729478876322,Male,Punjab,3,0,1548,0
+228,Government Boys Elementry School Quiadabad,32.3400601494259,71.8773247887632,Female,Punjab,0,2,0,1264
+211,Government Girls Primary School-  Chussu.,32.34957,72.01759,Female,Punjab,0,2,0,748
+210,Government Boys Elementary School-  Chussu.,32.34975,72.02242,Male,Punjab,2,0,881,0
+134,Government Boys Primary School-  Dera Haji Muhammad Aslam  Bharoon Bandial Shumali (East).,32.35098,71.82748,Combined,Punjab,1,1,812,679
+135,Government Boys Primary School-  Bharokianwala Bandial Shumali.,32.35098,71.82751,Combined,Punjab,1,1,587,513
+136,Government Boys Primary School-  Muhammad Khailanwala Bandial Janubi.,32.35098,71.82754,Combined,Punjab,1,1,345,289
+143,Government Boys Primary School-  Mehro,32.35098,71.82757,Combined,Punjab,1,1,615,449
+144,Government Boys Elementry School-  Jajha.,32.35098,71.8276,Combined,Punjab,1,1,633,499
+142,Basic Health Unit-  Bandial.,32.35149854921901,71.82021039026185,Combined,Punjab,1,1,771,600
+140,Government Boys Higher Secondary School-  Bandial (High Portion).,32.35222788005138,71.82025056426741,Combined,Punjab,1,1,756,621
+137,Govt girls secondary school Bandial.,32.35323,71.82162,Combined,Punjab,1,1,665,501
+139,Govt girls secondary school Bandial.,32.35323,71.82165,Combined,Punjab,1,1,274,227
+141,Government Boys Higher Secondary School-  Bandial (Primary Portion).,32.353658453835834,71.82245146944273,Combined,Punjab,1,1,664,556
+138,Union Council Office-  Bandial,32.35367352901626,71.82644469525718,Combined,Punjab,1,1,644,605
+145,Canal Rest House-  Gunjial (East).,32.35509,71.93715,Combined,Punjab,1,1,449,329
+146,Canal Rest House-  Gunjial (West).,32.35509,71.93718,Combined,Punjab,2,2,1078,873
+161,Government Boys Elementary School-  Canal Colony Gunjial.,32.35636,71.93066,Combined,Punjab,1,1,352,281
+157,Government Boys Primary School-  Dhudianwali Dera Khane Khel.,32.35817,71.90525,Combined,Punjab,1,1,527,435
+198,Governament Boys Primary School-  Ghati.,32.3614,72.04725,Combined,Punjab,1,1,507,383
+218,Government Boys Elementry School-  Warcha.,32.38264,71.93481,Combined,Punjab,1,1,284,247
+219,Government Boys Elementary School-  Warcha (Primary Portion).,32.38264,71.93484,Male,Punjab,2,0,1541,0
+190,Government Boys High School- Choha (Middle Portion).,32.39383,72.02812,Combined,Punjab,1,1,509,418
+191,Government Girls Middle School- Choha.,32.39383,72.02815,Combined,Punjab,1,1,718,658
+193,Government Girls Elementary School-  Choha.,32.39383,72.02818,Combined,Punjab,1,1,352,343
+194,Government Boys High School- Choha (Primary Portion).,32.39383,72.02821,Combined,Punjab,2,2,828,762
+197,Government Girls Primary School-  Dhokri,32.39547,72.06617,Combined,Punjab,2,2,996,963
+195,Government Boys Primary School-  Dhokri Old.,32.39816,72.03445,Combined,Punjab,1,1,662,625
+196,Government Boys Elementary School-  Dhokri New.,32.39816,72.03448,Combined,Punjab,1,1,704,602
+212,Government Girls Elementary School-  Warcha City.,32.40572,71.97512,Combined,Punjab,1,1,436,340
+220,Government Boys Elementary School-  Warcha (Middle Portion),32.40842,71.97659,Female,Punjab,0,2,0,1319
+192,Government Boys Primary School-  Darbar Sharif Choha-,32.40882,71.97688,Combined,Punjab,1,1,718,569
+217,Basic Health Center-  Warcha.,32.41482,71.96333,Combined,Punjab,1,1,561,499
+209,Government Girls Primary School-  Bhan Sultan Wala (Primary Portion),32.42047,71.85471,Female,Punjab,0,2,0,806
+207,Government Boys Primary School-  Gulbaig Wala Gole Wali (West),32.42047,71.85474,Combined,Punjab,1,1,563,400
+87,Government Boys Elementary School-  Dhaak.,32.42384,72.54562,Combined,Punjab,1,1,625,586
+88,Government Boys Primary School-  Dhak Janjua.,32.42384,72.54565,Combined,Punjab,1,1,444,412
+214,Government Boys High School-  Rukhla Mandi (High Portion),32.43505,71.94864,Combined,Punjab,1,1,705,574
+215,Government Boys High School-  Rukhla Mandi (Middle Portion).,32.43588,71.94865,Combined,Punjab,1,1,321,285
+213,Government Girls High School-  (PMDC) Warcha Mandi.,32.43633,71.94913,Combined,Punjab,1,1,638,616
+216,Government Boys Primay School-  Salt Mines Warcha.,32.44099,71.95124,Combined,Punjab,1,1,573,500
+199,Government Boys Primary School-  Fatehpur.,32.4439,71.90166,Combined,Punjab,1,1,733,588
+205,Governament Boys High School- Bhan Sultan Wala (Primary Portion),32.44865,71.84861,Combined,Punjab,1,1,490,462
+208,Government Boys High School-  Bhan Sultanwala (High Portion).,32.44865,71.84864,Male,Punjab,2,0,1034,0
+200,Government Boys Middle School-  Ahemdal.,32.45172,71.88042,Combined,Punjab,1,1,678,583
+206,Government Boys Primary School- Gulbaig Wala Gole Wali (East),32.46745,71.82709,Combined,Punjab,1,1,608,415
+204,Government Boys Primary School-  Bhan Shahnawaz Khail,32.47234,71.79131,Combined,Punjab,2,2,808,776
+106,Government Girls Elementary School-  Talokar.,32.4728493,72.495178,Combined,Punjab,2,2,837,680
+203,Government Boys Elementary School-  Bhan Bare Khail.,32.47541,71.81516,Combined,Punjab,2,2,920,715
+105,Government Boys High School- Talokar.,32.4777913,72.4913879,Combined,Punjab,1,1,533,454
+107,Government Girls Community Model School-  Kurar.,32.4777913,72.4914179,Combined,Punjab,1,1,518,497
+108,Government Boys Elementary School-  Kurar.,32.4878698,72.4738736,Combined,Punjab,2,2,988,932
+201,Government Girls Middle School-  Gole Wali.,32.48802,71.84618,Combined,Punjab,1,1,555,470
+202,Government Boys Primary School-  Golewali.,32.48817,71.84604,Combined,Punjab,1,1,513,460
+21,Government Girls Primary School-  Sodhi Bala.,32.48857,72.15791,Combined,Punjab,1,1,527,490
+22,Government Boys Elementary School-  Jhalar.,32.49814,72.08755,Combined,Punjab,1,1,687,698
+91,Government Boys Middle School-  Jaswal (Primary Portion).,32.50084,72.56632,Combined,Punjab,1,1,505,413
+189,Governament Boys Primary School-  Moharianwala.,32.50562,71.96162,Combined,Punjab,1,1,477,439
+188,Government Boys Elementary School-  Amb.,32.5058,71.94025,Combined,Punjab,1,1,608,533
+100,Office of the Agriculture Officer-  Katha Saghral,32.5099,72.44131,Combined,Punjab,2,2,981,872
+101,Government Girls High School-  Katha Saghral.,32.5099,72.44134,Combined,Punjab,1,1,559,494
+103,Government Boys Primary School-  Nawan Lok Katha Saghral.,32.5099,72.44137,Combined,Punjab,1,1,803,706
+104,Mother and Child Health Center (MCH)-  Katha Saghral.,32.5099,72.4414,Combined,Punjab,2,2,858,703
+98,Union Council Office-  Katha Saghral.,32.5099,72.44143,Combined,Punjab,1,1,450,374
+99,Government Boys Primary School- Shumali Adda- Katha Saghral.,32.5099,72.44146,Combined,Punjab,2,2,916,811
+102,Government Boys Higher Secondary School- Katha Saghral.,32.51659,72.43818,Combined,Punjab,1,1,589,538
+81,Government Girls Primary School-  Dhok Allah Buksh Diawal.,32.51933,72.52177,Combined,Punjab,2,2,940,745
+83,Government Boys High School- Daiwal (Middle Portion).,32.51972,72.53028,Combined,Punjab,1,1,612,542
+84,Government Boys High School- Daiwal (High Portion).,32.51972,72.53031,Combined,Punjab,1,1,378,329
+95,Government Girls Community Model School-  Katha Misral. (East),32.52378,72.42304,Combined,Punjab,1,1,506,443
+85,Government Girls Elementary School-  Daiwal.,32.52389,72.53833,Combined,Punjab,1,1,749,710
+82,Government Boys Primary School- Dera Burhan.,32.52556,72.53809,Combined,Punjab,1,1,797,741
+28,Government Boys High School-  Surraki No.I (High Portion),32.52562,72.1343,Combined,Punjab,1,1,463,470
+29,Government Boys High School- Surraki No.II (Middle Portion),32.52562,72.13433,Combined,Punjab,1,1,698,667
+27,Government Girls Elementry School-  Surakki.,32.52661,72.13717,Combined,Punjab,1,1,516,543
+187,Government Girls Primary School-  Sariay Miani.,32.52677,71.89197,Combined,Punjab,1,1,524,492
+89,Government Girls Middle School-  Jaswal.,32.52853,72.56604,Combined,Punjab,2,2,919,814
+92,Government Boys Primary School-  Mangwal.,32.52853,72.56607,Combined,Punjab,1,1,651,555
+30,Government Girls High School-  Khura (East),32.52875,72.21665,Combined,Punjab,1,1,900,794
+31,Government Girls High School-  Khura (North).,32.52875,72.21668,Combined,Punjab,1,1,730,657
+33,Government Girls High School-  Khura (West),32.52875,72.21671,Combined,Punjab,1,1,619,519
+35,Government Girls High School-  Khura (South),32.52875,72.21674,Combined,Punjab,1,1,649,533
+96,Government Boys Elementry School-  Katha Misral (West),32.53036,72.42361,Combined,Punjab,1,1,612,587
+97,Government Boys Middle School-  Katha Misral (Middle Portion).,32.53065,72.42355,Combined,Punjab,1,1,487,388
+90,Government Boys Middle School-  Jaswal. (Middle Portion),32.53084,72.56834,Combined,Punjab,1,1,521,454
+32,Government Boys High School-  Khura (High Portion),32.53281,72.22395,Combined,Punjab,1,1,334,260
+34,Government Boys High School-  Khura (Middle Portion),32.53281,72.22398,Combined,Punjab,1,1,564,522
+38,Government Boys High School-  Kuradhi.,32.5354,72.0554,Combined,Punjab,2,2,867,770
+39,Government Girls High School- Kuradhi.,32.53541,72.05656,Combined,Punjab,1,1,746,760
+94,Government Boys Primary No.2- Mangwal. (West),32.53629,72.56937,Female,Punjab,0,2,0,771
+14,Government Girls High School-  Uchali (High Portion),32.5368,72.02209,Combined,Punjab,1,1,733,728
+11,Government Girls Primary School-  Chontra Uchali.,32.53711,72.02088,Combined,Punjab,2,2,876,807
+93,Government Girls Primary School No.02-  Mangwal. (East),32.53717,72.57449,Male,Punjab,2,0,988,0
+15,Government Girls High School- Uchali (Middle Portion).,32.53832,72.01645,Combined,Punjab,2,2,727,683
+10,Government Boys Primary School- Dhook Mir Baz Khan Uchhali.,32.53832,72.01648,Combined,Punjab,2,2,1129,1023
+12,Government Boys Higher Secondary School- Uchali (High Portion),32.53902,72.016,Combined,Punjab,2,2,780,757
+13,Government Boys High School-  Uchali (Middle Portion).,32.53902,72.01603,Combined,Punjab,1,1,509,534
+24,Government Model Primary School No.01-  Mohallah Shahal Saddiqueabad.,32.54251,72.09513,Male,Punjab,2,0,937,0
+26,Government Girls High School-  Saddiqueabad.,32.54453,72.09276,Combined,Punjab,1,1,735,692
+25,Government Boys High School-  Saddiqueabad.,32.54773,72.10087,Combined,Punjab,1,1,697,686
+23,Government Boys Primary School-   Colony Saddiqueabad.,32.54885,72.09379,Female,Punjab,0,2,0,881
+67,Government Boys Primary School-  Khabeki (East).,32.54978,72.27156,Combined,Punjab,1,1,467,431
+66,Government Boys Primary School- Khabeki (West).,32.54978,72.27159,Combined,Punjab,1,1,533,466
+50,Government Girls Primary School-  Manawan.,32.55429,72.12988,Combined,Punjab,1,1,381,356
+48,Government Boys Elementary School-  Sabhral (Middle Portion).,32.55594,72.11679,Combined,Punjab,1,1,505,512
+47,Government Boys Elementary School-Sabhral. (Primary Portion),32.55594,72.11682,Combined,Punjab,1,1,685,633
+49,Government Model Primary School-  Adlial.,32.55774,72.1115,Combined,Punjab,1,1,381,374
+16,Government Boys Elementary School- Chitta.,32.55789,71.99853,Combined,Punjab,2,2,785,773
+19,Government Boys Primary School-  Dhaka.,32.56333105455103,72.16943600553476,Combined,Punjab,1,1,684,673
+72,Government Boys High School- Naushera.,32.563776898835336,72.14360179943455,Female,Punjab,0,2,0,1123
+68,Government Girls Degree College-  Naushera.,32.56406,72.15939,Combined,Punjab,2,2,825,826
+73,Government Modal Primary School-  Naushera,32.56406,72.15942,Male,Punjab,2,0,1115,0
+70,Government Girls Primary School-  Subey Wala Talab.,32.56558,72.1521,Female,Punjab,0,2,0,847
+18,Government Boys Elementary School-  Mustafabad Dhaka.,32.56587,72.22192,Combined,Punjab,1,1,697,738
+46,Office of the Harticulture Research Centre- Naushera,32.56663666813445,72.13962063774241,Combined,Punjab,1,1,537,552
+71,Office of the Harticulture Research Centre- Naushera.,32.56663666813445,72.1396506377424,Male,Punjab,2,0,1114,0
+75,Government Girls Higher Secondary School- Naushera (West).,32.569227406730825,72.15502207843441,Female,Punjab,0,2,0,1101
+76,Government Girls Higher Secondary School- Naushera (East).,32.56926536095542,72.15499482791193,Female,Punjab,0,3,0,1389
+79,Government Boys Primary School-  Dhok Parhal.,32.56974,72.50916,Combined,Punjab,1,1,453,405
+69,Government Commerce College-  Naushera.,32.57005,72.15237,Male,Punjab,2,0,798,0
+17,Government Boys Degree College-  Naushera.,32.57018,72.16994,Combined,Punjab,1,1,619,627
+80,Government Boys Primary School-  Dhok Meherwal.,32.57135,72.54997,Combined,Punjab,1,1,439,371
+74,Civil Hospital- Naushera,32.572343132617675,72.15648284984168,Male,Punjab,3,0,1308,0
+6,Government Girls High School-  Ugali.,32.57476,72.03645,Combined,Punjab,1,1,499,553
+5,Government Boys High School-  Ugali.,32.57855,72.03751,Combined,Punjab,1,1,581,593
+4,Government Girls Primary School-  Kotli.,32.58025,72.03793,Combined,Punjab,1,1,493,441
+20,Government Boys Higher Secondary  School-  Her-do-Sodhi.,32.58159,72.27042,Combined,Punjab,1,1,449,418
+51,Government Boys High School-  Sodhi Jay Wali (High Portion).,32.58159,72.27045,Combined,Punjab,1,1,627,638
+52,Government Boys High School-  Sodhi Jay Wali (Middle Portion).,32.58159,72.27048,Combined,Punjab,1,1,737,699
+7,Government Boys Elementary School-  Shakar Kot.,32.58215,72.11048,Combined,Punjab,1,1,347,341
+9,Government Boys Elementary School-  Shakar Kot (Primary Portion).,32.58215,72.11051,Combined,Punjab,2,2,825,824
+8,Government Girls Primary School-  Shakar Kot. (High Portion),32.58336,72.10322,Combined,Punjab,1,1,489,478
+109,Government Boys Primary School- Chanbal.,32.58577,72.39539,Combined,Punjab,1,1,434,437
+2,Government Girls High School-  Anga (Middle Portion).,32.59858,72.08582,Combined,Punjab,2,2,713,709
+3,Government Girls High School-  Anga (Primary Portion).,32.59858,72.08585,Combined,Punjab,2,2,671,649
+1,Government Boys High School-  Anga.,32.59937,72.08741,Combined,Punjab,2,2,743,736
+42,Government Boys Primary School- Mardwal,32.60267724028736,72.1638310160156,Male,Punjab,2,0,1178,0
+54,Government Boys Elementary School-  Uchalla.,32.60298,72.21765,Combined,Punjab,1,1,551,532
+44,Government Girls High School-  Mardwal. (High Portion),32.60417160740705,72.1602011757157,Male,Punjab,2,0,1064,0
+53,Government Girls Elementary School-  Uchalla,32.60473,72.21787,Combined,Punjab,1,1,439,426
+43,Government Boys Primary School-  Mehmood Masjid Mardwal.,32.60522,72.16664,Female,Punjab,0,2,0,1130
+45,Government Girls High School-  Mardwal (Middle Portion).,32.6064,72.16721,Female,Punjab,0,2,0,1037
+41,Government Boys High School- Mardwal (Middle Portion).,32.60881909537149,72.18193726033924,Combined,Punjab,2,2,788,764
+40,Government Boys High School- Mardwal (High Portion).,32.60885366692274,72.1820334158533,Combined,Punjab,1,1,531,518
+62,Governament Boys Primary School-  Ahmedabad,32.61576253941213,72.28266779314824,Combined,Punjab,1,1,644,624
+63,Government Boys High School- Khabeki.,32.617140987434055,72.24492818742084,Combined,Punjab,1,1,543,559
+64,Government Girls High School-  Khabeki.,32.617297991994285,72.24516984085727,Combined,Punjab,1,1,687,680
+61,Government Boys Elementary School-  Jaba.,32.62147478741213,72.36644496317653,Combined,Punjab,1,1,706,657
+65,Basic Health Unit-  Khabeki,32.6219,72.2141,Combined,Punjab,1,1,870,846
+60,Government Girls High School-  Jaba (West).,32.62199,72.36746,Combined,Punjab,1,1,651,565
+56,Government Boys Elementary School-  Dhadhar (Primary Portion).,32.62439,72.18382,Female,Punjab,0,2,0,1085
+57,Government Boys Elementary School-  Dhadhar (Middle Portion).,32.62489,72.18493,Male,Punjab,2,0,1112,0
+55,Government Girls Elementary School-  Dhadhar.,32.62489,72.18496,Combined,Punjab,1,1,841,784
+59,Government Girls Primary School-  Jaba (East),32.62625,72.37107,Combined,Punjab,1,1,566,531
+58,Government Girls Primary School-  Makroomi.,32.62863,72.19418,Combined,Punjab,1,1,522,519
+112,Government Girls High School-  Pail (East).,32.6333,72.46065,Combined,Punjab,1,1,629,597
+113,Government Girls High School-  Pail (West).,32.6334,72.46021,Combined,Punjab,1,1,590,524
+111,Government Boys Primary School- No. .2-  Pail.,32.63363,72.46022,Combined,Punjab,2,2,799,771
+114,Government Boys Elementary School No.1-  Pail.,32.63486,72.45866,Combined,Punjab,1,1,594,587
+110,Government Boys High School-  Pail.,32.63505,72.45842,Combined,Punjab,1,1,737,672
+119,Rural Health Center- Padhrar. (West),32.65469,72.49146,Combined,Punjab,1,1,429,445
+124,Government Girls Primary School-  Kadhar.,32.65517,72.47609,Combined,Punjab,1,1,289,281
+116,Government Girls High School-  Padhrar.,32.6558,72.49091,Female,Punjab,0,2,0,944
+117,Government Boys Primary School No.01-  Padhrar.,32.65632,72.49625,Combined,Punjab,1,1,657,697
+120,Rural Health Center-  Padhrar. (East),32.65781,72.49185,Combined,Punjab,2,2,863,844
+115,Government Boys High School- Padhrar (Middle Portion).,32.6585,72.49319,Male,Punjab,2,0,973,0
+118,Government Boys High School-  Padhrar. (High Portion),32.6585,72.49322,Combined,Punjab,1,1,582,538
+36,Government Boys Elementary School-  Kalyal.,33.53047,73.05086,Combined,Punjab,2,2,1035,931
+37,Government Girls Middle School-  Kalyal.,33.53047,73.05089,Combined,Punjab,1,1,493,437

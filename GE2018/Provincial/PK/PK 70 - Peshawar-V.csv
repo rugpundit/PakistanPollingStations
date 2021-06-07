@@ -1,0 +1,69 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+79,GPS  Garhi Chandan Bala (Combined),33.8271,71.70399,Combined,KPK,1,1,430,360
+67,GHS Maryamzai (Male) PS-I (P),33.82853,71.59293,Male,KPK,4,0,1507,0
+68,GHS Maryamzai (Male) PS-II (P),33.82853,71.59296,Male,KPK,4,0,1769,0
+69,GHS Maryamzai (Male) PS-III (P),33.82853,71.59299,Male,KPK,4,0,1853,0
+70,GGPS No.3 Bahar Ghari (Female),33.82925,71.58864,Female,KPK,0,4,0,1627
+71,GPS No.3 Maryam Zai  (Female),33.83317,71.58995,Female,KPK,0,4,0,2214
+78,GGPS  Garhi Chandan Miana (Female),33.8481,71.70143,Female,KPK,0,2,0,729
+27,GPS Garhi Faizullah No. 2 (Female),33.86687,71.72042,Female,KPK,0,4,0,1512
+75,GHS Garhi Chandan Payan (Male) PS-1,33.86893,71.68885,Male,KPK,3,0,984,0
+76,GHS Garhi Chandan Payan (Male) PS-2,33.86893,71.68888,Male,KPK,4,0,1258,0
+77,GGPS Garhi Chandan Payan (Female),33.86985,71.68955,Female,KPK,0,3,0,1148
+45,GPS Ghari Muhammad Hassan Telaband (Female),33.8757,71.634,Female,KPK,0,3,0,1229
+40,GHS Tela Band Inzary (Male) PS-I,33.88289,71.64439,Male,KPK,4,0,1622,0
+41,GHS  Tela Band Inzary (Male) PS-II,33.88289,71.64442,Male,KPK,4,0,1372,0
+44,GGPS Yousaf Abad- Telaband- Peshawar (Female),33.88392,71.66046,Female,KPK,0,3,0,1100
+19,GPS Ghari Niaz Badshah Dr. Qilla (Combined),33.89682,71.67472,Combined,KPK,2,1,667,434
+23,GPS No.1 Garhi Faizullah (Male),33.89984,71.69827,Male,KPK,4,0,1246,0
+61,GG Community MS Shah Muhammad Qilla Telaband Road (Male),33.90152,71.57694,Male,KPK,4,0,1965,0
+51,GPS Libas Khan Korona Lalma Badaber (Male),33.90611,71.58617,Male,KPK,3,0,1145,0
+18,GPS Garhi Fazli Rahim (Female),33.91271,71.64604,Female,KPK,0,2,0,591
+57,GPS No.4 Badshah Khel Badhber Hurizai (Male) (P),33.91554,71.56239,Male,KPK,3,0,1183,0
+56,GPS No.3 Badhber Hurizai (Male) (P),33.91809,71.55601,Male,KPK,3,0,1227,0
+47,GGPS Badhber Maryam Zai (Old GHS Building) Kohat Road Opp. GHS (Male) PS-1,33.91875,71.55862,Male,KPK,4,0,1535,0
+48,GGPS Badhber Maryam Zai (Old GHS Building) Kohat Road Opp. GHS (Male) PS-2,33.91875,71.55865,Male,KPK,4,0,1498,0
+73,GPS Garhi Baghbanan (Male) PS-1,33.9194,71.68626,Male,KPK,4,0,1875,0
+74,GPS Garhi Baghbanan (Male) PS-2,33.9194,71.68629,Male,KPK,3,0,938,0
+64,GGHS Khwada Khel Badaber Hurizai (Female) PS-1,33.91959,71.56085,Female,KPK,0,3,0,1296
+65,GGHS Khwada Khel Badaber Hurizai (Female) PS-2,33.91959,71.56088,Female,KPK,0,3,0,1221
+59,GPS No.2 Badhber (P)(Male) PS-1,33.92111,71.56843,Male,KPK,3,0,1037,0
+60,GPS No.2 Badhber (P)(Male) PS-2,33.92111,71.56846,Male,KPK,4,0,1286,0
+52,GGHSS Badhber Kohat Road (Female) PS-I (P),33.92475,71.55606,Female,KPK,0,4,0,1705
+53,GGHSS Badhber Kohat Road (Female) PS-II (P),33.92475,71.55609,Female,KPK,0,4,0,1383
+54,GGHSS Badhber Kohat Road (Female) PS-III (P),33.92475,71.55612,Female,KPK,0,4,0,1638
+55,GGPS Razim Khan Koruna Badaber Dehri (Female),33.92559,71.57334,Female,KPK,0,2,0,714
+46,GMPS Badhber No.1 Kohat Road (Male),33.92762,71.55679,Male,KPK,4,0,1325,0
+49,GHS Badhber Kohat Road (Male) (P) PS-1,33.92846,71.55671,Male,KPK,4,0,1548,0
+50,GHS Badhber Kohat Road (Male) (P) PS-2,33.92846,71.55674,Male,KPK,3,0,1016,0
+72,GGPS Garhi Baghbanan Saifoor Koruna (Female),33.94164,71.6755,Female,KPK,0,4,0,2069
+16,GGPS Garhi Wajid (Female),33.94955,71.64201,Female,KPK,0,4,0,1457
+21,GPS Urmar Bala No.2 (Male) PS-1,33.95104,71.67719,Male,KPK,3,0,1106,0
+22,GPS Urmar Bala No.2 (Male) PS-2,33.95104,71.67722,Male,KPK,4,0,1487,0
+39,GPS Surizai Bala (Male),33.9523,71.5912,Male,KPK,4,0,1479,0
+37,GHS Surizai Bala (Male) PS-I (P),33.95289,71.59053,Male,KPK,4,0,1365,0
+38,GHS Surizai Bala (Male) PS-II (P),33.95289,71.59056,Male,KPK,4,0,1578,0
+25,GPS No.1 Urmar Bala (Female) PS-I,33.9547,71.68328,Female,KPK,0,3,0,1420
+26,GPS No.1 Urmar Bala (Female) PS-II,33.9547,71.68331,Female,KPK,0,3,0,1445
+28,GHS Urmar Miana (Male) PS-1,33.95726,71.70873,Male,KPK,4,0,1898,0
+29,GHS Urmar Miana (Male) PS-2,33.95726,71.70876,Male,KPK,4,0,1294,0
+30,GHS Urmar Miana (Male) PS-3,33.95726,71.70879,Male,KPK,4,0,1657,0
+33,GPS Urmar Miana No.1 (Female) PS-1,33.95753,71.70909,Female,KPK,0,4,0,2083
+34,GPS Urmar Miana No.1 (Female) PS-2,33.95753,71.70912,Female,KPK,0,4,0,1650
+15,GGMS Garhi Sarfaraz (Female),33.96032,71.65356,Female,KPK,0,2,0,906
+4,GHS Surizi Payan (Male),33.96072,71.6096,Male,KPK,4,0,1364,0
+3,GMS/GPS No.2 Surizay Payan (Male) (P),33.96135,71.60815,Male,KPK,4,0,1813,0
+8,GPS Garhi Banat (Male),33.9615,71.63841,Male,KPK,4,0,2008,0
+10,GGPS No.1 Surizai Payan (Female),33.96183,71.60622,Female,KPK,0,3,0,1151
+31,GGPS Urmar Miana No.1 (Male) PS-I,33.96236,71.71365,Male,KPK,4,0,1875,0
+32,GGPS Urmar Miana No.1 (Male) PS-II,33.96236,71.71368,Male,KPK,4,0,1896,0
+35,GGPS Urmar Miana No.1 (Female) PS-1,33.96236,71.71371,Female,KPK,0,3,0,1404
+36,GGPS Urmar Miana No.1 (Female) PS-2,33.96236,71.71374,Female,KPK,0,3,0,1368
+5,GGPS No.3 Surizi Payan (Male),33.96388,71.61354,Male,KPK,3,0,842,0
+1,GPS Surizai Payan No.1 (Male) (P) PS-1,33.96496,71.60549,Male,KPK,4,0,1662,0
+2,GPS Surizai Payan No.1 (Male) (P) PS-2,33.96496,71.60552,Male,KPK,3,0,1004,0
+14,GGP Community MS Garhi Syed Jalal Mera Surizai Payan (Female),33.96509,71.65816,Female,KPK,0,3,0,1214
+12,GGHS Surizai Payan (Female) PS-II,33.96522,71.61034,Female,KPK,0,4,0,1421
+7,GHS Garhi Ghulam Shah PS-I (Male),33.96926,71.65397,Male,KPK,4,0,1564,0
+6,GPS Gharib Abad (Male),33.97258,71.62726,Male,KPK,4,0,2029,0
+13,G Community MS Gharib Abad (Female),33.97968,71.63453,Female,KPK,0,3,0,1259

@@ -1,0 +1,101 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+1,KPT School Zafar Hussain,24.79773,66.97136,Combined,Sindh,2,1,827,633
+2,KPT School Zafar Hussain,24.79773,66.97139,Combined,Sindh,2,1,782,510
+25,GBSS Sualehabad,24.8049,66.96587,Combined,Sindh,2,1,770,682
+18,GBSS Pir Muhammad Bhitt Island,24.80847,66.97189,Combined,Sindh,1,1,721,570
+19,GBSS Pir Muhammad- Bhitt Island,24.80847,66.97192,Combined,Sindh,2,1,839,691
+20,GBSS Pir Muhammad Bhitt Island,24.80847,66.97195,Combined,Sindh,1,1,407,302
+59,Pak American Grammar School,24.82035,67.00196,Female,Sindh,0,2,0,936
+52,Darkshan Sec. School,24.82035,67.00559,Combined,Sindh,2,1,864,516
+53,Darkshan Sec.School,24.82035,67.00562,Combined,Sindh,2,1,991,425
+54,Darkshan Pry. School,24.82035,67.00565,Combined,Sindh,1,2,771,725
+56,Kainat Public School,24.82035,67.00568,Combined,Sindh,2,2,1313,750
+57,Kainat Public School,24.82035,67.00571,Combined,Sindh,2,1,697,361
+58,Oxford Learning Grammar School,24.82037,67.00135,Male,Sindh,3,0,1436,0
+48,Peace Children Academy,24.82074,66.9998,Combined,Sindh,2,2,828,805
+66,Zam Zam Sec. School,24.82092,66.99464,Female,Sindh,0,3,0,1231
+65,Innovative Sec. School Campus-1,24.82107,66.99951,Male,Sindh,3,0,1463,0
+103,Royal Angels School R.G. Colony,24.8213,66.98074,Combined,Sindh,2,1,1094,427
+91,Iqra Public School,24.82133,66.98334,Female,Sindh,0,3,0,1427
+86,GBPS Quba Charnal Road (Combined),24.82165,66.99154,Combined,Sindh,2,2,842,771
+97,Secard Heart Public School,24.82174,66.98059,Combined,Sindh,2,1,774,731
+101,GBPS Mullah Islamia,24.82188,66.9801,Male,Sindh,3,0,1434,0
+79,New Horizone Public Sec.School,24.82193,66.98894,Female,Sindh,0,3,0,1472
+83,Rose Heaven Public Sec.School,24.82193,66.98897,Combined,Sindh,2,1,839,657
+85,City Grammar School,24.82217,66.98721,Female,Sindh,0,2,0,1110
+84,Zeeshan Rajput Grammar School,24.82218,66.98729,Combined,Sindh,2,1,945,558
+49,KPT Boys Secondary School,24.82219,66.98566,Male,Sindh,2,0,1338,0
+50,KPT Boys Secondary School,24.82219,66.98569,Male,Sindh,2,0,1011,0
+51,KPT Boys Secondary School,24.82219,66.98572,Female,Sindh,0,3,0,1417
+87,New Al Hamza Public School Charnal Road,24.82219,66.99489,Male,Sindh,3,0,1678,0
+88,Marine Secondary School- Charnal Road,24.82219,66.99492,Combined,Sindh,2,1,1187,460
+89,New Al Hamza Secondary School Charnal Road (Combined),24.82219,66.99495,Combined,Sindh,2,2,1022,651
+90,New Al-Hamza Public School Charnal Road,24.82219,66.99498,Female,Sindh,0,3,0,1368
+30,BHU Dispensary Baba Island,24.82235,66.96143,Female,Sindh,0,2,0,987
+55,Al-Kausar Public School,24.8227,67.0013,Combined,Sindh,1,1,747,405
+26,GBSS K.B. Ghulam Nabi,24.82271,66.96083,Combined,Sindh,1,1,627,506
+27,GBSS K.B. Ghulam Nabi,24.82271,66.96086,Male,Sindh,2,0,1222,0
+29,GBSS K.B. Ghulam Nabi,24.82271,66.96089,Female,Sindh,0,2,0,1006
+63,GBPS Mullah Patel,24.82278,66.99638,Combined,Sindh,2,1,892,557
+64,GBPS Mullah Patel,24.82278,66.99641,Combined,Sindh,2,1,935,404
+78,Pak Islamic Academy,24.82296,66.98799,Female,Sindh,0,3,0,1347
+74,Daffodil Sec. School,24.82317,66.98901,Male,Sindh,3,0,1598,0
+75,Daffodil Sec. School,24.82317,66.98904,Male,Sindh,2,0,1308,0
+107,Harbour Public School Pvt.,24.82319,66.98502,Combined,Sindh,1,1,700,498
+108,Harbour Public School Pvt.,24.82319,66.98505,Female,Sindh,0,2,0,1114
+70,Innovative Sec.School Campus-II,24.82334,66.99953,Combined,Sindh,1,2,415,939
+80,New Rose Heaven School (Shams Medical),24.82341,66.989,Male,Sindh,2,0,1402,0
+100,Jackson Public School,24.82347,66.97852,Male,Sindh,2,0,1145,0
+104,GBSS Keamari Jackson Bazaar,24.82357,66.97963,Female,Sindh,0,4,0,1495
+68,Saleem Public School,24.82368,66.99416,Combined,Sindh,1,3,376,1297
+92,Keamari Model School,24.82378,66.98521,Female,Sindh,0,3,0,1352
+72,GBPS Bhutta Village Zarobi Colony near Padar Ground,24.82383,66.99638,Male,Sindh,3,0,1383,0
+73,GBPS Bhutta Village Zarobi Colony near Padar Ground,24.82383,66.99641,Male,Sindh,4,0,1417,0
+109,Pak Hills High School Combined,24.82396,66.98533,Combined,Sindh,2,1,859,511
+69,KT-01 CDGK Bhutta Village,24.8241,66.99625,Male,Sindh,2,0,1220,0
+106,Unique Public School,24.82411,66.98298,Male,Sindh,3,0,1654,0
+102,GBPS Keamari No.2,24.82421,66.97926,Male,Sindh,4,0,1431,0
+98,GBPS Hatim Ali Alvi Keamari,24.82421,66.97929,Combined,Sindh,1,2,589,862
+76,Moon Light Academy,24.82433,66.9908,Male,Sindh,2,0,1285,0
+77,Shabbir Grammar School- Yaqoob Chowk,24.82433,66.99083,Female,Sindh,0,3,0,1411
+82,Shabbir Grammar School- Katchi Miyana Masjid,24.82433,66.99086,Male,Sindh,3,0,1472,0
+93,Fairy Land School-IV,24.82469,66.98223,Male,Sindh,2,0,1001,0
+94,Fairy Land School-IV,24.82469,66.98226,Male,Sindh,3,0,1344,0
+95,Fairy Land School-1 Jackson Bazaar,24.82469,66.98229,Male,Sindh,2,0,1177,0
+67,KBAH Mama School Okhai Cl,24.82495,66.99594,Male,Sindh,4,0,1588,0
+81,Al-Shafaq Grammar School,24.82498,66.99266,Combined,Sindh,2,1,1248,289
+60,Scholars Academy School,24.82629,66.99861,Combined,Sindh,2,1,782,454
+99,Govt Degree Collage- Jungle Shah- Keamari,24.8265,66.9826,Female,Sindh,0,4,0,1928
+105,TCF School- Keamari near Fire Brigade Station,24.82819,66.98129,Combined,Sindh,2,1,752,449
+21,GBSS Shams Pir,24.84173,66.91799,Male,Sindh,3,0,1313,0
+22,GBSS Shams Pir,24.84173,66.91802,Female,Sindh,0,2,0,1032
+31,Pakistan Boys Scout Building Ameen House near Dispensary Sultanabad,24.84214,67.0162,Male,Sindh,3,0,1480,0
+44,Pakistan Boys Scout Building Ameen House near Dispensary Sultanabad,24.84214,67.01623,Male,Sindh,3,0,1282,0
+45,Pakistan Boys Scout Building Ameen House near Dispensary Sultanabad,24.84214,67.01626,Combined,Sindh,2,1,875,537
+35,GBSS M.A.O. Sultanabad,24.84241,67.01437,Combined,Sindh,2,1,1066,409
+36,GBSS M.A.O. Sultanabad,24.84241,67.0144,Combined,Sindh,3,1,1326,278
+33,GGSS Intelligence Colony Sultanabad,24.84292,67.01511,Male,Sindh,2,0,1036,0
+34,GGSS Intelligence Colony- Sultanabad,24.84292,67.01514,Female,Sindh,0,2,0,1000
+38,GGSS Intelligence Colony,24.84292,67.01517,Combined,Sindh,2,1,826,551
+39,GGSS Intelligence Colony,24.84292,67.0152,Combined,Sindh,2,1,920,247
+40,GGSS Intelligence Colony,24.84292,67.01523,Combined,Sindh,1,1,456,606
+32,Habib Public School- Sultanabad,24.84402,67.02072,Female,Sindh,0,2,0,1053
+41,Habib Public School Sultanabad,24.84402,67.02075,Male,Sindh,3,0,1298,0
+42,Habib Public School Sultanabad,24.84402,67.02078,Male,Sindh,3,0,1386,0
+43,Habib Public School Sultanabad,24.84402,67.02081,Female,Sindh,0,3,0,1405
+23,GBSS Younusabad Combined,24.85079,66.90684,Combined,Sindh,2,1,831,656
+24,GBSS Younusabad Combined,24.85079,66.90687,Combined,Sindh,2,1,683,553
+11,Hilal Public School- Siraji Chowk,24.85605,66.98149,Female,Sindh,0,3,0,1078
+6,GBSS Begum Hajra Mehmood Ali- Fazal Chowk,24.85605,66.98152,Female,Sindh,0,3,0,1085
+9,Hilal Public School- Siraji Chowk,24.85605,66.98155,Male,Sindh,3,0,1443,0
+10,Aisha School Campus No.2 Jadoon Chowk,24.85738,66.98311,Male,Sindh,3,0,1313,0
+8,GBPS Begum Hajra- Mehmood Ali- Shah Jalal Street,24.85851,66.98106,Combined,Sindh,2,1,868,383
+5,Kids Academy School Bilal Masjid Saeed Hussain Street,24.85903,66.97997,Male,Sindh,2,0,1074,0
+3,TCF School Rakla Campus-3,24.85969,66.97672,Combined,Sindh,2,1,829,509
+7,Millat Islamia School,24.861,66.98133,Combined,Sindh,2,1,1115,594
+4,TCF School No.1- Mandra Mohalla,24.8611,66.97976,Male,Sindh,3,0,1492,0
+16,GBSS Begum Hajra Mehmood Ali- Fazal Chowk,24.86248,66.98045,Female,Sindh,0,2,0,1037
+15,Aisha School Campus No.1- Murree Chowk,24.86377,66.98203,Male,Sindh,3,0,1480,0
+12,Star World School- Baba Mira Road,24.86472,66.98003,Male,Sindh,3,0,1437,0
+13,Star World School- Baba Mira Road,24.86472,66.98006,Male,Sindh,3,0,1428,0
+14,GBPS Noorani Bangali Para,24.86591,66.98293,Female,Sindh,0,2,0,1111

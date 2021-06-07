@@ -1,0 +1,114 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+28,Govt. Boys Primary School- Tulas Pura (Male),31.5831,74.4602,Male,Punjab,4,0,1413,0
+29,Govt. Boys Primary School- Tulas Pura (Female),31.5831,74.46023,Female,Punjab,0,3,0,1138
+107,Govt. Girls Primary School-Sultan Pura (Combined),31.58541,74.50793,Combined,Punjab,2,2,782,560
+108,Govt. Girls Primary School- Muhammad Baksh- Ghugain Sultan Pura (Combined),31.58541,74.50796,Combined,Punjab,2,2,752,585
+109,Govt. Girls Primary School- Muhammad Baksh- Ghugain Sultan Pura (Combined),31.58541,74.50799,Combined,Punjab,2,1,661,457
+110,Govt. Girls Primary School- Muhammad Baksh- Ghugain Sultan Pura (Combined),31.58541,74.50802,Combined,Punjab,2,2,708,543
+24,Govt. Boys Primary School-Kot Duni Chan (Male),31.58715,74.44905,Male,Punjab,4,0,1196,0
+26,Govt. Boys Primary School-Kot Duni Chan (Male),31.58715,74.44908,Male,Punjab,4,0,1547,0
+21,Govt. Girls Primary School-Adda Chhabil (Jhugian Mozang) (Combined),31.58887,74.44267,Combined,Punjab,2,1,587,422
+22,Govt. Girls Primary School-Adda Chhabil (Jhugian Mozang) (Combined),31.58887,74.4427,Combined,Punjab,2,2,981,747
+35,Govt. Primary School-Manawan (Male),31.58932,74.48129,Male,Punjab,4,0,1604,0
+36,Govt. Primary School-Manawan (Female),31.58932,74.48132,Female,Punjab,0,4,0,1162
+30,Govt. Middle Community School- Manawan (Combined),31.58955,74.47491,Combined,Punjab,2,2,936,660
+31,Govt. Middle Community School- Manawan (Combined),31.58955,74.47494,Combined,Punjab,2,2,921,675
+37,Govt. Girls Middle School-Manawan (Combiled),31.58955,74.47497,Combined,Punjab,1,1,354,276
+32,Health Center-Manawan (Combined),31.58993,74.48096,Combined,Punjab,2,2,794,570
+25,Pakistan Public High School Kot Dhoni Chand,31.59047,74.44881,Female,Punjab,0,3,0,891
+95,Govt. Boys Higher Secondary School Al Maroof Jallo More)-Dograi Kalan (Male),31.59184,74.50025,Male,Punjab,3,0,976,0
+96,Govt. Boys Higher Secondary School Al Maroof Jallo More)l-Dograi Kalan (Female),31.59184,74.50028,Female,Punjab,0,2,0,691
+98,Govt. Boys Higher Secondary School (Al Maroof Jallo More)-  Dograi Kalan (Combined),31.59184,74.50031,Combined,Punjab,2,1,752,530
+17,Fisheries Farm Complex- Manawan Stop- Baghwali Puli,31.5928,74.46527,Male,Punjab,4,0,1681,0
+18,Fisheries Farm Complex- Manawan Stop- Baghwali Puli,31.5928,74.4653,Female,Punjab,0,3,0,1297
+45,Fisheries Farm Complex- Manawan Stop- Baghwali Puli,31.5928,74.46533,Combined,Punjab,2,2,937,738
+84,Govt. Girls High School- Batapur- Attoke Awan,31.59371,74.49415,Male,Punjab,4,0,1240,0
+85,Govt. Girls High School- Batapur- Attoke Awan,31.59371,74.49418,Female,Punjab,0,3,0,966
+89,Govt. Girls High School- Batapur- Attoke Awan,31.59371,74.49421,Male,Punjab,3,0,1002,0
+70,Govt. Girls Primary School Wara Gujjaran (Combined),31.59427,74.43516,Combined,Punjab,2,2,845,637
+33,Superior Group of Colleges Manawan(Combined),31.59456,74.47567,Combined,Punjab,2,2,708,545
+34,Superior Group of Colleges Manawan(Combined),31.59456,74.4757,Combined,Punjab,2,2,892,627
+27,The Educators School Manawan Campus,31.59468,74.48016,Female,Punjab,0,3,0,1107
+100,Govt. High School- Wagha (Combined),31.59478,74.5586,Combined,Punjab,3,1,957,610
+101,Govt. High School- Wagha (Combined),31.59478,74.55863,Combined,Punjab,2,1,774,513
+102,Govt. High School- Wagha (Combined),31.59478,74.55866,Combined,Punjab,2,1,622,380
+41,Govt. Girls High School- Ram Pura Jagir (Combined),31.5949,74.48594,Combined,Punjab,2,2,663,488
+42,Govt. Girls High School- Ram Pura Jagir (Combined),31.5949,74.48597,Combined,Punjab,2,2,1126,801
+43,Govt. Girls High School- Ram Pura Jagir (Combined),31.5949,74.486,Combined,Punjab,2,2,920,644
+44,Govt. Girls High School- Ram Pura Jagir (Combined),31.5949,74.48603,Combined,Punjab,2,2,758,616
+39,Govt. Primary School-Ram Pura  Jagir (Male),31.59515,74.48485,Male,Punjab,4,0,1172,0
+40,Govt. Primary School-Ram Pura  Jagir (Female),31.59515,74.48488,Female,Punjab,0,3,0,947
+46,Govt. Primary School-Ram Pura  Jagir  (Combined),31.59515,74.48491,Combined,Punjab,2,1,677,446
+47,Govt. Primary School-Ram Pura  Jagir  (Combined),31.59515,74.48494,Combined,Punjab,1,1,320,289
+92,Govt. Girls High Secondary School- Jallo Morre-Dograi Kalan  (Male),31.59533,74.49924,Male,Punjab,4,0,1258,0
+93,Govt. Girls High Secondary School- Jallo Morre-Dograi Kalan  (Female),31.59533,74.49927,Female,Punjab,0,2,0,898
+94,Govt. Girls High Secondary School- Jallo Morre-Dograi Kalan  (Combined),31.59533,74.4993,Combined,Punjab,2,2,889,732
+97,Govt.Girls Higher Secondary School (Al Maroof Jallo More)-Dograi Kalan (Combined),31.59533,74.49933,Combined,Punjab,2,2,1066,761
+90,Bait Ul Ilam School System,31.59664,74.49193,Female,Punjab,0,2,0,748
+38,Govt. Primary School- Gopal Pura (Combiled),31.59747,74.45948,Combined,Punjab,2,2,1142,922
+16,Pak Public School- Ahmad Town Road Lahore,31.59771,74.41241,Combined,Punjab,2,1,586,433
+82,Govt. High School -Attoke Awan (Combined),31.59787,74.49226,Combined,Punjab,2,2,695,598
+83,Govt. High School -Attoke Awan (Combined),31.59787,74.49229,Combined,Punjab,2,1,568,454
+86,Govt. Higher Secondary School- Attoke Awan (Combined),31.59787,74.49232,Combined,Punjab,2,2,873,691
+87,Govt. Higher Secondary School- Attoke Awan (Combined),31.59787,74.49235,Combined,Punjab,2,2,795,586
+88,Govt. HighSchool- Attoke Awan,31.59787,74.49238,Combined,Punjab,2,2,917,692
+91,Govt. Higher Secondary School- Attoke Awan (Combined),31.59787,74.49241,Combined,Punjab,1,1,345,274
+104,Govt. Elementary School- Dial  (Male),31.59801,74.53397,Male,Punjab,4,0,1252,0
+105,Govt. Elementary School-Dial (Female),31.59801,74.534,Female,Punjab,0,2,0,865
+106,Govt. Elementary School-Dial (Combined),31.59801,74.53403,Combined,Punjab,1,1,470,391
+6,Govt. Primary School Shadi Pura,31.59979,74.40536,Combined,Punjab,2,2,1156,898
+7,Govt. Primary School Shadi Pura,31.59979,74.40539,Combined,Punjab,2,1,721,516
+8,Govt. Primary School Shadi Pura,31.59979,74.40542,Combined,Punjab,2,2,924,642
+9,Govt. Primary School Shadi Pura,31.59979,74.40545,Combined,Punjab,3,1,1259,788
+23,Veterinary Hospital Hando gujjar lahore,31.59981,74.44199,Combined,Punjab,2,1,733,503
+69,Veterinary Hospital-Handu Gujar  (Combined),31.59981,74.44202,Combined,Punjab,2,1,522,372
+59,Govt. Primary School-Boys Sharif Pura (Combined),31.60155,74.41693,Combined,Punjab,2,2,801,531
+60,Govt Primary School Shareef Pura,31.60155,74.41696,Combined,Punjab,2,2,892,596
+114,Govt. Girls Primary School-Teij Garh (Male),31.60405,74.45289,Male,Punjab,4,0,1529,0
+115,Govt. Girls Primary School-Teij Garh (Female),31.60405,74.45292,Female,Punjab,0,4,0,1106
+79,Govt. Girls Community M/S at Dyal Primary School- Thatta Taran (Combined),31.6043,74.52854,Combined,Punjab,2,2,935,596
+13,CDGL Girls Primary School-Mohallah Islamabad Shadipura,31.60475,74.40197,Combined,Punjab,2,1,714,488
+14,CDGL Girls Primary School-Mohallah Islamabad Shadipura,31.60475,74.402,Combined,Punjab,2,1,514,395
+15,CDGL Girls Primary School-Mohallah Islamabad Shadipura,31.60475,74.40203,Combined,Punjab,2,2,1097,810
+103,Govt Boys Primary School Lakhan  (Combined),31.60629,74.51292,Combined,Punjab,1,1,491,290
+67,Govt. Boys Primary School Handu Gujar (Combined),31.60651,74.43894,Combined,Punjab,2,2,1150,841
+68,Govt. Boys Primary School Handu Gujar (Combined),31.60651,74.43897,Combined,Punjab,1,1,278,219
+112,Govt. Boys Primary School- Teij Garh ( Combined),31.60661,74.45252,Combined,Punjab,2,1,700,484
+113,Govt. Boys Primary School- Teij Garh (Combined),31.60661,74.45255,Combined,Punjab,2,2,763,550
+10,Muhammadia Public G/H School- Road Peer Shah Mehmood Graveyard Mehmood Booty,31.60686,74.40002,Combined,Punjab,2,2,679,502
+5,Muhammadia Public G/H School- Road Peer Shah Mehmood Graveyard Mehmood Booty,31.60686,74.40005,Combined,Punjab,1,1,469,322
+3,Saint Francis High School Peer Mandi Shah De Khuee Darbar Shadi Pura ( Old Name: Saint Francis M School ),31.60689,74.39999,Male,Punjab,3,0,1128,0
+4,Saint Francis High School Peer Mandi Shah De Khuee Darbar Shadi Pura ( Old Name: Saint Francis M School ),31.60689,74.40002,Female,Punjab,0,2,0,809
+53,Govt. Girls High School- Lakho Dhair (Combined),31.60756,74.4173,Combined,Punjab,2,1,736,510
+54,Govt. Girls High School- Lakho Dhair (Combined),31.60756,74.41733,Combined,Punjab,2,1,798,513
+64,Govt. Girls High School Lakho Dhair (Sharif Pura) (Combined),31.60756,74.41736,Combined,Punjab,2,2,856,564
+65,Govt. Girls High School Lakho Dhair (Sharif Pura) (Combined),31.60756,74.41739,Combined,Punjab,2,2,932,750
+55,Noor Foundation School Junj ghar Lakho Dair,31.61074,74.41135,Combined,Punjab,2,1,579,430
+57,Noor Foundation School Junj ghar Lakho Dair,31.61074,74.41138,Combined,Punjab,2,2,734,529
+122,Govt. Boys Primary School- Marl Marii (Combined),31.61122,74.41097,Combined,Punjab,2,1,568,397
+123,Govt. Boys Primary School- Marl Marii (Combined),31.61122,74.411,Combined,Punjab,2,1,841,534
+56,Govt. High School Lakho Dair (Primary wing) (Combined),31.61127,74.4132,Combined,Punjab,2,2,986,654
+63,Govt High school primary wing main bazar lakho dair lahore,31.61127,74.41323,Combined,Punjab,2,2,1071,717
+66,Govt. High School (Primary Wing)-Lakho Dhair(Combined),31.61127,74.41326,Combined,Punjab,2,2,1077,732
+61,Union Council Office (U.C. 174)- Lakho Dhair (Combined),31.61212,74.41074,Combined,Punjab,2,2,980,664
+62,Union Council Office (U.C. 174)- Lakho Dhair (Combined),31.61212,74.41077,Combined,Punjab,2,1,703,406
+116,Govt. Primary School-Mouza Natt (Combined),31.6154,74.46284,Combined,Punjab,2,2,965,710
+20,Ali Hajvery Hospital- Jodha Jhuggia- Band Road- Lahore.,31.61575,74.34338,Combined,Punjab,1,1,181,108
+111,Govt. Primary School-Ganja Sindhu (Combined),31.62696,74.44765,Combined,Punjab,2,2,1109,757
+99,Govt. High School-Wahgarian at  Dogaich (Combined),31.62805,74.49573,Combined,Punjab,2,2,813,550
+80,Govt. Girls Middle School-Dogaich (Combined),31.62927,74.50252,Combined,Punjab,2,2,1142,986
+72,Govt. High School- Bhaseen (Male),31.63479,74.50851,Male,Punjab,4,0,1378,0
+73,Govt. High School- Bhaseen (Female),31.63479,74.50854,Female,Punjab,0,3,0,1011
+71,Govt. Primary  School- Bhaseen (Combined),31.63791,74.50531,Combined,Punjab,2,2,667,487
+48,Govt. Boys Primary School-Karul War (Combined),31.63797,74.37114,Combined,Punjab,2,2,1005,713
+74,Govt. Health Center-Bhaseen (Combined),31.64258,74.50569,Combined,Punjab,2,1,852,544
+75,Govt. Health Center-Bhaseen (Combined),31.64258,74.50572,Combined,Punjab,2,1,658,435
+119,Govt: Elementary School-Awan Dhai Wala (Combined),31.64454,74.46262,Combined,Punjab,2,2,949,692
+120,Govt: Elementary School-Awan Dhai Wala (Combined),31.64454,74.46265,Combined,Punjab,2,1,841,544
+121,Govt: Elementary School-Awan Dhai Wala,31.64454,74.46268,Combined,Punjab,2,1,668,463
+117,Govt. Boys Primary School- Jandiala (Male),31.64923,74.47471,Male,Punjab,4,0,1316,0
+118,Govt. Boys Primary School- Jandiala (Female),31.64923,74.47474,Female,Punjab,0,2,0,862
+81,Govt.Girls  Primary Model School Wasoyan (Combined),31.65631,74.5254,Combined,Punjab,2,2,1118,796
+77,Govt. Primary School- Talwara (Combined),31.67117,74.46723,Combined,Punjab,2,2,938,582
+78,Govt. Primary School- Talwara (Combined),31.67117,74.46726,Combined,Punjab,2,1,705,506
+76,Govt. Boys Primary School-Echo Gill (Combined),31.67859,74.50196,Combined,Punjab,2,1,674,377

@@ -1,0 +1,3 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+9,GPS Muhammad Usman Khoso,28.47699,69.54722,Combined,Sindh,1,1,527,455
+28,GPS Colony No.1,28.47699,69.54725,Male,Sindh,3,0,1290,0

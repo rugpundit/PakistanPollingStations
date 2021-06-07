@@ -1,0 +1,87 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+45,GGPS Kala Khel (Female) PS-1,33.72917,71.55876,Female,KPK,0,4,0,1941
+46,GGPS Kala Khel (Female) PS-2,33.72917,71.55879,Female,KPK,0,3,0,1246
+41,GMS Banda Bazid Khel  (Male) PS-I,33.73526,71.54459,Male,KPK,4,0,2513,0
+42,GMS Banda Bazid Khel (Male) PS-II,33.73526,71.54462,Male,KPK,4,0,1834,0
+47,GPS Malik Sher Bahadur PS-I (Female),33.7465,71.58951,Female,KPK,0,3,0,1526
+48,GPS Malik Sher Bahadur PS-II (Female),33.7465,71.58954,Female,KPK,0,3,0,1458
+43,GPS Sherkera No.1  Payo Kalli  (Male) PS-I,33.75556,71.60515,Male,KPK,4,0,2077,0
+44,GPS Sherkira No.1 Payookilli (Male) PS-II,33.75556,71.60518,Male,KPK,4,0,1987,0
+1,GMS  Jani Garhi (Combined),33.76235,71.50768,Combined,KPK,2,2,760,506
+2,GGPS No.3 Darwazgai (Male),33.76652,71.53685,Male,KPK,4,0,1697,0
+15,GPS Passani Payan  (Male),33.7677,71.58877,Male,KPK,4,0,1912,0
+16,GMS Passani  (Male),33.76776,71.5889,Male,KPK,4,0,1326,0
+9,GPS Qadar Abad Darwazgai (Female),33.76873,71.5369,Female,KPK,0,2,0,941
+17,GGHS Passani PS-I (Female),33.77003,71.59069,Female,KPK,0,3,0,1156
+18,GGHS Passani PS-I I (Female),33.77003,71.59072,Female,KPK,0,2,0,890
+24,BHU Adezai (Male) PS-I,33.78196,71.57487,Male,KPK,4,0,1707,0
+25,BHU Adezai (Male) PS-II,33.78196,71.5749,Male,KPK,4,0,2144,0
+26,G Shaheed Zia-ul-Islam HSS Adezai   (Male) PS-I (P),33.78456,71.57132,Male,KPK,4,0,1880,0
+27,G Shaheed Zia-ul-Islam HSS Adezai   (Male) PS-II (P),33.78456,71.57135,Male,KPK,3,0,926,0
+28,G Shaheed Zia-ul-Islam HSS Adezai   (Male) PS-III (P),33.78456,71.57138,Male,KPK,4,0,1745,0
+20,GGPS Adezai No.1 (Female) PS-1,33.78865,71.57521,Female,KPK,0,3,0,1377
+21,GGPS Adezai No.1 (Female) PS-2,33.78865,71.57524,Female,KPK,0,3,0,1279
+29,GGPS No.2 Adezai (Female) PS-1,33.7934,71.56603,Female,KPK,0,3,0,1486
+30,GGPS No.2 Adezai (Female) PS-2,33.7934,71.56606,Female,KPK,0,4,0,1593
+36,GPS Shajee Abad (Male),33.79418,71.62086,Male,KPK,4,0,1665,0
+3,GPS NO.3 Mattani (Male),33.79587,71.55901,Male,KPK,4,0,1524,0
+40,GGPS No.3 Azakhel (Female),33.7972,71.6246,Female,KPK,0,4,0,1955
+31,GHS Azakhel PS-I(Male)  (P),33.80098,71.62135,Male,KPK,4,0,1871,0
+35,GHS Azakhel PS-2 (Male)  (P),33.80098,71.62138,Male,KPK,4,0,1745,0
+37,GHS Azakhel PS-III (Male),33.80098,71.62141,Male,KPK,4,0,1769,0
+6,GPS Mattani No.1 (Male) (P) PS-1,33.80133,71.5563,Male,KPK,4,0,1885,0
+7,GPS Mattani No.1 (Male) (P) PS-2,33.80133,71.55633,Male,KPK,4,0,1452,0
+11,Civil Hospital Mattani (Female) PS-1,33.80153,71.5601,Female,KPK,0,4,0,1595
+12,Civil Hospital Mattani (Female) PS-2,33.80153,71.56013,Female,KPK,0,4,0,1468
+13,Civil Hospital Mattani (Female) PS-3,33.80153,71.56016,Female,KPK,0,4,0,1633
+19,GGPS Yousaf Khel (Female),33.80418,71.59557,Female,KPK,0,3,0,1270
+14,GPS Yousaf Khel (Male)  (P),33.80548,71.59595,Male,KPK,4,0,1615,0
+34,GGHS Azakhel (Female) PS-1,33.80602,71.61896,Female,KPK,0,4,0,1663
+39,GGHS Azakhel (Female) PS-2,33.80602,71.61899,Female,KPK,0,3,0,1329
+4,GHS Mattani (Male) PS-1,33.80613,71.55976,Male,KPK,4,0,1631,0
+5,GHS Mattani (Male) PS-2,33.80613,71.55979,Male,KPK,4,0,1447,0
+10,GPS Bagh-e-iram (Female),33.83319,71.57212,Female,KPK,0,2,0,677
+8,GPS Sra Khawra (Male),33.83334,71.56835,Male,KPK,4,0,1300,0
+38,GGPS Sadiq Abad (Female),33.84425,71.62514,Female,KPK,0,4,0,2272
+32,GHS Nakband Male PS-I,33.85071,71.62968,Male,KPK,4,0,1533,0
+33,GHS Nakband (Male) PS-2,33.85071,71.62971,Male,KPK,4,0,1816,0
+22,GPS Muslim Abad Kharkhari (Male),33.85094,71.58547,Male,KPK,3,0,1072,0
+23,GGPS Kharkhari Muslimabad (Female),33.85722,71.58528,Female,KPK,0,2,0,596
+71,GHS Muhammad Noor Killi  (Male),33.86055,71.56306,Male,KPK,4,0,2714,0
+73,GPS Nisar Killi (Male) PS-1,33.8803,71.55989,Male,KPK,4,0,1789,0
+74,GPS Nisar Killi (Male) PS-2,33.8803,71.55992,Male,KPK,4,0,1954,0
+86,GPS  Mashopeki (Combined)  No.1,33.89583,71.51033,Combined,KPK,2,2,808,589
+65,GHS Mashugagar (Male) PS-I (P),33.89887,71.54156,Male,KPK,3,0,1140,0
+68,GHS Mashugagar (Male) PS-II (P),33.89887,71.54159,Male,KPK,4,0,1384,0
+69,GHS Mashogagar PS-III (Male),33.89887,71.54162,Male,KPK,4,0,1405,0
+78,GPS No.1 Mashugagar (Female),33.89996,71.54271,Female,KPK,0,4,0,2948
+76,GGPS Balarzai (Female),33.90007,71.52993,Female,KPK,0,2,0,700
+66,GPS Shaheed Garhi (Male),33.90229,71.5305,Male,KPK,3,0,1063,0
+72,GMS/GPS No.2 Balarzai  (Male),33.90229,71.53053,Male,KPK,3,0,1124,0
+81,GGPS Anizai  (Male),33.90344,71.50011,Male,KPK,4,0,1381,0
+85,GPS Anizai (Combined),33.90351,71.50018,Combined,KPK,2,2,965,627
+75,GPS No.2 Mashugagar (Female),33.90403,71.54267,Female,KPK,0,4,0,1662
+84,GPS Kehra Khel (Female),33.9047,71.50144,Female,KPK,0,2,0,871
+67,GPS Qazi Abad  (Male),33.906,71.56445,Male,KPK,2,0,868,0
+79,BHU Mashoo Khel (Male) PS-I,33.907,71.50298,Male,KPK,4,0,1758,0
+80,BHU Mashoo Khel (Male) PS-II,33.907,71.50301,Male,KPK,4,0,1449,0
+70,GDC Badaber Mashogagar (Female),33.90857,71.557,Female,KPK,0,3,0,1253
+77,GGHS Arhat Korona (Female),33.91111,71.55806,Female,KPK,0,4,0,1576
+82,GHS/GPS Mashoo Khel No.2 (Female),33.91165,71.50347,Female,KPK,0,3,0,1604
+83,G (JICA) Model School  (Female),33.91374,71.50008,Female,KPK,0,2,0,765
+54,GPS Garhi Mili Khel No.1 (Male),33.91864,71.49271,Male,KPK,4,0,1942,0
+52,GPS Sulaiman Khel (Male) PS-1 (P),33.92192,71.51162,Male,KPK,4,0,1795,0
+53,GPS Sulaiman Khel (Male) PS-2 (P),33.92192,71.51165,Male,KPK,3,0,1163,0
+49,GPS Shahab Khel (Male) PS-I (P),33.92598,71.50423,Male,KPK,4,0,1447,0
+50,GPS Shahab Khel (Male) PS-II (P),33.92598,71.50426,Male,KPK,3,0,1117,0
+64,GGPS No.1 Sheikh Muhammadi (Female),33.92855,71.52279,Female,KPK,0,4,0,1581
+51,GMS Shahab Khel (Female),33.93082,71.50248,Female,KPK,0,4,0,1937
+61,GPS Sheikh Muhammadi No.1  (Male) (P),33.93223,71.51381,Male,KPK,3,0,1023,0
+63,GGMS Sheikh Muhammadi (Female) (P),33.93223,71.51384,Female,KPK,0,3,0,1375
+60,G Shaheed Shah Fahad HS Sheikh Muhammadi (Male) PS-I (P),33.93296,71.51347,Male,KPK,4,0,1517,0
+62,G Shaheed Shah Fahad HS  Sheikh Muhammadi No. 1 (Male) PS-II (P),33.93296,71.5135,Male,KPK,4,0,1506,0
+55,GMS Sulaiman Khel (Female) PS-I,33.93388,71.51735,Female,KPK,0,3,0,1632
+56,GMS Sulaiman Khel (Female) PS-II,33.93388,71.51738,Female,KPK,0,4,0,2080
+58,GPS Dhandia Awan Abad (Male) (P) PS-1,33.93407,71.55287,Male,KPK,4,0,1512,0
+59,GPS Dhandia Awan Abad (Male) (P) PS-2,33.93407,71.5529,Male,KPK,4,0,1619,0
+57,GPS  Saifan Chowk Toheed Abad Kagawala (Female),33.93735,71.55068,Female,KPK,0,4,0,2093

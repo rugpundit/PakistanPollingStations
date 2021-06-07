@@ -1,0 +1,24 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+2,Spring Deals girls Yousuf Goth.,25.0085,67.08222,Combined,Sindh,1,2,692,456
+1,Mehran Gramar Model School Yaro Goth.,25.01076,67.08627,Combined,Sindh,2,2,1369,796
+14,Al Rasheeed School  7-C,25.02793,67.07249,Combined,Sindh,2,2,1008,651
+12,Al-Azmat Public School 7/B.,25.0297,67.06708,Male,Sindh,4,0,1458,0
+13,Aims Schooling System 7/B.,25.02971,67.06625,Female,Sindh,0,2,0,965
+22,Baqai Primary School- School Khuda ki Basti.,25.03005,67.09032,Female,Sindh,0,3,0,1159
+23,Baqai Primary School- School Khuda ki Basti.,25.03005,67.09035,Male,Sindh,4,0,2074,0
+18,GBPS Khan Muhammad Sector 7-D.,25.03064,67.07152,Female,Sindh,0,3,0,1290
+19,GBPS Khan Muhammad Sector 7-D.,25.03064,67.07155,Combined,Sindh,2,2,989,393
+20,GBPS Khan Muhammad Sector 7-D.,25.03064,67.07158,Combined,Sindh,2,2,996,568
+15,Zubair Public School 7/C.,25.03091,67.0715,Combined,Sindh,3,1,1081,458
+16,Zubair Public School 7/C.,25.03091,67.07153,Combined,Sindh,2,2,681,706
+4,GBPS. Haji Pathai Goth 7/A.,25.03115,67.06667,Female,Sindh,0,3,0,1045
+5,GBPS. Haji Pathai Goth 7/A.,25.03115,67.0667,Male,Sindh,3,0,1464,0
+25,TCF Primary School- Khuda ki Basti.,25.03287,67.09212,Combined,Sindh,2,2,920,594
+27,TCF Primary School- Khuda ki Basti.,25.03287,67.09215,Female,Sindh,0,2,0,1032
+24,TCF Secondary School- Khuda ki Basti.,25.03304,67.09199,Combined,Sindh,2,2,975,639
+26,TCF Secondary School- Khuda ki Basti.,25.03304,67.09202,Male,Sindh,4,0,1632,0
+28,Al-Momin Institute Khuda Ki Basti Phase II.,25.03358,67.09673,Combined,Sindh,2,1,784,468
+29,Al-Momin Institute Khuda Ki Basti Phase II.,25.03358,67.09676,Combined,Sindh,1,1,623,392
+3,Govt. Degree Girls College 7/A.,25.03744,67.06664,Male,Sindh,3,0,1579,0
+6,Govt. Degree Girls College 7/A.,25.03744,67.06667,Female,Sindh,0,3,0,1277
+21,Al Mohsin Academy Gohram Goth,25.04983,67.11277,Combined,Sindh,2,1,761,352

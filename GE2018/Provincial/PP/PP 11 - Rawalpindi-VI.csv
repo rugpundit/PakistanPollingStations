@@ -1,0 +1,159 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+67,Govt. Community Girls High School lane No.3 Gulistan Colony (Male)(P),33.57218,73.09646,Male,Punjab,3,0,1706,0
+68,Govt. Community Girls High School lane No.3 Gulistan Colony (Male)(P),33.57218,73.09649,Male,Punjab,1,0,606,0
+69,Govt. Community Girls High School lane No.3 Gulistan Colony (Female)(P),33.57218,73.09652,Female,Punjab,0,3,0,1621
+70,Govt. Community Girls High School lane No.3 Gulistan Colony (Female)(P),33.57218,73.09655,Female,Punjab,0,1,0,544
+73,Hera Public School Gulistan colony Lane No.3 (Female)(T),33.57243,73.08864,Female,Punjab,0,2,0,1169
+74,Hera Public School Gulistan colony Lane No.3 (Female)(T),33.57243,73.08867,Female,Punjab,0,2,0,1130
+71,CB Dispensary Lane 3 Gulistan Colony (Male)(P),33.57383,73.09005,Male,Punjab,2,0,1289,0
+72,CB Dispensary Lane 3 Gulistan Colony (Male)(P),33.57383,73.09008,Male,Punjab,2,0,1362,0
+76,Govt. Bhundara high School Murree Brewary (Male)(P),33.58008,73.08458,Male,Punjab,2,0,927,0
+77,Govt. Bhundara high School Murree Brewary (Male)(P),33.58008,73.08461,Male,Punjab,2,0,816,0
+78,Govt. Bhundara High School Murre Brewary (Female)(P),33.58008,73.08464,Female,Punjab,0,2,0,876
+79,Govt. Bhundara High School Murre Brewary (Female)(P),33.58008,73.08467,Female,Punjab,0,2,0,740
+80,FG BOYS HIGH SCHOOL NO 1 TARIQABAD (MALE) (P),33.58276,73.05526,Male,Punjab,3,0,1693,0
+81,FG BOYS HIGH SCHOOL NO 1 TARIQABAD (FEMALE) (P),33.58276,73.05529,Female,Punjab,0,3,0,1673
+143,Govt. Girls Primary School- Dhoke Kala Khan (combined)(P),33.58633,73.10528,Combined,Punjab,2,2,1171,877
+52,FG SIRSYED GIRLS PRIMARY SCHOOL SIRSYED ROAD RAWALPINDI(MALE),33.58865,73.0602,Male,Punjab,2,0,1322,0
+53,FG SIRSYED GIRLS PRIMARY SCHOOL SIRSYED ROAD RAWALPINDI(FEMALE),33.58865,73.06023,Female,Punjab,0,2,0,1190
+59,CB Model School Jhanda Chichi Street No.3 Main Bazar (Female)(P).,33.58942,73.07281,Female,Punjab,0,2,0,1360
+60,CB Model School Jhanda Chichi Street No.3 Main Bazar (Female)(P).,33.58942,73.07284,Female,Punjab,0,2,0,1046
+64,FG Sir Syed Boys School Sir Syed Road RWP (Male)(P),33.58958,73.06231,Male,Punjab,1,0,566,0
+65,FG Sir Syed Boys School Sir Syed Road RWP (Male)(P),33.58958,73.06234,Male,Punjab,2,0,1390,0
+66,FG Sir Syed School Sir Syed Road RWP (Female)(P),33.58958,73.06237,Female,Punjab,0,1,0,504
+75,FG Sir Syed School Sir Syed Road RWP (Female)(P),33.58958,73.0624,Female,Punjab,0,2,0,1291
+62,Govt. Primary School Jhanda Chichi (Male)(P),33.59003,73.07538,Male,Punjab,2,0,1393,0
+63,Govt  Primary School Jhanda Chichi (Female)(P),33.59003,73.07541,Female,Punjab,0,2,0,1264
+42,FG Quaid-e-Azam College Chaklala Scheme lll (Female)(P).,33.59004,73.08695,Female,Punjab,0,2,0,755
+43,FG Quaid-e-Azam College Chaklala Scheme lll (Female)(P).,33.59004,73.08698,Female,Punjab,0,2,0,1202
+46,FG Quaid-e-Azam College Chaklala Scheme lll (Female)(P).,33.59004,73.08701,Female,Punjab,0,2,0,1238
+47,FG Quaid-e-Azam College Chaklala Scheme lll (Female)(P).,33.59004,73.08704,Female,Punjab,0,2,0,936
+36,FG Quaid-e-Azam Secondary School Scheme lll  (Male)(P).,33.59013,73.0867,Male,Punjab,1,0,493,0
+37,FG Quaid-e-Azam Secondary School Scheme lll  (Male)(P).,33.59013,73.08673,Male,Punjab,2,0,1015,0
+38,FG Quaid-e-Azam Secondary School Scheme lll (Female)(P).,33.59013,73.08676,Female,Punjab,0,1,0,488
+39,FG Quaid-e-Azam Secondary School Scheme lll (Female)(P).,33.59013,73.08679,Female,Punjab,0,2,0,926
+40,FG Quadi-e-Azam Secondary School- Scheme lll Chaklala (Male)(P).,33.59013,73.08682,Male,Punjab,2,0,763,0
+41,FG Quadi-e-Azam Secondary School- Scheme lll Chaklala (Male)(P).,33.59013,73.08685,Male,Punjab,2,0,1125,0
+44,FG Quaid-e-Azam School Scheme lll (Male)(P).,33.59013,73.08688,Male,Punjab,2,0,1233,0
+45,FG Quaid-e-Azam School Scheme lll (Male)(P).,33.59013,73.08691,Male,Punjab,2,0,938,0
+136,Skan School- Airport Housing Society (Male)(T),33.59024,73.13557,Male,Punjab,3,0,1453,0
+137,Skan School- Airport Housing Society (Male)(T),33.59024,73.1356,Male,Punjab,3,0,1568,0
+138,Magnam Opeus Internatinal  School- Airport Housing Society (Female)(T),33.59187,73.12816,Female,Punjab,0,2,0,1365
+139,Magnam Opeus Internatinal  School- Airport Housing Society (Female)(T),33.59187,73.12819,Female,Punjab,0,3,0,1437
+48,Govt. Degree College- for Wommen Jhanda Phatik- (Male)(P) (Improvised),33.59203,73.06827,Male,Punjab,2,0,904,0
+49,Govt. Degree College- for Wommen Jhanda Phatik- (Male)(P) (Improvised),33.59203,73.0683,Male,Punjab,3,0,1403,0
+61,Govt Degree College for Women- Jhanda Phatik (Male)(P),33.59203,73.06833,Male,Punjab,2,0,1132,0
+58,Govt. Girls High School Jhanda Chichi (Male)(P).,33.59246,73.06872,Male,Punjab,3,0,1444,0
+140,HSL Montoseri & High School- Airport Society Girls Campas (Male)(T),33.59454,73.12862,Male,Punjab,1,0,457,0
+141,HSL Montoseri & High School- Airport Society Girls Campas (Male)(T),33.59454,73.12865,Male,Punjab,2,0,1226,0
+142,HSL Montoseri & High School- Airport Society Girls Campas (Female)(T),33.59454,73.12868,Female,Punjab,0,2,0,1341
+54,FG Boys Secondary School Marir Hassan (Male)(P).,33.59531,73.0652,Male,Punjab,2,0,964,0
+55,FG Boys Secondary School Marir Hassan (Male)(P).,33.59531,73.06523,Male,Punjab,2,0,1072,0
+56,FG Boys Secondary School Marir Hassan (Female)(P).,33.59531,73.06526,Female,Punjab,0,2,0,944
+57,FG Boys Secondary School Marir Hassan (Female)(P).,33.59531,73.06529,Female,Punjab,0,2,0,963
+32,Govt. Middle Shool Dhoke Chiragh Din (Female)(P).,33.5965,73.07381,Female,Punjab,0,3,0,1527
+35,Govt. Middle School Dhoke Chiragh Din (Female)(P).,33.5965,73.07384,Female,Punjab,0,2,0,1259
+158,Govt Degree College for Women- Dhoke Munshi(Combined)(P),33.5966,73.12668,Combined,Punjab,2,1,773,658
+30,Govt. boys High School- Dhoke Chiragh Din (Male)(P).,33.59737,73.07356,Male,Punjab,2,0,873,0
+31,Govt. boys High School- Dhoke Chiragh Din (Male)(P).,33.59737,73.07359,Male,Punjab,2,0,864,0
+33,Govt. boys High School- Dhoke Chiragh Din (Male)(P).,33.59737,73.07362,Male,Punjab,1,0,696,0
+34,Govt. boys High School- Dhoke Chiragh Din (Male)(P).,33.59737,73.07365,Male,Punjab,2,0,787,0
+17,CB Model School Sir Syed Colony (Male)(P).,33.59853,73.06937,Male,Punjab,2,0,1046,0
+19,CB Model School Sir Syed Colony (Male)(P).,33.59853,73.0694,Male,Punjab,2,0,1304,0
+50,CB Model School Dhoke Chirgah Din (Female)(P).,33.59853,73.06943,Female,Punjab,0,2,0,799
+51,CB Model School Dhoke Chirgah Din (Female)(P).,33.59853,73.06946,Female,Punjab,0,2,0,1231
+144,Govt. Boys High School- Gulzar-e-Quaid- Chaklala (combined)(P),33.59948,73.12907,Combined,Punjab,2,2,1326,1293
+11,Waqar-un-Nisa Girls High School- Jehangir Road- (Female)(P).,33.60151,73.07568,Female,Punjab,0,1,0,517
+12,Waqar-un-Nisa Girls High School- Jehangir Road- (Female)(P).,33.60151,73.07571,Female,Punjab,0,2,0,984
+15,Waqar-un-Nisa Girls High School- Jehangir Road- (Female)(P).,33.60151,73.07574,Female,Punjab,0,2,0,941
+16,Waqar-un-Nisa Girls High School- Jehangir Road- (Female)(P).,33.60151,73.07577,Female,Punjab,0,1,0,683
+18,Waqar-un-Nisa Girls High School- Jehangir Road (Female)(P).,33.60151,73.0758,Female,Punjab,0,2,0,949
+20,Waqar-un-Nisa girls High School Jehangir Road (Female)(P).,33.60151,73.07583,Female,Punjab,0,2,0,1219
+23,FWO Public School Gracy Line- Chaklala (Female)(P).,33.60265,73.08775,Female,Punjab,0,2,0,725
+128,Rawalpindi Medical College- Tipu Road (Female),33.60278,73.06841,Female,Punjab,0,2,0,959
+130,Rawalpindi Medical College- Tipu Road (Female),33.60278,73.06844,Female,Punjab,0,2,0,991
+22,FG Boys High School No.1 Chaklala (Male)(P).,33.60384,73.09557,Male,Punjab,1,0,431,0
+24,FG Boys High School No.1 Chaklala (Male)(P).,33.60384,73.0956,Male,Punjab,1,0,472,0
+25,FG Boys High School No.1 Chaklala (Male)(P).,33.60384,73.09563,Male,Punjab,1,0,689,0
+26,FG Boys High School No.1 Chaklala (Male)(P).,33.60384,73.09566,Male,Punjab,1,0,208,0
+27,FG Boys High School No.1 Chaklala (Male)(P).,33.60384,73.09569,Male,Punjab,2,0,930,0
+132,Govt.Waqar-un-Nisa College or Women- Jahangir Road- Rawalpindi (Female),33.60394,73.0759,Female,Punjab,0,2,0,1276
+134,Govt. Waqar U Nisa College for women Jehangir Road rwp (Female),33.60394,73.07593,Female,Punjab,0,2,0,907
+13,Govt. Sir Syed Public School- Tipu Road (Male)(P).,33.60432,73.07655,Male,Punjab,2,0,893,0
+14,Govt. Sir Syed Public School- Tipu Road (Male)(P).,33.60432,73.07658,Male,Punjab,2,0,757,0
+28,FG Girls High shool No.1 Chaklala (Female)(P).,33.60447,73.09176,Female,Punjab,0,2,0,821
+29,FG Girls High shool No.1 Chaklala (Female)(P).,33.60447,73.09179,Female,Punjab,0,2,0,934
+127,Govt. Islamia Boys Higher Secondary School No.1- Murree Road (Male),33.60469,73.06606,Male,Punjab,2,0,1064,0
+129,Govt. Islamia Boys Higher Secondary School No.1- Murree Road (Male),33.60469,73.06609,Male,Punjab,2,0,758,0
+131,Govt. Islamia Boys Higher Secondary School No.1- Murree Road (Male),33.60469,73.06612,Male,Punjab,2,0,1137,0
+133,Govt. Islamia Boys Higher Secondary School No.1- Murree Road (Male),33.60469,73.06615,Male,Punjab,1,0,586,0
+135,Govt. Islamia Boys Higher Secondary School No.1- Murree Road (Male),33.60469,73.06618,Male,Punjab,2,0,1022,0
+10,FG Girls Primary School No.2 Gracy Line Rawalpindi (Male)(P).,33.60636,73.09492,Male,Punjab,2,0,1072,0
+5,FG Girls Primary School- No.2 Gracy Line- Chaklala (Male)(P).,33.60636,73.09495,Male,Punjab,1,0,380,0
+6,FG Girls Primary School- No.2 Gracy Line- Chaklala (Male)(P).,33.60636,73.09498,Male,Punjab,2,0,709,0
+7,FG Girls High School No.2 Gracy Line Chaklala (Female)(P).,33.60636,73.09501,Female,Punjab,0,1,0,338
+8,FG Girls High School No.2 Gracy Line Chaklala (Female)(P).,33.60636,73.09504,Female,Punjab,0,1,0,619
+9,FG Girls Primary School No.2 Gracy Line Rawalpindi (Male)(P).,33.60636,73.09507,Male,Punjab,1,0,555,0
+117,St. Patric School Murree Road (Male)(T).,33.60815,73.06554,Male,Punjab,2,0,1108,0
+118,St. Patric School Murree Road (Male)(T).,33.60815,73.06557,Male,Punjab,1,0,642,0
+121,St. Patric School Murree Road (Male)(T).,33.60815,73.0656,Male,Punjab,1,0,627,0
+122,St. Patric School Murree Road (Male)(T).,33.60815,73.06563,Male,Punjab,2,0,1159,0
+125,St. Patric Shool Murre Road (Male)(T).,33.60815,73.06566,Male,Punjab,2,0,1266,0
+119,St. Merry School Murree Road (Female)(T).,33.60816,73.06554,Female,Punjab,0,2,0,1001
+120,St. Merry School Murree Road (Female)(T).,33.60816,73.06557,Female,Punjab,0,1,0,584
+123,St. Merry School Murree Road (Female)(T),33.60816,73.0656,Female,Punjab,0,1,0,526
+124,St. Merry School Murree Road (Female)(T),33.60816,73.06563,Female,Punjab,0,2,0,1112
+126,St. merry School Murree Road (Female)(T).,33.60816,73.06566,Female,Punjab,0,2,0,1153
+111,Govt. Girls High School Dhoke Ellahi Baksh Johar Memorial (Male)(P).,33.61174,73.06661,Male,Punjab,2,0,792,0
+112,Govt. Girls High School Dhoke Ellahi Baksh Johar Memorial (Male)(P).,33.61174,73.06664,Male,Punjab,2,0,873,0
+115,Govt. Girls High School dhoke Ellahi Baksh Johar Memorial (Male)(P).,33.61174,73.06667,Male,Punjab,2,0,1287,0
+101,Govt. Girls College Dhoke Ellahi Bakhsh (Male)(P).,33.61174,73.06714,Male,Punjab,2,0,723,0
+102,Govt. Girls College Dhoke Ellahi Bakhsh (Male)(P).,33.61174,73.06717,Male,Punjab,2,0,871,0
+105,Govt. Girls College Dhoke Ellahi Bakhsh (Male)(P).,33.61174,73.0672,Male,Punjab,1,0,684,0
+106,Govt. Girls College Dhoke Ellahi Bakhsh (Male)(P).,33.61174,73.06723,Male,Punjab,2,0,1218,0
+108,Govt. Grils College Dhoke Ellahi Baksh (Male)(P).,33.61174,73.06726,Male,Punjab,3,0,1415,0
+109,Got. Grils College Dhoke Ellahi Baksh (Male)(P).,33.61174,73.06729,Male,Punjab,2,0,736,0
+110,Dhoke Farman Medical Center St No. 01- Hameed khan Road dhoke Farman Ali (Female),33.61214,73.07365,Female,Punjab,0,3,0,1494
+113,Angel Education System Dhoke Farman Ali (Female)(T).,33.61219,73.07402,Female,Punjab,0,2,0,759
+114,Angel Education System Dhoke Farman Ali (Female)(T).,33.61219,73.07405,Female,Punjab,0,2,0,830
+116,Angel Education System Dhoke Farman Ali (Female)(T).,33.61219,73.07408,Female,Punjab,0,2,0,1173
+97,Childern Paradise Model School  National town (Male)(T).,33.61269,73.07519,Male,Punjab,2,0,1271,0
+86,Orient System of Education St No. 1 National Town Dhok Khaba near Bilal Mosque. (Male),33.61283,73.07428,Male,Punjab,3,0,1478,0
+94,Govt. Girls akhtar Islamia Elementry School Aslamabad National Town Dhoke Khaba. (Male),33.61331,73.07668,Male,Punjab,3,0,1467,0
+103,Modern Pak School Tahir Street No.3 Dhoke Farman Ali (Female)(T).,33.61358,73.07739,Female,Punjab,0,2,0,971
+104,Modern Pak School Tahir Street No.3 Dhoke Farman Ali (Female)(T).,33.61358,73.07742,Female,Punjab,0,2,0,972
+107,Modern Pak School Tahir Street No.3 Dhoke Farman Ali (Female)(T).,33.61358,73.07745,Female,Punjab,0,2,0,1372
+95,Govt. Zeenat Sikandria High School Dhoke Khaba (Female)(P).,33.61371,73.07121,Female,Punjab,0,2,0,799
+96,Govt. Zeenat Sikandria High School Dhoke Khaba (Female)(P).,33.61371,73.07124,Female,Punjab,0,2,0,907
+98,Govt. Zeenat Sikandria High School Dhoke Khabba (Female)(P).,33.61371,73.07127,Female,Punjab,0,2,0,716
+99,Govt. Zeenat Sikandria High School Dhoke Khabba (Female)(P).,33.61371,73.0713,Female,Punjab,0,2,0,906
+90,MC Boys School Qasimabad (Female)(P).,33.61491,73.07484,Female,Punjab,0,2,0,823
+91,MC Boys School Qasimabad (Female)(P).,33.61491,73.07487,Female,Punjab,0,1,0,684
+93,MC Boys School Qasimabad (Female)(P).,33.61491,73.0749,Female,Punjab,0,1,0,599
+87,Awasia Education System St No.7- Qasimabad Near Mosque Molve Aurainzaib (Female)(T).,33.61493,73.07484,Female,Punjab,0,2,0,1302
+83,MC Boys High School Millat Colony (Female)(P).,33.61508,73.06924,Female,Punjab,0,2,0,1227
+85,MC Boys High School Millat Colony (Female)(P).,33.61508,73.06927,Female,Punjab,0,3,0,1575
+100,Dawn Model Secondary School Millat Colony (Male)(T).,33.6152,73.06948,Male,Punjab,2,0,980,0
+150,FG. Girls High School- Gangal (Male)(P),33.61526,73.11564,Male,Punjab,1,0,643,0
+151,FG. Girls High School- Gangal (Male)(P),33.61526,73.11567,Male,Punjab,2,0,1247,0
+152,FG. Girls High School- Gangal (Female)(P,33.61526,73.1157,Female,Punjab,0,1,0,609
+153,FG. Girls High School- Gangal (Female)(P,33.61526,73.11573,Female,Punjab,0,2,0,1106
+154,FG. Girls High School- Gangal (combined)(P),33.61526,73.11576,Combined,Punjab,1,1,604,568
+156,FG. Girls High School- Gangal (Male)(P),33.61526,73.11579,Male,Punjab,2,0,1350,0
+157,FG. Girls High School- Gangal (Female)(P),33.61526,73.11582,Female,Punjab,0,2,0,1125
+82,MC Girls Middle School Millat Colony (Male)(P).,33.61566,73.06987,Male,Punjab,2,0,1322,0
+84,MC Girls Middle School Millat Colony (Male)(P).,33.61566,73.0699,Male,Punjab,3,0,1672,0
+88,Uzma Model High School Qasimabad (Male)(T).,33.61599,73.07509,Male,Punjab,2,0,920,0
+89,Uzma Model High School Qasimabad (Male)(T).,33.61599,73.07512,Male,Punjab,2,0,727,0
+92,Uzma Model High School Qasimabad (Male)(T).,33.61599,73.07515,Male,Punjab,1,0,665,0
+3,The Aliph School Street No.15 Tehmasabad (Female) (T),33.61795,73.08158,Female,Punjab,0,1,0,699
+4,The Aliph School Street No.15 Tehmasabad (Female) (T),33.61795,73.08161,Female,Punjab,0,2,0,1014
+145,Al Mehr Public School- Near Chattari Chowk- Gangal (combined)(T),33.61895,73.10682,Combined,Punjab,2,2,967,832
+149,GPS TAJ UL SALM Model School- Gangal (combined)(T),33.61936,73.11041,Combined,Punjab,2,2,995,920
+155,Little Angel Sec. School Janjua Town Gangal Rawalplindi (Combined)(T),33.61938,73.11057,Combined,Punjab,2,2,996,924
+1,Rawalpindi Model School Tehmasabad (Male)(T).,33.61953,73.08013,Male,Punjab,2,0,813,0
+2,Rawalpindi Model School Tehmasabad (Male)(T).,33.61953,73.08016,Male,Punjab,2,0,1159,0
+146,The Luminus High School KRL Road Chatri Chowk Dhoke Gangal (Male)(T),33.62019,73.1069,Male,Punjab,2,0,911,0
+147,The Luminus High School KRL Road Chatri Chowk Dhoke Gangal (Male)(T),33.62019,73.10693,Male,Punjab,2,0,884,0
+148,The Luminus Girls High School KRL Road chatri chok dhok gangal (Female)(T),33.62019,73.10696,Female,Punjab,0,3,0,1572
+21,F.G Fazia High School- Jinnah Camp- (Combined)(P),33.62835,73.10162,Combined,Punjab,1,1,644,612

@@ -1,0 +1,16 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+45,Govt.Primary School Abdul Rehman Kumbhar (T),26.0401007,68.9426095,Combined,Sindh,2,1,553,359
+41,Govt. Primary School Hakim Meher  (Comb) (P),26.0464808,68.9403063,Combined,Sindh,2,2,615,504
+43,Govt. Primary Mubarik Meher (Comb) (P) Improvised,26.0464808,68.9403363,Combined,Sindh,1,1,389,272
+4,Govt. Girls Primary School Jam Nawaz Ali (Female) (T) Improvised,26.0464808,68.9403663,Female,Sindh,0,2,0,857
+3,Govt. Girls Primary School Jam Nawaz Ali (Female) (P) Improvised,26.0466785,68.9500596,Female,Sindh,0,2,0,884
+46,Govt. Primary School Din Muhammad Junijo (P),26.0466785,68.9500896,Combined,Sindh,2,2,754,617
+47,Govt. Primary School Darya Khan Khoso (P)                   Improvised,26.0466785,68.9501196,Combined,Sindh,2,1,651,450
+48,Govt. Primary School Jam Anwer Ali (P),26.0466785,68.9501496,Combined,Sindh,2,2,799,638
+38,Govt. Primary School Tila Shah  (Male) (P),26.0478047,68.9515907,Male,Sindh,2,0,966,0
+39,Govt. Primary School Tila Shah  (Female) (P),26.0478047,68.9516207,Female,Sindh,0,2,0,581
+40,Govt. Primary School Jam Hayder Ali (Comb)(P),26.0478047,68.9516507,Combined,Sindh,1,1,485,362
+42,Govt.Primary School Mir Muhumammad Mangario (P),26.0478047,68.9516807,Combined,Sindh,1,1,373,250
+44,Govt. Primary School Ahmed Khan Qaimkhani Patohiyoon Station (P),26.0478047,68.9517107,Combined,Sindh,1,1,366,265
+49,Govt. Primary School Sadique Wassan (P),26.0478047,68.9517407,Combined,Sindh,2,2,964,802
+50,Govt. Primary School Bhai Khan Wassan (P),26.0478047,68.9517707,Combined,Sindh,2,2,589,456

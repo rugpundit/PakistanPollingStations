@@ -1,0 +1,181 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+20,20. Government Girls Primary School- Mohallah Nizam Pura- Farooqabad(Female),31.46817,74.03817,Female,Punjab,0,3,0,1453
+91,91. Government Primery School- Jatri Nau- Chak No.538/RB.,31.63837,73.70987,Combined,Punjab,1,1,507,369
+92,92. Government Primery School- Jatri Nau- Chak No.538/RB.,31.63837,73.7099,Combined,Punjab,1,1,681,477
+87,87. Government Girls High School- Rasool Pur Jattan- Chak No.173/RB.,31.64845,73.65081,Combined,Punjab,1,1,488,379
+86,86. Government Boys High School Chak No.173/RB Rasool Pur Jattan,31.64915,73.64525,Combined,Punjab,1,1,717,534
+93,93. Government Elementary School- Mallianwali- Chak No.537/GB.,31.65287,73.71143,Combined,Punjab,2,1,923,714
+94,94. Government Elementary School- Mallianwali- Chak No.537/GB.,31.65287,73.71146,Combined,Punjab,1,1,491,361
+85,85. Government Boys Primery School Chak No.171/RB Gill Wala,31.65318,73.63071,Combined,Punjab,1,1,725,466
+88,88. Government Elementary School- Chait Sing Wala- Chak no.287/RB,31.65522,73.6774,Combined,Punjab,1,1,651,438
+90,90. Government Boys Primery School Chak No.171/RB Kot Hayat Khan,31.66647,73.67491,Combined,Punjab,2,2,1247,797
+79,79. Government Boys High School Adil Garh Chak No.27/RB,31.66691,73.61501,Combined,Punjab,1,1,758,562
+84,84. Government Primery School- Jhandian Wali Chak No.170/RB.,31.6708,73.64976,Combined,Punjab,2,2,926,614
+81,81. Government Girls Primery School Garmoola Chak No.169/RB-2,31.67375,73.63786,Combined,Punjab,1,1,661,472
+179,179. Government Girls High School chak No.79 RB (213),31.67597,73.55825,Combined,Punjab,2,1,664,410
+157,157. Govt.Boys Middle School Chak No.79/RB*,31.67684876537526,73.55298447574154,Combined,Punjab,2,2,760,576
+78,78. Government Girls Elementary School- Wayan Wali Chak No.27/RB,31.68102,73.62667,Combined,Punjab,1,1,450,348
+80,80. Government Girls High School Chabba Chak No.169/RB,31.68598,73.65596,Combined,Punjab,2,1,873,662
+89,89. Government Model Primery School- Phattan Wala Chak No.171/RB,31.68745,73.68825,Combined,Punjab,1,1,519,379
+82,82. Government High School Karyal Bhagan Wala Chak No.19,31.69621,73.6629,Combined,Punjab,2,1,997,662
+83,83. Government High School- Karyal Bhagan Wala Chak No.19,31.69621,73.66293,Combined,Punjab,2,1,759,518
+75,75. Government Girls Community Model High School- Mandiala chak No.20/RB,31.69811,73.62016,Combined,Punjab,1,1,535,455
+76,76. Government Girls Community Model High School- Mandiala chak No.20/RB,31.69811,73.62019,Combined,Punjab,2,1,767,538
+165,165. Government.Boys Primary School- Chak No.24/RB Khurd*,31.698185597076712,73.49534981356015,Combined,Punjab,1,1,623,488
+154,154. Govt.Boys High School Chak No.78 Nawan Pind*,31.6989200295897,73.57622782480709,Combined,Punjab,2,1,897,620
+77,77. Government Boys Primery School Gondelanwala,31.69955,73.58375,Combined,Punjab,1,1,523,378
+155,155. Govt.Girls Middle School Chak Nawan Pind*,31.700122751993515,73.57883071382227,Combined,Punjab,2,2,1170,823
+164,164. Government.Girls High School- Chak No.24/RB Kalan*,31.70390485458577,73.51853083704336,Combined,Punjab,2,1,913,668
+51,51. Government Girls Model Primery School Dera Mellianwala(Male),31.70774,73.76308,Male,Punjab,3,0,1557,0
+52,52. Government Girls Model Primery School Dera Mellianwala(Female),31.70774,73.76311,Female,Punjab,0,2,0,956
+166,166. Government.Boys Primary School- Chak No.23/RB Barnala*,31.708106578722933,73.49983717989974,Combined,Punjab,2,1,1027,795
+74,74. Government Primery School Chak No.16/RB Jaid Chak,31.71156,73.6582,Combined,Punjab,1,1,471,374
+73,73. Government Girls Elementary School Chak no.16/RB Jaid Chak.,31.71198,73.66155,Combined,Punjab,2,1,953,622
+156,156. Govt.Boys Primary School Chak No.78 Dhoop Sari*,31.712657247305174,73.58005373932525,Combined,Punjab,2,1,813,466
+68,68. Government Boys Primery School Gujjar Pura,31.71333,73.69223,Combined,Punjab,1,1,590,326
+72,72. Government English Medium Elementary School- Deuri- Chak No.15/RB,31.71491,73.62326,Combined,Punjab,2,1,859,705
+167,167. Government.Primary School- Chak No.23/RB Buttar*,31.717558625827703,73.50720850463546,Combined,Punjab,1,1,584,431
+67,67.Government Girls High School Phullar Wan,31.71803,73.68083,Combined,Punjab,1,1,596,464
+70,70 Government Girls Elementary School Mahnian Wala Chak No.14 RB (Near BHU),31.71965,73.62166,Combined,Punjab,2,2,1204,901
+66,66. Government Boys Elementry School- Phullar Wan,31.72021,73.67999,Combined,Punjab,2,2,949,632
+168,168. Government.Girls High School- Chak 282/RB Abdullah Pur Kolar*,31.72514028968906,73.53465660472885,Combined,Punjab,2,1,843,682
+169,169. Government.Boys High School- Chak No.282/RB Abdullah Pur*,31.72515180462695,73.53435574923525,Combined,Punjab,2,2,957,799
+45,45. Government Boys Primery School Dera Nigha,31.72599,73.80435,Combined,Punjab,1,1,572,390
+117,117. Government.High School- Safdar Abad(Female),31.729211121565257,73.57388296453699,Female,Punjab,0,3,0,1332
+116,116. Government.High School- Safdar Abad(Male),31.72922213751854,73.57389242372676,Male,Punjab,3,0,1597,0
+170,170. Government.Boys High School- Chak No.30/RB Moman*,31.729233343647408,73.4712996454743,Combined,Punjab,2,1,1153,844
+115,115. Government.Boys Middle School- Safdar Abad(Male),31.72971180958056,73.57377315479391,Male,Punjab,2,0,1175,0
+119,119. Government.Higher Secondary School- For Girls Gali Railway Station wali- Safdar Abad(Female),31.73028939713673,73.57407661915113,Female,Punjab,0,3,0,1530
+118,118. Government.Higher Secondary School- For Girls Gali Railway Station wali- Safdar Abad(Male),31.730470114301134,73.57408725129184,Male,Punjab,4,0,1741,0
+113,113. Government.Boys Primary School- Eid Gah Safdar Abad(Male),31.730981642202867,73.57853343381028,Male,Punjab,2,0,926,0
+112,112. Government.Boys Primary School- Eid Gah Safdar Abad(Male),31.731331474549684,73.57791243577798,Male,Punjab,3,0,1555,0
+171,171. Government.Boys Primary School- chak No.284/RB Kambo Wala*,31.731402832484726,73.51010326290644,Combined,Punjab,1,1,757,537
+110,110. Agriculture office Safdar Abad(Male),31.73152391794042,73.57805078332017,Male,Punjab,2,0,1166,0
+111,111. Government.Primary School- Tawakkali for Saddat Colony- Saeed Nagar Safdar Abad(Female),31.73233418732341,73.58175740468648,Female,Punjab,0,4,0,1943
+65,65. Government High School Bahalike (Primary Wing).,31.73261,73.69724,Combined,Punjab,2,1,735,506
+71,71. Government Girls Primery School Chak No.14/RB Nawan Pind Virkan,31.73385,73.63456,Combined,Punjab,2,1,795,561
+64,64. Government Girls Elementry School- Bahalike,31.73398,73.6956,Combined,Punjab,2,2,1138,731
+114,114 .Government.Elementary School- Kira Mandi Safdar Abad(Female),31.734669717177074,73.57406640813404,Female,Punjab,0,2,0,976
+108,108. Government.Boys Primary School- Saeed Nagar Safdar Abad(Female),31.73469782352331,73.57408174668075,Female,Punjab,0,3,0,1564
+107,107. Government.Boys Primary School- Saeed Nagar Safdar Abad(Male),31.734702338264956,73.57404802054604,Male,Punjab,4,0,1882,0
+109,109. Government.Girls Primary School Saeed Nagar Safdar Abad(Female),31.73533426985984,73.57351364384606,Female,Punjab,0,2,0,908
+148,148. Govt.Boys Primary School Chak No.13/RB Dhabab Khurd(Male),31.736301784110136,73.56178189469253,Male,Punjab,4,0,2010,0
+149,149. Govt.Boys Primary School Chak No.13/RB Dhabab Khurd(Female),31.736301784110136,73.5618118946925,Female,Punjab,0,3,0,1454
+25,25. Government Boys Higher Secondary School- farooqabad- (Male),31.73742,73.83215,Male,Punjab,4,0,1585,0
+26,26. Government Higher Secondary School- Near Telephone Exchange-Farooqabad (Female),31.73742,73.83218,Female,Punjab,0,3,0,1321
+69,69. Government Boys Primery School- Farooq Nagar.,31.73823,73.66507,Combined,Punjab,2,1,800,523
+30,30. Government Girls Primery School Nokhar Qadeem (Female),31.73892,73.82195,Female,Punjab,0,3,0,1486
+29,29. Government Boys Primery School- Nokhar Qadeem (Male),31.73922,73.82259,Male,Punjab,4,0,1865,0
+63,63. Government High School Bahalike Station,31.73942,73.68614,Combined,Punjab,2,1,788,527
+27,27. Government Girls Higher Secondary School- (Primary Section)- Farooqabad(Male),31.73963,73.82664,Male,Punjab,4,0,1843,0
+21,21. Government Boys Higher Secondary School-farooqabad- (Male),31.74036,73.83492,Male,Punjab,4,0,1696,0
+22,22. Government High School Near Telephone Exchange- Farooqabad (Female),31.74036,73.83495,Female,Punjab,0,3,0,1336
+23,23. Government Boys Higher Secondary School- farooqabad- (Male),31.74036,73.83498,Male,Punjab,4,0,1548,0
+24,24. Government Higher Secondary School- Near Telephone Exchange-Farooqabad (Female),31.74036,73.83501,Female,Punjab,0,3,0,1346
+28,28. Market Committee Ofice Farooqabad-(Female),31.74082,73.82751,Female,Punjab,0,3,0,1554
+163,163. Government.Boys Primary School- Rangar Nangal Chak No.285/RB*,31.74105864306332,73.49788991898029,Combined,Punjab,2,1,860,772
+17,17. Government Boys Middle School Near MC-Farooqabad (Male),31.74172,73.83279,Male,Punjab,4,0,2071,0
+19,19. Government Boys Middle School Near MC-Office Farooqabad (Male),31.74172,73.83282,Male,Punjab,4,0,1835,0
+13,13. Office Municipal Committee Farooqabad(Male),31.74186,73.83228,Male,Punjab,4,0,1711,0
+15,15. Government Girls Higher Secondary School (Meddle Section)- Railway Station Farooqabad(Male),31.74197,73.83179,Male,Punjab,4,0,1822,0
+152,152. Govt.Boys Primary School Chak No.13/RB Dhaban Kalan*,31.744467815332943,73.57775009729139,Combined,Punjab,2,1,877,601
+153,153. Govt.Boys Primary School Chak No.13/RB Tarialanwali*,31.745828276924254,73.62202256830709,Combined,Punjab,1,1,437,256
+150,150. Govt.Girls Middle School Chak No.13/RB Dhaban Kalan*,31.746017570367115,73.58025331426938,Combined,Punjab,2,1,763,519
+151,151. Govt.Girls Middle School Chak No.13/RB Dhaban Kalan*,31.746017570367115,73.5802833142694,Combined,Punjab,2,1,824,474
+12,12. Office of the SDO- WAPDA-Lahore Sargodha Road-Farooqabad(Female),31.74651,73.83878,Female,Punjab,0,3,0,1481
+9,9. Office of the SDO- WAPDA-Lahore Sargodha Road-Farooqabad(Female),31.74651,73.83881,Female,Punjab,0,3,0,1842
+14,14. Government Boys Primery School (Muhammad Pura) Javid colony -Farooqabad(Female),31.74687,73.82655,Female,Punjab,0,3,0,1341
+16,16. Government Boys Primery School Mohallah Islam Pura (Female),31.74687,73.82658,Female,Punjab,0,3,0,1551
+18,18. Government Boys Primery School Mohallah Guro nanak Pura Farooqabad (Female),31.74727,73.83456,Female,Punjab,0,4,0,1745
+6,6. Government Girls High School-Chisht Nagar-Farooqabad(Female),31.748890898609716,73.82909380298987,Female,Punjab,0,3,0,1449
+5,5. Government Girls High School-Chisht Nagar- Farooqabad (Male),31.748914604082753,73.82908730053288,Male,Punjab,4,0,1840,0
+8,8. Government Girls Middle School Mohallah Rasool Pura Farooqabad(Male),31.74923,73.83739,Male,Punjab,2,0,1150,0
+7,7. Government Girls Middle School Mohallah Rasool Pura Farooqabad(Male),31.7492348787434,73.83738910875265,Male,Punjab,2,0,1205,0
+160,160. Union Council Office Chak No.12/RB Ratti Tibbi,31.749284205638464,73.53050844362329,Combined,Punjab,2,2,1120,841
+10,10. Government Boys Primery School Sharqi Moh. Rasool Pura (Male),31.74954,73.84009,Male,Punjab,2,0,1132,0
+11,11. Government Boys Primery School Sharqi Moh. Rasool Pura (Male),31.74954,73.84012,Male,Punjab,2,0,1047,0
+2,2. Government Primery School Farooq Model Mohallah Chisht Nagar-Farooqabad(Female),31.750031561611614,73.82886332298237,Female,Punjab,0,3,0,1392
+53,53. Basic Health Unit- Farooqabad Village (Male),31.75032,73.80704,Male,Punjab,4,0,1953,0
+54,54. Basic Health Unit- Farooqabad Village (Female),31.75032,73.80707,Female,Punjab,0,4,0,1371
+162,162. Government.Girls Middle School- Chak No.12/RB*,31.751210558466372,73.5311740384131,Combined,Punjab,1,1,356,202
+36,36. Government Girls Primery School Bhandoor,31.75129,73.79115,Combined,Punjab,2,2,1036,723
+56,56. Government Girls Primery School KakeeVirkan,31.75145,73.73884,Combined,Punjab,2,2,1111,742
+47,47. Government Boys High School Farooqabad Village,31.75164,73.79765,Combined,Punjab,2,1,765,486
+48,48 Government Boys High School Farooqabad Village,31.75164,73.79768,Combined,Punjab,1,1,557,369
+49,49. Government Boys High School Farooqabad Village,31.75164,73.79771,Combined,Punjab,2,1,710,512
+50,50. Government Boys High School Farooqabad Village,31.75164,73.79774,Combined,Punjab,1,1,627,454
+62,62. Government Model Primary School- Jhok Khurd (Chak No.14),31.75398,73.64326,Combined,Punjab,1,1,521,308
+125,125. Government.Boys Primary School- Jhok Chaddran*,31.75403499811099,73.64322847302908,Combined,Punjab,1,1,457,334
+55,55. Office of Union Council No. 81- Farooqabad Village,31.75429,73.80009,Combined,Punjab,2,1,989,622
+46,46. Veterinary Hospital Farooqabad Village.,31.75471,73.80035,Combined,Punjab,2,1,680,449
+159,159. Government.Middle School- Chak No.12/RB Rati Tibbi*,31.755501812164116,73.53387060963124,Combined,Punjab,1,1,547,411
+158,158. Government.Middle School- Chak No.12/RB Rati Tibbi*,31.75554392789252,73.53388086533755,Combined,Punjab,2,1,1283,831
+44,44. Government Project Boys High School Farooqabad,31.75635,73.82991,Combined,Punjab,2,2,839,599
+3,3. Government Project High School-Canal colony-Farooqabad-(Male),31.75637978415821,73.83006865544702,Male,Punjab,4,0,1600,0
+1,1. Government Project High School-Canal colony-Farooqabad-(Male),31.756387474185125,73.83006839283833,Male,Punjab,4,0,1622,0
+4,4. Government Project High School-Canal colony-Farooqabad- (Female),31.756389664507328,73.83005989718994,Female,Punjab,0,2,0,1194
+34,34. Agronomic Research Station (Agricultural Department) Farooqabad(Male),31.75819,73.79958,Male,Punjab,3,0,1394,0
+35,35. Agronomic Research Station (Agricultural Department) Farooqabad(Female),31.75819,73.79961,Female,Punjab,0,2,0,976
+59,59. Government Girls High School Sheroke,31.75889,73.68468,Combined,Punjab,2,2,920,650
+60,60. Government Girls High School Sheroke,31.75889,73.68471,Combined,Punjab,1,1,662,425
+61,61. Government Boys Elementry School- Sheroke,31.75911,73.68542,Combined,Punjab,1,1,568,402
+57,57. Government Girls Primery School Sawankey,31.76075,73.69928,Combined,Punjab,2,1,793,496
+137,137. Government.Girls Primary School- Chak No.9/RB Mataba*,31.761580336781492,73.60779551463182,Combined,Punjab,2,1,983,643
+161,161. Government.Boys High School- Goband Gharh*,31.76902461335304,73.54386239234745,Combined,Punjab,1,1,425,321
+40,40. Government Boys Elementry School- Dera Mallah Singh,31.77086,73.74837,Combined,Punjab,2,2,1203,868
+41,41. Government Boys Elementry School- Dera Mallah singh,31.77086,73.7484,Combined,Punjab,2,2,1214,870
+135,135. Basic Health Unit- Chak No.8/RB Qilla Meer Zaman*,31.77176,73.59019,Combined,Punjab,2,2,1221,832
+38,38. Basic Health Unit- Kot Sondha,31.7729,73.77635,Combined,Punjab,2,1,728,466
+37,37. Government Boys High School Kot Sondha,31.77351,73.77601,Combined,Punjab,2,1,923,802
+136,136. Government.Girls Elementry School- Chak No.8/RB Qilla Meer Zaman*,31.77377138856491,73.59231231720426,Combined,Punjab,1,1,387,263
+42,42. Government Girls Primery School Sarkary Khurd,31.77397,73.73816,Combined,Punjab,2,2,1078,664
+58,58. Government Girls Elementary School- Chanianwali.,31.77407,73.7067,Combined,Punjab,1,1,457,270
+39,39. Government Girls High School Kot Sondha,31.7743,73.77368,Combined,Punjab,2,2,880,666
+43,43. Government Primery School Dera Kundun Singh,31.77674,73.80505,Combined,Punjab,1,2,951,599
+133,133. Government.Boys Primary School- Tarray Wala*,31.783468441416023,73.53499032274061,Combined,Punjab,2,1,747,533
+122,122. Government.Primary School- Mian Ali Faqiran*,31.78408109505329,73.6518040261848,Combined,Punjab,2,1,831,553
+124,124. Government.Boys Middle School- Mian Ali Dogran*,31.785678164011912,73.64990690191425,Combined,Punjab,2,1,1083,614
+173,173. Government.Boys High School- Chak No.11/RB Borrianwala*,31.790597405626805,73.48965628186258,Combined,Punjab,2,2,964,654
+175,175. Government.Boys Primary School- Chak No.11/RB Borrianwala*,31.79065004829595,73.48965256309688,Combined,Punjab,1,1,410,277
+180,180. Government Girls Elementary School- Chak No.11/RB Borrianwala (229),31.79101,73.48946,Combined,Punjab,1,1,540,355
+172,172. Government.Boys High School- Chak No.11/RB Borrianwala*,31.7910125048091,73.48945743507834,Combined,Punjab,2,1,825,476
+174,174. Government.Girls Middle School- Chak No.11/RB Borrianwala*,31.7910125048091,73.4894874350783,Combined,Punjab,2,1,821,506
+123,123. Government.Boys Primary School- Kot Mirza Din Muhammad*,31.79219,73.62489,Combined,Punjab,1,1,343,196
+134,134. Government.Boys Primary School- Sher Singh Wala*,31.79234483662233,73.58549492503235,Combined,Punjab,1,1,555,389
+31,31. Government Boys School- Rechand(Male),31.79841,73.73427,Male,Punjab,2,0,1137,0
+32,32 Government Boys School- Rechand(Male),31.79841,73.7343,Male,Punjab,2,0,1143,0
+33,33. Government Girls Community Model School- (Girls Section )- Rechand. (Female ),31.79843,73.73428,Female,Punjab,0,3,0,1528
+138,138. Government.Girls Primary School- Mangat*,31.800369541627127,73.56120675990667,Combined,Punjab,2,1,869,623
+127,127. Government.Boys Primary School- Sallar Sydian*,31.813838089864536,73.66512563161172,Combined,Punjab,1,1,677,509
+128,128. Government.Girls Middle School- Sallar Bhattian*,31.81633832855036,73.6561475581348,Combined,Punjab,1,1,563,426
+129,129. Government.Boys High School- Chak No.4/ Rehman Abad*,31.817491746795454,73.57410451899224,Combined,Punjab,1,1,611,413
+130,130. Government.Girls Middle School- Chak No.4/Rehman Abad*,31.817554616088827,73.57084492644906,Combined,Punjab,2,1,1055,716
+131,131. Government.Boys Primary School- Chak No.3/RB*,31.820782880693876,73.53041442224337,Combined,Punjab,2,1,601,492
+132,132. Government.Boys Primary School- Chak No.3/RB*,31.820782880693876,73.5304444222434,Combined,Punjab,2,1,665,435
+102,102 Government.Girls Primary School Khanqah Dogran(Male),31.82793964674773,73.61606925440222,Male,Punjab,3,0,1928,0
+120,120. Government.Boys Primary School- Mohallah Muhammad Pura*,31.82852071305633,73.61621980795327,Combined,Punjab,2,1,973,577
+101,101 Government.Vet.Hospital Khanqa Dogran(Male),31.832853042327596,73.61911318718994,Male,Punjab,3,0,1609,0
+95,95. Rural Health Center Hospital Khanqa Dogran.,31.83410663462562,73.61815137057509,Combined,Punjab,2,2,1054,773
+99,99. Government.Middle School- Boharwala Gujranwala road- Khanqa Dogran(Female),31.834142641938158,73.62138753804794,Female,Punjab,0,4,0,1650
+100,100. Government.Girls Primary School- Near Hospital Khanqa Dogran(Male),31.83415926956921,73.61923904664332,Male,Punjab,3,0,884,0
+177,177. Government.Girls Primary School- Near Hospital Khanqa Dogran (157)(Male),31.83415926956921,73.6192690466433,Male,Punjab,3,0,1146,0
+98,98. Government.Girls Primary School- Thatha Assian(Female),31.834451003559725,73.62703354273482,Female,Punjab,0,3,0,1675
+176,176. Government Girls Degree College Khanqah Dogran. (154)(Male),31.83463,73.61717,Male,Punjab,3,0,1228,0
+104,104. Government.Girls High School- Khanqa Dogran(Male),31.835066890550575,73.61992961368068,Male,Punjab,4,0,1718,0
+105,105. Government.Girls High School- Khanqa Dogran(Male),31.835071535364026,73.61994979747084,Male,Punjab,2,0,946,0
+97,97. Office of Town Committee Khanqah Dogran(Male),31.835262061276737,73.61864873492674,Male,Punjab,3,0,1028,0
+178,178. Government Boys Higher Secondary School- Khanqa Dogran. (160)(Female),31.835633933607454,73.61889335053216,Female,Punjab,0,2,0,1290
+106,106. Government. Higher Secondery School Khanqa Dogran(Female),31.835656990660507,73.61891484650336,Female,Punjab,0,4,0,2046
+96,96. Government.Middle School- Boardingwala Khanqa Dogran combined*,31.835811890341457,73.61949064100254,Combined,Punjab,2,2,842,765
+103,103. Government.Boys High School- Khanqa Dogran(Female),31.835811890341457,73.6195206410025,Female,Punjab,0,3,0,1146
+121,121. Project Manager office Khanqa Dogran,31.83658945814496,73.61943365596132,Combined,Punjab,1,1,397,214
+139,139. Government.Girls Primary School- Malley Shashoo*,31.84560391133902,73.56071508479195,Combined,Punjab,2,2,1125,831
+144,144. Government.Midle School- Cheena(Male),31.84821899565767,73.61110662236823,Male,Punjab,4,0,1772,0
+145,145. Government.Midle School- Cheena(Female),31.848221306892444,73.61113314467286,Female,Punjab,0,2,0,1068
+140,140. Government.Girls Primary School- Chapanwali*,31.850024676324598,73.58235611032046,Combined,Punjab,1,1,340,226
+141,141. Government.Girls Primary School- Chapanwali*,31.850024676324598,73.5823861103205,Combined,Punjab,1,1,481,372
+126,126. Government.Boys Primary School- Aswan*,31.86345076697439,73.66433723038779,Combined,Punjab,2,1,780,543
+147,147. Government. Boys Primary School Jhandwali,31.873491401041214,73.64148282683661,Combined,Punjab,1,1,657,420
+142,142. Government.Girls Primary School- Tibbi Bagho,31.876801545823433,73.55989167296687,Combined,Punjab,1,1,475,323
+143,143. Gpvt.Boys Primary School- Chak No.1/RB Tibbi Bagho*,31.876817592665486,73.5598468188925,Combined,Punjab,2,1,990,643
+146,146. Government.Girls Middle School- Kalsian*,31.87928068673919,73.69139508086816,Combined,Punjab,2,2,881,713

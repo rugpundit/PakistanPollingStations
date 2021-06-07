@@ -1,0 +1,118 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+68,GPS Shahdad Lolai (Improvised),28.04287,69.17091,Male,Sindh,3,0,909,0
+69,GPS Muhammad Usman Lolai (Improvised),28.04639,69.17805,Female,Sindh,0,2,0,764
+70,GPS Tilan Arbani (Improvised),28.05129,69.18262,Male,Sindh,3,0,1197,0
+71,GPS Tilan Arbani (Improvised),28.05129,69.18265,Female,Sindh,0,2,0,838
+65,GPS  Yar Mohammad Indhar (Improvised),28.05407,69.19422,Male,Sindh,3,0,986,0
+66,GPS  Yar Mohammad Indhar (Improvised),28.05407,69.19425,Female,Sindh,0,2,0,883
+58,GPS Jatoi Jagirani,28.06457,69.19628,Male,Sindh,3,0,1053,0
+59,GPS Jatoi Jagirani,28.06457,69.19631,Female,Sindh,0,2,0,862
+63,GPS Muhammad Hayat Jagirani,28.06772,69.20135,Combined,Sindh,2,1,775,654
+64,GPS Abdul Rasheed Jagirani P-I,28.08529,69.12879,Combined,Sindh,2,1,814,825
+67,GPS Pandhi Jagirani (Improvised),28.09147,69.12029,Combined,Sindh,2,1,657,510
+60,GPS Soomar Jagirani (Improvised),28.09717,69.17886,Combined,Sindh,2,1,718,661
+50,Banglow Shewal ji Landhi,28.09945,69.11056,Combined,Sindh,2,1,689,542
+51,GHS Rais Muhammad Hayat Ogahi,28.09996,69.11018,Combined,Sindh,2,2,879,634
+44,GPS Old Fojo Lolai,28.10048,69.13197,Male,Sindh,2,0,973,0
+45,GMS Old Fojo Lolai,28.10048,69.132,Female,Sindh,0,2,0,934
+46,GPS Pahlwan Lolai,28.10313,69.11558,Combined,Sindh,1,1,396,266
+61,GPS Sarfraz Khan Sundrani (Improvised),28.11515,69.1647,Male,Sindh,2,0,857,0
+62,GPS Sarfraz Khan Sundrani (Improvised),28.11515,69.16473,Female,Sindh,0,2,0,786
+47,GPS Nehal Jaffiry (Improvised),28.11861,69.1125,Combined,Sindh,2,1,690,565
+49,GPS Mulaan Menhoon Oghai-,28.12833,69.03694,Combined,Sindh,1,1,540,439
+48,GPS Abdul Rasheed Ogahi (Improvised),28.13404,69.06706,Combined,Sindh,1,1,541,371
+113,GBPS Ghouspur,28.13808,69.08401,Male,Sindh,4,0,1391,0
+114,GBPS Ghouspur,28.13808,69.08404,Female,Sindh,0,3,0,1129
+115,GHSS Ghouspur,28.13828,69.08522,Male,Sindh,4,0,1828,0
+116,GHSS Ghouspur,28.13828,69.08525,Female,Sindh,0,3,0,1484
+117,GPS Mohsin shah Jeelani,28.13871,69.08792,Male,Sindh,3,0,1088,0
+118,GPS Mohsin shah Jeelani,28.13871,69.08795,Female,Sindh,0,2,0,888
+111,GGHS Ghouspur,28.13881,69.08092,Male,Sindh,4,0,1544,0
+112,GGHS Ghouspur,28.13881,69.08095,Female,Sindh,0,3,0,1235
+57,GPS Jam Suhanro,28.14405,69.17532,Combined,Sindh,2,2,1088,742
+56,Insp: Banglow Tori,28.15306,69.16361,Female,Sindh,0,3,0,1148
+55,GPS Jhangal Meerani,28.15561,69.16403,Male,Sindh,3,0,1374,0
+107,GGPS Dari,28.15649,69.11143,Male,Sindh,2,0,1000,0
+108,GGPS Dari,28.15649,69.11146,Female,Sindh,0,2,0,842
+110,GHSS Dari,28.15656,69.1072,Female,Sindh,0,3,0,1216
+109,GBPS Dari,28.15705,69.11361,Male,Sindh,3,0,1317,0
+106,GGHS Dari,28.15754,69.11821,Combined,Sindh,2,1,783,667
+105,GPS Sahib Khan  Comb:,28.16314,69.10197,Combined,Sindh,1,1,465,406
+54,GPS Umar Sundhrani (Improvised),28.17813,69.23225,Combined,Sindh,2,1,1034,793
+23,GPS Jam Sawand,28.18789,69.27052,Combined,Sindh,2,1,578,414
+52,GHS Sheral Abad,28.18928,69.21558,Male,Sindh,3,0,1580,0
+53,GPS Sardar Abad,28.19083,69.21222,Female,Sindh,0,3,0,1254
+22,GPS Jeewan Golo (Improvised),28.19864,69.28487,Combined,Sindh,2,1,835,678
+41,GGPS Tiloo Qambrani,28.20221,69.1459,Female,Sindh,0,3,0,934
+24,TCF School Haibat Khan Bajkani P-I,28.22155,69.18753,Combined,Sindh,2,1,794,541
+25,TCF School Haibat Khan Bajkani P-II,28.22155,69.18756,Combined,Sindh,1,1,469,355
+40,GPS Tiloo Qambrani,28.22735,69.16882,Male,Sindh,2,0,1295,0
+39,GPS Faizpur Sharif,28.22914,69.17343,Combined,Sindh,1,1,910,662
+26,GPS Basham Bajkani,28.23148,69.18999,Combined,Sindh,1,1,626,479
+104,GPS Dost Ali Suhriyani,28.23265,69.16729,Combined,Sindh,2,2,760,623
+31,GPS Rajo Khan Mohammadani P-I,28.23272,69.21693,Male,Sindh,4,0,1741,0
+32,GPS Rajo Khan Mohammadani P-II,28.23272,69.21696,Female,Sindh,0,3,0,1309
+103,GHS Mehran Bypass,28.23384,69.18485,Combined,Sindh,2,2,601,485
+95,GPS Main Kandhkot Portion-I,28.24015,69.1812,Male,Sindh,4,0,1934,0
+96,GPS Main Kandhkot Portion-II,28.24015,69.18123,Female,Sindh,0,4,0,1520
+94,GHS Bhittai Kandhkot,28.24024,69.18004,Combined,Sindh,2,2,898,711
+92,GGHSS Kandhkot Portion-I,28.24089,69.18056,Male,Sindh,3,0,997,0
+93,GGHSS Kandhkot Portion-II,28.24089,69.18059,Female,Sindh,0,2,0,822
+35,GPS Gh:Sarwar Suhriyani @ Rahmat Khan  Comb:,28.241,69.15874,Combined,Sindh,2,2,956,716
+100,Govt: Elem.College (Edu) Portion-IV,28.24178,69.18444,Female,Sindh,0,4,0,1680
+97,Govt: Elem.College (Edu) Portion-I,28.24178,69.18447,Male,Sindh,3,0,1205,0
+98,Govt: Elem.College (Edu) Portion-II,28.24178,69.1845,Female,Sindh,0,3,0,946
+99,Govt: Elem.College (Edu) Portion-III,28.24178,69.18453,Male,Sindh,4,0,2104,0
+101,GHSS Kandhkot Portion-I,28.24203,69.18201,Male,Sindh,3,0,1351,0
+102,GHSS Kandhkot Portion-II,28.24203,69.18204,Female,Sindh,0,3,0,933
+34,GMS Subho Ogahi,28.24268,69.17992,Combined,Sindh,2,2,916,836
+90,GPS Adrish Portion-I,28.24302,69.18008,Male,Sindh,4,0,1914,0
+91,GPS Adrish Portion-II,28.24302,69.18011,Female,Sindh,0,4,0,1547
+83,Govt: Degree College Kandhkot Portion-I,28.24365,69.18423,Combined,Sindh,2,2,949,817
+84,Govt: Degree College Kandhkot Portion-II,28.24365,69.18426,Male,Sindh,3,0,1286,0
+85,Govt: Degree College Kandhkot Portion-III,28.24365,69.18429,Female,Sindh,0,3,0,955
+88,GHSS Mehran Portion-I,28.2439,69.17958,Male,Sindh,4,0,1597,0
+89,GHSS Mehran Portion-II,28.2439,69.17961,Female,Sindh,0,4,0,1341
+28,GGPS Suhrab Khan Pathan,28.24749,69.16935,Female,Sindh,0,3,0,1189
+27,GPS Suhrab Khan Pathan,28.24752,69.16978,Male,Sindh,2,0,1457,0
+86,GPS Mumtaz Abad Portion-I,28.24803,69.17517,Male,Sindh,4,0,1816,0
+87,GPS Mumtaz Abad Portion-II,28.24816,69.17531,Female,Sindh,0,4,0,1279
+20,GMS Gublo (Improvised),28.24837,69.34715,Male,Sindh,4,0,1680,0
+21,GMS Gublo,28.24837,69.34718,Female,Sindh,0,3,0,1229
+78,GPS old Mirzapur  Portion-I,28.24838,69.18166,Male,Sindh,4,0,1659,0
+79,GPS Old Mirzapur Portion-II,28.24838,69.18169,Female,Sindh,0,4,0,1299
+72,GPS Abdul Hakeem Noonari,28.24842,69.17898,Male,Sindh,4,0,2007,0
+37,GPS Sijawal Sabzoi Female,28.24976,69.17107,Female,Sindh,0,2,0,926
+80,Food Godown Portion-I,28.24989,69.18683,Male,Sindh,3,0,1145,0
+81,Food Godown Portion-II,28.24989,69.18686,Female,Sindh,0,3,0,924
+82,Food Godown Portion-III,28.24989,69.18689,Combined,Sindh,2,2,1162,852
+76,MC Kandhkot Portion-I,28.25017,69.18159,Male,Sindh,2,0,837,0
+77,MC Kandhkot Portion-II,28.25017,69.18162,Female,Sindh,0,2,0,644
+73,GGPS Azizullah Awan,28.25117,69.17631,Female,Sindh,0,4,0,1480
+74,GPS Workshop Portion-I,28.2543,69.18243,Male,Sindh,4,0,1692,0
+75,GPS Workshop Portion-II,28.2543,69.18246,Female,Sindh,0,4,0,1283
+36,GPS Mubark Suhriyani Male,28.25525,69.16829,Male,Sindh,3,0,1231,0
+13,PWD Banglow @ Illahi Bux Bangwar (Improvised),28.26389,69.36166,Combined,Sindh,2,2,1012,818
+29,GPS Khuda Abad P-I,28.26444,69.19017,Male,Sindh,4,0,1868,0
+30,GPS Khuda Abad P-II,28.26444,69.1902,Female,Sindh,0,3,0,1355
+42,GPS Syed Ibrahim Shah (Improvised),28.2657,69.23651,Combined,Sindh,2,1,594,467
+33,GPS Bahoo Sabzoi (Improvised),28.26582,69.16772,Combined,Sindh,2,1,967,677
+43,GPS Bahawal-U-Din Bangwar,28.26673,69.23148,Combined,Sindh,1,1,696,531
+3,GHS Khahi,28.27433,69.35923,Male,Sindh,3,0,1475,0
+4,GHS Khahi,28.27433,69.35926,Female,Sindh,0,2,0,1148
+18,GPS Muhammad Bux Bhutto (Improvised),28.28007,69.44385,Male,Sindh,4,0,1545,0
+19,GPS Muhammad Bux Bhutto (Improvised),28.28007,69.44388,Female,Sindh,0,3,0,1207
+8,GPS Dur Mohd Sanghi,28.28825,69.41675,Combined,Sindh,2,1,841,682
+10,GPS Badani P-II (Improvised),28.30164,69.42183,Female,Sindh,0,3,0,1220
+11,GPS Badani Portion-III,28.30164,69.42186,Male,Sindh,3,0,1783,0
+12,GPS Badani Portion-IV,28.30164,69.42189,Female,Sindh,0,3,0,1476
+9,GPS Badani-P-I,28.30164,69.42192,Male,Sindh,3,0,1507,0
+7,GPS Mohd Siddique Chhijan,28.30179,69.39671,Combined,Sindh,1,1,695,514
+14,GPS Jam Mehar Samejo (Improvised),28.30242,69.44985,Male,Sindh,3,0,1607,0
+15,GPS Jam Mehar Samejo (Improvised),28.30242,69.44988,Female,Sindh,0,3,0,1216
+2,GPS Jaro Khan Bangwar (Improvised),28.31167,69.33723,Combined,Sindh,2,1,732,578
+1,GHS Rasool Bux Chachar (Improvised),28.31937,69.36671,Combined,Sindh,2,1,841,629
+5,GPS Imtaiz Ali Khan Domki (Improvised),28.32387,69.38718,Male,Sindh,3,0,1192,0
+6,GPS Imtaiz Ali Khan Domki (Improvised),28.32387,69.38721,Female,Sindh,0,2,0,920
+16,GPS Ghulam Mohd: Mazari,28.34147,69.4542,Male,Sindh,4,0,1676,0
+17,GPS Ghulam Mohd: Mazari,28.34147,69.45423,Female,Sindh,0,3,0,1370

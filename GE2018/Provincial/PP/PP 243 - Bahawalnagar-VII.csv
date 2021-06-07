@@ -1,0 +1,159 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+49,Govt. Girls Elementary School 119/6-R   (Combined)    *P,26.9111,70.02019,Combined,Punjab,2,1,766,683
+156,Govt. Higher Secondary School Girls 185/7.R   (Male)    *P,29.32752,72.94017,Male,Punjab,2,0,1188,0
+155,Govt. Primary School Boys 185/7.R ) (West)     (Female)    *P,29.32795,72.9377,Female,Punjab,0,2,0,956
+157,Govt. High School Boys 185/7.R   (Combined)    *P,29.33135,72.95396,Combined,Punjab,2,2,1068,762
+158,Govt. High School Boys 185/7.R   (Combined)    *P,29.33135,72.95399,Combined,Punjab,2,2,1062,806
+149,Govt. Primary School Boys 186/7.R    (Combined)    *P,29.34746,72.99508,Combined,Punjab,2,1,845,615
+162,Govt.Boys High School 170/7.R    (Combined)    *P,29.35631,72.97353,Combined,Punjab,2,1,983,687
+150,Govt Girls High School 169/7.R    (Combined)    *P,29.36129,72.98722,Combined,Punjab,2,1,772,543
+159,Govt. Primary School Girls 171/7.R (E)   (Combined)    *P,29.36133,72.94225,Combined,Punjab,2,1,821,568
+163,Govt. Primary School Girls 177/7.R   (Combined)    *P,29.366,72.88356,Combined,Punjab,1,1,671,486
+160,Govt.Girls Elementry School 172/7.R   (Combined)    *P,29.36891,72.90783,Combined,Punjab,2,1,987,656
+87,Govt.Boys Middle School 192/7.R   (Combined)    *P,29.38752,73.08307,Combined,Punjab,1,1,716,460
+151,Govt. Primary School Boys 168/7.R.(Blochan)    (Combined)    *P,29.39047,73.04287,Combined,Punjab,2,1,756,531
+153,Govt.Girls Elementry School 166/7.R (E)   (Combined)    *P,29.39101,72.99232,Combined,Punjab,2,1,934,665
+154,Govt. Girls Primary School Chak No. 167/7.R   (Combined)    *P,29.39216,73.02038,Combined,Punjab,2,1,743,518
+161,Govt. Primary School Girls 173/7.R (E)   (Combined)    *P,29.39475,72.91483,Combined,Punjab,2,2,1106,842
+91,Govt. Girls Model Primary School Chak No.156/HB    (Combined)    *P,29.40052,73.15739,Combined,Punjab,1,1,554,464
+152,Govt. Primary School Girls 165/7.R   (Combined)    *P,29.40451,73.01064,Combined,Punjab,2,1,807,594
+85,Govt. Girls Model Primary School 193/7.R (PEF)   (Combined)    *P,29.40499,73.12084,Combined,Punjab,1,1,504,347
+92,Govt. Girls Primary School Chak No.163/7R   (Combined)    *P,29.40678,73.08313,Combined,Punjab,1,1,388,281
+64,Govt. E/School Boys 139/6.R   (Combined)    *P,29.40961,72.97039,Combined,Punjab,2,1,904,634
+61,Govt. Girls High School 132/6.R   (Combined)    *P,29.41612,72.90115,Combined,Punjab,2,2,990,735
+84,Govt. High School Boys 155/3.L   (Combined)    *P,29.41746,73.1776,Combined,Punjab,1,1,673,458
+67,Govt. Boys Middle School 138/6.R   (Combined)    *P,29.41852,72.97771,Combined,Punjab,1,1,598,508
+62,Govt. Primary School Boys 133/6.R   (Combined)    *P,29.41862,72.93156,Combined,Punjab,2,1,933,693
+75,Govt. Girls Primay school  137/6.R   (Combined)    *P,29.42352,72.9969,Combined,Punjab,2,2,1108,697
+89,Govt. Primary School  161/7.R North Azafi  (Combined)    *P,29.42888,73.1296,Combined,Punjab,2,2,1059,710
+63,Govt. Primary School Boys 134/6.R   (Combined)    *P,29.43296,72.9463,Combined,Punjab,2,2,1055,760
+76,Govt. Middle School Girls 141/6.R   (Combined)    *P,29.43315,73.02277,Combined,Punjab,2,2,1147,804
+88,Govt. Primary School Boys 157/.3.L   (Combined)    *P,29.43448,73.16672,Combined,Punjab,1,1,645,526
+66,Govt.Girls Middle School 135/6.R   (Combined)    *P,29.43484,72.96474,Combined,Punjab,2,2,963,765
+82,Govt. Primary School Boys 160/7.R   (Combined)    *P,29.43901,73.13737,Combined,Punjab,1,1,694,481
+77,Govt. Girls High School Chak No.142/6R   (Combined)    *P,29.44087,73.05875,Combined,Punjab,2,1,884,681
+55,Govt.   Primary School Nai Abadi Faqir wali   (Combined)    *P,29.44613,73.03004,Combined,Punjab,2,1,712,542
+78,Govt. Boys Primary School 143/6.R   (Combined)    *P,29.44752,73.0779,Combined,Punjab,2,1,786,626
+65,Govt. Primary School Boys 125/6.R   (Combined)    *P,29.44777,72.98451,Combined,Punjab,1,1,422,350
+70,Govt.Girls High School 127/6.R (East)   (Combined)    *P,29.44845,72.92896,Combined,Punjab,1,1,579,447
+71,Govt.Girls High School 127/6.R (East)   (Combined)    *P,29.44848,72.92852,Combined,Punjab,2,1,685,545
+83,Govt. Boys Elementary School Chak No.154/3L   (Combined)    *P,29.4495,73.18853,Combined,Punjab,2,1,793,606
+47,Govt. Girls Primary School Chak No.124/6R Faqirwali   (Combined)    *P,29.45039,73.01862,Combined,Punjab,2,1,886,660
+69,Govt.Girls Middle School 126/6.R   (Combined)    *P,29.45108,72.96124,Combined,Punjab,2,1,954,662
+56,Govt. Girls Primary School Madni Colony   (Combined)    *P,29.45281,73.02928,Combined,Punjab,1,1,574,424
+90,Govt. Girls Primary School Chak No.159/7R   (Combined)    *P,29.45541,73.11408,Combined,Punjab,1,1,523,418
+80,Govt. Girls High School 158/7.R   (Combined)    *P,29.45594,73.14913,Combined,Punjab,1,1,416,311
+81,Govt. Girls High School 158/7.R   (Combined)    *P,29.45631,73.14938,Combined,Punjab,2,1,804,555
+72,Govt. Primary School Boys 124/6.R   (Combined)    *P,29.46159,73.02924,Combined,Punjab,1,1,509,368
+48,Govt. Primary School Boys Chak No.124/6.R   (Combined)    *P,29.46164,73.02934,Combined,Punjab,1,1,559,386
+53,Govt. Higher Secondary School Chak No.123/6R   (Combined)    *P,29.46424,73.04488,Combined,Punjab,1,1,460,401
+54,Govt. Higher Secondary School Chak No.123/6R   (Combined)    *P,29.46424,73.04491,Combined,Punjab,2,1,775,668
+73,Govt. Boys Higheer Secondary School 123/6.R   (Combined)    *P,29.46424,73.04494,Combined,Punjab,2,2,958,763
+74,Govt. High School Boys Chak No.123/6.R   (Combined)    *P,29.46424,73.04497,Combined,Punjab,1,1,346,266
+57,Govt. Primary School Old Building Purana Bazar Faqirwali   (Combined)    *P,29.46628,73.03683,Combined,Punjab,1,1,619,519
+79,Govt. Primary School Boys 144/6.R   (Combined)    *P,29.46777,73.10561,Combined,Punjab,2,1,950,738
+59,Residence of Naib Tehsildar Tehsil Office Faqir Wali Haroonabad  (Combined)    *P,29.46912,73.03857,Combined,Punjab,1,1,491,435
+58,Veternary Hospital Faqirwali   (Combined)    *P,29.4694,73.03341,Combined,Punjab,2,1,894,757
+68,Govt. Primary School Boys 117/6.R   (Combined)    *P,29.47042,72.94775,Combined,Punjab,1,1,671,542
+99,Govt. Girls High School 152/2.L   (Combined)    *P,29.47399,73.19203,Combined,Punjab,1,1,686,440
+52,Union Council Office Faqirwali   (Combined)    *P,29.47575,73.04471,Combined,Punjab,2,1,783,642
+60,Office of Assisstant Edeucation Officer (Male)   (Combined)    *P,29.47649,73.04512,Combined,Punjab,2,1,858,719
+105,Govt. Girls Primary School Chak No.151/2L   (Combined)    *P,29.4767,73.20514,Combined,Punjab,1,1,531,456
+100,Govt. High School Boys 146/6.R   (Combined)    *P,29.47723,73.12069,Combined,Punjab,1,1,422,360
+51,Union Council Office Faqirwali   (Combined)    *P,29.47771,73.05048,Combined,Punjab,1,1,484,393
+50,Govt. Girls Elementary School Islampura   (Combined)    *P,29.47886,73.03767,Combined,Punjab,2,2,960,761
+98,Govt. Communiti Model Girls School 147/6.R   (Combined)    *P,29.48057,73.13642,Combined,Punjab,2,2,1047,844
+127,Govt. Primary School Boys 120/6.R (Azafi Basti) Male   (Male)    *P,29.48101,73.04798,Male,Punjab,3,0,1669,0
+120,Govt. Primary School Boys 121/6.R   (Combined)    *P,29.48583,73.0647,Combined,Punjab,2,1,836,642
+126,Govt. Primary School Girls 121/6.R (Azafi Basti)   (Female)    *P,29.48583,73.06473,Female,Punjab,0,2,0,1151
+97,Govt. Elementary School Boys 148/6.R   (Combined)    *P,29.49534,73.15507,Combined,Punjab,2,1,720,541
+128,Govt. Girls Elementry School 112/6.R   (Combined)    *P,29.49978,73.02537,Combined,Punjab,1,1,680,455
+95,Govt. Boys Primary School 149/6.R    (Combined)    *P,29.50107,73.16837,Combined,Punjab,2,1,890,598
+116,Govt. Primary School Boys 98/6.R   (Combined)    *P,29.50153,73.1342,Combined,Punjab,2,2,953,770
+117,Govt. Girls Elementry School 99/6.R   (Combined)    *P,29.5071,73.10603,Combined,Punjab,2,1,935,672
+101,Govt. Girls Primary School 153/2.L   (Combined)    *P,29.50904,73.20427,Combined,Punjab,1,1,489,371
+118,Govt. High School Boys 100/6.R   (Combined)    *P,29.51122,73.06461,Combined,Punjab,2,2,1014,833
+104,Govt. Boys Middle School 150/2.L   (Combined)    *P,29.51461,73.21326,Combined,Punjab,2,1,799,604
+121,Govt. Primary School Boys 101/6.R   (Combined)    *P,29.51569,73.05711,Combined,Punjab,1,1,663,478
+102,Community Girls Model School 92/6.R    (Combined)    *P,29.51574,73.17182,Combined,Punjab,1,1,614,441
+129,Govt. Primary School Boys 102/6.R   (Combined)    *P,29.51655,73.03873,Combined,Punjab,2,1,816,594
+96,Govt. High School Boys 97/6.R   (Combined)    *P,29.51944,73.14761,Combined,Punjab,2,1,737,615
+119,Govt. Primary School Boys 122/6.R   (Combined)    *P,29.52026,73.06764,Combined,Punjab,2,1,850,664
+115,Govt. Elementary School Boys 96/6.R    (Combined)    *P,29.52345,73.11326,Combined,Punjab,2,1,882,745
+113,Govt. Elementry School Boys 95/6.R   (Combined)    *P,29.52653,73.08888,Combined,Punjab,2,1,695,576
+103,Govt.Boys High School Mian Wala Bangla   (Combined)    *P,29.52724,73.19179,Combined,Punjab,1,1,528,408
+93,Govt. Primary School Boys 93/6.R    (Male)    *P,29.53112,73.14741,Male,Punjab,3,0,1227,0
+94,Govt. Primary School Girls 93/6.R    (Female)    *P,29.53143,73.14567,Female,Punjab,0,2,0,958
+114,Govt. Girls E/School Chak No.94/6R   (Combined)    *P,29.53891,73.10633,Combined,Punjab,1,1,673,487
+124,Govt. High School Boys 68/4.R   (Combined)    *P,29.54851,73.04542,Combined,Punjab,2,1,833,658
+125,Govt. Primary School Boys Chak No.67/4.R   (Combined)    *P,29.54862,73.03059,Combined,Punjab,1,1,430,296
+123,Govt. Girls Elementry School 69/4.R    (Female)    *P,29.55079,73.06707,Female,Punjab,0,2,0,1142
+11,Govt. Boys Primary School Chak No.85/5R   (Combined)    *P,29.550902519177814,73.09381239564055,Combined,Punjab,1,1,724,485
+122,Govt. Boys Elementry School 69/4.R    (Male)    *P,29.55209,73.0686,Male,Punjab,3,0,1538,0
+112,Govt. Elementary School Girls 90/5.R    (Combined)    *P,29.55222,73.19639,Combined,Punjab,2,1,781,661
+134,Govt. Primary School Boys Chak No. 87/5R   (Combined)    *P,29.55305,73.15056,Combined,Punjab,1,1,546,442
+137,Govt. Boys Primary School 86/5.R   (Combined)    *P,29.55579,73.1286,Combined,Punjab,2,1,695,513
+111,Govt. Basic Health Unit 88/5.R   (Combined)    *P,29.56055,73.16861,Combined,Punjab,1,1,534,394
+107,Govt.Girls High School 79/1.L    (Combined)    *P,29.56167,73.20694,Combined,Punjab,1,1,649,463
+108,Govt. Girls Primary School Chak No.77/1L   (Combined)    *P,29.56167,73.20697,Combined,Punjab,1,1,627,465
+109,Govt. Primary School Boys 78/1.L   (Combined)    *P,29.56167,73.207,Combined,Punjab,1,1,582,479
+6,Govt. Primary School Boys 70/4.R   (Combined)    *P,29.56182984,73.0888124,Combined,Punjab,2,1,796,556
+136,Govt.Boys Primary School Bar Lab Pukhata Road Tibba Nolan Molan    (Male)    *P,29.56803,73.14779,Male,Punjab,4,0,1847,0
+132,Govt.Boys Primary School Chak No.84/5R   (Combined)    *P,29.57211,73.1107,Combined,Punjab,2,1,746,542
+135,Govt.Girls Middle School New Building Tibba Nolan Molan    (Female)    *P,29.57306,73.14544,Female,Punjab,0,3,0,1356
+141,Govt. Primary School Boys 81/1.L   (Combined)    *P,29.57965,73.2248,Combined,Punjab,1,1,369,261
+4,Govt. Primary School Boys 56/4.R   (Combined)    *P,29.58047451,73.07296585,Combined,Punjab,2,2,961,763
+5,Govt. Primary School Boys 57/4.R   (Combined)    *P,29.58770711,73.06203566,Combined,Punjab,2,2,964,742
+138,Govt. Middle School Boys 71/4.R (Tibba Ghalanwala)   (Combined)    *P,29.58979,73.1085,Combined,Punjab,2,1,950,642
+139,Govt. Elementary School Girls 71/4.R (Tibba ).   (Combined)    *P,29.59107,73.10825,Combined,Punjab,1,1,442,324
+133,Govt. Primary School Girls 72/4.R   (Combined)    *P,29.59216,73.13034,Combined,Punjab,2,1,734,619
+110,Govt. Boys Middle School 82/5.R   (Combined)    *P,29.59361,73.14583,Combined,Punjab,2,1,921,634
+148,Govt. Girls Primary School Chak No.74/4R Haroonabad   (Combined)    *P,29.59889,73.15,Combined,Punjab,2,1,942,688
+86,Govt. Primary School Boys 164/7.R   (Combined)    *P,29.59889,73.15003,Combined,Punjab,2,1,894,639
+35,Govt. Girls Middle School Chak No.73/4R    (Male)    *P,29.59889,73.15056,Male,Punjab,2,0,939,0
+36,Govt. Boys Primary School Chak No.73/4R    (Female)    *P,29.59889,73.15059,Female,Punjab,0,2,0,738
+140,Govt. Primary School Girls 75/4.R   (Combined)    *P,29.59918,73.17522,Combined,Punjab,1,1,557,435
+3,Govt. Boys Primary School Chak No.59/4R   (Combined)    *P,29.60309522,73.04824104,Combined,Punjab,2,2,944,710
+25,Govt. Girls Primary School Adda Chakkian Haroonabad    (Male)    *P,29.60324776,73.09781901,Male,Punjab,2,0,1077,0
+43,Govt. Degree Colllege Girls East Portion    (Male)    *P,29.60424,73.14052,Male,Punjab,4,0,1798,0
+44,Govt. Degree College Girls West Portion    (Female)    *P,29.60424,73.14055,Female,Punjab,0,3,0,1424
+24,Govt. Girls Primary School Chak No.55/4R    (Female)    *P,29.60429901,73.10915453,Female,Punjab,0,2,0,809
+37,Govt. High School Girls City Haroonabad    (Male)    *P,29.60477,73.13786,Male,Punjab,3,0,1845,0
+38,Govt. High School Girls City Haroonabad    (Female)    *P,29.60477,73.13789,Female,Punjab,0,3,0,1633
+130,Special Education Centre Chak 71/4R Tibba Ghalinawala   (Combined)    *P,29.60486,73.13235,Combined,Punjab,2,1,801,538
+131,Special Education Centre Chak 71/4R Tibba Ghalinawala   (Combined)    *P,29.60486,73.13238,Combined,Punjab,1,1,434,332
+31,Govt. Boys Primary School Houseing Colony    (Male)    *P,29.60538,73.13225,Male,Punjab,2,0,1039,0
+41,Govt. Girls Primary School Baldia Colony Haroonabad   (Male)    *P,29.60592,73.14203,Male,Punjab,2,0,963,0
+45,Govt. High School Boys Canal (Primary Portion)    (Male)    *P,29.60614,73.14672,Male,Punjab,2,0,1260,0
+42,Govt.MC.Girls Primary School Near Immambargah     (Female)    *P,29.60615,73.14345,Female,Punjab,0,2,0,897
+40,Office Union Council N0.80 Melad Chowk    (Female)    *P,29.60617,73.13741,Female,Punjab,0,2,0,1054
+144,SDO Bungla 62000   (Combined)    *P,29.60653,73.15366,Combined,Punjab,1,1,563,428
+34,Govt. Vocational College Haroonabad**T  (Male)    *P,29.60678,73.13146,Male,Punjab,3,0,1508,0
+27,Govt. Girls Primary School  Hasham Colony Haroonabad    (Female)    *P,29.60733,73.12469,Female,Punjab,0,3,0,1521
+39,Govt.MC High School Haroonabad    (Male)    *P,29.60828,73.13647,Male,Punjab,2,0,1101,0
+106,Govt. Girls Elementary School 80/1-L awan wali   (Combined)    *P,29.60889,73.15611,Combined,Punjab,2,1,893,721
+145,Govt. Boys Primary School Chak No.76/4R Azafi Basti Dehkan pura   (Combined)    *P,29.60917,73.14139,Combined,Punjab,2,1,744,517
+14,Muncipal Committee Shomali Portion Haroonabd   (Combined)    *P,29.60938529,73.13746421,Combined,Punjab,2,1,887,791
+15,Muncipal Committee Janoobi Portion   (Combined)    *P,29.60942488,73.13744277,Combined,Punjab,1,1,736,610
+17,Office Agriculture Haroonabad   (Combined)    *P,29.610185153762668,73.14482850528927,Combined,Punjab,1,1,654,519
+20,Govt. Rizvia Islamia High School Haroonabad Middle Block    (Female)    *P,29.610746873706553,73.14009806723763,Female,Punjab,0,2,0,1140
+23,Govt. Model High School Boys Haroonabad   (Combined)    *P,29.611123031625873,73.1386736674117,Combined,Punjab,2,2,1002,813
+19,Govt. Rizvia Islamia High School Haroonabad    (Male)    *P,29.611453436581886,73.14003034636178,Male,Punjab,3,0,1369,0
+22,Govt. Girls High School Haroonabad   (Combined)    *P,29.611681976789107,73.1390780548118,Combined,Punjab,2,2,991,829
+146,Govt. Boys Primary School Chak No.76/4R   (Combined)    *P,29.61234,73.14021,Combined,Punjab,1,1,669,499
+21,Govt. Girls High School Haroonabad Primary Portion    (Male)    *P,29.61247412081512,73.13916851961652,Male,Punjab,2,0,1170,0
+13,Govt. Girls High School Chak No.58/4R Block Middle    (Female)    *P,29.61298984,73.06289623,Female,Punjab,0,2,0,1066
+12,Govt. Girls High School Chak No.58/4R Block High    (Male)    *P,29.61303762,73.06287461,Male,Punjab,3,0,1429,0
+16,Govt. Girls Model Primary School Bhattha Muhammad Pura     (Female)    *P,29.61499959,73.14381226,Female,Punjab,0,2,0,1009
+29,Govt. Girls Primary School Mustafa Town Manzal Side    (Male)    *P,29.61578865,73.12977875,Male,Punjab,3,0,1338,0
+2,Govt.Girls Primary School 54/4.R Gujranwala   (Combined)    *P,29.61583,73.09167,Combined,Punjab,2,1,874,575
+18,Food Grain Office Haroonabad   (Combined)    *P,29.61607398,73.13807806,Combined,Punjab,1,1,558,489
+10,Govt. Institute of commerce college Haroonabad    (Male)    *P,29.61635523,73.13506321,Male,Punjab,2,0,1160,0
+28,Tehsil Welfare Officer Population Godi Haroonabad **T  (Female)    *P,29.61727073,73.13398604,Female,Punjab,0,2,0,992
+147,Govt. Primary School Boys Chak No. 50/4-R (Combined)  *P,29.62037,73.16539,Combined,Punjab,1,1,890,627
+8,Govt. Primary School Girls 53/4.R    (Female)    *P,29.62151657,73.11414581,Female,Punjab,0,2,0,955
+143,Govt. Girls Primary School Muslim Colony Haroonabad    (Female)    *P,29.62302,73.14668,Female,Punjab,0,3,0,1267
+142,Govt. Rizvia Islamia Post Graduate College for Boys Haroonabad    (Male)    *P,29.62493,73.14619,Male,Punjab,3,0,1635,0
+1,Govt. Boys Primary School Chak No.49/3R Near Dera Mahar Bahadar Ali   (Combined)    *P,29.6269,73.14307,Combined,Punjab,2,1,742,605
+7,Govt. Middle School Boys 48/3.R    (Male)    *P,29.63658862,73.12847189,Male,Punjab,3,0,1433,0
+9,Govt. Primary School Girls Chak No.48/3R    (Female)    *P,29.63725132,73.13528977,Female,Punjab,0,2,0,1105

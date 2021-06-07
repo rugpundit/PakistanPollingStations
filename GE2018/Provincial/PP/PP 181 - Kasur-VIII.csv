@@ -1,0 +1,142 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+142,Govt. Boys Elementary School Gandi Otar (Combined),31.10778,74.06612,Combined,Punjab,2,2,702,556
+10,Govt. Boys Primary School Longoki(Combined),31.1152051,74.4678122,Combined,Punjab,1,1,519,431
+127,Govt. Boys High School Kanwin Malian (Male),31.1267951,74.0283487,Male,Punjab,3,0,1144,0
+128,Govt. Boys High School Kanwain Malian (Female),31.1267951,74.0283787,Female,Punjab,0,2,0,846
+131,Govt. Boys High School Kanwain Malian (Male),31.1267951,74.0284087,Male,Punjab,3,0,1107,0
+132,Govt. Boys High School Kanwain Malian (Female),31.1267951,74.0284387,Female,Punjab,0,2,0,804
+133,Govt.Girls Elementry School Kot Mathrah Das(Combined,31.1267951,74.0284687,Combined,Punjab,1,1,144,93
+134,Govt. Boys Primary School Kot Baba Ujagar singh (Combined),31.1267951,74.0284987,Combined,Punjab,2,1,1821,1348
+135,Govt. Boys  High School Bhoy Asal (Male),31.1267951,74.0285287,Male,Punjab,3,0,1155,0
+136,Govt. Boys  High School Bhoy Asal (Female),31.1267951,74.0285587,Female,Punjab,0,2,0,835
+137,Govt.Girls High School Bhoy Asal (Male),31.1267951,74.0285887,Male,Punjab,3,0,1366,0
+138,Govt.Girls High School Bhoy Asal  (Female),31.1267951,74.0286187,Female,Punjab,0,3,0,1053
+143,Govt Primary School Kot Abdul Razzaq (Combined),31.1267951,74.0286487,Combined,Punjab,1,1,532,406
+144,Govt Primary School Kot Abdul Razzaq (Male),31.1267951,74.0286787,Male,Punjab,1,0,449,0
+145,Govt. Boys Primary School Chak No.14 (Male),31.1267951,74.0287087,Male,Punjab,2,0,486,0
+146,Govt. Boys Primary School Chak No.14 (Male),31.1267951,74.0287387,Male,Punjab,2,0,563,0
+129,Basic Health Unit  Kanwain Malian (Combined),31.15917,74.02862,Combined,Punjab,2,1,700,503
+67,Office of Union Council Khanke More (Combined),31.16472,73.90556,Combined,Punjab,2,1,585,392
+69,Govt  Elementry School Khanke More (Female),31.16556,73.90528,Female,Punjab,0,2,0,659
+125,Govt.Boys Primary School Bair Wala Warra (Combined),31.16801092721691,74.06807368646014,Combined,Punjab,2,1,439,240
+66,Govt.Girls Primary School Jalleke (Combined),31.16926212429065,73.94770222979743,Combined,Punjab,2,2,1203,839
+65,Govt. Boys Primary School Jalleke (Combined),31.16951089169912,73.9480301244556,Combined,Punjab,1,1,348,245
+60,Govt.Girls Primary School Dhoop Sari Rasulpur (Combined),31.1696284,74.0987277,Combined,Punjab,1,1,434,310
+61,Govt.Girls Primary School Dhoop Sari Rasulpur (Combined),31.1696284,74.0987577,Combined,Punjab,1,1,639,439
+126,Govt. Boys Primary School  Theh Kailay (Combined),31.1696284,74.0987877,Combined,Punjab,2,2,1851,1275
+1,Govt. Boys Elementry School Chak No.55 (Male),31.1725778,74.0982102,Male,Punjab,4,0,1591,0
+2,Govt. Boys Elementry School Chak No.55 (Male),31.1725778,74.0982402,Male,Punjab,2,0,1211,0
+3,Govt. Boys Elementry School Chak  No.55 (Female),31.1725778,74.0982702,Female,Punjab,0,4,0,2213
+9,Govt. Boys Primary School Jago ki (Combined),31.1725778,74.0983002,Combined,Punjab,1,1,589,413
+11,Govt. Boys Primary School Chak No.59-60 (Combined),31.1725778,74.0983302,Combined,Punjab,2,1,692,478
+12,Govt. Boys Primary School Chak No.59-60(Combined),31.1725778,74.0983602,Combined,Punjab,1,1,463,436
+13,Govt.Girls Elementry School Butt (Male),31.1725778,74.0983902,Male,Punjab,2,0,1168,0
+14,Govt.Girls Elementry School Butt (Female),31.1725778,74.0984202,Female,Punjab,0,2,0,775
+16,Govt.Girls Primary School Chak No.58  (Female),31.1725778,74.0984502,Female,Punjab,0,2,0,930
+17,Govt. Boys Primary School Bhail (Male),31.1725778,74.0984802,Male,Punjab,2,0,677,0
+18,Govt. Boys Primary School Bhail (Female),31.1725778,74.0985102,Female,Punjab,0,1,0,498
+20,Govt.  Boys Elementary School Rossa (Combined),31.1725778,74.0985402,Combined,Punjab,2,1,858,574
+21,Govt.Girls  Elementry School Rossa (Female),31.1725778,74.0985702,Female,Punjab,0,2,0,1010
+24,Govt. Model Primary School Prem Nagar (Combined),31.1725778,74.0986002,Combined,Punjab,2,1,719,530
+31,Office of Union Council Mudkey (Combined),31.1725778,74.0986302,Combined,Punjab,2,2,1048,781
+28,Basic Health Unit Mudkey (Male),31.1725778,74.0986602,Male,Punjab,2,0,955,0
+29,Basic Health Unit Mudkey (Female),31.1725778,74.0986902,Female,Punjab,0,1,0,587
+30,Govt.Boys High School Mudkey (Male),31.1725778,74.0987202,Male,Punjab,4,0,2271,0
+32,Govt.Boys High School Mudkey (Female),31.1725778,74.0987502,Female,Punjab,0,3,0,1580
+22,Govt. Boys Primary School Dhari Wal (Combined),31.1725778,74.0987802,Combined,Punjab,2,1,858,654
+5,Govt.Boys H/S School Kot Sardar Muhammad Khan (Male),31.17382769,74.09011957,Male,Punjab,3,0,1285,0
+6,Govt.Boys H/S School Kot Sardar Muhammad Khan (Female),31.17382769,74.09014957,Female,Punjab,0,2,0,1014
+4,Govt.Girls High School Chak No 54 (combined),31.17417,74.08723,Combined,Punjab,1,1,370,237
+63,Basic Health Unit Ghummanke (Combined),31.178964435760317,73.97991749347116,Combined,Punjab,2,2,1298,939
+64,Basic Health Unit Ghummanke (Combined),31.178964435760317,73.9799474934712,Combined,Punjab,1,1,667,483
+62,Govt.Girls Elementary School GhumanKay (Combined),31.184293810130054,73.97666000842744,Combined,Punjab,1,1,167,121
+120,Govt.Girls High School Baghiana Kalan (Combined),31.18575592802734,73.99161361625816,Combined,Punjab,2,1,510,389
+121,Govt.Girls High School Baghiana Kalan (Combined),31.18575592802734,73.9916436162582,Combined,Punjab,2,1,740,587
+123,Govt. Boys Primary School Baghiana Khurd (Combined),31.18655326464156,73.99903169410366,Combined,Punjab,1,1,402,286
+122,Govt. Boys Primary School Baghiana Kalan (Combined),31.18667,73.99889,Combined,Punjab,1,1,443,320
+38,Govt. Boys Primary School Chah Fateh Wala-Phool Nagar (Male),31.18760683,73.9231539,Male,Punjab,2,0,1070,0
+39,Govt.Girls Elementry School Chah Fateh Wala-Phool Nagar (Female),31.18800204,73.92350339,Female,Punjab,0,2,0,804
+124,Govt. High School Baghiana Kalan (Combined),31.188199595547015,73.99047178996348,Combined,Punjab,1,1,252,174
+119,Govt. Boys High School Baghiana Kalan (Combined),31.18821984294961,73.99044472122121,Combined,Punjab,2,1,792,594
+58,Govt Primary School Kot hashim Baig (Male),31.18902857,73.92865663,Male,Punjab,4,0,1215,0
+59,Govt Primary School Kot hashim Baig (Female),31.18902857,73.92868663,Female,Punjab,0,2,0,889
+118,Basic Health Unit Baghiana Kalan (Combined),31.19269209262108,73.99806067630848,Combined,Punjab,2,1,685,499
+114,Govt. Boys Primary School Sher Pur (Combined),31.198336463081098,73.9893519307794,Combined,Punjab,1,1,253,188
+115,Govt. Boys Primary School Sher Pur (Combined),31.198336463081098,73.9893819307794,Combined,Punjab,2,2,1193,832
+56,Sant Marry Church High School- Multan Road- Phool Nagar (Combined),31.19945869,73.93344612,Combined,Punjab,2,2,2388,1530
+57,Sant marry Church High School Phool Nagar  (Combined),31.19945869,73.93347612,Combined,Punjab,1,1,481,342
+77,Govt Boys Primary School Bonga Bolachan (Combined),31.20053439,73.91654059,Combined,Punjab,1,1,504,398
+78,Govt. Girls Primary School Bonga Bolachan  (Combined),31.20167,73.91666,Combined,Punjab,1,1,549,390
+161,Govt.Girls Primary School Mianke Mor (Male),31.20167,73.95083,Male,Punjab,2,0,711,0
+48,Govt High School No.2 Phool Nagar (Combined),31.20244772,73.94304451,Combined,Punjab,1,1,667,559
+50,Govt High School No.2 Phool Nagar (Male),31.20244772,73.94307451,Male,Punjab,2,0,1026,0
+51,Govt High School No.2 Phool Nagar (Female),31.20244772,73.94310451,Female,Punjab,0,2,0,789
+52,Govt High School No.2 Phool Nagar (Male),31.20244772,73.94313451,Male,Punjab,4,0,1205,0
+53,Govt High School No.2 Phool Nagar (Female),31.20244772,73.94316451,Female,Punjab,0,4,0,929
+54,Govt High School No. 2- Phool Nagar (Male),31.20244772,73.94319451,Male,Punjab,3,0,1282,0
+55,Govt High School No. 2- Phool Nagar (Female),31.20244772,73.94322451,Female,Punjab,0,3,0,1027
+72,Govt.Girls Elemintry School Olakh Bonga (Male),31.20426012,73.89440778,Male,Punjab,2,0,977,0
+73,Govt.Girls Elementry School Olakh Bonga (Combined),31.20426012,73.89443778,Combined,Punjab,1,1,454,377
+74,Govt.Girls Elementry School Olakh Bonga (Female),31.20426012,73.89446778,Female,Punjab,0,2,0,776
+75,Govt.Girls Elementry School Olakh Bonga (Combined),31.20426012,73.89449778,Combined,Punjab,2,2,1187,912
+160,Govt.Girls High School-Phool Nagar (Combined),31.20559892,73.94632398,Combined,Punjab,2,2,715,619
+116,Govt. Boys Primary School  Bheramke (Combined),31.206267593469924,73.9810379570231,Combined,Punjab,2,1,904,678
+158,Rural Health Center Phool Nagar (Combined),31.20795474,73.94549309,Combined,Punjab,2,1,535,399
+159,Rural Health Center Phool Nagar (Combined),31.20795474,73.94552309,Combined,Punjab,2,1,633,523
+152,Govt. Veterinary Hospital Phool Nagar (Male),31.20890116,73.94417747,Male,Punjab,2,0,812,0
+153,Govt Veterinary Hospital Phool Nagar (Female),31.20890116,73.94420747,Female,Punjab,0,2,0,656
+163,Govt.Girls Degree College Phool Nagar (Male),31.20946399,73.94746062,Male,Punjab,4,0,1794,0
+164,Govt. Girls Degree College Phool Nagar (Female),31.20946399,73.94749062,Female,Punjab,0,4,0,1419
+47,Govt.Girls Degree College Phool Nagar (Combined),31.20947584,73.94749241,Combined,Punjab,2,1,867,679
+7,Govt Girls p/s Baghiar Mar (Femlae),31.20972,74.07361,Female,Punjab,0,2,0,789
+36,Govt. Boys High School No.1 Phool Nagar (Male),31.20995295,73.94834975,Male,Punjab,2,0,695,0
+37,Govt. Boys High School No.1 Phool Nagar (Female),31.20995295,73.94837975,Female,Punjab,0,1,0,535
+40,Govt High School No.1 Phool Nagar (Male),31.20999394,73.94836016,Male,Punjab,4,0,2098,0
+41,Govt High School No.1 Phool Nagar (Female),31.20999394,73.94839016,Female,Punjab,0,4,0,1513
+44,Govt High School No.1 Phool Nagar (Male),31.20999394,73.94842016,Male,Punjab,3,0,1462,0
+45,Govt High School No.1 Phool Nagar (Female),31.20999394,73.94845016,Female,Punjab,0,3,0,1111
+46,Govt High School No.1 Phool Nagar (Combined),31.20999394,73.94848016,Combined,Punjab,1,1,465,374
+42,Office Of Town Committee/ Muncipal Committee- Phool Nagar (Male),31.21126425,73.9415879,Male,Punjab,4,0,3443,0
+43,Office Of Town Committee/ Muncipal Committee- Phool Nagar (Female),31.21126425,73.9416179,Female,Punjab,0,4,0,2611
+8,Govt Boys p/s  Baghiar Mar (Male),31.21167,74.07305,Male,Punjab,3,0,1182,0
+33,Govt.Primary School Kot Fazal Shah - Phool Nager (Male),31.21222592,73.95123436,Male,Punjab,2,0,884,0
+35,Govt.Girls Primary School Kot Fazal Shah - Phool Nager (Combined),31.21222592,73.95126436,Combined,Punjab,1,1,279,237
+49,Govt Degree College for Boys Phool Nagar (Combined),31.21722,73.93584,Combined,Punjab,2,2,1304,1032
+81,Govt Elementry School Lambay Jageer (Combined),31.22111,73.92972,Combined,Punjab,1,1,421,313
+87,Govt Primary School Parnawan (Combined),31.22389,73.97278,Combined,Punjab,2,2,1161,873
+117,Govt. Boys Primary School Dhilwan (Combined),31.22445,73.99472,Combined,Punjab,2,2,1063,849
+85,Govt Primary School Goher Ghulab Singh (Combined),31.22510942,73.90746476,Combined,Punjab,1,1,527,409
+86,Govt Primary School Goher Ghulab Singh (Combined),31.22510942,73.90749476,Combined,Punjab,2,2,1171,818
+84,Govt Girls Model Primary School Megha Mor (Combined),31.23111,73.94695,Combined,Punjab,2,1,728,583
+96,Govt. Boys  Elementry School Chak No. 66   Dina Nath(Combined),31.24078008,74.01778947,Combined,Punjab,2,1,735,492
+97,Govt. Boys  Elementry School Deena Nath Chak No. 66 (Combined),31.24078008,74.01781947,Combined,Punjab,1,1,463,322
+93,Govt Middle School Chak No. 66 (Combined),31.24078571,74.01780298,Combined,Punjab,1,1,290,210
+94,Govt Middle School Chak No. 66 Dina Nath (Combined),31.24078571,74.01783298,Combined,Punjab,1,1,530,404
+95,Basic Health Unit  Chak No. 66 Dina Nath (Combined),31.24503637,74.0138912,Combined,Punjab,2,1,792,606
+98,Govt.Girls Elementry School Deena Nath Chak No. 66 (Combined),31.2459664,74.01148561,Combined,Punjab,2,2,1821,1297
+102,Govt. Boys Primary School Sarai Cheenba (Combined),31.24664567,73.9878675,Combined,Punjab,2,2,773,591
+83,Govt Primary School Kamongil (Combined),31.24733922,73.95523245,Combined,Punjab,1,1,506,380
+82,Govt.Girls Elementry School Kamongil (Combined),31.24971868,73.94834569,Combined,Punjab,2,2,1102,794
+25,Govt. Girls Elementary School Mudkey (Combined),31.25028,74.06084,Combined,Punjab,1,1,309,190
+23,Govt. Girls Primary School Chak No.65 (Combined),31.25222,74.15,Combined,Punjab,2,1,731,574
+99,Govt. Boys Elementry School Gagga Sarai (Male),31.25733115,73.96840055,Male,Punjab,3,0,1093,0
+100,Govt. Boys Elementry School Gagga Sarai (Female),31.25733115,73.96843055,Female,Punjab,0,3,0,730
+103,Govt. Boys Elementry School Gagga Sarai (Combined),31.2573374,73.96839923,Combined,Punjab,2,2,1038,705
+101,Govt.Girls Primary School Gagga Sarai (Combined),31.26176756,73.9642193,Combined,Punjab,2,1,608,437
+107,Govt High School Nathay Khalsa (Combined),31.26561445,74.02408551,Combined,Punjab,2,2,335,284
+108,Govt High School Nathay Khalsa (Combined),31.26561445,74.02411551,Combined,Punjab,2,2,730,582
+109,Govt High School Nathay Khalsa (Combined),31.26561445,74.02414551,Combined,Punjab,2,2,888,749
+110,Govt High School Nathay Khalsa (Combined),31.26561445,74.02417551,Combined,Punjab,2,2,783,632
+111,Union Councial  Nathay Khalsa (Combined),31.26579802,74.02489951,Combined,Punjab,1,1,390,339
+112,Govt.Girls Primary School Chaha Kalanlanwala (Combined),31.27333,74.04806,Combined,Punjab,2,2,873,663
+104,Govt. Boys Elementary School Nathay Jagir (Combined),31.27389075,74.00012754,Combined,Punjab,2,2,1095,866
+105,Govt. Boys Elementary School Nathay Jagir (Combined),31.27389075,74.00015754,Combined,Punjab,2,2,1026,768
+106,Govt.Girls Elementary School Nathay  Jagir (Combined),31.27485573,73.99687923,Combined,Punjab,2,1,510,351
+91,Govt Primary School Bhangor (Combined),31.27505157,73.97598422,Combined,Punjab,1,1,363,281
+92,Govt Primary School Bhangor (Combined),31.27505157,73.97601422,Combined,Punjab,1,1,390,322
+89,Govt.Girls Primary School Lakhanke Bhangor (Combined),31.27513998,73.97590827,Combined,Punjab,2,2,1025,706
+90,Govt.Girls Primary School Lakhanke Bhangor (Combined),31.27513998,73.97593827,Combined,Punjab,1,1,637,457
+154,Govt High School No.2 Phool Nagar (Male),31.57133334668682,74.28854537234656,Male,Punjab,3,0,1050,0
+155,Govt High School No.2 Phool Nagar (Female),31.57133334668682,74.2885753723466,Female,Punjab,0,2,0,803
+156,Govt.Boys High School No.2 Phool Nagar (Male),31.57133334668682,74.2886053723466,Male,Punjab,4,0,1584,0
+157,Govt.Boys High School No.2 Phool Nagar (Female),31.57133334668682,74.2886353723466,Female,Punjab,0,3,0,1280

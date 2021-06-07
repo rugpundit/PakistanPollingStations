@@ -1,0 +1,53 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+79,GPS Arab Mallah (Combined),25.16212237339927,68.49885346565007,Combined,Sindh,2,2,631,539
+78,GPS Norai Shareef     (Combined),25.17033966306438,68.47441659387394,Combined,Sindh,2,1,680,591
+72,GPS Khari Mir Sahab (Combined),25.18313877,68.51036566,Combined,Sindh,1,1,624,534
+70,GPS Muhammad Ali Nizamani (Combined),25.184065979790194,68.47145593180416,Combined,Sindh,1,1,436,448
+71,GGPS Shafi Muhammad Halepoto (Combined),25.18560316,68.51144132,Combined,Sindh,1,1,570,528
+102,GPS Siddique Jamali (Combined),25.212338611529848,68.586732932837,Combined,Sindh,2,1,829,659
+101,GPS Nim Liyar (Combined),25.21840803053314,68.56885801564049,Combined,Sindh,2,1,640,514
+83,GPS Sono Almani (Combined),25.22187,68.56049,Combined,Sindh,1,1,425,413
+69,Union Council Office Seri (Combined),25.22239,68.47102,Combined,Sindh,1,1,710,652
+68,GHS Seri (Combined),25.22486,68.4712,Combined,Sindh,1,1,907,802
+100,GPS Ahmed Khan Tangri (Combined),25.234303791623525,68.59582236954958,Combined,Sindh,2,2,686,716
+65,GPS Bakhtiar Mari     (Combined),25.24037,68.52033,Combined,Sindh,1,1,356,317
+74,District Dispensary Daryhoon Panhwar (Combined),25.24037,68.52036,Combined,Sindh,2,2,903,861
+98,GGPS Ahmed Khan Almani (Combined),25.2448,68.57261,Combined,Sindh,1,1,497,482
+99,GPS Ahmed Khan Almani (Combined),25.244825892369217,68.572081484163,Combined,Sindh,1,1,392,347
+80,GPS Jumon Khunjenjo (Combined),25.24789,68.50856,Combined,Sindh,1,1,512,484
+81,GMS Tando Fazal (Combined),25.24978,68.53879,Combined,Sindh,1,1,468,461
+82,GPS Tando Fazal (Combined),25.24989,68.53874,Combined,Sindh,2,2,804,648
+104,GPS Khair Muhammad Thebo (FEMALE),25.267954361931398,68.59880514296735,Female,Sindh,0,4,0,1645
+84,GPS Allah Dino Lashari (Combined),25.2708,68.56168,Combined,Sindh,2,2,721,817
+91,GPS Haji Palio Khoso (Combined),25.27495,68.49083,Combined,Sindh,2,2,810,687
+67,GPS Majnoon Chang (Combined),25.27763,68.45675,Combined,Sindh,1,1,641,539
+92,Union Council Office Moolan (Combined),25.28489660168,68.59245617082131,Combined,Sindh,1,1,452,386
+86,GGPS Arif Kaka (FEMALE),25.2884,68.52991,Female,Sindh,0,2,0,868
+85,GPS Arif Kaka (MALE),25.28993,68.53009,Male,Sindh,2,0,998,0
+119,Basic Health Unit Mehrab Solangi (Combined),25.29284,68.45759,Combined,Sindh,2,1,648,558
+87,GMS (SEF) Baksho Laghari (MALE),25.29375,68.55637,Male,Sindh,4,0,1415,0
+88,GGPS Baksho Laghari (FEMALE),25.29392,68.5544,Female,Sindh,0,4,0,1363
+89,GPS Imam Ali Unar (Combined),25.29661,68.53156,Combined,Sindh,1,1,588,542
+95,GPS Chukhi  (FEMALE),25.30642,68.58837,Female,Sindh,0,2,0,979
+94,GBHS Chukhi (MALE),25.30649,68.58814,Male,Sindh,2,0,1109,0
+123,GPS Haji Arab Shoro (Combined),25.31111,68.45068,Combined,Sindh,2,1,574,501
+124,GBPS Soomar Khaskheli (Combined),25.31697,68.47646,Combined,Sindh,1,1,455,431
+97,GPS Gul Lashari (Combined),25.33,68.5928,Combined,Sindh,2,1,673,550
+117,GPS Khamiso Shoro (Combined),25.33986,68.42064,Combined,Sindh,2,2,808,716
+118,GBPS Qasim Panwhar (Combined),25.34935,68.43407,Combined,Sindh,1,1,301,284
+116,GPS Bag Wah (Combined),25.3505,68.41226,Combined,Sindh,2,2,901,787
+120,GPS Sukhpur New Building (Combined),25.36094,68.41571,Combined,Sindh,2,2,752,696
+114,GPS Jaro Babar (Combined),25.36717,68.45301,Combined,Sindh,1,1,439,358
+115,GPS Tando Ghulam Muhammad  (Combined),25.37199,68.44311,Combined,Sindh,2,2,926,777
+112,GPS Jamal Shah (Combined),25.37904,68.44859,Combined,Sindh,2,2,1062,941
+110,GBPS Tando Hyder (Combined),25.38563,68.42546,Combined,Sindh,2,2,764,594
+111,GMS Tando Hyder (Combined),25.3857,68.42551,Combined,Sindh,2,2,1048,927
+113,GBPS Tando Ghulam Muhammad (Combined),25.38574,68.43385,Combined,Sindh,2,1,725,560
+107,GGPS Sahib Khan Mirrani (Combined),25.39878,68.41117,Combined,Sindh,2,2,798,723
+106,GPS Sahib Khan Mirrani (Combined),25.39927,68.41229,Combined,Sindh,2,2,860,757
+109,GGPS Khair Muhammad Jakhro (Combined),25.41133,68.41161,Combined,Sindh,2,2,1016,851
+108,Basic Health Unit               Jhando Narejo (Combined),25.41936,68.43359,Combined,Sindh,2,1,555,472
+2,GBES Near Town Hall        Tando Jam (Combined),25.429315676839543,68.53047744474173,Combined,Sindh,2,2,1040,750
+1,GBES Main Urdu Talpur Muhalla Tando Jam       FEMALE,25.43020210827342,68.52602747568706,Female,Sindh,0,2,0,961
+3,GBES Main Urdu Talpur Mohalla Tando Jam            MALE,25.43020210827342,68.5260574756871,Male,Sindh,3,0,1235,0
+4,GBPS Muzaffarbabd Tandojam (Combined),25.432615193089468,68.53269953388597,Combined,Sindh,1,1,278,218

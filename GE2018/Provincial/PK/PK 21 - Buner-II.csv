@@ -1,0 +1,126 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+120,Govt. Primary School-Banda,34.43815123081533,72.37676020413173,Combined,KPK,2,1,635,523
+121,Govt. Middle School Banda,34.43861,72.37723,Combined,KPK,1,1,534,430
+5,Govt. Primary School- Dherai,34.43932100331037,72.49270891952965,Female,KPK,0,4,0,1377
+3,Govt. High School- Dherai,34.439917768016755,72.49066443838483,Male,KPK,3,0,996,0
+4,Govt. Girls Primary School Dherai,34.44162963222646,72.49016613670166,Male,KPK,2,0,760,0
+23,Govt Primary School Biamdara,34.44584239255481,72.52712204313737,Combined,KPK,2,1,447,319
+1,Govt. Primary School- Barkalay,34.44681586316232,72.48337052104941,Male,KPK,4,0,1635,0
+7,Govt. Primary School- Cheena,34.44698491034357,72.48901742510562,Male,KPK,4,0,1529,0
+2,Govt. Girls Primary School- Barkalay,34.44828434527,72.48367196266912,Female,KPK,0,4,0,1297
+8,Govt. Girls High School- Cheena,34.44940519204941,72.49260661265302,Female,KPK,0,4,0,1973
+115,Govt. High School-Nawan Kalay,34.45317406253902,72.39995260386772,Combined,KPK,2,1,642,487
+116,Govt. Primary School-Nawan Kalay,34.4535623706512,72.39997251392121,Combined,KPK,2,1,579,474
+118,Govt. Girls Primary School-Nawan Kalay,34.454350260982494,72.40103374694036,Female,KPK,0,2,0,878
+123,Govt. Girls Primary School Mula Yousaf,34.45564178434109,72.43801935277776,Female,KPK,0,2,0,901
+122,Govt. Primary School-Mula Yousaf,34.45819933916662,72.43575183131797,Male,KPK,4,0,1184,0
+33,Govt. High School- Bajkata,34.45893707792214,72.56090294458184,Male,KPK,3,0,1080,0
+117,Govt. Girls Primary School Shnai Nawan Kaley,34.460207609844346,72.40286883547779,Combined,KPK,2,1,492,437
+59,Govt. Girls Primary School- Kulyarai,34.46030348589359,72.59188566157195,Female,KPK,0,3,0,1064
+10,Govt. Girls Primary School Chanar,34.46242524505012,72.49539742046194,Female,KPK,0,4,0,1383
+56,Govt. Primary School Kulyari (P.S-1),34.46401325030879,72.59453391407641,Combined,KPK,2,2,638,483
+58,Govt. Primary  School- Kulyarai (P.S-2),34.46401325030879,72.5945639140764,Male,KPK,4,0,1373,0
+35,Govt. Girls Primary School Bajkata (P. S 1),34.465406901980224,72.56042656931956,Female,KPK,0,3,0,1056
+36,Govt. Girls Primary School Bajkata (P S 2 ),34.465406901980224,72.5604565693196,Female,KPK,0,3,0,814
+15,Govt. Primary School- Rega No.2,34.46758833080555,72.47029123459129,Combined,KPK,2,2,574,451
+34,Govt. Primary School- Baba Jeebaba Bajkata,34.46774170199222,72.54818733986347,Male,KPK,4,0,1391,0
+32,Govt. Primary School- Bajkata,34.46965554060369,72.5571640097745,Combined,KPK,2,2,896,648
+52,Govt. Higher Secondary School Kulyari (New building),34.46974738165485,72.59383109784262,Combined,KPK,2,1,429,312
+29,Govt. Girls Primary School- Kalpani,34.46979853791611,72.53126621285003,Female,KPK,0,4,0,1083
+22,Govt. Girls Higher Secondary School- Kalpanai (P. S 1),34.47127732778975,72.53507792184243,Female,KPK,0,2,0,503
+25,Govt. Girls Higher Secondary School- Kalpanai (P. S 2),34.47127732778975,72.5351079218424,Female,KPK,0,4,0,1374
+11,Govt. High  School- Rega  (P.S 1),34.47167,72.47889,Male,KPK,3,0,912,0
+12,Govt: High School Rega (P.S. 2),34.47167,72.47892,Female,KPK,0,2,0,717
+112,Govt. Primary School- Sher Ali,34.47320919750189,72.70434035472368,Combined,KPK,1,1,509,424
+14,Govt. Girls Primary School- Rega,34.473456594216984,72.47405599445851,Female,KPK,0,4,0,1413
+24,Govt. High School Gagra,34.4736566261805,72.53897582567738,Male,KPK,4,0,1728,0
+28,Govt. Primary School- Kalpani,34.47392719905762,72.53850771394164,Male,KPK,4,0,1350,0
+26,Govt. Primary School- Gagra,34.473999247503535,72.53859294443006,Male,KPK,3,0,865,0
+21,Govt. Higher Seconday School- Gagra,34.474163223513976,72.53885694977673,Male,KPK,2,0,657,0
+27,Patwarkhaana kalpani,34.47418164793152,72.53833379346217,Female,KPK,0,2,0,692
+30,Govt. Girls Middle School- Bajkata (P. S 1),34.47432,72.55157,Female,KPK,0,4,0,1284
+54,Govt. High School Dewana Baba (P. S 1),34.47466110677425,72.58583849446025,Male,KPK,3,0,1074,0
+55,Govt: High School Dewana Baba (P.S. 2),34.47472,72.58584,Female,KPK,0,3,0,832
+53,Govt. Primary School Dewana Baba,34.474774594628435,72.58619708945943,Combined,KPK,2,2,716,572
+13,Govt. Primary School- Rega No.1,34.47512947832088,72.4758503139191,Male,KPK,4,0,2037,0
+19,Govt. Girls Primary School- Takhta Band,34.47624893535127,72.50607501413701,Combined,KPK,2,1,638,514
+64,Govt. Girls High School- Matwani (P. S 2),34.47724349684279,72.60182870622174,Combined,KPK,2,2,683,572
+62,Govt. Girls High School- Matwani (P. S 1),34.47729136588145,72.60158692762464,Female,KPK,0,4,0,1239
+63,Govt. Girls Primary School- Matwani,34.478020513264234,72.60314897108084,Combined,KPK,2,2,855,617
+60,Govt. Middle School- Matwani,34.47876205130666,72.60627491599253,Combined,KPK,2,1,496,408
+61,Govt. Primay School- Matwani,34.47968612119824,72.60620144506356,Male,KPK,4,0,1507,0
+18,Govt: Primary School Sawaria,34.48056,72.49027,Combined,KPK,2,1,519,391
+17,Govt. High School- Sawari,34.48075499176711,72.48985693492928,Combined,KPK,2,1,394,336
+128,Govt. High School-Karapa,34.48092317818325,72.44547078656133,Male,KPK,3,0,1009,0
+127,Govt. Girls High School-Karapa (P. S 2),34.48259543293366,72.44816930314369,Combined,KPK,1,1,550,384
+124,Govt. Girls High School-Karapa  (P. S 1),34.482610702706104,72.44817176222014,Male,KPK,2,0,716,0
+16,Govt. Primary School Gumbat Rega,34.48292952482378,72.4792213579237,Combined,KPK,2,2,649,460
+113,Govt. Primary School- Kulyar Jaboo,34.48586721904307,72.74003007517143,Combined,KPK,2,1,728,551
+20,Govt.  Girls  Primary School- Sonigram,34.48667,72.48694,Combined,KPK,2,2,942,722
+101,Govt. Girls Primay School- Riyal (P.S 2),34.486771351022284,72.65960349525615,Female,KPK,0,3,0,1035
+100,Govt. Girls Primary School Riyal (P. S 1),34.48682107353177,72.65964125640679,Male,KPK,4,0,1224,0
+125,Govt. Primary School-Karapa (P. S 1),34.48818775836858,72.46019048454609,Male,KPK,2,0,1011,0
+126,Govt.  Primary School-Karapa (P.S.2),34.48818775836858,72.4602204845461,Female,KPK,0,2,0,759
+129,Govt: Girls Primary School- Karapa,34.49028,72.46861,Female,KPK,0,4,0,1319
+102,Govt. High School- Budal,34.49303,72.64873,Combined,KPK,2,1,741,589
+43,Govt. Primary School- Manai Bambalaii,34.49604021158814,72.51784920598703,Combined,KPK,2,1,567,435
+103,Govt: Primary School- Budal Maira,34.49639,72.63722,Combined,KPK,1,1,427,343
+42,Govt. Girls Primary School- Shalbandai No.1,34.500654206822546,72.51945397048677,Female,KPK,0,3,0,927
+40,Govt. Primary School- Banr Shalbandai,34.50100379190655,72.52979793422722,Combined,KPK,2,2,782,601
+37,Govt. Primary School- Kund Shalbandai,34.50548907796011,72.50782609707566,Combined,KPK,2,1,652,444
+9,Govt. High School- Chanar,34.5079935,72.459285,Male,KPK,4,0,1811,0
+38,Govt. High School- Shalbandai,34.5083329355379,72.52090581777439,Combined,KPK,1,1,339,274
+41,Govt.  Girls Higher Secondary  School- Shalbandai,34.508642295495406,72.5213345342941,Male,KPK,4,0,1133,0
+49,Govt. Girls Primary School- Amnawar,34.509833202803556,72.56277768199452,Female,KPK,0,2,0,739
+50,Govt. Girls Middle School- Amnawar,34.50987217871208,72.56767153957102,Combined,KPK,2,2,788,601
+47,Govt. Primary School- Amnawar No.2,34.51024391741224,72.55366366143039,Combined,KPK,2,1,423,316
+44,Govt. Girls Primary School- Shalbandai No.2,34.510581614647556,72.50981243314533,Combined,KPK,2,1,641,486
+45,Govt. High School- Amnawar (P.S 1),34.51157824046787,72.54313454429774,Male,KPK,3,0,1138,0
+48,Govt: Higher Secondary School- Amnawar,34.51167,72.54278,Male,KPK,3,0,917,0
+46,Govt. High School- Amnawar (P. S 2),34.51167,72.54281,Female,KPK,0,3,0,952
+51,Govt. Primary School- Amnawar No.1,34.51226962281526,72.54306400490553,Combined,KPK,2,1,530,444
+39,Govt: Primary School Dara Shalbandai,34.525,72.52195,Combined,KPK,2,2,682,548
+108,Govt. Primary School- Tehra,34.5288251825478,72.68641507545877,Combined,KPK,2,2,722,579
+111,Govt. Primary School- Kass,34.52917304885881,72.71624431049767,Combined,KPK,3,1,730,610
+98,Govt. Girls Primay School- Batara,34.54055,72.63614,Female,KPK,0,3,0,1306
+99,Govt. Girls Primary School- Gulono Borai,34.54086,72.64427,Combined,KPK,2,2,705,580
+97,Govt. Higher Secondary School- Batara,34.54356,72.64212,Male,KPK,4,0,1541,0
+109,Govt. Primary School- Kot Pandair,34.5470609400579,72.67439557453324,Combined,KPK,1,1,390,320
+110,Govt. Girls Middle School- Pandair,34.547750505535255,72.67264735664143,Combined,KPK,2,1,795,685
+92,Govt. Primary School- Kara,34.55957937481999,72.64070375823773,Combined,KPK,2,2,704,548
+107,Govt. Primary School- Baimpur,34.56039537032787,72.70587216791624,Combined,KPK,1,1,561,355
+95,Govt. Middle School- Koz Shamnal,34.5649688868867,72.61643666453769,Combined,KPK,1,1,570,455
+106,Govt. Primary School- Chalandrai,34.5703702398095,72.68564327360751,Combined,KPK,2,2,723,610
+96,Govt: Girls Primary School- Koz Shamnal,34.57306,72.6125,Combined,KPK,1,1,450,349
+6,Govt. High School- Cheena,34.57306,72.61253,Male,KPK,2,0,789,0
+83,Govt. High School- Tangora,34.58282,72.64137,Combined,KPK,1,1,294,211
+94,Govt. Primay School- Bar Shamnal,34.58475837820999,72.62150943893262,Combined,KPK,2,1,531,460
+85,Govt. Girls Primary School- Tangora,34.58611,72.64167,Combined,KPK,2,2,733,561
+104,Govt. Middle School- Shangra,34.58629681318245,72.7065589276029,Combined,KPK,1,1,433,344
+105,Govt. Girls Primary School- Shangra,34.58700556004632,72.705315066626,Combined,KPK,2,1,764,636
+84,Govt: Primary School Ramzai,34.58805,72.66,Combined,KPK,2,1,859,665
+91,Govt. Primay School- Bilandai,34.592061788619624,72.63405664156532,Combined,KPK,2,2,911,674
+93,Govt. Middle School- Panghalay,34.59406401972926,72.60097184667418,Combined,KPK,2,2,611,545
+81,Govt. Primay School- Alami Banda,34.60875945475723,72.66342351595851,Male,KPK,4,0,1277,0
+82,Govt. High School Alami Banda,34.60908845099222,72.66285663150498,Female,KPK,0,3,0,1075
+71,Govt. Primay School- Bar Tiraj,34.61345,72.69675,Combined,KPK,2,2,659,516
+80,Govt. Girls Middle School Gul Bandai,34.61592,72.6451,Female,KPK,0,3,0,951
+79,Govt. Primay School- Gul Bandai,34.61887,72.64659,Male,KPK,4,0,1161,0
+77,Govt. Primary School- Awani,34.62239490780632,72.66515809507993,Combined,KPK,1,1,288,259
+78,Govt. Primary School- Landay Bazar Kot,34.62482,72.67405,Combined,KPK,2,2,792,656
+89,Govt. Middle School Gumbat,34.62507,72.62777,Combined,KPK,3,1,887,633
+90,Govt. Girls Primary School- Gumbat,34.6265,72.62675,Combined,KPK,1,1,497,387
+88,Govt. Primary School Dambara,34.63194,72.634,Combined,KPK,2,1,631,477
+75,Govt. Primary School Maradu,34.63251274357408,72.65097172740681,Combined,KPK,2,1,457,360
+76,Govt. Primary School- Mekhokhpa,34.635059058794916,72.67165817145843,Combined,KPK,1,1,423,324
+70,Govt. Primay School- Koz Tiraj,34.63521325266676,72.69333398543755,Combined,KPK,2,1,512,418
+86,Govt. High School- Ganshal,34.63557,72.62511,Combined,KPK,2,1,533,404
+87,Govt: Girls Primary School- Ghanshal Serai,34.64306,72.61945,Combined,KPK,2,1,489,409
+73,Govt. Girls Community Model School- Topai,34.648528561519605,72.678537970281,Combined,KPK,2,2,747,574
+69,Govt. Primay School- Mairagai,34.65150053479621,72.69394694388214,Combined,KPK,2,2,614,519
+74,Govt. Primary School Kot Sorey,34.65360848595028,72.66208368316518,Combined,KPK,1,1,347,268
+67,Govt. Primay School- Bekhanai,34.65490552927157,72.70638589323214,Combined,KPK,1,1,301,243
+68,Govt. High School- Inzar Maira,34.655543643223666,72.6672760298127,Combined,KPK,3,1,915,688
+72,Govt. Primary School- Bakar,34.65583,72.68555,Combined,KPK,2,2,501,392
+66,Govt. Primay School- Foladai,34.662013957719,72.7027859739571,Combined,KPK,1,1,395,352
+65,Govt. Primay School- Dab Sarai,34.669643080284466,72.70416109325015,Combined,KPK,2,2,681,523

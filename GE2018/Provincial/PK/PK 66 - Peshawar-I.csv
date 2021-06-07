@@ -1,0 +1,83 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+90,GGPS Regi Badizai (Male),34.03622,71.44376,Male,KPK,4,0,1765,0
+72,GPS  Sher Garhi Lakri Kaniza (Male),34.04648,71.48283,Male,KPK,4,0,1662,0
+66,GPS  Mulazai (Male)    (P),34.04733,71.47483,Male,KPK,4,0,1799,0
+86,GGPS Regi Aftizai (Female) PS-2,34.04805,71.46568,Female,KPK,0,3,0,1408
+87,GGPS Regi Aftizai (Female) PS-2,34.04805,71.46571,Female,KPK,0,2,0,947
+91,GMS Regi Ghazali Korona (Female),34.04947,71.45563,Female,KPK,0,3,0,1380
+88,GPS Regi PS-1 (Male),34.05143,71.46104,Male,KPK,4,0,1875,0
+89,GPS Regi (Male) PS-2,34.05143,71.46107,Male,KPK,4,0,1423,0
+67,GPS Garhi Fazli Haq Umer Abad (Male),34.06627,71.53567,Male,KPK,4,0,1582,0
+71,G Shaheed Adnan Hussain MS Pir Bala (Male) (P),34.07082,71.50867,Male,KPK,4,0,1776,0
+74,GGPS  Pir Bala (Female)  (P),34.07102,71.50946,Female,KPK,0,3,0,1196
+55,GPS  Maira Shahi Bala (Male),34.0717,71.41849,Male,KPK,2,0,882,0
+65,GPS  Patwar Payan (Male),34.07204,71.49004,Male,KPK,4,0,1907,0
+20,GPS  Mera Sufaid Sung (Female) (P),34.07367,71.40768,Female,KPK,0,3,0,1269
+68,GGPS  Patwar Payan (Female),34.07402,71.48988,Female,KPK,0,3,0,1211
+63,GGPS No.2 Shahi Bala (Female),34.07544,71.44241,Female,KPK,0,4,0,1754
+70,RHC Patwar Mulazai (Female),34.07558,71.48048,Female,KPK,0,3,0,1115
+61,GGPS  Shena Garhi Shahi Payan (Female),34.07685,71.46148,Female,KPK,0,4,0,1273
+56,G Shaheed Adnan Hussain HS Shahi Bala (Male) PS-1 (P),34.08042,71.45144,Male,KPK,3,0,1004,0
+57,G Shaheed Adnan Hussain HS Shahi Bala (Male) PS-2 (P),34.08042,71.45147,Male,KPK,3,0,1128,0
+58,G Shaheed Adnan Hussain HS Shahi Bala (Male) PS-3 (P),34.08042,71.4515,Male,KPK,4,0,1299,0
+62,GGMS  Shahi Bala (Female) (P),34.08051,71.45387,Female,KPK,0,4,0,2011
+23,GGMS  Safdar Abad (Female),34.081,71.4072,Female,KPK,0,2,0,666
+22,GPS  Safdar Abad (Male),34.08238,71.40675,Male,KPK,3,0,973,0
+54,GPS  Shahi Payan (Male) (P),34.08276,71.46094,Male,KPK,4,0,1763,0
+50,GGPS  Putwar Bala (Female),34.08454,71.48241,Female,KPK,0,3,0,920
+49,GPS  Patwar Bala (Male),34.08505,71.48183,Male,KPK,4,0,1265,0
+51,GGHSS  School Mathra (Female) PS-I (P),34.09509,71.48228,Female,KPK,0,4,0,1846
+52,GGHSS  School Mathra (Female) PS-II (P),34.09509,71.48231,Female,KPK,0,4,0,1642
+53,GGHSS  School Mathra (Female) PS-III (P),34.09509,71.48234,Female,KPK,0,4,0,1359
+16,GHSS Sufaid Sung (Male) PS-1,34.09726,71.42327,Male,KPK,3,0,1086,0
+17,GHSS Sufaid Sung (Male)PS-2,34.09726,71.4233,Male,KPK,3,0,1214,0
+18,GHSS Sufaid Sung (Male)PS-3,34.09726,71.42333,Male,KPK,4,0,1445,0
+19,GGPS  Sattar Korona Sufaid Sung (Female) (P) * Improvisation of 1 booth,34.09842,71.40698,Female,KPK,0,3,0,1118
+21,GPS  Ali Ahmad Banda Sufaid Sung (Female),34.10003,71.42283,Female,KPK,0,4,0,1768
+45,G Shaheed Muhammad Dawood HS Mathra (Male) PS-1   (P),34.10068,71.47899,Male,KPK,4,0,1404,0
+46,G Shaheed Muhammad Dawood HS Mathra                      (Male) PS-2   (P),34.10068,71.47902,Male,KPK,4,0,1724,0
+47,G Shaheed Muhammad Dawood HS Mathra                      (Male) PS-3   (P),34.10068,71.47905,Male,KPK,4,0,1448,0
+15,GPS  Neza Wari (Male),34.10269,71.40486,Male,KPK,4,0,1520,0
+59,GPS  Noor Gar (Male),34.10417,71.4301,Male,KPK,4,0,1733,0
+64,GGPS  Noor Garh (Female),34.10445,71.43035,Female,KPK,0,4,0,1984
+26,GPS  Kafor Dehri (Female)  (P),34.10575,71.43578,Female,KPK,0,2,0,805
+24,GHS Kafoor Dehri (Male),34.10583,71.43609,Male,KPK,3,0,1104,0
+25,GPS  Qilla Jabbar (Male),34.11227,71.41371,Male,KPK,4,0,1964,0
+48,GPS  Ghalji Kander Khel (Male),34.11568,71.47057,Male,KPK,4,0,1874,0
+33,GPS  Yarghaji No.1 (Combined) (P) * Improvisation of 1 booth,34.11632,71.48989,Combined,KPK,2,1,618,499
+29,GPS  Panam Dehri (Male) (P),34.12411,71.45621,Male,KPK,4,0,1783,0
+30,GGPS  Feruspur (Female),34.12502,71.44753,Female,KPK,0,3,0,1491
+36,GGPS  Shah Dil Banda (Female) (P),34.128,71.46632,Female,KPK,0,3,0,1115
+28,GHS  Hakim Khan Kalay (Male),34.12993,71.4394,Male,KPK,4,0,2012,0
+31,G. Categary D Hospital Garha Tajik (Female),34.13082,71.46014,Female,KPK,0,4,0,1369
+32,GPS  Gara Tajak (Male) (P),34.13238,71.4726,Male,KPK,4,0,1379,0
+35,GGPS  Garha Tajik (Female) (P),34.13247,71.47262,Female,KPK,0,3,0,1049
+44,GPS  Garhi Ali Muhammad (Female),34.13248,71.48782,Female,KPK,0,3,0,1066
+43,GGPS  Chaghar Matti (Female) (P),34.13322,71.50901,Female,KPK,0,4,0,1681
+34,GPS  Kochian (Male) (P),34.13438,71.46195,Male,KPK,4,0,1459,0
+39,GGHS  Chaghar Matti (Female) (P),34.13593,71.50922,Female,KPK,0,3,0,1253
+38,GPS  No.1 Chaghar Matti (Male),34.13652,71.49922,Male,KPK,4,0,1690,0
+40,GHSS  Chaghar Matti (Male) PS-1,34.13737,71.49802,Male,KPK,4,0,1544,0
+41,GHSS  Chaghar Matti (Male) PS-2,34.13737,71.49805,Male,KPK,2,0,726,0
+42,GPS  Khat Killi (Male) (P),34.1403,71.47974,Male,KPK,4,0,1458,0
+37,GPS  Garhi Sado (Combined),34.1438,71.47028,Combined,KPK,1,1,357,254
+85,GPS   Dang Lakhta Payan (Combined) * Improvisation regarding entrance,34.14518,71.53394,Combined,KPK,1,1,556,430
+9,GGPS  AloKilli (Female),34.14749,71.46464,Female,KPK,0,3,0,1024
+8,GPS  Alo Killi (Male) (P)  * Improvisation of 2 booths,34.14753,71.46313,Male,KPK,4,0,1382,0
+7,GGPS  Hamid Kalay (Female) * Improvisation of 1 booth,34.15301,71.44027,Female,KPK,0,3,0,1022
+12,GPS  No.2 Garhi Sherdad (Female) (P),34.15461,71.44713,Female,KPK,0,4,0,1801
+6,GPS  Kala Kas (Female),34.15561,71.43715,Female,KPK,0,4,0,1983
+84,GPS  Jogani (Combined) (P) * Improvisation regarding entrance,34.15733,71.50759,Combined,KPK,1,1,320,253
+13,GPS  Dehri Killi (Male),34.15824,71.46148,Male,KPK,4,0,1294,0
+14,GGPS  Dehri Killi (Female),34.15829,71.46125,Female,KPK,0,2,0,871
+10,GHSS Garhi Sherdad (Male)  (P) PS-I,34.16005,71.44615,Male,KPK,4,0,1286,0
+11,GHSS Garhi Sherdad (Male)  (P) PS-II,34.16005,71.44618,Male,KPK,4,0,1296,0
+80,GHS  Shaghali Payan (Male) PS-I (P),34.1612,71.4952,Male,KPK,4,0,1637,0
+82,GHS  Shagali Payan (Female) PS-II (P),34.1612,71.49523,Female,KPK,0,3,0,1186
+83,GPS  Wazir Killi (Combined) * Improvisation regarding entrance,34.16627,71.47771,Combined,KPK,2,2,731,521
+81,GGPS  Payari Payan (Combined),34.16967,71.49915,Combined,KPK,1,1,319,193
+75,GPS  Bela Mohmandan (Male),34.17785,71.44966,Male,KPK,4,0,1388,0
+78,GHS   Belah Mohmandan  (Female) PS-I,34.17823,71.44891,Female,KPK,0,4,0,1270
+79,GHS   Belah Mohmandan (Female) PS-II,34.17823,71.44894,Female,KPK,0,4,0,1472
+76,BHU Qilla Shah Baig (Male) PS-I,34.18795,71.49442,Male,KPK,4,0,1407,0
+77,BHU Qilla Shah Baig (Male) PS-II,34.18795,71.49445,Male,KPK,4,0,1592,0

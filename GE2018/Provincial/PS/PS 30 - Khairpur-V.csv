@@ -1,0 +1,123 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+110,GPS Ahmed Ali Mojai,27.10574,68.451,Combined,Sindh,1,1,547,426
+111,GPS Qabil Mojai,27.11701,68.44562,Combined,Sindh,2,2,891,543
+115,GPS Balo Jo Kharo,27.12317,68.50707,Combined,Sindh,2,2,841,571
+114,UC Office Deparja,27.1322,68.47777,Combined,Sindh,2,2,699,530
+109,GPS Soofai Sahta,27.14417,68.44327,Combined,Sindh,2,1,639,523
+93,GHS Rasool Abad (Male),27.15127,68.41132,Combined,Sindh,1,1,529,418
+92,GMS Girls Rasool Abad (Female),27.15206,68.4128,Female,Sindh,0,2,0,997
+91,Shifa Khana Rasool Abad (Male),27.15216,68.41073,Male,Sindh,3,0,1207,0
+94,GPS Pir Umer Shah (GPS Ghulam Akbar Lashari),27.15488,68.38174,Combined,Sindh,2,1,760,566
+112,GMS Deparja,27.15774,68.45962,Male,Sindh,3,0,1421,0
+113,GMS Deparja,27.15774,68.45965,Female,Sindh,0,3,0,1149
+104,GPS Chuttan Shah,27.17342,68.48706,Combined,Sindh,2,2,907,678
+95,BHU Bachal Bhanbhro,27.17603,68.42869,Combined,Sindh,2,2,921,726
+57,GPS Mangna Pata,27.18117,68.4035,Combined,Sindh,2,2,886,678
+96,BHU Rukrani,27.1856,68.43671,Combined,Sindh,2,2,732,669
+102,GPS Shaheed Abad,27.18754,68.49622,Combined,Sindh,2,2,874,705
+103,GPS Ali Sher Kubar,27.19071,68.48131,Combined,Sindh,2,2,641,559
+105,GPS Muhammad Malook Sahto,27.19546,68.50008,Combined,Sindh,2,2,794,658
+101,GMS Setharja Female,27.20015,68.47837,Female,Sindh,0,3,0,1170
+97,Govt: Community Center Qalandar B Mangi-I (Male),27.20093,68.44763,Male,Sindh,3,0,1283,0
+98,Govt: Community Center Qalandar B Mangi-II (Female),27.20093,68.44766,Female,Sindh,0,2,0,965
+100,GHSS Setharja Male,27.20238,68.48261,Male,Sindh,4,0,1536,0
+99,GHSS Setharja,27.20239,68.4826,Combined,Sindh,2,2,837,722
+106,GHS Wali Dad Lund,27.20348,68.53358,Combined,Sindh,2,1,640,513
+62,GHS Hingorja-I (Male),27.20629,68.41899,Male,Sindh,3,0,1398,0
+63,GHS Hingorja-II (Female),27.20629,68.41902,Female,Sindh,0,2,0,1129
+60,GHS Girls Hingorja (Male),27.20893,68.41262,Male,Sindh,4,0,1519,0
+61,GPS Hingroja (Female),27.20897,68.41304,Female,Sindh,0,3,0,1105
+58,GPS Gadd,27.21162,68.4586,Combined,Sindh,2,2,904,710
+64,RHC Hingorja-I (Male),27.21178,68.41881,Male,Sindh,3,0,989,0
+65,RHC Hingorja-II (Female),27.21178,68.41884,Female,Sindh,0,2,0,785
+66,UC Office Hingorja,27.21183,68.41829,Combined,Sindh,2,2,907,779
+90,GPS Sethaja Bala,27.21426,68.46941,Combined,Sindh,2,1,625,382
+89,Government Dispensary  Setharja Bala,27.21444,68.46955,Combined,Sindh,2,1,633,437
+107,GPS Saindad Solangi,27.21533,68.48682,Combined,Sindh,2,2,861,718
+59,GPS Watia,27.21761,68.43526,Combined,Sindh,2,2,987,720
+54,GPS Ali Nawaz Sahto,27.22054,68.37366,Combined,Sindh,2,2,913,629
+53,GPS Khalifa Huriah,27.22437,68.3224,Combined,Sindh,1,1,760,473
+46,GPS Nehal Mashori,27.22892,68.31569,Combined,Sindh,2,1,645,463
+108,GPS Mureed Haji,27.22988,68.52505,Combined,Sindh,2,2,925,721
+45,GPS Bakshal Bambhro,27.23094,68.29044,Combined,Sindh,2,2,869,707
+88,GPS Nihal Machi-I (Male),27.23283,68.46279,Combined,Sindh,2,2,805,640
+67,GPS Machar,27.2378,68.41283,Combined,Sindh,2,1,528,427
+48,GMS Girls Sami (Female),27.24592,68.34994,Female,Sindh,0,3,0,1317
+47,GHS Sami (Male),27.24689,68.34898,Male,Sindh,4,0,1701,0
+119,GPS Rahim Bakhsh Wassan (Male),27.24759,68.55016,Male,Sindh,3,0,1118,0
+120,GPS Rahim Bakhsh Wassan-II (Female),27.24759,68.55019,Female,Sindh,0,3,0,957
+122,GPS Haji Tayyab Wassan,27.24884,68.53336,Combined,Sindh,1,1,599,528
+123,GPS Jamra-I (Male),27.24912,68.51929,Male,Sindh,3,0,1292,0
+124,GPS Jamra-II (Female),27.24912,68.51932,Female,Sindh,0,3,0,1160
+43,GPS Dew Kalhoro (Male),27.25045,68.26843,Male,Sindh,4,0,1467,0
+44,Imporovised @ Village Dew Kalhoro,27.25045,68.26846,Female,Sindh,0,3,0,1014
+85,GMS Girls Gadeji (Female),27.25099,68.47699,Female,Sindh,0,4,0,1821
+69,GPS Girls Malhirani (Female),27.25119,68.44167,Female,Sindh,0,4,0,1777
+34,GPS Gahno Bhagat,27.25262,68.31235,Combined,Sindh,2,2,692,527
+83,GHS Gadeji-I (Male),27.25409,68.47799,Male,Sindh,3,0,1319,0
+84,GHS Gadeji-II (Male),27.25409,68.47802,Male,Sindh,2,0,877,0
+38,GPS Sagyoon (Female),27.25426,68.30112,Female,Sindh,0,2,0,795
+68,GPS Malhirani (Male),27.25476,68.4449,Male,Sindh,4,0,1996,0
+35,Irregation Rest House Sagyoon (Male),27.25541,68.29908,Male,Sindh,3,0,1048,0
+36,GHS Sagyoon-I,27.25542,68.3008,Combined,Sindh,2,2,686,531
+37,GHS Sagyoon-II,27.25542,68.30083,Combined,Sindh,2,1,615,431
+55,GPS Bachal Shah (Male),27.25545,68.38853,Male,Sindh,4,0,1490,0
+56,GPS Bachal Shah (Female),27.25545,68.38856,Female,Sindh,0,3,0,1104
+39,BHU Sagyoon-I (Male),27.25628,68.29215,Male,Sindh,3,0,1091,0
+40,BHU Sagyoon-II (Female),27.25628,68.29218,Female,Sindh,0,2,0,806
+49,GPS Meerak,27.25775,68.35199,Combined,Sindh,2,2,987,820
+121,GPS Goth Ghullam Raza Rajpar,27.25792,68.51254,Combined,Sindh,1,1,555,508
+33,GPS Girls Qazi Bhutta,27.26492,68.3208,Combined,Sindh,2,2,775,567
+86,Govt: BHU Bhellar,27.26509,68.44759,Male,Sindh,3,0,1227,0
+87,GBPS Bhelar,27.26592,68.4471,Female,Sindh,0,2,0,992
+117,GPS Dhani Bakhsh Brohi,27.26709,68.52069,Combined,Sindh,1,1,496,414
+118,GHS Jan Muhammad Wnadiar,27.26995,68.55293,Combined,Sindh,2,2,725,537
+41,GPS Mehmood Channa (Male),27.27039,68.22897,Male,Sindh,4,0,1476,0
+42,Improvised @ Village Mehmood Channa,27.27039,68.229,Female,Sindh,0,3,0,1168
+52,GPS Darban,27.27055,68.33697,Combined,Sindh,2,2,898,657
+7,GPS Habibullah Mangnejo (Male),27.27067,68.38505,Male,Sindh,3,0,1133,0
+8,GPS Habibullah Mangnejo (Female),27.27067,68.38508,Female,Sindh,0,2,0,932
+51,GGPS Niwaro,27.2739,68.3496,Female,Sindh,0,2,0,840
+50,GPS Newaro-I (Male),27.27417,68.34798,Male,Sindh,3,0,994,0
+11,GPS Soomar Machi-I (Male),27.27427,68.40497,Male,Sindh,3,0,1095,0
+80,GPS Wassan,27.27473,68.49432,Combined,Sindh,2,1,846,441
+12,GGPS Setharja Lower,27.27903,68.40221,Female,Sindh,0,2,0,793
+76,RHC Ranipur,27.2829,68.50568,Combined,Sindh,2,1,620,462
+73,GPS Buss Stand Ranipur-I (Male),27.28422,68.5114,Male,Sindh,3,0,1056,0
+74,GPS Buss Stand Ranipur-I (Female),27.28422,68.51143,Female,Sindh,0,2,0,861
+77,GHS Ranipur (Male),27.28587,68.50494,Male,Sindh,3,0,1304,0
+78,GHS Ranipur (Female),27.28587,68.50497,Female,Sindh,0,3,0,1177
+79,GPS Girls Ranipur,27.28592,68.50296,Combined,Sindh,2,1,584,479
+116,GPS Paro Khan Pato,27.28659,68.52668,Combined,Sindh,2,2,989,860
+75,GPS Bodla Hajana Muhalla,27.28881,68.5068,Combined,Sindh,2,2,637,548
+71,GPS Ranipur Main (Male),27.289,68.5038,Male,Sindh,4,0,1670,0
+72,GPS Girls Ranipur Main (Female),27.28922,68.50309,Female,Sindh,0,4,0,1360
+31,GPS Amb (Male),27.2911,68.36391,Male,Sindh,3,0,1165,0
+32,GGLS Amb (Female),27.29123,68.36481,Female,Sindh,0,3,0,999
+81,GPS Watni Wada-I (Male),27.29322,68.48553,Male,Sindh,4,0,1627,0
+82,GPS Watni Wada-II (Female),27.29322,68.48556,Female,Sindh,0,3,0,1308
+70,GPS Mir Khan Shahani,27.29552,68.46561,Combined,Sindh,2,2,794,669
+28,GPS Noor Muhammad Channo,27.29768,68.33703,Combined,Sindh,2,1,603,483
+10,GBPS Khokhar (Male),27.29878,68.41096,Male,Sindh,4,0,1375,0
+9,GBPS Khokhar (Female),27.29878,68.41099,Female,Sindh,0,3,0,1042
+22,GPS Kathri Pathano,27.3012,68.44672,Female,Sindh,0,2,0,862
+6,GPS Kamal Lashari,27.30362,68.3776,Combined,Sindh,1,1,393,366
+5,GHS Sobhodero (Female),27.30464,68.39941,Female,Sindh,0,3,0,1187
+4,GHS Sobhodero (Male),27.30466,68.39941,Male,Sindh,4,0,1512,0
+3,GPS Girls Sobhodero,27.30494,68.39895,Combined,Sindh,2,1,572,480
+2,GPS Sobhodero-II (Female),27.30568,68.39873,Female,Sindh,0,3,0,1054
+29,GPS Bhonbhat Pur,27.3075,68.35393,Combined,Sindh,2,2,969,805
+21,GPS Gulan Shahani (Male),27.31088,68.45948,Male,Sindh,3,0,1074,0
+20,GPS Piyalo,27.31159,68.4139,Combined,Sindh,2,2,661,603
+30,GPS Suleman Channo,27.31747,68.36148,Combined,Sindh,2,2,632,537
+24,GPS Dargahi Samtio,27.32006,68.37693,Combined,Sindh,2,2,721,663
+19,GPS Razal Memon,27.32055,68.39832,Combined,Sindh,2,2,826,703
+23,GMS Bindi Motayo,27.33651,68.37668,Combined,Sindh,2,2,889,772
+18,GHS Thatti,27.33766,68.45499,Combined,Sindh,2,1,615,455
+14,GHS Madd-I (Male),27.3419,68.41525,Male,Sindh,3,0,1258,0
+15,GHS Madd-II (Female),27.3419,68.41528,Female,Sindh,0,2,0,979
+13,GPS Kouro Khuhro,27.34488,68.39047,Combined,Sindh,2,2,965,752
+27,GPS Illahi Bakhsh Unnar,27.34759,68.35749,Combined,Sindh,2,1,546,480
+16,GPS Lakha Wada,27.3505,68.43969,Combined,Sindh,2,2,783,602
+25,GPS Pathano Naugoth (Male),27.35184,68.36826,Male,Sindh,3,0,1083,0
+26,GPS Pathano Naugoth (Female),27.35184,68.36829,Female,Sindh,0,2,0,880

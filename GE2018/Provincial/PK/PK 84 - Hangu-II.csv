@@ -1,0 +1,13 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+9,Govt. Primary School Poongi Banda (C),33.41651352317896,70.83797361277236,Combined,KPK,3,1,834,662
+1,Govt:Higher Secondary School- Doaba(M) PS-I,33.42268693749021,70.72678954236775,Male,KPK,3,0,1249,0
+2,Govt:Higher Secondary School- Doaba(F) PS-II,33.42268938142245,70.72675381276484,Female,KPK,0,2,0,888
+3,Govt. Girls Primary School Doaba (M) PS-I,33.42368708149238,70.73697807799242,Male,KPK,3,0,1422,0
+4,Govt. Girls Primary School Doaba (M) PS-II,33.42376323328003,70.73698483748817,Male,KPK,2,0,1340,0
+6,Govt:High School Sarozai (C ),33.42407,70.78152,Combined,KPK,2,2,1011,689
+8,Govt:Girls Middle School Sarozai (F),33.4263688545521,70.78545835953099,Female,KPK,0,3,0,1784
+7,Govt: Primary School No.2 Sarozai (M ),33.4265,70.78404,Male,KPK,4,0,2489,0
+5,Govt:Primary School Sharqi Doaba(F),33.43206498225186,70.7563821433571,Female,KPK,0,4,0,1996
+11,Govt:Primary School Aziz abad- Naryab (C ),33.512015603390765,70.81332804119143,Combined,KPK,2,1,902,604
+10,Govt:Middle School Chapri Naryab(C ),33.51802132735289,70.78050546226004,Combined,KPK,2,2,1351,990
+12,Govt:Primary School No.1 Zargeri C ),33.52062084047113,70.80708445542069,Combined,KPK,2,1,909,551

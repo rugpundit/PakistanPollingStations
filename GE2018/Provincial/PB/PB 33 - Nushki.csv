@@ -1,0 +1,90 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+84,Govt Primary School Killi Hashim Kochaki chah (Combined),29.07522,65.50739,Combined,Balochistan,1,1,509,419
+80,Govt Boys Primary School Killi Jan Baig (Combined),29.14601,65.62073,Combined,Balochistan,1,1,357,244
+83,Govt Primary School Killi Elahi Bukhsh (Combined),29.16713,65.65498,Combined,Balochistan,1,1,246,188
+82,Govt Boys High School Rustam Mall (Combined ),29.17247,65.66513,Combined,Balochistan,1,1,465,301
+81,Govt Primary School Naik Muhammad Rehman Zai (Combined),29.17988,65.68573,Combined,Balochistan,1,1,450,353
+79,Govt Boys Primary School Kochal (Combined),29.20531,65.72992,Combined,Balochistan,1,1,389,261
+78,Govt Boys High School Muhammad Khan Mall (Combined),29.23277,65.76601,Combined,Balochistan,2,1,637,532
+77,Govt Boys Middle School Sar Mall (Combined),29.27749,65.81208,Combined,Balochistan,1,1,563,396
+76,Govt Boys Midddle School Daidar (Combined),29.28423,65.84256,Combined,Balochistan,2,2,723,542
+75,Govt Boys Middle School Reko (Combined),29.30821,65.96165,Combined,Balochistan,2,1,993,478
+64,Govt Boys Middle School Qabool (Combined),29.36088,65.63814,Combined,Balochistan,1,1,431,325
+73,Govt Boys Primary School Gomazgi (Male),29.36726,65.96724,Male,Balochistan,3,0,1176,0
+74,Govt Girls Middle School Gomazgi (Female),29.38503,65.92496,Female,Balochistan,0,2,0,819
+70,Govt Girls Primary School Sofi Abad (Male),29.39106,65.93488,Male,Balochistan,2,0,891,0
+69,Govt Boys High School Ahmed Wal (Male),29.39462,65.9383,Male,Balochistan,1,0,784,0
+71,Govt Girls High School Ahmed Wal (Female),29.39612,65.94064,Female,Balochistan,0,3,0,1223
+63,Govt Boys High School Kharena (Combined),29.40353,65.72894,Combined,Balochistan,1,1,345,233
+72,Govt Boys Middle School Haroni Wal (Combined),29.42917,65.95446,Combined,Balochistan,1,1,406,248
+67,Govt Boys High School Batto (Male),29.44474,65.96781,Male,Balochistan,3,0,1132,0
+68,Govt Girls Primary School Batto (Female),29.44538,65.96748,Female,Balochistan,0,2,0,853
+65,Govt Boys Primary School Nazar Muhammad (Combined),29.46646,65.75249,Combined,Balochistan,1,1,266,214
+90,Govt Boys High School Zaro Chah (Combined),29.49085,65.33861,Combined,Balochistan,2,2,957,650
+66,Govt Boys Primary School Nokjo (Combined),29.49423,65.97067,Combined,Balochistan,1,1,518,376
+89,Govt Girls Primary School Sakhi Daro Khan (Combined),29.51638,65.42676,Combined,Balochistan,2,1,666,363
+62,Govt Boys Primary School Azar Juft (Combined),29.51837,65.78717,Combined,Balochistan,1,1,256,172
+46,Govt Boys Middle School Badal Kareez (Combined),29.5195,65.99062,Combined,Balochistan,2,1,722,542
+57,Govt Primary School Killi Abdul Rasheed (Combined),29.52278,66.14157,Combined,Balochistan,1,1,509,334
+22,Govt Boys Primary School Jamal Abad (Male),29.53278,66.01347,Male,Balochistan,3,0,1142,0
+42,Govt Girls High School Jamaldini (Female),29.53347,65.97024,Female,Balochistan,0,3,0,947
+41,Govt Boys Primary School Hayat Khan Jamaldini (Male),29.53424,65.97124,Male,Balochistan,3,0,967,0
+23,Govt Girls Middle School Jamal Abad (Female),29.53432,66.01664,Female,Balochistan,0,2,0,801
+47,Govt Boys Middle School Killi Noor Khan Station (Combined),29.53557,66.05306,Combined,Balochistan,1,1,424,280
+43,Govt Girls Middle School Azat Jamaldini (Female),29.53798,65.97465,Female,Balochistan,0,2,0,789
+40,Govt Boys High School Jamaldini (Male),29.53961,65.97817,Male,Balochistan,3,0,1168,0
+20,Govt Boys High School Asyaban (Male),29.54134,66.0134,Male,Balochistan,2,0,653,0
+21,Govt Girls Middle School Asyaban (Female),29.54383,66.01184,Female,Balochistan,0,2,0,545
+14,Govt Primary School Gharib Abad (Female),29.54863,66.02374,Female,Balochistan,0,2,0,794
+17,Govt Boys Primary School Haya-ul-uloom Gharib Abad (Female),29.54866,66.01646,Female,Balochistan,0,3,0,1020
+56,Govt Boys Middle School Bulghani (Combined),29.55063,66.15372,Combined,Balochistan,1,1,537,434
+18,Govt Boys Primary School Faqeeran (Male),29.55098,66.0107,Male,Balochistan,4,0,1214,0
+19,Govt GirlsMiddle School Faqeeran (Female),29.55098,66.01073,Female,Balochistan,0,2,0,830
+12,Govt Boys High School Gharibabad Portion 1 (Male),29.55132,66.02181,Male,Balochistan,3,0,968,0
+15,Govt Girls High School Gharib Abad,29.55157,66.02296,Female,Balochistan,0,3,0,840
+11,District Forest office Nushki (Female),29.55166,66.03009,Female,Balochistan,0,3,0,1261
+13,Govt Boys High School Gharibabad Portion 2nd (Male),29.55182,66.02197,Male,Balochistan,3,0,1008,0
+16,Agriculture office Nushki (Male),29.55259,66.01621,Male,Balochistan,4,0,1378,0
+8,Town Municipal office Nushki (Male),29.55343,66.01646,Male,Balochistan,3,0,1033,0
+5,GGPS Qaziabad (Female),29.55554,66.02473,Female,Balochistan,0,2,0,813
+9,GGHS Nushki (Female),29.55559,66.01698,Female,Balochistan,0,3,0,968
+1,GBMH School Nushki 1st Portion (Male),29.55635,66.0188,Male,Balochistan,3,0,1022,0
+2,GBMH School Nushki 2nd Portion (Male),29.55708,66.01982,Male,Balochistan,2,0,747,0
+7,Govt Boys Model Primary Section Portion 2nd (Female,29.55714,66.02026,Female,Balochistan,0,4,0,1381
+6,Govt Boys Model Primary Section Portion 1st (Female),29.55727,66.01998,Female,Balochistan,0,2,0,580
+3,Office of the Assistant Director Food (Male),29.55731,66.02101,Male,Balochistan,3,0,1035,0
+4,District Zakat Office Nushki (Male),29.55793,66.01956,Male,Balochistan,2,0,932,0
+44,Govt Boys High School Sahibzada (Male),29.55855,65.96996,Male,Balochistan,3,0,1255,0
+45,Govt Girls High School Sahibzada (Female),29.56207,65.97006,Female,Balochistan,0,3,0,943
+37,Govt Girls High School Sharif Khan Badini (Female),29.56269,65.98341,Female,Balochistan,0,3,0,916
+36,Govt Boys High School Killi Sharif Khan (Male),29.56298,65.98949,Male,Balochistan,3,0,1163,0
+39,Govt Girls Primary School Muhammad Noor Khan (Female),29.57591,66.00895,Female,Balochistan,0,2,0,871
+58,Govt Boys Primary School Anam Bostan (Combined),29.57591,66.00898,Combined,Balochistan,1,1,486,382
+61,Govt Primary School Killi Atta Muhammad Baidi (Combined),29.57591,66.00901,Combined,Balochistan,2,1,841,480
+33,Govt Boys Primary School Samand Khan Mengal (Female),29.57794,65.99934,Female,Balochistan,0,1,0,521
+88,Govt Boys High School Essa Chah Portion 2 (Combined),29.57907,65.52766,Combined,Balochistan,1,1,465,358
+30,Govt Girls Primary School Haji Azad Khan Mengal,29.58122,66.00046,Female,Balochistan,0,2,0,953
+35,Govt Girls High School Sardar Badini (Female),29.58192,65.98337,Female,Balochistan,0,3,0,1086
+29,Govt Boys High School Killi Mengal,29.58227,66.0068,Male,Balochistan,4,0,1730,0
+34,Govt Boys High School Sardar Badini (Male),29.58405,65.98627,Male,Balochistan,4,0,1383,0
+31,Govt Boys Primary School Sardar Mengal (Male),29.58503,65.99389,Male,Balochistan,4,0,1408,0
+32,Govt Girls High School Sardar Mengal (Female),29.58503,65.99392,Female,Balochistan,0,3,0,1183
+28,Govt Girls Primary School Gul Khan Naseer,29.5855,66.00655,Female,Balochistan,0,4,0,1702
+50,Govt Boys High School Killi Khairazi (Combined),29.59145,66.15975,Combined,Balochistan,1,1,351,279
+87,Govt Boys High School Essa Chah Portion 1 (Combined),29.59198,65.55077,Combined,Balochistan,1,1,501,348
+26,Govt Boys Primary School Qadir Abad East (Male),29.59349,66.0154,Male,Balochistan,3,0,1258,0
+27,Govt Girls Primary School Qadir Abad East (Male),29.59455,66.01564,Male,Balochistan,3,0,1267,0
+25,Govt Girls Community School Qadir Abad West (Female),29.59492,66.00336,Female,Balochistan,0,2,0,856
+24,Govt Boys Middle School Qadir Abad  (Male),29.59538,66.0036,Male,Balochistan,3,0,1262,0
+49,Govt Boys Middle School Palya (Combined),29.60635,66.29117,Combined,Balochistan,1,1,371,270
+48,Govt Boys Middle School Izzat Khan (Combined),29.60977,66.21264,Combined,Balochistan,1,1,157,119
+53,Govt Boys High School Haji Azad Khan (Combined),29.61109,66.12773,Combined,Balochistan,2,1,668,556
+86,Govt Primary School Sher Shah (Killi Sardar Naseer Ahmed ) Combined,29.62752,65.56461,Combined,Balochistan,1,1,315,226
+85,Govt Boys High School Darzi Chah (Combined),29.64187,65.64101,Combined,Balochistan,1,1,390,334
+51,Govt Boys Middle School Haji Mubarak (Combined),29.64325,66.20586,Combined,Balochistan,1,1,536,398
+54,Govt Boys Middle School Killi Murad Ali (Combined),29.64649,66.11529,Combined,Balochistan,1,1,432,341
+38,Govt Boys Middle School Muhammad Noor Khan (Male),29.66427,65.97376,Male,Balochistan,3,0,1402,0
+59,Govt Boys Primary School Pir Jan Garri (Combined),29.66548,65.88885,Combined,Balochistan,1,1,195,143
+60,Govt Boys Primary School Landi Mehmoodzai (Combined),29.71187,65.75984,Combined,Balochistan,1,1,532,345
+55,Govt Boys Primary School Killi Lal Jan Singboor (Combined),29.74665,66.19436,Combined,Balochistan,1,1,386,311
+52,Govt Boys Primary School Gori (Combined),29.80564,66.13676,Combined,Balochistan,1,1,468,250

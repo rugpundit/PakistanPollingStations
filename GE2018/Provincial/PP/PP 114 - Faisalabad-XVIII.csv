@@ -1,0 +1,174 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+194,Little Folks Grammer School- Shalimar Park Main Road (Male) (T),31.374703845961722,73.09218344627617,Male,Punjab,3,0,1192,0
+196,Royal Model High School-  Shalimar Park Street No. 2 Preofessor Block  (Female) (T),31.37477093735949,73.08936879173223,Female,Punjab,0,4,0,1484
+175,Sunny Public School-Nasir Town-  (Male) (T),31.37577485180473,73.09718856013782,Male,Punjab,3,0,1092,0
+182,Sunny Public School  Mohallah NasIr Town Chak No.224/RB. (Male) (T),31.37577485180473,73.0972185601378,Male,Punjab,2,0,933,0
+183,Sunny Public School  Mohallah NasIr Town Chak No.224/RB. (Female) (T),31.37577485180473,73.0972485601378,Female,Punjab,0,2,0,687
+181,Government  Boys Primary School- NasIr Town Chak No 224/RB. (Female) (P),31.375866188023863,73.0948555748184,Female,Punjab,0,3,0,1337
+200,Government Girls High School- Chak No. 224/RB Millat Colony  (Female) (P),31.375993144698985,73.08447217211933,Female,Punjab,0,3,0,1017
+202,Government Girls High School- Chak No. 224/RB Millat Colony  (Female) (P),31.375993144698985,73.0845021721193,Female,Punjab,0,2,0,979
+189,Government Girls High School- Chak No. 224/RB  (Female) (P),31.376003145089886,73.08448273367145,Female,Punjab,0,2,0,765
+187,Government Girls High School- Chak No. 224/RB  (Female) (P),31.376003145089886,73.0845127336714,Female,Punjab,0,2,0,943
+199,Government Boys High School- Chak No. 224/RB Millat Colony (Male) (P),31.376055763246114,73.08439563220224,Male,Punjab,3,0,1244,0
+201,Government Boys High School- Chak No. 224/RB Millat Colony (Male) (P),31.376055763246114,73.0844256322022,Male,Punjab,3,0,1135,0
+186,Government Boys High School-  Chak No. 224/RB (Male) (P),31.376148497355665,73.08440728879405,Male,Punjab,3,0,1196,0
+188,Government Boys High School-  Chak No. 224/RB (Male) (P),31.376148497355665,73.084437288794,Male,Punjab,2,0,957,0
+190,Darul Huda Boys High School- Hilal Road.Shalimar Park (Male) (T),31.37685032759216,73.089714794605,Male,Punjab,3,0,1166,0
+191,Darul Huda Boys High School- Hilal Road.Shalimar Park (Female) (T),31.37685032759216,73.089744794605,Female,Punjab,0,2,0,938
+192,Darul Huda Boys High School- Hilal Road.Shalimar Park (Male) (T),31.37685032759216,73.089774794605,Male,Punjab,2,0,762,0
+193,Darul Huda Boys High School- Hilal Road.Shalimar Park (Female) (T),31.37685032759216,73.089804794605,Female,Punjab,0,2,0,643
+184,Bismillah Public School Chishtia Park-  (Male) (T),31.377755888435253,73.09520604224821,Male,Punjab,3,0,1172,0
+185,Bismillah Public School- Mohallah Chistia Park. (Female) (T),31.377755888435253,73.0952360422482,Female,Punjab,0,2,0,895
+172,Sadae Pakistan Primary School  St No. 2 Chaman Zar Colony . (Female) (T),31.377999830826468,73.09713015932553,Female,Punjab,0,3,0,1353
+174,Sadae Pakistan Primary School  St No. 2 Chaman Zar Colony . (Female) (T),31.377999830826468,73.0971601593255,Female,Punjab,0,2,0,955
+176,Sadae Pakistan Primary School  St No. 2 Chaman Zar Colony . (Female) (T),31.377999830826468,73.0971901593255,Female,Punjab,0,2,0,785
+177,Sadae Pakistan Primary School  St No. 2 Chaman Zar Colony . (Male) (T),31.377999830826468,73.0972201593255,Male,Punjab,2,0,764,0
+180,Al Janat Public School- Street No. 5- Nawaz Park. (Male) (T),31.37844088948613,73.09295014633017,Male,Punjab,4,0,1569,0
+147,Gold Star Elementary School- Chattaha Chowk- St No.7- Barkat Pura. (Female) (T),31.378503318349697,73.0889551534641,Female,Punjab,0,2,0,635
+198,National A-One School-  N-Block Bilal Chowk Allama Iqbal Colony (Female) (T),31.37950631042339,73.08282325595943,Female,Punjab,0,2,0,988
+170,Little Flower School- St No. 5 Siddique Nagar. (Male) (T),31.3798268420397,73.10136147277339,Male,Punjab,2,0,823,0
+171,Little Flower School- St No. 5 Siddique Nagar. (Male) (T),31.3798268420397,73.1013914727734,Male,Punjab,2,0,931,0
+173,Little Flower School- St no. 5 Siddique Nagar. (Male) (T),31.3798268420397,73.1014214727734,Male,Punjab,3,0,1350,0
+146,Punjab School System- St. No. 5 Barkat Pura (Male) (T),31.380201840248954,73.0901250341267,Male,Punjab,2,0,778,0
+197,JInnah Ideal High School St no 04 Shadi Pura Near Boota Chowk N Block (Male)(T),31.380657412638765,73.08591202317503,Male,Punjab,3,0,1218,0
+178,Faisalabad Adventist Elementary School- Street No.05 Dawood Nagar- (Male) (T),31.38082616134531,73.0943142591399,Male,Punjab,2,0,953,0
+179,Fasialabad adventist Elementary School- Near Office Khalil Tahir Sindhu- St No.5- Dawood Nagar. (Female) (T),31.38082616134531,73.0943442591399,Female,Punjab,0,3,0,1361
+140,Young Scholar High  School- Al Hilal Road-Batkat Pura. (Male) (T),31.381762384330703,73.09472423391388,Male,Punjab,3,0,1031,0
+142,Young Scholar High  School- Al Hilal Road-Batkat Pura. (Male) (T),31.381762384330703,73.0947542339139,Male,Punjab,3,0,1303,0
+153,MC Girls Elementry School-Iqbal Nagar. (Male) (P),31.382073246725607,73.08720040740135,Male,Punjab,4,0,1439,0
+154,MC Girls Elementry School -Iqbal Nagar. (Female) (P),31.382073246725607,73.0872304074014,Female,Punjab,0,3,0,1165
+155,MC Grils Elementry School-  Iqbal Nagar. (Male) (P),31.382073246725607,73.0872604074014,Male,Punjab,4,0,1478,0
+156,MC Girls Elementry School-Iqbal Nagar. (Female) (P),31.382073246725607,73.0872904074014,Female,Punjab,0,3,0,1128
+157,MC Grils  Elementry School-  Iqbal Nagar. (Male) (P),31.382073246725607,73.0873204074014,Male,Punjab,2,0,932,0
+158,MC Girls Elemenry School-Iqbal Nagar. (Female) (P),31.382073246725607,73.0873504074014,Female,Punjab,0,2,0,784
+168,Holy Land Middle School- St. No. 3 Bilal Town  (Male) (T),31.38252083237315,73.09731355662723,Male,Punjab,4,0,1729,0
+134,MC Girls High School- Dastghir Pura Waris Pura. (Male) (P),31.383079475915345,73.08946431527283,Male,Punjab,2,0,939,0
+138,MC Girls High School-Dastghir Pura (Waris Pura)  (FeMale) (P),31.383079475915345,73.0894943152728,Male,Punjab,3,0,1223,0
+148,MC Girls High School- Dastghir Pura (Waris Pura) (Male) (T),31.383079475915345,73.0895243152728,Male,Punjab,3,0,1275,0
+150,MC Girls High School- Dastghir Pura (Waris Pura). (Male) (T),31.383079475915345,73.0895543152728,Male,Punjab,3,0,1284,0
+152,MC Girls High School- Dastghir Pura (Waris Pura). (Combined) (T),31.383079475915345,73.0895843152728,Combined,Punjab,2,1,577,486
+131,Al Fateh High School- St No. 2- Maqsood Abad. (Male) (T),31.383662332634238,73.10040715391585,Male,Punjab,3,0,1201,0
+165,Al-Fateh Junior Public School-  Street No. 5- Alla Abad (Female) (T),31.383662332634238,73.1004371539158,Female,Punjab,0,4,0,1536
+141,Government  Guardian Angels Girls ELementary School- Barkat Pura. (Female) (P),31.383883612709095,73.09209562011915,Female,Punjab,0,2,0,897
+143,Government  Guardian Angels Girls  ELementary School- Barkat Pura. (Female) (P),31.383883612709095,73.0921256201191,Female,Punjab,0,3,0,1082
+149,Government  Guardian ELementary School-Barkat Pura. (Female) (P),31.383883612709095,73.0921556201192,Female,Punjab,0,3,0,1125
+151,Government  Guardian Angels Girls ELementary School- Barkat Pura .  (Female) (P),31.383883612709095,73.0921856201192,Female,Punjab,0,2,0,985
+145,Government MC Boys Elementry School-Yaseen Abad. (Female) (P),31.384059399036428,73.09527191681492,Female,Punjab,0,3,0,1402
+169,MC Boys Elementry School- Yaseen Abad. (Female) (P),31.384059399036428,73.0953019168149,Female,Punjab,0,3,0,1394
+144,Sumar Foundation Middle School- St. No. 4 Yasin Abad (Male) (T),31.384089737406462,73.0952350258513,Male,Punjab,4,0,1585,0
+163,Government  Primary School Aziz Model- Chak No. 224/RB Street No. 1 Mohallah Allah Abad  (Male) (T),31.384825908428155,73.09974814813849,Male,Punjab,2,0,884,0
+92,Pakistan National High School- 153-Karim Town. (Male) (T),31.3849473,73.1046706,Male,Punjab,3,0,1395,0
+94,Pakistan National High School- 153-Karim Town. (Male) (T),31.3849473,73.1047006,Male,Punjab,3,0,1305,0
+166,Pakistan National School- 153-Karim Town. (Male) (T),31.3849473,73.1047306,Male,Punjab,3,0,1185,0
+167,Pakistan National School- 153-Karim Town. (Female) (T),31.3849473,73.1047606,Female,Punjab,0,2,0,957
+98,Sea Gulls High School Yousaf Town  (Male) (T),31.3855442,73.1104216,Female,Punjab,0,2,739,0
+100,Sea Gulls High School Yousaf Town  (Male) (T),31.3855442,73.1104516,Male,Punjab,2,0,1078,0
+95,Government  Fatima Jinnah Primary School- Karim Town. (Female) (P),31.3856033,73.1040713,Female,Punjab,0,2,0,1046
+97,Government  Fatima Jinnah Primary School- Karim Town. (Female) (P),31.3856033,73.1041013,Female,Punjab,0,2,0,1084
+96,Saba Foundation Girls High School-St No.2- Ali Town Chak No. 224/RB  (Male) (T),31.3857751,73.101812,Male,Punjab,3,0,1270,0
+159,Lovely Flower High School-  Mian Colony (Back Side).            (Male) (T),31.38632799570544,73.09720545694198,Male,Punjab,3,0,1137,0
+160,Lovely Flower High School-  Mian Colony (Main Gate Portion). (Female) (T),31.38632799570544,73.097235456942,Female,Punjab,0,2,0,954
+161,Superior Science High School Near Bohar Chowk -Mian Colony- (Male) (T),31.38632799570544,73.097265456942,Male,Punjab,2,0,864,0
+162,Lovely Flower High School-  Mian Colony (Main Gate Portion). (Female) (T),31.38632799570544,73.097295456942,Female,Punjab,0,2,0,704
+101,Maham Public Girls High School  St. No.2 -Rabbani Colony No. 2 (Female) (T),31.3872897,73.1066071,Female,Punjab,0,2,0,858
+93,Aslam Grammer School Street No. 4 Amin Park (Female) (P),31.3879482,73.1095579,Female,Punjab,0,2,0,1115
+90,The Arqam School 35 - Karim Town Male (T),31.389566,73.1029186,Male,Punjab,3,0,1556,0
+91,The Readers  School Hilal Road  (Female) (P),31.389566,73.1029486,Female,Punjab,0,3,0,1386
+124,Government  Sabria Sarajia Higher Secondry School Peoples Colony No.2. (Male) (P),31.3905816,73.0992797,Male,Punjab,3,0,1283,0
+120,MC Boys High School Muhammadi Chowk Peoples Colony No.2. (Female) (P),31.3916179,73.0975701,Female,Punjab,0,2,0,985
+123,MC Boys High School Muhammadi Chowk Peoples Colony No.2. (Female) (P),31.3916179,73.0976001,Female,Punjab,0,3,0,1333
+125,MC Boys High School Muhammadi Chowk Peoples Colony No.2. (Female) (P),31.3916179,73.0976301,Female,Punjab,0,2,0,1074
+88,Happy Home Elementry School- Shehzad Colony. (Male) (T),31.3930405,73.1119553,Male,Punjab,3,0,1567,0
+89,Army Public School- 44-C Satiana Road-Shehzad Colony. (Female) (T),31.393685,73.1125547,Female,Punjab,0,3,0,1337
+119,MC Girls High School- Tanki No.2 -Peoples Colony No.2 Azafi No. 3 (Male) (P),31.3939,73.09878,Male,Punjab,2,0,1004,0
+127,Government . MC Girls High School Near Tanki No.2-Peoples Colony No.2 Azafi No. 3 . (Female) (P),31.3939,73.09881,Female,Punjab,0,2,0,1115
+121,MC Dispendary Fawar Chowk Peoples Colony No.2 (Male) (P),31.3947618,73.0951725,Male,Punjab,2,0,795,0
+114,Government  Sabria Sarajia Higher Secondry School- Peoples Colony No.2. (Male) (P),31.3947935,73.0989008,Male,Punjab,3,0,1249,0
+57,Imran Modern School Street No.8-Mohallah Noor Pura. (Male) (T),31.3956394,73.121099,Male,Punjab,2,0,1072,0
+59,Jinnah Public School  Mohallah Noor Pura. (Female) (T),31.3956394,73.121129,Female,Punjab,0,3,0,1543
+61,Jinnah Public School  Mohallah Noor Pura. (Female) (T),31.3956394,73.121159,Female,Punjab,0,2,0,923
+63,Jinnah Public School  Mohallah Noor Pura. (Female) (T),31.3956394,73.121189,Female,Punjab,0,2,0,849
+85,Pakistan Islamic School System- Main Bazar Al Fiaz Colony (Female) (T),31.3956655,73.1108488,Female,Punjab,0,3,0,1468
+84,Paragon Public High School Main Bazar Al Fiaz Colony (Male),31.3959505,73.1110332,Male,Punjab,2,0,729,0
+87,Paragon Public High School Main Bazar Al Fiaz Colony (Female) (T),31.3959505,73.1110632,Female,Punjab,0,2,0,908
+86,Al Fiaz Public High School-  P 112/6 Street No 1 Al Fiaz Colony satiana Road Male (T),31.3961853,73.1102033,Male,Punjab,2,0,1088,0
+79,Bin Qasim  Public School.  Street No. 4 B Block Muhammad Nagar. (Male) (T),31.3962522,73.1177645,Male,Punjab,3,0,1192,0
+81,Bin Qasim  Public School.  Street No. 4 B Block Muhammad Nagar. (Male) (T),31.3962522,73.1177945,Male,Punjab,2,0,1136,0
+115,MC Girls High School Azafi No. 1  Peoples Colony-No.2  (Female) (P),31.397395,73.0980838,Female,Punjab,0,3,0,1147
+118,MC GIrls High School Azafi No. 1 Peoples Colony No.2. (Female) (P),31.397395,73.0981138,Male,Punjab,2,0,0,1043
+107,MC Girls Middle School- St No.5- Muhammad Abad. (Female),31.3973981,73.1089124,Female,Punjab,0,3,0,1213
+106,MC Girls Middle School- St No.5- Muhammad Abad. (Male),31.3973981,73.1089424,Male,Punjab,3,0,1339,0
+128,Government . MC Elimentray School Ghousia Chok PC 2. (Male) (P),31.3979434,73.0936971,Male,Punjab,3,0,1328,0
+129,Government . MC Elimentray School Ghousia Chok PC 2. (Female) (P),31.3979434,73.0937271,Female,Punjab,0,3,0,1212
+130,Government . MC Elimentray School Ghousia Chok PC 2. (Combined) (P),31.3979434,73.0937571,Combined,Punjab,1,1,507,464
+103,Unique Public School- St No.6- Gulbahar Colony (Female) (T),31.3980778,73.1068837,Female,Punjab,0,2,0,916
+105,Unique Public School- St No.6- Gulbahar Colony (Female) (T),31.3980778,73.1069137,Female,Punjab,0,2,0,889
+108,Brainy Kids Public School- St No.5- Muhammad Abad. (Male) (T),31.398153,73.1080825,Male,Punjab,3,0,1196,0
+109,Brainy Kids Public School- St No.5- Muhammad Abad. (Female) (T),31.398153,73.1081125,Female,Punjab,0,2,0,1081
+80,MC Mother Child Middle School- Mohallah Muhammad Nagar- Band st no. 8. (Female) (P),31.3990892,73.118871,Female,Punjab,0,2,0,1005
+102,The Education City School-  Street No. 9 Main Road Gulbahar Colony. (Male) (T),31.3993639,73.1042096,Male,Punjab,2,0,965,0
+104,The Education City School-  Street No. 9 Main Road Gulbhar Colony. (Male) (T),31.3993639,73.1042396,Male,Punjab,2,0,957,0
+116,Government  MC Middle  School-Islam Pura Babar Chock Peoples Colony No.2. (Combined) (P),31.3996699,73.0997372,Combined,Punjab,2,1,654,610
+117,Government  MC Middle  School-Islam Pura Babar Chock Peoples Colony No.2. (Male) (P),31.3996699,73.0997672,Male,Punjab,3,0,1215,0
+68,Hostle Teacher Training College. (Male) (T),31.3997245,73.1248643,Male,Punjab,3,0,1286,0
+70,Hostle Teacher Training College. (Male) (T),31.3997245,73.1248943,Male,Punjab,2,0,1056,0
+77,Sadiq Public School-  Near Sialvi State Agency- Iqbal Nagar- (Dhudhi wala). (Male) (T),31.3998101,73.122928,Male,Punjab,3,0,1209,0
+42,City High School- 293/D  Ex-Passport Office Road- Peoples Colony No. 1 (Female) (T),31.4006215,73.1135229,Female,Punjab,0,3,0,1179
+69,Government  Boys Elementary School  214 R.B. WEST- Near Hostle Teacher Training. (Female) (P),31.4007916,73.1282759,Female,Punjab,0,2,0,1148
+72,Government  Boys Elementary School 214 R.B. WEST- Near Hostle Teacher Training. (Female) (P),31.4007916,73.1283059,Female,Punjab,0,4,0,1674
+64,Government  Teacher Training College Near Khan Model Colony 214 R.B. Dhudi Wala West. (Male) (P),31.4022029,73.1271694,Male,Punjab,2,0,1123,0
+65,Government  Teacher Training College Near Khan Model Colony. 214 R.B. Dhudi Wala West.  (Female) (P),31.4022029,73.1271994,Female,Punjab,0,2,0,882
+73,Baitul Mall School HOUSE No.313 st. No.6 Duddiwala Jaranwala Road (Male) (T),31.40228,73.1228,Male,Punjab,2,0,1055,0
+47,Government  Girls Vocational Institute-  Near Khizra Masjid. (Male) (P),31.4024652,73.1111254,Male,Punjab,3,0,1175,0
+49,Government  Girls Vocational Training Institute for Girls- Near Khizra Masjid. (Male) (P),31.4024652,73.1111554,Male,Punjab,3,0,1175,0
+48,Government  Poly Tech.Institute. Near Water tanki Peoples Colony. (Female) (P),31.4033686,73.1101111,Female,Punjab,0,2,0,1122
+50,Government  Poly Tech.Institute. Near Water tanki Peoples Colony. (Female) (P),31.4033686,73.1101411,Female,Punjab,0,2,0,1020
+74,Pak School and Academies  Dhudhi Wala Road- Behind HBL. Jaranwala Road. (Female) (T),31.40343,73.12565,Female,Punjab,0,2,0,993
+39,Superior College for Girls-  Hameed Chowk- Al Najaf Colony. (Male) (T),31.4041653,73.1160125,Male,Punjab,2,0,1035,0
+37,Eton Hall 28 c Khawaja Islam road Al najaf Colony  (Male) (T),31.40466,73.11752,Male,Punjab,2,0,1043,0
+45,Government  A V Modern High School-Peoples Colony. (Male) (P),31.4065004,73.1134069,Male,Punjab,2,0,1075,0
+46,Government  A V Modern High School-  Peoples Colony. (Female) (P),31.4065004,73.1134369,Female,Punjab,0,2,0,928
+40,Superior College-  112-C- Peoples Colony No.1- (Female) (T),31.4065696,73.1184099,Female,Punjab,0,2,0,979
+41,Government  Technical High School-Peoples Colony. (Male) (P),31.4066156,73.1132924,Male,Punjab,3,0,1260,0
+43,Government  Technical High School-  Peoples Colony. (Male) (P),31.4066156,73.1133224,Male,Punjab,2,0,1024,0
+44,Government  Technical High School- Peoples Colony. (Female) (P),31.4066156,73.1133524,Female,Punjab,0,2,0,1022
+53,Lasal Boys High School-  Peoples Colony. (Male) (T),31.4066719,73.105685,Male,Punjab,3,0,1402,0
+54,Lasal Boys High School-  Peoples Colony. (Female) (T),31.4066719,73.105715,Female,Punjab,0,3,0,1406
+55,Lasal Boys High School-  Peoples Colony. (Male) (T),31.4066719,73.105745,Male,Punjab,2,0,918,0
+56,Lasal Boys High School-  Peoples Colony. (Female) (T),31.4066719,73.105775,Female,Punjab,0,2,0,899
+52,Government . MC Girls High School-Near Rehmania School Peoples Colony. (Female) (P),31.4088887,73.1057311,Female,Punjab,0,3,0,1584
+30,MC Girls High School Jhaal Khanu wana-Saleemi Chowk. (Female) (P),31.4091575,73.1013048,Female,Punjab,0,2,0,834
+29,MC Boys Elementary School Jhaal- Khanu ana Saleemi Chowk. (Male) (P),31.4092429,73.0996911,Male,Punjab,2,0,1060,0
+33,MC Boys Elementary School Jhal Khanauna Saleemi Chowk(Male) (T),31.4092429,73.0997211,Male,Punjab,3,0,1348,0
+34,Sir Syed Public School- St No.1-Near Malik General Store Fateh Abad. (Female) (T),31.4101037,73.0948386,Female,Punjab,0,2,0,1051
+32,Shaheen Public School  Fateh Abad Sahrki. (Female) (T),31.4104029,73.0982549,Female,Punjab,0,2,0,874
+51,Government  Rehmania Boys High School- Abadi Jangal Singh Wala. (Male) (P),31.4109206,73.1069759,Male,Punjab,4,0,1645,0
+31,Islah Public School-  Street No. 1 Fateh Abad East  (Male) (T),31.4110383,73.0995067,Male,Punjab,2,0,1034,0
+35,Islah Public School Street No. 5 Main Ihsan Yousaf Road fateh Abad Sharqi(Male) (T),31.4110383,73.0995367,Male,Punjab,2,0,806,0
+36,Islah Public School Street No. 5 Main Ihsan Yousaf Road fateh Abad Sharqi (Female) (T),31.4110383,73.0995667,Female,Punjab,0,2,0,663
+26,Pakistan Grammar School  St no. 6- Main Bazar Yasrab Colony. (Female) (T),31.4124638,73.1010743,Female,Punjab,0,2,0,1115
+25,Prime Foundation School  St.No.1 Yasrab Colony. (Male) (P),31.4128487,73.1023192,Male,Punjab,3,0,1240,0
+27,Daisy International Boys High School- Street No.8- Yasrab Colony- Fsd. (Male) (T),31.4138133,73.1007977,Male,Punjab,2,0,1136,0
+28,Daisy International Girls High School- Street No.7- Yasrab Colony- Fsd. (Female) (T),31.4138133,73.1008277,Female,Punjab,0,2,0,979
+20,MC Girls High School Peoples Colony No 1. (Female) (P),31.4138285,73.1041174,Female,Punjab,0,2,0,1098
+24,MC Girls High School  Peoples Colony No 1. (Female) (P),31.4138285,73.1041474,Female,Punjab,0,3,0,1348
+1,Govt. Primary School- Railway Colony. (Male) (P),31.41493811064857,73.09373140827222,Male,Punjab,2,0,1010,0
+2,Government Girls Elementary School- Railway Colony Kachi Abadi (Female) (P),31.41493811064857,73.0937614082722,Female,Punjab,0,2,0,731
+3,Govt. Primary School- Railway Colony. (Male) (P),31.41493811064857,73.0937914082722,Male,Punjab,2,0,1050,0
+4,Government Girls Elementary School- Railway Colony Kachi Abadi (Female) (P),31.41493811064857,73.0938214082722,Female,Punjab,0,2,0,843
+19,Govt. MC Boys Higher Secondary School-Peoples Colony No.1. (Male) (P),31.4151775,73.1031952,Male,Punjab,3,0,1167,0
+23,MC Model Boys Higher Secondary School-  Peoples Colony No.1. (Male) (P),31.4151775,73.1032252,Male,Punjab,3,0,1429,0
+18,Government  Muncipal Degree College- Jaranwala Road. (Female) (P),31.4177188,73.1066071,Female,Punjab,0,3,0,1480
+5,Municipal Corporation Girls High School Abdullah Pur. (Male) (P),31.419786082406937,73.10425827059161,Male,Punjab,2,0,1064,0
+6,Municipal Corporation Girls High School Near Abdullah Pur Bridge (Female) (P),31.419786082406937,73.1042882705916,Female,Punjab,0,2,0,893
+7,Municipal Corporation Girls High School Abdullah Pur. (Male) (P),31.419786082406937,73.1043182705916,Male,Punjab,2,0,1101,0
+8,Municipal Corporation Girls High School Near Abdullah Pur Bridge (Female) (P),31.419786082406937,73.1043482705916,Female,Punjab,0,2,0,924
+17,Government  Commerce College-Canal Road. (Male) (P),31.4203315,73.1063766,Male,Punjab,4,0,1657,0
+10,Government Quaid Model Elementary School-  Abdullah Pur (Female) (P),31.423599214537393,73.10474901952908,Female,Punjab,0,3,0,1209
+12,Government Quaid Model Elementary School-  Abdullah Pur (Female) (P),31.423599214537393,73.1047790195291,Female,Punjab,0,3,0,1185
+14,Government Batala Model Girls Primary School  Waheed Park- St No 24 (Female) (P),31.425042164440292,73.11013951407308,Female,Punjab,0,3,0,1180
+16,Government Batala Model Girls Primary School  Waheed Park- St No 24 (Female) (P),31.425042164440292,73.1101695140731,Female,Punjab,0,3,0,1386
+11,WAPDA Office  Abdullah Pur Division (Male) (T),31.42586,73.106,Male,Punjab,3,0,1326,0
+9,WAPDA Office  Abdullah Pur Division (Male) (T),31.42586,73.10603,Male,Punjab,3,0,1269,0
+13,Revnue Office WAPDA (Chief Engeener Planing). Abdullah Pur (Male) (T),31.42586,73.10606,Male,Punjab,3,0,1348,0
+15,Revnue Office WAPDA (Chief Engeener Planing).Abdullah Pur (Male) (T),31.42586,73.10609,Male,Punjab,3,0,1439,0

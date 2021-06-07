@@ -1,0 +1,60 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+4,GPS Sheikhan (Female) (P),33.90969,71.47003,Female,KPK,0,4,0,1901
+6,GPS Mushtarzai No.1 (Male) PS-1,33.91,71.48697,Male,KPK,4,0,1881,0
+7,GPS Mushtarzai No.1 (Male) PS-2,33.91,71.487,Male,KPK,2,0,682,0
+1,GHSS Sheikhan (Male) PS-I (P),33.91005,71.46816,Male,KPK,4,0,1244,0
+2,GHSS Sheikhan (Male) PS-II (P),33.91005,71.46819,Male,KPK,4,0,1447,0
+3,GHSS Sheikhan (Male) PS-III (P),33.91005,71.46822,Male,KPK,4,0,2254,0
+5,GGCMS Bara Sheikhan (Female),33.91087,71.47359,Female,KPK,0,4,0,1612
+8,GMS/GPS No.2 Mushtarzai (Female),33.91249,71.48646,Female,KPK,0,4,0,1981
+64,GPS Sangu Landi Bala  (Male) PS-1,33.93433,71.47541,Male,KPK,4,0,1286,0
+65,GPS Sangu Landi Bala  (Male) PS-2,33.93433,71.47544,Male,KPK,4,0,1312,0
+66,G Shaheed Shayan Nasir MS Sangu Landi Bala (Female),33.93467,71.47545,Female,KPK,0,4,0,1752
+49,G. Shaheed Maheer Rizwan HS- Pishtakhara Payan  (Male) PS-1,33.93545,71.46853,Male,KPK,4,0,1437,0
+50,G. Shaheed Maheer Rizwan HS- Pishtakhara Payan  (Male) PS-2,33.93545,71.46856,Male,KPK,4,0,1711,0
+51,G. Shaheed Maheer Rizwan HS- Pishtakhara Payan  (Male) PS-3,33.93545,71.46859,Male,KPK,3,0,1026,0
+63,GGPS No.1 Sangu (Female),33.93545,71.46862,Female,KPK,0,3,0,1376
+60,GPS No.1 Sangu (Male)  PS-1,33.93628,71.47075,Male,KPK,4,0,1808,0
+61,GPS No.1 Sangu (Male)   PS-2,33.93628,71.47078,Male,KPK,4,0,2057,0
+62,GPS No.2 Sangu (Female),33.93789,71.46928,Female,KPK,0,3,0,1318
+40,GPS- No.1 Sarband  (Male),33.93834,71.48388,Male,KPK,4,0,1838,0
+41,GGPS No.1 Sarband  (Female),33.93834,71.48391,Female,KPK,0,3,0,1344
+37,G. Shaheed Farhan Jalal HS- Sarband  (Male)   PS-1,33.9394,71.4851,Male,KPK,4,0,1772,0
+38,G. Shaheed Farhan Jalal HS- Sarband  (Male)   PS-2,33.9394,71.48513,Male,KPK,4,0,1661,0
+39,G. Shaheed Farhan Jalal HS Sarband (Male)  PS-3,33.9394,71.48516,Male,KPK,4,0,1418,0
+42,GGPS No.2/3 Sarbad (Female) PS-1,33.94024,71.4819,Female,KPK,0,3,0,1531
+43,GGPS No.2/3 Sarband (Female) PS-2,33.94024,71.48193,Female,KPK,0,4,0,1893
+47,GGPS Pishtakhara Bala  (Female) PS-1,33.95045,71.49413,Female,KPK,0,4,0,1607
+48,GGPS Pishtakhara Bala  (Female) PS-2,33.95045,71.49416,Female,KPK,0,4,0,1609
+44,GHS Pishtakhara Bala (Male)  PS-1,33.95175,71.49275,Male,KPK,4,0,1578,0
+45,GHS Pishtakhara Bala (Male)  PS-2,33.95175,71.49278,Male,KPK,4,0,1463,0
+46,GHS Pishtakhara Bala (Male)  PS-3,33.95175,71.49281,Male,KPK,4,0,1530,0
+56,GMS/GPS- Landi Akhun Ahmad- near Kenal  (Male) PS-1,33.95508,71.52066,Male,KPK,4,0,1787,0
+57,GMS/GPS- Landi Akhun Ahmad- near Kenal  (Male) PS-2,33.95508,71.52069,Male,KPK,4,0,2294,0
+58,GGPS Landi Akhoon Ahmad (Female) PS-1,33.95894,71.52072,Female,KPK,0,4,0,1544
+59,GGPS Landi Akhoon Ahmad (Female) PS-2,33.95894,71.52075,Female,KPK,0,3,0,1046
+35,GPS No.1- Achini Bala              (Male),33.95927,71.45451,Male,KPK,3,0,909,0
+36,GPS No.2 Achini Bala (Male),33.95927,71.45454,Male,KPK,4,0,2565,0
+32,GMS Achini Bala  (Male),33.9594,71.4545,Male,KPK,4,0,1541,0
+33,GGCMS- Achini Bala (Female) PS-1,33.95943,71.45473,Female,KPK,0,4,0,1816
+34,GGCMS- Achini Bala (Female) PS-2,33.95943,71.45476,Female,KPK,0,4,0,1901
+30,GMS Haji Banda (Male),33.9618,71.47229,Male,KPK,4,0,1322,0
+31,GPS Haji Banda (Female),33.96182,71.47227,Female,KPK,0,2,0,987
+52,GPS No.1 Pishtakhara Payan  (Female) PS-1,33.9687,71.51539,Female,KPK,0,4,0,1544
+53,GPS No.1 Pishtakhara Payan  (Female) PS-2,33.9687,71.51542,Female,KPK,0,3,0,1370
+54,GMS/GPS Ghari Sikandar Khan       (Male) PS-1,33.96924,71.5315,Male,KPK,3,0,1112,0
+55,GMS/GPS Ghari Sikandar Khan       (Female) PS-2,33.96924,71.53153,Female,KPK,0,2,0,762
+16,G.G MS Achini Payan (Female),33.96934,71.46664,Female,KPK,0,4,0,1850
+14,Shaheed Bilal Ali GMS Achini Payan (Male) PS-1,33.96934,71.46784,Male,KPK,3,0,1156,0
+15,Shaheed Bilal Ali GMS Achini Payan (Male) PS-2,33.96934,71.46787,Male,KPK,3,0,1146,0
+10,G. Shaheed Aiman Khan HS Nodeh Payan (Female )P* PS-2,33.97647,71.51913,Female,KPK,0,2,0,820
+11,G. Shaheed Aiman Khan HS Nodeh Payan (Male )P* PS-3,33.97647,71.51916,Male,KPK,2,0,781,0
+12,G. Shaheed Aiman Khan HS Nodeh Payan (Male)  PS-4,33.97647,71.51919,Male,KPK,3,0,1189,0
+13,G. Shaheed Aiman Khan HS Nodeh Payan (Male)  PS-5,33.97647,71.51922,Male,KPK,4,0,1242,0
+9,G. Shaheed Aiman Khan HS Nodeh Payan (Female )P* PS-1,33.97647,71.51925,Female,KPK,0,3,0,1370
+17,GPS  Nodeh Bala (Male) PS-1,33.97686,71.47487,Male,KPK,4,0,2109,0
+18,GPS  Nodeh Bala (Male) PS-2,33.97686,71.4749,Male,KPK,4,0,2032,0
+19,GPS Nodeh Bala (Male) PS-3,33.97686,71.47493,Male,KPK,4,0,2321,0
+20,GGPS Nodeh Bala (Female) PS-1,33.97789,71.47787,Female,KPK,0,4,0,2161
+21,GGPS Nodeh Bala (Female) PS-2,33.97789,71.4779,Female,KPK,0,4,0,1975
+26,GPS No.2 near GHSS Sufaid Dheri (Male),33.98841,71.48274,Male,KPK,4,0,1339,0

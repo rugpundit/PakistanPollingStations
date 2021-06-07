@@ -1,0 +1,10 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+4,Govt: Primary School Serajabad Mingora (Female),34.78334,72.35051,Female,KPK,0,2,0,1533
+5,Govt: High School Ingaro Dherai Right Side (Male),34.78343,72.33464,Male,KPK,2,0,934,0
+6,Govt: High School Ingaro Dherai Left Side (Male),34.78343,72.33467,Male,KPK,3,0,2054,0
+8,Govt: Primary School Ingaro Dehrai (Male),34.78364,72.33508,Male,KPK,2,0,1421,0
+7,Govt: Girls High School Ingaro Dherai Right Side (Female),34.78563,72.33811,Female,KPK,0,4,0,2100
+9,Govt: Girls High School Ingaro Dherai Left Side (Female),34.78563,72.33814,Female,KPK,0,2,0,1054
+2,Govt: Girls Primary School Naway Kalay (Female),34.78618,72.352,Female,KPK,0,3,0,1688
+1,Govt: High School Naway Kalay Right Side (Male),34.7903,72.34755,Male,KPK,4,0,2140,0
+3,Govt: High School Naway Kalay Left side (Male),34.7903,72.34758,Male,KPK,3,0,2014,0

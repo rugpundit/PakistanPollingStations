@@ -1,0 +1,122 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+61,GPS Jumoon Nahiyoo (P*) (Combined) (Partially improvised with one booth),24.97695,68.76334,Combined,Sindh,1,1,479,392
+60,GPS Hussain Soomro (P*) (Combined),24.99057,68.77682,Combined,Sindh,2,1,474,365
+59,GPS Abdul Rasool Shah (P*) (Comb) (Improvised with one booths).,24.99726,68.76903,Combined,Sindh,1,1,290,230
+71,GPS Adam Dangno (P*) (Comb),25.01089,68.71462,Combined,Sindh,2,1,524,355
+50,GPS Hairo Tulpur (T*) (Comb) (Partially improvised with two booths),25.01249,68.7496,Combined,Sindh,2,2,890,707
+57,GBLSS Ismail Notkani @ village Rasool Bux Notkani  (T*) (Combined),25.01805,68.78445,Combined,Sindh,2,1,529,396
+58,GPS Muhammad Ali Galhero (Old GMS Mohaib Ali Galhero) (P*)  (Combined),25.02726,68.80235,Combined,Sindh,2,1,508,381
+39,GGPS Haji Karam Ali Talpur (P*) (Combined) (Partially Improvised with two booths),25.03477,68.77286,Combined,Sindh,2,2,822,707
+25,GBPS Hanif Rajput (Male),25.03583,68.66361,Male,Sindh,3,0,1008,0
+24,GBHS Matli II (Male),25.03651,68.65392,Male,Sindh,1,0,343,0
+26,GGPS Kashmiri Mohalla Matli (Female),25.03737,68.65845,Female,Sindh,0,3,0,1068
+49,GGPS Saleh Soomro (P*) (Comb) (Partially improvised with one booth),25.03772,68.72538,Combined,Sindh,2,1,527,434
+48,GMS Beero Lanjawani (P*) (Combined),25.03774,68.74089,Combined,Sindh,1,1,441,403
+22,GBPS Chandia Mohalla  (Male),25.03944,68.65112,Male,Sindh,4,0,1127,0
+21,Pak Muslim School Matli Bag Muhallah Matli (Female),25.0406,68.65816,Female,Sindh,0,4,0,1651
+23,GPS Kachi Mohallah Matli (Female),25.04088,68.65371,Female,Sindh,0,3,0,1018
+20,GGDC College Matli (Male),25.04167,68.66084,Male,Sindh,4,0,1980,0
+43,GBLSS Haji Sawan. (P*) (Female),25.04194,68.805,Female,Sindh,0,3,0,844
+70,GBPS Noor Muhammad Turk (Comb),25.04199,68.68878,Combined,Sindh,2,2,780,646
+42,GHS Haji Sawan. (P*) (Male),25.04213,68.80496,Male,Sindh,3,0,960,0
+9,Govt. Mono Technic Institute Matli (Male),25.04225,68.66586,Male,Sindh,4,0,1397,0
+41,GPS Bachal Khan Lund  (P*) (Combined)                  (Improvised with two booths),25.04253,68.81393,Combined,Sindh,2,2,700,597
+3,GBPS Nizamani Mohalla New Building Matli (Female),25.04305,68.64916,Female,Sindh,0,3,0,959
+10,GPS Fazal Abad Colony Matli (Female),25.04355,68.66531,Female,Sindh,0,4,0,1105
+7,GBLS School Jamil Colony Matli (P*) (Male),25.04384,68.66588,Male,Sindh,4,0,1259,0
+28,GGHS Matli (P) (Female),25.04436,68.6563,Female,Sindh,0,3,0,919
+6,GGPS Main Matli  (P*) (Female).,25.04436,68.65657,Female,Sindh,0,3,0,1116
+19,ADO (Elem) Female office (Female),25.0444,68.6565,Female,Sindh,0,4,0,1693
+16,GGHS Matli  (Female),25.04453,68.65626,Female,Sindh,0,4,0,1656
+4,GBLS Nizamani Mohalla Matli (Female),25.04472,68.65083,Female,Sindh,0,3,0,1088
+13,GGHS Matli (Female),25.04488,68.65621,Female,Sindh,0,4,0,1769
+14,GBHS Matli-I First Floor (I) (Partally Improvised with two booths),25.04589,68.65597,Male,Sindh,2,0,737,0
+15,GBHS Matli-I First Floor (II),25.04589,68.656,Male,Sindh,4,0,1229,0
+11,GBHS No 1 Matli (Male) (I),25.04594,68.6555,Male,Sindh,3,0,823,0
+12,GBHS NO. 1 Matli (Male) (II),25.04594,68.65553,Male,Sindh,4,0,1394,0
+17,GBPS Main Building No.II  (Male) (I),25.04619,68.65738,Male,Sindh,3,0,1021,0
+18,GBPS Main Building No.II (Male) (II),25.04619,68.65741,Male,Sindh,3,0,911,0
+5,GPS (Boys)  Main  Matli (P*) (Male).,25.04628,68.65736,Male,Sindh,4,0,1204,0
+8,GGPS Iqra School Jamil Colony Matli  (P*) (Female),25.04685,68.66682,Female,Sindh,0,3,0,1060
+69,GPS Noor Mohammad Durs. (P*)  (Comb) (partially improvised with three booths),25.04806,68.69934,Combined,Sindh,2,2,693,560
+27,Govt Boys Degree College Matli (P) Male,25.05154,68.64861,Male,Sindh,3,0,1066,0
+1,Govt Boys Degree College Matli (Male) (i),25.05196,68.64735,Male,Sindh,4,0,1219,0
+2,Govt Boys Degree College Matli  (Male) (ii),25.05228,68.64766,Male,Sindh,3,0,1053,0
+67,GPS Aadho Machi (Male) (Improvised with two booths).,25.06319,68.69211,Male,Sindh,4,0,1338,0
+68,GPS Aadho Machi (Female),25.06319,68.69214,Female,Sindh,0,3,0,1061
+47,GBHS Malhan (Combined),25.06375,68.70402,Combined,Sindh,2,2,903,782
+51,GPS Tamachi Jahejo (P*) (Combine) (partially improvised with two booths),25.0666,68.62881,Combined,Sindh,2,2,868,767
+40,B.H.U Mir Mohammad Nizamani (P*) (Combined),25.07363,68.74261,Combined,Sindh,2,2,629,502
+66,GPS Sahib Khan Talpur (P*)  (Combined),25.08118,68.82199,Combined,Sindh,2,2,864,720
+55,GPS Murad Chalgiri (P*) (Comb) (Improvised with two booths),25.08194,68.69349,Combined,Sindh,2,2,614,549
+46,GPS Mir Qadir Bux  (P*) (Combined) (partially improvised with two booths),25.08753,68.76318,Combined,Sindh,2,1,525,427
+53,GGPS Uris Leghari (T*) (Female),25.09558,68.59418,Female,Sindh,0,4,0,1266
+52,GPS Uris Leghari (T*) (Male),25.0956,68.59428,Male,Sindh,4,0,1487,0
+54,GPS Ali Halepoto (T*) (Combine) (Improvised with two booths),25.10095,68.66893,Combined,Sindh,2,2,648,593
+62,BHU Nabi Bux Panjabi (P*)  (Comb),25.10222,68.76733,Combined,Sindh,2,2,847,563
+56,GPS Naseer Chandio (P*) (Combine),25.10238,68.70561,Combined,Sindh,1,1,373,260
+74,GPS Ghanoo Khan Leghari (P*)  (Combine) (Partially improvised with one booth),25.10319,68.63253,Combined,Sindh,2,2,816,734
+65,GBPS Nabi Bux Muhajir (P*)  (Comb) (Improvised with with three booths),25.105,68.76694,Combined,Sindh,2,2,714,521
+64,GPS Muhammad Suleman Mangrio (P*) (Combined),25.10806,68.81278,Combined,Sindh,2,2,596,488
+63,GPS Gul Muhammad  Mangrio (P*) (Comb) (Improvised with two booths),25.10809,68.81293,Combined,Sindh,1,1,271,214
+75,GBHS Peroz Leghari (P*) (Male),25.1125,68.61139,Male,Sindh,3,0,1033,0
+76,GBLS Peroz Laghari (Female ),25.1125,68.61166,Female,Sindh,0,2,0,853
+44,GPS Haji Ayoob Siyal  (P*) (Combined) (Improvised with one booth),25.11679,68.76017,Combined,Sindh,2,1,428,341
+112,GPS Jamoo Bagrani (P*) (Comb) (Partially improvised with three booths),25.11963,68.98639,Combined,Sindh,2,2,793,650
+118,GPS Ali Mohammad Mangrio (P*) (Comb),25.12003,68.81468,Combined,Sindh,1,1,427,323
+30,GGHS Tando Ghulam Ali (Female) (I),25.12277,68.88754,Female,Sindh,0,4,0,1484
+32,GGHS Tando Ghulam Ali (Female) (II),25.12277,68.88757,Female,Sindh,0,3,0,961
+34,GGHS Tando Ghulam Ali (Female) (III),25.12277,68.8876,Female,Sindh,0,4,0,1124
+35,GBPS  Boys Tando Ghulam Ali (P*) (Male),25.12292,68.89182,Male,Sindh,4,0,1268,0
+37,GPS  (Boys) Tando Ghulam Ali (P*) (Male),25.12292,68.89185,Male,Sindh,4,0,1310,0
+36,GGPS Tando Ghulam Ali  (Female),25.12306,68.88722,Female,Sindh,0,3,0,1055
+45,GPS Umer Ghelro  (P*) (Combined) (Improvised improvised with two booths),25.12334,68.73626,Combined,Sindh,2,2,826,652
+72,BHU  Phalkara (P*) (Combined),25.12374,68.6627,Combined,Sindh,2,2,606,524
+38,GGPS Tando Ghulam Ali  (Female),25.12417,68.89056,Female,Sindh,0,4,0,1162
+33,GBHS Boys building II Tando Ghulam Ali (Male),25.1254,68.88793,Male,Sindh,4,0,1396,0
+29,GBHS Tando Ghulam Ali (Male),25.12558,68.88783,Male,Sindh,4,0,1709,0
+31,GHS Boys Tando Ghulam Ali (Male),25.12558,68.88786,Male,Sindh,4,0,1153,0
+119,GBPS Ali Bux Khaskheli @ Muhammad Moosa Khaskheli (P*) (Combined),25.13324,68.87183,Combined,Sindh,2,1,647,445
+73,GPS  Phalkara (P*) (Combined),25.1375,68.66278,Combined,Sindh,2,1,536,387
+78,GBLSS Kalro Mori (Combine),25.14417,68.76556,Combined,Sindh,2,1,526,454
+77,GBHS Kalro Mori (Combine),25.14444,68.76527,Combined,Sindh,2,2,695,611
+110,GPS New Dumbalo (Male)  (Combined),25.14762,68.95802,Male,Sindh,4,0,1238,0
+115,GPS Saddique Mazari (P*) (Combine) (Partially improvised with one booth),25.14781,68.67139,Combined,Sindh,1,1,386,290
+111,GBPS Haji Muhammad Qassim Lund (Female),25.14917,68.95805,Female,Sindh,0,3,0,1001
+109,GBPS Molvi Abdul Wahab (P*)  (Combine),25.14944,68.96861,Combined,Sindh,2,2,819,738
+113,GMS Haji Dhani Bux Korai. (P*)(Combined)),25.15266,68.96083,Combined,Sindh,2,2,920,818
+120,BHU Haji Moheb Laghari (P*) (Comb),25.15456,68.83659,Combined,Sindh,2,1,468,387
+103,GGPS Jan Muhammad Leghari (P*) (Comb),25.16272,68.87158,Combined,Sindh,1,1,506,347
+121,GPS Haji Mevo Phalkaro (P*) (Comb),25.16611,68.81944,Combined,Sindh,2,2,659,568
+105,GPS Mohammad Rahim Halepoto.(P*)  (Comb),25.16722,68.92528,Combined,Sindh,2,2,671,533
+87,GPS Lemoon Almani  (P*) (Combine) (Partially improvised with two booths),25.16984,68.66186,Combined,Sindh,2,2,716,614
+117,GGPS Haji Rahu Halepoto (P*) (Combine) (Fully improvised with four booths),25.17056,68.72945,Combined,Sindh,2,2,688,545
+116,GPS Haji Rahu Halepoto (P*) (Combine),25.17056,68.72964,Combined,Sindh,1,1,529,408
+88,GBHS Dost Muhammad Panhwar (P*) (Combine),25.17248,68.68039,Combined,Sindh,2,2,748,576
+102,GPS Tamachi Galhero. (P*) (Comb),25.17978,68.87226,Combined,Sindh,2,2,758,603
+106,GPS  Mohammad Iqbal Virk (P*) (Comb) (Partially improvised with two booths),25.18225,68.95582,Combined,Sindh,2,2,1042,806
+108,GPS Pir Sakhi Usman Shah (P*) (Comb),25.18305,68.93861,Combined,Sindh,2,2,625,587
+90,GPS Haji Jani Rind (P*) (Comb) (Partially improvised with two booths).,25.18385,68.84373,Combined,Sindh,2,2,618,500
+114,GPS Allah Jurio Daidano (P*) (Combine),25.18462,68.71413,Combined,Sindh,1,1,286,192
+79,GPS Wali Muhammad Leghari (P*)  (Combine) (Improvised with two booths),25.18513,68.77471,Combined,Sindh,2,2,813,600
+89,GPS Ghulam Ali Chandio (P*) (Combine) (Partially improvised with two booths),25.18562,68.6762,Combined,Sindh,2,2,561,468
+107,GPS Karam Ali Korai @ Haji Hashim Khaskheli (P*) (Comb) (Partially improvised with two booths),25.18806,68.90833,Combined,Sindh,2,2,847,755
+104,GPS Dargha Sharif Pir Sakhi Usman Shah (P*)  (Combined) (Partially improvised with two booths),25.2075,68.8775,Combined,Sindh,2,2,893,783
+86,GPS Kot Abdullah (P*) (Comb) (Partially improvised with two booths),25.20851,68.93842,Combined,Sindh,2,2,742,571
+98,GPS Sullaman Pahore (P) Combined,25.20979,68.90161,Combined,Sindh,2,2,560,618
+96,GBHS Ghulab Leghari (P*) (Male),25.21411,68.78303,Male,Sindh,4,0,1163,0
+97,GGPS GULAB LEGHARI (T) (FEMALE),25.2159,68.77834,Female,Sindh,0,3,0,961
+100,GBLS Saban Dasti. (P*) (Comb) (I),25.21646,68.8722,Combined,Sindh,2,2,785,615
+101,GBLS Sabin Dasti.(P*) (Comb) (II),25.21646,68.87223,Combined,Sindh,2,2,622,532
+99,GPS Bachal Halepoto (Comb) (Partially improvised with one booth),25.21717,68.91962,Combined,Sindh,2,2,707,579
+93,GPS Manik Leghari (P*) (Combined),25.21984,68.74587,Combined,Sindh,2,2,809,680
+85,GPS Asimtullah Panjabi (P*)  (Comb) (Partially improvised with one booth),25.22129,68.96192,Combined,Sindh,2,1,550,391
+94,GPS Bachal Machi (P*) (Combined) (Partially improvised with two booths).,25.22299,68.8378,Combined,Sindh,2,2,693,605
+91,GPS Muhammad Rahim Rind(P*)  (Comb),25.22306,68.8375,Combined,Sindh,2,2,649,536
+84,GPS Fateh Muhammad Jaskani (P*)   (Comb),25.22861,68.95699,Combined,Sindh,2,2,647,504
+92,GGPS Muhammad Rahim Rind (P*) (Comb) (Improvised with two booths).,25.23278,68.71588,Combined,Sindh,1,1,386,292
+81,GHS Kapri Mori (P*) (Comb),25.23956,68.91979,Combined,Sindh,2,2,792,672
+83,GPS Ganhwar Chang (P*)  (Comb) (Partially improvised with one booth),25.24444,68.93139,Combined,Sindh,2,1,545,376
+95,GPS Khan Muhammad Uner (P*) (Combined) (Partially improvised with two booths),25.25774,68.75833,Combined,Sindh,2,2,808,734
+80,GPS Haji Kamal Halepoto (P*) (Comb),25.26019,68.93876,Combined,Sindh,1,1,453,360
+82,GPS Sabir Ali Kafila (P*) (Comb) (Partially improvised with one booth),25.27659,68.96038,Combined,Sindh,2,1,561,447

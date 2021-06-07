@@ -1,0 +1,45 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+130,Boys Middle School   139/9 -L (Combined),30.531539768578813,72.99025876970576,Combined,Punjab,2,2,960,771
+134,Boys primary School  138/9 Ihasn Abad   (Male),30.558441496482384,72.96564179733527,Male,Punjab,2,0,1098,0
+135,Boys primary School  138/9 Ihasn Abad   (Female),30.558441496482384,72.9656717973353,Female,Punjab,0,2,0,931
+131,Boys High School  138/9 -L Zafar abad (Combined),30.585077409159975,72.99378439989698,Combined,Punjab,1,1,496,330
+132,Boys High School  138/9 -L Zafar abad (Male),30.585077409159975,72.993814399897,Male,Punjab,2,0,1149,0
+133,Boys High School  138/9 -L Zafar abad (Female),30.585077409159975,72.993844399897,Female,Punjab,0,2,0,867
+129,Boys High School  138/9 -L Zafar abad (Combined),30.58515037495085,72.99380462238615,Combined,Punjab,2,1,899,734
+128,Govt. Girls Elementary School   138/9 -L old (Female),30.60772658694427,72.98711628323251,Female,Punjab,0,2,0,786
+127,Boys primary School   138/9 -L old  (Male),30.61302025492202,72.98945136490772,Male,Punjab,2,0,1024,0
+30,Govt. High School  Mouza Bashera Combined  P-I      (Combined),30.61302025492202,72.9894813649077,Combined,Punjab,1,1,488,458
+136,Boys primary School   132/9 -L  (Male),30.621944910276202,73.01422622963945,Male,Punjab,2,0,819,0
+137,Boys primary School   132/9 -L  I    (Male),30.621944910276202,73.0142562296394,Male,Punjab,2,0,902,0
+138,Govt.Girls Elementary School   132/9 -L (Female),30.621944910276202,73.0142862296395,Female,Punjab,0,3,0,1346
+26,Boys Higher Secondary   58-A/ GD   (Combined),30.6704716,73.1218676,Combined,Punjab,2,2,768,652
+13,Boys  Primary School  China Karmali         (Male),30.682506844374146,72.97496673353083,Male,Punjab,2,0,967,0
+15,Girls  Primary School  64/GD (Combined),30.685264535223197,73.00013524133314,Combined,Punjab,1,1,715,619
+14,Girls  Primary School  China Karmali   (Female),30.69792752772175,72.95310867741554,Female,Punjab,0,2,0,732
+7,Boys  Primary School  Asadullah Pura Swl.   (Male),30.701004447581077,72.99045297370525,Male,Punjab,3,0,1368,0
+8,Govt.Girls Elementary School  II Asadullah Pura Sahiwal. (Female),30.702927760563387,72.99219495327412,Female,Punjab,0,2,0,735
+12,Boys  Primary School  Nama Sial Sahiwal. (Combined),30.71172291485397,72.95836201437822,Combined,Punjab,2,2,939,751
+1,Boys  High School  Muhammad  Pur    (Male),30.714158030374694,73.01692769361316,Male,Punjab,3,0,1012,0
+2,Boys  High School  Muhammad  Pur (Female),30.714158030374694,73.0169576936132,Female,Punjab,0,2,0,1143
+9,Govt. Boys  Primary School  66/GD Swl. (Male),30.71735102164094,73.03771678104452,Male,Punjab,2,0,1105,0
+10,Govt. Girls  Primary School  66/GD Swl. (Female),30.71735102164094,73.0377467810445,Female,Punjab,0,2,0,907
+4,Boys Primary School   Kot Ghazi- Muhammad Pura  (Female),30.72401129625226,73.00558617096264,Female,Punjab,0,2,0,956
+3,Boys Primary School   Kot Ghazi- Muhammad Pura  (Male),30.72401129625226,73.0056161709626,Male,Punjab,2,0,1190,0
+27,Boys Midel School   60-61/GD    (Male),30.730661090996055,73.03968743799224,Male,Punjab,3,0,1260,0
+28,Boys Midel School   60-61/GD    (Female),30.730661090996055,73.0397174379922,Female,Punjab,0,2,0,988
+6,Govt.Girls Primary School  Eidel Sahiwal.    (Female),30.731656283065735,72.98663063146176,Female,Punjab,0,2,0,749
+5,Govt.Girls Primary School  Eidel Sahiwal.    (Male),30.732007428226154,72.98682887932166,Male,Punjab,2,0,1061,0
+24,Boys High School   59/GD-I    (Combined),30.7391496,73.0746534,Combined,Punjab,1,1,578,501
+25,Boys High School   59/GD-II    (Combined),30.7391496,73.0746834,Combined,Punjab,2,2,976,782
+29,Boys primary School  Chokhandi (Combined),30.7404454,73.0739156,Combined,Punjab,2,1,762,518
+23,Boys primary School  Jerman (Combined),30.74361687255312,73.01607210439035,Combined,Punjab,1,1,700,569
+11,Girls  Primary School  Ara Tullah  (Combined),30.74746009935106,72.96609185339015,Combined,Punjab,2,1,847,681
+16,183-Boys primary School- 58/GD (Combined),30.750755,73.0728089,Combined,Punjab,1,1,376,320
+17,Boys primary School- 58/GD (Combined),30.750755,73.0728389,Combined,Punjab,2,1,658,519
+36,Boys primary School  Bhowani          (Female),30.750755,73.0728689,Female,Punjab,0,2,0,1106
+35,Boys primary School  Bhawani  (Male),30.750755,73.0728989,Male,Punjab,2,0,1205,0
+18,Boys primary School    Dolla Balla   (Combined),30.768641470482986,73.09419424188742,Combined,Punjab,1,1,509,396
+19,Girls Primary School  Dolla Balla (Combined),30.77148981930314,73.08653500795418,Combined,Punjab,1,1,484,375
+22,Boys High School Kote Deva Mal (Combined),30.79382226870598,73.12988734164549,Combined,Punjab,2,1,737,522
+20,Boys primary School  Saidan Shah (Combined),30.79400206480693,73.11572256951193,Combined,Punjab,1,1,562,443
+21,Govt. Girls Primary School  Akbar Shah   (Combined),30.816671424847705,73.1043743311318,Combined,Punjab,1,1,434,326

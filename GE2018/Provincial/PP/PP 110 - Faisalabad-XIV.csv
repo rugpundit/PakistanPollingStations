@@ -1,0 +1,153 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+62,Govt. College for Women- Gulshan Colony- Afghan abad No 2-  (Male) (P),31.419397956144397,73.04925357154374,Male,Punjab,3,0,1157,0
+63,Govt. College for Women- Gulshan Colony- Afghan abad No 2- (Female) (P),31.419397956144397,73.0492835715437,Female,Punjab,0,2,0,963
+64,Govt. College for Women- Gulshan Colony- Afghan abad No 2-  (Male) (P),31.419397956144397,73.0493135715437,Male,Punjab,2,0,881,0
+65,Govt. College for Women- Gulshan Colony- Afghan abad No 2-  (Female) (P),31.419397956144397,73.0493435715437,Female,Punjab,0,2,0,725
+66,Govt. College for Women- Gulshan Colony- Afghan abad No 2-  (Male) (P),31.419397956144397,73.0493735715437,Male,Punjab,3,0,1537,0
+67,Govt. College for Women- Gulshan Colony- Afghan abad No 2-  (Female) (P),31.419397956144397,73.0494035715437,Female,Punjab,0,3,0,1256
+71,Govt. College for Women- Gulshan Colony- Afghan abad No 2-  (Male) (P),31.419397956144397,73.0494335715437,Male,Punjab,2,0,967,0
+72,Govt. College for Women- Gulshan Colony- Afghan abad No 2- (Female) (P),31.419397956144397,73.0494635715437,Female,Punjab,0,2,0,760
+93,Govt. Rehmani Girls Primary School- Kamal Abad Base Line (Female) (P),31.423316872800736,73.0490394320123,Female,Punjab,0,2,0,984
+95,Govt. Rehmani Girls Primary School- Kamal Abad Base Line (Female) (P),31.423316872800736,73.0490694320123,Female,Punjab,0,3,0,1121
+70,Govt. Primary Girls School- Kamal Abad Chowk (Combined),31.423316872800736,73.0490994320123,Combined,Punjab,2,1,517,407
+74,Faisal Grammer High School-  Ilyas Park (Female) (P),31.4243805514904,73.05102552840422,Female,Punjab,0,3,0,1177
+77,Faisal Grammer School- Street No. 15- Bazar No. 3- Ilyas Park (Female) (P),31.4243805514904,73.0510555284042,Female,Punjab,0,3,0,1307
+73,MC Girls High School- Base Line Raza Abad (Male) (T),31.424521428633888,73.051123159242,Male,Punjab,3,0,1484,0
+75,MC Girls High School- Base Line Raza Abad (Male) (T),31.424521428633888,73.051153159242,Male,Punjab,2,0,898,0
+86,Govt. Girls High School- Raza Abad Bazar No. 2 (Male) (P),31.424529238242744,73.05115619888484,Male,Punjab,2,0,1031,0
+40,Eden Hall Public High School-  Gulzar Colony (Female) (P),31.425125702400706,73.03888605338321,Female,Punjab,0,2,0,1032
+37,Eden Hall Public High School-  Gulzar Colony (Male) (P),31.425195137858434,73.03895235865548,Male,Punjab,3,0,1211,0
+38,Eden Hall Public High School-  Gulzar Colony (Female) (P),31.425195137858434,73.0389823586555,Female,Punjab,0,2,0,944
+39,Eden Hall Public High School-  Gulzar Colony (Male) (P),31.425195137858434,73.0390123586555,Male,Punjab,3,0,1396,0
+28,Govt. Girls Primary School- Rafique Colony (Female) (P),31.4254646679374,73.03410385861413,Female,Punjab,0,3,0,1319
+85,MC Boys High School- Base Line Raza abad (Combined) (P),31.425470360178338,73.0520155298007,Combined,Punjab,2,2,862,696
+88,MC Boys High School- Base Line Raza abad (Female) (P),31.425470360178338,73.0520455298007,Female,Punjab,0,4,0,1585
+90,MC Boys High School- Base Line Raza abad (Female) (P),31.425470360178338,73.0520755298007,Female,Punjab,0,3,0,1390
+92,Muncipal Corpration Boys High School- Base Line Raza Abad (Male) (P),31.42547049265107,73.05202256521112,Male,Punjab,3,0,1233,0
+94,Muncipal Corpration Boys High School- Base Line Raza Abad (Male) (P),31.42547049265107,73.0520525652111,Male,Punjab,3,0,1404,0
+33,Govt. Boys Primary School- Base Line- Amin Park (Male) (P),31.42745829334833,73.04205670167718,Male,Punjab,3,0,1189,0
+30,Govt. Boys Primary School- Base Line- Kashmir Road- Raza Abad (Female) (P),31.427462052737603,73.04196635471334,Female,Punjab,0,2,0,695
+35,Govt. Boys Primary School- Base Line- Amin Park (Male) (P),31.427469094247694,73.04201647406853,Male,Punjab,3,0,1176,0
+29,Govt. Boys Primary School- Base Line- Kashmir Road- Raza Abad (Male) (P),31.42748298554226,73.04198253203768,Male,Punjab,2,0,928,0
+31,Govt. Boys Primary School- Baseline Raza Abad (Male),31.42748298554226,73.0420125320377,Male,Punjab,3,0,1196,0
+32,Govt. Boys Primary School- Baseline Raza Abad (Female),31.42748298554226,73.0420425320377,Female,Punjab,0,2,0,962
+43,Govt. Girls Elementary School-  Base Line Raza Abad in fornt of Street No. 9 Gulzar Colony (Male) (P),31.42750746089584,73.04214771453427,Male,Punjab,3,0,1453,0
+44,Govt. Girls Elementry School- Base Line- Raza abad-Infront of Street No.9- Gulzar Colony (Female) (P),31.42750746089584,73.0421777145343,Female,Punjab,0,3,0,1129
+34,Govt.Girls Elementry School-  Base Line- Raza abad-Infront of Street No.9- Gulzar Colony (Female) (P),31.427526545981348,73.04212038120936,Female,Punjab,0,2,0,907
+36,Govt. Girls Elementry School-  Base Line- Raza abad- Infront of Street No.9- Gulzar Colony (Female) (P),31.427526545981348,73.0421503812094,Female,Punjab,0,2,0,923
+83,Govt. Islami Madrasa Primary School- Metro Pol road (Male) (P),31.427841280815855,73.05327757595225,Male,Punjab,2,0,995,0
+84,Govt. Islami Madrasa Primary School- Metro Pol road (Female) (P),31.427841280815855,73.0533075759522,Female,Punjab,0,4,0,1549
+54,Chisti Oxford School System-  Street No. 7 Raza Abad- (Female) (T),31.427918033967675,73.0505048441316,Female,Punjab,0,3,0,1245
+57,Chisti Oxford School System-  Street No. 7 Raza Abad- (Female) (T),31.427918033967675,73.0505348441316,Female,Punjab,0,3,0,1475
+53,Sultan Ideal School-  Raza Abad- (Male) (T),31.42793159750686,73.04785391966949,Male,Punjab,3,0,1435,0
+56,Sultan Ideal School-  Raza Abad- (Male) (T),31.42793159750686,73.0478839196695,Male,Punjab,3,0,1152,0
+25,Govt. Boys Primary School- Chak No.279/RB- (Male) (P),31.428478956628133,73.03534898447731,Male,Punjab,4,0,1667,0
+26,Govt. Boys Primary School- Chak No.279/RB- (Female) (P),31.428478956628133,73.0353789844773,Female,Punjab,0,4,0,1718
+27,Govt. Boys Primary School- Chak No.279/RB- (Male) (P),31.428478956628133,73.0354089844773,Male,Punjab,4,0,1659,0
+78,Govt.Islamia Madrasa High School- Narwala Road- (Male) (P),31.43018,73.05769,Male,Punjab,4,0,1531,0
+79,Govt.Islamia Madrasa High School- Narwala Road- (Female) (P),31.43018,73.05772,Female,Punjab,0,3,0,1331
+80,Govt.Islamia Madrasa High School-Narwala Road- (Male) (P),31.43018,73.05775,Male,Punjab,4,0,1619,0
+81,Govt.Islamia Madrasa High School-Narwala Road- (Female) (P),31.43018,73.05778,Female,Punjab,0,3,0,1403
+20,Govt. Girls High School- Near Base Line- Chak No.279/RB- (Female) (P),31.43111,73.03471,Female,Punjab,0,2,0,1050
+22,Govt. Girls High School- Near Base Line- Chak No.279/RB- (Female) (P),31.43111,73.03474,Female,Punjab,0,2,0,774
+42,Govt. Girls High School-  Chak No. 279/RB- Baseline (Female) (P),31.43111,73.03477,Female,Punjab,0,2,0,1040
+19,Govt. Shuhdai APS Memorial High School- Near Base Line- Chak No.279/RB- (Male) (P),31.431236241970513,73.03574633995962,Male,Punjab,3,0,1317,0
+21,Govt. Shuhdai APS Memorial High School- Near Base Line- Chak No.279/RB- (Male) (P),31.431236241970513,73.0357763399596,Male,Punjab,2,0,1046,0
+23,Govt. Shuhdai APS Memorial High School- Near Base Line- Chak No.279/RB (Male) (P),31.431236241970513,73.0358063399596,Male,Punjab,2,0,986,0
+24,Govt. Shuhdai APS Memorial High School- Near Base Line- Chak No.279/RB- (Female) (P),31.431236241970513,73.0358363399596,Female,Punjab,0,2,0,747
+41,Govt. Shuhdai APS Memorial High School- Near Base Line- Chak No.279/RB- (Male) (P),31.431251335276947,73.03568627016827,Male,Punjab,3,0,1317,0
+45,Govt. Boys Elmentary School-  Chak No. 124/JB Kaleem Shaheed Colony No. 1 (Male) (P),31.4317056251842,73.04456600436545,Male,Punjab,3,0,1402,0
+47,Govt. Boys Elmentary School-  Chak No. 124/JB Kaleem Shaheed Colony No. 1 (Male) (P),31.4317056251842,73.0445960043654,Male,Punjab,4,0,1627,0
+49,Govt. Boys Elmentary School-  Chak No. 124/JB Kaleem Shaheed Colony No. 1 (Male) (P),31.4317056251842,73.0446260043655,Male,Punjab,4,0,1663,0
+51,Govt. Boys Elmentary School-  Chak No. 124/JB Kaleem Shaheed Colony No. 1 (Male) (P),31.4317056251842,73.0446560043655,Male,Punjab,2,0,585,0
+107,MC Boys Primary School -Madan Pura (Male) (P),31.43190598117974,73.04950029968477,Male,Punjab,3,0,1230,0
+109,MC Boys Primary School -Madan Pura (Male) (P),31.43190598117974,73.0495302996848,Male,Punjab,2,0,1030,0
+17,Govt. Primary School-  Nawaz Park- (Male) (P),31.432119565242846,73.03168421877751,Male,Punjab,3,0,1400,0
+18,Govt. Girls Primary School-  Nawaz Park- (Female) (P),31.432121349470744,73.03168097817522,Female,Punjab,0,3,0,1127
+108,MC Girls High School -Madan Pura (Female) (P),31.432229304411155,73.04933760227773,Female,Punjab,0,2,0,990
+110,MC Girls High School- Madan Pura (Female) (P),31.432229304411155,73.0493676022777,Female,Punjab,0,2,0,789
+111,MC Girls High School- Madan Pura (Male) (P),31.432229304411155,73.0493976022777,Male,Punjab,4,0,1421,0
+112,MC Girls High School- Madan Pura (Female) (P),31.432229304411155,73.0494276022777,Female,Punjab,0,3,0,1220
+103,MC Girls High School- Madan Pura (Male) (P),31.432282150764987,73.04937297063088,Male,Punjab,3,0,1305,0
+104,MC Girls High School-Madan Pura (Female) (P),31.432282150764987,73.0494029706309,Female,Punjab,0,2,0,1110
+105,MC Girls High School-Madan Pura (Male) (P),31.432282150764987,73.0494329706309,Male,Punjab,4,0,1540,0
+106,MC Girls High School-Madan Pura (Female) (P),31.432282150764987,73.0494629706309,Female,Punjab,0,3,0,1215
+46,Govt. Girls High School-  Chak No. 124/JB Kaleem Shaheed Colony No. 1 (Female) (P),31.432532572668233,73.03934633150736,Female,Punjab,0,3,0,1137
+48,Govt. Girls High School-  Chak No. 124/JB Kaleem Shaheed Colony No. 1 (Female) (P),31.432532572668233,73.0393763315074,Female,Punjab,0,4,0,1364
+50,Govt. Girls High School-  Chak No. 124/JB Kaleem Shaheed Colony No. 1 (Female) (P),31.432532572668233,73.0394063315074,Female,Punjab,0,4,0,1364
+52,Govt. Girls High School-  Chak No. 124/JB Kaleem Shaheed Colony No. 1 (Female) (P),31.432532572668233,73.0394363315074,Female,Punjab,0,2,0,479
+119,Govt. New Model Girls High School- Civil Quarter Ghulam Muhammad abad (Male) (P),31.433818589411064,73.04575847983061,Male,Punjab,2,0,967,0
+120,Govt. New Model Girls High School- Civil Quarter Ghulam Muhammad abad (Male) (P),31.433818589411064,73.0457884798306,Male,Punjab,2,0,716,0
+121,Govt. New Model Girls High School-Civil Quarter Ghulam Muhammad abad (Female) (P),31.433818589411064,73.0458184798306,Female,Punjab,0,4,0,1402
+12,Govt. Pak Awami Girls Primary School- Kaleem Shaheed Colony No. 2 (Female) (P),31.435059240969593,73.02714920280754,Female,Punjab,0,2,0,881
+16,Govt. Pak Awami Girls Primary School- Kaleem Shaheed Colony No. 2 (Female) (P),31.435088651278804,73.02719350615835,Female,Punjab,0,3,0,1242
+129,MC Girls High School- Chohr Majra (Female) (P),31.43572011001902,73.04382597797249,Female,Punjab,0,3,0,1410
+125,Govt. Girls High School Chohar Majra- Ghulam Muhammad abad (Female) (T),31.435720981456896,73.04379762996648,Female,Punjab,0,2,0,1024
+127,MC Girls High School- Chohr Majra (Female) (P),31.435720981456896,73.0438276299665,Female,Punjab,0,3,0,1241
+126,MC Boys Elementary School- Chohr Majra (Male) (P),31.43598565821764,73.04356872183125,Male,Punjab,4,0,1555,0
+128,MC Boys Elementary School-  Chohr Majra (Male) (P),31.43598565821764,73.0435987218312,Male,Punjab,4,0,1735,0
+116,Govt. Millat-e-Islamia High School- Awan Chowk Ghulam Muhammad abad (Male) (P),31.43719406387187,73.04585209775415,Male,Punjab,2,0,783,0
+118,Govt. Millat-e-Islamia High School- Awan Chowk Ghulam Muhammad abad (Female) (P),31.43719406387187,73.0458820977541,Female,Punjab,0,4,0,1688
+153,Pak Maktab English School  A Block Ghulam Muhammad abad (Female) (T),31.437240521700737,73.03739661977463,Female,Punjab,0,3,0,1070
+155,Pak Maktab English School  A Block Ghulam Muhammad abad (Female) (T),31.437240521700737,73.0374266197746,Female,Punjab,0,2,0,774
+156,Pak Maktab English School- A Block Ghulam Muhammad abad (Male) (P),31.437240521700737,73.0374566197746,Male,Punjab,2,0,971,0
+11,Govt. Muslim Model Girls Primary School- Kaleem Shaheed Colony No.2 (Male) (P),31.437250400868784,73.02513373114482,Male,Punjab,3,0,1141,0
+15,Govt. Muslim Model Girls Primary School- Kaleem Shaheed Colony No.2 (Male) (P),31.437259955475955,73.02510749511082,Male,Punjab,3,0,1435,0
+189,Govt. Community Model School- Chak No. 124/JB Marzi Pura (Male) (P),31.437751496950067,73.0219977348329,Male,Punjab,3,0,1243,0
+190,Govt. Community Model School- Chak No. 124/JB Marzi Pura (Female) (P),31.437751496950067,73.0220277348329,Female,Punjab,0,2,0,974
+186,Govt. Girls High School- Marzi pura Narwala road (Male) (P),31.43777101563752,73.0220153888763,Male,Punjab,4,0,1571,0
+187,Govt. Girls High School- Marzi pura Narwala road (Female) (P),31.43777101563752,73.0220453888763,Female,Punjab,0,3,0,1311
+184,Govt. Community Model  School-Chak No. 124/JB Marzi Pura (Male) (P),31.437782803226707,73.02203726182223,Male,Punjab,3,0,1137,0
+185,Govt. Community Model  School-Chak No. 124/JB Marzi Pura (Female) (P),31.437782803226707,73.0220672618222,Female,Punjab,0,2,0,853
+13,Govt. Girls High School-  Marzi Pura (Male) (T),31.437785434909053,73.02206928369375,Male,Punjab,3,0,1207,0
+14,Govt. Girls High School-  Marzi Pura (Female) (T),31.437788836992556,73.02205836620227,Female,Punjab,0,2,0,969
+115,Govt. New Model High School- Adam Chowk Ghulam Muhammad abad (Female) (P),31.438198317022284,73.05217917079617,Female,Punjab,0,4,0,1648
+113,Govt. New Model High School- Adam Chowk Ghulam Muhammad abad (Male) (P),31.43823776829206,73.05217147367004,Male,Punjab,2,0,948,0
+101,Govt. New Model High School- Adam Chowk Ghulam Muhammad Abad- (Male) (T),31.438267113381837,73.05220160983522,Male,Punjab,3,0,1330,0
+96,MC Boys Middle School- Rab Shah Chowk Ghulam Muhammad abad (Combined) (P),31.4390511413999,73.0557220139512,Combined,Punjab,2,2,713,621
+97,MC Boys Middle School- Rab Shah Chowk Ghulam Muhammad abad (Male) (P),31.4390511413999,73.0557520139512,Male,Punjab,3,0,1115,0
+99,MC Boys Middle School- Rab Shah Chowk Ghulam Muhammad abad (Male) (P),31.4390511413999,73.0557820139512,Male,Punjab,3,0,1306,0
+102,Govt. MC Boys Middle School- Rab Shah Chowk Ghulam Muhammad Abad (Female) (T),31.4390511413999,73.0558120139512,Female,Punjab,0,2,0,1019
+152,Sports Complex- Block-A Ghulam Muhammad Abad-(Male) (T),31.439209437751888,73.03776134688539,Male,Punjab,3,0,1292,0
+98,Govt. MC Girls Primary School- No.4 Rab Shah Chowk Ghulam Muhammad abad (Female) (P),31.43929573733238,73.05656494654355,Female,Punjab,0,2,0,871
+100,Govt. MC Girls Primary School- No.4 Rab Shah Chowk Ghulam Muhammad abad (Female) (P),31.43929573733238,73.0565949465435,Female,Punjab,0,3,0,1073
+139,Govt. Muncipal Corpration High School- Nursery road near Elahi Masjid Ghulam Muhammad abad (Female) (P),31.44075765151244,73.05259036423367,Female,Punjab,0,3,0,1082
+141,Govt. Muncipal Corpration High School- Nursery road near Elahi Masjid Ghulam Muhammad abad (Female) (P),31.44075765151244,73.0526203642337,Female,Punjab,0,2,0,718
+142,Govt. Muncipal Corpration Girls High School- Nursery road near Elahi Masjid Ghulam Muhammad abad (Male) (P),31.44075765151244,73.0526503642337,Male,Punjab,3,0,1384,0
+143,Govt. Muncipal Corpration Girls High School- Nursery road near Elahi Masjid Ghulam Muhammad abad (Female) (P),31.44075765151244,73.0526803642337,Female,Punjab,0,3,0,1099
+148,Govt. Girls College- Latif Chowk Ghulam Muhammad Abad (Male) (T),31.440958717768016,73.04224015930106,Male,Punjab,3,0,1138,0
+149,Govt. Girls College- Latif Chowk Ghulam Muhammad Abad (Female) (T),31.440958717768016,73.0422701593011,Female,Punjab,0,2,0,1043
+146,MC Boys Higher Secondary School- Opp. General Hospital- Ghulam Muhammad abad (Male) (P),31.44235347567345,73.04440309011012,Male,Punjab,4,0,1686,0
+147,MC Boys Higher Secondary School- Opp. General Hospital- Ghulam Muhammad abad (Female) (T),31.44235347567345,73.0444330901101,Female,Punjab,0,3,0,1456
+150,MC Boys Higher Secondary School- Opp. General Hospital- Ghulam Muhammad abad (Male) (P),31.44235347567345,73.0444630901101,Male,Punjab,4,0,1679,0
+151,MC Boys Higher Secondary School- Opp. General Hospital- Ghulam Muhammad abad (Female) (P),31.44235347567345,73.0444930901101,Female,Punjab,0,3,0,1424
+181,Madrassa Ghousia Sabira  Street No. 1 Sadiq Abad (Male) (T),31.442788850627927,73.03158776766082,Male,Punjab,2,0,740,0
+158,Govt. MC Girls High School- Shahi Chowk Ghulam Muhammad abad (Male) (P),31.44517832632682,73.0479538884492,Male,Punjab,3,0,1310,0
+159,Govt. MC High School- Shahi Chowk Ghulam Muhammad abad (Female) (P),31.44517832632682,73.0479838884492,Female,Punjab,0,3,0,1173
+160,Govt. MC Girls High School- Shahi Chowk Ghulam Muhammad abad (Male) (P),31.44517832632682,73.0480138884492,Male,Punjab,3,0,1426,0
+161,Govt. MC Girls High School- Shahi Chowk Ghulam Muhammad abad (Female) (P),31.44517832632682,73.0480438884492,Female,Punjab,0,3,0,1245
+162,Govt. Muncipal Corpration Girls High School- Shahi Chowk Ghulam Muhammad abad (Combined) (P),31.44517832632682,73.0480738884492,Combined,Punjab,2,2,791,675
+163,Govt. Muncipal Corporation Girls High School- Shahi Chowk Ghulam Muhammad abad (Male) (P),31.44517832632682,73.0481038884492,Male,Punjab,4,0,1464,0
+164,Govt. Muncipal Corpration Girls High School- Shahi Chowk Ghulam Muhammad abad (Female) (P),31.44517832632682,73.0481338884492,Female,Punjab,0,3,0,1215
+135,Govt. New Colony Boys High School- Shahi Chowk Ghulam Muhammad abad (Male) (P),31.44564820612904,73.04910166444371,Male,Punjab,3,0,1296,0
+136,Govt. New Colony Boys High School- Shahi Chowk Ghulam Muhammad abad (Male) (P),31.44564820612904,73.0491316644437,Male,Punjab,2,0,693,0
+137,Govt. New Colony Boys High School- Shahi Chowk Ghulam Muhammad abad (Female) (P),31.44564820612904,73.0491616644437,Female,Punjab,0,4,0,1727
+138,Govt. New Colony Boys High School- Shahi Chowk Ghulam Muhammad abad (Male) (P),31.44564820612904,73.0491916644437,Male,Punjab,3,0,1420,0
+140,Govt. New Colony Boys High School- Shahi Chowk Ghulam Muhammad abad (Male) (P),31.44564820612904,73.0492216644437,Male,Punjab,2,0,837,0
+130,Govt. Girls High School-  Shahi Chowk Ghulam Muhammad Abad (Male) (P),31.446640007566184,73.04947917736968,Male,Punjab,3,0,1452,0
+131,Govt. Girls High School-  Shahi Chowk Ghulam Muhammad Abad (Female) (P),31.446640007566184,73.0495091773697,Female,Punjab,0,3,0,1226
+132,Govt. Girls High School- Shahi Chowk Ghulam Muhammad abad (Male) (P),31.446640007566184,73.0495391773697,Male,Punjab,2,0,808,0
+133,Govt. Girls High School- Shahi Chowk Ghulam Muhammad abad (Male) (P),31.446640007566184,73.0495691773697,Male,Punjab,3,0,1242,0
+134,Govt. Girls High School- Shahi Chowk Ghulam Muhammad abad (Female)(P),31.446640007566184,73.0495991773697,Female,Punjab,0,4,0,1677
+5,Bait-ul-Elam Middle School- Iqbal Town (Male) (T),31.446754687249822,73.05588293668441,Male,Punjab,4,0,1451,0
+6,Bait-ul-Elam Middle School- Iqbal Town (Female) (T),31.44676556932708,73.05593435377699,Female,Punjab,0,3,0,1168
+1,Government Boys Primary School- Iqbal Town (Male) (P),31.4469,73.05453,Male,Punjab,4,0,1446,0
+2,Government Girls Primary School- Iqbal Town (Female) (P),31.4472,73.05434,Female,Punjab,0,3,0,1177
+3,Kamran Ideal School- Iqbal Town (Male) (T),31.44726,73.05523,Male,Punjab,4,0,1583,0
+4,Kamran Ideal School- Iqbal Town (Female) (T),31.44726,73.05526,Female,Punjab,0,3,0,1339
+10,Al Janat Public School- Rehmat Town (Female) (T),31.4495,73.04964,Female,Punjab,0,3,0,1320
+8,Faisal Public School- Rehmat Town (Female) (T),31.44961,73.05199,Female,Punjab,0,3,0,1190
+165,Govt. Nia Madrassa High School- Qudrat abad (Male) (T),31.451262504866563,73.04564829594975,Male,Punjab,3,0,1166,0
+166,Govt. Nia Madrassa High School- Qudrat abad (Female) (T),31.451262504866563,73.0456782959497,Female,Punjab,0,2,0,913
+167,Govt. Nia Medrassa High School- Qudrat abad (Combined) (T),31.451262504866563,73.0457082959498,Combined,Punjab,2,2,759,603
+169,Govt. Nia Madrassa High School- Qudrat abad (Female) (T),31.451262504866563,73.0457382959497,Female,Punjab,0,3,0,1370

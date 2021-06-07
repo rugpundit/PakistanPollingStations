@@ -1,0 +1,240 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+123,Govt. Boys Primary School Easawal (C) (P),32.45081189069988,72.75580847723093,Combined,Punjab,2,2,1044,834
+88,Govt. Boys Primary School Bugga (C) (P),32.4535657895571,72.69727489804055,Combined,Punjab,1,1,484,414
+122,Govt.Boys Primary School Jandran (C) (P),32.46911698353984,72.7878606097307,Combined,Punjab,2,2,816,701
+121,Govt. Model Primary School Meeray (C) (P),32.474637162944255,72.77079866809807,Combined,Punjab,2,1,589,539
+119,Govt. Boys High School Malyar (C) (P),32.47521079614106,72.80282429934587,Combined,Punjab,2,2,880,745
+120,Govt. Model Primary School Mandhar (C) (P),32.48747198781478,72.82088020561899,Combined,Punjab,2,2,989,850
+86,Govt. Boys Primary School Kahana (C) (P),32.497925409149175,72.7102926174635,Combined,Punjab,2,1,673,528
+118,Govt. Boys Elementary School Ahmed Abad(C) (P),32.508863165282904,72.85648364886636,Combined,Punjab,2,2,882,818
+117,Govt. Boys Primary School Langer (C) (P),32.508878630378284,72.80674286026945,Combined,Punjab,2,2,820,704
+87,Govt. Model Primary school Jathel (C) (P),32.54315694732291,72.7115260425656,Combined,Punjab,1,1,361,302
+83,Govt. High School Kandwal (C) (P),32.54381,72.6526,Combined,Punjab,2,2,790,757
+81,Govt. High School Kandwal (M) (P),32.5438151625304,72.65264641546037,Male,Punjab,3,0,1342,0
+82,Govt. High School Kandwal (F) (P),32.543887179746406,72.65267096669845,Female,Punjab,0,3,0,1218
+133,Govt. Boys Elementary School Pithar Nadi(C) (P),32.54615058322529,72.97323084532732,Combined,Punjab,1,1,338,237
+134,Govt. Boys Elementary School Pithar Nadi(C) (P),32.54615058322529,72.9732608453273,Combined,Punjab,2,1,604,497
+103,Govt. Syed Safder Ali Boys Elementary School Dhundi Thall (C) (P),32.54629,72.72987,Combined,Punjab,1,1,441,435
+104,Govt. Syed Safder Ali Boys Elementary School Dhundi Thall (C) (P),32.54629,72.7299,Combined,Punjab,2,2,615,551
+109,Govt. Boys High School Athar (C) (P),32.550814722422814,72.83786092433135,Combined,Punjab,2,2,945,818
+80,Govt. Girls High School Kandwal (F) (P),32.55136713732399,72.65526354388113,Female,Punjab,0,4,0,1940
+79,Govt. Boys Primary School No.2 Kandwal (M) (P),32.55167196744703,72.65479698030056,Male,Punjab,4,0,2156,0
+110,Govt. Girls High School Athar (C) (P),32.552450714641694,72.83611940077786,Combined,Punjab,2,2,1033,907
+112,Govt.Girls High School Saroba (F) (P),32.56350034976583,72.86668409011132,Female,Punjab,0,3,0,1285
+111,Govt.Girls High School Saroba (M) (P),32.563542665532985,72.86662098120328,Male,Punjab,3,0,1353,0
+114,Govt.Boys High School Saroba (C) (P),32.5647329837198,72.86471854466895,Combined,Punjab,2,2,859,846
+96,Govt. Girls High School Lilla (C) (P),32.56483,72.7493,Combined,Punjab,2,2,855,723
+95,Govt. Girls High School Lilla (F) (P),32.56489919554168,72.74942041561609,Female,Punjab,0,2,0,832
+101,Govt. Girls Community Model School Lilla Hindwana (F),32.566081497133666,72.74365987149926,Female,Punjab,0,4,0,1461
+102,Govt.Girls Commuinty Model School Lilla Hindwana ( C ) (P),32.566081497133666,72.7436898714993,Combined,Punjab,1,1,529,459
+100,Govt. Boys Community Model School Lilla Hindwana (M),32.56663335949909,72.74381088702776,Male,Punjab,4,0,1577,0
+93,Govt. Model Primary School Lilla (F) (P),32.56689535388147,72.75160579326375,Female,Punjab,0,4,0,1670
+90,Govt. Boys Higher Secandary School Lilla (Northern Por)(M) (P),32.56690468123051,72.74927880538603,Male,Punjab,4,0,1744,0
+92,Govt. Boys Higher Secondary School Lilla Eastern Por (M) (P),32.56690669409489,72.74913286642804,Male,Punjab,4,0,1705,0
+91,Govt. Higher Secondry School Lilla (F) (P),32.56695717790881,72.74928533292217,Female,Punjab,0,4,0,1605
+98,Office of the Agriculture Officer- Lilla (F) (P),32.567247257049736,72.7478874989835,Female,Punjab,0,3,0,1131
+97,Primary Rural Health Centre Western Side Lilla (M),32.56759,72.74731,Male,Punjab,3,0,1301,0
+99,Primary Rural Health Centre Western Side Lilla (C),32.56759,72.74734,Combined,Punjab,2,2,1017,868
+94,Primary Rural Health Centre East Side Lilla (M),32.56759754074044,72.74720302887954,Male,Punjab,2,0,954,0
+84,Govt. Model Primary School Kundal ( C ) (P),32.56850803353525,72.69770644739737,Male,Punjab,2,0,1004,0
+85,Govt. Model Primary School Kundal (F ) (P),32.56853,72.69778,Female,Punjab,0,2,0,853
+131,Govt.Model Primary School Hattar (C) (P),32.57361419060075,73.00388010746808,Combined,Punjab,2,1,709,559
+130,Govt.Model Primary School Sohatra (C) (P),32.57480175956463,73.01712463882674,Combined,Punjab,2,1,780,684
+106,Govt. Boys High School Tobba (F) (P),32.57516744151639,72.82042568836326,Female,Punjab,0,4,0,1600
+105,Govt. Boys High School Tobba (M) (P),32.575246817251845,72.82031706889148,Male,Punjab,4,0,1766,0
+108,Govt. Girls High School Tobba (F) (P),32.58073181000247,72.81690893767598,Female,Punjab,0,4,0,1639
+107,Govt. Girls High School Tobba (M) (P),32.58077627896025,72.81685606421898,Male,Punjab,4,0,1723,0
+58,Govt. Boys Primary School Mandi Muhammad Siddique (C) (P),32.58188343997367,73.03502716347957,Combined,Punjab,2,2,982,800
+55,Govt. Girls Model High School P.D.Khan(F) (High Portion) (P),32.582386340870755,73.04324869685351,Female,Punjab,0,4,0,1589
+53,Govt. Girls Model High School- P.D.Khan (Pri.Portion) (F) (P),32.58245762412552,73.04321749381045,Female,Punjab,0,4,0,1504
+113,Govt.Boys Elementary School Bhilowal-New Portion(C) (P),32.583084491431286,72.88543438255797,Combined,Punjab,2,2,843,687
+115,Govt.Boys Elementary School Bhilowal-Old Portion (C) (P),32.58313,72.8855,Combined,Punjab,2,2,775,662
+116,Govt.Boys Elementary School Bhilowal-Old Portion (C) (P),32.58313,72.88553,Combined,Punjab,1,1,436,342
+51,Girls Degree College P.D. Khan(South Part(F) (P),32.584392260751784,73.04738076519389,Female,Punjab,0,4,0,1822
+49,Govt .Girls.Degree College Northern Portion P.D.Khan (F) (P),32.584393120044844,73.04748180198469,Female,Punjab,0,3,0,1280
+54,RGAK Govt. High School P.D.Khan (M) High Portion (P),32.585322360271256,73.04528920240958,Male,Punjab,4,0,1723,0
+52,RGAK Govt. High School P.D.Khan Hostel Port.(M) (P),32.585354819166646,73.04523941777923,Male,Punjab,4,0,1562,0
+50,Govt. Boys High School No. 2 P.D.Khan (M) (P),32.58564644097033,73.0466779457641,Male,Punjab,4,0,1962,0
+48,Govt. Boys High School No. 2 P.D. Khan(Pirmary part)(M) (P),32.585665140341916,73.046657628069,Male,Punjab,3,0,1351,0
+57,Govt.Model Primary School No. 3 Moh. Bolachan P.D.Khan (F) (P),32.587554064965204,73.03932694550237,Female,Punjab,0,3,0,1231
+47,Govt.Girls Primary School No.2 Kot Kalan P.D. Khan (F) (P),32.588460458016705,73.04580210766073,Female,Punjab,0,2,0,1011
+56,Civil Hospital Pind Dadan Khan (M),32.59055,73.04148,Male,Punjab,3,0,1450,0
+46,Govt. Boys Primary School Kot Kalan P.D. Khan (M) (P),32.59090498186036,73.04912992567448,Male,Punjab,3,0,1202,0
+125,Govt. Girls Elemantary School Golpur(C) (P),32.59167806779591,72.93385192430193,Combined,Punjab,2,2,830,732
+124,Govt. Girls Elemantary School Golepur (C) (P),32.591717266447084,72.9337846243432,Combined,Punjab,1,1,586,486
+145,Govt .Boys Primary School Qammar(C) (P),32.593554204700055,73.11985927956745,Combined,Punjab,1,1,579,460
+127,Govt. Girls Primary School Kaura(C) (P),32.59575,72.94437,Combined,Punjab,2,1,657,555
+126,Govt. Girls Primary School Kaura(C) (P),32.595762994969576,72.94436982786779,Combined,Punjab,1,1,515,449
+128,Govt. Model Primary School Chauran (C) (P),32.59742214886007,72.95134961641486,Combined,Punjab,2,2,911,751
+148,Govt. Girls High School Haran Pur (M) (P),32.602263162229825,73.15383232024219,Male,Punjab,4,0,1527,0
+147,Govt. Model Primary School Usman (C) (P),32.60370000892065,73.13958293653398,Combined,Punjab,2,1,633,568
+150,Govt. Boys High School Haranpur Central Portion(M) (P),32.6041878734717,73.15208527656536,Male,Punjab,3,0,1164,0
+151,Govt. Boys High School Haranpur Central Portion(F) (P),32.6041878734717,73.1521152765654,Female,Punjab,0,2,0,978
+152,Govt. High School for boys Haranpur Western Por(C) (P),32.60424291248816,73.15211249199471,Combined,Punjab,2,2,955,865
+144,Govt. Community Model School Daffar (C) (P),32.60645587398459,73.08814300557938,Combined,Punjab,1,1,439,408
+132,Govt.Boys Primary School Dhok Wains (C) (P),32.607511656889926,72.98706985122693,Combined,Punjab,1,1,532,495
+149,Union Council Office Haran Pur (F) (P),32.60810400391914,73.15464465154865,Female,Punjab,0,3,0,1408
+182,Govt.Boys Primary School Azam Pur (C) (P),32.609620174744535,73.22545604712946,Combined,Punjab,1,1,542,444
+202,Govt. Boys Primary School Kanianwala(C) (P),32.61459120789971,73.25802887405897,Combined,Punjab,1,1,571,485
+153,Govt. Girls Primary School Adowal (C) (P),32.61651713623629,73.17998562844869,Combined,Punjab,2,1,592,557
+154,Govt. Girls Primary School Adowal (C) (P),32.61697,73.17982,Combined,Punjab,2,2,741,680
+135,Govt. Boys Primary School Gujjar (C),32.61894934574787,73.06245431090966,Combined,Punjab,2,2,898,825
+146,Govt. Boys Primary School Wara Beland Khan (C) (P),32.62227836930943,73.01256615859384,Combined,Punjab,1,1,517,465
+136,Govt. Girls Elementary School Gujjar (C),32.62289,73.06232,Combined,Punjab,1,1,359,313
+137,Govt. Girls Primary School Gujjar (C),32.62289,73.06235,Combined,Punjab,2,2,713,605
+139,Govt. Girls Elementary School Kaslian(C),32.62335840973533,73.09110279097395,Combined,Punjab,2,1,637,595
+185,Govt. Girls Primary School Jatipur(C) (P),32.62501317639387,73.2369120475944,Combined,Punjab,2,2,720,589
+138,Govt. Boys High School Kaslian(C),32.62517328076929,73.09202866100203,Combined,Punjab,2,2,750,708
+155,Govt. Boys primary School Dingwal(C) (P),32.62536884725058,73.19308176167313,Combined,Punjab,2,1,621,551
+64,Govt Girls Elemantary School Islam Gunj Khewra (M) (P),32.627669433867496,73.01428323120456,Male,Punjab,3,0,1311,0
+65,Govt. Girls Elementary School Islam Gung Khewra (F) (P),32.627686707883804,73.01424662600918,Female,Punjab,0,3,0,1186
+77,Govt Boys Elementary School Kot Maingle Sain ( Elementary Portion) (F) (P),32.6316,73.01302,Female,Punjab,0,3,0,1351
+76,MC Girls Higher Secondary School Khewra (M) (P),32.63283424918015,73.00830293974383,Male,Punjab,4,0,1483,0
+78,MC Girls Higher Secondary School Khewra (C) (P),32.63283424918015,73.0083329397438,Combined,Punjab,2,2,711,662
+72,M.C Girls Higher Secondary School Khewra( High Portion) ( F) (P),32.63287332117081,73.00831993388954,Female,Punjab,0,3,0,1195
+71,M.C Girls Higher Secondary School Khewra( Primary Portion) (M) (P),32.63301709004712,73.0082100813501,Male,Punjab,3,0,1434,0
+74,Civil Hospital Khewra(Old Building) (F) (P),32.633503962495936,73.01220181106683,Female,Punjab,0,3,0,1297
+140,Govt. Boys Primary School Chak Shafi (C),32.634821375086695,73.07057001506412,Combined,Punjab,2,1,573,532
+158,Govt. Girls Community Model School Nawan Lok (C) (P),32.63546,73.21099,Combined,Punjab,2,2,808,676
+157,Govt. Girls Community Model School Nawan Lok (C) (P),32.63546091668711,73.21099118932723,Combined,Punjab,1,1,236,204
+184,Govt.Model Primary School Karimpur(C) (P),32.63634,73.24126,Combined,Punjab,1,1,388,367
+183,Govt.Model Primary School Karimpur(C) (P),32.63636149770513,73.24110416671513,Combined,Punjab,2,2,721,666
+75,Municipal Committee Office Khewra(C) (P),32.63641,73.01124,Combined,Punjab,1,1,527,531
+73,Municipal Committee Office Khewra(M) (P),32.636428725541265,73.01125012439044,Male,Punjab,4,0,1464,0
+63,P.M.D.C Model High School Khewra Khas ( F) (P),32.63670237053223,73.01241193787031,Female,Punjab,0,2,0,1004
+62,P.M.D.C Model High School Khewra Khas ( M) (P),32.63670674795788,73.01250121880805,Male,Punjab,2,0,1032,0
+68,Govt. High School Khewra (Main Building) (M) (P),32.63720805655658,73.00936900405458,Male,Punjab,3,0,1218,0
+69,Govt. High School Khewra ( Eastem Portion) (F) (P),32.637220478760845,73.00934532733666,Female,Punjab,0,3,0,1134
+200,Govt. Model Primary School Diwanpur (C) (P),32.63725485984967,73.26905159783298,Combined,Punjab,2,2,707,592
+201,Govt. Model Primary School Diwanpur (C) (P),32.63725485984967,73.269081597833,Combined,Punjab,1,1,428,368
+67,Govt Girls High School Khewra ( High Portion) (F) (P),32.63725875122215,73.00434417662636,Female,Punjab,0,3,0,1197
+70,Govt. High School Khewra (Main Building) (C) (P),32.63729,73.00936,Combined,Punjab,2,2,792,744
+187,Govt. Boys Primary school khotian (F) (P),32.637930314786395,73.22807746472877,Female,Punjab,0,3,0,1200
+66,Govt Girls High School Khewra(Primary Portion) (M) (P),32.637936702632814,73.00583783873984,Male,Punjab,3,0,1323,0
+59,Govt. Girls Primary School Shreenabad,32.63799,72.97733,Combined,Punjab,2,1,645,520
+142,Govt Girls Elemantary School Dhudi Phiphra (F) (P),32.63814012549435,73.11686655145564,Female,Punjab,0,3,0,1254
+141,Govt. Boys Elemetary School Dhudhi Phaphra(M),32.63845346847125,73.11856472039676,Male,Punjab,4,0,1494,0
+143,Govt. Boys Elemetary School Dhudhi Phaphra(C),32.63851,73.11869,Combined,Punjab,1,1,545,469
+129,Govt.Boys Elementary School Shereen Abad Dandot (C) (P),32.63871617796269,72.97738760452037,Combined,Punjab,1,1,557,526
+156,Govt. Boys Primary Chak Hameed (C) (P),32.639205100218916,73.20622998762485,Combined,Punjab,2,1,661,590
+186,Govt. Model Primary school khotian (M) (P),32.63949879540576,73.22544008566166,Male,Punjab,3,0,1388,0
+198,Govt Model Primary School- Mirzabad (C),32.64083,73.30257,Combined,Punjab,2,1,615,537
+199,Govt Model Primary School- Mirzabad (C),32.64083,73.3026,Combined,Punjab,2,1,721,572
+220,Govt. Girls Model Primary School Abdullahpur (C) (P),32.64109124278542,73.30739152994569,Combined,Punjab,1,1,505,459
+60,Govt. Boys Elementary School Khewra Khas (M) (P),32.64185183792064,73.0087995753653,Male,Punjab,4,0,1580,0
+61,Govt Boys Elementary School Khewra Khass (F) (P),32.641878140026364,73.00891391471231,Female,Punjab,0,3,0,1332
+212,Govt. Boys Primary School Saidanwala (C) (P),32.642045715198236,73.3588530586942,Combined,Punjab,2,1,614,564
+89,Govt. Boy Primary School Pir Khara (C) (P),32.643057963669335,72.7469624628233,Combined,Punjab,1,1,359,323
+213,Govt. Girls Primary School Khiwanwala (C) (P),32.64659851879776,73.33665291748714,Combined,Punjab,2,2,822,694
+214,Govt. Boys Elementary School Sagarpur(M),32.64818,73.33574,Male,Punjab,2,0,1068,0
+216,Govt. Boys Elementary School Sagarpur(M),32.64818,73.33577,Male,Punjab,3,0,1358,0
+171,Govt. Girls High School Dharyala Jalap(F) (P),32.64882489786112,73.22232501771276,Female,Punjab,0,2,0,858
+169,Govt. Girls High School Dharyala Jalap(F) (P),32.64885,73.2223,Female,Punjab,0,3,0,1263
+215,Govt. Girls Elementary School Sagar pur (F) (P),32.64892136695526,73.3388693993147,Female,Punjab,0,2,0,897
+217,Govt. Girls Elementary School Sagar pur (F) (P),32.64892136695526,73.3388993993147,Female,Punjab,0,2,0,1096
+168,Govt. Boys High school Dharyala Jalap (M) (P),32.65099,73.22677,Male,Punjab,4,0,1426,0
+170,Govt. Boys High school Dharyala Jalap (M) (P),32.65099,73.2268,Male,Punjab,2,0,920,0
+221,Govt. Girls Elementary School Chak Jani.(C) (P),32.653505686417596,73.30236935160295,Combined,Punjab,2,1,665,599
+225,Govt. Boys Higher Secondary School Jalalpur Sharif (C) (P),32.65463,73.40654,Combined,Punjab,1,1,405,376
+224,Govt. Boys Higher Secondary School Jalalpur Sharif (C) (P),32.65465199922251,73.40660991926252,Combined,Punjab,1,1,527,404
+181,Govt.Model Primary School Chak Mujahid (C) (P),32.65532423150344,73.23770657368183,Combined,Punjab,2,2,1017,903
+197,Govt. Boys Primary School Hakamabad Pinanwal(F) (P),32.65539790382708,73.28434989585786,Female,Punjab,0,2,0,870
+223,Office of Union Council Jalalpur Sharif(C) (P),32.65599726270581,73.40578937201361,Combined,Punjab,2,1,629,576
+195,Govt. Girls Primary school Pinanwal Moh.Khridpur(F) (P),32.656382077308145,73.28481417407691,Female,Punjab,0,4,0,1556
+229,Govt. Boys Primary School JalapurSharif (F) (P),32.65697058326206,73.40635118712639,Female,Punjab,0,3,0,1309
+227,Govt. Girls Elementary School Jalalpur Sharif (C) (P),32.65703560360474,73.40655670770433,Combined,Punjab,1,1,466,414
+189,Govt. Boys Primary School Karala Jalap (C) (P),32.65708027959887,73.25023963907897,Combined,Punjab,2,2,845,752
+191,Govt. Girls Primary School Pinanwal (F) (P),32.65714698979417,73.2745166956199,Female,Punjab,0,4,0,1503
+226,Govt. Girls Elementary School Jalalpur Sharif (C) (P),32.65733,73.4063,Combined,Punjab,2,1,596,532
+193,Govt. Girls Primary School Chak Shadi(F) (P),32.65753690588354,73.26120414425584,Female,Punjab,0,2,0,696
+192,Govt.Boys High school Pinanwal No.2 (M) (P),32.65762296410818,73.2718515345308,Male,Punjab,2,0,743,0
+190,Govt.Boys High school Pinanwal No.2 (M) (P),32.657628466336895,73.27186079847726,Male,Punjab,4,0,1732,0
+196,Govt. Boys High school Pinanwal No.1 (M) (P),32.65771243261367,73.273844348034,Male,Punjab,2,0,1042,0
+194,Govt. Boys High school Pinanwal No.1 (M) (P),32.6577225049407,73.27393742303714,Male,Punjab,4,0,1705,0
+180,Govt. Boys Primary School Chak Mujahid (C) (P),32.66004367757941,73.23878405546412,Combined,Punjab,2,1,682,649
+211,Govt. Model Primary School Shakarpur(C) (P),32.66066073412824,73.37203322541187,Combined,Punjab,2,2,802,700
+16,Govt. Girls Primary School Shah Kamir(C) (P),32.66084,73.43804,Combined,Punjab,2,1,606,498
+188,Govt. Girls High School Chak Shadi (C) (P),32.661312459672494,73.25846105058373,Combined,Punjab,2,1,634,553
+218,Govt. Boys Primary School Sherpur(C) (P),32.6617,73.31937,Combined,Punjab,2,1,729,652
+219,Govt. Boys Primary School Sherpur(C) (P),32.6617,73.3194,Combined,Punjab,1,1,420,403
+230,Govt. Girls Comunity Model Primary School Dhari Maliaran(C) (P),32.661729092827535,73.39568164279599,Combined,Punjab,2,2,1134,1069
+173,Govt.Model Primary School Wara Phapra (C) (P),32.66675151399619,73.1296388995061,Combined,Punjab,1,1,599,484
+174,Govt.Model Primary School Wara Phapra (C) (P),32.66675151399619,73.1296688995061,Combined,Punjab,2,1,514,524
+205,Govt. Boys High school Primary Sec. PindiSaidpur(M) (P),32.66746,73.33016,Male,Punjab,2,0,872,0
+207,Govt. Boys High school Primary Sec. PindiSaidpur(M) (P),32.66746,73.33019,Male,Punjab,3,0,1109,0
+203,Govt. Boys High School Pindi saidpur (M) (P),32.66750102743363,73.33026222933206,Male,Punjab,3,0,1228,0
+165,Govt. Modal Primary School Sadhowal(C) (P),32.66849800245621,73.11953558930148,Combined,Punjab,2,2,709,704
+222,Govt. Girls Elementary School Chak Danyal (C),32.66863500844465,73.28542003495586,Combined,Punjab,2,2,1156,924
+231,Govt. Model Primary school Ladwa (C) (P),32.669950248848316,73.37672783721291,Combined,Punjab,2,2,906,792
+164,Govt. Elementary School Gharibwal © (Elementary Portion) (P),32.67083112031,73.17160427375876,Combined,Punjab,2,2,911,842
+160,Govt. Model Primary School Sauwal(C) (P),32.67129,73.15511,Combined,Punjab,1,1,518,464
+161,Govt. Model Primary School Sauwal(C) (P),32.67129,73.15514,Combined,Punjab,1,1,537,529
+159,Office of Union Council Sauwal)C) (P),32.67169689198408,73.15547197988627,Combined,Punjab,2,2,833,757
+206,Govt. Girls High School Pindi Saidpur Primary Por (F) (P),32.67177370565186,73.33045645880802,Female,Punjab,0,2,0,790
+208,Govt. Girls High School Pindi Saidpur Primary Por (F) (P),32.67177370565186,73.330486458808,Female,Punjab,0,2,0,1013
+204,Govt. Girls High School Pindisaidpur High sec (F) (P),32.671802228339196,73.33104465058216,Female,Punjab,0,3,0,1107
+228,Govt. Girls High School JalapurSharif (M) (P),32.673089745786775,73.40691574873775,Male,Punjab,3,0,1491,0
+232,Govt. Girls High School Ratwal (C) (P),32.67454820720773,73.36968103915054,Combined,Punjab,2,2,864,752
+163,Govt. Elementary School Gharibwal © (Pri.Portion) (P),32.67950786392797,73.16797952800445,Combined,Punjab,2,2,783,747
+233,Govt. Boys Primary School Chakri Nathial (C) (P),32.68198379549585,73.35329358164567,Combined,Punjab,2,1,656,612
+175,Govt. Boys Primary School Kot Umer(M) (P),32.685450957143466,73.26480848229266,Male,Punjab,4,0,1585,0
+176,Govt.Girls Primary School Kot Umer(F) (P),32.68555000411624,73.26312156433218,Female,Punjab,0,3,0,1300
+234,Govt.Model Elementary School Chakri (C) (P),32.68557045804687,73.35248156185291,Combined,Punjab,2,2,999,878
+15,Govt. Girls Primary School Bailoden Maryala (C) (P),32.68657,73.49636,Combined,Punjab,2,1,803,659
+178,Govt. Girls High School Daulet Pur (M) (P),32.6888956394509,73.2926146447502,Male,Punjab,2,0,1005,0
+179,Govt. Girls High School Daulet Pur (F) (P),32.688937647347785,73.29258196380812,Female,Punjab,0,2,0,930
+210,Govt. Girls Primary School- Gahora (C) (P),32.691843407321855,73.33989446279335,Combined,Punjab,1,1,510,479
+209,Govt. Girls Elementary School- Thill(C) (P),32.69567211529346,73.32710663972482,Combined,Punjab,2,2,752,696
+177,Govt. girls Primary School Pindi Bhikh(C) (P),32.698019017404796,73.28113721948361,Combined,Punjab,2,2,986,802
+236,Govt. Model Primary school Khair (C) (P),32.70581228397442,73.37415217953053,Combined,Punjab,2,1,645,539
+162,Govt. Model Primary School Rawal(C) (P),32.707255436905214,73.18833925387337,Combined,Punjab,2,2,1028,932
+172,Govt. Girls Community Model School Baghanwala (C) (P),32.70853688049169,73.23295003640146,Combined,Punjab,2,2,1034,813
+14,Govt. Girls Madol Primary School Dilawar (C) (P),32.7153,73.52985,Combined,Punjab,1,1,601,538
+235,Govt. Model Primary School Nagial (C) (P),32.722459771291135,73.38955712603311,Combined,Punjab,2,2,939,842
+167,Govt. Boys High School Jotana (F) (P),32.725660881776356,73.14900066223034,Female,Punjab,0,4,0,1599
+166,Govt. Boys High School Jotana (M) (P),32.72572813010205,73.14913445658998,Male,Punjab,4,0,1779,0
+7,Govt. Boys High School Darapur (M) (P),32.7267,73.54324,Male,Punjab,3,0,1306,0
+8,Govt. Boys High School Darapur (F) (P),32.7267,73.54327,Female,Punjab,0,3,0,1120
+238,Govt. Boys High School- Wagh- (C) (P),32.73358,73.39723,Combined,Punjab,2,2,856,815
+237,Govt. Boys High School- Wagh- (C) (P),32.733642392662254,73.39723384057297,Combined,Punjab,1,1,418,372
+20,Govt. Girls Primary School Jamerghal (F) (P),32.737070917551456,73.47294721842317,Female,Punjab,0,3,0,1208
+239,Govt. Girls High School Wagh (C) (P),32.73719076266844,73.38448982633729,Combined,Punjab,1,1,388,346
+19,Govt. Boys Elementary School Jamerghal (M) (P),32.740504882187565,73.4692487154242,Male,Punjab,4,0,1490,0
+9,Govt. Model Primary School Phadiala (C) (P),32.7416,73.53116,Combined,Punjab,1,1,405,382
+17,Govt. Boys Elementary School Wara Gujran(C) (P),32.74957,73.50731,Combined,Punjab,2,1,683,548
+18,Govt. Boys Elementary School Wara Gujran(C) (P),32.74957,73.50734,Combined,Punjab,1,1,570,476
+31,Govt Primary School Khair Sharif ( C ) (P),32.75397901077219,73.35599024342889,Combined,Punjab,2,1,591,531
+12,Govt. Girls Primary School Kotli Syedan (C) (P),32.7561,73.52043,Combined,Punjab,1,1,515,468
+13,Govt. Girls Primary School Kotli Syedan (C) (P),32.7561,73.52046,Combined,Punjab,2,1,762,588
+11,Govt. Boys Elementary School Bajwala Kalan (C) (P),32.75956,73.509,Combined,Punjab,2,1,723,625
+10,Govt. Girls Primary School Nakki Rajgan (C) (P),32.76326,73.51965,Combined,Punjab,1,1,356,282
+30,Govt. High School Pind Swika (C) (P),32.7677438864143,73.36311625066175,Combined,Punjab,2,2,765,668
+32,Govt. Boys Primary School Kotal Kund (C) (P),32.76820445174402,73.3013820106328,Combined,Punjab,2,1,655,521
+26,Govt. Model Primary School Noorpur (C) (P),32.769834132964554,73.41866881765957,Combined,Punjab,1,1,590,478
+25,Govt. Girls Model Primary School Nakka Khurd (C) (P),32.7707282230886,73.43844927734659,Combined,Punjab,2,2,829,743
+22,Govt. Girls High School Khalaspur (M) (P),32.77295771490636,73.46502956214579,Male,Punjab,3,0,1131,0
+24,Govt. Girls High School Khalaspur (C) (P),32.77296,73.46509,Combined,Punjab,1,1,537,513
+23,Govt. Boys Primary School Khalaspur (F) (P),32.773072802335875,73.4652521534033,Female,Punjab,0,3,0,1032
+21,Mehr Ali Azam Shaheed Govt.Boys High School Chakri (C) (P),32.77406593848194,73.47942213060104,Combined,Punjab,2,2,853,744
+6,Govt. Girls Elementry School Bhimbir ( C ) (P),32.77581,73.56174,Combined,Punjab,2,2,816,726
+28,Govt. Boys Primary School Nakka Kalan (F) (P),32.77610224327404,73.4532606693582,Female,Punjab,0,4,0,1447
+27,Govt. Girls Elementary School Nakka Kalan (M) (P),32.777890643541596,73.4539331131832,Male,Punjab,4,0,1543,0
+29,Govt. Boys Primary.School- Chohi Gujran. (C) (P),32.784733026151684,73.35666618886351,Combined,Punjab,1,1,389,299
+1,Govt. Boys Elemantary School Mamyan (M) (P),32.80123,73.53257,Male,Punjab,2,0,1002,0
+2,Govt. Boys Elemantary School Mamyan (C) (P),32.80123,73.5326,Female,Punjab,0,2,0,931
+36,Govt. Elemenary Schooll Nara (C) (P),32.80400135148012,73.39770898906288,Combined,Punjab,2,2,780,663
+3,Govt. Girls High School Khurd- (M) (P),32.80639,73.57043,Male,Punjab,4,0,2677,0
+4,Govt. Girls High School Khurd- ( F) (P),32.80639,73.57046,Female,Punjab,0,4,0,2361
+35,Govt. Girls Elementry School Jagta (C) (P),32.81196105661744,73.51390533578659,Combined,Punjab,1,1,528,468
+34,Govt. Girls Elementry School Jagta (C) (P),32.81196106401843,73.51387860782877,Combined,Punjab,2,2,871,694
+5,Govt. Boys High School Chotala (C) (P),32.81285,73.57315,Combined,Punjab,2,1,618,520
+45,Govt. Boys High School Chak Mehmda (F) (P),32.81755,73.48481,Female,Punjab,0,2,0,986
+44,Govt. Boys High School Chak Mehmda (M) (P),32.8176531842032,73.48487570852232,Male,Punjab,2,0,1085,0
+39,Govt. Boys High School Dhoke Loona (F) (P),32.81786,73.43169,Female,Punjab,0,2,0,892
+38,Govt. Boys High School Dhoke Loona (M) (P),32.81794894780653,73.43176741549975,Male,Punjab,2,0,933,0
+33,Govt. Model Primary School Alang (C) (P),32.82007,73.54247,Combined,Punjab,2,1,724,631
+40,Govt. ModelBoys Primary School Dhoke Kanial (C) (P),32.821270655627664,73.41166955319987,Combined,Punjab,2,2,880,747
+37,Govt. Elementary School Hasnot (C) (P),32.82249385933903,73.31789778101292,Combined,Punjab,2,1,766,629
+42,Govt. Boys Primary School Dhoke Biddar ( C) (P),32.83020002248796,73.4534289514606,Combined,Punjab,2,2,732,660
+43,Govt. Girls Elementry School Dhoke Biddar (C) (P),32.830870373546915,73.452673808665,Combined,Punjab,2,2,879,762
+41,Govt. Boys Primary School Hoon (C) (P),32.849058183021384,73.4854482511434,Combined,Punjab,2,1,686,528

@@ -1,0 +1,96 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+76,Govt Girls Primiry School Tarkha (Female),34.16241,71.62112,Female,KPK,0,4,0,1403
+74,Govt Primiry School Tarkha PS No1 (Male),34.16243,71.62127,Male,KPK,3,0,1296,0
+75,Govt Primiry School Tarkha PS No2 (Male),34.16243,71.6213,Male,KPK,2,0,700,0
+73,Govt Primiry School Haji Zai (Female),34.16799,71.59727,Female,KPK,0,4,0,1683
+71,Govt High School Haji Zai PS No1 (Male),34.1692,71.59775,Male,KPK,3,0,952,0
+72,Govt High School Haji Zai PS No2 (Male),34.1692,71.59778,Male,KPK,3,0,1298,0
+77,Govt Girls Middle School Mahzara PS No1 (Male),34.17756,71.59675,Male,KPK,4,0,1392,0
+78,Govt Girls Middle School Mahzara PS No2 Male,34.17756,71.59678,Male,KPK,3,0,1122,0
+79,Govt Primiry School Mahzara PS No1 (Female),34.17768,71.59697,Female,KPK,0,3,0,1047
+80,Govt Primiry School Mahzara PS No2 (Female),34.17768,71.597,Female,KPK,0,2,0,870
+121,Govt Primiry School Dalazak No1 (Female),34.1811,71.55151,Female,KPK,0,3,0,1251
+118,Govt High School Dalazak PS No1 (Male),34.1815,71.55591,Male,KPK,3,0,1142,0
+120,Govt High School Dalazak PS No2 (Male),34.1815,71.55594,Male,KPK,4,0,1562,0
+119,Govt Girls Primiry School No1 Dalazak (Male),34.18512,71.56672,Male,KPK,2,0,816,0
+83,Govt Girls Community Model School Sheikhan Ocha Wala (Male),34.18577,71.58469,Male,KPK,2,0,884,0
+81,Govt Primiry School No1 Ocha Wala (Male),34.18615,71.58871,Male,KPK,4,0,1527,0
+82,Govt Primiry School No2 Ocha Wala (Male),34.18808,71.58221,Male,KPK,2,0,880,0
+84,Govt Girls Middle School Ocha Wala PS No1 (Femlae),34.19066,71.58762,Female,KPK,0,3,0,1138
+85,Govt Girls Middle School Ocha Wala PS No2 (Femlae),34.19066,71.58765,Female,KPK,0,3,0,1260
+9,Govt Primiry School Shara (Female),34.19993,71.55361,Female,KPK,0,4,0,1192
+113,Govt High School Subhan Khwar PS No1 (Male),34.20613,71.53938,Male,KPK,3,0,1161,0
+114,Govt High School Subhan Khwar PS No2 (Male),34.20613,71.53941,Male,KPK,3,0,1155,0
+115,Govt High School Subhan Khwar PS No3 (Male),34.20613,71.53944,Male,KPK,2,0,776,0
+117,Govt: Girls High School Pir Qila Polling Station No.II(Female),34.20613,71.53947,Female,KPK,0,3,0,981
+35,Govt High School Attaki PS No1 (Male),34.20636,71.58967,Male,KPK,4,0,1636,0
+36,Govt High School Attaki PS No2 (Male),34.20636,71.5897,Male,KPK,3,0,1175,0
+38,Govt Primiry School No2 Ataki (Female),34.20757,71.58697,Female,KPK,0,3,0,1148
+11,Govt High School Rahmat Ullah Khan PS No2 (Male),34.21094,71.55929,Male,KPK,4,0,1465,0
+10,Govt High School Rahmat Ullah Khan PS No1 (Male),34.21094,71.55932,Male,KPK,3,0,1251,0
+12,Govt High School Rahmat Ullah Khan PS No3 (Male),34.21094,71.55935,Male,KPK,3,0,494,0
+13,Govt Primiry School Rahmat Ullah Khan (Male),34.21098,71.55914,Male,KPK,4,0,1365,0
+15,Govt Girls High School Rahmat Ullah Khan (Female),34.21109,71.55878,Female,KPK,0,3,0,1004
+5,Govt Primiry School Sadiq Abad (Male),34.21214,71.55288,Male,KPK,4,0,1613,0
+20,Govt Girls Primiry Scholl Pehlawan Qella PS No1 (Female),34.21309,71.56998,Female,KPK,0,4,0,1676
+21,Govt Girls Primiry School Pehlawan Qella PS No2 (Female),34.21309,71.57001,Female,KPK,0,4,0,1145
+7,Civil Hospital Shabqadar PS No2 (Female),34.21475,71.54958,Female,KPK,0,3,0,894
+6,Civil Hospital Shabqadar PS No1 (Female),34.21475,71.54961,Female,KPK,0,3,0,1082
+29,Govt Girls Primiry School Nusrat Zai (Female),34.21628,71.5907,Female,KPK,0,3,0,1002
+8,Govt Primiry School Aranda (Female),34.21715,71.54606,Female,KPK,0,4,0,1162
+28,Govt Primiry School Nusrat Zai (Male),34.21827,71.59115,Male,KPK,4,0,1461,0
+19,Govt Degree College Shabqadar (Male),34.22038,71.58427,Male,KPK,4,0,1368,0
+25,Govt High School Shabqadar Fort PS No1 (Female),34.22195,71.56934,Female,KPK,0,3,0,1126
+26,Govt High School Shabqadar Fort PS No2 (Female),34.22195,71.56937,Female,KPK,0,3,0,858
+27,Govt High School Shabqadar Fort PS No3 (Female),34.22195,71.5694,Female,KPK,0,3,0,1082
+1,Govt High School Haleem Zai PS No1 (Male),34.22227,71.55672,Male,KPK,4,0,1498,0
+3,Govt High School Haleem Zai PS No2 (Male),34.22227,71.55675,Male,KPK,3,0,1013,0
+4,Govt Primiry School Haleem Zai (Male),34.22255,71.55901,Male,KPK,2,0,671,0
+33,Govt Girls Primiry School Gonda (Female),34.22263,71.59975,Female,KPK,0,4,0,1519
+30,Govt High School Gonda PS No1 (Male),34.22293,71.59961,Male,KPK,2,0,807,0
+31,Govt High School Gonda PS No2 (Male),34.22293,71.59964,Male,KPK,3,0,1317,0
+32,Govt High School Gonda PS No3 (Male),34.22293,71.59967,Male,KPK,4,0,1595,0
+17,Govt Girls Higher Secondary School Shabqadar PS No1 (Male),34.22411,71.57085,Male,KPK,3,0,1165,0
+18,Govt Girls Higher Secondary School Shabqadar PS No2 (Male),34.22411,71.57088,Male,KPK,4,0,1622,0
+22,Govt Primiry School No2 Shabqadar Fort PS No1 (Male),34.22446,71.57078,Male,KPK,4,0,1604,0
+23,Govt Primiry School No2 Shabqadar Fort PS No2 (Male),34.22446,71.57081,Male,KPK,4,0,1587,0
+103,Govt High School Shah Baz Khan (Combined),34.23079,71.54033,Combined,KPK,2,2,804,410
+102,Govt High School Khawaja Hawas PS No1 )(Male),34.23303,71.54623,Male,KPK,4,0,1650,0
+104,Govt High School Khawaja Hawas PS No2 )(Female),34.23303,71.54626,Female,KPK,0,3,0,1006
+107,Govt Girls Primiry School Khawaja Hawas (Female),34.23491,71.54733,Female,KPK,0,2,0,1048
+92,Govt Girls Primiry School Sokhta No1 (Female),34.23615,71.60211,Female,KPK,0,3,0,983
+91,Govt Primiry School Sokhta No2 (Male),34.23874,71.60265,Male,KPK,4,0,1458,0
+105,Govt Primiry School Mansooka (Male),34.24094,71.56205,Male,KPK,2,0,386,0
+109,Govt High School Mia Esa PS No1 (Male),34.24414,71.57405,Male,KPK,4,0,1427,0
+110,Govt High School Mia Esa PS No2 (Male),34.24414,71.57408,Male,KPK,4,0,1373,0
+66,Govt Girls Primiry School Kotak Tarnab PS No1 (Female),34.24794,71.59918,Female,KPK,0,2,0,947
+67,Govt Girls Primiry School Kotak Tarnab PS No2 (Female),34.24794,71.59921,Female,KPK,0,2,0,1020
+86,Govt High School Mirzai PS No1 (Male),34.24976,71.58829,Male,KPK,4,0,1832,0
+87,Govt High School Mirzai PS No2 (Male),34.24976,71.58832,Male,KPK,4,0,1489,0
+88,Govt High School Mirzai PS No3 (Male),34.24976,71.58835,Male,KPK,4,0,1377,0
+64,Govt Primiry School Kotak Tarnab PS No1 (Male),34.24991117296957,71.6016204121876,Male,KPK,3,0,1245,0
+89,Bacha Khan Woman Vocational Center Mirzai- Polling Station No.I(Female),34.24997,71.58898,Female,KPK,0,4,0,1802
+53,Govt Girls Primiry School Nazar Ghari (Female),34.26149,71.58673,Female,KPK,0,1,0,433
+100,Govt Girls Primiry School Daman Minora PS  No1 (Female),34.26447,71.54861,Female,KPK,0,3,0,1026
+101,Govt Girls Primiry School Daman Minora PS  No2 (Female),34.26447,71.54864,Female,KPK,0,3,0,1358
+68,Govt Higher Secondary School Hassan Zai PS No1 (Male),34.2731,71.6043,Male,KPK,3,0,1193,0
+69,Govt Higher Secondary School Hassan Zai PS No2 (Male),34.2731,71.60433,Male,KPK,3,0,805,0
+70,Govt Girls High School Hassan Zai (Female),34.27324,71.60548,Female,KPK,0,4,0,1474
+93,Govt High School No2 Matta Mughel Khel PS No1 (Male),34.27888,71.55912,Male,KPK,4,0,1658,0
+94,Govt High School No2 Matta Mughel Khel PS No2 (Male),34.27888,71.55915,Male,KPK,3,0,1308,0
+57,Govt Primiry School No3 Katozai (Male),34.27916,71.6002,Male,KPK,4,0,2019,0
+98,Govt High School No1 Matta Mughal Khel PS No2 (Male),34.28157,71.56657,Male,KPK,4,0,2033,0
+43,Govt Girls Higher Secondary School Matta Palangzai PS No1 (Female),34.28457,71.56644,Female,KPK,0,3,0,1040
+44,Govt Girls Higher Secondary School Matta Palangzai PS No.4 (Female),34.28457,71.56647,Female,KPK,0,3,0,929
+45,Govt Girls Higher Secondary School Matta Palangzai PS No.2 (Female),34.28457,71.5665,Female,KPK,0,3,0,814
+46,Govt Girls Higher Secondary School Matta Palangzai PS No.3 (Female),34.28457,71.56653,Female,KPK,0,3,0,1225
+51,Govt Primiry School Malak Abad (Male),34.285,71.584,Male,KPK,4,0,1601,0
+39,Govt Primiry School Matta Rustum Khel Polling Station No1 (Male),34.28742,71.56681,Male,KPK,4,0,1370,0
+41,Govt Primiry School Matta Rustum Khel Polling Station No2 (Male),34.28742,71.56684,Male,KPK,4,0,1301,0
+42,Govt Primiry School Matta Rustum Khel Polling Station No3 (Male),34.28742,71.56687,Male,KPK,4,0,1688,0
+47,Govt High School Katozai Polling Station No1 (Male),34.28758,71.597,Male,KPK,3,0,1242,0
+48,Govt High School Katozai Polling Station No2 (Male),34.28758,71.59703,Male,KPK,4,0,1762,0
+40,Basic Health Unit Matta Mughal Khel (Male),34.29081,71.56953,Male,KPK,4,0,1437,0
+60,Govt Primiry School Bela No4 (Female),34.2946,71.5994,Female,KPK,0,2,0,608
+49,Basic Health Unit Katozai PS No1 (Female),34.29524,71.59837,Female,KPK,0,4,0,1454
+50,Basic Health Unit Katozai PS No2 (Female),34.29524,71.5984,Female,KPK,0,2,0,700

@@ -1,0 +1,42 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+20,Govt Boys P/School Hoor Shooli Jaamani Bazar,25.57699,62.19908,Combined,Balochistan,2,1,453,335
+21,Govt Boys P/School Mullai Nigore Karam Shah Bazar,25.61787,62.24341,Combined,Balochistan,1,1,183,153
+17,Govt Boys H/School Zareen Bug,25.64027,62.18392,Combined,Balochistan,2,2,522,483
+18,Govt Girls M/School jan Mohammad bazar,25.6494,62.10511,Combined,Balochistan,1,1,154,132
+22,Govt Boys P/School Hasaadi,25.66301,62.23872,Combined,Balochistan,1,1,194,187
+24,Govt Boys M/School Langaasi,25.68611,62.29628,Combined,Balochistan,1,1,145,133
+6,Govt Boys P/School  MAKESAR,25.70586,62.50398,Combined,Balochistan,1,1,258,188
+25,Govt Boys M/School Beshooli,25.71265,62.41212,Combined,Balochistan,2,2,494,440
+23,Govt Boys H/School Kumbail,25.72587,62.22593,Combined,Balochistan,1,1,336,298
+4,Govt Boys P/School Daddah,25.74197,62.78494,Combined,Balochistan,1,1,345,242
+7,Govt Boys P/School Kohak,25.74891,62.54393,Combined,Balochistan,1,1,254,240
+5,Govt P/School Karkag,25.76937,62.38042,Combined,Balochistan,1,1,359,270
+19,Govt Boys P/School Koocha,25.7743,62.15379,Combined,Balochistan,2,2,627,511
+16,Govt Boys P/School Kasar,25.78095,62.70616,Combined,Balochistan,2,2,644,529
+15,Govt Boys M/School Kunchiti,25.78153,62.62434,Combined,Balochistan,2,2,543,435
+11,Govt Boys H/School Toolagi,25.78879,62.55695,Combined,Balochistan,1,1,435,374
+3,Govt:Boys M/School Panoodi,25.79209,62.46189,Combined,Balochistan,1,1,204,160
+43,Govt Boys P/School Balnigore Kaheerein/Jamak,25.81382,62.24179,Combined,Balochistan,2,2,871,725
+10,GGPS Shakaro Ball Dasht,25.82402,62.54045,Combined,Balochistan,1,1,127,78
+45,Govt Boys P/School Gohrag Bagh,25.82606,62.14035,Combined,Balochistan,1,1,422,293
+46,Govt boys P/School Kapkapaar,25.82991,62.20537,Combined,Balochistan,1,1,365,250
+12,Govt  Boys M/School Ballen,25.83417,62.64653,Combined,Balochistan,2,2,738,505
+48,Govt Boys P/School Sorak,25.85916,62.27457,Combined,Balochistan,1,1,299,185
+49,Govt Boys P/School Machaath,25.86674,62.3393,Combined,Balochistan,1,1,312,250
+44,Govt Boys M/School Kashaap,25.90699,62.20298,Combined,Balochistan,1,1,296,262
+60,Govt Girls H/School Dannuk (Female),25.9967,62.98458,Female,Balochistan,0,2,0,831
+36,Govt Boys P/School Rideeg,26.0961,61.84707,Combined,Balochistan,2,2,498,427
+41,Govt Boys M/School Goburd,26.10248,62.06752,Combined,Balochistan,2,2,675,525
+34,Govt Boys P/School Mulla Chaat,26.10453,62.02839,Combined,Balochistan,2,1,663,488
+40,Govt Boys P/School Hozai,26.11118,62.049,Combined,Balochistan,2,2,720,548
+42,Govt Boys M/School Gawak,26.11155,62.01704,Combined,Balochistan,2,2,577,452
+39,Govt Girls P/School Gayab(Female),26.11355,62.03421,Female,Balochistan,0,4,0,1343
+38,Govt Boys P/School Gayab,26.11388,62.03411,Male,Balochistan,4,0,1708,0
+26,Govt: Boys H/School Suroo,26.11473,62.03044,Combined,Balochistan,2,2,932,678
+31,Govt Girls P/School Balochabad (Female),26.11697,62.02888,Female,Balochistan,0,2,0,750
+27,Govt: Boys P/School Libnaan,26.11737,62.01762,Combined,Balochistan,2,2,836,625
+33,Govt Girls H/School Bullo(Female),26.12077,62.02802,Female,Balochistan,0,4,0,1475
+28,Govt: Boys P/School Nokhan/Kasano,26.12792,62.38104,Combined,Balochistan,2,2,879,675
+29,Govt Boys P/School Jalalabad,26.13333,61.98967,Combined,Balochistan,2,2,568,449
+32,Govt Boys H/School Bullo(Male),26.14723,62.01759,Male,Balochistan,4,0,1288,0
+35,Govt Boys P/School Jath Joe,26.16037,61.99797,Combined,Balochistan,2,1,465,264

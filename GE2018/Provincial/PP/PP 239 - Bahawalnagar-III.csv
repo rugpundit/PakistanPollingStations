@@ -1,0 +1,146 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+111,Govt. Primary School Rum Wali       (Combined)    *P,29.583182791563054,73.2517606129073,Combined,Punjab,2,1,1103,507
+109,Govt. High School Raju Wala        (Male)    *P,29.611603119039877,73.27980364114072,Male,Punjab,2,0,1196,0
+108,Govt. Girls Model Primary School Mahmood Pura            (Combined)    *P,29.61210985704317,73.21356226037332,Combined,Punjab,2,1,936,653
+110,Basic Health Centre Raju Wala        (Female)    *P,29.615191129170615,73.27754292428584,Female,Punjab,0,2,0,662
+107,Govt. Primary School Bhawan Shah           (Combined)    *P,29.642221642381624,73.29441475563374,Combined,Punjab,2,1,754,510
+106,Govt. Primary School Bhawan Shah           (Combined)    *P,29.642221642381624,73.2944447556337,Combined,Punjab,1,1,543,354
+114,Govt. Boys High School Ghulab Ali Rati Rampura        (Combined)    *P,29.6709271019152,73.27400890033351,Combined,Punjab,2,1,793,534
+115,Govt. Boys High School Ghulab Ali Rati Rampura        (Combined)    *P,29.6709271019152,73.2740389003335,Combined,Punjab,1,1,503,369
+112,Govt. Girls Middle School Ghulab Ali Teku Rampura     (Female)    *P,29.676898741393796,73.2712628748604,Female,Punjab,0,2,0,974
+116,Basic Health Unit Ghulab Ali     (Female)    *P,29.690661052323495,73.2695499599107,Female,Punjab,0,2,0,1011
+117,Basic Health Unit Ghulab Ali     (Male)    *P,29.690661052323495,73.2695799599107,Male,Punjab,3,0,1553,0
+113,Basic Health Centre Ghulab Ali         (Male)    *P,29.690668963825573,73.26956779273677,Male,Punjab,3,0,1286,0
+118,Govt. Primary School Bajik      (Combined)    *P,29.704466769767755,73.27140340400115,Combined,Punjab,1,1,672,447
+119,Govt. Primary School Bajik      (Combined)    *P,29.704466769767755,73.2714334040011,Combined,Punjab,1,1,893,701
+123,Govt. Boys Middle School Toba Rehman Shah          (Combined)    *P,29.737657922603464,73.314084264079,Combined,Punjab,2,2,1074,764
+69,Govt. Primary School Basti Kokarian Wali     (Male)    *P,29.74209868855329,73.23144470348541,Male,Punjab,4,0,1905,0
+70,Govt. Primary School Basti Akoka Mohallah Hiji Sheney Khan     (Female)    *P,29.746283575166856,73.23819692731107,Female,Punjab,0,3,0,1371
+121,Govt. Girls High School Soondha  (Combined)    *P,29.74722,73.29144,Combined,Punjab,2,2,1053,757
+120,Boys High School Soondha Part-II            (Combined)    *P,29.747798481395233,73.29733312043712,Combined,Punjab,2,1,734,509
+122,Govt. Boys High School Soondha Part-I        (Combined)    *P,29.747810719819455,73.29731041307242,Combined,Punjab,1,1,595,444
+74,Govt. Girls High School Doonga Boonga Middle Portion      (Female)    *P,29.750974464964536,73.24392945609924,Female,Punjab,0,3,0,1251
+75,Govt. Girls High School Doonga Boonga Portion High      (Male)    *P,29.753619805231278,73.2392645588837,Male,Punjab,3,0,1592,0
+71,Rural Health Center Doonga Bunnga       (Female)    *P,29.753639863866397,73.2446428751192,Female,Punjab,0,3,0,1544
+76,Govt. Girls Higher Secondary School Donga Bonga     (Female)    *P,29.75365382322612,73.23933671922697,Female,Punjab,0,2,0,1182
+72,Rural Health Centre Doonga Bunga      (Male)    *P,29.753666502936426,73.24463658088528,Male,Punjab,2,0,1202,0
+73,Rural Health Centre Doonga Bunga      (Male)    *P,29.753666502936426,73.2446665808853,Male,Punjab,2,0,955,0
+77,Govt. Girls Higher Secondary School Donga Bonga      (Male)    *P,29.7536767046799,73.2392915974703,Male,Punjab,3,0,1518,0
+78,Govt. Higher Secondary School Doonga Bunga       (Male)    *P,29.753683432361377,73.23765514996003,Male,Punjab,2,0,1073,0
+79,Govt. Higher Secondary School Doonga Bunga       (Male)    *P,29.753683432361377,73.23768514996,Male,Punjab,2,0,1052,0
+80,Govt. Higher Secondary School Doonga Bunga       (Female)    *P,29.753687064908057,73.23764188932427,Female,Punjab,0,3,0,1542
+138,Govt Boys primary  School Sundar Bishnoian        (Combined)    *P,29.76108032181039,73.31408392818234,Combined,Punjab,1,1,388,251
+144,Al-Khair Public School Chak Bahma Hans (Combined)    *P,29.76138,73.31931,Combined,Punjab,1,1,648,454
+127,Govt. Girls Elementary  School Dinan Bashnoian            (Combined)    *P,29.7660537737799,73.26378486036965,Combined,Punjab,2,1,911,666
+126,Govt. Boys Middle School Dinan Wala       (Combined)    *P,29.76813823506369,73.26528043060485,Combined,Punjab,2,1,942,726
+137,Govt Boys Primary  School Tara Jat        (Combined)    *P,29.788793494073282,73.3074834105044,Combined,Punjab,1,1,651,437
+143,Govt. Girls Primary School  Kat Dial Wali (Combined)  *P,29.79647,73.25188,Combined,Punjab,2,2,1185,814
+125,Govt. Girls Primary School Khiraj Pura          (Female)    *P,29.79904934282406,73.25367412617275,Female,Punjab,0,3,0,1296
+124,Govt. Boys Primary School Khiraj Pura       (Male)    *P,29.79912095338532,73.25381287809029,Male,Punjab,4,0,1923,0
+142,Govt. Boys High School Ram Pura         (Male)    *P,29.81108125778668,73.28702291835573,Male,Punjab,2,0,367,0
+146,Govt. Girls Elementary School Korian wali       (Combined)    *P,29.811549137135763,73.33054138576485,Combined,Punjab,1,1,517,455
+145,Govt. Boys Primary School Korian wali           (Combined)    *P,29.81259044576907,73.32894678344023,Combined,Punjab,1,1,671,499
+140,Govt. Girls Elementary School Ram Pura          (Female)    *P,29.813640968272537,73.31433456748545,Female,Punjab,0,3,0,1533
+141,Govt. Boys High School Ram Pura         (Male)    *P,29.815587521562957,73.30819949655749,Male,Punjab,4,0,1756,0
+130,Govt.  Middle boys School Sawi Wala         (Male)    *P,29.842934254348425,73.2485995343401,Male,Punjab,2,0,1263,0
+129,Govt Girls Middle School Swai wala            (Female)    *P,29.843967340768227,73.24513171858135,Female,Punjab,0,2,0,1023
+139,Govt Boys primary  School Bakhu Shah          (Combined)    *P,29.847669687128036,73.33818409418589,Combined,Punjab,2,1,746,479
+131,Govt. Boys Primary School Jagga Suntika        (Combined)    *P,29.851061820416582,73.286807845853,Combined,Punjab,2,1,893,748
+133,Govt Boys High school Dhani Mani Ram        (Combined)    *P,29.865731327841,73.25007870189201,Combined,Punjab,2,1,845,578
+134,Basic Health Unit Markaz Center kot Hamraj       (Combined)    *P,29.866516961169438,73.25211405793262,Combined,Punjab,2,2,948,726
+132,Govt. Girls primary school kot sher Muhammad      (Combined)    *P,29.874811186100924,73.28129019076289,Combined,Punjab,2,1,779,553
+101,Govt. Boys primary school Malik Pura       (Combined)    *P,29.884756246217318,73.3359414499884,Combined,Punjab,1,1,423,395
+102,Govt. Boys primary school Malik Pura       (Combined)    *P,29.884756246217318,73.3359714499884,Combined,Punjab,2,1,726,501
+135,Govt. Boys Primary School Sukh Rampura          (Combined)    *P,29.887681197217937,73.29490780300739,Combined,Punjab,2,1,840,563
+136,Govt. Boys high School chak Ghumana(Talia)      (Combined)    *P,29.897456363215404,73.2816065174703,Combined,Punjab,2,2,832,774
+99,Govt. Girls Model primary School Girdari Wala Sharki Goro Sar           (Male)    *P,29.90759877343461,73.36754725101994,Male,Punjab,2,0,1168,0
+100,Govt. Girls Model primary School Girdari Wala Sharki Goro Sar           (Female)    *P,29.90759877343461,73.3675772510199,Female,Punjab,0,2,0,1000
+128,Govt. Boys Primary School Dhab Snateka       (Combined)    *P,29.909587339905013,73.25276752336904,Combined,Punjab,2,2,1014,945
+104,Govt. Boys High School Bala Arain      (Combined)    *P,29.91041372108611,73.35369202933227,Combined,Punjab,2,1,834,651
+105,Govt. Girls Model High  School Bala Arian        (Combined)    *P,29.91052473176,73.35226067530947,Combined,Punjab,2,2,832,698
+103,Govt. Girls Primary School  Mehmooda Jhudheka    (Combined)    *P,29.918132021072008,73.33214111140194,Combined,Punjab,2,2,1091,852
+85,Govt. Boys Primary School Chak Nawas Pura   Basti Jeto    (Combined)    *P,29.929221254061915,73.21351628789725,Combined,Punjab,1,1,630,424
+84,Govt. Boys Middle School Bairwala      (Combined)    *P,29.93390529502527,73.2529130315644,Combined,Punjab,2,1,789,613
+87,Govt. Girls Primary School Rehman Tughera       (Combined)    *P,29.94071902510582,73.28198617916105,Combined,Punjab,2,2,1173,838
+94,Govt. Boys Middle School Kot Fatteh Muhammad Shah        (Male)    *P,29.94339822617042,73.37514473891747,Male,Punjab,2,0,1262,0
+95,Govt. Boys Middle School Kot Fatteh Muhammad Shah        (Male)    *P,29.94339822617042,73.3751747389175,Male,Punjab,2,0,960,0
+92,Govt. Comprehensive High School- Bahawalnagar Part-II     (Female)    *P,29.943694265258504,73.37161149999896,Female,Punjab,0,3,0,1352
+93,Govt. Girls Primary School  Kot Fateeh Muhammad Shah        (Female)    *P,29.943694265258504,73.371641499999,Female,Punjab,0,3,0,1593
+83,Govt. Girls High School Hafizwala    (Combined)    *P,29.949477809056145,73.23247640447646,Combined,Punjab,2,2,980,747
+96,Govt. Girls Middle School Lakhmir Dhduddi    (Combined)    *P,29.95143861605752,73.33796285194916,Combined,Punjab,1,1,693,514
+97,Govt. Girls Middle School Lakhmir Dhduddi    (Combined)    *P,29.95143861605752,73.3379928519492,Combined,Punjab,1,1,531,346
+98,Govt. Girls middle School kat Rode Wali (Kot Amin Khan)      (Combined)    *P,29.968866241082598,73.3076737380725,Combined,Punjab,1,1,592,452
+88,Govt. Girls Primary School Shah Muhammad Wali Islam Pura     (Combined)    *P,29.97090903110467,73.2416901856815,Combined,Punjab,1,1,463,412
+89,Govt. Girls Primary School Shah Muhammad Wali Islam Pura     (Combined)    *P,29.97090903110467,73.2417201856815,Combined,Punjab,1,1,713,519
+90,Govt. Middle School Farooqabad Sharki Haroonabad Road      (Combined)    *P,29.971378697158755,73.25366156967804,Combined,Punjab,2,1,713,527
+36,Office Agriculture Haroonabad Road( Male)  **T  (Male)    *P,29.97388012131362,73.2535342544895,Male,Punjab,3,0,1703,0
+86,Govt. Girls Primary School Basti Nazar Kot Chughatta Arain       (Combined)    *P,29.974492698657354,73.26316646831842,Combined,Punjab,2,1,861,654
+38,Govt. Elementary School Girls Model Town BWN       (Female)    *P,29.977342197846667,73.2542959191051,Female,Punjab,0,3,0,1478
+39,Govt. Elementary School Boys Model Town BWN      (Male)    *P,29.9775415486427,73.25844973650939,Male,Punjab,3,0,1316,0
+34,Punjab Samall Industries (Qaleen Bafi) Disposal Road B.W.N    (Male)    *P,29.987163007287734,73.25440165763715,Male,Punjab,2,0,1046,0
+42,Govt. Boys High School Aziz-e-Millat (M/ Portion) B.W.N      (Male)    *P,29.989705549723656,73.25370787783967,Male,Punjab,3,0,1405,0
+37,Govt. Aziz-e-Millat High School Bahwalnagar        (Female)    *P,29.989714969774134,73.25360915049683,Female,Punjab,0,2,0,1033
+35,Govt. Aziz-e-Millat High School B.W.N (P/ Portion)     (Female)    *P,29.989728752939264,73.25363750489123,Female,Punjab,0,2,0,863
+43,Govt. Boys High School Aziz-e-Millat (H/ Portion) B.W.N      (Female)    *P,29.98973970593949,73.25363696316968,Female,Punjab,0,2,0,1124
+46,Govt. High School Aziz Millat (Primary Portion) Bahawalnagar-I    (Female)    *P,29.98975198067486,73.25366939011691,Female,Punjab,0,3,0,1530
+47,Govt. High School Aziz Millat Bahawalnagar     (Male)    *P,29.98975198067486,73.2536993901169,Male,Punjab,4,0,1854,0
+91,Govt. Comprehensive High School- Bahawalnagar          Part-I        (Male)    *P,29.99109393953479,73.27333113765792,Male,Punjab,4,0,1679,0
+45,Govt. Degree College for Women - -II      (Female)    *P,29.991665887938854,73.25062274616215,Female,Punjab,0,2,0,1043
+40,Govt. Degree College for Women -I      (Male)    *P,29.99169584043958,73.25058807664163,Male,Punjab,3,0,1310,0
+41,Govt. Degree College for Women -I      (Female)    *P,29.99169584043958,73.2506180766416,Female,Punjab,0,2,0,1005
+44,Govt. Degree College for Women - -II    (Male)    *P,29.991712461189866,73.25062053802552,Male,Punjab,3,0,1261,0
+20,Office Sui Gas Madina Town  **T  (Female)    *P,29.992617632620004,73.24754646413672,Female,Punjab,0,3,0,1653
+28,Commercial College Portion III      (Female)    *P,29.993836272420292,73.2574437004173,Female,Punjab,0,3,0,1566
+29,Commercial College Portion III      (Female)    *P,29.993836272420292,73.2574737004173,Female,Punjab,0,2,0,996
+32,Commercial  College Portion-I      (Male)    *P,29.99386009376658,73.25742266148355,Male,Punjab,3,0,1514,0
+30,Commercial  College Portion II      (Male)    *P,29.993874340314786,73.25741928750647,Male,Punjab,2,0,1187,0
+31,Commercial  College Portion II      (Male)    *P,29.993874340314786,73.2574492875065,Male,Punjab,4,0,1843,0
+60,MC Primary School Phowara Chowk      (Female)    *P,29.99393330759573,73.25405485570074,Female,Punjab,0,3,0,1559
+18,PIDA Authority Office Chishtian Road  **T  (Male)    *P,29.994588503091666,73.24424479409248,Male,Punjab,2,0,1088,0
+19,PIDA Authority Office Chishtian Road  **T  (Male)    *P,29.994588503091666,73.2442747940925,Male,Punjab,2,0,973,0
+27,Govt. Degree College BWN Portion-I     (Female)    *P,29.994612394861033,73.26501042023634,Female,Punjab,0,3,0,1536
+26,Govt. Degree College BWN Portion-II     (Male)    *P,29.994619315438744,73.26501852970361,Male,Punjab,4,0,1694,0
+21,Office of the Assistant Director Fisheries- Lawyers Colony Bahawalnagar North Side  **T  (Female)    *P,29.994823475188397,73.24566710609571,Female,Punjab,0,3,0,1488
+16,Govt.Boys High School Wokala Colony    (Female)    *P,29.99531389546595,73.24521040064225,Female,Punjab,0,3,0,1123
+17,Govt.Boys High School Wokala Colony    (Male)    *P,29.995351327833927,73.24526451949173,Male,Punjab,3,0,1473,0
+15,Govt. M.C. Boys High School Wokla Colony BAHAWALNAGAR     (Female)    *P,29.99550073308484,73.24535879636844,Female,Punjab,0,2,0,946
+12,M.C.Girls Middle School Wokala Colony    (Male)    *P,29.995872875895564,73.24630310722073,Male,Punjab,2,0,806,0
+13,M.C.Girls Middle School Wokala Colony     (Male)    *P,29.995872875895564,73.2463331072207,Male,Punjab,2,0,1203,0
+14,M.C.Girls Middle School Wokala Colony     (Male)    *P,29.99604409545672,73.24622852917354,Male,Punjab,3,0,1832,0
+82,Govt. Girls Primary School Noor Pura Mouza Attar Singh Sani      (Combined)    *P,29.99677,73.36042,Combined,Punjab,2,1,882,583
+62,Govt. Boys City High School BWN ( Primary Portion)       (Male)    *P,29.996902196092073,73.25670530886735,Male,Punjab,4,0,1951,0
+23,Govt. Girls Model High School Bahawal Nagar  Part-I    (Female)    *P,29.99693513305075,73.26068085474998,Female,Punjab,0,4,0,1842
+24,Govt. Girls Model High School Bahawal Nagar  Part-II    (Male)    *P,29.99693513305075,73.26071085475,Male,Punjab,2,0,1118,0
+25,Govt. Girls Model High School Bahawal Nagar  Part-II    (Male)    *P,29.99693513305075,73.26074085475,Male,Punjab,2,0,861,0
+61,Govt. Model High School Girls  BWN  Part-II    (Combined)    *P,29.996957842633453,73.26067441043831,Combined,Punjab,1,1,304,245
+66,Govt. Boys City High School (High Portion)     (Male)    *P,29.997233679470554,73.25623977075108,Male,Punjab,2,0,814,0
+67,Govt. Boys City High School (High Portion)     (Male)    *P,29.997233679470554,73.2562697707511,Male,Punjab,3,0,1341,0
+68,Govt. Boys City High School (Middle Portion)  Female    (Female)    *P,29.99727828468313,73.25623563982282,Female,Punjab,0,4,0,1768
+64,Govt. Girls Middle School Muslim Colony     (Female)    *P,29.99854323048544,73.26296498323912,Female,Punjab,0,3,0,1469
+63,Distric Public School Bahawalnagar     (Male)    *P,30.00085835305863,73.2601891099378,Male,Punjab,3,0,1670,0
+8,Railway Rest House part-1     (Male)    *P,30.001811837194893,73.2479921198535,Male,Punjab,2,0,919,0
+6,Railway Rest House Bahawalnagar Part-II     (Male)    *P,30.001841310823977,73.2479769773798,Male,Punjab,3,0,1679,0
+9,Govt. Girls High School Regran Basti (Primary portion) Female     (Female)    *P,30.002243578913678,73.24643842291398,Female,Punjab,0,2,0,761
+7,Govt. Girls High School Regran Basti      (Female)    *P,30.00228602096854,73.24606491716419,Female,Punjab,0,3,0,1302
+11,Office Assistant Engineer Part-D BWN.     (Male)    *P,30.002477919299423,73.24942614128095,Male,Punjab,2,0,1111,0
+10,Office Assistant Engineer Part-D BWN.     (Male)    *P,30.002477919299423,73.2494561412809,Male,Punjab,2,0,1026,0
+5,Office Assistant Engineer Railway (Part-II)      (Female)    *P,30.002665528155823,73.24936087576565,Female,Punjab,0,3,0,1664
+55,Office Executive Engineer wapda Khadimabad Colony     (Male)    *P,30.0044955077294,73.26362521076354,Male,Punjab,2,0,1058,0
+56,Office Executive Engineer wapda Khadimabad Colony     (Male)    *P,30.0044955077294,73.2636552107635,Male,Punjab,2,0,1284,0
+54,Govt. Quadi-e-Millat High School     (Female)    *P,30.005914355936927,73.26505461658114,Female,Punjab,0,4,0,1938
+65,Hayder Stedium Khadimabad Colony BWN  (Combined)    *P,30.006662864687538,73.2668416397934,Combined,Punjab,2,2,829,718
+2,Govt Boys Middle School Faisal colony       (Male)    *P,30.007399905026755,73.24865427446296,Male,Punjab,2,0,508,0
+3,Govt Boys Middle School Faisal colony       (Male)    *P,30.007399905026755,73.248684274463,Male,Punjab,4,0,2159,0
+49,Govt. Model High School Canal Colony BWN Part-II     (Male)    *P,30.007436300057492,73.2592910868882,Male,Punjab,2,0,1047,0
+50,Govt. Model High School Canal Colony BWN Part-II     (Male)    *P,30.007436300057492,73.2593210868882,Male,Punjab,2,0,926,0
+51,Govt. Model High School Canal Colony BWN Part-I      (Male)    *P,30.007462792331612,73.2593657306604,Male,Punjab,3,0,1558,0
+48,Govt. Girls Primary School Nazir Colony BWN     (Female)    *P,30.008392794056196,73.26265269868497,Female,Punjab,0,3,0,1676
+52,Govt. Girls High School Canal Colony BWN ( Female)    (Female)    *P,30.00884779947896,73.25851414630331,Female,Punjab,0,3,0,1352
+4,Office DEO Female BWN     (Female)    *P,30.009596705865075,73.25576097495582,Female,Punjab,0,4,0,2165
+57,Rest House Zila Council Bahawalnagar     (Male)    *P,30.010687960205853,73.25660914455443,Male,Punjab,4,0,1767,0
+81,Govt. Boys English Medium Primary School Samand Singh Chak Sarwar    (Combined)    *P,30.0115375554855,73.30410673681342,Combined,Punjab,2,2,1009,702
+58,Govt. Boys Primary School Tamir-e-Now Islamnagar B.W.N    (Female)    *P,30.01238760477795,73.2587144134742,Female,Punjab,0,3,0,1452
+1,OFFICE OF ASSISTANT DIRECTOR LABOUR BWN     (Combined)    *P,30.013625508532073,73.25415995003057,Combined,Punjab,1,1,270,261
+53,Govt. Girls Primary School Basti Khichian Wali Islam Nagar (Combined)  *P,30.01753,73.25789,Combined,Punjab,2,2,979,788
+148,Govt. Girls Primary School Shera Chitra Mauza Muhammad Pur  (Combined)  *P,30.03392,73.2871,Combined,Punjab,2,2,1033,766
+147,Govt. Girls Primary School Basti Muhammad Pur Rafique Kot  (Combined)  *P,30.05147,73.30719,Combined,Punjab,2,2,917,686

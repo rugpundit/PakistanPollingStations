@@ -1,0 +1,4 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+23,Govt H/S Miskan Kalat (Combined),28.48409,65.48906,Combined,Balochistan,1,1,375,324
+21,Govt M/S Killi Nootani (Combined),28.52606,65.46334,Combined,Balochistan,1,1,304,250
+14,Govt Boys Primary School Baloch Abad Dary form (Combined),28.57826,65.43891,Combined,Balochistan,1,1,268,249

@@ -1,0 +1,105 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+133,Govt. Primary School Gul Gahoo (Male) (P),25.893256171822813,69.1854620760204,Male,Sindh,2,0,845,0
+130,GPS Shaikh Muhammad Wassan (Male),25.92491731105444,69.19581967466746,Male,Sindh,3,0,1147,0
+126,GMS 18 Mile       (Male) (P),25.931538858783888,69.16494893915139,Male,Sindh,3,0,919,0
+127,GMS 18 Mile       (Male) (P),25.931692280716838,69.16525830738847,Male,Sindh,4,0,1160,0
+121,GHS Pir Bux Rajar (Comb) (T),25.940082841325452,69.07869647982373,Combined,Sindh,2,2,906,761
+123,Govt. Primary School Ghulam Mustafa Rajar (Female) (P),25.94104231936403,69.07904248632516,Female,Sindh,0,3,0,910
+128,Govt Primary School Muhammad Hassan Chandio (Female) (T),25.94251810138778,69.15801809917953,Female,Sindh,0,2,0,772
+129,Govt Primary School Muhammad Hassan Chandio (Female) (T),25.94251810138778,69.1580480991795,Female,Sindh,0,3,0,893
+67,Govt. Primary School Misri Faqir Rajar (Comb) (T) (Partially improvised).,25.948322519901364,69.25374644482561,Combined,Sindh,2,2,549,525
+124,Govt. Primary School Bagh Khan Jatoi (Male) (T),25.953915865641456,69.05963121061849,Male,Sindh,3,0,1097,0
+125,GPS Din Muhammad Chandio (Comb) (P) (Partially improvised).,25.95491015030058,69.13824045208476,Combined,Sindh,2,2,606,523
+66,Govt. Primary School Ismail Rajar (Comb) (P),25.955902213660906,69.2593909563987,Combined,Sindh,2,2,631,519
+64,Govt. Middle School Dhani Parto Rajpar (Male) (P) (Partially improvised).,25.95764116207344,69.10837724550592,Male,Sindh,2,0,902,0
+72,Govt. Primary School Rakhail Rajar (Comb) (P) (Partially improvised).,25.964575299518827,69.26566920414348,Combined,Sindh,2,2,494,426
+122,GPS Yousif Muhajir (Comb) (Partially improvised).,25.968082923572087,69.06661399199636,Combined,Sindh,2,2,664,521
+75,GPS Haji Esso Jatoi (Comb) (T) (Partially improvised).,25.970253823866948,69.03964195065295,Combined,Sindh,1,1,437,368
+68,Govt. Primary School Haji Pir Bux Rajar (Male) (P),25.988267225013434,69.23823831593928,Male,Sindh,2,0,811,0
+69,Govt. Primary School Haji Pir Bux Rajar (Female) (P),25.988267225013434,69.2382683159393,Female,Sindh,0,2,0,720
+71,BHU Tando Mitha Khan (P) @ GPS Tando Mitha Khan.,25.991397365291885,69.20357587134806,Combined,Sindh,2,2,729,620
+35,Health Center Dilbar Nizamani (Comb) (T),26.008228116352775,68.93390507122923,Combined,Sindh,2,2,768,648
+36,Govt Primary School Dilbar Khan Nizamani (T),26.00852192489013,68.93542722918674,Combined,Sindh,1,1,419,390
+70,Govt. Primary School Syed Ghulam Nabi Shah (Comb) (T) (Partially improvised).,26.01227236968623,69.17724991008036,Combined,Sindh,1,1,267,222
+43,Govt. Primary School Pir Shahib Ji Landhi (Comb) (P),26.017580821305426,69.00194062939218,Combined,Sindh,2,1,462,446
+13,Govt. Primary School Police Line Sanghar (Male)  (P),26.037253526966083,68.95069527581374,Male,Sindh,4,0,1708,0
+12,Govt. Girls Primary School Shahmir Khan Panhwar (Female) (T),26.03896566067881,68.95785997643881,Female,Sindh,0,4,0,1130
+11,Govt. Primary School Shahmir Khan Panhwar  (Male) (P),26.039158257005823,68.95795680606798,Male,Sindh,4,0,1249,0
+15,Govt. Girls College Sanghar (Male) (P),26.041066179946412,68.94459353002551,Male,Sindh,3,0,822,0
+62,Govt. Primary School Nou Kot (Male) (T),26.04121665570696,69.12339153067492,Male,Sindh,3,0,1211,0
+14,Govt. Primary School Panhwar Colony (Female) (T),26.04128769444522,68.95090820237736,Female,Sindh,0,4,0,1523
+20,Govt. Middle School Police Line Sanghar (Female) (T),26.04144032975308,68.9458949637759,Female,Sindh,0,3,0,770
+9,Govt. Double Section Sanghar (Female) (P),26.041863501526695,68.94979862730074,Female,Sindh,0,4,0,1657
+10,Veterinary Hospital (Male) (P) (Partially improvised).,26.042221280073136,68.9495985345863,Male,Sindh,4,0,1859,0
+59,Govt. Primary School Taj Muhammad Rajar (Female) (P) (Fully improvised).,26.043181890803304,69.2165304667963,Female,Sindh,0,3,0,1095
+6,Govt. Girls Primary School Nizamani Paro (Female) (P),26.04334965242806,68.95710483865825,Female,Sindh,0,4,0,2542
+31,Govt. Primary School Kachary Colony Sanghar (Male) (T),26.044757215120963,68.93490466873125,Male,Sindh,3,0,1071,0
+7,Community Cetnre Nizamani Paro Sanghar (Male) (T)- (Partially improivsed).,26.044847564421826,68.9586789546254,Male,Sindh,4,0,1588,0
+4,Govt. Primary School Nizamani Paro (Male),26.044896094284766,68.95503496579002,Male,Sindh,3,0,840,0
+29,Govt High School Sanghar (Female) (P),26.04495605307867,68.94667778711519,Female,Sindh,0,4,0,1204
+8,GPS SSSS Nizamani Para Sanghar (Female) (T),26.045561880758836,68.95548531427367,Female,Sindh,0,4,0,1506
+27,Govt. Girls Primary Main Urdu School Near Jamia Masjid (Female) (P),26.04587557763624,68.94930005316004,Female,Sindh,0,3,0,956
+26,Govt. Primary School Town No: 01 Sanghar (Male) (T),26.04642548772395,68.94937751786375,Male,Sindh,4,0,1096,0
+5,Govt.Grils Middle School Nizamani Paro (T) @ GGPS Niazamani Paro- Sanghar,26.0464832,68.9403034,Male,Sindh,4,0,2293,0
+32,Govt. Girls Primary School Al Mansoora Colony  (Female) (P) (Partially improvised).,26.046777578577945,68.93735065253034,Female,Sindh,0,4,0,1577
+30,Govt. Primary School Al Mansoora Colony Boys Sanghar (Male) (P),26.04746393240569,68.93620329821314,Male,Sindh,3,0,877,0
+24,Govt. Primary School M.I.Islam No.2 Old Meet Market Sanghar (Male) (P)- (Partially improvised).,26.048151816231613,68.95090612937723,Male,Sindh,2,0,683,0
+25,Govt. Primary School Town No: 02 Sanghar (Female) (T),26.04860658774753,68.94997987346619,Female,Sindh,0,4,0,1634
+3,Govt. High School Khaton - e Fatima Sanghar (Male),26.048953666925737,68.96001273543995,Male,Sindh,4,0,1090,0
+2,Govt. High School Khaton - e Fatima Sanghar (Male) (P),26.049169311032635,68.96083551162438,Male,Sindh,3,0,820,0
+28,Govt. High School Sanghar (Male) (P),26.04938200949845,68.94197998292219,Male,Sindh,4,0,1259,0
+46,Govt. Primary School Mir Khan Behan (Male)  (T) (Partially improvised).,26.04979907066602,69.07369918128704,Male,Sindh,2,0,1046,0
+1,Agriculture Work Shop (Female) (P) (Partially improvised),26.05122210992675,68.95995830604643,Female,Sindh,0,4,0,1683
+99,GPS Chak No 50 (Male) (T) (Partially improvised).,26.0512597,68.9418505,Male,Sindh,4,0,1052,0
+103,Govt. Primary School Allah Dino Behan (Male) (P),26.0512597,68.9418805,Male,Sindh,4,0,1388,0
+104,Govt. Primary School Allah Dino Behan (Female) (P),26.0512597,68.9419105,Female,Sindh,0,4,0,1264
+61,Govt. Primary School Shah Mardan Shah-2 (Female) (P),26.0512677,68.9420195,Female,Sindh,0,4,0,1042
+63,Govt. Primary School Shah Mardan Shah-1 (Comb) (P),26.0512677,68.9420495,Combined,Sindh,2,2,679,536
+54,Govt. Primary School Choudhary Barkat Ali (Female) (P),26.052542804575015,69.09450369745166,Female,Sindh,0,3,0,1642
+52,Govt. High School Choudhary Barkat Ali (Male) (P),26.053066515536507,69.09488182684127,Male,Sindh,4,0,1279,0
+53,Govt. High School Choudhary Barkat Ali (Male) (P),26.053066515536507,69.0949118268413,Male,Sindh,2,0,817,0
+45,Govt-Primry School Kot Nawab (Comb) (P) (Partially improvised).,26.055864140482928,69.04077161421421,Combined,Sindh,2,1,587,435
+58,BHU Chotyaroon (T),26.05694076787165,69.19202165529428,Female,Sindh,0,3,0,931
+55,Govt. Primary School Chotyarion (Male) (P),26.057122313019875,69.1941305581895,Male,Sindh,3,0,1116,0
+56,Govt High School. Chotyaroon (T),26.057122313019875,69.1941605581895,Male,Sindh,3,0,1127,0
+57,Govt. Girls Middle School Chotyarion (Female) (P),26.057688430121505,69.19330723592608,Female,Sindh,0,3,0,1120
+60,Govt. Primary School Hesab Khan Rajar (Male) (T),26.058391889556166,69.22175215697624,Male,Sindh,4,0,1105,0
+41,GPS Abdul Karim Leghari (Male) (T),26.060138824896917,68.97773366731367,Male,Sindh,3,0,1038,0
+38,Govt. Primary School Mian (Female) (P) (Partially improvised).,26.061768057602247,68.99048714510364,Female,Sindh,0,4,0,1501
+37,Union Council Office Mian (Male) (P) (Partially improvised).,26.06198138609238,68.99052293268626,Male,Sindh,4,0,1610,0
+48,Govt. Primary School Taj Muhammad Mari (Male) (P) (Fully improvised).,26.065508221751188,69.0221050425329,Male,Sindh,4,0,1465,0
+39,G.H.School Bakhoro (Male) (P),26.06723000298145,69.00533741596603,Male,Sindh,2,0,824,0
+76,Govt. Primary School Chak No. 11 (Com) (P),26.085465988617365,68.92794595569883,Combined,Sindh,2,1,497,392
+79,Govt. Primary School Chak No. 10 (Female) (P),26.08845677312076,68.95976641361167,Female,Sindh,0,4,0,1283
+80,Govt. Girls Primary School Chak No. 10 (male) (P),26.088597814367617,68.96119606153209,Male,Sindh,4,0,1656,0
+50,Govt. Primary School Bakar (Male) (P),26.090644496747608,69.15211716493535,Male,Sindh,3,0,1104,0
+78,Govt. Grils Primary School Chak No. 8 (Male) (T),26.10555983934082,68.95536958268474,Male,Sindh,4,0,1018,0
+77,Govt. Primary School Chak No. 8 (Female) (T),26.10613709863356,68.95618050418307,Female,Sindh,0,2,0,839
+87,Govt.Boys  Primary School Chak No.5 (Male) (P),26.11693873699582,68.89215523914446,Male,Sindh,4,0,1508,0
+88,Govt. Girls Primary School Chak No.5 (Female) (T),26.11737137424006,68.89014544366539,Female,Sindh,0,4,0,1175
+84,Govt. Girls High School Chak No. 3 (Female) (P),26.12194686882179,68.95428012142196,Female,Sindh,0,4,0,1178
+81,Govt. Primary School Chak No. 4 (Male) (P) (Partially improvised).,26.122462938478712,68.96821420964221,Male,Sindh,4,0,1840,0
+85,GBPS Chak No 2    (Comb) (T) (Partially improvised).,26.14388887516426,68.96024537388583,Combined,Sindh,2,2,699,559
+86,GGPS Chak No 2    (Comb) (T),26.14388887516426,68.9602753738858,Combined,Sindh,2,2,680,557
+90,Govt. Girls Primary School Chak No. 2 Pathan (Female) (P) (Partially improvised).,26.170103244021632,68.95762965671571,Female,Sindh,0,4,0,1080
+92,Govt.  Primary School Chak No.74 (Female) (T) (Partially improvised).,26.171588923762325,68.82204294650025,Female,Sindh,0,4,0,1286
+91,Govt. Boys Primary School Chak No.74 (Male) (P) (Partially improvised).,26.171737589945558,68.82208845763307,Male,Sindh,4,0,1782,0
+95,Govt. Primary School Gujri (Female) (P),26.188570638166386,68.96808765524172,Female,Sindh,0,4,0,1357
+94,Irrigation Inspection Bunglaw Gujri (Male) (P),26.189051051550674,68.96791923628044,Male,Sindh,4,0,1764,0
+98,GPS Chak No 67 (Comb) (T) (Partially improvised).,26.197203829416548,68.90426238971436,Combined,Sindh,3,1,619,394
+101,Govt. Primary School Chak No.63 (Male) (P),26.20120102678444,68.81773776360889,Male,Sindh,3,0,1039,0
+93,GPS Minhal Unar (Comb) (T) (Partially improvised).,26.22037072429134,68.96310689420929,Combined,Sindh,2,2,797,541
+96,Govt. Primary School Chak No. 57 (Male) (P),26.22191628213003,68.92817201831124,Male,Sindh,3,0,890,0
+97,Govt. Primary School Chak No. 57 (Female) (P),26.22191628213003,68.9282020183112,Female,Sindh,0,2,0,650
+117,Govt. Primary School Koro Khan Rind (Male) (P),26.264449376818135,68.96514296421165,Male,Sindh,3,0,1110,0
+106,Govt Primary School Chak No 41 Sanghar Workshop (Male) (T) (Partially improvised).,26.2711780630203,68.92916865546604,Male,Sindh,3,0,1040,0
+107,Govt. High School Chak  No. 41 Sanghar Workshop (Female) (P),26.271338502791856,68.92904546428372,Female,Sindh,0,4,0,1597
+114,GPS Chak No 33 (T) (Partially improvised).,26.29187802847559,68.85434065554388,Combined,Sindh,2,1,565,388
+115,Govt. Primary School Faqir Muhammad Bachal  (Comb) (P) (Partially improvised).,26.29393054236669,68.95521476996059,Combined,Sindh,2,2,587,600
+112,Govt. Primary School Chak No.32 (Comb) (P),26.302115919490554,68.83041313045736,Combined,Sindh,2,2,935,594
+113,GPS Chak No 20 (T) (Partially improvised).,26.32483170645306,68.91196608810448,Combined,Sindh,2,1,573,379
+116,Govt. Primary School Banko Khan Shar  (Comb) (T) (Partially improvised).,26.331345075913614,68.93229710775525,Combined,Sindh,2,2,669,531
+110,Govt. Primary School Malik Mehmood Chak No. 16 (Male) (P),26.34257737022402,68.8636214368038,Male,Sindh,3,0,1052,0
+108,Govt. Primary School Chak No. 97 (Zarya Khan Pathan) (Female) (P) (Partially improvised).,26.370458449251327,68.86162605252701,Female,Sindh,0,3,0,1091
+109,Govt. Primary School Karam Khan Godaro (Male) (T) (Partially improvised).,26.387008805313886,68.88218396123855,Male,Sindh,4,0,1583,0
+119,Govt. Middle School Head Jamrao (Comb) (P),26.426937443271548,68.87780578125358,Combined,Sindh,2,2,708,581

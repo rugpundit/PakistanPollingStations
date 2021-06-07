@@ -1,0 +1,107 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+48,Govt: Primary School No.2- Dheri Zardad- (Male),34.07635048314863,71.84087134623786,Male,KPK,3,0,995,0
+50,Govt: Girls Community Model  School- Shuja Abad- (Male),34.08021806092119,71.84070932543143,Male,KPK,2,0,1251,0
+56,Govt: Primary School- Turlandai Zherizardad( Female),34.08602725639867,71.82193182239435,Female,KPK,0,3,0,1383
+57,JICA Model School Turlandi (Female),34.08779,71.82968,Female,KPK,0,3,0,1435
+53,Govt: Primary School Stana Gul Kily Dheri Zardad (Female),34.08795,71.86342,Female,KPK,0,2,0,624
+27,Govt: Shaheed Shahoor Alam Higher Secondary School Nisatta- Polling Station No.I- (Male),34.09837328758979,71.80452671060169,Male,KPK,4,0,1967,0
+28,Govt: Shaheed Shahoor Alam Higher Secondary School Nisatta- Polling Station No.II- (Male),34.09837328758979,71.8045567106017,Male,KPK,3,0,1318,0
+32,Govt: Shaheed Shahoor Alam Higher Secondary School Nisatta- Polling Station No.III- (Male),34.09837328758979,71.8045867106017,Male,KPK,3,0,1153,0
+34,Govt: Shaheed Shahoor Alam Higher Secondary School Nisatta- Polling Station No.IV- (Male),34.09837328758979,71.8046167106017,Male,KPK,3,0,1167,0
+49,Govt: Primary School Yousaf Khan Talawo Dheri Zardad (Male),34.09969,71.87042,Male,KPK,4,0,1541,0
+36,Govt: Primary School Mulyan Nisatta (Male),34.10296,71.79345,Male,KPK,2,0,797,0
+38,Govt: Girls Primary School No.2-  Nisatta Dag Wall- Polling Station No.I (Female),34.10333824047434,71.79928085552089,Female,KPK,0,3,0,1584
+39,Govt: Girls Primary School No.2-  Nisatta Dag Wall- Polling Station No.II- (Female),34.10333824047434,71.7993108555209,Female,KPK,0,3,0,1434
+30,Govt Primary School BHU Nisatta Polling Staion  (Female),34.10497,71.80514,Female,KPK,0,3,0,1530
+29,Basic Health Unit Nisatta (Male),34.10498,71.80508,Male,KPK,3,0,1399,0
+61,Govt: High Secondary School Boobak- Polling Station No.II- (Male),34.10666018787601,71.85884109341796,Male,KPK,1,0,495,0
+60,Govt: High Secondary School Boobak- Polling Station No.I- (Male),34.10666018787601,71.858871093418,Male,KPK,3,0,1107,0
+47,Govt: Primary School Sheikh Abad Nisatta (Male),34.11074,71.81152,Male,KPK,3,0,951,0
+46,Govt: Girls Middle School Sheikh Abad Nisatta (Male),34.11118,71.81168,Male,KPK,4,0,1387,0
+63,Govt: Girls High School- Boobak- Polling Station No.I- (Female),34.11133533977241,71.86503107007367,Female,KPK,0,3,0,1399
+64,Govt: Primary School- Rahat Abad Nisatta- (Male),34.11424266006115,71.79527952891584,Male,KPK,3,0,1255,0
+62,Govt: Middle School Nazo Killy (Combined),34.12041,71.87965,Combined,KPK,2,1,576,440
+58,Govt: High School Aziz Abad (Male),34.12134858209463,71.86689289752194,Male,KPK,4,0,1889,0
+59,Govt: Girls Primary School Aziz Abad (Female),34.12772373874849,71.86776854246656,Female,KPK,0,3,0,1477
+138,Govt: Primary School No.3 Dosehra(Male),34.14593,71.90527,Male,KPK,2,0,539,0
+130,Govt: Middle School- Shah Dhand- PS No.I (Male),34.14923,71.86614,Male,KPK,3,0,1116,0
+131,Govt: Middle School Shah Dhand PS No.II(combined),34.14923,71.86617,Combined,KPK,2,2,776,584
+127,Govt: High School- Ibrahimzai- PS No.I (Male),34.14931,71.85249,Male,KPK,3,0,965,0
+128,Govt: High School Ibrahimzai PS No.II (Male),34.14931,71.85252,Male,KPK,2,0,912,0
+1,Basic Health Unit- Baz Mian Killi (Male),34.1512132444071,71.77406342872766,Male,KPK,3,0,1401,0
+66,Govt: Hayat Ullah Shaheed High School  Rajjar- Polling Station No.I- (Male),34.1527265,71.7473734,Male,KPK,3,0,1386,0
+67,Govt: Hayat Ullah Shaheed High School  Rajjar- Polling Station No.II- (Male),34.1527265,71.7474034,Male,KPK,2,0,1001,0
+69,Govt: Higher School No.2 Rajjar- Polling Station No.I- (Female),34.1527265,71.7474334,Female,KPK,0,2,0,1113
+70,Govt: Higher School No.2 Rajjar- Polling Station No.II- (Female),34.1527265,71.7474634,Female,KPK,0,3,0,1413
+72,Govt: Primary School No.1 Rajjar-Polling Station No.I- (Male),34.1527265,71.7474934,Male,KPK,3,0,1467,0
+73,Govt: Primary School No.1 Rajjar-Polling Station No.II- (Male),34.1527265,71.7475234,Male,KPK,4,0,1667,0
+77,Govt: Primary School- Angaar Koroona (Combined),34.1527265,71.7475534,Combined,KPK,2,2,1242,1035
+80,Govt: Regional Institute teacher of Education Female- Rajjar-Polling Station No.I (Male),34.1527265,71.7475834,Male,KPK,3,0,1317,0
+81,Govt: Regional Institute teacher of Education Female- Rajjar-Polling Station No.II (Male),34.1527265,71.7476134,Male,KPK,4,0,1668,0
+120,Govt: Primary School- Kuda Khel (Male),34.1535839,71.7337696,Male,KPK,4,0,1656,0
+121,Govt: Girls Community Model School- Koda Khel- (Female),34.1535839,71.7337996,Female,KPK,0,3,0,1226
+40,Govt: Primary School- Palosa Jadeed No.1- (Male),34.1535839,71.7338296,Male,KPK,4,0,1604,0
+21,Govt: Middle School- Dhab Banda Polling Station No.I (Male),34.1535839,71.7338596,Male,KPK,4,0,1688,0
+23,Basic Health Unit- Zarin Abad (Female),34.1535839,71.7338896,Female,KPK,0,3,0,1394
+25,Govt: Primary School- Zarin Abad(Male),34.1535839,71.7339196,Male,KPK,2,0,657,0
+26,Govt: Primary School- Dheray Koroona (Female),34.1535839,71.7339496,Female,KPK,0,2,0,537
+83,Govt: High School Wardaga- Polling Station No.I- (Female),34.1536892,71.7516439,Female,KPK,0,3,0,1595
+84,Govt: High School Wardaga- Polling Station No.II- (Female),34.1536892,71.7516739,Female,KPK,0,3,0,1483
+87,Govt: Girls High School Wardaga Polling Station No. 1 (Male),34.1536892,71.7517039,Male,KPK,4,0,1966,0
+88,Govt: Girls High School Wardaga Polling Station No. 2 (Male),34.1536892,71.7517339,Male,KPK,3,0,1080,0
+89,Govt: High School- Shakar Dhand (Male),34.1536892,71.7517639,Male,KPK,3,0,1312,0
+91,Govt: Girls Middle School- Hikmat Abad (Female),34.1536892,71.7517939,Female,KPK,0,3,0,1489
+132,Govt: Primary School- Shah Dhand (Female),34.1536892,71.7518239,Female,KPK,0,2,0,922
+44,Govt: Middle School Shah Pasand Killy (Male),34.1536892,71.7518539,Male,KPK,2,0,882,0
+45,Govt: Girls High School Shah Pasand Killy (Female),34.1536892,71.7518839,Female,KPK,0,3,0,1435
+115,Govt: Higher Secondary School Dargai- Polling Station No.I- (Male),34.1539562,71.7502508,Male,KPK,3,0,1238,0
+116,Govt: Higher Secondary School Dargai- Polling Station No.II- (Male),34.1539562,71.7502808,Male,KPK,2,0,782,0
+118,Govt:Girls High School- Dargai- Polling Station No.I- (Female),34.1539562,71.7503108,Female,KPK,0,3,0,1570
+119,Govt:Girls High School- Dargai- Polling Station No.II- (Female),34.1539562,71.7503408,Female,KPK,0,2,0,979
+122,Govt: High School- Mani Khela (Male),34.1539562,71.7503708,Male,KPK,3,0,1345,0
+123,Govt: Primary School- Mani Khela (Female),34.1539562,71.7504008,Female,KPK,0,2,0,1050
+133,Govt: Middle School Khulay- Manikhela (Male),34.1539562,71.7504308,Male,KPK,2,0,819,0
+136,Govt: Higher Secondary SchoolS Dosehra- Polling Station No.I- (Male),34.1539562,71.7504608,Male,KPK,3,0,1292,0
+137,Govt: Higher Secondary SchoolS Dosehra- Polling Station No.II- (Male),34.1539562,71.7504908,Male,KPK,4,0,1742,0
+139,Govt: Girls High School- Dosehra (Female),34.1539562,71.7505208,Female,KPK,0,2,0,977
+140,Govt: Girls Primary School- Dosehra (Female),34.1539562,71.7505508,Female,KPK,0,4,0,1785
+141,Govt: Girls Middle School- Sheikhan Haryana- (Combined),34.1539562,71.7505808,Combined,KPK,2,1,593,428
+17,Govt: Primary School- Sheikho Payan (Male),34.1539562,71.7506108,Male,KPK,3,0,1246,0
+6,Govt: Primary School Malka Dher- Polling Station No.I- (Male),34.1539562,71.7506408,Male,KPK,3,0,1341,0
+7,Govt: Primary School Malka Dher- Polling Station No.II- (Male),34.1539562,71.7506708,Male,KPK,3,0,1014,0
+11,Govt: Girls Primary School- No.1- Mughal Khan Koroona Ghunda Karkana (Male),34.1539562,71.7507008,Male,KPK,3,0,1130,0
+12,Govt: Primary School- Nani Khan Killi- Ghunda Karkana (Female),34.1539562,71.7507308,Female,KPK,0,3,0,1585
+9,Govt: Girls Primary School Bali Korona (Female),34.15625,71.79791,Female,KPK,0,2,0,696
+3,Abdul Wali Khan Sports Complex Charsadda Polling Station No.I (Female),34.15802,71.77972,Female,KPK,0,3,0,1740
+4,Abdul Wali Khan Sports Complex Charsadda Polling Station No.II (Female),34.15802,71.77975,Female,KPK,0,2,0,1187
+10,Govt: Girls Primary School Hajyano Killy (Male),34.16275,71.82925,Male,KPK,3,0,970,0
+125,Govt Primary School Safi Ullah Koroona (Male),34.16293,71.89658,Male,KPK,3,0,1117,0
+82,Govt: Primary  School Sarfaraz Killy (Combined),34.16298,71.78455,Combined,KPK,2,1,736,572
+75,Govt: Primary School Ameer Abad Rajjar (Male),34.16433,71.75186,Male,KPK,3,0,1502,0
+71,Govt: Girls Primary School Ameer Abad Rajjar(Female),34.16446,71.75219,Female,KPK,0,3,0,1427
+74,Govt: Girls Middle School- Ghari Kaka Khel- Rajjar- Polling Station No.I- (Female),34.17177,71.75442,Female,KPK,0,3,0,1352
+76,Govt: Girls Middle School- Ghari Kaka Khel- Rajjar- Polling Station No.I- (Female),34.17177,71.75445,Female,KPK,0,3,0,1279
+15,Govt: Girls High School Sardheri PS No.I (Male),34.1735,71.84103,Male,KPK,2,0,813,0
+16,Govt: Girls High School Sardheri PS No.II (Male),34.1735,71.84106,Male,KPK,3,0,1008,0
+90,Govt: Primary School Shakar Dhand (Male),34.17388,71.83099,Male,KPK,2,0,760,0
+117,Govt: Primary School Dargai Manga (Male),34.18205,71.88818,Male,KPK,3,0,1314,0
+85,Govt: Girls Primary School Anees Abad Wardega (Male),34.18447,71.84518,Male,KPK,3,0,1097,0
+5,Govt: Primary School- Baz Mian Killi (Male),34.1855315,71.7635919,Male,KPK,3,0,1011,0
+86,Govt: Girls Community Model School Wardega(combined),34.19262,71.85114,Combined,KPK,1,1,456,320
+113,Govt: Girls Primary School Mera Gul Abad (Male),34.19279,71.87345,Male,KPK,3,0,1490,0
+114,Govt: Primary School- Gul Abad (Female),34.1967852589884,71.87315390543351,Female,KPK,0,2,0,1151
+110,Govt: Primary School- Mufti Pur (Male),34.19782557260599,71.88832487684579,Male,KPK,4,0,1662,0
+92,Govt: High School- Mufti Abad (Male),34.1991721082304,71.81751665639587,Male,KPK,4,0,1673,0
+95,Govt: Girls Primary School- Chitral Killi (Female),34.20562931254459,71.82334263166962,Female,KPK,0,3,0,1372
+97,Govt: Girls Primary School Shah Afzal Abad (Female),34.20586,71.83245,Female,KPK,0,2,0,751
+98,Govt: Girls High School- Shah Afzal Abad- (Combined),34.20637902602728,71.83273933038573,Combined,KPK,2,2,1010,754
+109,Govt: Primary School- Khan Mahi (Female),34.22588110640479,71.87625871251751,Female,KPK,0,3,0,1235
+108,Basic Health Unit- Khan Mahi (Female),34.22674397386393,71.8768894893572,Female,KPK,0,3,0,1829
+99,Govt: Higher Secondary School Mohammad Nari- Polling Station No.I- (Male),34.227892148411506,71.84145551766635,Male,KPK,3,0,1184,0
+100,Govt: Higher Secondary School Mohammad Nari- Polling Station No.II- (Male),34.227892148411506,71.8414855176663,Male,KPK,3,0,1428,0
+101,Govt: Girl Primary School Akhtar Abad Muhammad Nari (Male),34.22902,71.84099,Male,KPK,3,0,1136,0
+105,Govt: High School Zahid Abad (Male),34.22974,71.88246,Male,KPK,3,0,903,0
+107,Govt: Primary School- Zahid Abad (Male),34.22985230850744,71.88184362086206,Male,KPK,4,0,1699,0
+106,Govt: Girls Primary School- Zahid Abad  (Serai Sardar Ali)- (Male),34.2300431011097,71.88255386293886,Male,KPK,3,0,1499,0
+103,Govt: Primary School Mohammad Nari (Female),34.23269965243753,71.83835766605846,Female,KPK,0,2,0,1186
+102,Govt: Primary School Panerak (Female),34.23306225233449,71.8525473937633,Female,KPK,0,3,0,1613

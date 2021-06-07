@@ -1,0 +1,48 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+34,Government Middle School Palosai Payan PS (Male),33.84639494,71.99864337,Male,KPK,3,0,1229,0
+29,Government Primary School No.1 Pirpiai 2nd PS (Male),33.8781474,71.94816962,Male,KPK,4,0,1418,0
+32,Government Primary Girls Community Model School Pirpiai 3rd PS (Female),33.87844557,71.94891649,Female,KPK,0,3,0,937
+33,Government Primary School Palosai Payan PS (Female),33.88514239,71.97015401,Female,KPK,0,3,0,1063
+35,Government Girls Primary School No.2 Pahari Katti Khel PS (Male),33.9168947,71.9710568,Male,KPK,3,0,1218,0
+71,Government Girls Primary School Meraji Bala PS (Female),33.92405721,72.0322296,Female,KPK,0,3,0,860
+42,Government Girls Community Model School Spin Kanay Kalan PS (Female),33.9418893,71.98087345,Female,KPK,0,4,0,1501
+43,GMS Boys Spin Kanay Kalan PS (Male),33.94224057,71.98111058,Male,KPK,3,0,1136,0
+18,Government Primary School No.1 Azakhel Payan PS (Male),33.98771769,71.88320994,Male,KPK,3,0,1079,0
+19,Government Primary School No.1 Azakhel Payan 2nd PS (Female),33.98771769,71.88323994,Female,KPK,0,3,0,1132
+17,Government Girls High School Azakhel Payan PS (Female),33.98772179,71.88314133,Female,KPK,0,2,0,563
+20,Government Primary School No.2 Azakhel Payan PS (Male),33.99153002,71.88439214,Male,KPK,3,0,1229,0
+13,Government Girls High School Azakhel Payan PS  (Male),33.99185442,71.87939379,Male,KPK,4,0,1502,0
+14,Government Girls Primary School No.1  Azakhel Payan 1st PS (Male),33.99185442,71.87942379,Male,KPK,3,0,1063,0
+15,Government Girls Primary School No.1  Azakhel Payan 2nd PS (Male),33.99185442,71.87945379,Male,KPK,3,0,901,0
+16,Government Primary School No.1 Azakhel Payan 1st PS (Female),33.99185442,71.87948379,Female,KPK,0,4,0,1116
+12,Government High School Boys Azakhel Payan PS (Female),33.99321132,71.88404524,Female,KPK,0,4,0,1611
+4,Government High School Azakhel Bala 1st PS (Male),33.9940456,71.8580333,Male,KPK,3,0,1160,0
+5,Government High School Azakhel Bala 2nd PS (Female),33.9940456,71.8580633,Female,KPK,0,2,0,900
+49,GHS Manahi PS (Combined),33.9948844,72.01212427,Combined,KPK,2,2,928,780
+51,GGMS Guldheri PS (Combined),33.99524933,72.0120433,Combined,KPK,2,2,785,628
+50,GPS Duran PS (Combined),33.99525007,72.01200884,Combined,KPK,1,1,263,232
+7,Government Girls Primary School No.1 1st PS Near HBL- Azakhel Bala (Female),33.99632947,71.85872859,Female,KPK,0,3,0,915
+8,Government Girls Primary School No.1 2nd PS  Near HBL- Azakhel Bala (Female),33.99632947,71.85875859,Female,KPK,0,2,0,839
+10,Government Primary School  No.2 Muslimabad Azakhel Bala PS (Combined),33.99641854,71.85839471,Combined,KPK,2,2,562,401
+6,Government Primary School No.2 Azakhel Bala PS (Male),33.99641854,71.85842471,Male,KPK,4,0,1310,0
+23,Government Girls Higher Secondery School Pirpiai 1st PS (Female),33.99677232,71.8979922,Female,KPK,0,4,0,1541
+28,Government Primary Girls Community Model School Pirpiai 1st PS (Female),33.99681384,71.89819857,Female,KPK,0,2,0,625
+31,Government Primary Girls Community Model School Pirpiai 2nd PS (Female),33.99681384,71.89822857,Female,KPK,0,3,0,1165
+21,Government Shaheed Muhammad Waseem High School Pirpiai 1st PS (Male),33.99681511,71.89815819,Male,KPK,4,0,1304,0
+22,Government Shaheed Muhammad Waseem High School Pirpiai 2nd PS (Male),33.99682756,71.89817141,Male,KPK,3,0,1242,0
+26,Government High School Pirpiai 1st PS (Male),33.99682756,71.89820141,Male,KPK,4,0,1447,0
+30,Government High School Pirpiai 2nd PS (Male),33.99682756,71.89823141,Male,KPK,3,0,1214,0
+27,Government Primary School No.1 Pirpiai PS (Female),33.99684717,71.89815402,Female,KPK,0,3,0,1225
+25,Government Primary School No.1 Pirpiai 1st PS (Male),33.99700658,71.89872819,Male,KPK,4,0,1615,0
+3,Government Girls High School Azakhel Bala PS (Female),33.99840154,71.85125408,Female,KPK,0,4,0,1457
+1,Government Primary School No.1 Azakhel Bala 1st PS (Male),33.99938953,71.85131264,Male,KPK,3,0,1168,0
+9,Government Primary School  No.1 Aza Khel Bala 3rd PS (Male),33.99938953,71.85134264,Male,KPK,2,0,908,0
+2,Government Primary School No.1 Azakhel Bala 2nd PS (Male),33.99938953,71.85137264,Male,KPK,2,0,708,0
+24,Government Girls Higher Secondery School Pirpiai 2nd PS (Female),34.0019393,71.9830898,Female,KPK,0,4,0,1375
+37,Government Middle School Sadu Khel PS (Combined),34.0019393,71.9831198,Combined,KPK,2,2,795,642
+38,Government High School Khaysray 1st PS (Male),34.0019393,71.9831498,Male,KPK,4,0,1502,0
+39,Government High School Khaysray 2nd PS (Female),34.0019393,71.9831798,Female,KPK,0,3,0,1249
+11,Government Girls Primary School No.2 Muslimabad Azakhel Bala PS (Combined),34.0019393,71.9832098,Combined,KPK,2,2,539,422
+46,Government High School Walai PS (Male),34.0186916,71.9958631,Male,KPK,4,0,1593,0
+45,Baitul Gharib PS (Combined),34.0186916,71.9958931,Combined,KPK,1,1,294,234
+48,GPS Sarwar Khel PS (Combined),34.0186916,71.9959231,Combined,KPK,1,1,185,160

@@ -1,0 +1,82 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+63,GPS Tooheed Colony (Female) PS-1,33.99994,71.60001,Female,KPK,0,4,0,2059
+64,GPS Toheed Colony (Female) PS-2,33.99994,71.60004,Female,KPK,0,4,0,2046
+70,Government Dispencary Shaheen Muslim Town Maskeen Abad No.3 Shah Dhand (Female),34.00116,71.59879,Female,KPK,0,3,0,1338
+60,ST- Jhons HS Charagh Abad  (Male) PS-1,34.0022,71.60519,Male,KPK,4,0,1461,0
+61,ST- Jhons HS Charagh Abad  (Male) PS-2,34.0022,71.60522,Male,KPK,4,0,2405,0
+62,ST- Jhons HS Charagh Abad (Male) PS-3,34.0022,71.60525,Male,KPK,4,0,2055,0
+69,GGPS Akhun Abad- (Male),34.00323,71.59256,Male,KPK,4,0,1819,0
+77,GPS for Boys Shiekh Abad No.1 (Male) PS-1,34.0035,71.59232,Male,KPK,4,0,2185,0
+78,GPS for Boys Shiekh Abad No. 1 (Male)  PS-2,34.0035,71.59235,Male,KPK,4,0,1384,0
+81,GGHS  Shiekh Abad (Male) PS-I,34.00719,71.58678,Male,KPK,3,0,1182,0
+82,GGHS  Shiekh Abad (Male) PS-2,34.00719,71.58681,Male,KPK,4,0,1457,0
+83,GGHS  Shiekh Abad (Male)      PS-3,34.00719,71.58684,Male,KPK,4,0,1590,0
+84,GGHS  Shiekh Abad (Male) PS-4,34.00719,71.58687,Male,KPK,4,0,1440,0
+75,GGPS Shiekh Abad No.1 (Female)     PS-1,34.00731,71.58709,Female,KPK,0,4,0,1584
+76,GGPS Shiekh Abad No.1 (Female) PS-2,34.00731,71.58712,Female,KPK,0,4,0,1558
+65,GGPS Ejaz Abad No.1 (Male) PS-1,34.00745,71.60555,Male,KPK,4,0,1619,0
+66,GGPS Ejaz Abad No.1 (Male) PS-2,34.00745,71.60558,Male,KPK,4,0,1667,0
+67,GGHS Ejaz Abad (Female) PS-1,34.00745,71.60561,Female,KPK,0,3,0,1106
+68,GGHS Ejaz Abad (Female) PS-2,34.00745,71.60564,Female,KPK,0,3,0,1260
+51,GMS Assad Anwar Colony (Female),34.0084,71.59387,Female,KPK,0,4,0,2104
+85,G. Shaheed Mubeen Aslam Quraishi H.S Sheikh Abad No.1 (Female) PS-1,34.00885,71.58772,Female,KPK,0,3,0,1383
+86,G. Shaheed Mubeen Aslam Quraishi H.S Sheikh Abad No.1 (Female) PS-2,34.00885,71.58775,Female,KPK,0,3,0,1044
+87,GPS for Boys Shiekh Abad No.1 (Male) PS-3,34.00909,71.58729,Male,KPK,4,0,1365,0
+49,GGHS Gul Bahar (Male) PS-1,34.01101,71.59645,Male,KPK,4,0,1231,0
+50,GGHS Gul Bahar (Male) PS-2,34.01101,71.59648,Male,KPK,4,0,1269,0
+90,G Health Dispensary Street Sher Bahadar Khan MC-Tube Well (Female),34.01156,71.58809,Female,KPK,0,3,0,1270
+88,GMS/GPS Moh: Islamabad St. 6  (Male) PS-1,34.01176,71.58955,Male,KPK,4,0,1452,0
+89,GMS/GPS Moh: Islamabad St. 6  (Male) PS-2,34.01176,71.58958,Male,KPK,4,0,1392,0
+41,GPS Gulbahar No. 2 (Female) Peshawar PS-1,34.01207,71.59699,Female,KPK,0,3,0,1356
+42,GPS Gulbahar No. 2 (Female) Peshawar PS-2,34.01207,71.59702,Female,KPK,0,3,0,1272
+43,G. Shaheed Ahmad Mujtaba H.S Gulbahar No. 2 Peshawar (Male) PS.1,34.01207,71.59705,Male,KPK,4,0,1317,0
+44,G. Shaheed Ahmad Mujtaba H.S Gulbahar No. 2 Peshawar (Male) PS.2,34.01207,71.59708,Male,KPK,4,0,1412,0
+59,GGPS Gul Bahar No.2 (Female),34.01221,71.59679,Female,KPK,0,4,0,2155
+56,Govt. City Girls Degree College Gul Bahar Peshawar (Male) PS-1,34.01231,71.59544,Male,KPK,4,0,1647,0
+57,Govt. City Girls Degree College Gul Bahar Peshawar (Male) PS-2,34.01231,71.59547,Male,KPK,4,0,1651,0
+58,Govt. City Girls Degree College Gul Bahar Peshawar (Male) PS-3,34.01231,71.5955,Male,KPK,4,0,2334,0
+91,GGPS- Moh. Islamabad- (Female),34.01241,71.58884,Female,KPK,0,3,0,1200
+38,Poly Technical Training Centre Gul Bahar (Male),34.01303,71.59217,Male,KPK,4,0,1772,0
+54,GGPS Gul Bahar near Deaf School (Female) PS-1,34.01323,71.59747,Female,KPK,0,3,0,1135
+55,GGPS Gul Bahar near Deaf School (Female) PS-2,34.01323,71.5975,Female,KPK,0,3,0,1209
+79,GPS No.4 Gulbahar (Female) PS-1,34.01363,71.59666,Female,KPK,0,3,0,1555
+80,GPS No.4 Gulbahar  (Female) PS-2,34.01363,71.59669,Female,KPK,0,3,0,1094
+39,GGHSS Nishter Abad (Female) PS-1,34.01366,71.58874,Female,KPK,0,4,0,1432
+40,GGHSS Nishter Abad (Female) PS-2,34.01366,71.58877,Female,KPK,0,4,0,1700
+47,G. M.S Gul Bahar No.2 (Female) PS-1,34.01393,71.5967,Female,KPK,0,3,0,1245
+48,G. M.S Gul Bahar No.2 (Female) PS-2,34.01393,71.59673,Female,KPK,0,3,0,1070
+52,GHS For Deaf  Gul Bahar (Male) PS-1,34.01393,71.59676,Male,KPK,4,0,1563,0
+53,GHS For Deaf  Gul Bahar (Male) PS-2,34.01393,71.59679,Male,KPK,4,0,1214,0
+45,G. Shaheed Ahmad Elahi   Technical H.S Gul Bahar- Peshawar (Male) PS-1,34.01407,71.59577,Male,KPK,4,0,1186,0
+46,G. Shaheed Ahmad Elahi   Technical H.S Gul Bahar- Peshawar (Male) PS-2,34.01407,71.5958,Male,KPK,4,0,1300,0
+13,GPS Ghari Hidayat G.T Road (Male),34.01411,71.61383,Male,KPK,4,0,2001,0
+28,City District GDC for Women Peshawar PS-I (Male),34.01498,71.58104,Male,KPK,4,0,1796,0
+29,City District GDC for Women Peshawar (Female) P.S-II,34.01498,71.58107,Female,KPK,0,3,0,1443
+35,Govt. Blind Institute G.T Road Bilal Town (Male)  PS-1,34.01566,71.58617,Male,KPK,4,0,1170,0
+36,Govt. Blind Institute G.T Road Bilal Town (Male)  PS-2,34.01566,71.5862,Male,KPK,3,0,979,0
+37,Govt. College of Management Sciences Bilal Town (Female),34.01667,71.58611,Female,KPK,0,4,0,1867
+30,Agriculture Office Dalazak Road Peshawar PS-1 (Male),34.01884,71.5826,Male,KPK,4,0,1628,0
+31,Agriculture Office Dalazak Road Peshawar PS-2(Male),34.01884,71.58263,Male,KPK,4,0,1249,0
+17,GGHS City Railway Station (Male)         PS-1,34.01886,71.589,Male,KPK,4,0,1348,0
+18,GGHS City Railway Station (Male)  PS-2,34.01886,71.58903,Male,KPK,4,0,1232,0
+19,GGHS City Railway Station (Male)  PS-3,34.01886,71.58906,Male,KPK,3,0,1139,0
+20,GGPS City Railway Station Shahjee Abad (Female) PS-1,34.01886,71.58909,Female,KPK,0,3,0,1326
+21,GGPS City Railway Station Shahjee Abad (Female) PS-2,34.01886,71.58912,Female,KPK,0,3,0,1394
+32,Govt. College Peshawar (Female)  PS-1,34.01926,71.57802,Female,KPK,0,3,0,884
+33,Govt. College Peshawar (Female)  PS-2,34.01926,71.57805,Female,KPK,0,3,0,1116
+3,GPS No.1 Sarbaland Pura (Male) PS-1,34.02003,71.61131,Male,KPK,4,0,2387,0
+8,GPS No.1 Sarbaland Pura (Male) PS-2,34.02003,71.61134,Male,KPK,4,0,2182,0
+2,GGMS Sarbaland Pura (Female),34.0201,71.61133,Female,KPK,0,4,0,2147
+4,GGPS Sarbaland Pura (Female) PS-1,34.0201,71.61136,Female,KPK,0,4,0,1347
+9,GGPS Sirbiland Pura (Female) PS-2,34.0201,71.61139,Female,KPK,0,4,0,1604
+34,Squash Complex- Shahi Bagh- Peshawar  (Male),34.02087,71.57729,Male,KPK,4,0,1311,0
+16,GPS No.3 Zaryab Colony Qazi Abad (Female),34.02162,71.58994,Female,KPK,0,4,0,1801
+22,G. Shaheed Haris Nawaz H.S Zaryab Colony (Male) PS-3,34.02162,71.58997,Male,KPK,4,0,589,0
+23,G.  Shaheed Haris Nawaz H.S Zaryab Colony (Male) PS-4,34.02162,71.59,Male,KPK,4,0,2840,0
+14,G. Shaheed Alamzeb Girls Commerce College Peshawar  (Male) PS-1,34.02336,71.5938,Male,KPK,4,0,1281,0
+15,G. Shaheed Alamzeb Girls Commerce College Peshawar  (Male) PS-2,34.02336,71.59383,Male,KPK,3,0,939,0
+10,MIC For Girls Shahi Bagh (Female) PS-4,34.02381,71.57847,Female,KPK,0,4,0,1221
+1,GGPS Comboo (Male),34.02539,71.61598,Male,KPK,4,0,1935,0
+12,GGPS No.1 Faisal Colony (Female) PS-2,34.02766,71.59796,Female,KPK,0,4,0,1464
+5,GPS Pahari Pura (Male) PS-1,34.02828,71.61077,Male,KPK,4,0,1263,0
+6,GPS- Pahari Pura  (Male) PS-2,34.02828,71.6108,Male,KPK,4,0,1781,0

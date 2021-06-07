@@ -1,0 +1,128 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+21,The Embelish Academy,24.94792,66.98891,Combined,Sindh,1,3,321,1178
+15,The Little Paradise Academy School,24.94803,66.98575,Combined,Sindh,2,1,1048,394
+20,KMC School Millat Colony,24.94846,66.98647,Male,Sindh,2,0,1419,0
+19,PNG Grammar School,24.94847,66.99088,Female,Sindh,0,4,0,1698
+27,GBPS Mujahidabad-2,24.94889,66.97806,Combined,Sindh,2,2,1147,839
+16,Shaheen Children Academy,24.95004,66.98699,Combined,Sindh,1,2,663,812
+11,Paramount Grammar School,24.95124,66.98418,Male,Sindh,3,0,1170,0
+9,Paramount Grammar School,24.95124,66.98421,Combined,Sindh,2,2,944,740
+17,The World Grammar School,24.95139,66.98861,Male,Sindh,2,0,1209,0
+18,The World Grammar School,24.95139,66.98864,Male,Sindh,3,0,1322,0
+25,KMC school Touheed,24.95167,66.97694,Male,Sindh,4,0,1700,0
+26,KMC school Touheed,24.95167,66.97697,Female,Sindh,0,3,0,1204
+13,Hafiz ur Rehman School Block-J- Main Pakistan Bazar- Orangi Town- Sector 11 1/2,24.95169,66.98707,Combined,Sindh,2,1,976,499
+12,GBPS Dew Drops Imam Colony,24.95222,66.98583,Female,Sindh,0,2,0,906
+14,GBPS De Drops Imam Colony,24.95222,66.98586,Combined,Sindh,1,2,685,764
+10,Scholar Sec School,24.9528,66.98492,Combined,Sindh,2,2,1066,629
+124,Jinnah High School- Plot No:- 735- 736- Junaid Nagar- Opposite Sindh Lab- Pakistan Bazar- UC-9- Orangi Town.(M),24.95397,66.98827,Combined,Sindh,1,2,746,852
+125,Jinnah High School- Plot No:- 735- 736- Junaid Nagar- Opposite Sindh Lab- Pakistan Bazar- UC-9- Orangi Town.(M),24.95397,66.9883,Male,Sindh,3,0,1335,0
+30,Jinnah Public School,24.95397,66.98833,Male,Sindh,3,0,1592,0
+126,Rahman Children School- Gali No:- 1- Mukhdum Shah Colony- Sector 11 1/2- Pakistan Bazar- UC-9- Orangi Town.(M),24.95417,66.98638,Female,Sindh,0,2,0,815
+127,Rahman Children School- Gali No:- 1- Mukhdum Shah Colony- Sector 11 1/2- Pakistan Bazar- UC-9- Orangi Town.(M),24.95417,66.98641,Male,Sindh,2,0,1193,0
+122,Best Way Grammar School- Warsia Colony- Sector 11 1/2- UC-9- Orangi Town. (M),24.95443,66.99033,Male,Sindh,2,0,1308,0
+7,Rehman Children School,24.95444,66.98194,Male,Sindh,4,0,1649,0
+8,Rehman Children School,24.95444,66.98197,Female,Sindh,0,4,0,1453
+1,GBPS.Qasim Ul Uloom,24.95506,66.97113,Combined,Sindh,2,1,909,579
+2,GBPS.Qasim Ul Uloom,24.95506,66.97116,Combined,Sindh,2,1,1106,429
+4,GBPS Qasim Ul Uloom,24.95506,66.97119,Combined,Sindh,2,1,1114,287
+22,Programmar English School,24.95522,66.97565,Combined,Sindh,2,1,947,646
+23,Programmar English School,24.95522,66.97568,Combined,Sindh,2,1,804,580
+24,Programmar English School,24.95522,66.97571,Combined,Sindh,2,1,735,532
+108,KMC School Disco Mor- 14-G - UC-8- Orangi Town. (M),24.95528,66.99555,Male,Sindh,4,0,1760,0
+109,KMC School Disco Mor- 14-G- UC-8- Orangi Town. (F),24.95528,66.99558,Female,Sindh,0,4,0,1455
+123,e-City Grammar School- Warsia Colony Near Old Police Station Pakistan Bazar- Sector 11 1/2- Opposite Abdullah Bin Masood Masjid- UC-9- Orangi Town.(F),24.95558,66.99203,Female,Sindh,0,4,0,1711
+28,Shaheen grammer Academy,24.95722,66.97833,Male,Sindh,3,0,1661,0
+29,Shaheen Grammar Academy,24.95722,66.97836,Female,Sindh,0,3,0,1164
+5,Govt Degree College Baba Willayat Ali Shah,24.95757,66.97964,Combined,Sindh,2,1,678,431
+6,Govt Degree College Baba Wilayat Ali Shah,24.95757,66.97967,Combined,Sindh,2,1,882,393
+77,Little Heaven Secondary School- Lal Shahbaz Nagar- Sector 11 1/2- UC-7- Orangi Town. (F),24.95778,66.97639,Female,Sindh,0,2,0,1172
+80,Little Heaven Secondary Schoo- Lal Shahbaz Nagar- Sector 11 1/2- UC-7- Orangi Town. (F),24.95778,66.97642,Female,Sindh,0,2,0,1131
+71,Allied School- Abu Zar Ghaffari Colony- UC-7- Orangi Town. (M),24.95778,66.98306,Male,Sindh,3,0,1339,0
+72,Allied School- Abu Zar Ghaffari Colony- UC-7- Orangi Town. (F),24.95778,66.98309,Combined,Sindh,1,2,225,1166
+73,Allied School- Abu Zar Ghafari Colony- UC-7- Orangi Town. (M),24.95778,66.98312,Male,Sindh,3,0,1391,0
+74,Allied School- Abu Zar Ghaffari Colony- UC-7- Orangi Town. (F),24.95778,66.98315,Female,Sindh,0,2,0,1144
+111,Islamia High School- Sector 14-H- Allah Waris Colony- UC-6- Orangi Town. (M),24.95833,66.99528,Male,Sindh,4,0,1547,0
+112,Islamia High School- Sector 14-H- Allah Waris Colony- UC-6- Orangi Town. (F),24.95833,66.99531,Female,Sindh,0,2,0,1107
+113,Islamia High School- Sector 14-H- Allah Waris Colony- UC-6- Orangi Town. (M),24.95833,66.99534,Male,Sindh,3,0,1625,0
+114,Islamia High School- Sector 14-H- Allah Waris Colony- UC-6- Orangi Town. (M),24.95833,66.99537,Female,Sindh,0,4,0,1703
+3,Rabia Girls College Baba Willayat Ali Shah,24.95887,66.97528,Female,Sindh,0,2,0,776
+31,Superior Sec School,24.95889,66.9775,Combined,Sindh,1,3,249,1255
+120,The Benchmark School- Sector 11 1/2- Near Rehmat Chowk- UC-9- Orangi Town. (M),24.95917,66.98888,Male,Sindh,3,0,1541,0
+121,The Benchmark School- Sector 11 1/2- Near Rehmat Chowk- UC-9- Orangi Town. (F),24.95917,66.98891,Combined,Sindh,1,3,284,1411
+116,Shaheen Public School- K-338- Sector 11 1/2- Shamsi Colony- UC-9- Orangi Town. (M),24.96064,66.99162,Combined,Sindh,3,1,1386,229
+117,Shaheen Public School- K-338- Sector 11 1/2- Shamsi Colony- UC-9- Orangi Town.(F),24.96064,66.99165,Female,Sindh,0,4,0,1667
+104,GGSS Raja Tanveer Colony- J.M Govt. Primary School- Sector 11-1/2- UC-7- Orangi Town. (M),24.96083,66.96944,Male,Sindh,3,0,1444,0
+105,GGSS Raja Tanveer Colony- J.M Govt. Primary School- Sector 11-1/2- UC-7- Orangi Town. (M),24.96083,66.96947,Male,Sindh,2,0,1199,0
+106,GGSS Raja Tanveer Colony- J.M Govt. Primary School- Sector 11-1/2- UC-7- Orangi Town. (C),24.96083,66.9695,Combined,Sindh,2,2,654,778
+75,Decent Paradise- Plot No. 474- Chishti Nagar- Sector 11 1/2- UC-7- Orangi Town. (M),24.96143,66.98225,Combined,Sindh,2,1,1044,470
+76,Decent Paradise- Plot No. 474- Chishti Nagar- Sector 11 1/2- UC-7- Orangi Town. (M),24.96143,66.98228,Male,Sindh,3,0,1563,0
+79,Decent Paradise- Plot No. 474- Chishti Nagar- Sector 11 1/2- UC-7- Orangi Town. (M),24.96143,66.98231,Male,Sindh,3,0,1586,0
+118,GBPS Ali Nagar- Sector 11 1/2- Near Rehmat Chowk- UC-9- Orangi Town.(M),24.96167,66.98917,Combined,Sindh,2,1,1040,489
+119,GBPS Ali Nagar- Sector 11 1/2- Near Rehmat Chowk- UC-9- Orangi Town.(M),24.96167,66.9892,Combined,Sindh,2,1,1254,355
+91,Liaquat Memorial School- UC-7- Orangi Town- (F),24.96233,66.97442,Combined,Sindh,1,3,306,1162
+78,Al Khyum Sec. School- Chishti Nagar- UC-7- Orangi Town. (C),24.96245,66.97906,Combined,Sindh,2,2,740,740
+100,GBPS Arafat- Raees Amrohi- Sector 11 1/2- UC-7- Orangi Town. (M),24.96273,66.97201,Male,Sindh,2,0,1149,0
+101,GBPS Arafat- Raees Amrohi- Sector 11 1/2- UC-7- Orangi Town. (F),24.96273,66.97204,Combined,Sindh,1,2,277,963
+102,GBPS Arafat- Raees Amrohi- Sector 11-1/2- UC-7- Orangi Town- (M),24.96273,66.97207,Male,Sindh,3,0,1533,0
+103,GBPS Arafat- Raees Amrohi- Sector 11-1/2- UC-7- Orangi Town- (F),24.96273,66.9721,Female,Sindh,0,4,0,1648
+107,Johar Public School- Sector 14/G- Johar Chowk- UC-8- Orangi Town. (C),24.96357,66.99475,Combined,Sindh,2,1,885,631
+110,Johar Public School. Sector 14/G- Johar Chowk- UC-08- Orangi Town.(M),24.96357,66.99478,Combined,Sindh,2,1,1161,524
+92,Defodils High School- Sadiqabad- Block-K- Plot No:- 50/2- UC-7- Orangi Town. (C),24.96417,66.97472,Combined,Sindh,1,2,712,478
+84,Shobi Grammar School- Shah Waliullah Nagar- UC-7- Orangi Town. (Gate No.1). (M),24.96427,66.9805,Male,Sindh,2,0,968,0
+85,Shobi Grammar School- Shah Waliullah Nagar- UC-7- Orangi Town. (Gate No.1). (M),24.96427,66.98053,Male,Sindh,2,0,859,0
+86,Shobi Grammar School- Shah Waliullah Nagar- UC-7- Orangi Town. (Gate No.3). (F),24.96427,66.98056,Female,Sindh,0,4,0,1395
+81,Salma Public Secondary School (Montesory Section) Shah Waliullah Nagar- Sheet-4- UC-7- Orangi Town- (M),24.96575,66.97755,Combined,Sindh,2,1,1293,257
+82,Salma Public Secondary School (Montesory Section) Shah Waliullah Nagar- Sheet-4- UC-7- Orangi Town- (F),24.96575,66.97758,Female,Sindh,0,4,0,1580
+83,Salma Public Secondary School (Secondary Section) Shah Waliullah Nagar- Sheet-4- UC-7- Orangi Town- (M),24.96575,66.97761,Male,Sindh,4,0,1668,0
+87,Salma Public Sec. School (Secondary Section) Shah Waliullah Nagar- Sheet-4- UC-7- Orangi Town- (M),24.96575,66.97764,Combined,Sindh,2,1,1239,415
+88,Salma Public Sec. School (Secondary Section) Shah Waliullah Nagar- Sheet-4- UC-7- Orangi Town- (M),24.96575,66.97767,Combined,Sindh,2,1,957,324
+89,Salma Public Sec. School (Montessory Section) Shah Waliullah Nagar- Sheet-4- UC-7- Orangi Town- (F),24.96575,66.9777,Female,Sindh,0,3,0,1362
+90,Salma Public Sec. School (Secondary Section) Shah Waliullah Nagar- Sheet-4- UC-7- Orangi Town- (M),24.96575,66.97773,Male,Sindh,3,0,1322,0
+115,Al-Qamar Academy- Sector 14-I- Sir Syed Colony- UC-6- Orangi Town. (C),24.96603,66.99419,Combined,Sindh,2,1,1288,400
+34,Kamran Grammar Secondary School- ( Blilal Colony- Sector 11 1/2- UC-6- Orangi Town. (F),24.96743,66.98939,Female,Sindh,0,2,0,918
+93,Iqra Taleem ul Islam- Mansoor Nagar- Sector 11 1/2- UC-7- Orangi Town. (M),24.9684,66.98244,Male,Sindh,2,0,1243,0
+94,Iqra Taleem ul Islam- Mansoor Nagar- Sector 11 1/2- UC-7- Orangi Town. (F),24.9684,66.98247,Female,Sindh,0,4,0,1399
+95,Iqra Taleem ul Islam- Mansoor Nagar- Sector 11 1/2- UC-7- Orangi Town. (M),24.9684,66.9825,Combined,Sindh,2,1,1081,252
+96,Iqra Taleem ul Islam- Mansoor Nagar- Sector 11 1/2- UC-7- Orangi Town. (M),24.9684,66.98253,Male,Sindh,3,0,1461,0
+35,H.A. Sattar Tameer Millat Model School- Ghaziabad Sector 11 1/2- UC-6- Orangi Town. (M),24.96891,66.9876,Male,Sindh,3,0,1457,0
+36,H.A. Sattar Tameer Millat Model School- Ghaziabad- Sector 11 1/2- UC-6- Orangi Town. (F),24.96891,66.98763,Female,Sindh,0,3,0,1243
+44,H.A. Sattar Tameer Millat Model School- Ghaziabad- Sector 11 1/2- UC-6- Orangi Town. (F),24.96891,66.98766,Female,Sindh,0,4,0,1534
+61,Pre Grammar School- Sector 16-B- Gulshan Ahbab- Near German School- UC-6- Orangi Town,24.96963,66.99211,Male,Sindh,3,0,1353,0
+62,Pre Grammar School- Sector 16-B- Gulshan Ahbab- Near German School- UC-6- Orangi Town,24.96963,66.99214,Combined,Sindh,1,3,316,1246
+97,Waseem Grammar School- Mansoor Nagar- Sector 11 1/2- UC-7- Orangi Town. (F),24.96986,66.97913,Female,Sindh,0,3,0,977
+98,Waseem Grammar School- Mansoor Nagar- Sector 11 1/2- UC-7- Orangi Town. (M),24.96986,66.97916,Male,Sindh,2,0,1305,0
+99,Medico High School- Yaqoobabad- UC-7- Orangi Town. (F),24.97139,66.97444,Combined,Sindh,1,2,335,1098
+55,Naz Children School- Sector 16-A- Al-Khizar Society- UC-6- Orangi Town,24.97157,66.99305,Male,Sindh,3,0,1475,0
+37,Al-Hamad School- Plot No. M-711- Ghaziabad- Sector 11 1/2- UC-6- Orangi Town. (M),24.97206,66.9882,Male,Sindh,3,0,1374,0
+38,Al-Hamad School- Plot No. M-711- Ghaziabad- Sector 11 1/2- UC-6- Orangi Town. (F),24.97206,66.98823,Combined,Sindh,1,2,317,999
+53,Royal Education Grammar School- K-536- Gulshan-e-Behar- Sector 16- U.C-6- Orangi Town-,24.97422,66.99129,Male,Sindh,3,0,1618,0
+54,Royal Education Grammar- K-536- Gulshan-e-Behar- Sector 16- UC-6- Orangi Town.,24.97422,66.99132,Combined,Sindh,2,2,922,592
+32,Samuel Public School- Gaziabad- Sector 11 1/2- UC-6- Orangi Town- (M),24.97435,66.98682,Male,Sindh,2,0,1318,0
+33,Samuel Public School- Gaziabad- Sector 11 1/2- UC-6- Orangi Town- (M),24.97435,66.98685,Combined,Sindh,2,1,835,562
+56,GBPS Arkania- Jama Masjid Arkania- Sector 16-C- Gulshan Bihar- UC-6- Orangi Town,24.97549,66.99502,Combined,Sindh,1,2,345,1180
+57,GBPS Arkania- Jama Masjid Arkania- Sector 16-C- Gulshan Bihar- UC-6- Orangi Town,24.97549,66.99505,Combined,Sindh,2,2,899,677
+58,GBPS Arkania- Jama Masjid Arkania- Sector 16-C- Gulshan Bihar- UC-6- Orangi Town,24.97549,66.99508,Combined,Sindh,2,2,863,630
+59,Prince Public School- Sector 16-C- Gulshan Bihar- UC-6- Orangi Town,24.97551,66.99179,Male,Sindh,2,0,1123,0
+60,Prince Public School- Sector 16-C- Gulshan Bihar- UC-6- Orangi Town,24.97551,66.99182,Female,Sindh,0,2,0,843
+63,Al-Habib Grammar School- Sector 16-C- Gulshan Bihar- UC-6- Orangi Town- (First Floor),24.97631,66.99277,Male,Sindh,3,0,1502,0
+64,Al-Habib Grammar School- Sector 16-C- Gulshan Bihar- UC-6- Orangi Town,24.97631,66.9928,Female,Sindh,0,2,0,1035
+69,Shahab English School- Sector 16-C- Near Mastana Baba Mazar- Gulshan Bihar- UC-6- Orangi Town. (M),24.97713,66.99168,Combined,Sindh,2,1,1072,453
+70,Shahab English School- Sector 16-C- Near Mastana Baba Mazar- Gulshan Bihar- UC-6- Orangi Town. (M),24.97713,66.99171,Combined,Sindh,1,1,559,356
+66,Bakshi Sec School- Sector 16-C- Gulshan Bihar- UC-6- Orangi Town. (F),24.97722,66.99249,Combined,Sindh,1,3,321,1283
+65,Ashraf Memorial School- Sector 16-C- Near Mastana Baba Mazar- Gulshan Bihar- UC-6- Orangi Town. (M),24.97861,66.99528,Male,Sindh,3,0,1646,0
+48,TCF School- Gulshan-e-Zia- Ghaziabad- Sector 11 1/2- UC-6- Orangi Town. (F),24.979,66.9843,Female,Sindh,0,4,0,1375
+42,Qaid-e-Millat Public School- M-3238- Ghaziabad- Sector 11 1/2- UC-6- Orangi Town. (F),24.9796,66.98756,Female,Sindh,0,4,0,1387
+68,Sun Shain Public School- Sector 16-C- Gulshan Bihar- Opposite Asia Ground- UC-6- Orangi Town. (F),24.98,66.99528,Female,Sindh,0,3,0,1308
+67,National Trust Special Education Complex- Gulshan Bihar- Sector 16-C- UC-6- Orangi Town. (M),24.98028,66.9911,Male,Sindh,3,0,1536,0
+49,GBPS Noorani- Gulshan-e-Zia- Sector 11 1/2- UC-6- Orangi Town. (C),24.98118,66.98243,Combined,Sindh,2,1,1083,341
+39,Umair children Public School- Gulshan-e-Zia- Sector 11 1/2- UC-6- Orangi Town. (C),24.98163,66.98494,Combined,Sindh,1,1,607,481
+40,Umair children Public School- Gulshan-e-Zia- Sector 11 1/2- UC-6- Orangi Town. (C),24.98163,66.98497,Combined,Sindh,1,1,583,390
+41,Umair Children Public School- Gulshan-e-Zia- Sector 11 1/2- UC-6- Orangi Town. (M),24.98163,66.985,Male,Sindh,4,0,1614,0
+43,New Grammar Children Secondary School- Plot No:-M-687- 748- Gulshan-e-Zia- UC-6- Orangi Town. (M),24.98254,66.98786,Male,Sindh,4,0,1813,0
+47,Al-Ilm Publilc School- Plot No:-2657- Liaquat Chowk- UC-6- Orangi Town. (M),24.98425,66.98795,Male,Sindh,3,0,1401,0
+45,Dil Mansoor School- Gulshan-e-Zia- Sector 11 1/2- UC-6- Orangi Town. (C),24.9854,66.98622,Combined,Sindh,2,1,895,441
+46,Dil Mansoor School- Gulshan-e-Zia- Sector 11 1/2- UC-6- Orangi Town. (C),24.9854,66.98625,Combined,Sindh,2,1,915,365
+50,Mateen Memorial School- Plot No:- 4031-4034- Gulshan-e-Zia- Liaquat Chowk- UC-6- Orangi Town.,24.98604,66.98719,Male,Sindh,3,0,1352,0
+51,Mateen Memorial School- Plot No:- 4031-4034- Gulshan-e-Zia- Liaquat Chowk- UC-6- Orangi Town.,24.98604,66.98722,Female,Sindh,0,3,0,1351
+52,Mateen Memorial School- Plot No:- 4031-4034- Gulshan-e-Zia- Liaquat Chowk- UC-6- Orangi Town.,24.98604,66.98725,Female,Sindh,0,2,0,621

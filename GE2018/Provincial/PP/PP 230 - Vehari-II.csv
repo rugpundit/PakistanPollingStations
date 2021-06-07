@@ -1,0 +1,140 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+141,Boys Pry. School 491/EB(P),30.05454749,72.64829972,Combined,Punjab,2,1,1026,718
+139,Girls Middle. School 335/EB(P),30.06164971,72.72606234,Combined,Punjab,1,1,609,407
+134,Boys High School 331/EB (Female)(P),30.06722573,72.71096063,Female,Punjab,0,2,0,1162
+133,Girls High. School 331/EB (Male)(P),30.06759793,72.70898221,Male,Punjab,2,0,1573,0
+140,Girls Middle. School 489/EB(P),30.0685515,72.63999591,Combined,Punjab,1,1,623,442
+127,Boys Pry. School 493/EB (Female)(P),30.06965101,72.65483535,Female,Punjab,0,1,0,732
+124,Boys High School 495/EB  (Male)(P),30.07109796,72.67019656,Male,Punjab,3,0,1820,0
+125,Govt. Girls Pry. School 495/EB (Female) (P),30.07109796,72.67022656,Female,Punjab,0,2,0,1398
+104,Girls High school 327/EB (Female)(P),30.0839178,72.7020497,Female,Punjab,0,2,0,1191
+131,Girls High School 329/EB(P),30.08442182,72.71088335,Combined,Punjab,1,1,445,303
+132,Girls High School 329/EB(P),30.08442182,72.71091335,Combined,Punjab,1,1,730,506
+128,Boys Pry. School 469/EB (Male),30.08637333,72.6793194,Male,Punjab,3,0,1674,0
+129,Girls Community Model Pry. School 469/EB (Female)(P),30.08676411,72.67664144,Female,Punjab,0,2,0,1195
+130,Girls Elementary. School 471/EB(P),30.09412146,72.65412559,Combined,Punjab,2,1,1000,760
+103,Boys High School 327/EB (Middle (Portion) (Male)(P),30.1042593,72.7242668,Male,Punjab,3,0,1716,0
+105,Boys High School 327/EB (High (Portion(P),30.1042593,72.7242968,Combined,Punjab,1,1,626,469
+117,Boys Pry. School 459/EB(P),30.10519578,72.67986856,Combined,Punjab,1,1,673,464
+159,Girls Pry. School 455/EB (Female)(P),30.1112034,72.63231425,Female,Punjab,0,2,0,1056
+158,Boys High School 455/EB (Male)(P),30.11234481,72.63733992,Male,Punjab,2,0,1403,0
+107,Boys Middle School 463/EB(P),30.11345173,72.70253945,Combined,Punjab,1,1,546,374
+108,Boys Middle School 463/EB(P),30.11345173,72.70256945,Combined,Punjab,1,1,686,514
+101,Girls Elementary School 323/EB (Male)(P),30.116586,72.7403128,Male,Punjab,2,0,1342,0
+156,Girls Middle School 453/EB(P) Male,30.1268843,72.63229602,Male,Punjab,3,0,1799,0
+157,Girls Middle School 453/EB(P) Female,30.1268843,72.63232602,Female,Punjab,0,2,0,1365
+161,Girls Elementary. School 457/EB (Female)(P),30.1272599,72.65819048,Female,Punjab,0,2,0,1191
+120,Girls Pry. School 461/EB (Female)(P),30.12726797,72.68899623,Female,Punjab,0,2,0,1569
+118,Boys Middle School 461/EB (Male)(P),30.12785841,72.68644661,Male,Punjab,2,0,902,0
+119,Boys Middle School 461/EB (Male)(P),30.12785841,72.68647661,Male,Punjab,2,0,1122,0
+109,Girls High School 303/EB (Male)(P),30.12891,72.75636,Male,Punjab,2,0,1545,0
+102,Girls Elementary  School 323/EB (Female)(P),30.1289126,72.7563588,Female,Punjab,0,2,0,890
+110,Boys High School 303/EB (Female)(P),30.1289126,72.7563888,Female,Punjab,0,2,0,1224
+111,Govt. Community Model School 303/EB(P),30.1289126,72.7564188,Combined,Punjab,1,1,693,494
+160,Boys Pry. School 457/EB (Male)(P),30.1293209,72.66214276,Male,Punjab,2,0,1450,0
+78,Girls High School 447/EB (Female)(P),30.1337444,72.6915196,Female,Punjab,0,3,0,1791
+154,Girls Pry. School 451/EB (Male)(P),30.1350668,72.6406078,Male,Punjab,3,0,1646,0
+155,Boys Pry. School 451/EB (Female)(P),30.13905019,72.63545399,Female,Punjab,0,2,0,1227
+69,Boys Pry. School 449/EB (Male)(P),30.1471201,72.675266,Male,Punjab,3,0,1840,0
+71,Boys Pry. School 449/EB (Male)(P),30.1484524,72.6729522,Male,Punjab,2,0,1287,0
+33,Govt Model Pry School Iqbal Nagar  (Rear portion- Western side- Girls) (P),30.14907209,72.65363838,Combined,Punjab,2,1,898,664
+34,Govt Model Pry School Iqbal Nagar (Rear portion- Eastern side- Girls)  (P) Male,30.14907209,72.65366838,Male,Punjab,2,0,1127,0
+30,Govt. Model School Iqbal Nagar (front portion (boys) (Male)(P),30.1493612,72.6543085,Male,Punjab,2,0,1010,0
+31,Govt. Model School Iqbal Nagar (Male)(P),30.1493612,72.6543385,Male,Punjab,2,0,1086,0
+32,Govt Model School Iqbal Nagar (Front portion- Western side- Old Building) (Female)(P),30.1493612,72.6543685,Female,Punjab,0,3,0,1685
+51,MC Model School Habib Colony (Male)(P),30.1505518,72.6781253,Male,Punjab,2,0,1002,0
+24,Govt Arabia Islamia Middle School Murzi Pura (Male)(P),30.1528935,72.6612603,Male,Punjab,3,0,1632,0
+25,Govt. Arabia Islamia Middle School Murzi Pura (Female)(P),30.1528935,72.6612903,Female,Punjab,0,2,0,1313
+44,Office of the SDO Building  (Male)(P),30.1529013,72.6851458,Male,Punjab,2,0,958,0
+45,Office of the SDO Building (Male)(P),30.1529013,72.6851758,Male,Punjab,2,0,1479,0
+49,Office of the SDO High Way (Male)(P),30.1529013,72.6852058,Male,Punjab,2,0,1572,0
+22,MC Girls Pry School  Murzi Pura (Male)(P),30.1529044,72.6612603,Male,Punjab,2,0,1396,0
+36,Govt.Boys Pry School Mazharia Muhammad Nagar (Female)(P),30.1540057,72.6632985,Female,Punjab,0,2,0,1259
+123,Boys Pry. School 263/EB(P),30.1541245,72.7382127,Combined,Punjab,2,2,985,854
+26,Govt Girls High School- Madina Colony (Female) (P),30.1541247,72.6606714,Female,Punjab,0,3,0,1039
+27,Govt Girls High School- Madina Colony (Female) (P),30.1541247,72.6607014,Female,Punjab,0,2,0,912
+28,Govt Girls High School- Madina Colony (male) (P),30.1541247,72.6607314,Male,Punjab,2,0,1328,0
+29,Govt Girls High School- Madina Colony (male) (P),30.1541247,72.6607614,Male,Punjab,2,0,1053,0
+48,MC Model. School Habib Colony (Female)(P),30.1548307,72.6795998,Female,Punjab,0,2,0,1247
+112,Boys Pry. School 301/EB(P),30.1553327,72.7730703,Combined,Punjab,2,1,967,610
+37,Boys High School  (Pry Portion). School Housing Scheme (Male)(P),30.1559616,72.6701152,Male,Punjab,2,0,1527,0
+39,Girls Pry. School Housing Scheme (Male)(P),30.1559616,72.6701452,Male,Punjab,2,0,1590,0
+70,Govt. Boys High School Pry Portion- Housing Scheme Female,30.15622003,72.67075952,Female,Punjab,0,2,0,1423
+85,Girls Pry. School Basti Aiwana Wali (Female)(P),30.1568986,72.6914272,Female,Punjab,0,2,0,844
+63,MC Boys Pry. School E-Block (Male)(P),30.156899,72.6940135,Male,Punjab,3,0,1669,0
+80,Boys Pry. School 445/EB (East Portion) (Male)(P),30.156899,72.6940435,Male,Punjab,3,0,1700,0
+82,Girls High. School 445/EB  (Female)(P),30.156899,72.6940735,Female,Punjab,0,2,0,1332
+83,Girls High School 445/EB  (Female)(P),30.156899,72.6941035,Female,Punjab,0,2,0,1357
+106,Boys Middle School 325/EB(P),30.156899,72.6941335,Combined,Punjab,2,1,1060,718
+81,Boys Pry. School 445/EB (West Portion) (Male)(P),30.1573478,72.6895797,Male,Punjab,3,0,1785,0
+38,Social Welfare Office Burewala (Female(P),30.1575923,72.6707351,Female,Punjab,0,2,0,1355
+72,BTM Boys High School (Female)(P),30.1583089,72.6781347,Female,Punjab,0,2,0,914
+73,BTM Boys High School (Male)(P),30.1583089,72.6781647,Male,Punjab,2,0,883,0
+74,BTM Boys High School (Male)(P),30.1583089,72.6781947,Male,Punjab,2,0,1175,0
+75,BTM Boys High School (Female)(P),30.1583089,72.6782247,Female,Punjab,0,2,0,1518
+79,BTM Boys High School(P),30.1583089,72.6782547,Combined,Punjab,1,1,290,229
+61,Office of the Market Committee (East) (Male)(P),30.1583177,72.6804402,Male,Punjab,2,0,1483,0
+62,Office of the Market Committee (West) (Female)(P),30.1583177,72.6804702,Female,Punjab,0,2,0,1324
+41,Office of the Executive Engineer MEPCO WAPDA (Female)(P),30.1586937,72.6782177,Female,Punjab,0,2,0,1578
+21,Fatima Jinnah Girls High School(P),30.1599643,72.6695342,Combined,Punjab,1,1,547,475
+23,Girls Middle School Murzi Pura (Female)(P),30.1601874,72.6618724,Female,Punjab,0,2,0,1054
+86,Girls Pry. School Mujahid Colony  Room No. 1 (Northern Side) (Male)(P),30.1603468,72.7039894,Male,Punjab,2,0,1539,0
+88,Grils Pry School Mujahid Colony (P) Room No. 2 Western Side  (Old Building),30.1603468,72.7040194,Combined,Punjab,2,1,704,574
+89,Grils Pry School Mujahid Colony (P) Southern Side two rooms,30.1603468,72.7040494,Combined,Punjab,2,2,921,770
+90,Govt. Girls Primary School Mujahid Colony  Room No. 4 (Eastern Side) (Female)(P),30.1603468,72.7040794,Female,Punjab,0,2,0,1195
+54,Govt. Degree Collage Burewala (Ist Portion) (Male)(P),30.1604403,72.6823728,Male,Punjab,2,0,1476,0
+153,Govt. Girls Pry. School 517/EB(P),30.16049687,72.64745452,Combined,Punjab,2,1,834,664
+64,MC Girls Pry. School N-Block (Female)(P),30.160588,72.6862493,Female,Punjab,0,2,0,1514
+67,Boys Pry. School P-Block Burewala (Female)(P),30.1607717,72.6891388,Female,Punjab,0,2,0,843
+68,Boys Pry. School P-Block Burewala (Female)(P),30.1607717,72.6891688,Female,Punjab,0,2,0,1084
+56,Govt. Degree College M.A- Block (Male)(P),30.1608819,72.6726715,Male,Punjab,2,0,1263,0
+57,Govt. Degree College M.A- Block (Male)(P),30.1608819,72.6727015,Male,Punjab,2,0,924,0
+143,Govt Model  pry School 257/EB (Male)(P),30.1610765,72.7767639,Male,Punjab,2,0,1221,0
+144,Govt Model  pry School 257/EB (Female)(P),30.1610765,72.7767939,Female,Punjab,0,2,0,1060
+8,Govt. Primary School Ahya Ul Aloom Satelite Town (Male) (P),30.1614785,72.6936434,Male,Punjab,2,0,827,0
+65,Govt. Model H/School Burewala (Male)(P),30.1618049,72.6853768,Male,Punjab,2,0,965,0
+66,Govt. Model H/School Burewala (Male)(P),30.1618049,72.6854068,Male,Punjab,2,0,1237,0
+84,Boys Pry. School Mujahid Colony (Male)(P),30.1619412,72.7014277,Male,Punjab,2,0,1069,0
+60,MC Girls High School Burewala D Block (Female)(P),30.16204442,72.68058446,Female,Punjab,0,2,0,1403
+59,M.C Girls High( Pry Portion). School D-Block (Male)(P),30.16215247,72.68053241,Male,Punjab,2,0,1594,0
+9,Govt. Primary School Ahya Ul Aloom Satelite Town (Female) (P),30.1622812,72.6940598,Female,Punjab,0,1,0,758
+55,Govt. Degree Collage Burewala (2nd Portion) (Female)(P),30.163636,72.6791025,Female,Punjab,0,2,0,1226
+99,Girls High School Satellite Town (Female)(P),30.163989,72.6946436,Female,Punjab,0,2,0,1451
+100,Girls High School Satellite Town (Female)(P),30.163989,72.6946736,Female,Punjab,0,3,0,1679
+58,Govt. Boys Pry School Aziz Abad  (Female)(P),30.16435463,72.67415703,Female,Punjab,0,3,0,1772
+96,Boys High School No. 2 Azeem Abad (Male)(P),30.1645402,72.6884713,Male,Punjab,3,0,1715,0
+6,Vocational Instituite for Women Azeem Abbad(Female)(P),30.1648824,72.6936766,Female,Punjab,0,2,0,747
+7,Vocational Instituite for Women Azeem Abbad(Female)(P),30.1648824,72.6937066,Female,Punjab,0,2,0,1234
+135,Boys Middle School 259/EB  (Male)(P),30.1649426,72.7095313,Male,Punjab,3,0,1836,0
+136,Boys Middle School 259/EB (Pry. Portion) (Female)(P),30.1649426,72.7095613,Combined,Punjab,1,1,463,374
+137,Boys Middle School 259/EB (Pry. Portion) (Female)(P),30.1649426,72.7095913,Combined,Punjab,1,1,639,484
+94,Boys Pry. School Allah Abad Colony (Male)(P),30.1651922,72.7062062,Male,Punjab,1,0,700,0
+138,Girls Community Model Pry Schol- 259/EB (Female)(P),30.1652422,72.7065756,Female,Punjab,0,2,0,1469
+116,SDO Canal Office 443/EB (P),30.1652422,72.7066056,Combined,Punjab,2,1,860,660
+97,Boys High School No. 2 Azeem Abad (Male)(P),30.1653971,72.6878391,Male,Punjab,2,0,1056,0
+98,Boys High School No. 2 Azeem Abad (Male)(P),30.1653971,72.6878691,Male,Punjab,2,0,899,0
+18,Girls High School Yaqub Abad (Middle Portion) (Female)(P),30.1699347,72.6891554,Female,Punjab,0,3,0,1748
+113,U. C. Office 435/EB (Male),30.1703344,72.6899492,Male,Punjab,1,0,327,0
+114,Girls  Pry School- 435/EB(P),30.1703344,72.6899792,Combined,Punjab,2,1,1022,737
+121,Girls Middle School 261/EB (Male)(P),30.1704371,72.7217232,Male,Punjab,3,0,1731,0
+122,Boys Elementary School 261/EB (Female)(P),30.1704371,72.7217532,Female,Punjab,0,2,0,1382
+16,Girls High School Yaqub Abad (Pry Portion) (Male)(P),30.1707175,72.6892074,Male,Punjab,2,0,1048,0
+17,Girls High School Yaqub Abad (Pry Portion) (Male)(P),30.1707175,72.6892374,Male,Punjab,2,0,1003,0
+11,Grils Elementary School 435/EB Male,30.1707341,72.6903187,Male,Punjab,3,0,2093,0
+115,Girls Elementary. School 435/EB (Female)(P),30.1707341,72.6903487,Female,Punjab,0,1,0,269
+12,Grils Elementary School 435/EB Female,30.1707341,72.6903787,Female,Punjab,0,2,0,1719
+150,Boys High School 505/EB (Male)(P),30.1715744,72.6655618,Male,Punjab,2,0,1613,0
+151,Boys High School 505/EB (Male)(P),30.1715744,72.6655918,Combined,Punjab,1,1,734,649
+152,Girls High School 505/EB Female)(P),30.1723474,72.6648069,Female,Punjab,0,2,0,1348
+19,Boys Pry School Yaqub Abad (Male)(P),30.1725809,72.6858848,Male,Punjab,3,0,1830,0
+95,Girls Pry. School Allah abad Colony (Female)(P),30.1730346,72.7202454,Female,Punjab,0,1,0,553
+20,Boys Pry School Remat Abad  (Female)(P),30.1733712,72.6633447,Female,Punjab,0,2,0,1613
+147,Girls High School 255/EB High Portion (Male)(P),30.1735729,72.7656829,Male,Punjab,2,0,1452,0
+148,Girls High School 255/EB Middle Portion (Female)(P),30.1735729,72.7657129,Female,Punjab,0,2,0,1274
+149,Boys High School 255/EB(P),30.1763224,72.7684878,Combined,Punjab,2,2,1088,822
+10,Boys Middle School- 435/EB  (Male)(P),30.1780295,72.6917707,Male,Punjab,1,0,784,0
+13,Boys Middle School- 435/EB (Old Building) Female(P),30.1780295,72.6918007,Female,Punjab,0,2,0,636
+14,Boys Middle School- 435/EB (New Building Male)(P),30.1780295,72.6918307,Male,Punjab,2,0,839,0
+15,Boys Middle School- 435/EB (New Building) (Female)(P),30.1780295,72.6918607,Female,Punjab,0,1,0,709
+145,Govt. High School 253/EB Middle Portion (Male)(P),30.19360145,72.79341978,Male,Punjab,2,0,1409,0
+146,Boys high School 253/EB Pry. Portion (Female)(P),30.19360666,72.79340892,Female,Punjab,0,2,0,1183

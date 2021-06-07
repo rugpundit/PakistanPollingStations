@@ -1,0 +1,115 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+80,GMS Naseer Fakeer Jalalani (Male),27.19218,68.66868,Male,Sindh,4,0,1265,0
+81,GMS Naseer Fakeer Jalalani (Female),27.19219,68.66866,Female,Sindh,0,3,0,1033
+90,GHS Talpur Wada (Male),27.19303,68.58714,Male,Sindh,4,0,1747,0
+91,GHS Talpur Wada (Female),27.19303,68.58717,Female,Sindh,0,4,0,1441
+85,GPS Baqir Bozdar,27.19584,68.66378,Combined,Sindh,2,2,981,848
+84,BHU Bago Daro,27.19712,68.64347,Combined,Sindh,1,1,496,439
+89,GPS Sohrab Fakeer,27.19714,68.59028,Combined,Sindh,2,2,860,619
+82,GHS Noor Bozdar (Male),27.20603,68.66634,Male,Sindh,4,0,1769,0
+83,GHS Noor Bozdar (Female),27.20603,68.66637,Female,Sindh,0,4,0,1572
+71,GPS Nangreja,27.22553,68.56831,Combined,Sindh,2,2,867,619
+86,BHU Babar-I,27.23248,68.63153,Combined,Sindh,2,2,865,747
+87,BHU Babar-II,27.23251,68.63156,Combined,Sindh,2,2,1033,890
+88,GHS Babar Wada,27.23357,68.63885,Combined,Sindh,2,2,645,556
+75,GHS Malhir Pato-I,27.24363,68.67397,Combined,Sindh,2,2,836,613
+76,GHS Malhir Pato-II,27.24365,68.67396,Combined,Sindh,2,1,607,424
+78,GBPS Ahmed Abad,27.24441,68.65216,Combined,Sindh,1,1,396,333
+70,GPS Gous Bakhsh Gaho (Female),27.25868,68.58093,Female,Sindh,0,3,0,1112
+69,GPS Gous Bakhsh Gaho (Male),27.25869,68.58092,Male,Sindh,4,0,1380,0
+111,GPS Jhnago (Female),27.25933,68.5891,Female,Sindh,0,4,0,1500
+110,GPS Jhnago (Male),27.25933,68.58911,Male,Sindh,4,0,1830,0
+79,GPS Muhammad Bakhsh Brohi,27.26159,68.64037,Combined,Sindh,2,2,904,766
+77,GES Bungul Khan Chandio,27.26707,68.66464,Combined,Sindh,2,2,830,784
+73,GPS Bakho Lashari,27.27693,68.65743,Combined,Sindh,2,2,708,610
+66,GPS Khan Muhammad Gaho,27.27806,68.56361,Combined,Sindh,1,1,610,487
+74,GPS Gul Muhammad Soomro,27.28063,68.6449,Combined,Sindh,2,2,768,632
+72,GPS Lal Bakhsh Shanbani,27.28096,68.62021,Combined,Sindh,2,2,703,607
+62,GHS Sarai Piyaro Khan,27.29421,68.54784,Combined,Sindh,2,2,971,817
+67,GPS Hamzo Solangi (Male),27.2973,68.59769,Male,Sindh,3,0,1184,0
+68,GPS Hamzo Solangi (Female),27.2973,68.59772,Female,Sindh,0,2,0,962
+63,GPS Girls Laiq Rajpar,27.29804,68.54988,Combined,Sindh,1,1,506,436
+64,GPS Laiq Rajper-I (Male),27.29811,68.55018,Male,Sindh,3,0,882,0
+65,GPS Laiq Rajper-II (Female),27.29811,68.55021,Female,Sindh,0,2,0,754
+106,GHS Kumb,27.30032,68.6125,Combined,Sindh,2,2,956,756
+107,GHS Kumb,27.30032,68.61253,Combined,Sindh,2,2,885,667
+104,GPS Kumb-I (Male),27.30143,68.61259,Male,Sindh,4,0,1414,0
+105,GGPS Kumb (Female),27.30169,68.61381,Female,Sindh,0,3,0,1121
+60,GPS Qaim Din Solangi,27.30258,68.59576,Combined,Sindh,2,1,618,556
+108,GPS Nawab Solangi,27.31078,68.62382,Combined,Sindh,2,2,559,509
+103,GHS Arab Machi,27.31188,68.6353,Combined,Sindh,2,2,546,506
+58,GPS Wali Muhammad Bhatti-I (Male),27.31465,68.60683,Male,Sindh,3,0,1240,0
+59,GPS Wali Muhammad Bhatti-II (Female),27.31465,68.60686,Female,Sindh,0,3,0,1011
+61,GES Qaim Khan Chandio,27.31544,68.56314,Combined,Sindh,2,2,771,657
+51,GPS Jiskani,27.31895,68.65012,Combined,Sindh,2,1,610,526
+52,GMS Jiskani,27.31899,68.65012,Combined,Sindh,2,2,1042,921
+109,GPS Ishaq Ujjan,27.32134,68.61324,Combined,Sindh,2,1,702,568
+54,GPS Rahim Bakhsh Wassan (Female),27.33542,68.67427,Female,Sindh,0,3,0,1135
+53,GPS Rahim Bakhsh Wassan (Male),27.33557,68.67227,Male,Sindh,4,0,1421,0
+55,GPS Dhukar-I (Male),27.33615,68.56152,Male,Sindh,4,0,1557,0
+56,GPS Dhukar-II (Female),27.33615,68.56155,Female,Sindh,0,4,0,1211
+57,GPS Fakeer Abad,27.33977,68.5472,Combined,Sindh,2,2,741,509
+10,GHS Girls Kotdiji-III,27.34041,68.70497,Combined,Sindh,2,2,968,733
+7,GHS Girls Kotdiji-I,27.34041,68.705,Combined,Sindh,2,2,922,754
+8,GHS Girls Kotdiji-II (Female),27.34041,68.70503,Female,Sindh,0,4,0,1216
+9,Govt: Faiz High School - Kotdiji (Male),27.3435,68.71607,Male,Sindh,4,0,1313,0
+49,GPS Nawab Khan Wassan (Male),27.34429,68.65346,Male,Sindh,4,0,1499,0
+112,GPS Pir Gudo,27.34825,68.65072,Combined,Sindh,2,2,907,708
+47,GPS Qaim Khan Gopang,27.35212,68.67445,Combined,Sindh,2,2,803,644
+48,GPS Ghullam Qasim Bugti,27.35329,68.68858,Combined,Sindh,2,2,781,659
+6,GPS Chonaro,27.35489,68.71379,Combined,Sindh,2,2,815,724
+11,GPS Bunglow,27.35642,68.72066,Combined,Sindh,2,2,871,633
+37,GMS Fazal Mahar (Male),27.3611,68.5584,Male,Sindh,3,0,1214,0
+38,GMS Fazal Mahar (Female),27.36111,68.5584,Female,Sindh,0,3,0,1145
+4,GPS Bahar Phulpoto,27.36146,68.70228,Combined,Sindh,1,1,419,376
+39,GPS Faizal Mahar (Male),27.36208,68.55866,Male,Sindh,3,0,1218,0
+45,GPS Gambal Shah (Female),27.36215,68.62901,Female,Sindh,0,3,0,1066
+40,GGPS Faizal Mahar (Female),27.36231,68.55913,Female,Sindh,0,3,0,1074
+43,GMS Gambal Shah-I (Male),27.3625,68.62881,Male,Sindh,3,0,1330,0
+44,GMS Gambal Shah-II (Male),27.3625,68.62884,Male,Sindh,3,0,1214,0
+2,GMS Murad Gopang,27.36272,68.6671,Female,Sindh,0,4,0,1457
+1,GPS Murad Gopang,27.36304,68.66699,Male,Sindh,4,0,1891,0
+46,GGPS Gambal Shah (Female),27.36336,68.62791,Female,Sindh,0,3,0,1041
+3,GPS Tando Shah,27.3647,68.7302,Combined,Sindh,2,1,643,493
+5,GPS Rind Hajana,27.36931,68.72272,Combined,Sindh,2,2,787,635
+95,GPS Mithan Fakeer,27.37283,68.76436,Combined,Sindh,2,1,875,615
+42,GHS Sono Gopang,27.38105,68.63522,Combined,Sindh,1,1,520,411
+41,GHS Sono Gopang,27.38105,68.63525,Combined,Sindh,2,2,979,731
+30,GHS Bakhar Kanasra,27.38388,68.68829,Combined,Sindh,2,2,1088,771
+31,GHS Bakhar Kanasra,27.3839,68.68829,Combined,Sindh,2,2,783,705
+92,GHS Sohu (Male),27.3917,68.74049,Male,Sindh,4,0,1868,0
+93,GHS Sohu (Female),27.3917,68.74052,Female,Sindh,0,4,0,1503
+35,UC Office Fateh Pur (Male),27.39216,68.59583,Male,Sindh,3,0,1172,0
+36,GPS Fatehpur (Female),27.39834,68.60108,Female,Sindh,0,3,0,981
+94,GPS Molero,27.40516,68.75635,Combined,Sindh,1,1,378,321
+99,GGPS Hajana Muhalla,27.40569,68.73875,Combined,Sindh,2,1,547,486
+34,GPS Hussain Bux Panjabi,27.40624,68.65473,Combined,Sindh,1,1,593,572
+97,Dispensary Nek Muhammad Buriro,27.4096,68.78427,Combined,Sindh,1,1,429,387
+96,GPS Khanan Burero,27.4123,68.7822,Combined,Sindh,2,2,732,709
+101,GHS Mithri-I (Male),27.41241,68.73814,Male,Sindh,3,0,971,0
+102,GHS Mithri-II (Female),27.41241,68.73817,Female,Sindh,0,2,0,816
+100,GPS Lal Khan Ji Wandh,27.41657,68.75349,Combined,Sindh,2,1,511,450
+32,GMS Rasool Bakhsh Maree-I (Male),27.41849,68.66571,Male,Sindh,4,0,1278,0
+33,GMS Rasool Bakhsh Maree-(Female),27.41849,68.66574,Female,Sindh,0,3,0,960
+17,GPS Girls Rajpari,27.41927,68.7957,Combined,Sindh,2,2,857,684
+27,GHS Sohu  Kanasra,27.42831,68.70222,Male,Sindh,3,0,1037,0
+28,GPS Fateh Ali Lashari (Male),27.42833,68.70224,Male,Sindh,2,0,817,0
+18,GMS Layari-I (Male),27.42873,68.77207,Male,Sindh,4,0,1351,0
+20,GPS Layari (Female),27.42906,68.77246,Female,Sindh,0,4,0,1890
+19,GPS Jani Burira (Female),27.4382,68.76756,Male,Sindh,2,0,881,0
+16,GPS Pir Misri,27.4403,68.79609,Combined,Sindh,2,2,787,694
+23,GPS Sajan Khaskheli,27.44284,68.67537,Combined,Sindh,1,1,634,496
+98,GPS Hakeem Chakrani,27.44359,68.71409,Combined,Sindh,2,2,1021,794
+12,GPS Gondarero,27.45258,68.82168,Combined,Sindh,2,2,745,700
+24,GPS Baharo Lashari,27.45306,68.70061,Combined,Sindh,1,1,561,485
+22,GHS Hussain Abad (Female),27.45682,68.75794,Female,Sindh,0,4,0,1389
+21,GHS Hussain Abad (Male),27.45686,68.75795,Male,Sindh,4,0,1674,0
+13,GPS Sher Khan Rind,27.4593,68.82287,Combined,Sindh,2,1,591,426
+115,GHS-Loung Fakir-I (Male),27.46895,68.83847,Male,Sindh,3,0,1098,0
+116,GHS-Loung Fakir-II (Female),27.46895,68.8385,Female,Sindh,0,3,0,937
+15,GPS Girls Ghullam Raza Katohar,27.47131,68.79825,Combined,Sindh,1,1,590,438
+25,GHS Sohu Kanasra,27.47484,68.71269,Combined,Sindh,2,2,932,756
+26,GHS Sohu  Kanasra,27.47489,68.71268,Combined,Sindh,1,1,322,286
+114,Govt. Boys Primary School Saeed Khan Lakho,27.47507,68.8538,Combined,Sindh,2,1,750,541
+117,Govt. Primary School Shahabudin Kathor-I,27.50869,68.81775,Male,Sindh,3,0,1097,0
+118,Govt. Primary School Shahabuddin Katohar-II (Female),27.50869,68.81778,Female,Sindh,0,2,0,830

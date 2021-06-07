@@ -1,0 +1,47 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+18,Governement Girls Middle School Arbora,34.45102,73.0633,Female,KPK,0,3,0,1094
+16,Government Middle School Arbora    (PS-I),34.45129,73.06316,Combined,KPK,1,1,521,425
+17,Government Middle School Arbora   (PS-II),34.45129,73.06319,Male,KPK,4,0,1428,0
+19,Basic Health Unit Arbora,34.45837,73.05673,Male,KPK,2,0,1031,0
+20,Governement Girls Primary School Arbora,34.46119,73.05854,Female,KPK,0,2,0,872
+15,Government  Primary School Dhara Banda,34.47245,73.03015,Combined,KPK,2,1,679,528
+14,Government  Girls Middle School Bandi Sadiq,34.47514,73.04076,Female,KPK,0,3,0,1137
+12,Government Girls Primary School Dhara,34.47963,73.03059,Combined,KPK,2,2,869,744
+13,Government  Primary School Dhara,34.47977,73.04018,Male,KPK,4,0,1330,0
+8,Government Primary School Jabri Bazargai   (PS-I),34.4923,73.01245,Male,KPK,3,0,1035,0
+10,Government Primary School Jabri Bazargai   (PS-II),34.4923,73.01248,Male,KPK,4,0,1335,0
+9,Government  Primary School Malooga    (PS-I),34.49374,73.02039,Female,KPK,0,2,0,768
+11,Government Primary School Malooga    (PS-II),34.49374,73.02042,Female,KPK,0,3,0,1115
+32,Government Primary School Banda  roz Khan,34.49528,73.05672,Combined,KPK,2,2,779,634
+3,Government  Primary School Oghi Village,34.49826,73.01746,Male,KPK,4,0,1799,0
+6,Government Girls Higher Secondary School Oghi   (PS-I),34.49979,73.01157,Male,KPK,3,0,891,0
+7,Government  Girls Higher Secondary School Oghi    (PS-I),34.49979,73.0116,Female,KPK,0,4,0,1477
+4,Government Girls Primary School Oghi,34.50034,73.01183,Female,KPK,0,4,0,1805
+1,Forest Range Quarter Oghi,34.50187,73.01447,Male,KPK,3,0,1009,0
+2,Government Primary School No.1 Oghi,34.50303,73.01471,Female,KPK,0,2,0,819
+5,Government Primary School No.2 Oghi,34.50303,73.01474,Male,KPK,3,0,1013,0
+25,Government Primary School Malookra,34.50303,73.03207,Male,KPK,3,0,1128,0
+27,Government High School Shamdahra,34.50494,73.04329,Male,KPK,4,0,1742,0
+29,Government Primary School Shahdour,34.50659,73.07108,Male,KPK,4,0,1643,0
+30,Government Girls Primary School Shahdour,34.50722,73.07116,Female,KPK,0,4,0,1236
+28,Government Primary School Shamdahra,34.50738,73.0483,Female,KPK,0,4,0,1452
+26,Government Girls Primary School Malookra,34.50793,73.03692,Female,KPK,0,2,0,871
+22,Government Girls High School Shamdahra    (PS-II),34.51128,73.04958,Female,KPK,0,3,0,1213
+21,Government  Girls High School Shamdahra   (PS-I),34.51129,73.04961,Male,KPK,4,0,1562,0
+23,Government Primary School Bankot,34.51266,73.04064,Male,KPK,4,0,1711,0
+31,Government Primary School Mir Bandi,34.51337,73.07533,Combined,KPK,2,1,565,453
+24,Government Girls Primary School Bankot,34.51652,73.04285,Female,KPK,0,4,0,1377
+34,Government  Primary School Chajjar Bala,34.51885,73.06496,Combined,KPK,2,1,523,442
+33,Government Primary School Abbas Banda,34.52,73.07889,Combined,KPK,2,1,703,580
+35,Government   Primary School  Kathai,34.52405,73.08813,Male,KPK,4,0,1429,0
+36,Government Girls Primary School Kethai,34.52437,73.08791,Female,KPK,0,3,0,1163
+37,Government Primary School  Shahkot,34.52517,73.01021,Combined,KPK,2,2,798,652
+173,Government Middle School Bai Payeen,34.53582,73.14135,Combined,KPK,2,1,717,565
+169,Government Primary School Sharota Toot Chinar Kot,34.54882,73.13046,Combined,KPK,1,1,394,278
+170,Government Primary School Saloona,34.54961,73.14455,Combined,KPK,2,1,638,456
+168,Government Primary School Chapra Bala Chinar Kot,34.55456,73.1086,Combined,KPK,1,1,429,317
+172,Government Girls Primary School Ahl,34.55511,73.15496,Female,KPK,0,3,0,1091
+171,Government High School Ahl,34.55699,73.15978,Male,KPK,4,0,1355,0
+165,Government High School Chinar Kot   (PS-1),34.56017,73.12696,Male,KPK,3,0,1312,0
+166,Government Girls Middle School Lammi,34.56017,73.12699,Combined,KPK,2,1,578,422
+167,Government Girls Middle School Chinar Kot,34.56134,73.13463,Female,KPK,0,3,0,1014

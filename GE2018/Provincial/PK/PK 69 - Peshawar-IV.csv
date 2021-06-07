@@ -1,0 +1,101 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+90,GHSS/GPS No.2/3 Urmar Payan (Male) (P) PS-I,33.95556,71.73181,Male,KPK,4,0,2391,0
+91,GHSS/GPS No.2/3 Urmar Payan (Male) PS-2 (P),33.95556,71.73184,Male,KPK,4,0,1814,0
+94,GHSS/GPS No.2/3 Urmar Payan (Male) PS-3,33.95556,71.73187,Male,KPK,4,0,1283,0
+95,GHSS/GPS No.2/3 Urmar Payan (Male) PS-4,33.95556,71.7319,Male,KPK,4,0,1364,0
+98,GGPS No.2 Urmar Payan (Female) PS-I,33.95694,71.72631,Female,KPK,0,3,0,1242
+99,GGPS No.2 Urmar Payan (Female) PS-II,33.95694,71.72634,Female,KPK,0,4,0,1590
+96,GGPS Urmar Payan No.1 (Female)  PS-I,33.96216,71.72849,Female,KPK,0,4,0,1897
+97,GGPS Urmar Payan No.1 (Female)  PS-II,33.96216,71.72852,Female,KPK,0,3,0,1448
+100,GPS No.4 Urmar Payan (Female),33.96251,71.72559,Female,KPK,0,3,0,1365
+92,GGHSS Urmar Payan (Male)  PS-I,33.96525,71.72262,Male,KPK,2,0,1072,0
+93,GGHSS Urmar Payan (Male)       PS-II,33.96525,71.72265,Male,KPK,4,0,1646,0
+80,GHS Zahir Abad Mira Kachori (Male) PS-I  (P),33.97184,71.6804,Male,KPK,4,0,1349,0
+81,GHS Zahir Abad Mira Kachori (Male) PS-II  (P),33.97184,71.68043,Male,KPK,4,0,1614,0
+86,GGPS Arbab Banglow (Female),33.9749,71.67355,Female,KPK,0,4,0,1697
+84,GPS Mira Kachori (Male) PS-I,33.97502,71.67473,Male,KPK,3,0,943,0
+85,GPS Mira Kachori (Male) PS-II,33.97502,71.67476,Male,KPK,4,0,1500,0
+89,GG Community MS Ghari Akhter Biland (Female),33.97891,71.69366,Female,KPK,0,4,0,1590
+82,GGPS Miralam (Female) PS-1,33.98055,71.6847,Female,KPK,0,2,0,1004
+83,GGPS Miralam (Female) PS-2,33.98055,71.68473,Female,KPK,0,3,0,1159
+61,GMS/GPS Phandu Payan (Male) PS-I (P),33.98508,71.63344,Male,KPK,4,0,1526,0
+62,GMS/GPS Phandu Payan (Male) PS-II (P),33.98508,71.63347,Male,KPK,4,0,1611,0
+63,GMS/GPS Phandu Payan (Male) PS-III (P),33.98508,71.6335,Male,KPK,4,0,1407,0
+87,GPS Nasir Garhi (Male) PS-1,33.98672,71.69399,Male,KPK,3,0,958,0
+88,GPS Nasir Garhi (Male) PS-2,33.98672,71.69402,Male,KPK,3,0,1235,0
+64,BHU Phandu (Female) PS-1,33.99133,71.63401,Female,KPK,0,4,0,1657
+65,BHU Phandu (Female) PS-2,33.99133,71.63404,Female,KPK,0,3,0,1406
+72,GPS Chuha Gujar (Male) PS-1,33.99549,71.62894,Male,KPK,4,0,1368,0
+73,GPS Chuha Gujar (Male) PS-2,33.99549,71.62897,Male,KPK,4,0,1148,0
+79,GGPS  Chuha Gujar NO.1 (Female),34.00143,71.63171,Female,KPK,0,4,0,1779
+71,GPS No.2 Chamkani  (Male),34.00565,71.64667,Male,KPK,4,0,1525,0
+66,GHSS Chamkani (Male) PS-1,34.00575,71.64722,Male,KPK,4,0,1599,0
+67,GHSS Chamkani (Male) PS-2,34.00575,71.64725,Male,KPK,4,0,1685,0
+68,GHSS Chamkani (Male) PS-3,34.00575,71.64728,Male,KPK,4,0,1548,0
+69,GHSS Chamkani (Male) PS-4,34.00575,71.64731,Male,KPK,4,0,1406,0
+70,GHSS Chamkani (Male) PS-5,34.00575,71.64734,Male,KPK,3,0,1012,0
+78,GGPS No.2 Chamkani (Female),34.00575,71.64737,Female,KPK,0,3,0,1300
+74,GGHSS Chamkani (Female ) PS-I (P),34.00703,71.64678,Female,KPK,0,3,0,1224
+75,GGHSS Chamkani (Female) PS-II (P),34.00703,71.64681,Female,KPK,0,3,0,1218
+76,GGHSS Chamkani (Female) PS-III  (P),34.00703,71.64684,Female,KPK,0,4,0,1565
+77,GGHSS Chamkani (Female) PS-IV (P),34.00703,71.64687,Female,KPK,0,4,0,1781
+51,GGHSS Tarnab Farm (Female)  PS-1,34.0088,71.7006,Female,KPK,0,4,0,1673
+52,GGHSS Tarnab Farm (Female)  PS-2,34.0088,71.70063,Female,KPK,0,4,0,1488
+31,GGPS Malogo (Female)  (P),34.00977,71.6768,Female,KPK,0,3,0,1260
+33,GGPS  Jogian (Female),34.01041,71.69363,Female,KPK,0,4,0,1124
+32,GPS  Jogian (Male),34.01109,71.69019,Male,KPK,4,0,1643,0
+30,GPS  Malogo (Male)  (P),34.01125,71.67752,Male,KPK,4,0,1482,0
+38,GGHS Mologo (Female)  (P),34.01125,71.67755,Female,KPK,0,4,0,2008
+36,G Shaheed Abdullah Zafar HS Malogo (Male)  (P) PS-1,34.01162,71.68002,Male,KPK,3,0,982,0
+37,G Shaheed Abdullah Zafar HS Malogo (Male)  (P) PS-2,34.01162,71.68005,Male,KPK,4,0,1574,0
+47,Government Shaheed Arham Khan H.S.S Tarnab Farm (Male) PS-I (P),34.0159,71.7048,Male,KPK,3,0,982,0
+48,Government Shaheed Arham Khan H.S.S Tarnab Farm (Male) PS-II (P),34.0159,71.70483,Male,KPK,4,0,1179,0
+49,Government Shaheed Arham Khan H.S.S Tarnab Farm (Male) PS-III (P),34.0159,71.70486,Male,KPK,3,0,929,0
+50,Government Shaheed Arham Khan H.S.S Tarnab Farm (Male) PS-IV (P),34.0159,71.70489,Male,KPK,3,0,1030,0
+45,GHS Kandi Kalo Khel (Male)  (P),34.02173,71.67358,Male,KPK,4,0,1482,0
+53,GGHS Lala (Male) PS-1,34.02288,71.69382,Male,KPK,4,0,1298,0
+54,GGHS Lala (Male) PS-II,34.02288,71.69385,Male,KPK,4,0,1455,0
+56,GGPS Lala (Female) (P),34.02343,71.69431,Female,KPK,0,3,0,1249
+39,GPS  Sardar Garhi (Male),34.02355,71.63303,Male,KPK,4,0,1240,0
+40,GGPS  Sardar Garhi (Female),34.02355,71.63306,Female,KPK,0,3,0,968
+55,GMS/GPS Lala (Female) (P),34.02435,71.69576,Female,KPK,0,4,0,1068
+34,GPS  Nasir Pur (Male),34.02446,71.67861,Male,KPK,4,0,1512,0
+35,GGPS  Nasir Pur (Female),34.02496,71.67857,Female,KPK,0,4,0,1264
+59,GPS Masma  (Male) (P),34.0267,71.68073,Male,KPK,3,0,1010,0
+60,GGPS Masma (Female),34.02768,71.68145,Female,KPK,0,2,0,808
+46,GGCMS  Kandi Kalo Khel (Female)  (P),34.02861,71.67007,Female,KPK,0,3,0,1188
+42,GPS   Rano Garhi (Female),34.02999,71.64848,Female,KPK,0,3,0,1171
+41,G Tachnical College Rano Garhi (Male),34.03058,71.64751,Male,KPK,4,0,1595,0
+57,GPS Timber Pura (Male) (P),34.03627,71.68252,Male,KPK,4,0,1158,0
+58,GGPS Timber Pura (Female),34.03897,71.68491,Female,KPK,0,3,0,980
+10,GMS/GPS No.1 Fatu Abdur Rahima (Male) PS-2,34.04295,71.62319,Male,KPK,3,0,1166,0
+11,GMS/GPS No.1 Fatu Abdur Rahima (Male) PS-3,34.04295,71.62322,Male,KPK,3,0,1202,0
+9,GMS/GPS No.1 Fatu Abdur Rahima (Male) PS-1 (P),34.04295,71.62325,Male,KPK,4,0,1288,0
+13,GGPS  No.1 Fatu Abdur Rehima (Female) (P) PS-1,34.04316,71.62299,Female,KPK,0,2,0,880
+14,GGPS  No.1 Fatu Abdur Rehima (Female) (P) PS-2,34.04316,71.62302,Female,KPK,0,4,0,1548
+24,GHS  Budhni (Boys) (Male) PS-I,34.05001,71.69188,Male,KPK,4,0,1301,0
+25,GHS  Budhni (Boys) (Male) PS-II,34.05001,71.69191,Male,KPK,2,0,776,0
+26,GPS  Budhni No.2 (Male)  (P),34.05056,71.6927,Male,KPK,4,0,1209,0
+43,GPS  Budhai (Male)  (P),34.05068,71.69296,Male,KPK,3,0,1021,0
+28,GGHS Budhni (Female) PS-I,34.05155,71.68781,Female,KPK,0,4,0,1320
+29,GGHS Budhni (Female) PS-II,34.05155,71.68784,Female,KPK,0,3,0,1162
+7,GMS Samar Bagh (Male),34.0518,71.6076,Male,KPK,3,0,1125,0
+6,GPS Samar Bagh (Male) (P),34.05184,71.60761,Male,KPK,3,0,1638,0
+44,GGPS  Budhai (Female)  (P),34.05199,71.69366,Female,KPK,0,3,0,816
+8,GGPS  Samar Bagh (Female) (P),34.05219,71.60663,Female,KPK,0,4,0,2064
+19,GHS Gulo Zai (Male) (P) PS-1,34.05687,71.66327,Male,KPK,3,0,1022,0
+20,GHS Gulo Zai (Male) (P) PS-2,34.05687,71.6633,Male,KPK,4,0,1529,0
+21,GPS  Gulo Zai (Female)   (P),34.05875,71.65988,Female,KPK,0,4,0,1722
+27,GPS Sabi (Combined),34.05919,71.69022,Combined,KPK,1,1,486,348
+18,GGMS/GGPS  Dalazak (Female),34.06214,71.6726,Female,KPK,0,4,0,1781
+16,GPS  Dalazak (Male) PS-1,34.06265,71.67257,Male,KPK,3,0,1168,0
+17,GPS  Dalazak (Male) PS-2,34.06265,71.6726,Male,KPK,4,0,1318,0
+23,GGPS   Bela Niko Khan (Female),34.06358,71.66162,Female,KPK,0,3,0,1048
+22,GPS  Bela Niko Khan (Male),34.06359,71.66036,Male,KPK,4,0,1458,0
+12,GPS  Daman Hindki No.1 (Male)  (P),34.07064,71.63277,Male,KPK,4,0,1824,0
+15,GMS/GPS Daman Hindki (Female) (P),34.07064,71.6328,Female,KPK,0,4,0,1531
+1,GHS Mian Gujar (Male) (P) PS-1,34.07697,71.6692,Male,KPK,4,0,1556,0
+2,GHS Mian Gujar (Male) (P) PS-2,34.07697,71.66923,Male,KPK,4,0,1351,0
+3,GGHS  Mian Gujar (Female)  (P),34.07961,71.67943,Female,KPK,0,4,0,2126
+4,GPS  Kharaka (Male) PS-1,34.09682,71.657,Male,KPK,3,0,1073,0
+5,GPS  Kharaka (Female) PS-2,34.09682,71.65703,Female,KPK,0,2,0,862

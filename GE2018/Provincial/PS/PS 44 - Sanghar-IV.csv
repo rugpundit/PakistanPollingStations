@@ -1,0 +1,70 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+23,Govt. Primary School Haji Pir Bux Hingoro (Comb)(T),25.689797008242614,68.67131098178314,Combined,Sindh,2,1,498,366
+20,Govt. Primary School Ch; Habibullah (Combined)(P),25.70322718388468,68.64322662769695,Combined,Sindh,2,2,535,464
+22,Govt. Primary School Ali Mardan Jamali (Male)(P),25.712309826947482,68.6593925727514,Male,Sindh,4,0,1182,0
+21,Basic Health Unit Ali Mardan Jamali (Female)(P),25.71274459112999,68.6594559164839,Female,Sindh,0,3,0,1057
+19,Govt. Primary School Mir Haassan Mari (Female)(T),25.73012458819628,68.67407701114404,Female,Sindh,0,3,0,959
+17,Govt. High School Mir Hassan Mari (Male)(T),25.730563143935576,68.67446813684928,Male,Sindh,4,0,1222,0
+16,Govt. High School Mir Hassan Mari (Male)(P),25.73064814125285,68.67447498701688,Male,Sindh,4,0,1552,0
+95,BHU Dispensary Johar Abad (Male)(T),25.762234465080336,68.66613006499499,Male,Sindh,2,0,837,0
+72,Govt. Primary School Malook Malokani (Comb)(P),25.8354615,68.6553198,Combined,Sindh,2,2,597,498
+73,Govt. Primary School Muhammad Rahim  Malokani (Comb)(T),25.8354615,68.6553498,Combined,Sindh,2,2,720,588
+44,Govt. Primary School Qaim Kashkali (Combined)(P),25.8358133,68.6553198,Combined,Sindh,2,2,539,460
+45,G.P.S- Qaim Makrani at Jalal Mari Station  (Comb) (T),25.8358133,68.6553498,Combined,Sindh,1,1,602,460
+33,Govt. Primary School Allah Dino Bodani  (Comb)(T),25.839836,68.6609091,Combined,Sindh,2,2,605,487
+48,Govt. Primary School Lemo Faqir Junejo (Combined)(T),25.839836,68.6609391,Combined,Sindh,2,2,664,584
+32,Govt. Primary School Saleh Khaskhali  (Comb)(T),25.8414236,68.6597913,Combined,Sindh,2,2,733,648
+35,Imrovised at GPS Shadi Faqeeer Thaheem (Comb)(T),25.8414236,68.6598213,Combined,Sindh,1,1,456,404
+46,Govt. Primary School Faqir Ghulam Hussain Waryah (Female) (P),25.8414236,68.6598513,Female,Sindh,0,2,0,847
+47,Govt. Primary School Faqir Ghulam Hussain Waryah (Male)(P),25.8414236,68.6598813,Male,Sindh,2,0,898,0
+49,Govt. High School Baksho Nizamani (Male)(P),25.8998372,68.6210387,Male,Sindh,2,0,970,0
+50,Govt. High School Baksho Nizamani (Female)(P),25.8998372,68.6210687,Female,Sindh,0,2,0,848
+51,Govt. Primary School Rano Mal (Combined)(P),25.8998372,68.6210987,Combined,Sindh,2,2,837,719
+53,Govt. Primary School Kumab Darhoon (Female)(P),25.8998372,68.6211287,Female,Sindh,0,4,0,1148
+54,Fully Improvised at Govt. Primary School Bara Hazari (Comb),25.8998372,68.6211587,Combined,Sindh,2,2,462,443
+55,Govt. Primary School Gadderahpan (Comb) (T),25.8998372,68.6211887,Combined,Sindh,2,2,627,581
+56,Govt. Primary School Sui Kander (Male)(P),25.8998372,68.6212187,Male,Sindh,4,0,1328,0
+57,Govt. Primary School Sui Kander (Female)(P),25.8998372,68.6212487,Female,Sindh,0,4,0,1356
+58,Improvised Near Ahmed Shahani (Com) (T),25.8998372,68.6212787,Combined,Sindh,1,1,317,321
+59,GPS Mullan Makhan (Female)(P),25.8998372,68.6213087,Female,Sindh,0,4,0,1269
+60,Govt; Dispencry Mullan Makhan (Male),25.8998372,68.6213387,Male,Sindh,3,0,1073,0
+61,GPS Sher Muhammad Dero (Comb) (T),25.8998372,68.6213687,Combined,Sindh,2,2,860,791
+64,Govt. Primary School Sachey Dino Waryah ( Comb)(P),25.9001889,68.6210387,Combined,Sindh,2,2,987,735
+65,Govt. Middle School Piral Makorani (Male)(P),25.9001889,68.6210687,Male,Sindh,4,0,1452,0
+66,Govt. Middle School School Piral Makorani (Female)(P),25.9001889,68.6210987,Female,Sindh,0,4,0,1253
+74,Govt. Middle School Shah Baig Mari (Com)(P),25.9001889,68.6211287,Combined,Sindh,2,2,651,608
+75,Govt. Middle School Shah Baig Mari (Comb)(P),25.9001889,68.6211587,Combined,Sindh,2,2,790,679
+76,B.H.U. Pero Faqeer Shoro (Female)(T),25.9001889,68.6211887,Female,Sindh,0,3,0,963
+78,GPS Daim Thaheem (Comb) (T),25.9001889,68.6212187,Combined,Sindh,2,2,525,467
+1,Govt. Middle School Col; Hanif (Comb) (P),25.9162495,68.6202934,Combined,Sindh,2,2,913,700
+2,GPS Habib Saand (Female) (T),25.9162495,68.6203234,Female,Sindh,0,3,0,1083
+3,GPS Faqeer Muhammad (Male)(T),25.9162495,68.6203534,Male,Sindh,3,0,1613,0
+4,Govt. Girls Primary School Col; Hanif (Comb)(P),25.9162495,68.6203834,Combined,Sindh,2,2,631,582
+5,Govt. Primary School Haji Ghulam Qadir Junijo (Male) (P),25.9162495,68.6204134,Male,Sindh,3,0,1049,0
+6,Govt. Primary School Haji Ghulam Qadir Junijo (Female) (P),25.9162495,68.6204434,Female,Sindh,0,3,0,1008
+7,Govt. Primary School Arif Sand (Male) (P),25.9162495,68.6204734,Male,Sindh,3,0,1034,0
+8,Govt. Primary School Arif Sand (Female)(P),25.9162495,68.6205034,Female,Sindh,0,3,0,927
+9,GPS Karim Dad Mari (Combined),25.9162495,68.6205334,Combined,Sindh,2,2,743,663
+10,GPS Abdul Majeed Dero (Comb)(T),25.9162495,68.6205634,Combined,Sindh,2,2,739,681
+11,GPS Bago Lashari (Comb)(P),25.9162495,68.6205934,Combined,Sindh,2,2,788,684
+12,Govt. Middle School  Mitho Khoso (Male)(P),25.9162495,68.6206234,Male,Sindh,4,0,1718,0
+13,Govt. Girls Primary School Mitho Khoso (Femal) (P),25.9162495,68.6206534,Female,Sindh,0,4,0,1496
+14,Govt. Primary School Sache Dino Saand (Comb)(T),25.9162495,68.6206834,Combined,Sindh,2,2,469,451
+24,Govt. Middle School Sanjar Khan Junijo (Male)(P),25.9162495,68.6207134,Male,Sindh,4,0,1504,0
+25,Govt. Girls Primary School Sanjar Khan Junijo (Female),25.9162495,68.6207434,Female,Sindh,0,4,0,1371
+26,Govt. Primary School Ghulam Mustafa Junijo (Male)(P),25.9162495,68.6207734,Male,Sindh,2,0,684,0
+27,Govt. Primary School Ghulam Mustafa Junijo (Female)(T),25.9162495,68.6208034,Female,Sindh,0,2,0,650
+30,GPS Muhammad Khan Jaskani  (Comb) (T),25.9162495,68.6208334,Combined,Sindh,2,1,506,419
+31,Fully Improvised at Govt. Primary School Subhanallah (Comb)(P).,25.9162495,68.6208634,Combined,Sindh,2,2,794,722
+62,Govt. High School Baqar Khan Nizamani (Male)(P),25.9186322,68.6139371,Male,Sindh,4,0,1686,0
+63,Govt. High School Bakar Khan Nizamani (Female)(P),25.9186322,68.6139671,Female,Sindh,0,4,0,1463
+39,Govt. Girls Primary School Duthro Sharif  (Comb)  (P),25.9227478,68.6556924,Combined,Sindh,2,2,582,452
+42,GMS Saleh Abad (Comb)(T),25.9227478,68.6557224,Combined,Sindh,2,2,768,613
+37,Govt. High School Bago Wadadani (Male)(P),25.9231567,68.6560651,Male,Sindh,4,0,1370,0
+70,GPS Choudry Shamshad Ali (Comb)(T),25.9231567,68.6560951,Combined,Sindh,2,2,760,541
+71,Basic Health Unit Khairo Kaloi (Comb)(P),25.9246288,68.654202,Combined,Sindh,2,2,542,510
+41,GPS Landhi (Male)(P),25.9251112,68.6504758,Male,Sindh,4,0,1336,0
+68,Govt. Primary School Kamal Burriro (Male)(P),25.9251684,68.6508484,Male,Sindh,4,0,1492,0
+69,Govt. Girls Primary School Kamal Burriro (Female)(P),25.9251684,68.6508784,Female,Sindh,0,4,0,1248
+38,Govt. Primary School Bago Wadadani (Female)(P),25.9260182,68.6426507,Female,Sindh,0,4,0,1172
+40,GPS Ali Khan Sirewal (Comb)(T),25.9266896,68.6515936,Combined,Sindh,2,2,556,506

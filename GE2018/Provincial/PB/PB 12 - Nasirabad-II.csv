@@ -1,0 +1,39 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+3,Govt: Primary School Abdul Rahim,28.2375,67.96745,Combined,Balochistan,2,1,560,520
+39,Govt: Middle School Karam Khan Umrani,28.28838,67.96591,Combined,Balochistan,2,1,548,489
+6,Govt: Primary School Sabz Ali Umrani,28.31033,67.74366,Male,Balochistan,4,0,1449,0
+22,Civil Dispensary Molvi Lehri,28.35351,67.90437,Male,Balochistan,2,0,712,0
+24,Govt: Primary School Molvi Lehri,28.35446,67.90166,Female,Balochistan,0,3,0,893
+45,Govt: Primary School Lal Jan,28.35637,67.95251,Combined,Balochistan,2,1,520,445
+17,Govt: Girls Primary School Fateh Muhammad,28.38103,67.96094,Female,Balochistan,0,3,0,981
+8,Govt: Primary School Goth Abdullah Khan Umrani,28.38215,67.80132,Male,Balochistan,3,0,1027,0
+15,Govt: Boys Primary School Fateh Mohammad,28.38287,67.96339,Male,Balochistan,3,0,955,0
+5,Civil Dispensary Mehrab Wah,28.38333,67.8006,Combined,Balochistan,2,1,602,500
+34,Civil Dispensary Sardar Akbar Umrani (Roopa),28.38635,68.01397,Male,Balochistan,2,0,834,0
+59,Govt: Middle School  Dil Murad Gola,28.39735,68.0406,Combined,Balochistan,1,1,473,381
+30,Govt: High School Aziz Abad (Primary Section),28.40875,67.97813,Male,Balochistan,4,0,1135,0
+74,Govt; Middel School- Qadirabad,28.40896,68.12502,Male,Balochistan,3,0,929,0
+75,Govt: Girls Middle School- Qadirabad,28.40957,68.12568,Female,Balochistan,0,3,0,915
+70,Govt: High School Noor Muhammad Mengal (portion-I),28.42278,68.13821,Male,Balochistan,3,0,929,0
+71,Govt: HighSchool Noor Muhammad Mengal (Portion-II),28.42278,68.13824,Male,Balochistan,3,0,930,0
+72,Civil Dispensery Noor Muhammad Mengal             (Port-I),28.42307,68.13776,Female,Balochistan,0,3,0,916
+73,Civil Dispensary Noor Muhammad Mengal            (Port-II),28.42307,68.13779,Female,Balochistan,0,3,0,916
+28,Govt: Middle School Taj Muhammad Lehri,28.42579,67.9876,Male,Balochistan,3,0,1013,0
+41,Govt: Primary School Abdul Rahim Umrani,28.42778,67.7607,Combined,Balochistan,1,1,365,284
+26,Govt: Primary School Muhammad Raheem Rid,28.42996,67.99133,Combined,Balochistan,2,1,460,375
+61,Govt: Primary School Ghulam Nabi Marri,28.44088,68.05016,Combined,Balochistan,2,2,750,600
+65,BHU Mir Gul Jattak,28.44225,68.12735,Combined,Balochistan,2,1,521,424
+64,Govt: Primary School- Mir Gul Jattak,28.44278,68.12732,Combined,Balochistan,2,1,521,423
+97,BHU Sabz Ali Umrani,28.44652,68.18993,Combined,Balochistan,2,2,618,505
+62,Govt: Primary School Haji Kloo Khan Marri,28.44939,68.05032,Combined,Balochistan,2,1,703,417
+1,Govt: Primary School Aalooda Baba Kot,28.45382,67.82137,Combined,Balochistan,1,2,505,524
+91,Govt: Primary School Mangoli,28.47175,68.27702,Combined,Balochistan,1,1,489,276
+54,Govt: Boys High School Shori Data,28.48266,68.04316,Combined,Balochistan,2,1,592,472
+55,Govt: High School Shori Data (Portion-II),28.48266,68.04319,Combined,Balochistan,2,1,592,473
+86,Govt: Boys High School Kot Mengal (High Section),28.48982,68.26139,Male,Balochistan,4,0,1307,0
+87,Govt: Boys High School Kot Mengal (Potion-II),28.49004,68.26126,Male,Balochistan,4,0,1307,0
+93,Govt: Middle School Abdul Majeed Lehri,28.49471,68.20921,Male,Balochistan,3,0,857,0
+95,Govt: Middle School Abdul Majeed Lehri,28.49471,68.20924,Female,Balochistan,0,2,0,691
+89,Govt: Girls Primary School Abdul Rehman Hijwani,28.50388,68.18459,Combined,Balochistan,1,1,452,341
+84,Govt: Primary School Haji Khan Jatoi,28.50995,68.21471,Combined,Balochistan,2,1,560,339
+100,Govt: Primary School Ranjhan Khan Hara (BEF Building),28.587,68.10126,Combined,Balochistan,2,2,795,413

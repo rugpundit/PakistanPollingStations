@@ -1,0 +1,68 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+47,Government Boys High School Chokhi (Combined),27.92259,67.62246,Combined,Balochistan,2,2,529,431
+39,Govt Boys Primary School Khichi Jadid ( Combined),27.94424,67.53206,Combined,Balochistan,2,1,555,341
+61,Government Boys High School Shambani (Combined),27.9674,67.55451,Combined,Balochistan,2,2,564,468
+45,Government Boys High School Kot Magsi (I) (Male),27.97186,67.64896,Male,Balochistan,3,0,770,0
+46,Government Boys High School Kot Magsi -II (Female),27.97186,67.64899,Female,Balochistan,0,2,0,635
+68,Government Boys High School Mitho (Combined),27.97394,67.51111,Combined,Balochistan,2,1,420,322
+43,Government Boys High School Sakhani (I) (Male),27.9925,67.659,Male,Balochistan,3,0,768,0
+44,Government Boys High School Sakhani (II) (Female),27.9925,67.65903,Female,Balochistan,0,2,0,660
+42,Government Boys Middle School Shah Mir Khan (Combined),28.01572,67.67427,Combined,Balochistan,2,2,455,419
+62,Government Boys Primary School Kohna Shadi Har (Combined),28.024,67.55519,Combined,Balochistan,2,1,410,269
+58,Basic Health Unit Barija (Male) New,28.02545,67.49033,Male,Balochistan,3,0,877,0
+59,Government Boys High School Barija (Female),28.02617,67.49083,Female,Balochistan,0,2,0,695
+60,Government Girls Primary School Barija (Combined),28.02743,67.49065,Combined,Balochistan,2,1,564,362
+40,Govt Boys Primary School Aamir Abad ( Combined ),28.02791,67.59627,Combined,Balochistan,2,1,462,337
+41,Government Boys Middle School Band Mehmood (Combined),28.03897,67.61649,Combined,Balochistan,1,1,279,202
+66,Government Civil Dispensary Saif Abad (Female),28.11573,67.63708,Female,Balochistan,0,3,0,875
+64,Government Boys Primary School Saif Abad (Male) 1,28.12441,67.63937,Male,Balochistan,3,0,836,0
+65,Government Boys Primary School Saif Abad (Male) 2,28.12441,67.6394,Male,Balochistan,3,0,905,0
+67,Government Boys Middle School Dhorri (Combined),28.17718,67.41628,Combined,Balochistan,2,2,639,431
+63,Government Boys Pramiry School Koreja (Combined),28.18217,67.44202,Combined,Balochistan,2,2,657,376
+36,Government Boys Middle School Kabbar (Combined),28.22819,67.54799,Combined,Balochistan,2,2,684,381
+38,Governement Primary School Khaskheli (Combined),28.27695,67.39167,Combined,Balochistan,2,2,684,494
+29,Government Girls Middle School Hindu Mohallah Mithora (Combined) New,28.28461,67.45824,Combined,Balochistan,2,1,431,384
+33,Government Boys Primary School Hindu Mohallah Jhall Magsi (Female) New,28.28462,67.45824,Female,Balochistan,0,3,0,1093
+30,Government Girls High School Jhall Magsi (Female),28.28697,67.45464,Female,Balochistan,0,3,0,1069
+31,Government Boys Middle School Jhall Magsi  (Male) I,28.28697,67.45467,Male,Balochistan,3,0,846,0
+32,Government Boys Middle School Jhall Magsi (Male) (II),28.28697,67.4547,Male,Balochistan,2,0,552,0
+28,Government Boys High School Jhall Magsi (Male),28.28783,67.45148,Male,Balochistan,4,0,1216,0
+57,Government Girls Primary School Mat Sindhurr (Female)  New,28.30109,67.5824,Female,Balochistan,0,2,0,544
+56,Government Boys Primary School Mat Sindhurr (Male),28.30157,67.58483,Male,Balochistan,3,0,1041,0
+35,Basic Health Unit Sarngani (Female),28.31814,67.38224,Female,Balochistan,0,3,0,851
+34,Government Boys High School Sarngani (Male),28.3198,67.38156,Male,Balochistan,3,0,1038,0
+53,Government Boys Primary School Mat Kalo Khan Goth Shafi Mohammad (Combined),28.33752,67.60598,Combined,Balochistan,1,1,395,267
+55,Governement Girls Middle School Hatyari (Female) New,28.36949,67.56013,Female,Balochistan,0,2,0,808
+37,Government Primary School Kocho (Ghulam Rasool Bughrani) Combined,28.38298,67.37942,Combined,Balochistan,1,1,396,299
+52,Government Boys Middle School Safrani (Combined),28.39105,67.40345,Combined,Balochistan,2,2,828,481
+51,Government Boys Primary School Bet Saddique (Combined),28.41611,67.42751,Combined,Balochistan,2,1,635,314
+48,Government Boys Middle School Panjuk (I) (Combined),28.45257,67.52652,Combined,Balochistan,2,2,655,431
+49,Government Boys Middle School Panjuk (II) (Combined),28.45257,67.52655,Combined,Balochistan,1,1,270,157
+21,Governmnet Boys Primery School Noshehrah (Combined),28.51232,67.55959,Combined,Balochistan,2,1,618,367
+11,Government Boys Middle School Mir Pur (Combined) (1),28.52881,67.73714,Combined,Balochistan,2,1,549,319
+12,Government Boys Middle School Mir Pur (Combined) (2),28.52881,67.73717,Combined,Balochistan,1,1,390,245
+50,Government Boys Middle School Khan Pur (Combined),28.53074,67.42538,Combined,Balochistan,1,1,318,184
+17,Government Boys High School Pachh (Male),28.54804,67.40878,Male,Balochistan,3,0,828,0
+18,Government Girls Middle School Pachh (Female) New,28.55132,67.40698,Female,Balochistan,0,2,0,662
+14,Government Girls Middle School Kotara (Female) New,28.55721,67.3834,Female,Balochistan,0,3,0,849
+13,Government Boys High School Kotra (Male),28.55791,67.38091,Male,Balochistan,3,0,1024,0
+19,Government Boys Middle School Feth Pur (Combined) 1,28.56758,67.49447,Combined,Balochistan,1,1,388,282
+20,Government Boys Middle School Feth Pur (Combined) 2,28.56758,67.4945,Combined,Balochistan,2,1,470,321
+15,Government Boys Middle School Khari (Male),28.58748,67.35784,Male,Balochistan,4,0,1130,0
+16,Government Veterinary Dispensory Khari (Female) New,28.59213,67.35882,Female,Balochistan,0,3,0,753
+7,Government Primary School Seed Farm (Combined),28.59899,67.45109,Combined,Balochistan,2,1,461,335
+5,Government Girls Primary School Hussaini Mohallah Gandawah (Female),28.61016,67.48588,Female,Balochistan,0,3,0,806
+1,Government Boys High School Gandawah (Male),28.61074,67.48454,Male,Balochistan,3,0,1146,0
+3,Government Girls High School Gandawah (Female),28.61197,67.48649,Female,Balochistan,0,3,0,999
+2,Government Boys Primary School Basti Kamal Shah Gandawah (Combined) New,28.61298,67.49078,Combined,Balochistan,2,2,546,451
+4,Government Boys High School (Primary Section) Gandawah (Male),28.6139,67.48325,Male,Balochistan,3,0,943,0
+6,Government Girls Primary School Qazi Mohallah (Combined),28.61528,67.48,Combined,Balochistan,2,1,431,369
+27,Government Boys Middle School Konara (Combined),28.63839,67.3761,Combined,Balochistan,3,1,823,391
+26,Government Boys Middle School Patri (Combined),28.66649,67.35939,Combined,Balochistan,2,2,720,477
+23,Government Girls Primary School Gajan (Female),28.67436,67.43018,Female,Balochistan,0,2,0,609
+22,Government Boys High School Gajan (Male),28.6755,67.42725,Male,Balochistan,3,0,932,0
+24,Government Boys Middle School Qazi Ismail (Goth Azad Khan) Combined,28.71239,67.39865,Combined,Balochistan,2,1,618,381
+25,Balochistan Education Foundation Qazi Ismail (Combined) New,28.73051,67.4191,Combined,Balochistan,2,1,484,242
+8,Government Boys Primary School Ghous Pur (Combined),28.73868,67.65127,Combined,Balochistan,2,1,594,326
+9,Government Boys Middle School Shikar Pur (Combined),28.75785,67.69054,Combined,Balochistan,2,1,527,373
+10,Government Boys Primary School Chorri Ghulam Hussain (Combined),28.85606,67.65892,Combined,Balochistan,1,1,307,177

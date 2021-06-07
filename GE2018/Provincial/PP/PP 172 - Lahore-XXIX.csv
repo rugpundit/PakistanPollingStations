@@ -1,0 +1,105 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+75,Govt. Boys H/S- Bucho Ke Majah  ( MALE ),31.22138,74.17032,Male,Punjab,3,0,1361,0
+76,Govt. Boys H/S- Bucho Ke Majah  ( FEMALE ),31.22138,74.17035,Female,Punjab,0,2,0,1035
+77,Govt. Girls H/S- Bucho Ki Majah  ( MALE ),31.22138,74.17038,Male,Punjab,4,0,1642,0
+78,Govt. Girls H/S- Bucho Ki Majah  ( FEMALE ),31.22138,74.17041,Female,Punjab,0,3,0,1144
+73,Govt. Girls High School Babliana  otar ( MALE ),31.22532,74.19753,Male,Punjab,3,0,1349,0
+74,Govt. Girls High School  Babliana otar  ( FEMALE ),31.22532,74.19756,Female,Punjab,0,2,0,973
+71,BHU Babliana Otar  ( MALE ),31.22541,74.20092,Male,Punjab,4,0,1955,0
+72,BHU Babliana Otar  ( FEMALE ),31.22541,74.20095,Female,Punjab,0,4,0,1450
+69,Govt.Boys E/S Babliana  ( MALE ),31.23013,74.20212,Male,Punjab,4,0,1864,0
+70,Govt-Boys E/S Babliana  ( FEMALE ),31.23013,74.20215,Female,Punjab,0,3,0,1336
+79,Govt. E/S- Babliana  (COMBINED),31.23013,74.20218,Combined,Punjab,2,2,1040,697
+17,Christian Instuite School for Boys Raiwind (Male),31.23764,74.20946,Male,Punjab,4,0,2013,0
+18,Christian Instuite School for Boys Raiwind (Female),31.23764,74.20949,Female,Punjab,0,3,0,1451
+19,Christian Instuite School for Boys Raiwind(Combined),31.23764,74.20952,Combined,Punjab,2,2,1069,795
+12,Government Middle School Darbar Baba Rehmat Shah- Lahore. (Permanent) (Male),31.24367,74.2096,Male,Punjab,3,0,1646,0
+13,Government Middle School Darbar Baba Rehmat Shah- Lahore. (Permanent) (Female),31.24367,74.20963,Female,Punjab,0,3,0,1208
+15,Government Middle School Darbar Baba Rehmat Shah- Lahore. (Permanent) (Male),31.24367,74.20966,Male,Punjab,3,0,1591,0
+16,Government Middle School Darbar Baba Rehmat Shah- Lahore. (Permanent) (Female),31.24367,74.20969,Female,Punjab,0,2,0,1153
+59,Govt. Boys Middle School Basti Ameen Pura Raiwind  (COMBINED),31.24535,74.22435,Combined,Punjab,2,1,875,657
+60,Government Boys Middle School- Basti Amin Pura - Lahore. (Permanent)  ( MALE ),31.24535,74.22438,Male,Punjab,3,0,1747,0
+61,Government Boys Middle School- Basti Amin Pura - Lahore. (Permanent)  ( FEMALE ),31.24535,74.22441,Female,Punjab,0,3,0,1342
+8,Govt. Primary School Hakiman Wala Raiwind  (COMBINED),31.24558,74.20432,Combined,Punjab,1,1,555,455
+7,Government Girls Primary School- Gosht Market Mandi Raiwind- Lahore. (Permanent) (Male),31.24593,74.2152,Male,Punjab,3,0,1454,0
+9,Government Girls Primary School- Gosht Market Mandi Raiwind- Lahore.. (Female),31.24593,74.21523,Female,Punjab,0,3,0,1134
+3,Govt. Girls P/S- Mounga Street- Lahore (COMBINED),31.24597,74.21526,Combined,Punjab,2,1,847,662
+14,Government Girls High School Mandi Rawind  (Permanent) (COMBINED),31.247,74.21806,Combined,Punjab,2,2,1033,794
+20,Govt.Girls High School Mandi Rawind(Permanent)(Male),31.247,74.21809,Male,Punjab,3,0,1594,0
+62,Government Girls H/School Mandi Raiwind - Lahore. (Permanent)  ( MALE ),31.247,74.21812,Male,Punjab,3,0,1775,0
+1,Govt. Boys Middle School Melad Chowk Raiwind Town Lahore (Male),31.24701,74.21802,Male,Punjab,3,0,1558,0
+10,Govt. Boys Middle School Milad Chowk Raiwind Town- Lahore. (Permanent) (Male),31.24701,74.21805,Male,Punjab,3,0,1634,0
+11,Govt. Boys Middle School Milad Chowk Raiwind Town- Lahore. (Permanent) (Female),31.24701,74.21808,Female,Punjab,0,3,0,1285
+2,Govt. Boys Middle School Milad Chowk Raiwind Town- Lahore. (Permanent) (Female),31.24701,74.21811,Female,Punjab,0,3,0,1200
+21,Government Girls High School Mandi Rawind  (Permanent) (Female),31.24709,74.21816,Female,Punjab,0,3,0,1208
+5,Govt. Girls H/S Mandi Raiwind- Lahore (Permanent)  ( MALE ),31.24709,74.21819,Male,Punjab,2,0,1193,0
+6,Govt. Girls H/S Mandi Raiwind- Lahore. (Female),31.24709,74.21822,Female,Punjab,0,2,0,1010
+63,Government Girls H/School Mandi Raiwind - Lahore. (Permanent)  ( FEMALE ),31.24709,74.21825,Female,Punjab,0,3,0,1322
+22,Government Girls Primary School- Basti Ameen Pura- Lahore.(Permanent) (Male),31.24854,74.22221,Male,Punjab,3,0,1616,0
+23,Government Girls Primary School- Basti Ameen Pura- Lahore.(Permanent) (Female),31.24854,74.22224,Female,Punjab,0,2,0,1214
+4,Govt. Primary School Village Raiwind- Lahore. (Permanent)  (COMBINED),31.25417,74.21944,Combined,Punjab,1,1,590,572
+46,Government Boys High School Raiwind Lahore. (Permanent) (Male),31.25735,74.23819,Male,Punjab,3,0,1174,0
+47,Government Boys High School Raiwind Lahore.(Permanent) (Female),31.25735,74.23822,Female,Punjab,0,2,0,921
+52,Government Boys High School- Raiwind- Lahore.(Permanent)  ( MALE ),31.25735,74.23825,Male,Punjab,3,0,892,0
+53,Government Boys High School- Raiwind- Lahore.(Permanent)  ( FEMALE ),31.25735,74.23828,Female,Punjab,0,1,0,509
+49,Government Girls High School Raiwind Pind Lahore.(Permanent) (Male),31.25736,74.21983,Male,Punjab,3,0,1419,0
+50,Government Girls High School Raiwind Pind Lahore.(Permanent) (Female),31.25736,74.21986,Female,Punjab,0,2,0,1112
+51,Govt. Girls High school Raiwind Khurd (Combined),31.25736,74.21989,Combined,Punjab,2,2,1257,841
+45,Social Welfare & Bait ul Mall- Welfare Home for Baggers (Combined),31.25974,74.22007,Combined,Punjab,2,1,1053,765
+48,Social Welfare & Bait ul Mall- Welfare Home for Baggers (COMBINED),31.25974,74.2201,Combined,Punjab,2,1,835,594
+97,Govt.Primary School Ladhekey Nevain  permanent  (COMBINED),31.26864,74.32199,Combined,Punjab,1,1,675,424
+98,Govt.Primary School Ladhekey Nevain  permanent  (COMBINED),31.26864,74.32202,Combined,Punjab,2,1,667,470
+104,Govt Girls Primary School Jodu Dheer  ( MALE ),31.27083,74.24611,Male,Punjab,3,0,1425,0
+105,Govt Girls Primary School Jodu Dheer  ( FEMALE ),31.27083,74.24614,Female,Punjab,0,2,0,1036
+102,Govt.Boys High School  Jodhodher  permanent  ( MALE ),31.27224,74.2465,Male,Punjab,2,0,1102,0
+103,Govt.Boys High School  Jodhodher  permanent  ( FEMALE ),31.27224,74.24653,Female,Punjab,0,2,0,746
+106,Govt.Boys High School  Jodhodher permanent  (COMBINED),31.27224,74.24656,Combined,Punjab,2,2,1140,852
+58,Government Boys High Jodho Dheer- Lahore.(Permanent)  (COMBINED),31.27224,74.24659,Combined,Punjab,2,1,750,519
+92,Govt.Boys High School Ladhekey Uchey  permanent  ( MALE ),31.27654,74.31935,Male,Punjab,3,0,1484,0
+93,Govt.Boys High School Ladhekey Uchey permanent  ( FEMALE ),31.27654,74.31938,Female,Punjab,0,2,0,782
+107,Govt. Primary School Kingra Lahore. permanent  (COMBINED),31.2804,74.26213,Combined,Punjab,2,1,769,452
+108,Govt. Primary School Kingra Lahore. permanent  ( MALE ),31.2804,74.26216,Male,Punjab,2,0,634,0
+109,Govt. Primary School Kingra Lahore. (Female-) permanent,31.2804,74.26219,Female,Punjab,0,1,0,361
+100,Govt.Girls Primary School Watna  permanent  ( FEMALE ),31.28259,74.28466,Female,Punjab,0,2,0,812
+99,Govt.Boys Middle School Watna permanent  ( MALE ),31.283,74.29041,Male,Punjab,3,0,1298,0
+32,Office of UC   264 (COMBINED),31.29168,74.18859,Combined,Punjab,1,1,629,446
+101,Govt.Boys Middle School  Dhohandey permanent  (COMBINED),31.29275,74.23279,Combined,Punjab,2,1,928,522
+55,Government Boys M/S  Pajian Lahore.(Permanent)  ( MALE ),31.29866,74.22435,Male,Punjab,3,0,1379,0
+56,Government Boys M/S  Pajian Lahore.(Permanent)  ( Female ),31.29866,74.22438,Female,Punjab,0,2,0,979
+57,Government Girls P/S  Pajian Lahore.(Permanent)  (COMBINED),31.29866,74.22441,Combined,Punjab,1,1,672,523
+64,Govt. Primary School Manak Lahore  ( MALE ),31.29978,74.20052,Male,Punjab,3,0,1428,0
+65,Govt. Primary school Manak Lahore  ( FEMALE ),31.29978,74.20055,Female,Punjab,0,2,0,1019
+82,Sir Syed Model School Jia Baga  (COMBINED),31.30905,74.33253,Combined,Punjab,2,1,943,636
+85,Govt Primary School Jia Baga lahore  (COMBINED),31.30905,74.33256,Combined,Punjab,2,1,885,528
+88,Govt.Boys High School Jiabaga  permanent  ( MALE ),31.30905,74.33259,Male,Punjab,4,0,1799,0
+89,Govt.Boys High School Jiabaga (permanent)( FEMALE ),31.30905,74.33262,Female,Punjab,0,3,0,1104
+54,Govt. Primary School- Tibba Pajian- Raiwind Road- Lahore.  (COMBINED),31.31239,74.22546,Combined,Punjab,2,1,806,487
+33,Government High School- Sultankay- Lahore. (Permanent) (Male),31.32567,74.15086,Male,Punjab,4,0,1616,0
+34,Govt.  High School Sultankay Lahore (Permanent) (Female),31.32567,74.15089,Female,Punjab,0,2,0,1149
+38,Basic Health Unit - Jia Baga Lahore (Male),31.32978,74.28873,Male,Punjab,3,0,1677,0
+86,Basic Health Unit Jia Baga   ( MALE ),31.32978,74.28876,Male,Punjab,3,0,1194,0
+87,Community Center- Jia Baga  ( FEMALE ),31.32979,74.26984,Female,Punjab,0,2,0,769
+94,Govt.Boys Middle School Karyal Lahore. permanent  (COMBINED),31.32979,74.26987,Combined,Punjab,2,1,899,543
+90,Govt.Girls High School  Jiabaga permanent  (COMBINED),31.33019,74.28818,Combined,Punjab,1,1,594,390
+91,Govt.Girls High School  Jiabaga permanent  (COMBINED),31.33019,74.28821,Combined,Punjab,1,1,660,395
+95,Govt Girls .Middle School Ghang Sharif permanent  ( MALE ),31.33118,74.31892,Male,Punjab,4,0,1576,0
+96,Govt Girls .Middle School Ghang Sharif permanent  ( FEMALE ),31.33118,74.31895,Female,Punjab,0,2,0,913
+36,Government High School for Boys- Aryain Lahore (Permanent) (Male),31.33195,74.23306,Male,Punjab,3,0,1435,0
+37,Government High School- for Boys- Aryian Lahore. (Permanent) (Female),31.3325,74.23389,Female,Punjab,0,2,0,1096
+83,Govt Boys Primary School Khananepal permanent  ( MALE ),31.33316,74.25237,Male,Punjab,3,0,1329,0
+84,Govt Boys Primary School Khananepal  permanent  ( FEMALE ),31.33316,74.2524,Female,Punjab,0,2,0,1034
+39,Government Girls M/S Aryain- Lahore.(Permanent) (Female),31.33472,74.23528,Female,Punjab,0,2,0,1162
+40,Government Girls Primary School Rakh Rai- Lahore (Permanent) (Combined),31.34669,74.24088,Combined,Punjab,1,1,502,338
+67,Government Middle School- Ram Kot Lahore  ( MALE ),31.34991,74.17482,Male,Punjab,4,0,1788,0
+68,Government Middle School- Ram Kot Lahore  ( FEMALE ),31.34991,74.17485,Female,Punjab,0,3,0,1220
+27,Government Elemantary School- Sundar- Lahore.(Permanent) (Combined),31.35502,74.12809,Combined,Punjab,2,1,817,595
+24,Govt. Girls High School- Sundar  (COMBINED),31.35521,74.12456,Combined,Punjab,2,2,921,736
+25,Government Girls High School- Sundar  Lahore.(Permanent) (Male),31.35521,74.12459,Male,Punjab,3,0,1208,0
+26,Government Girls High School- Sundar- Lahore (Permanent) (Female),31.35521,74.12462,Female,Punjab,0,2,0,917
+28,Govt. Primary School Rangeel Pur Lahore (Permanent) (Male),31.35554,74.12458,Male,Punjab,3,0,1552,0
+29,Government Girls Primary school Rangeelpur Lahore (Permanent) (Female),31.35554,74.12461,Female,Punjab,0,2,0,1135
+35,Govt. Girls P/S- Aasal Kundal (Combined),31.35726,74.20803,Combined,Punjab,2,1,1006,625
+66,Government P/School- Asal Lakhowal  (COMBINED),31.35726,74.20806,Combined,Punjab,2,1,885,665
+30,Govt. Girls High School Sultankey Lahore (Male),31.36304,74.10644,Male,Punjab,4,0,1774,0
+31,Government Girls High School- Sultankay- Lahore.  (Female),31.36304,74.10647,Female,Punjab,0,2,0,1110
+41,Government Boys  Primary School- Tarogill - Lahore. (Permanent)  (COMBINED),31.36313,74.20606,Combined,Punjab,2,1,874,561

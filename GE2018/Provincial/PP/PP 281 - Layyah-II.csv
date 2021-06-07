@@ -1,0 +1,126 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+99,Government Girls Middle  School  Thind Klan Nashaib Malik Wala   (Combined),30.9570487,70.9415124,Combined,Punjab,2,2,956,801
+101,Government  Primary School Lodhra     Sumra Nashaib.   (Combined),30.9570487,70.9415424,Combined,Punjab,2,1,936,756
+102,Government Girls High  School Sumra Nashaib Shumali.   (Combined),30.9570487,70.9415724,Combined,Punjab,2,1,727,615
+103,Government Girls Communities Medel School Basti Joya Sumra Nashaib ShumalI  (Combined),30.9570487,70.9416024,Combined,Punjab,2,1,553,469
+104,Government Boys High  School Annar Wala   (Combined),30.9570487,70.9416324,Combined,Punjab,2,2,1042,856
+105,Government BoysPrimary School Karoo Magasi Wala   (Combined),30.9570487,70.9416624,Combined,Punjab,2,2,775,694
+106,Government Boys Primary School Basti Gurmani   (Combined),30.9570487,70.9416924,Combined,Punjab,2,1,947,802
+107,Government Girls Primary School Imtiaz Abad   (Combined),30.9570487,70.9417224,Combined,Punjab,1,1,496,448
+110,Government Girls Middle  School 120-A/TDA   (Combined),30.9570487,70.9417524,Combined,Punjab,2,1,817,719
+111,Govt Boys Middle School 274/TDA   (Combined),30.9570487,70.9417824,Combined,Punjab,1,1,725,561
+112,Government Girls Primary School 128/TDA(Old) (Combined),30.9570487,70.9418124,Combined,Punjab,2,2,978,855
+114,Government Girls Primary School 122/TDA (Abdullah Wala)   (Combined),30.9570487,70.9418424,Combined,Punjab,2,2,1201,939
+115,Government Boys Primary School 117/TDA   (Combined),30.9570487,70.9418724,Combined,Punjab,2,2,1052,852
+117,Government Boys Primary School 114-A/TDA  (Combined),30.9570487,70.9419024,Combined,Punjab,2,1,967,792
+100,Government Primary  School Pacca Thindan Wala   (Combined),31.01642159405856,70.92951219382293,Combined,Punjab,2,2,913,782
+134,Government Boys Primary School Shafi Abad (Combined),31.026422766600756,70.93778224750162,Combined,Punjab,1,1,472,369
+18,Government Boys Primary School Chak No. 331/TDA        (Combined),31.02797044333854,71.2439204872573,Combined,Punjab,2,2,858,726
+133,Government Boys Primary School Thind Nashaib   (Combined),31.035991882532556,70.93831686563543,Combined,Punjab,2,1,847,733
+123,Government Boys Middle  School Wara Gishkorey Nashaib   (Male),31.03658363116728,70.91253528340806,Male,Punjab,2,0,1187,0
+124,Government Boys Middle  School Wara Gishkorey Nashaib   (Female),31.03658363116728,70.9125652834081,Female,Punjab,0,2,0,968
+14,Government Boys Primary School Chak No. 319/TDA        (Male),31.04471171608104,71.24924795780876,Male,Punjab,2,0,1072,0
+15,Government Boys Primary School Chak No. 319/TDA        (Female),31.04471171608104,71.2492779578088,Female,Punjab,0,2,0,877
+128,Government Girls Primary School Akhter Abad   (Combined),31.048834189899193,70.88178062047456,Combined,Punjab,1,1,678,544
+132,Government Girls Primary School 114-B/TDA (Combined),31.049349061862063,70.96779230620439,Combined,Punjab,2,1,882,679
+131,Government Boys Primary School 114-B/TDA   Shahni Wala   (Combined),31.05016278061821,70.96547517368542,Combined,Punjab,1,1,600,446
+19,Government Boys Primary School Chak No. 326/TDA        (Combined),31.0505,71.27615,Combined,Punjab,1,1,508,396
+16,Government Girls Elementry School Chak No. 325/TDA        (Female),31.050626198987473,71.30190347414714,Female,Punjab,0,2,0,946
+17,Government Boys Primary School Chak No. 325/TDA        (Male),31.050626198987473,71.3019334741471,Male,Punjab,2,0,1159,0
+59,Government Boys Primary School 291/TDA  (Combined),31.053091219032886,71.1754886730254,Combined,Punjab,2,1,692,488
+10,Government Boys Middle School Chak No. 315/TDA        (Combined),31.054347252396116,71.22569976682946,Combined,Punjab,2,2,970,729
+58,Government Girls Middle School 290/TDA        (Combined),31.0572200394487,71.16098893836072,Combined,Punjab,2,2,975,681
+121,Government Boys High  School Basti Shado Khan (Part-II)    (Male),31.05804343569564,70.90868197492429,Male,Punjab,3,0,1646,0
+122,Government Boys High  School Basti Shado Khan (Part-II)    (Male),31.05804343569564,70.9087119749243,Male,Punjab,2,0,996,0
+118,Basic Health Unoit  Basti Shado Khan   (Combined),31.05846581187594,70.90825980001738,Combined,Punjab,2,1,978,768
+125,Government Boys Middle  School Noshera Thal Jandi   (Combined),31.058777885109723,70.94627757504702,Combined,Punjab,2,1,966,771
+129,Government Boys  High  School Durratta   (Combined),31.065977551359794,70.96892981597111,Combined,Punjab,1,1,698,536
+11,Government Boys High School Chak No. 321/TDA        (Male),31.06629617035928,71.28456186946708,Male,Punjab,2,0,1082,0
+12,Government Boys High School Chak No. 321/TDA        (Female),31.06629617035928,71.2845918694671,Female,Punjab,0,2,0,852
+126,Government Boys Primary School Jhok Hassan Khan  (Combined),31.0706835116203,70.85620101979478,Combined,Punjab,1,1,557,449
+54,Loreto BoysHigh School Mishan 270/TDA        (Male),31.073100715866904,71.11928364852368,Male,Punjab,2,0,1252,0
+55,Lorato BoysHigh School Mishan 270/TDA        (Female),31.073100715866904,71.1193136485237,Female,Punjab,0,2,0,1075
+127,Government Girls Primary School Mustifa Khan Lashkarani Wala  (Combined),31.075936886873944,70.87775337481726,Combined,Punjab,2,1,948,716
+7,Government  Girls Primary School Chak No. 314/TDA        (Female),31.07697277037482,71.24658115553335,Female,Punjab,0,2,0,962
+8,Government Boys Primary School Chak No. 314/TDA        (Male),31.07697277037482,71.2466111555333,Male,Punjab,3,0,1320,0
+130,Government Boys Primary School Bangla Nasir Khan   (Combined),31.078983455863863,70.94224623723629,Combined,Punjab,2,1,768,580
+9,Government Boys Primary School Chak No. 312/TDA        (Combined),31.083162105768626,71.30076639630262,Combined,Punjab,1,1,436,334
+92,Government Boys High School Shah Pur (Part-I)   (Male),31.083295082581767,70.94227690629512,Male,Punjab,3,0,1467,0
+93,Government Boys High School Shah Pur (Part-II) )  (Female),31.083295082581767,70.9423069062951,Female,Punjab,0,3,0,1206
+57,Government Boys Primary School 273 No.2        (Combined),31.0860314739996,71.0638794279233,Combined,Punjab,2,2,867,743
+64,Government Girls High School 293/TDA  (Combined),31.08742785895145,71.18640089956992,Combined,Punjab,2,1,711,476
+94,Government Boys Middle School 113/TDA Basti Shah Hussain        (Combined),31.087924468852872,71.02877295619463,Combined,Punjab,2,2,1028,740
+95,Government Girls Primary School 113/TDA Basti Shah Hussain        (Combined),31.09182217723481,71.03080442430952,Combined,Punjab,1,1,523,433
+76,Government Boys Primary Schoo Chak No.115/TDA   (Combined),31.093061824579266,70.98442422566681,Combined,Punjab,2,2,980,793
+26,Government Boys Primary School Haidar Shah Wala.        (Male),31.094150055123173,70.94212927562386,Male,Punjab,2,0,1110,0
+27,Government Boys Primary School Haidar Shah Wala.        (Female),31.094150055123173,70.9421592756239,Female,Punjab,0,2,0,875
+96,Government Girls Middle School Haider Shah Wala Aulakh Thal Jandi. (Combined),31.094173335741147,70.94148463492947,Combined,Punjab,2,2,914,759
+60,Government Boys Primary School 267/TDA        (Combined),31.09460099076028,71.14466830887643,Combined,Punjab,2,1,699,454
+56,Government Boys Primary School 260/TDA (Combined),31.095560666825133,71.13379847073612,Combined,Punjab,2,1,731,590
+2,Government Boys Primary School 310/TDA.        (Combined),31.09929186498546,71.26414174872617,Combined,Punjab,2,2,827,603
+91,Government Boys Primary School 111/TDA  (Combined),31.099932338024388,71.07571473187146,Combined,Punjab,2,2,1038,796
+13,Government Boys Middle School Kanjan Wala        (Combined),31.102412625913555,71.37283051329193,Combined,Punjab,1,1,651,451
+48,Government Boys Primary School Basti Sehar.  (Combined),31.102444052286796,70.84782479328005,Combined,Punjab,2,2,800,637
+75,Government Boys High School Asif Abad 116/TDA         (Combined),31.102730312200695,70.97712054200592,Combined,Punjab,2,1,719,571
+74,Government Boys Primary School Sadat Nagar        (Combined),31.107397011717268,70.94113293869978,Combined,Punjab,1,1,629,507
+81,Government Boys Primary School 112/TDA.        (Combined),31.109816209763043,71.05307177308916,Combined,Punjab,1,1,572,476
+61,Government Boys Primary School 264/TDA  (Combined),31.11358593897799,71.16986568867154,Combined,Punjab,2,2,758,620
+45,Government Boys Primary School Basti Pitafi        (Combined),31.11523942929426,70.89700271208866,Combined,Punjab,2,2,865,708
+98,Government Boys Primary School 304/TDA.  (Combined),31.11579687480896,71.21553784059515,Combined,Punjab,2,1,632,512
+63,Government Boys Primary School 295/TDA  (Combined),31.115968608695276,71.21156946995133,Combined,Punjab,2,1,814,493
+97,Government Boys Primary School 305/TDA  (Combined),31.115968608695276,71.2115994699513,Combined,Punjab,2,2,1008,738
+1,Government Boys Primary School Chak No. 303/TDA        (Combined),31.118603517783193,71.2428473102939,Combined,Punjab,2,2,1025,715
+52,Government Boys High School 261/TDA  (Combined),31.120869249683295,71.13352745717721,Combined,Punjab,2,2,743,513
+89,Government Boys High School 110/TDA        (Female),31.120929238307014,71.06840190187232,Female,Punjab,0,2,0,861
+90,Government Boys High School 110/TDA        (Male),31.120929238307014,71.0684319018723,Male,Punjab,2,0,1136,0
+78,Government Girls Middle School 115-B/TDA        (Combined),31.122628744572616,70.97688852663596,Combined,Punjab,1,1,494,438
+79,Government Boys Primary School 115-A/TDA Chema Wala  (Combined),31.12439685187416,70.95084518008846,Combined,Punjab,2,2,856,645
+86,Government Boys Primary School  Hassan sher 114/TDA  (Combined),31.124560421015687,71.00082040011976,Combined,Punjab,2,2,980,813
+5,Government Boys Primary School Sumra Thal Klan Luhlu Wala        (Male),31.12682634371698,71.35898932958872,Male,Punjab,2,0,1159,0
+6,Government Boys Primary School Noshara Thal Klan Luhlu Wala        (Female),31.12682634371698,71.3590193295887,Female,Punjab,0,2,0,764
+80,GovernmentBoys  primary School 109/TDA (Combined),31.12703752981595,71.03736732563097,Combined,Punjab,2,2,925,672
+84,Government Boys High school 108 TDA Basti Subhani  (Combined),31.128068566962163,71.01929119732436,Combined,Punjab,2,2,1033,779
+46,Government Boys Middle School Inayat Shah(Shafiq Abad)        (Male),31.12907253387106,70.91760192176119,Male,Punjab,3,0,1212,0
+47,Government Boys Middle School Inayat Shah(Shafiq Abad)        (Female),31.12907253387106,70.9176319217612,Female,Punjab,0,2,0,995
+51,Government Boys Primary School 263/TDA  (Combined),31.129155049387187,71.16295537344367,Combined,Punjab,2,2,789,648
+72,Government High School Sahu Wala         (Male),31.12923930571388,70.93584626406842,Male,Punjab,3,0,1330,0
+73,Government Girls High School Sahu Wala         (Female),31.13360288390395,70.93475279029718,Female,Punjab,0,2,0,1113
+87,Government Boys Middle School 103/TDA        (Male),31.13394143700693,71.09376597562391,Male,Punjab,2,0,1078,0
+3,Government Girls Primary School Chak No. 298/TDA        (Combined),31.13410239927918,71.2253448741396,Combined,Punjab,2,2,897,725
+71,Government Boys Primary School 100-B/TDA        (Combined),31.13475346453563,70.9343674984818,Combined,Punjab,2,1,729,500
+50,Government Boys Primary School 297/TDA        (Combined),31.135402691866354,71.21156890127851,Combined,Punjab,2,2,1385,1025
+53,Government Boys Primary School 256/TDA  (Combined),31.137119028956388,71.11071173814894,Combined,Punjab,1,1,519,367
+77,Government Girls Primary School 115-A/TDA         (Combined),31.13966838556929,70.97539545916511,Combined,Punjab,2,2,713,600
+20,Government Girls Middle School Basti Shahani        (Combined),31.14051259762123,70.87666833430264,Combined,Punjab,1,1,568,464
+85,Government Boys Primary School 107/TDA (Combined),31.143566359140976,71.00112718616404,Combined,Punjab,2,2,958,795
+70,Government Boys Primary School 100-A/TDA  (Combined),31.1435825818091,70.95537157556811,Combined,Punjab,2,2,1120,796
+83,Government Boys Primary School 106/TDA  (Combined),31.14503468761357,71.0276445449527,Combined,Punjab,2,1,734,549
+25,Government Girls High School Basti Qazi         (Female),31.1473093781102,70.89422218103387,Female,Punjab,0,3,0,1547
+23,Government Boys High School Basti Qazi         (Male),31.14761475449493,70.89533838945596,Male,Punjab,3,0,1113,0
+24,Government Boys High School Basti Qazi         (Male),31.14761475449493,70.895368389456,Male,Punjab,2,0,783,0
+82,Government Girls Community Model School Chak No. 105/TDA.        (Combined),31.147823654678653,71.0538112894823,Combined,Punjab,2,1,644,504
+49,Government Boys Primary School Basti saif ullah Gurmani  (Combined),31.14848,70.85669,Combined,Punjab,1,1,476,352
+22,Government Girls Primary School Sanjh Isra-Basti Allah Yar.        (Combined),31.149726256829563,70.87247439679379,Combined,Punjab,2,2,922,774
+21,Government Boys Primary School Mud-Basti Allah Yar.        (Combined),31.151142171211553,70.87336569547426,Combined,Punjab,2,1,680,522
+39,Government Boys Primary School Basera Qadeem        (Male),31.156924774358412,70.86187172415465,Male,Punjab,2,0,1084,0
+4,Government Primary School Shohrat Wala        (Combined),31.164821145529768,71.36570913555438,Combined,Punjab,2,2,1023,682
+36,Government Boys Middle School Basera Jadeed        (Male),31.169045908193937,70.84026466995203,Male,Punjab,2,0,1132,0
+37,Government Boys Middle School Basera Jadid        (Female),31.169045908193937,70.840294669952,Female,Punjab,0,2,0,907
+40,Government Boys High School Laskani Wala        (Combined),31.178150742396973,70.88271648703245,Combined,Punjab,2,2,1053,785
+41,Government Girls Middle School Laskani Wala        (Combined),31.180761628012153,70.88340057710317,Combined,Punjab,2,2,1035,808
+42,Basic Health Unit Laskani Wala        (Male),31.181406239840154,70.87981390921509,Male,Punjab,2,0,1142,0
+43,Basic Health Unit Laskani Wala        (Female),31.181406239840154,70.8798439092151,Female,Punjab,0,2,0,911
+44,Government Boys Middle School Mirrani Jadeed        (Combined),31.195095396678067,70.92423521654484,Combined,Punjab,2,2,997,801
+35,Government Girls Primary School Kachi Bahar Shah    (Combined),31.199170818407307,70.88072071787498,Combined,Punjab,2,1,671,568
+31,Government Boys Middle School Sheen Wala         (Male),31.220351768898354,70.8544624009383,Male,Punjab,3,0,1316,0
+32,Government Boys Middle School Sheen Wala         (Female),31.220351768898354,70.8544924009383,Female,Punjab,0,2,0,955
+33,Government Girls Middle School Sheen Wala         (Female),31.221257466334375,70.85094141168472,Female,Punjab,0,2,0,1110
+34,Government Girls Middle School Sheen Wala         (Male),31.221257466334375,70.8509714116847,Male,Punjab,3,0,1446,0
+28,Government Boys Middle School Daphey Makorey.        (Female),31.243031629248375,70.86083726395653,Female,Punjab,0,2,0,980
+29,Government Boys Middle School Daphey Makorey.        (Male),31.243031629248375,70.8608672639565,Male,Punjab,3,0,1239,0
+30,Government Primary School Rakhwan.        (Combined),31.249323298288104,70.83584994311555,Combined,Punjab,2,2,853,704
+68,Government Boys High School Wara Wehran        (Combined),31.26883457730814,70.84437714944156,Combined,Punjab,2,2,1022,862
+65,Government Girls High School Wara Sehran        (Male),31.274064640609815,70.84376274653974,Male,Punjab,2,0,1011,0
+66,Government Girls High School Wara Sehran        (Female),31.274064640609815,70.8437927465397,Female,Punjab,0,2,0,797
+67,Government Boys Middle School Garra Jan Muhammad         (Combined),31.286597170515183,70.87769761447245,Combined,Punjab,2,2,939,802
+69,Government Girls Middle School (Garra Jan Muhammad)  (Combined),31.288305079143104,70.87333958649496,Combined,Punjab,2,2,924,764

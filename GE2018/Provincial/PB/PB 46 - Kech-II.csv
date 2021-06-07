@@ -1,0 +1,53 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+2,Govt. Boys Middle School Rest house kolwai bazar Absor,25.988,63.08906,Female,Balochistan,0,3,0,1234
+26,Govt. Boys P/S airport road turbat,25.99588,63.04643,Female,Balochistan,0,3,0,1105
+24,Govt- Boys p/s malikabad  (male),25.99866,63.0438,Male,Balochistan,3,0,1006,0
+33,GBPS MALIK ABAD SHAIKHANI BAZAR,25.99866,63.04383,Male,Balochistan,3,0,1093,0
+12,Govt- Girls m/s slalah bazar ( middle section for male ),25.99913,63.07249,Male,Balochistan,2,0,827,0
+13,Govt- Girls m/s salala bazar (primary section for male ),25.99913,63.07252,Male,Balochistan,3,0,909,0
+35,Govt. Boys H/S Shahitump ( High section for Male 1 ),26.00026,63.01822,Male,Balochistan,4,0,1401,0
+5,Govt. Boys h/s Kahuda yousuf muhala absor (High section for male ),26.00031,63.08487,Male,Balochistan,3,0,1169,0
+6,Govt. boys h/s kahuda yousuf mahula absar (primary section for male),26.00031,63.0849,Male,Balochistan,2,0,594,0
+7,Govt.  Girls  h/s kahuda yousuf  mahula absor ( high section for female ),26.00031,63.08493,Female,Balochistan,0,3,0,1029
+8,Govt. Girls h/s kahuda yousuf mahula absor ( primary section for female),26.00031,63.08496,Female,Balochistan,0,2,0,448
+19,OPF School Turbat Kech (comb),26.00117,63.06163,Combined,Balochistan,2,1,563,357
+1,Govt. Boys M/S Absar Lad Balochi Bazar (male),26.00147,63.09759,Male,Balochistan,4,0,1566,0
+22,Govt. college of elementry education turbat,26.00238,63.05695,Male,Balochistan,3,0,1148,0
+28,Govt - Boys P/S dashti bazar turbat (male),26.00258,63.04787,Male,Balochistan,4,0,1348,0
+25,Govt. Boys P/S south chasar (male),26.00271,63.03728,Male,Balochistan,3,0,1255,0
+30,Govt. Boys high school chahsar ( section for male,26.00271,63.03731,Male,Balochistan,3,0,1231,0
+3,Agricultural Research Institute Turbat,26.00288,63.10963,Male,Balochistan,3,0,1262,0
+32,Govt. Girls High School Chasar (for male),26.00323,63.03511,Female,Balochistan,0,4,0,1324
+20,Govt Boys M/H School Turbat (Male),26.00399,63.05506,Male,Balochistan,3,0,1109,0
+21,Govt. Boys Model high school turbat ( middel section for female),26.00399,63.05509,Female,Balochistan,0,3,0,941
+37,Govt. Girls M/S Shahitump ( Female),26.0049,63.015,Female,Balochistan,0,2,0,503
+9,Govt. Boys H/S absor ( high section for male ),26.00631,63.07739,Male,Balochistan,4,0,1380,0
+16,Old hospital  turbat (female),26.00651,63.0633,Female,Balochistan,0,3,0,1139
+23,Govt. Girls Middle schoole Zor bazar north,26.00656,63.05337,Female,Balochistan,0,2,0,769
+29,Govt- Girls M/S Zoor bazar east turbat (female),26.00656,63.0534,Female,Balochistan,0,3,0,1135
+11,youth club absor(comb),26.00737,63.07668,Combined,Balochistan,2,2,851,631
+15,govt- Boys M/School singanisar ( MALE),26.00778,63.06655,Male,Balochistan,4,0,1445,0
+17,Govt boys p/school abdul rab muhallah turbat (male),26.01067,63.06131,Male,Balochistan,3,0,1025,0
+18,Govt ;girls p/school abdul rab muhallah turbat (female),26.01067,63.06134,Female,Balochistan,0,2,0,759
+39,Govt . Girls H/S Koshkalat high section for male,26.01238,63.01279,Male,Balochistan,3,0,955,0
+40,Govt. Girls H/S Koshkalat high section for female,26.01238,63.01282,Female,Balochistan,0,2,0,740
+41,Govt . Boys H/S Koshkalat Primary section for male,26.01434,63.01027,Male,Balochistan,2,0,669,0
+42,Govt. Boys H/S koshkalat Middle section for female,26.01434,63.0103,Female,Balochistan,0,2,0,525
+51,Govt;Girls P/S Mazari kahn comb,26.02505,62.95339,Combined,Balochistan,2,2,810,644
+57,Govt;Boys H/SDagarikahn comb,26.02529,62.94589,Combined,Balochistan,2,2,857,634
+56,Govt;Boys P/S pullani  for female,26.02883,62.91929,Female,Balochistan,0,3,0,1203
+59,Govt;Boys Middle School Mir mir (for male),26.03071,62.88035,Male,Balochistan,3,0,1030,0
+60,Govt;Girls P/S Meno (comb),26.03074,62.88034,Female,Balochistan,0,3,0,862
+54,Govt ;Boys M/S ginna male,26.03119,62.9295,Male,Balochistan,2,0,491,0
+61,Govt. Boys H/S Kalatuk  High Section For Male,26.03366,62.8973,Male,Balochistan,3,0,1100,0
+62,Govt. Boys H/S Kalatuk Primary Section For Male,26.03366,62.89733,Female,Balochistan,0,2,0,795
+49,Govt. Girls M/S Jusak,26.03401,63.0778,Combined,Balochistan,2,2,657,542
+50,Govt. Basic Health Unit Jusak For Female,26.03524,63.07924,Female,Balochistan,0,3,0,875
+48,Govt. Boys H/S Josak For Male,26.04013,63.08172,Male,Balochistan,3,0,1055,0
+53,Govt;Girls middle school kallag  female,26.04083,62.99299,Female,Balochistan,0,4,0,1143
+44,Govt. Boys M/S Meeri Male,26.04311,63.02339,Male,Balochistan,3,0,1105,0
+38,People Primary Health Care BHU Shahitump For Female,26.04391,63.02371,Female,Balochistan,0,3,0,1103
+45,Govt. Girls M/S Meeri for female,26.04391,63.02374,Female,Balochistan,0,2,0,848
+64,Govt- Boys P/S Allah bakth combine,26.0455,62.87253,Combined,Balochistan,2,2,673,570
+63,Govt. Boys P/S Geabun combine,26.05915,62.83692,Combined,Balochistan,2,2,721,556
+43,Govt. Boys H/S Koshkalat High section for comb,26.10882,62.41356,Combined,Balochistan,2,2,845,687

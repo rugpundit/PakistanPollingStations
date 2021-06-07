@@ -1,0 +1,85 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+26,Green Crescent School Qasim Town,24.82781,67.25189,Combined,Sindh,2,2,960,590
+27,Green Crescent School Qasim Town,24.82781,67.25192,Combined,Sindh,2,2,887,513
+24,The National Grammar School Cattle colony,24.82914,67.25994,Combined,Sindh,2,2,913,604
+21,GBPS Cattle Colony Road No.08,24.82964,67.26233,Combined,Sindh,2,2,1168,747
+23,Baldia School Road No. 07 Cattle Colony,24.83043,67.25826,Combined,Sindh,2,2,1259,791
+25,Baldia School Road No. 05 Cattle Colony,24.83043,67.25829,Combined,Sindh,2,2,785,529
+28,Baldia School Road No. 05 Cattle Colony,24.83043,67.25832,Combined,Sindh,2,1,705,378
+30,Worker Model School Labour Square,24.83194,67.24255,Combined,Sindh,2,2,831,602
+31,Worker Model School Labour Square,24.83194,67.24258,Combined,Sindh,2,2,617,467
+40,RTR School Majeed Colony,24.83285,67.23499,Combined,Sindh,2,2,920,705
+37,Amroz Grammar School Majeed Colony (Combined),24.8342,67.23769,Combined,Sindh,2,2,940,760
+38,Amroz Grammar School Majeed Colony (Combined),24.8342,67.23772,Combined,Sindh,2,1,545,412
+29,PMTF Secondary School,24.8345,67.2469,Combined,Sindh,2,2,561,414
+33,GBSS Labour Square,24.83483,67.2456,Combined,Sindh,2,2,1094,857
+39,Al Noor Public School Majeed Colony,24.83493,67.23385,Combined,Sindh,2,2,725,463
+43,High School Majeed Colony,24.83522,67.22853,Combined,Sindh,2,2,1306,1005
+44,High School Majeed Colony,24.83522,67.22856,Combined,Sindh,2,1,613,475
+41,Medico High School Majeed Colony,24.83535,67.22865,Combined,Sindh,2,2,925,770
+42,Medico High School Majeed Colony,24.83535,67.22868,Combined,Sindh,2,2,1261,1026
+34,GBPS Majeed Colony,24.8355,67.2384,Combined,Sindh,2,2,1467,900
+36,GMPS Majeed Colony Landhi (Combined),24.8355,67.23843,Combined,Sindh,2,2,769,608
+46,(DMC) CDGK No-6-7 Majeed (Combined),24.83555,67.2338,Combined,Sindh,2,1,617,446
+45,Methamatic City Grammer School Majeed Colony,24.83574,67.229,Combined,Sindh,2,2,784,642
+32,Vocational Training Center Labour Square,24.83633,67.24309,Combined,Sindh,2,2,1391,1042
+20,GBLSS Modern Public Cattle Colony,24.83836,67.26556,Combined,Sindh,2,2,900,665
+35,UC Camp Office Majeed Colony,24.83858,67.21478,Combined,Sindh,2,1,828,400
+60,GBSS Jumma Himayati Goth  (Combine),24.83915,67.25906,Combined,Sindh,2,2,747,584
+61,GBSS Jumma Himayati Goth  (Combined),24.83915,67.25909,Combined,Sindh,2,2,1074,892
+19,GBPS Allah Wali Cattle Colony,24.84005,67.26814,Combined,Sindh,2,2,1426,890
+62,GBPS Pirano Goth  (Combined),24.84005,67.2818,Combined,Sindh,2,1,534,271
+18,TCF School Odh Basti,24.84265,67.26681,Combined,Sindh,2,2,1106,679
+22,TCF School Odh Basti,24.84265,67.26684,Combined,Sindh,2,1,608,376
+82,Al Moiz sec School (Combined),24.85127,67.26263,Combined,Sindh,2,2,972,608
+83,Al Moiz sec School (Combined),24.85127,67.26266,Combined,Sindh,2,2,1491,766
+71,Ali Garh Sec School (Combined),24.85325,67.26027,Combined,Sindh,2,1,574,326
+85,Ali Garh Sec School (Combined),24.85325,67.2603,Combined,Sindh,2,2,1056,548
+10,Al Syed Technical Institute Al Syed Center Quaidabad,24.85638,67.21145,Combined,Sindh,2,2,1215,1009
+11,Al Syed Technical Institute Al Syed Center Quaidabad,24.85638,67.21148,Combined,Sindh,2,2,1022,705
+64,GPMS Shafi Goth (Combined),24.85642,67.23815,Combined,Sindh,2,2,1095,761
+14,Ideal Public School Green Park City,24.85688,67.22393,Combined,Sindh,2,2,833,651
+65,Quaidabad College at Hassan Panwar Goth (Combined),24.85756,67.24768,Combined,Sindh,2,2,912,594
+66,Quaidabad College at Hassan Panwar Goth (Combined),24.85756,67.24771,Combined,Sindh,2,2,930,496
+13,DMC School Umer Marvi Goth,24.8576,67.21685,Combined,Sindh,2,2,658,429
+17,DMC School Marvi Goth,24.8576,67.21688,Combined,Sindh,2,2,1162,747
+15,Haseeb Grammar School Umar Marvi Goth,24.85846,67.21846,Combined,Sindh,2,2,982,616
+12,Federal English School Umar Marvi Goth,24.85858,67.21897,Combined,Sindh,2,2,655,383
+81,MDA Office (Combined),24.85907,67.27428,Combined,Sindh,2,2,1007,505
+84,MDA Office (Combined),24.85907,67.27431,Combined,Sindh,2,2,793,390
+1,GBPS Khuldabad,24.85915,67.21057,Combined,Sindh,2,2,934,660
+2,GBSS Khuldabad,24.85915,67.2106,Combined,Sindh,2,2,1013,680
+4,GBPS Khuldabad Murghi Khana,24.85915,67.21063,Combined,Sindh,2,2,1153,855
+16,Gul Muhammad Mehar School Quaidabad,24.85949,67.21641,Combined,Sindh,2,2,1003,689
+6,Gul Muhammad Mehar School Quaidabad,24.85949,67.21644,Combined,Sindh,2,2,828,413
+7,Gul Muhammad Mehar School Quaidabad,24.85949,67.21647,Combined,Sindh,2,2,1027,489
+69,GBMPS Ismail Jokio (Combined),24.85963,67.26723,Combined,Sindh,1,1,353,209
+9,Anees Grammar School,24.86006,67.21609,Combined,Sindh,2,2,671,407
+8,Mashaime School Quaidabad,24.86049,67.21622,Combined,Sindh,2,2,1288,704
+3,TCF SCHOOL Murghi Khana,24.86083,67.20988,Combined,Sindh,2,2,766,655
+5,TCF School Murghi Khana,24.86083,67.20991,Combined,Sindh,2,2,1329,974
+72,GBPS Dawood Shoro (Combined),24.86098,67.27077,Combined,Sindh,1,1,250,136
+74,GBPS Dawood Shoro (Combined),24.86098,67.2708,Combined,Sindh,2,1,389,202
+48,GBPS Kohi Goth Building 2 (Combined),24.86205,67.23451,Combined,Sindh,2,2,1032,755
+70,Askari Private School (Combined),24.86212,67.26576,Combined,Sindh,2,2,782,502
+47,GBPS Kohi Goth Building 1 (Combined),24.86215,67.23473,Combined,Sindh,2,2,933,686
+68,GGPS Yousaf Goth (Combined),24.86237,67.2589,Combined,Sindh,2,2,1100,622
+77,GBSS Egro Tech Razaqabad (Combined),24.86876,67.29323,Combined,Sindh,2,1,314,226
+78,GBSS Egro Tech Razaqabad (Combined),24.86876,67.29326,Combined,Sindh,2,2,959,607
+50,GBLSS Nazar Muhammad Village (Combined),24.86902,67.24478,Combined,Sindh,2,2,555,427
+53,GBPS Nazar Muhammad Tayyab Fellowship (Combined),24.86931,67.24284,Combined,Sindh,1,1,203,157
+49,GBPS Bachal Buro Saleh Goth (Combined),24.86941,67.24281,Combined,Sindh,1,1,327,234
+52,TCF School Gharibabad Deh Landhi (Combined),24.87044,67.25055,Combined,Sindh,1,1,353,211
+73,TCF- Mossa Goth (Combined),24.87125,67.28415,Combined,Sindh,2,2,1126,630
+75,TCF- Mossa Goth (Combined),24.87125,67.28418,Combined,Sindh,2,2,818,388
+58,GBPS Imam Bux No.03 at Khudadad Colony (Combined),24.87166,67.28022,Combined,Sindh,2,2,732,560
+55,GBHSS Haji Natho Wali Muhammad Goth (Combined),24.87455,67.25123,Combined,Sindh,2,2,721,462
+54,GBPS Wali Muhammad Goth No. 1 (Combined),24.87461,67.25215,Combined,Sindh,1,1,313,231
+57,GGSS Wali Muhammad Goth Noor Uddin Bagh (Combined),24.87466,67.25208,Combined,Sindh,2,1,514,320
+76,GBPS Dhani Parto (Combined),24.87474,67.28342,Combined,Sindh,2,2,775,565
+51,GBPS Umar Bagh (Combined),24.8757,67.23853,Combined,Sindh,2,2,408,387
+56,GBPS Wali Muhammad No.02 (Combined),24.87667,67.25465,Combined,Sindh,2,2,526,401
+79,GBPS Lashari Goth (Combined),24.87773,67.29057,Combined,Sindh,2,2,456,282
+80,GBPS Lashari Goth (Combined),24.87773,67.2906,Combined,Sindh,2,2,641,414
+59,GBSS Ghareebabad At Saleh Muhammad Goth (Combined),24.89384,67.20834,Combined,Sindh,2,2,610,382
+63,Madarsa near GBPS School and closed to community Center Mehmood Jatt (Combined),25.06165,67.26078,Combined,Sindh,2,1,380,259

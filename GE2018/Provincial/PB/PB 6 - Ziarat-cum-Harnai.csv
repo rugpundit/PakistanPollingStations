@@ -1,0 +1,131 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+128,Govt. High School Spen Tangi,29.94222,68.09612,Combined,Balochistan,1,1,315,143
+126,Govt: P/S Kot Ali Khan,29.97167,68.08556,Combined,Balochistan,2,1,397,291
+129,Govt: P/S Inder,29.9727,68.03087,Combined,Balochistan,2,1,639,272
+127,Civil Dispensary Peer Shahr,30,68.1,Combined,Balochistan,2,1,454,262
+125,Govt: P/S Beli,30.01639,68.06722,Combined,Balochistan,2,1,433,366
+124,Govt: P/S Sanari M.Raza,30.0325,68.03917,Combined,Balochistan,2,1,372,313
+130,Govt: P/S Zavi,30.05111,67.94611,Combined,Balochistan,1,1,209,117
+123,Govt: P/S Warikha,30.05563,68.30525,Combined,Balochistan,2,1,454,294
+119,Govt: High School Khidrani,30.065,67.95611,Combined,Balochistan,1,1,343,287
+120,Govt: Middle School Aspani,30.07056,67.96166,Combined,Balochistan,2,2,435,395
+118,Govt: Primary School Shor Harnai,30.07556,67.95555,Combined,Balochistan,2,2,544,455
+122,Govt: Primary School Tuka Zerin,30.07556,68.07444,Combined,Balochistan,2,2,669,424
+121,Civil Dispensary Tukka Bala,30.07944,68.08806,Combined,Balochistan,2,2,635,368
+116,Govt: P/S Arbooz,30.08083,67.94695,Male,Balochistan,1,0,236,0
+117,Govt: Girls P/S Arbooz,30.08083,67.94698,Female,Balochistan,0,1,0,218
+115,Govt: Primary School Nazi,30.08667,67.95944,Combined,Balochistan,2,2,383,386
+114,Govt: Girls P/S Sheikhan Harnai,30.09028,67.95361,Female,Balochistan,0,2,0,638
+113,Govt: P/S Basti Sheikhan Harnai,30.09167,67.95499,Male,Balochistan,3,0,756,0
+82,Govt: P/S Babu Mohalla,30.09688,67.93966,Male,Balochistan,2,0,646,0
+83,Govt: Girls H/S Harnai,30.09782,67.9402,Female,Balochistan,0,4,0,1258
+85,Govt: Girls H/S Gharibabad,30.09867,67.93475,Male,Balochistan,3,0,802,0
+86,Govt: Girls H/S Gharibabad (Primary Sec:),30.09867,67.93478,Female,Balochistan,0,2,0,645
+81,Govt: H/S Harnai Primary Section,30.1012,67.9379,Female,Balochistan,0,3,0,970
+80,Govt: High School- Harnai,30.10127,67.93834,Male,Balochistan,4,0,1256,0
+88,Govt: Middle School- Gochina,30.10306,67.86611,Combined,Balochistan,2,2,616,622
+84,Govt: P/S Woolen Mills Harnai,30.10509,67.94114,Male,Balochistan,3,0,914,0
+111,Govt: P/S Zarmana,30.11721,67.95419,Combined,Balochistan,2,2,669,574
+91,Govt: P/S Sangandi Khozhri,30.12222,67.91805,Combined,Balochistan,1,1,433,266
+109,Govt: H/S Qilla Ghurmi,30.13523,67.95213,Male,Balochistan,3,0,924,0
+110,Govt: Girls Primay/S Qilla Ghurmi,30.1353,67.94903,Female,Balochistan,0,3,0,772
+87,Govt: High School- Nakus,30.14112,67.83527,Combined,Balochistan,2,2,575,473
+108,Govt: P/S Sarkan,30.14998,67.95209,Combined,Balochistan,2,2,676,503
+94,Govt: P/S Dalwani Zarghoon Ghar,30.17953,67.39379,Combined,Balochistan,2,2,418,367
+92,Govt: P/s Sazzu,30.18441,67.84177,Combined,Balochistan,2,2,496,446
+56,P.S BEF Kharshing,30.18644,68.33822,Combined,Balochistan,2,2,854,542
+104,Union Council Office Shahrigh,30.18919,67.71084,Male,Balochistan,2,0,697,0
+101,Govt: High School Khairabad- Shahrigh,30.19034,67.70934,Male,Balochistan,3,0,921,0
+103,Govt: Boys P/S Sama Kalla Shahrigh,30.19034,67.70937,Female,Balochistan,0,3,0,750
+105,Govt: G/M School Ambo Shahrag.,30.19034,67.7094,Male,Balochistan,2,0,667,0
+100,Govt: High School- Shahrigh,30.19107,67.7093,Male,Balochistan,3,0,858,0
+106,Labour Hospital Shahrigh,30.19188,67.71027,Female,Balochistan,0,3,0,1003
+107,Govt: P/S Poonga,30.19528,67.74912,Combined,Balochistan,1,1,204,187
+89,Civil Dispensary Gochina,30.20028,67.87972,Combined,Balochistan,1,1,318,236
+90,Irrigation Rest House Akhtari,30.20028,67.87975,Combined,Balochistan,2,1,450,340
+102,Govt: P/S Killi Shor Shahrigh,30.20738,67.70448,Female,Balochistan,0,3,0,752
+99,Govt: Girls Middle/S Khost,30.22306,67.58055,Female,Balochistan,0,2,0,438
+98,Govt: H/S Khost,30.22417,67.58028,Male,Balochistan,2,0,549,0
+44,Veternary Hospital Mirhati,30.23533,68.16043,Combined,Balochistan,1,1,612,432
+112,Govt: P/S Zinda Peer,30.24025,68.05888,Combined,Balochistan,2,1,448,323
+55,Civil Dispencery Shinlaze,30.24306,68.48064,Combined,Balochistan,1,1,398,305
+97,Govt: P/S Sarliza Bala,30.24556,67.54333,Combined,Balochistan,2,2,570,498
+53,Govt Boys P/ School Baghao,30.25756,68.51441,Male,Balochistan,2,0,871,0
+52,Govt girls Middle School Sanjavi. P-II,30.26436,68.46628,Female,Balochistan,0,1,0,302
+54,Civil Dispencery Baghao,30.26441,68.46635,Female,Balochistan,0,2,0,711
+46,Govt Girl High School Sinjavi,30.2646,68.31262,Female,Balochistan,0,2,0,647
+45,Govt Boys High School Sinjavi,30.26584,68.31175,Male,Balochistan,2,0,856,0
+48,Got Boys P/School Sumalan Wapda Muhhalla,30.26694,68.31447,Female,Balochistan,0,3,0,1158
+42,Agriculture Office Sinjavi,30.26727,68.30534,Male,Balochistan,2,0,672,0
+79,Govt. Girls P/School Ozlaze,30.26901,68.28648,Female,Balochistan,0,2,0,648
+43,Govt. Boys P/School  Sharifabad,30.27033,68.30387,Female,Balochistan,0,2,0,632
+78,Govt P/School Ozlaze,30.27072,68.28963,Male,Balochistan,2,0,754,0
+47,Govt Boys P/ Shool Andar Abad,30.27211,68.31994,Male,Balochistan,2,0,1501,0
+77,Govt G. Middle S. Gehwari,30.27308,68.28232,Female,Balochistan,0,2,0,502
+76,Govt P/School Gehwari,30.27761,68.2733,Male,Balochistan,1,0,520,0
+49,Govt Boys Middle School Sanjavi P-I,30.28489,68.33473,Male,Balochistan,2,0,1585,0
+50,Govt Boys Middle School Sanjavi P-II,30.28489,68.33476,Male,Balochistan,1,0,366,0
+51,Govt girls Middle School Sanjavi P-I,30.28636,68.33601,Female,Balochistan,0,3,0,1067
+95,Govt: High School Zardaloo,30.29639,67.52251,Male,Balochistan,2,0,524,0
+93,Govt: P/S Tor Shor Zarghoon Ghar,30.30407,67.35486,Combined,Balochistan,2,2,398,356
+96,Govt: Girls M/S Dargai Zardaloo,30.30444,67.52056,Female,Balochistan,0,2,0,476
+41,Govt Girls Community Middle School Regora,30.30548,68.23969,Female,Balochistan,0,2,0,873
+70,G.B.P.S Baran Dumarra uchwani,30.31081,68.12479,Female,Balochistan,0,2,0,732
+69,Govt Boys P/School Uchwani,30.31085,68.10964,Male,Balochistan,2,0,871,0
+40,Govt. High School Regora,30.31141,68.23542,Male,Balochistan,2,0,943,0
+68,G.B.P.S Syed Abad Gharbi,30.31744,68.02015,Female,Balochistan,0,3,0,1058
+67,Govt Boys Middle School Tandwani,30.33187,67.99422,Male,Balochistan,2,0,1277,0
+65,Govt. Girls P/School Kaza M.Pasta Khan,30.33835,67.97381,Male,Balochistan,2,0,1048,0
+15,Govt M/School Baba Kharwari,30.34258,67.7419,Combined,Balochistan,3,2,719,574
+72,Got Boys High School Poi,30.34771,68.07894,Male,Balochistan,3,0,1511,0
+73,G.B.P.S Karimia Poi,30.34785,68.07048,Male,Balochistan,2,0,678,0
+75,BHU Poi,30.34787,68.07853,Female,Balochistan,0,2,0,563
+74,Got Girls P/School Poi,30.34852,68.07876,Female,Balochistan,0,3,0,1123
+57,Govt Middle  School Aghbarg,30.35169,68.37416,Combined,Balochistan,1,1,857,492
+66,G.G.P.S Ghulam Jan Chowtair,30.35224,67.96731,Female,Balochistan,0,3,0,809
+61,Basci Health Unit Chowtair,30.35433,67.95469,Male,Balochistan,2,0,723,0
+62,G.B.P.S Raza wrachi chowtair,30.35459,67.95995,Female,Balochistan,0,2,0,569
+16,Govt Girlz Comunity   Primary School Malikat,30.35933,67.77756,Combined,Balochistan,1,1,183,173
+39,Govt P/School Mangi,30.37032,67.45953,Combined,Balochistan,1,1,101,96
+63,Govt Boys P/School Shereen,30.37115,67.97567,Male,Balochistan,2,0,1050,0
+64,G.B.P.S Syedd Ahmad Sharin,30.37272,67.99644,Female,Balochistan,0,2,0,765
+58,Govtt Boys Primery School Malik Ghafar Kanubi Aghbarag,30.37301,68.47047,Combined,Balochistan,1,1,829,527
+11,G.B.P.S. Punga Sarngzai,30.38299,67.72433,Male,Balochistan,1,0,231,0
+14,Govt: P/School Uch Ghoski,30.38418,67.74717,Combined,Balochistan,2,2,476,374
+12,Govt Girls High School Ziarat,30.38442,67.72363,Female,Balochistan,0,3,0,1326
+10,Govt:Modle High School Ziarat,30.38474,67.72217,Male,Balochistan,2,0,1254,0
+13,Govt P/School Chichinak,30.39965,67.73083,Combined,Balochistan,1,1,338,348
+71,Govt Boys P/ School Ghair Khua,30.40147,68.28125,Combined,Balochistan,1,1,521,369
+59,Water Supply Tand Salam Shaikhmal,30.41274,68.03069,Combined,Balochistan,2,1,560,319
+4,Govt.Middle School Sassan Manna,30.42899,67.77546,Combined,Balochistan,2,1,432,264
+20,Govt- Primary School Pichi,30.4353,67.66122,Female,Balochistan,0,1,0,318
+17,Govt High Shool Cheena,30.44433,67.648,Male,Balochistan,2,0,1052,0
+30,Rest House Kan,30.44533,67.47348,Combined,Balochistan,1,1,478,578
+8,G.G.P.S Masoori Manna,30.44611,67.75723,Female,Balochistan,0,2,0,594
+7,Govt.Middle School Gharat Manna,30.44615,67.75656,Male,Balochistan,2,0,756,0
+60,G.B.P.S Ghunz,30.44724,67.91316,Combined,Balochistan,1,1,524,374
+18,G.B.P.S Gharbi cheena,30.4495,67.63447,Male,Balochistan,1,0,533,0
+32,Govt. Hgih School Kan,30.45519,67.51409,Combined,Balochistan,1,1,295,281
+38,Govt Middle School Kachh,30.45754,67.34312,Combined,Balochistan,1,1,418,345
+19,Govt. Girls Middle Pitao P-I,30.45817,67.61983,Female,Balochistan,0,2,0,677
+21,G.G.M.S.Pitao  P-II,30.45817,67.61986,Female,Balochistan,0,1,0,484
+23,Govt .Girls High School Zandra,30.46204,67.60986,Female,Balochistan,0,2,0,686
+29,Govt Middle School Warchume,30.46319,67.53083,Combined,Balochistan,1,1,478,496
+25,Govt Boys  High School Kawas Sharqi,30.46364,67.58768,Female,Balochistan,0,2,0,1019
+22,Govt. Boys  High School Zandra,30.46561,67.61309,Male,Balochistan,2,0,784,0
+5,Govt.Boys High School  Manna,30.46704,67.7416,Male,Balochistan,2,0,583,0
+6,Govt. Girls M School Manna,30.46795,67.72632,Female,Balochistan,0,2,0,470
+24,Rural Health Center  Kawas,30.46863,67.58999,Male,Balochistan,2,0,1213,0
+28,Govt Girls Hgih School Kawas Gharbi,30.46888,67.56767,Female,Balochistan,0,2,0,1062
+31,Govt: P/School Chhari,30.46888,67.5677,Combined,Balochistan,1,1,267,293
+26,Govt Boys Hgih School Kawas Gharbi P-I,30.47165,67.56906,Male,Balochistan,2,0,811,0
+27,Govt Boys Hgih School Kawas Gharbi P-II,30.47165,67.56909,Male,Balochistan,1,0,516,0
+9,Govt:Middle School Sasnak Manna,30.48002,67.786,Combined,Balochistan,1,1,523,362
+37,G.B.H.S Ahmadoon,30.48102,67.36989,Combined,Balochistan,1,1,534,459
+34,Govt  Middle  School Gogi,30.4937,67.43954,Combined,Balochistan,1,1,683,511
+35,G. Middle School Ahmedoon Sirki  P-I,30.4976,67.37041,Male,Balochistan,1,0,928,0
+36,G. Middle School Ahmedoon Sirki P-II,30.49795,67.37022,Female,Balochistan,0,2,0,779
+3,Govt.Middle School Zargi,30.50522,67.68563,Combined,Balochistan,2,2,617,548
+1,Govt.Boys High School Spezandi  P-I,30.51526,67.66236,Male,Balochistan,2,0,761,0
+2,G.B.H.S Spezandi P-II,30.51526,67.66239,Female,Balochistan,0,2,0,771
+33,Govt. Middle School Tangi,30.54719,67.47403,Combined,Balochistan,1,1,503,449

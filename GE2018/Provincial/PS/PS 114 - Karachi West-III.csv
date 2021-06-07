@@ -1,0 +1,70 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+19,GBPS Gul Bai Shershah,24.87589,66.97218,Male,Sindh,2,0,1223,0
+20,GPBS Gul Bai Shersah(Combined),24.87589,66.97221,Female,Sindh,0,2,0,833
+12,PMG School Shaheen Public School (old Name),24.87883,66.98653,Combined,Sindh,2,1,1026,601
+8,Super Star School Urdu Bazar,24.88164,66.98451,Male,Sindh,2,0,1226,0
+9,Super Star School Urdu Bazar,24.88164,66.98454,Male,Sindh,2,0,1240,0
+26,Young Scholar School.  Modern Method School (Old Name),24.88165,66.99043,Combined,Sindh,1,2,369,1186
+14,Mehran Public School,24.88186,66.98744,Male,Sindh,2,0,1438,0
+15,Mehran Public school,24.88186,66.98747,Male,Sindh,2,0,902,0
+13,KT-24-25 Urdu Bazar,24.88198,66.98492,Female,Sindh,0,3,0,1208
+4,The Best Public School,24.88231,66.98372,Male,Sindh,3,0,1273,0
+5,The Best Public School,24.88231,66.98375,Combined,Sindh,2,1,1154,74
+17,Happy Kids Home Shershah,24.8824,66.98856,Combined,Sindh,2,1,1022,455
+18,Happy Kids Home Shershah,24.8824,66.98859,Combined,Sindh,2,2,746,726
+16,Rising Sun School,24.8836,66.98521,Female,Sindh,0,3,0,1442
+6,DJ Public School,24.8836,66.98524,Female,Sindh,0,2,0,759
+7,DJ Public School,24.8836,66.98527,Combined,Sindh,1,2,264,858
+116,GBSS AK Sheer Shah,24.88472,66.99805,Male,Sindh,2,0,1232,0
+117,GBSS AK Sheershah,24.88472,66.99808,Male,Sindh,2,0,1358,0
+120,GBPS A K Shershah,24.88472,66.99811,Male,Sindh,3,0,1183,0
+123,GBSS A.K Shershah,24.88472,66.99814,Male,Sindh,3,0,1278,0
+107,GBPS Madina Lyari,24.88528,67.01723,Combined,Sindh,3,1,1441,126
+22,Sabria Sec School,24.88659,66.98856,Combined,Sindh,2,1,1187,349
+1,GBPS ST-Marks Shershah,24.88959,66.98112,Male,Sindh,2,0,1128,0
+2,GBPS ST-Marks Shershah,24.88959,66.98115,Male,Sindh,2,0,863,0
+92,GGSS KB Contractor,24.8925,67.02195,Combined,Sindh,1,2,486,1019
+93,GGSS KB Contractor,24.8925,67.02198,Female,Sindh,0,3,0,1652
+74,Asifabad Dispensery,24.89514,67.01537,Combined,Sindh,3,1,1415,257
+79,Asifabad Public School Near Bhutto Library,24.89583,67.0185,Female,Sindh,0,4,0,1721
+86,Asifabad Public School Near Bhutto Library,24.89583,67.01853,Combined,Sindh,1,3,135,1356
+75,West Land Model School F-15/112 Asif Colony Near Asif Dispensery,24.89588,67.01836,Combined,Sindh,2,1,1239,289
+76,West Land Model School,24.89588,67.01839,Female,Sindh,0,4,0,1487
+72,GBPS Crescent Grammer,24.89785,67.02132,Combined,Sindh,2,1,793,596
+73,GBPS Crescent Grammer,24.89785,67.02135,Female,Sindh,0,3,0,1410
+64,Good Guide Grammer school,24.89923,67.01686,Combined,Sindh,2,1,796,391
+65,Good Guide Guide Grammer School,24.89923,67.01689,Combined,Sindh,1,1,684,530
+58,Asifabad Degree College,24.90111,67.01305,Male,Sindh,4,0,1652,0
+59,Asifabad Degree College,24.90111,67.01308,Combined,Sindh,1,3,219,1474
+60,Asifabad Degree College,24.90111,67.01311,Male,Sindh,3,0,1605,0
+61,Asifabad Degree College,24.90111,67.01314,Combined,Sindh,1,3,202,1332
+10,Shafi Technial School,24.90185,67.00158,Male,Sindh,2,0,1319,0
+11,Shafi Technical School,24.90185,67.00161,Female,Sindh,0,3,0,1232
+63,M K C School Hasrat Mohani,24.90192,67.01481,Female,Sindh,0,4,0,1368
+66,GBPS Hasrat Mohani,24.90192,67.01484,Combined,Sindh,2,2,753,853
+67,GBPS Hasrat Mohani,24.90192,67.01487,Combined,Sindh,2,1,1103,356
+118,GBPS Al-Safa,24.9025,67.01305,Female,Sindh,0,3,0,1116
+119,GBPS Al-Safa,24.9025,67.01308,Combined,Sindh,1,2,483,805
+124,Hilal Public School- Amtal Aziz Rafi Haroonabad Campus 28,24.90278,67.00222,Male,Sindh,2,0,1165,0
+125,Hilal Public School-Amtal Aziz Rafi Haroonabad- Campus 28,24.90278,67.00225,Male,Sindh,2,0,1094,0
+126,Hilal public school- Amtal Aziz Rafi Haroonabad- Campus 28,24.90278,67.00228,Male,Sindh,2,0,1134,0
+56,Biamaillah masjid School,24.90863,66.97777,Combined,Sindh,2,2,971,625
+57,Biamaillah masjid School,24.90863,66.9778,Combined,Sindh,2,1,1113,485
+51,Government Boys Higher Secondary School-Ebrahim Ali Bhai New Labour Colony Site(New),24.91013,66.98189,Combined,Sindh,1,1,688,616
+47,GBHSS Site Model,24.91502,67.015,Male,Sindh,3,0,1340,0
+48,GBHSS Site Model,24.91502,67.01503,Female,Sindh,0,3,0,937
+49,GBPS Site Model,24.91502,67.01506,Combined,Sindh,1,2,218,1102
+50,GBPS No.3 Block T,24.91502,67.01509,Male,Sindh,2,0,1266,0
+36,GGD College Metrovill Female,24.91821,66.99727,Combined,Sindh,1,3,488,1346
+37,GGD College Metrovill Male,24.91821,66.9973,Male,Sindh,2,0,1294,0
+38,GGD College Metrovill Male,24.91821,66.99733,Combined,Sindh,2,1,1112,273
+39,GGD College Metrovill Female,24.91821,66.99736,Female,Sindh,0,3,0,1321
+31,GBSS EAB Metrovill Site Male,24.91954,66.99973,Combined,Sindh,2,2,821,602
+32,GBSS EAB Metrovill Site Male,24.91954,66.99976,Combined,Sindh,2,1,1267,485
+33,GBSS EAB Metrovill Site Male,24.91954,66.99979,Combined,Sindh,3,1,1420,402
+34,The Arpa School Opposite Of Closed School  Standard Sec School Female,24.91954,66.99982,Combined,Sindh,1,3,473,1283
+40,Falcon Star Sohool Male,24.92317,67.00271,Combined,Sindh,2,1,1353,316
+41,Falcon Star School Male,24.92317,67.00274,Female,Sindh,0,4,0,1688
+42,Rafi Public School,24.92369,67.00159,Male,Sindh,3,0,1526,0
+43,GBPS Khyber Muslim No. 2,24.92381,67.00233,Male,Sindh,3,0,1364,0
+46,GBPS Khyber Muslim No. 2,24.92381,67.00236,Combined,Sindh,1,3,319,1299

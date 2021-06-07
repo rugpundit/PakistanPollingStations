@@ -1,0 +1,197 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+155,Govt. Model Primary School. 246/GB. Basti Danashmandan. (Male) (P),30.95648,72.73509,Male,Punjab,2,0,973,0
+156,Govt. Model Primary School. 246/GB. Basti Danashmandan. (Female) (P),30.956497178503444,72.73514809073737,Female,Punjab,0,2,0,859
+157,Boys High School. 248/GB.  (Male) (P),30.973369077734613,72.70538204618845,Male,Punjab,3,0,1410,0
+158,Govt. Girls High School. 248/GB.  (Female) (P),30.973777248355066,72.7029170107406,Female,Punjab,0,2,0,1147
+154,Govt. Boys Primary School. 246/GB Partabpura. . (Combined) (P),30.974496981104558,72.74299113824726,Combined,Punjab,1,1,657,569
+144,Govt. Boys High school. 181/GB.  (Male) (P),30.982807940087223,72.66597665844607,Male,Punjab,2,0,1216,0
+145,Govt. Girls Elementary School. 181/GB. (Female) (P),30.98342474573097,72.66973968964798,Female,Punjab,0,2,0,947
+165,Govt. Boys Primary school. 243/GB.  (Male) (P),30.989298940721646,72.75376579525579,Male,Punjab,3,0,1370,0
+148,Office Union Council 245/GB. (Combined) (T),30.99027,72.71608,Combined,Punjab,2,1,763,566
+149,Govt. Boys Primary School. 245/GB.  (Male) (P),30.99031,72.71707,Male,Punjab,2,0,1156,0
+150,Govt. Girls Elementary School. 245/GB.  (Female) (P),30.990665815062854,72.7157666103083,Female,Punjab,0,2,0,878
+166,Govt. Girls Elementary School. 243/GB (Female) (P),30.990925011441387,72.75508711913355,Female,Punjab,0,2,0,1093
+141,Govt. Boys Primary School. 180/GB. (Male) (P),30.998747476830182,72.69295923538185,Male,Punjab,2,0,1116,0
+142,Govt. Boys Primary School. 180/GB. (Combined)(P),30.998747476830182,72.6929892353818,Combined,Punjab,1,1,612,394
+146,Govt. Boys Primary School. 518/GB. (Male) (P),30.99887706910613,72.64270520258496,Male,Punjab,2,0,1016,0
+143,Govt. Girls Elementary School. 180/GB. (Female) (P),30.998901780183395,72.69066435476485,Female,Punjab,0,2,0,830
+147,Govt. Girls Primary School. 518/GB. (Female) (P),31.00384466658971,72.64703563225376,Female,Punjab,0,2,0,707
+153,Govt. Girls Elemantary School. 244/GB. Khurd (Combined) (P),31.010783806826396,72.72750181797966,Combined,Punjab,1,1,597,494
+138,Govt. Model Primary School. 161/GB. Old Abadi (Combined) (P),31.012627733648507,72.67091650345489,Combined,Punjab,2,2,925,771
+164,Girls High School. 242/GB.  (Female) (P),31.01824339072098,72.76357929101385,Female,Punjab,0,2,0,1007
+137,Govt. Model Primary School-II New abadi. 161/GB. (Combined) (P),31.020359182382084,72.68796264121845,Combined,Punjab,1,1,615,425
+163,Boys Elemantary School. 242/GB.  (Male) (P),31.020440847559563,72.76174318415593,Male,Punjab,2,0,1216,0
+123,Govt. Boys Primary School. 179/GB. (Combined) New Abadi (P),31.022303892798757,72.71060578232431,Combined,Punjab,2,1,726,486
+151,Govt. Boys Elemantary School. 244/GB. Kalan (Combined)(P),31.022925755795114,72.73946536729954,Combined,Punjab,1,1,646,542
+152,Govt. Boys Elemantary School. 244/GB. Kalan (Combined) (P),31.022925755795114,72.7394953672995,Combined,Punjab,1,1,328,283
+132,Govt. Girls Elementary School. 160/GB.  (Female) (P),31.026760812746296,72.69279283985091,Female,Punjab,0,2,0,1045
+140,Girls High School. 162/GB.  (Female) (P),31.033526637230004,72.66573501321969,Female,Punjab,0,2,0,1163
+139,Govt Elementry School. 162/GB. (Male) (P),31.033859918158605,72.66325729990696,Male,Punjab,4,0,1491,0
+121,Govt. Girls Primary School. 179/GB. (P) (Male),31.03671,72.73442,Male,Punjab,2,0,1085,0
+122,Govt. Girls Primary School. 179/GB. (P) (Female),31.03671,72.73445,Female,Punjab,0,2,0,766
+136,Govt. Girls Primary School. 164/GB. (Female) (P),31.042338506951562,72.63776140933761,Female,Punjab,0,2,0,788
+135,Govt. Boys High school. 164/GB.  (Male) (P),31.043770842143818,72.63753428148637,Male,Punjab,2,0,1021,0
+130,Govt. Boys High school. 160/GB.  (Male) (P),31.045340888156588,72.69473003153784,Male,Punjab,3,0,1388,0
+131,Govt. Boys High school. 160/GB. (Combined) (P),31.045340888156588,72.6947600315378,Combined,Punjab,1,1,531,418
+110,Govt English Madium Elementry School. 154/GB.  (Male) (P),31.048224987700923,72.72743947327291,Male,Punjab,3,0,1309,0
+111,Girls Primary School. 154/GB. (Combined) (P),31.04851,72.7259,Combined,Punjab,1,1,528,442
+112,Girls High School. 154/GB.  (Female) (P),31.048529580146006,72.7258646013362,Female,Punjab,0,2,0,967
+161,Govt. Boys Primary School. 241/GB. (Combined) Garh (P),31.05014,72.77335,Combined,Punjab,2,1,746,616
+129,Govt. Girls High School. 159/GB.  (Female) (P),31.050663347252126,72.6919918998794,Female,Punjab,0,2,0,847
+159,Govt. Boys High school. 178/GB.  (Male) (P),31.050931287883312,72.75073967797049,Male,Punjab,4,0,1760,0
+127,Govt. Boys Primary School. 159/GB.  (Male) (P),31.051238360657592,72.69305093172743,Male,Punjab,2,0,1027,0
+128,Boys Primary School. 159/GB (Combined) (P),31.051238360657592,72.6930809317274,Combined,Punjab,1,1,587,488
+160,Govt. Girls High School. 178/GB.  (Female) (P),31.05255127043132,72.74922866707118,Female,Punjab,0,3,0,1400
+133,Govt. Boys Primary School. 163/GB. (Male) (P),31.05291851121275,72.66070800508172,Male,Punjab,2,0,1164,0
+162,Govt. Girls Primary School. 241/GB. (Combined) Berahm (P),31.053270902907997,72.77451883247339,Combined,Punjab,2,1,685,583
+134,Govt. Girls Elementary School. 163/GB. (Female) (P),31.05415364403718,72.66322288555021,Female,Punjab,0,2,0,926
+99,Boys Primary School. 285/JB.  (Male) (P),31.06254683088101,72.62866358529669,Male,Punjab,3,0,1430,0
+114,Govt. Girls Elementary School. 155/GB. (Female) (P),31.064481256817192,72.70518609615952,Female,Punjab,0,2,0,746
+113,Govt. Boys Elementary School. 155/GB. (Male) (P),31.065276275354236,72.70642862074095,Male,Punjab,2,0,934,0
+115,Govt. Boys Elementary School. 155/GB. (Combined) (P),31.065276275354236,72.7064586207409,Combined,Punjab,2,1,736,580
+100,Girls Primary School. 285/JB.  (Female) (P),31.06603090099944,72.63300268205316,Female,Punjab,0,2,0,1063
+124,Govt. Boys Elemantary School. 158/GB.  (Male) (P),31.06907309680127,72.66849616410134,Male,Punjab,2,0,995,0
+125,Govt. Boys Elemantary School. 158/GB. (Female) (P),31.06907309680127,72.6685261641013,Female,Punjab,0,2,0,648
+126,Basic Health Unit 158/GB. (Combined),31.06964941793152,72.66944546174653,Combined,Punjab,1,1,619,420
+116,Govt. Boys Middle School. 156/GB. (Combined) (P),31.0781,72.69151,Combined,Punjab,1,1,365,253
+117,Govt. Girls Community Model School. 156/GB. (Combined) (P),31.078119760704627,72.69302503084977,Combined,Punjab,2,1,693,509
+120,Govt. Girls Elementary School. 157/GB.  (Female) (P),31.090418287991973,72.68933077621914,Female,Punjab,0,2,0,951
+118,Govt. Boys High school. 157/GB.  (Male) (P),31.09256050525138,72.69125927364587,Male,Punjab,3,0,1232,0
+119,Govt. Boys High school. 157/GB. (Combined) (P),31.09256050525138,72.6912892736459,Combined,Punjab,1,1,477,412
+98,Girls Elemantary School. 373/JB. (P),31.09274335079816,72.65265040636832,Combined,Punjab,2,1,809,584
+107,Govt. Model Primary School. 369/JB. (P),31.099175010786702,72.71604808650851,Combined,Punjab,1,1,517,397
+108,Boys Primary School. 368/JB.  (Male) (P),31.104614353024896,72.7425182797725,Male,Punjab,3,0,1381,0
+195,Boys High school. 301/JB.  (Male) (P),31.107377019776084,72.63313202651906,Male,Punjab,3,0,1385,0
+109,Girls Primary School. 368/JB.  (Female) (P),31.107890904241746,72.73876756285559,Female,Punjab,0,2,0,971
+196,Girls High School. 301/JB.  (Female) (P),31.10901508455579,72.6324622166332,Female,Punjab,0,2,0,1068
+96,Girls Community Model Primary School 372/JB (Female) (P),31.10953405012093,72.67743180675896,Female,Punjab,0,2,0,832
+97,Girls Community Model Primary School 372/JB (Male) (P),31.10953405012093,72.677461806759,Male,Punjab,2,0,1151,0
+95,Boys Primary School. 372/JB. (P),31.110040935854137,72.67680799506759,Combined,Punjab,1,1,509,371
+93,Govt. Elemantry School. 370/JB.  (Male) (P),31.11065248820635,72.70424547751314,Male,Punjab,4,0,1534,0
+106,Govt. Boys High School 369/JB. (Middle Portion). (Female) (P),31.111992287827995,72.72900050219604,Female,Punjab,0,2,0,879
+105,Govt. Boys High school. 369/JB.  (Male) (P),31.11200867455893,72.72899997909053,Male,Punjab,3,0,1246,0
+194,Govt. G . C. E School. 299/JB.  (Female) (P),31.11397347834086,72.6516313050603,Female,Punjab,0,2,0,930
+94,Govt. Girls High School. 370/JB-I. (Female) (P),31.11477,72.70728,Female,Punjab,0,2,0,1183
+193,Boys Primary School. 299/JB.  (Male) (P),31.115278096084772,72.64356030895962,Male,Punjab,2,0,1199,0
+190,Girls Elemantary School. 298/JB.  (Male) (P),31.128507601787536,72.6687417391801,Male,Punjab,2,0,1243,0
+191,Girls Elemantary School. 298/JB. (Combined) (P),31.128507601787536,72.6687717391801,Combined,Punjab,1,1,611,486
+187,Girls Primary School. 300/JB.  (Female) (P),31.13107876673775,72.6340638678795,Female,Punjab,0,2,0,1016
+186,Boys Primary School. 300/JB.  (Male) (P),31.131162536039366,72.63627584936916,Male,Punjab,3,0,1325,0
+192,Girls Primary School. 298/JB.  (Female) (P),31.131626906867123,72.66940916092312,Female,Punjab,0,2,0,1010
+103,Girls Primary School. 367/JB. (Female) (P),31.132653406617173,72.73390516123303,Female,Punjab,0,2,0,968
+104,Girls Primary School. 367/JB.  (Female) (P),31.132653406617173,72.733935161233,Female,Punjab,0,2,0,860
+189,Boys Primary School. 298/JB. (Combined) (P),31.133369598136635,72.66766539462867,Combined,Punjab,2,1,664,546
+101,Girls High School. 367/JB.  (Male) (P),31.13337016289459,72.73427802401758,Male,Punjab,2,0,987,0
+102,Girls High School. 367/JB. (Male) (P),31.13337016289459,72.7343080240176,Male,Punjab,2,0,1112,0
+80,Girls Primary School New Plot Gojra. (Female) (P),31.13467084423525,72.67292235202412,Female,Punjab,0,2,0,863
+81,Girls Primary School New Plot Gojra. (Female) (P),31.13467084423525,72.6729523520241,Female,Punjab,0,2,0,909
+91,Boys Primary School. 371/JB-II. (P),31.13629532970047,72.69813161393992,Combined,Punjab,1,1,526,464
+92,Boys Primary School. 371/JB-II. (P),31.13629532970047,72.6981616139399,Combined,Punjab,1,1,638,501
+59,Girls High School 371/JB Ganda Singh Gojra. (Female) (P),31.136659639124613,72.69166673109994,Female,Punjab,0,2,0,644
+60,Girls High School 371/JB Ganda Singh Gojra. (Female) (P),31.136659639124613,72.6916967310999,Female,Punjab,0,2,0,845
+57,Boy Primary School 371/JB- I Ganda Singh Gojra (Male) (P),31.136956456501455,72.68972293746829,Male,Punjab,2,0,1048,0
+58,Boy Primary School 371/JB- I Ganda Singh Gojra (Male) (P),31.136956456501455,72.6897529374683,Male,Punjab,2,0,798,0
+53,Al-islah Model High School Gojra. (Male) (P),31.13822,72.68794,Male,Punjab,3,0,1394,0
+54,Al-islah Model High School Gojra. (Male) (P),31.13822,72.68797,Male,Punjab,2,0,569,0
+55,Al-islah Model High School Gojra. (Female) (P),31.13822,72.688,Female,Punjab,0,2,0,498
+56,Al-islah Model High School Gojra. (Female) (P),31.13822,72.68803,Female,Punjab,0,3,0,1264
+184,Boys Primary School. 297/JB. (Combined) (P),31.13954,72.64993,Combined,Punjab,2,1,650,550
+90,Ghousia Muslim High School Gojra. Female (P),31.139969336830127,72.68557075043631,Female,Punjab,0,2,0,878
+88,Ghousia Muslim High School Gojra. (Male) (P),31.14010062875696,72.68546378776904,Male,Punjab,2,0,1023,0
+89,Ghousia Muslim High School Gojra. (combined) (P),31.14010062875696,72.685493787769,Combined,Punjab,2,1,671,494
+78,Girls Primary School Base Line Gojra. (Male) (P),31.140409914393896,72.67421876607743,Male,Punjab,2,0,1157,0
+79,Girls Primary School Base Line Gojra. (Male) (P),31.140409914393896,72.6742487660774,Male,Punjab,2,0,1165,0
+51,Boys Primary School Ashraf Colony Gojra. (Female) (P),31.14111,72.68472,Female,Punjab,0,2,0,893
+52,Boys Primary School Shahabad Colony Gojra. (Female) (P),31.14111,72.68475,Female,Punjab,0,2,0,824
+183,Girls Elementary School. 297/JB.  (Male) (P),31.142380627968524,72.65048890804972,Male,Punjab,2,0,1008,0
+185,Girls Elementery School. 297/JB.  (Female) (P),31.142380627968524,72.6505189080497,Female,Punjab,0,2,0,791
+49,GIRLS PRIMARY SCHOOL SHAHABAD COLONY Gojra. (Male) (P),31.14268,72.68581,Male,Punjab,2,0,1136,0
+50,Government Girls Primary School Shahabad Colony Gojra. (Male) (P),31.14268,72.68584,Male,Punjab,2,0,933,0
+46,Girls Community Model Primary School Hassania Colony Gojra. (Male) (P),31.14316,72.69166,Male,Punjab,3,0,1297,0
+47,Girls Community Model Primary School Hassania Colony Gojra. (Combined) (P),31.14316,72.69169,Combined,Punjab,1,1,435,391
+48,Girls Community Model Primary School Hassania Colony Gojra. (Female ) (P),31.14316,72.69172,Female,Punjab,0,2,0,1047
+41,Little Leaders School Sharif Pura Gojra. (Female) (P),31.14331,72.68959,Female,Punjab,0,3,0,1362
+180,Govt. Girls Primary School. 366/JB.  (Female) (P),31.143573438542358,72.71219449326748,Female,Punjab,0,2,0,892
+179,Govt. Boys Primary School. 366/JB.  (Male) (P),31.14422187699932,72.71200223685803,Male,Punjab,2,0,1054,0
+70,M.C Jadeed Girls Primary School Eid Gah Gojra (Female) (P),31.14430739449386,72.6821889200131,Female,Punjab,0,2,0,1122
+71,M. C Jadeed Girls Primary School Eid Gah Gojra (Female) (P),31.14430739449386,72.6822189200131,Female,Punjab,0,2,0,957
+68,M. C Boy Elementry School Eid Gah Gojra (Male) (P),31.144487794458154,72.6820087730168,Male,Punjab,2,0,1110,0
+69,Boy Elementary School Eid Gah Gojra (Male) (P),31.144487794458154,72.6820387730168,Male,Punjab,3,0,1330,0
+76,Girls High School Gojra. (North). (Female) (P),31.144508974721948,72.68206794032966,Female,Punjab,0,2,0,671
+77,Girls High School Gojra. (North).  (Female) (P),31.144508974721948,72.6820979403297,Female,Punjab,0,2,0,825
+44,M. C. Boy Primary School Hussainia Colony Gojra. (Male) (P),31.144513618640584,72.69276105434336,Male,Punjab,2,0,1175,0
+45,M. C. Boy Primary School Hussainia Colony Gojra. (Female) (P),31.144513618640584,72.6927910543434,Female,Punjab,0,2,0,953
+74,Girls High School Gojra. (South).  (Male) (P),31.1445404677665,72.68206255326557,Male,Punjab,2,0,968,0
+75,Girls High School Gojra. (South). (Male) (P),31.1445404677665,72.6820925532656,Male,Punjab,2,0,771,0
+36,Boy Primary School Islampura Gojra. (Male) (P),31.145473519703653,72.70137912060362,Male,Punjab,4,0,1508,0
+72,Girls High School Gojra. (East).  (Male) (P),31.145638233100005,72.68343352221156,Male,Punjab,4,0,1594,0
+73,Girls High School Gojra. (West).  (Female) (P),31.145638233100005,72.6834635222116,Female,Punjab,0,3,0,1281
+87,Girls Primary School Sultan Pur Gojra. (Female) (P),31.14626,72.67704,Female,Punjab,0,2,0,858
+37,Girls Elementery School Islampura Gojra. (Female) (P),31.14630589915155,72.70228130792279,Female,Punjab,0,2,0,1149
+40,Saint Albart High School Gojra. (Male) (T),31.146819629739582,72.69154227007365,Male,Punjab,4,0,1553,0
+38,Saint Albart High School Gojra. (Male) (P),31.146891525959642,72.69130443424947,Male,Punjab,4,0,1643,0
+39,Saint Albart High School Gojra. (Female) (T),31.146905725118888,72.69144670585133,Female,Punjab,0,4,0,1494
+61,M. C. Jadeed Boys Primary School Near Sabzi Mandi Gojra (Combined) (P),31.147173303342722,72.68298292665622,Combined,Punjab,1,1,497,453
+62,M. C. Jadeed Boys Primary School Near Sabzi Mandi Gojra (Male) (P),31.147173303342722,72.6830129266562,Male,Punjab,4,0,1995,0
+43,Govt. Girls High School Housing Colony Gojra. (Female) (P),31.147650232028912,72.69863184075741,Female,Punjab,0,2,0,1190
+42,Govt. Girls High School Housing Colony Gojra. (P)  (Male),31.14771271296954,72.69835340333667,Male,Punjab,3,0,1333,0
+86,Girls Primary School Akbar Park Gojra . (Male) (P),31.148712416032502,72.67595135469789,Male,Punjab,2,0,1005,0
+63,M. C. Girls Elemantary School Gojra (Female) (P),31.148742964885045,72.68262787768893,Female,Punjab,0,4,0,1816
+85,Tehsil Building Gojra .  (Female) (T),31.149221034528,72.67886326211281,Female,Punjab,0,3,0,1273
+2,Boys Middle School M. C. Gojra (Female) (P),31.149456301614517,72.68452701550845,Female,Punjab,0,3,0,1209
+66,Municipal Committee Office North West Portion Gojra. (Female) (P),31.14967867571685,72.68104159088128,Female,Punjab,0,2,0,829
+67,Municipal Committee Office North West Portion Gojra. (Female) (P),31.14967867571685,72.6810715908813,Female,Punjab,0,2,0,1007
+64,Municipal Committee Office Main Building Gojra (Male) (P),31.1497324865449,72.68127241570647,Male,Punjab,2,0,933,0
+65,Municipal Committee Office Main Building Gojra (Male) (P),31.1497324865449,72.6813024157065,Male,Punjab,2,0,1006,0
+1,Govt. Post Graduate Collage Gojra (Male) (P),31.14997045902057,72.68482488914071,Male,Punjab,3,0,1369,0
+3,Govt. Post Graduate Collage (Lab Portion ) (Male) (P),31.14997045902057,72.6848548891407,Male,Punjab,3,0,1225,0
+84,M. C. Primary School Kot Abdi Khan Gojra(Male). (P),31.150215976668036,72.67705342325584,Male,Punjab,4,0,1519,0
+4,Divisional Model College Gojra. (Female) (P),31.1505241826005,72.68340667968053,Female,Punjab,0,2,0,1109
+31,M. C. High School Gojra (Female) (P),31.150930469846866,72.68694087912598,Female,Punjab,0,2,0,1208
+30,Govt M. C. High School Gojra  (Male) (P),31.151073552438923,72.68685819417,Male,Punjab,3,0,1359,0
+83,Islamia High School Gojra (North Westen Portion. (Female) (P),31.151075076313173,72.68268443412148,Female,Punjab,0,3,0,1343
+82,Islamia High School South Easter Portion Gojra (Male) (P),31.15109957197594,72.68268120626136,Male,Punjab,4,0,1483,0
+11,Millat Girls High School. Gojra West. (Female) (P),31.1512161415402,72.67867450667201,Female,Punjab,0,3,0,1284
+10,Millat Girls High School. Gojra. East. (Male) (P),31.151228657521244,72.67872118460713,Male,Punjab,3,0,1422,0
+32,M. C. Boys Primary School Mehandi Mohallah Gojra. (Male) (P),31.151340087103286,72.6898181688444,Male,Punjab,2,0,953,0
+33,Govt. M. C Girls School Mehandi Mohallah Gojra. (Female) (P),31.151897210367032,72.68802863791002,Female,Punjab,0,2,0,860
+34,Office E. A. D. A Dijkot Road Gojra.  (Male) (T),31.15204291696205,72.69420555646583,Male,Punjab,3,0,1246,0
+35,Office High Ways Dijkot Road Gojra. (Female) (T),31.15223302346691,72.69440650778793,Female,Punjab,0,2,0,1029
+28,Girls Primary School. Maseeta Colony Gojra (Male) (P),31.153417140683363,72.68920703617297,Male,Punjab,4,0,1879,0
+29,Girls Primary School. Maseeta Colony Gojra (Female) (P),31.153417140683363,72.689237036173,Female,Punjab,0,4,0,1603
+7,Girls Primary School. Bilal Park Gojra. (Male) (P),31.153685935088223,72.6817182041387,Male,Punjab,4,0,1757,0
+8,Girls Primary School. Bilal Park Gojra. (Combined) (P),31.153685935088223,72.6817482041387,Combined,Punjab,1,1,508,478
+25,Govt. Girls Elementary School. Dastgeer Colony Gojra(Female) (P),31.154051984187653,72.69388794607758,Female,Punjab,0,2,0,1107
+9,International Hockey Stadium Jhang Road Gojra. (Female) (T),31.154069781452165,72.67023694729878,Female,Punjab,0,4,0,1545
+27,Girls Elementary School. Dastgeer Colony Gojra(Female) (P),31.154120720467702,72.69403871581329,Female,Punjab,0,4,0,1538
+14,Govt. Vocational Institute for Women Gojra.  (Male) (P),31.154321701857246,72.68563202740725,Male,Punjab,3,0,1241,0
+19,Govt. M. C Boys Primary School. Ghafar park Gojra (Male) (P),31.15508822581384,72.68442857525189,Male,Punjab,2,0,1112,0
+20,Boys Primary School. Ghafar Park Gojra(Male) (P),31.15508822581384,72.6844585752519,Male,Punjab,2,0,731,0
+21,Boys Primary School. Ghafar park Gojra (Female) (P),31.15508822581384,72.6844885752519,Female,Punjab,0,2,0,628
+22,Govt. M. C Boys Primary School. Ghafar park Gojra (Female) (P),31.15508822581384,72.6845185752519,Female,Punjab,0,2,0,1023
+16,M. C Girls Primary School. Ghafar Park Gojra. (Male),31.15514700337357,72.68480219616153,Male,Punjab,2,0,991,0
+17,Girls Primary School. Ghafar Park Gojra. (Combined) (P),31.15514700337357,72.6848321961615,Combined,Punjab,2,1,696,580
+18,M. C Girls Primary School. Ghafar Park Gojra. (Female) (P),31.15583,72.68361,Female,Punjab,0,2,0,840
+5,Govt. Boys Primary School 296/JB-I. Gojra. (Male) (P),31.156331572400237,72.66665058175396,Male,Punjab,3,0,1375,0
+188,Boys Primary School. 296/JB. (Combined) (P),31.156355457988955,72.66674859895545,Combined,Punjab,1,1,318,225
+12,Boys Primary School 296 JB- II Gojra(Male) (P),31.156457869868706,72.65887816715141,Male,Punjab,4,0,1502,0
+13,Girls Primary School. 296/JB-II Bahari Colony Gojra(Female) (P),31.156615359600593,72.65831215029323,Female,Punjab,0,3,0,1245
+167,Girls Primary School. 364/JB (Combined) (P),31.15721,72.67658,Combined,Punjab,1,1,460,362
+168,Girls Primary School. 364/JB (Combined) (P),31.15721,72.67661,Combined,Punjab,1,1,511,346
+6,Girls Primary School. 296/JB-I. (Female) (P),31.158184589888588,72.6638153291197,Female,Punjab,0,2,0,1181
+23,Govt. Special Education Gojra(Male) (P),31.16201,72.69818,Male,Punjab,2,0,1360,0
+24,Govt. Special Education Gojra (Combined)(P),31.16201,72.69821,Combined,Punjab,2,1,736,567
+26,Govt. Special Education Gojra(Male) (P),31.16201,72.69824,Male,Punjab,4,0,1778,0
+15,Girls Primary School. Tuffail Colony Gojra. (Female) (P),31.16282927837452,72.68932578532535,Female,Punjab,0,2,0,988
+182,Girls Elementary School. 98/JB (Female) (P),31.16433,72.74933,Female,Punjab,0,2,0,1035
+181,Boys Primary School. 98/JB-I.  (Male) (P),31.16659,72.74961,Male,Punjab,4,0,1618,0
+171,Girls Community School 363/JB. Bahamani wala (Male) (P),31.17791,72.70387,Male,Punjab,2,0,1196,0
+172,Boys Primary School 363/JB-II. Bahamani wala (Female) (P),31.18793,72.70952,Female,Punjab,0,2,0,920
+169,Boys Primary School. 363/JB.  (Male) (P),31.19083,72.70333,Male,Punjab,2,0,341,0
+178,Girls Primary School 278/RB.  (Female) (P),31.190906226551927,72.77306026293664,Female,Punjab,0,2,0,827
+177,Boys Primary School. 278/RB-I (Male) (P),31.19393462775791,72.77679507998029,Male,Punjab,2,0,1034,0
+170,Girls Primary School. 363/JB.  (Female) (P) Darwala,31.19526,72.69747,Female,Punjab,0,1,0,300
+176,Girls Elemantary School 97/JB.  (Female) (P),31.202006477738376,72.73841900465749,Female,Punjab,0,2,0,1144
+175,Boys High School. 97/JB.  (Male) (P),31.20411084426068,72.73937199417871,Male,Punjab,3,0,1402,0
+173,Govt Model Primary School 96/JB.  (Male) (P),31.21770123607413,72.76940493835598,Male,Punjab,3,0,1430,0
+174,Govt Model Primary School 96/JB.  (Female) (P),31.21770123607413,72.769434938356,Female,Punjab,0,3,0,1251

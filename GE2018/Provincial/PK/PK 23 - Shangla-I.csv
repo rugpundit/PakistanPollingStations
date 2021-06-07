@@ -1,0 +1,134 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+79,GPS- Bahram Dara (Combined) (T)**,34.79214,72.60744,Combined,KPK,1,1,312,244
+135,GGPS Takhta (Combined) (T)**,34.80396,72.9312,Combined,KPK,2,2,1318,947
+130,GGMS Dandai (Combined) (T)**,34.80641573331749,72.94008619733394,Combined,KPK,2,1,663,555
+133,GHS-Dandai  (Combined) (T)**,34.80642962637526,72.94006431466465,Combined,KPK,2,1,1148,847
+131,GMS Seer (Male) (T)**,34.80695,72.94016,Male,KPK,3,0,1727,0
+132,GGPS-  Seer (Female) (T)**,34.80695,72.94022,Female,KPK,0,2,0,1201
+134,GPS- Cheer (Combined) (T)**,34.81939,72.89851,Combined,KPK,1,1,725,419
+81,GPS- Amnavi (Combined) (T)**,34.82119,72.60292,Combined,KPK,2,1,839,618
+82,GGMS- Maroof Khel (Combined) (T)**,34.82242,72.60222,Combined,KPK,1,1,857,563
+80,BHU- Amnavi (Combined) (T)**,34.82314,72.60381,Combined,KPK,2,1,1209,870
+125,GMS Dehrai Maira (Male) (T)**,34.83551372590149,72.97566920729786,Male,KPK,3,0,1245,0
+127,GPS Cham Manrai Maira (Male) (T)**,34.83679870732289,72.97151320211658,Male,KPK,3,0,1725,0
+128,GGPS Manrai (Lakai) (Female) (T)**,34.836946374572115,72.97149328103683,Female,KPK,0,2,0,1244
+126,GGMS Maira (Female) (T)**,34.837747008614514,72.98379355421665,Female,KPK,0,2,0,968
+124,GGPS Maira (Female) (T)**,34.83872,72.98537,Female,KPK,0,2,0,1488
+129,GMS Bar Batkot (Combined) (T)**,34.84087,72.93487,Combined,KPK,2,1,1134,866
+78,GPS No. 1- Achar (Combined) (T)**,34.84344,72.58875,Combined,KPK,2,1,1062,856
+86,GMS- Bazar Kot (Male) (T)**,34.8462,72.60703,Male,KPK,2,0,1121,0
+87,GPS Bazar Kot  (Female),34.84645,72.60713,Female,KPK,0,2,0,890
+59,GPS- Dolo (Combined) (T)**,34.8519,72.69572,Combined,KPK,2,1,1023,864
+54,GMS- Banr (Combined) (T)**,34.85709,72.76158,Combined,KPK,2,1,962,776
+122,GPS Kuz Batkot (Combined) (T)**,34.85956242493788,72.94918614335965,Combined,KPK,1,1,834,602
+121,GMS Kuz Batkot (Combined) (T)**,34.85978444727824,72.94938416399941,Combined,KPK,2,1,1200,807
+57,GPS- Kaho (Combined) (T)**,34.86024,72.71984,Combined,KPK,2,1,950,758
+45,GPS Muslimabad Kuz Banjar (Combined) (T)**,34.86569,72.74281,Combined,KPK,1,1,485,311
+118,GPS Losar,34.86611,72.86833,Combined,KPK,2,1,1035,658
+58,GPS- Zara (Combined) (T)**,34.86666,72.70689,Combined,KPK,2,1,993,763
+53,GMS- Chakat (Combined) (T)**,34.86702922471452,72.76258341508445,Combined,KPK,1,1,835,684
+84,GGHS- Malak Khel (Female) (T)**,34.86744,72.61504,Female,KPK,0,2,0,1379
+85,GPS- Malak Khel (combined) (T)**,34.86913,72.61495,Combined,KPK,2,1,1022,820
+55,GPS- Dehrai (Combined) (T)**,34.87401627186921,72.71554221114602,Combined,KPK,1,1,743,642
+56,GHS- Dehrai (Combined) (T)**,34.8741029390226,72.7154221041058,Combined,KPK,2,1,926,815
+44,GPS- Petaw Dehrai (Combined) (T)**,34.87555048336298,72.71089360255566,Combined,KPK,2,1,1100,946
+66,GPS- Dara Manaf Khel (Combined) (T)**,34.87621,72.65018,Combined,KPK,1,1,761,620
+120,Civil Dispensary Shang  (Female) (T)**,34.88035,72.88958,Female,KPK,0,2,0,1159
+60,GPS- Matta Awan (Combined) (T)**,34.88051,72.69746,Combined,KPK,1,1,805,635
+119,GPS Shang (Male) (T)**,34.88068029657204,72.8889251821362,Male,KPK,3,0,1690,0
+46,GPS Banjar Sir- Naeem Shah Koorona,34.88145,72.72791,Combined,KPK,2,1,741,694
+65,GGPS- Wahab Khel (Female) (T)**,34.88198,72.61576,Female,KPK,0,3,0,2332
+117,GPS Janrai Shang (Combined) (T)**,34.88203197245471,72.87803582476606,Combined,KPK,2,1,414,281
+63,GPS- Wahab Khel P.S No.1 (Male) (T)**,34.88361,72.61723,Male,KPK,2,0,1589,0
+64,GPS- Wahab Khel P.S No.2 (Male) (T)**,34.88387,72.61749,Male,KPK,2,0,1313,0
+67,GMS Gandaw (Combined) (T)**,34.88647,72.63982,Combined,KPK,2,1,1091,896
+68,GPS- Gandaw  (Combined) (T)**,34.88689,72.64054,Combined,KPK,1,1,758,624
+83,GHS- Malak Khel (Male) (T)**,34.88696,72.64046,Male,KPK,2,0,1718,0
+43,PTCL Exchange- Seria Kana,34.88914,72.76252,Combined,KPK,2,1,523,422
+42,GPS- Serai (Combined) (T)**,34.88936,72.76181,Combined,KPK,2,1,736,567
+62,GPS Daulat Kaley (Female)  (T)**,34.89069249621505,72.68181712611587,Female,KPK,0,2,0,1190
+61,GMS- Daulat Kalay (Male)  (T)**,34.89119402761236,72.68196948439183,Male,KPK,1,0,1431,0
+41,GPS Amlook Chelai (Combined) (T)**,34.89268,72.75626,Combined,KPK,1,1,584,491
+36,GHS- Ranyal (Male) (T)**,34.89344,72.79852,Male,KPK,2,0,1521,0
+37,GGPS- Ranyal (Female) (T)**,34.89599345086163,72.79673492275408,Female,KPK,0,2,0,1084
+52,GPS- Shalmano (Combined) (T)**,34.89661,72.68563,Combined,KPK,2,1,897,657
+48,GHS- Pagorai (Combined) (T)**,34.89722,72.70667,Combined,KPK,2,2,894,625
+49,GPS- Kass Pagorai,34.89722,72.7067,Combined,KPK,1,1,545,573
+47,GPS- Bar Kass Pagorai (Combined) (T)**,34.89902,72.71097,Combined,KPK,2,1,868,669
+33,GPS- Donai (Combined) (T)**,34.90117,72.76645,Combined,KPK,2,1,1046,750
+74,GHS- Bassi (Combined) P.S No.1 (T)**,34.90297,72.66591,Combined,KPK,1,1,567,431
+75,GHS- Bassi (Combined) P.S No.2 (T)**,34.90297,72.66594,Combined,KPK,2,1,1037,823
+76,GPS- Bassi (Combined) (T)**,34.90297,72.66597,Combined,KPK,1,1,658,541
+70,GGPS- Alpurai  (Female) (T)**,34.90302901712795,72.6442016098874,Female,KPK,0,2,0,1661
+69,GHS No.2- Alpurai (Male) (P)*,34.90329,72.6437,Male,KPK,2,0,1340,0
+73,GPS Alpurai No.2 (Male) (T)**,34.90338108541531,72.64393529008417,Male,KPK,2,0,845,0
+51,GMS- Mian Kalay (Pir Abad) (Combined) (T)**,34.9045,72.69205,Combined,KPK,2,1,1144,923
+39,GPS- Burshat (Combined) (T)**,34.90783,72.757,Combined,KPK,2,2,1338,1116
+50,GPS- Pir Abad (Combined) (T)**,34.90849,72.69962,Combined,KPK,2,1,898,711
+111,GPS  Kerai (Female),34.91093,72.82739,Female,KPK,0,1,0,591
+110,GMS Kerai (Male) (T)**,34.91293382890061,72.82892663517616,Male,KPK,1,0,919,0
+114,GHSS Butyal P.S No.1(Male) (P)*,34.91338,72.86858,Male,KPK,2,0,941,0
+115,GHSS Butyal P.S No.2  (Male) (T)**,34.91338,72.86861,Male,KPK,3,0,1521,0
+116,GHSS Butyal P.S No.3 (Female),34.91338,72.86864,Female,KPK,0,3,0,1665
+40,GHS- Kuz Kana (Combined) (T)**,34.91832,72.75587,Combined,KPK,2,1,959,749
+38,GGPS- Kuz Kana (Combined) (T)**,34.919,72.75481,Combined,KPK,2,1,1110,849
+72,GCMHS- Alpuri Shangla PS No. 2,34.91919,72.63277,Combined,KPK,2,1,659,570
+113,GPS Butyal (Combined) (T)**,34.92024,72.87323,Combined,KPK,2,1,1086,714
+112,GPS-  Khatak Sar (Combined) (T)**,34.9209,72.85465,Combined,KPK,1,1,595,333
+35,GMS- Shatoot (Combined) (T)**,34.92102,72.80985,Combined,KPK,2,1,1079,853
+71,GCMHS- Alpurai  PS No.1 (Combined) (P)*,34.9210451,72.6314479,Combined,KPK,2,1,589,493
+31,GMS- Chichlo (Combined) (T)**,34.92231,72.7822,Combined,KPK,2,1,986,781
+77,GPS- Kass Bassi (combined) (T)**,34.92254,72.67257,Combined,KPK,1,1,784,617
+32,GPS- Ambela (Combined) (T)**,34.92356,72.76941,Combined,KPK,1,1,449,438
+88,GMS- Larai (Combined) (T)**,34.9240804,72.633342,Combined,KPK,1,1,879,665
+34,GMS- Sangrai (Combined) (T)**,34.93263,72.79684,Combined,KPK,2,1,928,784
+109,GGPS Besham (Combined) (T)**,34.932907815671655,72.87825986487783,Combined,KPK,1,1,802,592
+25,GPS-Quanj Naway Kalay Shah Pur (Male) (T)**,34.93438,72.75191,Male,KPK,3,0,1774,0
+26,GGPS- Naway Kalay (Female) (T)**,34.9345,72.75022,Female,KPK,0,2,0,1376
+27,GPS Bar Hal (Combined) (T)**,34.93871,72.7784,Combined,KPK,1,1,771,550
+104,GPS Kuz Lashkar  (Combined) (T)**,34.94181,72.81782,Combined,KPK,2,1,1033,760
+107,GPS- Hawalai  (Combined) (T)**,34.94444,72.85413,Combined,KPK,1,1,349,237
+89,GPS- Biagalai (Combined) (T)**,34.94556,72.62249,Combined,KPK,1,1,728,563
+103,GPS Arakh (Combined) (T)**,34.94661,72.8207,Combined,KPK,1,1,603,415
+28,GHS- Shapur (Male) (P)*,34.9493,72.74921,Male,KPK,3,0,2020,0
+24,GPS-Kandaw Kana (Combined) (T)**,34.94948,72.78357,Combined,KPK,2,1,1241,981
+29,GHSS- Shapur (Male) (P)*,34.9499,72.74897,Male,KPK,2,0,870,0
+30,GGPS- Shapur (Female) (P)*,34.95028,72.74894,Female,KPK,0,3,0,2203
+90,GPS- Naway Kalay (Lilownai) (Combined)  (T)**,34.95108094824461,72.63880133526668,Combined,KPK,1,1,684,531
+106,GPS- Manz Kaley  (Combined) (T)**,34.95259,72.82074,Combined,KPK,1,1,502,440
+93,GGHS- Lilownai  (Female) (T)**,34.95444732047139,72.64445080084036,Female,KPK,0,3,0,1911
+108,GPS- Pandyar  (Combined) (T)**,34.95523696346502,72.88754065098276,Combined,KPK,2,1,1262,911
+91,GHS- Lilownai (Male)  (P)*,34.95596576210124,72.64314887750449,Male,KPK,3,0,2272,0
+92,GPS- Lilownai  (combined) (P)*,34.956040190230574,72.64272066142682,Combined,KPK,1,1,673,552
+95,GPS Angan (Male) (T)**,34.95697,72.64696,Male,KPK,2,0,1312,0
+96,GGPS- Khawar Kalay  (Combined) (T)**,34.95815,72.65243,Combined,KPK,2,1,896,719
+102,GMS- Managai (Combined) (T)**,34.9585031,72.6424887,Combined,KPK,2,1,899,686
+94,GPS- Khwar Kalay  (Combined) (T)**,34.95925,72.65128,Female,KPK,0,2,0,1026
+23,GPS- Bar Kana (Female) (T)**,34.96057,72.74672,Female,KPK,0,2,0,1453
+105,GMS Gandorai (Combined) (T)**,34.96319,72.81959,Combined,KPK,2,1,1159,800
+98,GHS- Sheshan (Combined) (T)**,34.96861,72.62515,Combined,KPK,2,1,922,686
+22,GMS Bar Kana (Male) (T)**,34.97052,72.74725,Male,KPK,3,0,1900,0
+99,GPS- Danai (Combined) (T)**,34.97596,72.63645,Combined,KPK,1,1,421,334
+20,GPS- Karshat (Combined) (T)**,34.98026,72.74909,Combined,KPK,2,1,1206,916
+21,GGPS- Tanshat (Combined) (T)**,34.98376,72.75055,Combined,KPK,2,1,1045,746
+97,GPS- Shalizara (Combined) (T)**,34.98678,72.64114,Combined,KPK,2,1,1285,1010
+17,GPS Soor Banr Damorai (Combined) (T),34.98829,72.74055,Combined,KPK,1,1,530,407
+18,GHS- Damorai (Male) (T)**,34.99388,72.75079,Male,KPK,4,0,2221,0
+19,GPS- Damorai (Female) (T)**,34.99454,72.75104,Female,KPK,0,3,0,1667
+100,GHS- Kass (Male) (T)**,34.99579,72.63536,Male,KPK,2,0,1295,0
+101,GPS- Kass (Female) (T)**,34.99583,72.63562,Female,KPK,0,1,0,925
+15,GPS No. 2 Kekor ( Combined) (T)**,35.01118,72.75188,Combined,KPK,2,1,1119,791
+13,GPS- Charai Larai (Combined) (T)**,35.01233,72.71066,Combined,KPK,1,1,715,433
+16,GPS- Faiz Dara (Combined) (T)**,35.01826,72.7473,Combined,KPK,1,1,846,615
+14,GMS- Larai (Combined) (T)**,35.02691,72.72646,Combined,KPK,2,1,1276,880
+8,GPS- Bilkanai (Male) (T)**,35.03015,72.75187,Male,KPK,3,0,1731,0
+9,GGPS- Bilkanai (Female) (T)**,35.03214,72.74966,Female,KPK,0,2,0,1162
+12,GPS- Dehrai Bilkanai (Combined) (T)**,35.04202,72.73751,Combined,KPK,1,1,567,443
+7,GHSS- Olandar (Combined) (T)**,35.04392,72.74731,Combined,KPK,2,1,1298,958
+3,GPS Kuz Ganshal (Combined) (T)**,35.0522,72.74342,Combined,KPK,1,1,820,653
+5,GMS Bar Ganshal (combined) (T)**,35.05298,72.73822,Combined,KPK,1,1,775,617
+11,GPS Smastay (Combined) (T)**,35.05634,72.71848,Combined,KPK,1,1,427,319
+4,GPS- Bela Kuz Ganshal (Combined) (T)**,35.06046,72.74906,Combined,KPK,1,1,653,452
+6,GPS Gardoon No. 1 (combined) (T)**,35.06738,72.71669,Combined,KPK,1,1,368,294
+2,GMS- Ajmir (Combined) (T)**,35.07384,72.75593,Combined,KPK,1,1,678,532
+1,GPS- Logai (Combined) (T)**,35.07972,72.75611,Combined,KPK,2,1,774,652

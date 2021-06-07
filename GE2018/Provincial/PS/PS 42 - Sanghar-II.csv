@@ -1,0 +1,40 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+86,Govt. Primary School Fateh Ali Rajar (Male) (P),25.56957491139364,69.41911348300404,Male,Sindh,3,0,1145,0
+87,Govt. Primary School Fateh Ali Rajar (Female) (P),25.56957491139364,69.419143483004,Female,Sindh,0,2,0,877
+85,Govt. Primary School Kushi Muhammad jat (Comb) (P),25.579979992070836,69.47316009582114,Combined,Sindh,2,2,669,580
+82,Govt.  Primary School Khahi (Female) (P),25.62965841975204,69.42055885836113,Female,Sindh,0,4,0,1635
+81,Govt. High School Khahi (Male) (P),25.629772520203517,69.42018703339087,Male,Sindh,4,0,2046,0
+91,Govt. Primary School Khair Muhammad Gajoo (Comb) (P),25.77266856026359,69.47608158259433,Combined,Sindh,2,2,539,462
+62,GPS Main Sindhi Hathungo  (Male)  (T),25.78794586366408,69.45826349757911,Male,Sindh,3,0,950,0
+63,GPS Main Sindhi Hathungo  (Female)  (T),25.78794586366408,69.4582934975791,Female,Sindh,0,2,0,754
+24,Govt. Grils Primary School Muhammad Bux Kuber (OLD Building ) (Female)  (T) (Combined),25.792365969965566,69.33112013914331,Combined,Sindh,2,2,574,490
+22,Govt. Primary School Muhammad Bux Kuber (New Building) (Male) (P) Fully improvised,25.79272870073624,69.33224362666068,Male,Sindh,4,0,1504,0
+23,Govt. Primary School Muhammad Bux Kuber (OLD Building ) (Female) (P),25.79310814575977,69.33245358529035,Female,Sindh,0,4,0,1283
+55,GPS Haji Hayat Bozdar (Comb)  (T),25.807087925373384,69.39855051734155,Combined,Sindh,2,2,555,508
+52,Govt. Primary School Essa Khan Hingoro (Male)  (P),25.811534928294638,69.42796724375478,Male,Sindh,4,0,1620,0
+53,Govt. Primary School Essa Khan Hingoro (Female)  (P),25.811565689452376,69.42796284969683,Female,Sindh,0,4,0,1428
+19,Govt. Primary School Dodo Rind (Male)  (P),25.81668542765553,69.39337339060874,Male,Sindh,4,0,1951,0
+20,Govt. Primary School Dodo Rind(Female) (P),25.816700319709554,69.39330492677718,Female,Sindh,0,4,0,1533
+30,Govt. Primary School Ghulam Muhammad  Parhore (Comb) (P),25.817504199047725,69.25668367286923,Combined,Sindh,2,1,521,430
+97,Govt. Primary School Muhammad Pahore (Comb)  (P),25.8261979,69.3713752,Combined,Sindh,2,2,572,434
+7,Govt- Girls Primry School Khipro                                    ( Male) (P),25.82704534750183,69.37783206514948,Male,Sindh,2,0,907,0
+5,Govt.Urdu Primary School  Sinhoonji Road Khipro (Male),25.827330759901994,69.3816157453828,Male,Sindh,4,0,1975,0
+28,Basic Health Unit Haji Kalo Rajar (Male) (P),25.82950332961043,69.28888197221441,Male,Sindh,3,0,1017,0
+29,Basic Health Unit Haji Kalo Rajar (Female) (P),25.82950332961043,69.2889119722144,Female,Sindh,0,2,0,892
+21,21.GPS Budho Khan Bozdar  (T) (Combined),25.835068259435072,69.390068110891,Combined,Sindh,2,2,716,558
+50,Govt. Primary School Taj Muhammad Sayal (Male)  (P),25.839146638628787,69.21331228676222,Male,Sindh,4,0,1446,0
+26,Govt. Primary School Luqman Rajar (Male) (P),25.853626618073147,69.31879358910074,Male,Sindh,4,0,1426,0
+27,Govt. Primary  School Luqman Rajar (Female) (P),25.853626618073147,69.3188235891007,Female,Sindh,0,3,0,1159
+33,Govt. Primary School Sawan Bhambhro (Male) (FULLY IMPROVISED),26.0464808,68.9403063,Male,Sindh,2,0,923,0
+34,Govt. Primary School Sawan Bhambhro (Female) (FULLY IMPROVISED),26.0464808,68.9403363,Female,Sindh,0,2,0,765
+38,Govt. Primary School Nauabad Hingora (Male) Fully Improvised (T),26.0464808,68.9403663,Male,Sindh,4,0,1477,0
+39,Govt. Primary School Nau Abad Hingora New Building (Female) (P),26.0464808,68.9403963,Female,Sindh,0,4,0,1229
+69,Govt.Girls Primary School Sajan Hingoro (Male)  (P),26.0464808,68.9404263,Male,Sindh,4,0,1372,0
+70,Govt. Primary School Pabban (Female) (P),26.0464808,68.9404563,Female,Sindh,0,3,0,1088
+71,Govt Primary School Khani Rajar ( Male) (P),26.0464808,68.9404863,Male,Sindh,4,0,1396,0
+72,Govt. Primary School Khani Rajar (Female)  (T),26.0464808,68.9405163,Female,Sindh,0,3,0,1123
+73,Basic Health Unit Kamil Hingoro (Male)  (P),26.0464808,68.9405463,Male,Sindh,4,0,2024,0
+74,Union Council. Office Kamil Hingoro (Female) (P),26.0464808,68.9405763,Female,Sindh,0,4,0,1795
+75,Govt. Primary School Arab Arisar (Male) (P)  (Partially Improvised),26.0464808,68.9406063,Male,Sindh,2,0,1081,0
+83,Govt. Primary School Chaneesar Mahar (combined),26.0464808,68.9406363,Combined,Sindh,2,2,634,518
+93,Govt. Primary School Hamzoo Dars (Comb)  (P),26.0464808,68.9406663,Combined,Sindh,1,1,446,364

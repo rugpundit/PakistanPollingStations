@@ -1,0 +1,131 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+123,Govt. Boys Primary School Chak No. 253/P (P)*,28.14992,70.24514,Combined,Punjab,2,2,1042,675
+121,Govt. Boys Primary School 235/P-Sadiqabad,28.15468270246919,70.20599300049743,Combined,Punjab,1,1,988,692
+105,Govt. Boys Primary School Chak No. 183/P (P)*,28.15749,70.18279,Combined,Punjab,2,1,795,528
+122,Govt. Boys Primary School Chak No. 234/P,28.162201091602952,70.2253703236608,Combined,Punjab,1,1,520,409
+106,Govt. Boys Primary School Chak No. 183/AP,28.17381,70.20638,Combined,Punjab,1,1,469,308
+104,Govt. Boys Elementary School Chak No. 182/P (P)*,28.18726,70.2042,Combined,Punjab,2,1,865,682
+103,Govt. Boys Primary School Chak No. 161/P (P)*,28.20362,70.1749,Combined,Punjab,2,1,778,611
+102,Govt. Boys Primary School Chak No. 132/P,28.21501,70.20619,Combined,Punjab,1,1,427,292
+99,Govt. Girls Primary School Chak No. 157/P,28.21977,70.14824,Combined,Punjab,1,1,566,396
+133,Govt. Elementary  School Chak No. 156/P (P)*,28.22254,70.12417,Combined,Punjab,1,1,609,534
+100,Govt. Boys High School Chak No. 158/P,28.2228,70.17802,Combined,Punjab,2,2,940,724
+134,Govt. Primary School Chak No. 172/P (P)*,28.227434857539905,70.09112727903334,Combined,Punjab,2,2,898,711
+101,Govt. Boys Primary School Chak No. 152/P (P)*,28.22986,70.19774,Combined,Punjab,1,1,646,521
+97,Govt. Boys Elementary School Chak No. 153/P (Male),28.24518,70.16345,Male,Punjab,2,0,1133,0
+98,Govt. Boys Elementary School Chak No. 153/P (Female),28.24518,70.16348,Female,Punjab,0,2,0,827
+135,Govt. Primary School Jaffar Pur,28.252531946605497,70.11629549498277,Combined,Punjab,2,2,962,740
+92,Govt. Boys Primary School Chak No. 128/P (P)*,28.256584148066505,70.22944382773844,Combined,Punjab,2,1,786,578
+91,Govt. Primary School Chak No. 151/P (P)*,28.26365,70.20198,Combined,Punjab,2,2,959,732
+84,Govt. Girls Primary School Tibba Zahir Pir Sadiq Abad (Male)  (P)*,28.269217773094717,70.13651026253082,Male,Punjab,3,0,1469,0
+89,Govt. Girls Elementary School Garhi Baigarh- Sadiqabad (Female),28.26981,70.15177,Female,Punjab,0,2,0,900
+95,Govt. Boys primary School chak no.150/P (Male),28.27189,70.18375,Male,Punjab,2,0,1116,0
+96,Govt. Boys primary School chak no.150/P (Female),28.27189,70.18378,Female,Punjab,0,2,0,855
+85,Govt. Boys Elementary School- Old Bontra Tibba Zahir Pir- Sadiqabad (Female)  (P)*,28.27232780742264,70.13117884197338,Female,Punjab,0,2,0,1002
+90,Govt. Boys Elementary School Garhi Baigarh- Sadiqabad,28.27365,70.14967,Combined,Punjab,2,2,911,674
+6,Govt. Girls Primary School- Garhi Dadu- Sadiqabad (P)*,28.2751,70.13675,Combined,Punjab,1,1,653,460
+107,Govt. Elementary School Chak No. 170/P (P)*,28.27649,70.10008,Combined,Punjab,2,1,798,557
+126,Govt. Girls Elementary School- Chak No. 120/P (Female),28.27676,70.24933,Female,Punjab,0,2,0,926
+83,Govt. Girls Primary School 168/P Basti Kamdar Sadiq Abad (P)*,28.276912480950283,70.12564664694463,Combined,Punjab,1,1,355,263
+125,Govt. Boys Elementary School- Chak No. 120/P (Male),28.278132457786448,70.25174508596227,Male,Punjab,2,0,1139,0
+127,Govt. Girls Elementary School Chak No. 148/P (Male),28.28043745366023,70.21746176307414,Male,Punjab,2,0,1286,0
+128,Govt. Girls Elementary School Chak NO. 148/P (Female),28.28043745366023,70.2174917630741,Female,Punjab,0,2,0,941
+13,Govt. Boys Primary School- Chak No. 169/P- Sadiqabad (Male)  (P)*,28.2809633362718,70.1471034914434,Male,Punjab,3,0,1748,0
+74,Govt. Boys Primary School  155/P-Qadirabad Sadiq Abad (Male)  (P)*,28.28149573882799,70.12948317384307,Male,Punjab,3,0,1329,0
+75,Govt. Boys Primary School 155/P Qadirabad Sadiq Abad (Female)  (P)*,28.28149582135592,70.12948660308626,Female,Punjab,0,2,0,985
+79,Govt. Girls Elementry School Tibbi Beghawar Sadiq Abad (Female)  (P)*,28.28306,70.11678,Female,Punjab,0,2,0,1457
+77,Govt. Girls Elementary School- Tibba Qadirabad (Female),28.28353,70.13146,Female,Punjab,0,2,0,1226
+76,Govt. Girls Elementary School- Tibba Qadirabad (Male),28.28359,70.13148,Male,Punjab,3,0,1541,0
+78,Govt. Girls Degree College Sadiq Abad (Male)  (P)*,28.286972585687497,70.11890515335719,Male,Punjab,3,0,1728,0
+80,Govt. Girls Degree College Sadiq Abad,28.286972585687497,70.1189351533572,Combined,Punjab,2,2,943,727
+93,Govt. Boys Primary School Birthala  (Male),28.28773,70.17988,Male,Punjab,2,0,1185,0
+69,Govt. Boys Primary School Basti Mian Sahib Sadiq Abad (Male)  (P)*,28.2906028,70.1373476,Male,Punjab,3,0,1547,0
+15,Govt. Girls Elementary School- Basti Mian Sahib (Kachi Mandi)- Sadiqabad (Male)  (P)*,28.29137226690956,70.13560828341085,Male,Punjab,3,0,1536,0
+16,Govt. Girls Elementary School- Basti Mian Sahib (Kachi Mandi)- Sadiqabad (Female)  (P)*,28.29137226690956,70.1356382834108,Female,Punjab,0,3,0,1295
+70,Govt. Girls Primary School Basti Mian Sahib Sadiq Abad (Female)  (P)*,28.291392426500952,70.1356123088479,Female,Punjab,0,3,0,1289
+118,Govt.Boys Primary School 147/P-Sadiqabad,28.29403,70.21069,Combined,Punjab,1,1,521,411
+22,Govt. Boys Primary School Basti Samdani Sadiqabad,28.29417,70.10469,Combined,Punjab,1,1,560,400
+18,Govt. Girls Primary School- Rasheed Abad- Sadiqabad (P)*,28.29511,70.14339,Combined,Punjab,2,1,842,655
+86,Jinnah Sports Complex- Sadiqabad (Male)  (P)*,28.296436969186658,70.1261295749778,Male,Punjab,2,0,1117,0
+87,Jinnah Sports Complex- Sadiqabad (Female)  (P)*,28.296436969186658,70.1261595749778,Female,Punjab,0,2,0,1073
+81,Govt. Girls Primary School Johar Colony- Sadiq Abad (Male)  (P)*,28.297323897276915,70.12303087010811,Male,Punjab,2,0,990,0
+82,Govt. Girls Primary School Johar Colony- Sadiq Abad  (Female)  (P)*,28.297323897276915,70.1230608701081,Female,Punjab,0,2,0,848
+73,Govt. Rafique Middle School  Sadiq Abad,28.29741810640614,70.132216135571,Combined,Punjab,1,1,451,453
+71,Govt. Boys High School Block No. 1 Sadiq Abad  (Male)  (P)*,28.298198180058478,70.13193224686566,Male,Punjab,2,0,1151,0
+72,Govt. Boys High School Block No. 1 Sadiq Abad  (Female)  (P)*,28.298198180058478,70.1319622468657,Female,Punjab,0,2,0,992
+64,Office Social Welfare Jinnah Town Sadiq Abad  (Male),28.29854582850511,70.13632940442473,Male,Punjab,3,0,1495,0
+65,Office Social Welfare Jinnah Town Sadiq Abad  (Female),28.29854582850511,70.1363594044247,Female,Punjab,0,2,0,1192
+66,Office of the Deputy DEO (Female)- Sadiqabad,28.299558426157937,70.13631847680311,Combined,Punjab,2,2,898,766
+21,Govt. Girls Elementary School- Satellite Town Scheme No. 2- Model Town Sadiqabad (P)*,28.30033,70.11021,Combined,Punjab,2,2,846,766
+68,TMA Office- Sadiqabad,28.30070192724836,70.134305761937,Combined,Punjab,2,2,953,801
+67,Govt. MC Girls High School- Sadiqabad,28.30115727543134,70.13467454689672,Combined,Punjab,2,1,662,617
+23,Govt. Vocational Training Institute for Girls Model Town- Sadiqabad (Male),28.301219205416626,70.107708606224,Male,Punjab,2,0,1221,0
+24,Govt. Vocational Training Institute for Girls Model Town- Sadiqabad (Female),28.301219205416626,70.107738606224,Female,Punjab,0,2,0,986
+54,Govt. Girls Higher Secondary School Old Sadiq Abad (Male),28.301372899172915,70.124821933749,Male,Punjab,3,0,1396,0
+55,Govt. Girls Higher Secondary School Old Sadiq Abad (Female),28.301372899172915,70.124851933749,Female,Punjab,0,2,0,1172
+56,Govt. Girls Higher Secondary School Old Sadiq Abad (Male)  (P)*,28.301372899172915,70.124881933749,Male,Punjab,3,0,1369,0
+57,Govt. Girls Higher Secondary School Old Sadiq Abad (Female)  (P)*,28.301372899172915,70.124911933749,Female,Punjab,0,2,0,1175
+53,Govt. Girls Primary School Zor Kot,28.30235,70.11458,Combined,Punjab,1,1,657,587
+51,Govt. Boys Primary School Zoor Kot Sadiq Abad (Male)  (P)*,28.30284257995969,70.11451126522623,Male,Punjab,3,0,1324,0
+52,Govt. Boys Primary School Zoor Kot Sadiq Abad (Female)  (P)*,28.30284257995969,70.1145412652262,Female,Punjab,0,2,0,1031
+131,Govt. Boys Primary School Chak No. 149/P (Male),28.303200076387533,70.19111072747761,Male,Punjab,2,0,1216,0
+58,Govt. Girls Primary School Mahajir Colony Sadiq Abad (Female)  (P)*,28.3049,70.13203,Female,Punjab,0,3,0,1359
+62,Govt. Boys Primary School  GhareebAbad (Male)  (P)*,28.305165222766007,70.13835300721074,Male,Punjab,2,0,1230,0
+63,Govt. Boys Primary School  GhareebAbad (Female)  (P)*,28.305165222766007,70.1383830072107,Female,Punjab,0,2,0,1037
+59,Govt. Boys Primary School Block No. 2 Sadiq Abad (Male)  (P)*,28.30545237570189,70.13173062503,Male,Punjab,3,0,1507,0
+129,Govt. Boys Primary School Basti Moran (Male)  (P)*,28.30549021711794,70.15912606781842,Male,Punjab,3,0,1523,0
+130,Govt. Boys Primary School Basti Moran (Female)  (P)*,28.30550444932906,70.1591762130686,Female,Punjab,0,2,0,1169
+40,Govt. Boys School Mohallah Ghafoor Abad No. 2 Sadiq Abad (Male)  (P)*,28.306197036608697,70.12140381145562,Male,Punjab,2,0,1344,0
+41,Govt. Boys School Mohallah Ghafoor Abad No. 2 Sadiq Abad (Female)  (P)*,28.306197036608697,70.1214338114556,Female,Punjab,0,2,0,1083
+42,Govt. Girls Elementary School Mohallah Ghafoor Abad,28.30643,70.12205,Combined,Punjab,2,2,862,634
+37,Govt. Boys Primary School Public Colony Sadiq Abad (Male)  (P)*,28.307918837917352,70.12891136093472,Male,Punjab,3,0,1609,0
+38,Govt. Boys Primary School Public Colony Sadiq Abad (Female)  (P)*,28.307918837917352,70.1289413609347,Female,Punjab,0,3,0,1303
+39,Govt. Girls Primary School Public Colony- Sadiqabad,28.30808,70.12892,Combined,Punjab,1,1,749,614
+46,Bright Future Public School (Registered)- Arain Colony- Sadiqabad (Male),28.30811,70.11937,Male,Punjab,3,0,1435,0
+48,Bright Future Public School (Registered)- Arain Colony- Sadiqabad (Female),28.30815,70.11916,Female,Punjab,0,2,0,1122
+43,Govt. Office Highway Sadiq Abad (Male)  (P)*,28.309044880094877,70.12415433602919,Male,Punjab,3,0,1734,0
+44,Govt. Office Highway Sadiq Abad (Female)  (P)*,28.309044880094877,70.1241843360292,Female,Punjab,0,2,0,1279
+17,Govt. Boys Primary School- Chak No. 166/P- Sadiqabad (P)*,28.309455142116953,70.14539081392738,Combined,Punjab,2,1,825,668
+7,Shaheen Model School- Arif Town Sadiq Abad (Male)  (T)**,28.309708783595827,70.12181489766817,Male,Punjab,4,0,2370,0
+8,Shaheen Model School- Arif Town Sadiq Abad (Female)  (T)**,28.309708783595827,70.1218448976682,Female,Punjab,0,3,0,1735
+25,Govt. Girls Elementary School Laghari Colony Sadiq Abad (Male)  (P)*,28.3099,70.13485,Male,Punjab,2,0,1057,0
+26,Govt. Girls Elementary School Laghari Colony Sadiq Abad (Female)  (P)*,28.3099,70.13488,Female,Punjab,0,2,0,913
+35,Govt. Community Center Mazhar Fareed Colony Sadiq Abad (Male)  (P)*,28.31084,70.13147,Male,Punjab,2,0,1196,0
+36,Govt. Community Center Mazhar Fareed Colony Sadiq Abad (Female)  (P)*,28.31084,70.1315,Female,Punjab,0,2,0,1020
+34,Govt. Boys Primary School Old Sadiqabad Mazhar Fareed Colony,28.31109282364726,70.13258422465512,Combined,Punjab,2,2,921,767
+47,Govt. Girls Primary School Kot Fazal Arain Colony Sadiq Abad (Female)  (P)*,28.31163,70.1171,Female,Punjab,0,2,0,836
+45,Govt. Girls Primary School Kot Fazal Arain Colony Sadiq Abad (Male)  (P)*,28.311692274564383,70.11712609392646,Male,Punjab,2,0,996,0
+33,Govt. Girls High School- Petrol Pump- Middle Portion Sadiqabad,28.311993277614416,70.1332058706772,Combined,Punjab,2,1,759,689
+31,Govt. Girls High School- Petrol Pump High Portion- Sadiqabad (Male)  (P)*,28.312481392859933,70.1329023931432,Male,Punjab,3,0,1545,0
+32,Govt. Girls High School- Petrol Pump- High Portion Sadiqabad (Female)  (P)*,28.312481392859933,70.1329323931432,Female,Punjab,0,3,0,1389
+117,Govt. Boys Primary School Chak No. 146/P- Sadiqabad (Combine),28.313791323980183,70.20545759135223,Combined,Punjab,1,1,824,681
+124,Govt. Boys Elementary School Chak No. 119/P (P)*,28.313791634011938,70.22856293517879,Combined,Punjab,2,2,1010,763
+27,Rehnuma Model High School- Sadiqabad (Male),28.31489,70.13428,Male,Punjab,2,0,1286,0
+28,Rehnuma Model High School- Sadiqabad (Female),28.31489,70.13431,Female,Punjab,0,2,0,974
+3,Govt. Girls Secondary School Ilyas Colony  Sadiq Abad  (Male)  (P)*,28.31616,70.119,Male,Punjab,4,0,1955,0
+4,Govt. Girls Secondary School- Ilyas Colony Sadiqabad (Female),28.31616,70.11903,Female,Punjab,0,2,0,1223
+5,Govt. Girls Secondary School Ilyas Colony  Sadiq Abad  (Female)  (P)*,28.31616,70.11906,Female,Punjab,0,3,0,1733
+1,Govt. Boys Primary School Ilyas Colony Sadiq Abad  (P)*,28.31618,70.11913,Combined,Punjab,2,1,858,599
+2,Govt. Girls Secondary School- Ilyas Colony Sadiqabad (Male),28.316199685672125,70.11915891767951,Male,Punjab,3,0,1652,0
+49,Govt. Boys Primary School- Mehmood Colony (Mujahid Colony)- Sadiqabad (Male),28.316897762157037,70.1302137427546,Male,Punjab,4,0,2190,0
+50,Govt. Boys Primary School- Mehmood Colony (Mujahid Colony)- Sadiqabad (Female),28.316897762157037,70.1302437427546,Female,Punjab,0,3,0,1789
+29,Govt. Girls Primary School Abid Colony Sadiq Abad (Male)  (P)*,28.31852611063488,70.1411172891993,Male,Punjab,3,0,1384,0
+30,Govt. Girls Primary School Abid Colony Sadiq Abad (Female)  (P)*,28.31852611063488,70.1411472891993,Female,Punjab,0,2,0,1109
+19,Govt. Girls Primary School Mehmood Colony (Mujahid Colony)- Sadiqabad (Male)  (P)*,28.31887,70.13206,Male,Punjab,2,0,1243,0
+12,Govt. Girls Primary School Mehmoood Colony- Sadiqabad (P)*,28.31898,70.132,Combined,Punjab,1,1,500,333
+20,Govt. Girls Primary School Mehmood Colony (Mujahid Colony)- Sadiqabad (Female)  (P)*,28.31898,70.13203,Female,Punjab,0,2,0,876
+60,Govt. Boys Primary School Chak No. 165/P Sadiq Abad (Male)  (P)*,28.320542801495865,70.14820479073275,Male,Punjab,2,0,961,0
+61,Govt. Boys Primary School Chak No. 165/P Sadiq Abad (Female)  (P)*,28.320542801495865,70.1482347907327,Female,Punjab,0,2,0,760
+10,Govt. Girls High School- Low Income Scheme- Sadiqabad,28.32168,70.12713,Combined,Punjab,2,2,1079,728
+11,Govt. Girls High School Low Income Scheme Sadiq Abad (Female)  (P)*,28.32168,70.12716,Female,Punjab,0,3,0,1639
+9,Govt. Girls High School Low Income Scheme Sadiq Abad (Male)  (P)*,28.32168,70.12719,Male,Punjab,3,0,1657,0
+113,Govt. Boys Primary School Latki (P)*,28.32862805283464,70.2002530598846,Combined,Punjab,1,1,404,447
+110,Govt. Boys High School Chandrami Sadiq Abad,28.33168,70.17356,Combined,Punjab,2,2,963,807
+108,Govt. Boys Primary School Goth Jorra Sadiq Abad  (Male),28.332682344392005,70.1464930080096,Male,Punjab,3,0,1414,0
+109,Govt. Girls Primary School Goth Jorra Sadiq Abad (Female),28.33346,70.14676,Female,Punjab,0,2,0,1046
+116,Govt. Primary School Dagga Ahmed Khan- Sadiqabad (P)*,28.343925859605,70.2388713392075,Combined,Punjab,1,1,546,464
+115,Govt. Girls High School Chak No. 145/P (Female)  (P)*,28.349975540684188,70.22791980616843,Female,Punjab,0,2,0,1132
+114,Govt. Girls High School Chak No. 145/P (Male)  (P)*,28.34999656369787,70.22798670420536,Male,Punjab,3,0,1530,0
+112,Govt. Boys Elementry School Adam Sahaba (P)*,28.360870501056542,70.18915610988813,Combined,Punjab,2,1,856,577
+119,Govt. Boys Primary School Chak No. 164/P (Male),28.36258,70.19943,Male,Punjab,2,0,1199,0
+120,Govt. Girls Primary School Chak No. 164/P (Female),28.36308,70.19903,Female,Punjab,0,2,0,1016

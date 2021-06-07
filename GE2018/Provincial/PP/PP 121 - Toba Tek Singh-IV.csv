@@ -1,0 +1,207 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+200,200. Govt. Girls Elementary School. 326/GB. (Female) (P),30.780278983388047,72.29062279085966,Female,Punjab,0,3,0,1256
+199,199. Govt. Boys Primary School. 326/GB. (Male) (P),30.78037470350999,72.28906810215246,Male,Punjab,4,0,1588,0
+187,187. Govt. Model Primary School. 332/GB(Janubi Abadi) (Combined) (P),30.79057,72.3969,Combined,Punjab,1,1,510,383
+201,201. Govt. Boys High School 328/GB. (Combined) (P),30.7913,72.31761,Combined,Punjab,2,1,585,386
+185,185. Govt. Girls Elementary School. 332/GB(Shamali School) (Male) (P),30.79265,72.36713,Male,Punjab,3,0,1153,0
+186,186. Govt. Girls Elementary School. 332/GB(Shamali School) (Female) (P),30.79265,72.36716,Female,Punjab,0,2,0,915
+204,204. Govt. Boys Primary School PAF Colony (Combined)(P),30.79495,72.2309,Combined,Punjab,1,1,376,337
+181,181. Govt. Boys High School. 333/GB. (Combined) (P),30.79562,72.39083,Combined,Punjab,1,1,413,380
+190,190. Govt. Boys Elementary School.No.2. 327/GB. (Combined) (P),30.798120407351504,72.25817121237469,Combined,Punjab,2,2,669,565
+191,191. Govt. Boys Elementary School. No-1. 327/GB. (Male) (P),30.798126016969302,72.2581380833758,Male,Punjab,4,0,1582,0
+192,192. Govt. Boys Elementary School. No-1. 327/GB. (Female) (P),30.798126016969302,72.2581680833758,Female,Punjab,0,4,0,1439
+193,193. Govt. Boys Primary School-II 327/GB. (Combined) (P),30.798161557135614,72.25115779284882,Combined,Punjab,2,2,756,624
+182,182. Govt. Girls High School. 333/GB. (Male) (P),30.7993,72.39034,Male,Punjab,3,0,1208,0
+183,183. Govt. Girls High School. 333/GB. (Female) (P),30.7993,72.39037,Female,Punjab,0,3,0,989
+194,194. Govt. Girls High School. 327/GB. (Male) (P),30.80027,72.25645,Male,Punjab,2,0,878,0
+195,195. Govt. Girls High School. 327/GB. (Female) (P),30.80027,72.25648,Female,Punjab,0,2,0,775
+202,202. Govt. Girls Elementary School 328/GB (Combined) (P),30.80252,72.29795,Combined,Punjab,2,1,532,427
+184,184. Govt. Boys Primary School. 332/GB.(Shamali Abadi) (Combined) (P),30.80347558340972,72.36842516951329,Combined,Punjab,1,1,511,461
+203,203. Girls Elementary School. 329/GB. (Combined) (P),30.80358339822019,72.31941911608273,Combined,Punjab,2,1,724,536
+180,180. Govt. Girls Elementary School. 334/GB. (Female) (P),30.811584617182447,72.41240255345792,Female,Punjab,0,3,0,1061
+179,179. Govt. Boys Primary School. 334/GB. (Male) (P),30.81175289842932,72.41404902564862,Male,Punjab,4,0,1306,0
+196,196. Govt. Girls Elementary School. 312/GB. (Combined) (P),30.81795,72.2718,Combined,Punjab,2,1,583,516
+197,197. Govt. Boys Primary School. 312/GB. (Combined) (P),30.81795,72.27183,Combined,Punjab,1,1,430,365
+150,150. Govt. Boys Primary School. 309/GB. (Combined) (P),30.822850907100616,72.35815114470398,Combined,Punjab,2,1,582,479
+151,151. Govt. Girls Elementary School. 309/GB.(Combined) (P),30.82309090859761,72.36203257504428,Combined,Punjab,1,1,532,370
+189,189. Govt. Girls Elementary School. 308/GB.(Female) (P),30.823743355788956,72.38645400780634,Female,Punjab,0,3,0,962
+188,188. Govt. Girls Elementary School. 308/GB.(Male) (P),30.823743355788956,72.3864840078063,Male,Punjab,3,0,1162,0
+157,157. Govt. Boys Primary School. 311/GB.(Combined) (P),30.825261662221664,72.30902656503501,Combined,Punjab,2,1,612,503
+158,158. Govt. Boys Primary School. 311/GB.(Combined) (P),30.825261662221664,72.309056565035,Combined,Punjab,1,1,436,352
+198,198. Govt. Boys High School. 313/GB. (Combined) (P),30.8334286623928,72.27849682363878,Combined,Punjab,2,2,798,685
+156,156. Govt. Model Primary School. 310/GB.(Combined) (P),30.836392760082575,72.34757295886978,Combined,Punjab,2,1,624,500
+152,152. Govt. Girls Elementary School. 317/GB.(Combined) (P),30.852676378930475,72.36363515325787,Combined,Punjab,1,1,492,420
+153,153. Govt. Girls Elementary School. 317/GB.(Combined) (P),30.852676378930475,72.3636651532579,Combined,Punjab,1,1,424,297
+145,145. Govt. Girls Elementary School. 314/GB. (Combined) (P),30.853953624232986,72.30274197017958,Combined,Punjab,1,1,477,407
+146,146. Govt. Girls Elementary School. 314/GB. (Combined) (P),30.853953624232986,72.3027719701796,Combined,Punjab,1,1,504,425
+160,160. Govt. Girls Higher Secondary School.316/GB.(Female) (P),30.856605907728245,72.34399433932738,Female,Punjab,0,3,0,1071
+159,159. Govt. Boys Primary School-  316/GB (Male) (P),30.858148833269198,72.34282112671524,Male,Punjab,4,0,1230,0
+147,147. Govt. Model Primary School. 315/GB. (Combined) (P),30.860568721010925,72.31878391676523,Combined,Punjab,2,2,828,668
+154,154. Govt. Model Primary School. 344/GB.(Female) (P),30.86573294099882,72.37300455086071,Female,Punjab,0,2,0,698
+155,155. Govt. Model Primary School. 344/GB.(Male) (P),30.86573294099882,72.3730345508607,Male,Punjab,3,0,1050,0
+148,148. Govt. Girls Elementry School. 409/JB.(Combined) (P),30.86654040443027,72.27528723953611,Combined,Punjab,1,1,340,247
+149,149. Govt. Girls Elementry School. 409/JB.(Combined) (P),30.86654040443027,72.2753172395361,Combined,Punjab,2,2,598,549
+165,165. Govt. Model Elementary School. 410/JB..(Combined) (P),30.867577659155316,72.24978268905296,Combined,Punjab,2,2,787,678
+166,166. Rural Health Centre. 411/JB. (Combined) (T),30.867926545465288,72.24369780557682,Combined,Punjab,1,1,391,268
+143,143. Govt. Girls Elementry School. 306/GB.(Combined) (P),30.86845,72.32958,Combined,Punjab,1,1,392,306
+144,144. Govt. Girls Elementry School. 306/GB.(Combined) (P),30.86845,72.32961,Combined,Punjab,2,1,646,483
+164,164. Govt. Boys High School. 408/JB..(Combined) (P),30.876130579603945,72.28686748443629,Combined,Punjab,1,1,540,353
+162,162. Govt. Girls High School. 408/JB..(Male) (P),30.881420582601386,72.29026895720598,Male,Punjab,3,0,1006,0
+163,163. Govt.Girls High School. 408/JB..(Female) (P),30.881420582601386,72.290298957206,Female,Punjab,0,2,0,857
+140,140. Govt. Girls High School. 304/GB. (P)rimary Portion) (Male) (P),30.886173628261172,72.36090381531166,Male,Punjab,4,0,1362,0
+141,141. Govt. Girls High School. No.1 Chak No.304/GB. (Elementary Portion) (Female) (P),30.886173628261172,72.3609338153117,Female,Punjab,0,3,0,1085
+136,136. Govt. Model Primary School. 345/GB.(Male) (P),30.88737,72.35432,Male,Punjab,3,0,1024,0
+137,137. Govt. Model Primary School. 345/GB.(Female) (P),30.88737,72.35435,Female,Punjab,0,2,0,766
+161,161. Govt. Model Primary School. 407/JB.(Combined) (P),30.887661993099947,72.26363242238422,Combined,Punjab,2,2,812,666
+130,130. Govt. Girls Primary School. 301/GB. Nai Abadi (Combined) (P),30.89506,72.3329,Combined,Punjab,2,1,583,370
+142,142. Govt. Girls Elementary School. 305/GB.(Combined) (P),30.897497670611976,72.33718125776227,Combined,Punjab,2,2,802,708
+170,170. Govt. Girls Elementary School. 405/JB.(Combined)(P),30.909706454961274,72.32302736855564,Combined,Punjab,2,1,621,500
+138,138. Govt. Girls Primary School. 303/GB.(Combined) (P),30.915167237166195,72.36121228363906,Combined,Punjab,2,1,607,415
+139,139. Govt. Girls Primary School. 303/GB.(Combined) (P),30.915167237166195,72.3612422836391,Combined,Punjab,1,1,502,347
+125,125. Govt. Girls Elementary School. 298/GB.(Combined)(P),30.91619,72.42622,Combined,Punjab,2,1,631,429
+168,168. Govt. Boys Primary School. 403/JB.(Male)(P),30.916778377587523,72.32115001708421,Male,Punjab,4,0,1249,0
+169,169. Govt. Girls Elementary School. 403/JB.(Female)(P),30.917915865290386,72.32656000269745,Female,Punjab,0,3,0,1084
+134,134. Govt. Girls High School. 302/GB.(Combined) (P),30.91894,72.41587,Combined,Punjab,2,2,718,529
+135,135. Govt. Girls High School. 302/GB.(Combined) (P),30.91894,72.4159,Combined,Punjab,2,2,804,662
+122,122. Govt. Boys Primary School. 297/GB.(Combined)(P),30.92488,72.45206,Combined,Punjab,2,2,711,567
+123,123. Govt. Girls Elementary School. 297/GB.(Combined)(P),30.92538,72.45113,Combined,Punjab,2,2,864,623
+131,131. Govt. Girls High School. 301/GB.(Combined) (P),30.92989,72.40424,Combined,Punjab,2,2,846,699
+120,120. Govt.Boys Elementary School. 296/GB.(Male)(P),30.9358,72.46297,Male,Punjab,4,0,1467,0
+121,121. Govt. Girls High School. 296/GB.(Female)(P),30.93671,72.46356,Female,Punjab,0,3,0,1154
+126,126. Govt. Boys Elementary School. 299/GB.(Combined)(P),30.9441,72.43647,Combined,Punjab,2,2,769,639
+127,127. Govt. Boys Elementary School. 299/GB.(Combined)(P),30.94411,72.43647,Combined,Punjab,1,1,354,319
+128,128. Govt. Girls Community Model Primary School. 299/GB. (Combined) (P),30.94464,72.43616,Combined,Punjab,1,1,324,242
+129,129. Govt. Girls Community Model Primary School. 299/GB. (Combined) (P),30.94464,72.43619,Combined,Punjab,2,1,633,316
+167,167. Govt. Boys Primary School. 402/JB..(Combined)(P),30.945207988488907,72.35686583465746,Combined,Punjab,2,2,850,716
+60,60. Govt.Model Primary School. GaziAbad. (Male) (P),30.95703,72.49183,Male,Punjab,3,0,997,0
+61,61. OFFICE OF DEPUTY. DIRECTOR- LIVESTOCK GHAZIA ABAD TOBA TEK SINGH (FEMALE) (P),30.95722,72.49139,Female,Punjab,0,2,0,825
+173,173. Govt.ModelGirls Primary School. 401/JB.Daban-Wala.(Combined)(P),30.95732947320568,72.34222300451286,Combined,Punjab,1,1,416,400
+65,65. Govt. Model Primary School 329/JB.(Combined)(P),30.958913507705663,72.48592638964725,Combined,Punjab,2,2,583,476
+172,172. Govt. Model Primary School. 401/JB.(Combined)(P),30.960125087775612,72.3455210889179,Combined,Punjab,2,2,837,715
+53,53. Govt.Girls Elementary School. Zia Colony.331/JB. (Male)(P),30.96312,72.47015,Male,Punjab,4,0,1191,0
+54,54. Govt.Girls Elementary School. Zia Colony.331/JB.(Female)(P),30.96312,72.47018,Female,Punjab,0,3,0,932
+124,124. Govt. Boys Primary School. 298/GB.(Combined) (P),30.96343,72.43465,Combined,Punjab,2,2,872,704
+24,24. Govt.Girls High Jafferia School. (Front Portion) (Male) (P),30.964583667067476,72.48354163085052,Male,Punjab,3,0,1199,0
+25,25. Govt.Girls High Jafferia School. (Back Portion) (Female) (P),30.964583667067476,72.4835716308505,Female,Punjab,0,3,0,1056
+51,51. Govt.Model Primary School. 331/JB.(Combined)(P),30.96524,72.44693,Combined,Punjab,2,1,508,420
+52,52. Govt.Model Primary School. 331/JB.(Combined)(P),30.96524,72.44696,Combined,Punjab,2,2,817,737
+23,23. Govt. Boys Elementary School. Housing Colony No.1.(Female) (P),30.96591203629318,72.48106128945643,Female,Punjab,0,3,0,1175
+42,42. Office of the Assistant Director Food- Toba Tek Singh (Male) (T),30.96659,72.47674,Male,Punjab,4,0,1336,0
+43,43. Office of the Assistant Director Food- Toba Tek Singh (Male) (T),30.96659,72.47677,Male,Punjab,3,0,1013,0
+171,171. Govt. Model Primary School. 400/JB.(Combined)(P),30.96662730177233,72.361059927023,Combined,Punjab,1,1,488,385
+22,22. E.A.D.A. Office Near Railway Station(Male) (T),30.9669725179884,72.48021378647339,Male,Punjab,3,0,1268,0
+32,32. Govt.Latif High School- Toba tek Singh.(Combined) (P),30.967082701496736,72.47245390800508,Combined,Punjab,2,1,491,366
+33,33. Govt.Latif High School- Toba tek Singh.(Male) (P),30.967082701496736,72.4724839080051,Male,Punjab,2,0,883,0
+34,34. Govt.Latif High School- Toba tek Singh. (Female) (P),30.967082701496736,72.4725139080051,Female,Punjab,0,2,0,725
+37,37. Govt. Primary School Awami Basti-II (Female) (P),30.96722,72.47361,Female,Punjab,0,2,0,915
+175,175. Govt. Girls Elementary School. 393/JB.(Combined)(P),30.967655060400503,72.41298061789759,Combined,Punjab,2,2,730,671
+19,19. Govt Model P/S faiz colony (Male),30.96799346748568,72.48767672364849,Male,Punjab,3,0,1041,0
+20,20. Govt;Model P/S faiz colony (Female) (P),30.96799346748568,72.4877067236485,Female,Punjab,0,2,0,932
+21,21. Govt;Model P/S faiz colony (Female) (P),30.96799346748568,72.4877367236485,Female,Punjab,0,2,0,850
+18,18. Govt. Model P/S Faiz Colony (Male) (P),30.96799346748568,72.4877667236485,Male,Punjab,2,0,945,0
+35,35. Govt.Boys Primary School. No.4.Awami Basti.(Male) (P),30.968359889005892,72.47312381005541,Male,Punjab,3,0,1059,0
+36,36. Govt.Boys Primary School. No.4. Awami Basti. (Combined) (P),30.968359889005892,72.4731538100554,Combined,Punjab,2,2,834,703
+1,1. Govt.Girls Elementary School. Bakhashi Park. (Male) (P),30.96894829990979,72.46953814036429,Male,Punjab,4,0,1286,0
+26,26. Govt.Boys Elementry School. (Iqra)Bakhshi Park Gao Shallah Road.(Male) (P),30.96954679012841,72.46908740102612,Male,Punjab,4,0,1813,0
+27,27. Govt. Elementry School Bakhshi Park Gao Shallah Road. (Female) (P),30.96954679012841,72.4691174010261,Female,Punjab,0,4,0,1558
+44,44. Govt.Jadeed Girls Primary School No.2 Changer Mohallah-Toba Tek Singh.(Female) (P),30.970337734262813,72.47779632700784,Female,Punjab,0,3,0,998
+45,45. Govt.Jadeed Girls Primary School No.2 Changer Mohallah-Toba Tek Singh.(Female) (P),30.970337734262813,72.4778263270078,Female,Punjab,0,3,0,1176
+174,174. Govt. Boys Primary School. 393/JB.(Combined)(P),30.97055432186981,72.41248713379578,Combined,Punjab,2,2,686,584
+2,2. Destakari School Gaoshallah. (Female) (P),30.970733906129773,72.46850063361886,Female,Punjab,0,3,0,1096
+14,14. Govt. Boys Primary School No-3 Gobind Pura (Male) (P),30.971164763966875,72.48834503337515,Male,Punjab,3,0,1383,0
+62,62. Govt. Boys Primary School. 328/JB. (Male)(P),30.971426281678216,72.50205487708064,Male,Punjab,4,0,1726,0
+63,63. Govt. Boys Primary School. 328/JB. (Female)(P),30.971426281678216,72.5020848770806,Female,Punjab,0,4,0,1587
+15,15. X-E.N. High way Office T.T.Singh (Female) (T),30.97239286246703,72.48605733699733,Female,Punjab,0,3,0,1196
+17,17. X-E.N. High way Office T.T.Singh (Female) (T),30.97239286246703,72.4860873369973,Female,Punjab,0,4,0,1556
+40,40. Town Hall Buildia .Toba Tek Singh. (Male) (T),30.972413116882162,72.48131260152573,Male,Punjab,4,0,1439,0
+16,16. Govt. Girls High School Gobind Pura (Male) (P),30.97245,72.48763,Male,Punjab,4,0,1774,0
+30,30. Govt.Girls High School No.1. Eid Gah Road Toba Tek Singh (Female) (P),30.972829698845388,72.47736712781814,Female,Punjab,0,2,0,949
+31,31. Govt.Girls High School No.1. Eid Gah Road Toba Tek Singh (Female) (P),30.972829698845388,72.4773971278181,Female,Punjab,0,4,0,1473
+28,28. Govt.Boys Islaima Secondry School Toba Tek Singh. (Male) (P),30.9730940426076,72.47629427575308,Male,Punjab,4,0,1559,0
+29,29. Govt.Boys Islaima Secondry School Toba Tek Singh. (Male) (P),30.9730940426076,72.4763242757531,Male,Punjab,3,0,1055,0
+41,41. Govt.Girls Primary School No.1 Near G.P.O .Toba Tek Singh.(Female) (P),30.97312730356991,72.47899698385815,Female,Punjab,0,4,0,1316
+176,176. Govt. Girls High School.  NO-1. 394/JB. (Male)(P),30.9733415779855,72.39281361894685,Male,Punjab,4,0,1284,0
+177,177. Govt. Girls High School. NO-1. 394/JB. (Female)(P),30.9733415779855,72.3928436189468,Female,Punjab,0,3,0,1058
+12,12. Govt.Girls High School. No.2.Near Water Works No.1(Male) (P),30.97422008893035,72.48364511716302,Male,Punjab,3,0,1147,0
+13,13. Govt.Girls High School. No.2.Near Water Works No.1(Female) (P),30.97422008893035,72.483675117163,Female,Punjab,0,3,0,1093
+7,7. Govt. Girls Primary School. No.6 Raja Park. (Combined) (P),30.97440401738603,72.48710558410649,Combined,Punjab,2,2,721,639
+8,8. Govt. Girls Primary School. No.6.Raja Park.(Male) (P),30.97440401738603,72.4871355841065,Male,Punjab,2,0,947,0
+9,9. Govt. Girls Primary School. No.6 Raja Park.(Female) (P),30.97440401738603,72.4871655841065,Female,Punjab,0,2,0,868
+132,132. Govt. Boys High School. 301/GB.(Male) (P),30.97451,72.4341,Male,Punjab,3,0,991,0
+133,133. Govt. Boys High School. 301/GB.(Female) (P),30.97451,72.43413,Female,Punjab,0,2,0,811
+38,38. Vocational Training Institute(For Women) Toba Tek Singh.(Male) (P),30.975350573690903,72.47686854747079,Male,Punjab,3,0,1139,0
+39,39. Govt. Degree College for Women Jhang Road- Toba Tek Singh. (AYESHA BLOCK) (Female) (P),30.97611,72.47861,Female,Punjab,0,3,0,1127
+206,206. Govt. Model High School. (High Portion). (Female) (P),30.9761712930842,72.47990438200647,Female,Punjab,0,3,0,948
+11,11. Govt.Model High School Jhang Road (Ele. Portion)(Female) (P),30.9761712930842,72.4799343820065,Female,Punjab,0,4,0,1282
+6,6. Govt. Model High School. (High Portion). (Female) (P),30.9761712930842,72.4799643820065,Female,Punjab,0,4,0,1243
+10,10. Govt. Model High School Jhang Road (Ele. Portion).(Male) (P),30.9761712930842,72.4799943820065,Male,Punjab,4,0,1421,0
+205,205. Govt. Degree College for Women Jhang Road- T.T.Singh (OLD BLOCK) (MALE) (P),30.97639,72.47916,Male,Punjab,3,0,962,0
+5,5. Govt. Degree College for Women Jhang Road- T.T.Singh (OLD BLOCK) (MALE) (P),30.97639,72.47919,Male,Punjab,4,0,1437,0
+64,64. Govt.Boys Primary School. Siddique Park. (Combined),30.97854119925496,72.49490543902286,Combined,Punjab,2,2,543,456
+46,46. Govt.Boys Primary School. 330/JB.(Combined),30.978682103992263,72.46782820882257,Combined,Punjab,2,1,478,425
+49,49. Govt.Girls Elementary School. 330/JB.(P)ortion-2)(Female)(P),30.980510753118523,72.46804294362865,Female,Punjab,0,2,0,822
+50,50. Govt.Girls Elementary School. 330/JB.(Portion-2)(Male)(P),30.980510753118523,72.4680729436286,Male,Punjab,3,0,1156,0
+47,47. Govt.Girls Elementary School. 330/JB. (P)ortion-1)(Male)(P),30.98054279434708,72.46800533751455,Male,Punjab,3,0,1217,0
+48,48. Govt.Girls Elementary School. 330/JB. (P)ortion-1)(Female)(P),30.98054279434708,72.4680353375146,Female,Punjab,0,2,0,923
+59,59. Govt.Girls Primary School (2ndPortion)327/JB(Combined) (P),30.981077141780016,72.48354165077953,Combined,Punjab,1,1,386,295
+58,58. Govt.Girls Primary School (Ist Portion)327/JB(Combined) (P),30.981078599894882,72.48352834408601,Combined,Punjab,1,1,293,254
+3,3. Govt.Boys Degree College- T.T.Singh.(Male) (P),30.984490221105172,72.47494166932607,Male,Punjab,4,0,1636,0
+4,4. Govt.Boys Degree College- T.T.Singh.(Female) (P),30.984490221105172,72.4749716693261,Female,Punjab,0,4,0,1395
+55,55. Govt.Boys Elementary School.No.1.322/JB. (Combined) (P),30.98530016113136,72.51900786788764,Combined,Punjab,2,2,751,596
+56,56. Govt.Boys Elementary School.No.1.322/JB. (Male)(P),30.98530016113136,72.5190378678876,Male,Punjab,3,0,1205,0
+118,118. Govt. Boys Elementary School. 395/JB.(Combined) (P),30.98658,72.4099,Combined,Punjab,2,2,699,620
+117,117. Govt. Model Primary School. 392/JB.(Chattala)(Combined)(P),30.98698,72.43377,Combined,Punjab,1,1,369,339
+73,73. Govt. Girls High School . 323/JB Trandi (Combined)(P),30.98723,72.5049,Combined,Punjab,2,1,693,576
+119,119. Govt.Girls Elementry School 395/JB.(Combined) (P),30.98736,72.40924,Combined,Punjab,1,1,352,307
+116,116. Govt. Model Primary School. 392/JB.(Chattala)(Combined)(P),30.98744,72.4346,Combined,Punjab,2,1,596,603
+57,57. Govt. Girls Elementary School. 322/JB (Female)(P),30.9874736543679,72.51612061741312,Female,Punjab,0,2,0,905
+178,178. Govt. Govt.Girls Elementary School. 399/JB.(Combined)(P),30.990768515289005,72.39108164680185,Combined,Punjab,2,2,689,546
+71,71. Govt.Boys Elementary School 323/JB Trandi. (Primary Portion) (Male)(P),30.991631831104037,72.50720652295323,Male,Punjab,4,0,1236,0
+72,72. Govt.Boys Elementary School 323/JB Trandi. (Primary Portion). (Female)(P),30.991631831104037,72.5072365229532,Female,Punjab,0,3,0,1016
+115,115. Govt.Boys Elementry School. 392/JB.(Combined)(P),30.99396,72.44212,Combined,Punjab,2,1,668,566
+112,112. Govt. Model Primary School. 398/JB.(Combined)(P),30.99887803123781,72.36167489013492,Combined,Punjab,1,1,430,357
+109,109. Govt.Girls Elementry School. 396/JB.(Combined)(P),31.005446510874194,72.39030315874575,Combined,Punjab,1,1,434,316
+103,103. Govt.Boys Primary School. 325/JB. (Combined)(P),31.008949936748483,72.46476634354525,Combined,Punjab,2,2,980,684
+104,104. Govt.Girls Elementary School. 325/JB.(Combined)(P),31.010587518264586,72.46474401674553,Combined,Punjab,2,1,485,380
+108,108. Govt. Girls Elementary School. 391/JB. (Female)(P),31.011109869881487,72.43539656878735,Female,Punjab,0,3,0,981
+74,74.Govt.Girls Primary School 323/JB.Qayam Pur. (Combined)(P),31.011945070681357,72.52447456945153,Combined,Punjab,1,1,403,257
+107,107. Govt.Boys High School. 391/JB.(Male)(P),31.01220882390836,72.44060665446908,Male,Punjab,3,0,1203,0
+79,79. Govt. Girls High School. (South) 324/JB (Female) (P),31.01431305925635,72.50353854821181,Female,Punjab,0,1,0,550
+76,76. Govt. Girls High School 324/JB (Female)(P),31.014352308884728,72.50348305516033,Female,Punjab,0,2,0,879
+77,77. Govt.Girls High School. (North)324/JB.(Male)(P),31.014352308884728,72.5035130551603,Male,Punjab,2,0,656,0
+78,78. Govt.Girls High School. (North)324/JB.(P) (Combined),31.014352308884728,72.5035430551603,Combined,Punjab,2,2,1054,826
+75,75. Govt.Boys Primary School. 324/JB. (Male)(P),31.01440712155188,72.50361968080463,Male,Punjab,3,0,1020,0
+68,68. Govt. Primary School. 321/JB.(Male)(P),31.014948188985414,72.54013668766608,Male,Punjab,2,0,928,0
+69,69. Govt. Primary School. 321/JB.(Female)(P),31.014948188985414,72.5401666876661,Female,Punjab,0,2,0,698
+70,70. Govt. Primary School. 321/JB. (Combined) (P),31.014948188985414,72.5401966876661,Combined,Punjab,2,2,806,688
+85,85. Govt.Girls Elementary School.320/JB.(Male)(P),31.025201627023446,72.52391991736643,Male,Punjab,3,0,949,0
+86,86. Govt.Girls Elementary School.320/JB.(Female)(P),31.025201627023446,72.5239499173664,Female,Punjab,0,2,0,733
+110,110. Govt.Girls Elementry School. 397/JB.(Combined) (P),31.026410890021484,72.38034136718959,Combined,Punjab,2,1,707,569
+111,111. Govt.Girls Elementry School. 397/JB.(Combined) (P),31.026410890021484,72.3803713671896,Combined,Punjab,1,1,474,382
+67,67. Govt.Girls High School. 318/JB.(Combined)(P),31.029952884258275,72.55987056615449,Combined,Punjab,2,2,767,668
+114,114. Govt. Model Primary School. 390/JB.(Combined)(P),31.03003,72.43081,Combined,Punjab,1,1,441,332
+66,66. Govt.Boys Elementary School 318/JB.(Combined)(P),31.03175736019721,72.56161543131734,Combined,Punjab,1,1,520,380
+84,84. Rural Health Centre 319/JB.(Female) (P),31.034823704112515,72.54804128017071,Female,Punjab,0,3,0,988
+82,82. Govt.Boys Elementary School.319/JB.(Male) (P),31.035558187542772,72.54907695634203,Male,Punjab,3,0,1191,0
+83,83. Govt.Boys Elementary School.319/JB. (Combined) (P),31.035558187542772,72.549106956342,Combined,Punjab,1,1,499,371
+94,94. Govt. Model Primary School. 382/JB.(Feroz)(Combined)(P),31.035579289569323,72.4645041383995,Combined,Punjab,2,1,586,545
+95,95. Govt. Model Primary School. 382/JB.(Feroz)(Combined)(P),31.035579289569323,72.4645341383995,Combined,Punjab,1,1,357,307
+105,105. Govt.Boys Elementary School. 381/JB (Male)(P),31.03698145722269,72.48638348123667,Male,Punjab,3,0,992,0
+106,106. Govt.Girls Elementary School. 381/JB (Female)(P),31.03738625881069,72.48571550986725,Female,Punjab,0,2,0,858
+113,113. Govt.Boys Primary School. 469/JB.(Combined)(P),31.037533953217164,72.40624479776515,Combined,Punjab,2,1,600,401
+81,81. Govt.Girls High School . 380/JB.(Female) (P),31.038853401295388,72.50877637880212,Female,Punjab,0,3,0,1041
+97,97. Govt.Girls Elementry School 383/JB.(Combined)(P),31.038869296815133,72.4519251890361,Combined,Punjab,2,2,727,580
+80,80. Govt.Boys Elementary School . 380/JB.(Male) (P),31.039498973323862,72.50968816116949,Male,Punjab,4,0,1261,0
+96,96. Govt.Boy Elementry School. 383/JB.(Combined)(P),31.041160656052835,72.44669340178967,Combined,Punjab,2,1,627,508
+93,93. Govt.Girls Elementary School 382/JB.(Jalalpur)(Combined)(P),31.051470252822025,72.46963497412239,Combined,Punjab,1,1,412,336
+87,87. Govt.Boys Primary School. 376/JB.(Combined)(P),31.05702580812984,72.51725593964764,Combined,Punjab,1,1,437,396
+88,88. Govt.Girls Elementary School 376/JB(Combined)(P),31.05815615878117,72.51601419923725,Combined,Punjab,2,2,764,634
+91,91. Govt. Model Primary School .477/JB.(Male)(P),31.06038353925855,72.41101600485257,Male,Punjab,3,0,1102,0
+92,92. Govt. Model Primary School .477/JB.(Female)(P),31.06038353925855,72.4110460048526,Female,Punjab,0,2,0,933
+90,90. Govt.Girls High School 379/JB.(Combined)(P),31.063320016413506,72.49532144047797,Combined,Punjab,2,2,771,685
+99,99. Govt.Boy Primary School. 388/JB.(Male) (P),31.063343530107428,72.43238623311842,Male,Punjab,2,0,793,0
+100,100. Govt.Boy Primary School. 388/JB.(Male) (P),31.063343530107428,72.4324162331184,Male,Punjab,3,0,1239,0
+101,101. Govt.Girls High School 388/JB.(Female) (P),31.063585403913567,72.42788896470189,Female,Punjab,0,3,0,1150
+102,102. Govt.Girls High School 388/JB.(Female) (P),31.063585403913567,72.4279189647019,Female,Punjab,0,2,0,692
+89,89. Govt.Boys High School 379/JB.(Combined)(P),31.064407166884127,72.49153571778048,Combined,Punjab,2,1,477,465
+98,98. Govt.Model Primary School. 384/JB.(Combined) (P),31.06912,72.46038,Combined,Punjab,2,2,918,790

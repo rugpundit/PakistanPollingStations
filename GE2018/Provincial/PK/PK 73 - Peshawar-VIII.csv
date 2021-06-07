@@ -1,0 +1,52 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+35,GDC Phase-6. Hayat Abad               Male  PS-1P*,33.95544,71.44296,Male,KPK,4,0,1915,0
+36,GDC- Phase-6- Hayat Abad (Female) PS-2P*,33.95544,71.44299,Female,KPK,0,4,0,1711
+37,GDC- Phase-6- Hayat Abad (Male) PS-3,33.95544,71.44302,Male,KPK,4,0,1775,0
+38,GDC Phase-6- Hayat Abad (Female) PS-4,33.95544,71.44305,Female,KPK,0,4,0,1486
+30,GMS/GPS No.2- E-3- Hayat Abad (Female)P*,33.9689,71.42979,Female,KPK,0,4,0,1621
+39,Government DC for Women Phase-7- Hayat Abad (Combined),33.97052,71.42217,Combined,KPK,2,1,563,458
+29,GHS Hayatabad (Male) P* E-2 near Lalazar Market,33.97081,71.43224,Male,KPK,4,0,1773,0
+28,GPS No.4 J-5 Behari Colony Hayatabad (Male),33.97142,71.45039,Male,KPK,4,0,1599,0
+26,GGPS No.3 J-4  Hayatabad (Female)P* PS-1,33.97498,71.44954,Female,KPK,0,4,0,1908
+27,GGPS No.3 J-4  Hayatabad (Female)P* PS-2,33.97498,71.44957,Female,KPK,0,4,0,1585
+33,GGHSS Sector D-1- Hayatabad (Male) P*,33.97799,71.43821,Male,KPK,4,0,1390,0
+31,GGPS Sector D/4 near Super Market Hayatabad (Female)P* PS-1,33.97825,71.43468,Female,KPK,0,3,0,1080
+32,GGPS Sector D/4 near Super Market Hayatabad (Female)P* PS-2,33.97825,71.43471,Female,KPK,0,3,0,953
+34,GPS No.1- Sector D-3- Street No.15 (Male) P,33.97825,71.43474,Male,KPK,4,0,1229,0
+23,GGPS No.6 K-2 Phase-III Street 4 (Male)P* PS-1,33.97924,71.45331,Male,KPK,4,0,1658,0
+24,GGPS No.6 K-2 Phase-III Street 4 (Male)P* PS-2,33.97924,71.45334,Male,KPK,4,0,2036,0
+40,PDA Officers Club- Phase-V (Male),33.98383,71.43758,Male,KPK,4,0,1899,0
+25,JICA Model School Japan K-6- Phase-III near Basharat Market (Female) P*,33.98461,71.45671,Female,KPK,0,4,0,1539
+20,GPS No.5 L-3 (3 Marlas Scheme) (Male) P* PS-1,33.98778,71.45914,Male,KPK,3,0,1162,0
+21,GPS No.5 L-3 (3 Marlas Scheme) (Male) P* PS-2,33.98778,71.45917,Male,KPK,3,0,1081,0
+42,KMU Phase-V- Hayatabad (Male) Ps-1,33.98899,71.44227,Male,KPK,3,0,1039,0
+43,KMU Phase-V- Hayatabad (Male) Ps-2,33.98899,71.4423,Male,KPK,3,0,939,0
+41,FEF DC Phase-V- Near ICMS Hayatabad (Female) PS-1,33.98988,71.43764,Female,KPK,0,4,0,1507
+44,FEF DC- Phase-V- near ICMS Hayatabad (Female) PS-2,33.98988,71.43767,Female,KPK,0,4,0,1656
+22,GHS/GPS No. 6 L-3 (3 Marla Scheme) (Female),33.99048,71.45919,Female,KPK,0,4,0,1917
+4,UPS-  Jamrud road- Peshawr  (Male),33.99794,71.4749,Male,KPK,4,0,1868,0
+3,T  &  T  office- Jamrud road- Peshawr (Female),33.99797,71.46926,Female,KPK,0,4,0,1687
+5,UPS- Hostle Jamrud road- Peshawr  (Female),33.99799,71.47936,Female,KPK,0,3,0,1458
+1,Secondary Board Office- Jamrud road- Peshawar  (Male) P* PS-1,33.99827,71.47237,Male,KPK,3,0,1109,0
+2,Secondary Board Office- Jamrud road- Peshawar  (Male) P* PS-2,33.99827,71.4724,Male,KPK,3,0,989,0
+6,Islamia Collagate School Peshawar (Male)P* PS-1,34.00037,71.48196,Male,KPK,4,0,1385,0
+7,Islamia Collagate School Peshawar (Male)P* PS-2,34.00037,71.48199,Male,KPK,3,0,1199,0
+8,GGHS near Cofee Shop University Campus (Female)P* PS-1,34.00145,71.4818,Female,KPK,0,3,0,1163
+9,GGHS near Cofee Shop University Campus (Female)P* PS-2,34.00145,71.48183,Female,KPK,0,3,0,1031
+12,GGPS 2-3 Fazlay Kalay Ragi Lalma (Female),34.0096,71.43233,Female,KPK,0,4,0,1990
+10,GMS Fazlay Kalay Ragi Lalma (Male) P* PS-1,34.00968,71.43234,Male,KPK,4,0,1509,0
+11,GMS Fazlay Kalay Ragi Lalma (Male) P* PS-2,34.00968,71.43237,Male,KPK,4,0,1661,0
+15,GGPS Police Colony- Peshawar (Female),34.01366,71.45827,Female,KPK,0,4,0,1776
+13,GHS Police Colony- Peshawar (Male)  PS-1,34.01647,71.45792,Male,KPK,4,0,1338,0
+14,GHS Police Colony- Peshawar (Male)  PS-2,34.01647,71.45795,Male,KPK,3,0,1098,0
+17,GGPS Aggricultrual University (Female) P*,34.01951,71.47843,Female,KPK,0,4,0,1618
+16,GPS for Boys Agricultrual University (Male) P*,34.01986,71.47834,Male,KPK,4,0,2178,0
+49,GPS Regi Badizai (Female),34.03431,71.44779,Female,KPK,0,3,0,1214
+48,GHS Regi Badezai (Male),34.03738,71.44216,Male,KPK,4,0,1791,0
+18,GHS Lakarai (Male)P*,34.04647,71.48299,Male,KPK,4,0,1627,0
+19,GGPS Lakarai (Female) P*,34.0499,71.48235,Female,KPK,0,3,0,1248
+45,GHS Regi (Male) PS-1,34.05148,71.46098,Male,KPK,4,0,1453,0
+46,GHS Regi (Male) PS-2,34.05148,71.46101,Male,KPK,4,0,1756,0
+47,GHS Regi (Male) PS-3,34.05148,71.46104,Male,KPK,4,0,1557,0
+50,GGPS Regi Rukizai (Female),34.05205,71.45776,Female,KPK,0,4,0,1727
+51,GPS Garhi Bacha Gul (Female),34.06594,71.46161,Female,KPK,0,4,0,1653

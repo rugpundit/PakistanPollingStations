@@ -1,0 +1,75 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+11,Govt. Girls Primary School- Basti Khan Muhammad Jogiyani,29.65908,69.29623,Combined,Balochistan,1,1,536,417
+10,Govt. Boys High School Vatakari,29.69255,69.37506,Combined,Balochistan,1,1,542,335
+9,Govt. Boys Primary School- Boorhi Eshani (Basti Alam Khan),29.69792,69.29799,Combined,Balochistan,1,1,453,341
+12,Govt. Boys Primary School- Basti Haji Ibrahim Marri,29.70428,69.26215,Combined,Balochistan,1,1,215,120
+18,Govt. Boys Primary School- Gambrag,29.71757,69.47249,Combined,Balochistan,1,1,419,291
+61,Govt. Boys Primary School- Matt,29.73565,69.62309,Combined,Balochistan,1,1,151,98
+7,Govt. Boys Primary School- Lootnian,29.7557,69.2561,Combined,Balochistan,1,1,284,257
+8,Govt. Boys Primary School- Bairbani,29.75705,69.33365,Combined,Balochistan,1,1,394,326
+16,Govt. Boys Primary School- Bhanda (Basti Ismail Shah S/o Dad Shah) Lakhi Bhar,29.76496,69.38628,Combined,Balochistan,1,1,448,356
+17,Govt. Boys High School- Nahar Kot,29.76758,69.46486,Combined,Balochistan,2,2,817,695
+15,Govt. Boys Primary School- Jhalli (Basti Wadera Lal Gul),29.77909,69.45643,Combined,Balochistan,1,1,464,406
+13,Govt. Boys Primary School- Khajoo,29.80744,69.42585,Combined,Balochistan,1,1,195,170
+14,Govt. Boys Primary School- Lunda,29.81113,69.44338,Combined,Balochistan,1,1,391,309
+19,Govt. Boys High School- Lohma Zareen Polling Station No. 1,29.81581,69.49754,Male,Balochistan,2,0,1113,0
+20,Govt. Boys High School- Lohma Zareen Polling Station No. 2,29.81581,69.49757,Female,Balochistan,0,2,0,850
+60,Govt. Boys Primary School- Chacha,29.81956,69.83296,Combined,Balochistan,1,1,308,255
+26,Govt. Boys Primary School- Nooran Sooman,29.83635,69.54884,Combined,Balochistan,1,1,524,355
+25,Govt. Boys Middle School- Shado Sooman,29.84352,69.53826,Combined,Balochistan,1,1,510,388
+22,Govt. Boys Middle School- Total Zakwani,29.84534,69.4771,Male,Balochistan,3,0,1368,0
+23,Govt. Girls Primary School Basti Nikri,29.85329,69.48785,Female,Balochistan,0,2,0,1081
+27,Govt. Boys Primary School- Kujja,29.88923,69.60948,Combined,Balochistan,1,1,610,447
+2,Govt. Boys Primary School- Sher Muhammad Shalmani- Barkhan,29.89617,69.52697,Male,Balochistan,4,0,1436,0
+21,Govt. Boys Degree College- Barkhan,29.89631,69.53961,Combined,Balochistan,1,1,642,422
+5,Govt. Girls Primary School- Madina Masjid Barkhan,29.89804,69.52144,Female,Balochistan,0,2,0,1088
+1,Govt. Boys Model High School Barkhan,29.89856,69.52533,Male,Balochistan,2,0,1170,0
+3,Govt. Girls Primary School- Muhallah Saddiqani Barkhan,29.89902,69.52947,Male,Balochistan,2,0,652,0
+4,Govt. Girls High School Barkhan,29.90007,69.5224,Female,Balochistan,0,2,0,1037
+6,Govt. Boys Model High School- Primary Section Barkhan,29.90135,69.52318,Female,Balochistan,0,2,0,539
+28,Govt. Boys Primary School-Chuhar Kot Sharqi,29.9087,69.59301,Combined,Balochistan,1,1,514,360
+29,Govt. Boys Primary School- Basti Shaikh Usman Kandhar,29.9271,69.5715,Combined,Balochistan,1,1,443,318
+24,Govt. Boys Primary School- Bibbar Tak,29.94707,69.45654,Combined,Balochistan,1,1,165,126
+30,Govt. Boys High School- Hakimani,29.94881,69.6162,Combined,Balochistan,1,1,517,425
+32,Govt. Boys Primary School- Allah Daad Behdiani,29.95155,69.64439,Combined,Balochistan,2,2,800,598
+33,Govt. Boys High School- Shado Khan Eshani,29.96273,69.68166,Combined,Balochistan,1,1,628,519
+59,Govt. Boys Primary School- Ochari,29.97435,69.80846,Combined,Balochistan,1,1,675,464
+34,Govt. Boys Middle School- Aalam Khan Eshani Polling Station No. 1,29.99621,69.69404,Combined,Balochistan,1,1,409,297
+35,Govt. Boys Middle School- Aalam Khan Eshani Polling Station No. 2,29.99621,69.69407,Combined,Balochistan,2,1,562,420
+31,Govt. Boys High School- Kurwa,29.99874,69.61603,Combined,Balochistan,1,1,395,364
+37,Govt. Boys Primary School- Malik Umar Khan Eshani,30.00338,69.7787,Combined,Balochistan,1,1,238,146
+36,Govt. Boys Primary School- Malik Darya Khan Zakriani,30.02966,69.75916,Combined,Balochistan,1,1,464,378
+38,Govt. Boys Middle School- Kodi Zakriani,30.03079,69.77861,Combined,Balochistan,1,1,698,487
+58,Govt. Girls Middle School- Rakni,30.03573,69.93673,Female,Balochistan,0,2,0,1243
+56,Govt. Girls Primary School- Baba Gharsheen- Rakni,30.04103,69.93105,Female,Balochistan,0,2,0,1095
+57,Irrigation Rest House- Rakni,30.04466,69.92541,Male,Balochistan,4,0,1642,0
+55,Govt. Boys High School Rakni,30.04614,69.92743,Male,Balochistan,4,0,1439,0
+40,Govt. Boys Primary School- Takhra Janthalli,30.06551,69.71143,Combined,Balochistan,1,1,387,298
+54,Govt. Boys Primary School- Khamyani (Khanan Lanjani),30.07441,69.82906,Combined,Balochistan,1,1,504,380
+39,Govt. Boys Primary School- Wahabani,30.08707,69.72588,Combined,Balochistan,1,1,493,438
+53,Govt. Boys Primary School- Gandah Qasmani,30.09358,69.92015,Combined,Balochistan,2,2,771,671
+41,Govt. Boys High School- Tomni,30.09721,69.65875,Combined,Balochistan,1,1,493,369
+52,Govt. Boys Primary School- Deh Babani,30.10869,69.91806,Combined,Balochistan,2,1,692,568
+45,Govt. Boys Primary School- Basti Haji Nizam Din Balwani Gurmoona Baghao,30.11126,69.61131,Combined,Balochistan,1,1,436,342
+46,Govt. Boys Primary School- Rage Baghao,30.11277,69.66268,Combined,Balochistan,1,1,333,292
+42,Govt. Boys High School- Miran Rabbani Baghao,30.12871,69.70885,Combined,Balochistan,1,1,486,301
+44,Govt. Boys Middle School- Shero Shaha Baghao,30.1335,69.64473,Combined,Balochistan,1,1,439,323
+66,Govt. Boys Middle School- Taghao,30.13407,69.80444,Combined,Balochistan,1,1,704,496
+69,Govt. Boys Primary School- Basti Malik Naseer Khan- Kandaili,30.14249,69.86851,Combined,Balochistan,1,1,252,202
+67,Levies Thana- Chappar Polling Station No.1,30.15088,69.9003,Male,Balochistan,2,0,957,0
+68,Levies Thana- Chappar Polling Station No.2,30.15088,69.90033,Female,Balochistan,0,2,0,768
+47,Civil Dispensary- Daman Baghao,30.15436,69.67741,Combined,Balochistan,1,1,620,385
+72,Govt. Boys High School- Mohma Sanad Khan Polling No. 1,30.16747,69.96853,Male,Balochistan,2,0,1078,0
+73,Govt. Boys High School- Mohma Sanad Khan Polling No. 2,30.16747,69.96856,Female,Balochistan,0,2,0,893
+48,Govt. Boys Primary School- Boorhi Sher Khan- Baghao,30.16881,69.7011,Combined,Balochistan,1,1,435,340
+43,Govt. Girls Primary School- Basti Aalam Khan Gudiani Baghao,30.17863,69.74609,Combined,Balochistan,1,1,490,402
+50,Govt. Boys Primary School- Wadera Jamal Khan- Baghao,30.19711,69.73082,Combined,Balochistan,2,2,783,631
+74,Govt. Boys Primary School- Loon Khun,30.2142,69.96763,Combined,Balochistan,1,1,193,211
+70,Govt. Boys Primary School- Gullo Daman,30.22389,70.02226,Combined,Balochistan,1,1,281,251
+49,Govt. Boys Primary School- Warshi Rehmani- Baghao,30.22671,69.68607,Combined,Balochistan,1,1,364,226
+71,Govt. Boys Primary School- Basti Sardar Azad Khan Buzdar,30.24011,70.02461,Combined,Balochistan,1,1,521,513
+62,Govt. Boys High School- Rarkan,30.25762,69.88869,Male,Balochistan,3,0,1398,0
+63,Govt. Civil Dispensary- Rarkan,30.25763,69.88833,Male,Balochistan,3,0,1335,0
+64,Govt. Girls High School- Basti Ameer Muhammad. Polling No. 1,30.28885,69.89398,Female,Balochistan,0,4,0,1104
+65,Govt. Girls High School- Basti Ameer Muhammad. Polling No. 2,30.2889,69.89414,Female,Balochistan,0,4,0,1141
+51,Govt. Boys Primary School- Tang Karair- Baghao,30.28994,69.71947,Combined,Balochistan,2,1,839,587

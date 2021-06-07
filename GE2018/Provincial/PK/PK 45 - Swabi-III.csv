@@ -1,0 +1,152 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+109,Govt Girls Primary School Allah Dher Jehangira (F) (P)*,33.952843230869,72.27067249553716,Female,KPK,0,2,0,729
+108,Govt Middle School Allah Dher Jehangira (M) (P)*,33.95304,72.27068,Male,KPK,3,0,1110,0
+99,Govt:Higher Secondary School Jehangira (M) 1st  P.S (P)*,33.96442,72.22245,Male,KPK,3,0,1115,0
+100,Govt:Higher Secondary School Jehangira (M) 2nd P.S (P)*,33.96442,72.22248,Male,KPK,3,0,1297,0
+97,Govt:Primary School No.2 Jehangira (F)  (P)*,33.96497,72.22112,Female,KPK,0,3,0,1369
+102,Govt Girls High School Jehangira (F) 2nd PS (P)*,33.96581530737225,72.21983720182193,Female,KPK,0,3,0,1074
+101,Govt Girls High School Jehangira (F) 1st PS (P)*,33.96584653851289,72.21982701214871,Female,KPK,0,2,0,917
+106,Govt Girls Primary School Ismail abad Jehangira (F) (P)*,33.96634,72.24172,Female,KPK,0,3,0,1394
+93,Govt:Primary School No.3 Mian Isa Road Jehangira (M)  (P)*,33.968643566456585,72.22094836048478,Male,KPK,3,0,1230,0
+98,Govt:Girls Primary School Hayat Abad Jehangira (F) (P)*,33.969514625347436,72.22396801003211,Female,KPK,0,3,0,1361
+107,Govt Girls Primary School No.3 Mustaqeem abad Jehangira (F) (P)*,33.96982,72.25508,Female,KPK,0,3,0,1580
+80,Govt Girls High/Girls Middle School Bazar  Tano Beka (F)  (P)*,33.97012,72.30962,Female,KPK,0,2,0,1030
+81,Govt Primary School Jabbar Tano Beka (Comb:),33.9703714984805,72.2873487137354,Combined,KPK,2,1,609,481
+103,Govt:Primary School Wisal Abad Jehangira (M) 1st PS (P)*,33.97067228525001,72.24259528706393,Male,KPK,3,0,1111,0
+105,Govt:Middle School Wisal Abad Jehangira (M) (P)*,33.97068,72.24261,Male,KPK,3,0,1219,0
+104,Govt:Primary School Wisal Abad Jehangira (M) 2nd PS (P)*,33.97070610618091,72.24259578274375,Male,KPK,3,0,1525,0
+79,Govt Primary School No.1 Bazar Tano Beka (M) (P)*,33.974936514637896,72.3065850596577,Male,KPK,3,0,1414,0
+145,Govt: Primary School No.3 Tordher-I (M) 2nd PS (P)*,33.98319,72.27494,Male,KPK,3,0,1179,0
+140,Govt: Primary School Bagh-e-HaramTordher M.Changan-II (M)  (P)*,33.98335771414964,72.28708909899456,Male,KPK,2,0,878,0
+141,Govt: Girls Primary School Bagh-e-HaramTordher M.Changan-II (M)  (P)*,33.98338368458513,72.28717547621213,Male,KPK,3,0,1224,0
+139,Govt: Primary School Sheikh Baba Tordher M.Changan-II (M)  (P)*,33.98424,72.29424,Male,KPK,3,0,1131,0
+94,Govt:Primary School Gharib Abad Jehangira (M) (P)*,33.985485356375186,72.24256610824165,Male,KPK,3,0,975,0
+146,Govt: Primary School Wilayat Khel Tordher-I (M) (P)*,33.98698392166718,72.28671638601692,Male,KPK,3,0,955,0
+95,Govt:Primary School Azim Garhi Jehangira (M) 1st P.S (P)*,33.98834464197589,72.23481281340662,Male,KPK,3,0,1015,0
+150,Govt: Primary School Dhok Loharan Tordher-II (M)  (P)*,33.98891766445156,72.2517390099672,Male,KPK,3,0,1314,0
+136,Govt Primary School No.2 Tordher M.Changan-I (M) P)*,33.99014550299187,72.28948950386416,Male,KPK,3,0,1170,0
+71,Govt Girls Primary School No.1 Beka (F) 2nd PS (P)*,33.99033,72.34491,Female,KPK,0,3,0,1650
+70,Govt Girls Primary School No.1 Beka  (F) 1st  PS (P)*,33.99037397891215,72.34486419217247,Female,KPK,0,2,0,1066
+147,Govt: Girls Primary School No.1 Mohallah Khan Khel  Tordher-I (F) (P)*,33.99075,72.28735,Female,KPK,0,3,0,1250
+142,Govt Girls High School No.1 Tordher M.Changan-II (F) 1st  PS (P)*,33.990984042341,72.2890973135652,Female,KPK,0,3,0,1347
+143,Govt Girls High School No.1 Tordher M.Changan-II (F) 2nd  PS (P)*,33.99101070717382,72.28913919984144,Female,KPK,0,3,0,1201
+152,BHU Basic Health Unit Tordher-II (F)  (P)*,33.99127,72.27198,Female,KPK,0,3,0,1200
+149,Govt: Primary School Ghulam Muhammad Baba Tordher-II (M) (P)*,33.99295029945375,72.2690281946288,Male,KPK,3,0,1108,0
+68,Govt:High School Beka (M) 2nd PS (P)*,33.99304433622625,72.3533501860754,Male,KPK,3,0,1233,0
+67,Govt:High School Beka (M) 1st PS (P)*,33.99304489877825,72.35332480531399,Male,KPK,3,0,1443,0
+69,Govt:High School Beka (M) 3rd PS (P)*,33.99305011483069,72.35347020046332,Male,KPK,2,0,938,0
+148,Govt: Girls Primary School No.3 Tordher-I (F)  (P)*,33.99345,72.28667,Female,KPK,0,3,0,1355
+134,Govt:High School No.2 Tordher M.Changan-I (M) 1st PS (P)*,33.99351417433728,72.28688006870058,Male,KPK,3,0,1394,0
+135,Govt:High School No.2 Tordher M.Changan-I (M) 2nd PS (P)*,33.99352599250796,72.28689999810295,Male,KPK,3,0,1421,0
+138,Govt: High School No.1 Tordher M.Changan-I (F)  2nd PS (P)*,33.994364327704766,72.28488264398044,Female,KPK,0,3,0,1404
+151,Govt: Primary School M.Changan No.1 Tordher-II (M) P)*,33.99465174228382,72.27507017161626,Male,KPK,3,0,1535,0
+153,Govt:Girls Primary School Saifoor Banda Tordher-II (F)  (P)*,33.994702876777026,72.27527336637267,Female,KPK,0,3,0,1825
+137,Govt: High School No.1 Tordher M.Changan-I (F) 1st PS (P)*,33.99474524158673,72.28457200710903,Female,KPK,0,3,0,1761
+74,Govt Girls Primary School Nabi Beka (F),33.99587737423823,72.35566957249263,Female,KPK,0,3,0,1690
+73,Govt Primary School Nabi Beka (M) 2nd PS (P)*,33.996640970358136,72.36006481036374,Male,KPK,2,0,872,0
+72,Govt Primary School Nabi Beka (M) 1st PS (P)*,33.99664778178255,72.3600374018085,Male,KPK,3,0,1178,0
+77,Govt Girls Primary School No.1 Tano Beka  (F) (P)*,33.99698120175163,72.32141097320961,Female,KPK,0,2,0,906
+75,Govt:High School Tano Beka (M) 1st P.S (P)*,33.99781147656465,72.32280236620167,Male,KPK,3,0,1168,0
+76,Govt:High School Tano Beka (M) 2nd PS (P)*,33.99784502113531,72.32267880803653,Male,KPK,3,0,1519,0
+78,Govt Girls High School Tano Beka  (F)  (P)*,33.9981608773971,72.32227145420227,Female,KPK,0,2,0,1199
+64,Govt:Primary School No.1 Sallah Haryan  Anbar (M) (P)*,33.998352629473814,72.37237877362683,Male,KPK,3,0,1192,0
+66,Govt Girls Primary School Sallah Haryan Anbar (F) (P)*,33.99841306075435,72.37240532728616,Female,KPK,0,2,0,907
+90,Govt Primary School Kataira Abad Manki  (M) (P)*,34.00236904937929,72.33058632185336,Male,KPK,3,0,1266,0
+91,Govt:Girls Community Model School Daulat Abad Manki (F) (P)*,34.00488,72.32454,Female,KPK,0,3,0,1231
+63,Govt:High School Haryan Anbar (M)  (P)*,34.004898151752265,72.38407283155492,Male,KPK,4,0,1699,0
+88,Govt Primary School No.1 Manki  (M) 1st P.S (P)*,34.008438884851465,72.32355600686729,Male,KPK,2,0,937,0
+89,Govt Primary School No.1 Manki  (M) 2nd P.S (P)*,34.00845877986605,72.32353000612012,Male,KPK,3,0,1089,0
+65,Govt Girls High School Haryan Anbar (F)  (P)*,34.00859,72.38343,Female,KPK,0,3,0,1364
+92,Govt: Middle /Primary School No.4 Manki (F) (P)*,34.00919,72.31744,Female,KPK,0,3,0,1257
+82,Govt:High School Manki (M) 1st PS (P)*,34.01250581820736,72.32981507567996,Male,KPK,3,0,1112,0
+83,Govt:High School Manki (M) 2nd PS (P)*,34.012578213563295,72.32981864392973,Male,KPK,3,0,1616,0
+84,Govt:High School Manki (M) 3rd PS (P)*,34.01263219255359,72.32976068230248,Male,KPK,3,0,1264,0
+87,Govt Girls Degree College Manki (F) 3rd  P.S (P)*,34.015488535389274,72.325890167348,Female,KPK,0,3,0,1028
+85,Govt Girls Degree College Manki (F) 1st  P.S (P)*,34.015518535746935,72.32578566790565,Female,KPK,0,2,0,893
+86,Govt Girls Degree College Manki (F) 2nd  P.S (P)*,34.015518535746935,72.3258156679056,Female,KPK,0,3,0,1330
+41,Govt High School Hund  (M) 1st PS (P)*,34.01612,72.43616,Male,KPK,2,0,1156,0
+42,Govt:High School Hund (M) 2nd PS (P)*,34.01612,72.43619,Male,KPK,3,0,1518,0
+44,Govt Girls High School / Girls Middle School Hund (F)  (P)*,34.01926,72.43173,Female,KPK,0,3,0,1795
+20,Govt:High School Gar Munara (M) 2nd PS (P)*,34.02022,72.51154,Male,KPK,3,0,1437,0
+21,Govt:High School Gar Munara (M) 3rd PS (P)*,34.02022,72.51157,Male,KPK,3,0,985,0
+19,Govt:High School Gar Munara (M) 1st PS (P)*,34.02025,72.51142,Male,KPK,3,0,1381,0
+23,Govt Primary School Gar Munara (F) 1st PS (P)*,34.02207,72.51509,Female,KPK,0,3,0,1279
+24,Govt Primary School Gar Munara (F) 2nd PS (P)*,34.02217,72.51508,Female,KPK,0,2,0,838
+40,Govt High School Pak Kiya Hund  (M),34.02251,72.41714,Male,KPK,3,0,964,0
+43,Govt Girls Middle/ Girls Primary School Pak Kiya Hund (F)  (P)*,34.02423,72.424,Female,KPK,0,2,0,791
+26,Govt Girls High School  Yousafi Gar Munara (F)  (P)*,34.02577,72.53163,Female,KPK,0,3,0,1150
+25,Govt Primary School Yousafi  Gar Munara  (M)  (P)*,34.026272700674085,72.53094242167028,Male,KPK,3,0,1466,0
+22,Govt Middle/Primary School Aka Khel Gar Munara (F) (P)*,34.02889,72.50937,Female,KPK,0,3,0,1153
+29,Govt Girls Primary School Musa Banda Zaida G.Munara  (F) (P)*,34.031971567867195,72.4835828124919,Female,KPK,0,3,0,1246
+27,Govt Primary School No.1 Musa Banda Zaida G.Munara (M) 1st PS (P)*,34.032983644453566,72.48244256204113,Male,KPK,3,0,994,0
+28,Govt Primary School No.1 Musa Banda Zaida G.Munara (M) 2nd PS (P)*,34.032996007189055,72.4824508492191,Male,KPK,2,0,752,0
+58,Govt Girls High School Shiekh Dheri Anbar (F)  (P)*,34.03474,72.39307,Female,KPK,0,3,0,1387
+125,Govt:Primary School Qazi Abad Lahor (W-I) (M)  (P)*,34.0359,72.35675,Male,KPK,2,0,625,0
+57,Govt:High School Shiekh Dheri Anbar (M) 2nd PS (P)*,34.03965,72.39705,Male,KPK,3,0,975,0
+56,Govt:High School Shiekh Dheri Anbar (M) 1st PS (P)*,34.03968,72.397,Male,KPK,2,0,977,0
+116,Govt Primary School Wakil abad Lahor (E-II) (M) 1st PS (P)*,34.04287,72.37766,Male,KPK,3,0,1381,0
+117,Govt Primary School Wakil abad Lahor (E-II) (M) 2nd PS (P)*,34.04287,72.37769,Male,KPK,3,0,1132,0
+55,Govt Girls High School Anbar  (F)  (P)*,34.04671,72.40824,Female,KPK,0,3,0,1466
+54,Govt Primary School No.1 Anbar  (F)  (P)*,34.04677,72.40932,Female,KPK,0,3,0,1359
+124,Govt:Primary School Lahor Gharbi Dhok (W-I) (M) (P)*,34.04728044880551,72.35127402931529,Male,KPK,3,0,1050,0
+128,Govt:High School Lahor Gharbi (W-II) (M) 1st PS (P)*,34.0483553,72.3599998,Male,KPK,3,0,1098,0
+118,Govt  High School Lahor Sharqi (E-II) (M)  (P)*,34.04858,72.36775,Male,KPK,3,0,1342,0
+119,Govt Primary School Islamia Lahor (E-II) (F)  (P)*,34.04947,72.36648,Female,KPK,0,3,0,1263
+120,Govt Girls Community Model School Lahor Sharqi (E-II)  (F) 1st  PS (P)*,34.04947,72.36684,Female,KPK,0,2,0,908
+121,Govt Girls Community Model School Lahor Sharqi (E-II)  (F) 2nd  PS (P)*,34.04947,72.36687,Female,KPK,0,2,0,999
+123,Govt:Primary School Lahor Gharbi (W-I) (M) (P)* Opposite GGHSS Lahor,34.049863120351226,72.3602806223548,Male,KPK,2,0,987,0
+132,Govt Girls Middle School Lahor Gharbi (W-II)  (F) 1st PS (P)*,34.049880796674806,72.3618657108152,Female,KPK,0,3,0,1545
+133,Govt Girls Middle School Lahor Gharbi (W-II)  (F) 2nd PS (P)*,34.04989278427382,72.36192132165185,Female,KPK,0,3,0,1307
+131,Govt Girls Primary School No.1 Lahor Gharbi (W-II)  (F) (P)*,34.05005684699758,72.36188787191435,Female,KPK,0,2,0,700
+130,Govt:High School Lahor Gharbi (W-II) (M) 3rd PS (P)*,34.05006679949592,72.35999508001711,Male,KPK,3,0,1324,0
+126,Govt Girls Higher Secondry School Lahor (W-I) (F) 1st PS (P)*,34.050068888283576,72.35978123202334,Female,KPK,0,2,0,1209
+127,Govt Girls Higher Secondry School Lahor (W-I) (F) 2nd PS (P)*,34.050068888283576,72.3598112320233,Female,KPK,0,2,0,900
+129,Govt:High School Lahor Gharbi (W-II) (M) 2nd PS (P)*,34.0501361053619,72.36008495283758,Male,KPK,4,0,1905,0
+50,Govt Girls Primary  School No.1 Kunda (Comb:) (P)*,34.05163953,72.43577357,Combined,KPK,2,1,874,596
+2,Govt:High School No.1 Zaida (M) 2nd P.S (P)*,34.05375521,72.4603594,Male,KPK,3,0,1341,0
+3,Govt:High School No.1 Zaida  (M) 3rd P.S (P)*,34.05375521,72.4603894,Male,KPK,3,0,1642,0
+1,Govt:High School No.1 Zaida  (M) 1st P.S (P)*,34.05376842,72.46029659,Male,KPK,3,0,1243,0
+113,Govt Primary School Rana Garhi Lahor (E-I) (M) (P)*,34.05476,72.36425,Male,KPK,3,0,1336,0
+45,Govt:Primary School No.1 Kunda Shagai Ibrahimkhel (M) 1st PS (P)*,34.05496281,72.42775788,Male,KPK,3,0,1269,0
+46,Govt:Primary School No.1 Kunda Shagai Ibrahimkhel (M) 2nd PS (P)*,34.05502456,72.42773346,Male,KPK,3,0,1393,0
+16,Govt: Girls Degree College Zaida (M) 3rdP.S (P)*,34.05504188,72.46289035,Male,KPK,2,0,923,0
+15,Govt: Girls Degree College Zaida (M) 2nd P.S (P)*,34.05505304,72.46295757,Male,KPK,3,0,1352,0
+47,Govt:Primary School No.1 Kunda Shagai Ibrahimkhel (M) 3rd PS (P)*,34.05505592,72.42768966,Male,KPK,3,0,1362,0
+14,Govt: Girls Degree College Zaida (M) 1st P.S (P)*,34.05506855,72.46281488,Male,KPK,2,0,888,0
+11,Govt Primary School No.3 Zaida  (M) 2nd PS (P)*,34.05509965,72.46361508,Male,KPK,3,0,1153,0
+10,Govt Primary School No.3 Zaida  (M) 1st PS (P)*,34.05511546,72.46352717,Male,KPK,3,0,1150,0
+60,Govt:High School Kunda (M) (P)*,34.05514,72.42702,Male,KPK,3,0,1012,0
+51,Govt Primary No.2 School Anbar (M),34.05532,72.41701,Male,KPK,4,0,1700,0
+52,Govt High School Anbar (M) 1st PS (P)*,34.05534,72.41708,Male,KPK,3,0,996,0
+53,Govt High School Anbar (M) 2nd PS (P)*,34.05534,72.41711,Male,KPK,2,0,823,0
+49,Govt Girls Primary School No.2 Kunda (F) 2nd PS (P)*,34.05669888,72.42543207,Female,KPK,0,3,0,1402
+48,Govt Girls Primary School No.2 Kunda (F) 1st PS (P)*,34.05672796,72.42544898,Female,KPK,0,3,0,1665
+62,Govt:Girls High School Kunda  (F) (P)*,34.05727,72.4249,Female,KPK,0,2,0,940
+111,Govt Primary School Umar Dhok Lahor (E-I) (M) 1st PS (P)*,34.05756,72.37099,Male,KPK,2,0,799,0
+112,Govt Primary School Umar Dhok Lahor (E-I) (M) 2nd PS (P)*,34.05756,72.37102,Male,KPK,3,0,1405,0
+114,Govt Girls High School Lahor Sharqi (E-I)  (F) 1st PS (P)*,34.05758,72.37099,Female,KPK,0,3,0,1894
+115,Govt Girls High School Lahor Sharqi (E-I)  (F) 2nd PS (P)*,34.05767,72.37098,Female,KPK,0,3,0,1154
+13,Govt Girls Primary School No.2 near old Post Office Zaida (F)  2nd PS (P)*,34.05847,72.466,Female,KPK,0,2,0,946
+12,Govt Girls Primary School No.2 near old Post Office Zaida (F) 1st  PS (P)*,34.05853,72.46592,Female,KPK,0,2,0,974
+17,Govt Girls Primary School No.3 Zaida( F) 1st PS(P)*,34.05983232,72.47392523,Female,KPK,0,3,0,1196
+18,Govt Girls Primary School No.3 Zaida( F) 2nd PS(P)*,34.0598398,72.47391296,Female,KPK,0,3,0,1430
+4,Govt Girls High School  Zaida (F) 1st PS (P)*,34.06055264,72.4645615,Female,KPK,0,3,0,1577
+5,Govt Girls High School  Zaida (F) 2nd PS (P)*,34.06064933,72.46474599,Female,KPK,0,3,0,1835
+6,Govt:Primary School No.1 Zaida  (M) 1st P.S (P)*,34.06178,72.46912,Male,KPK,3,0,1346,0
+7,Govt:Primary School No.1 Zaida  (M) 2nd P.S (P)*,34.06178,72.46915,Male,KPK,3,0,1160,0
+8,Basic Health Unit (BHU) Zaida  (F) 1st P.S (P)*,34.06263,72.47903,Female,KPK,0,3,0,1092
+9,Basic Health Unit (BHU) Zaida  (F) 2nd P.S (P)*,34.06263,72.47906,Female,KPK,0,2,0,908
+39,Govt:Primary School No.2 Shahmansoor (F) (P)*,34.06679,72.45736,Female,KPK,0,3,0,1686
+36,Govt:Girls Higher Secondary School Shahmansoor (M) 1st PS (P)*,34.0675,72.45318,Male,KPK,3,0,995,0
+37,Govt. Girls Higher Secondary School Shahmansoor (M) 2nd P*,34.0675,72.45321,Male,KPK,3,0,1321,0
+38,Govt:Girls Primary School No.3 Shahmansoor (F)  (P)*,34.0682,72.45261,Female,KPK,0,2,0,909
+110,Govt: Middle School Naknam Safa khel (Comb:) (P)*,34.070297311277365,72.53883716719452,Combined,KPK,2,1,410,280
+35,Govt:High  School Shahmansoor (M) (P)*,34.0705,72.45357,Male,KPK,3,0,1163,0
+61,Govt Primry School No.1 Jangi Dher Anbar (F) (P)*,34.07104,72.43643,Female,KPK,0,2,0,718
+59,Govt Middle School Jangi Dher Anbar (M) (P)*,34.07513,72.42589,Male,KPK,2,0,950,0
+33,SDA Office Shahmansoor (F) 1st PS (P)*,34.07722,72.44831,Female,KPK,0,3,0,1124
+34,SDA Office Shahmansoor (F) 2nd PS (P)*,34.07722,72.44834,Female,KPK,0,3,0,1379
+32,Education Office Shahmansoor (M)  (P)*,34.0795,72.45673,Male,KPK,3,0,1292,0
+31,District Council Office Shahmansoor (M)  (P)*,34.07964,72.45699,Male,KPK,3,0,1097,0
+30,District Local Government Office Shahmansoor (M)  (P)*,34.07975,72.45767,Male,KPK,3,0,1237,0
+122,Govt:Primary School Lahor Dhab Mera (W-I) (Combined) (P)*,34.10070626290753,72.33922633014102,Combined,KPK,1,1,433,272

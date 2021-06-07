@@ -1,0 +1,92 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+56,Government Boys Primary School Kot Baqar (Combined),32.07425,74.17397,Combined,Punjab,2,2,902,678
+55,Govt.Model Primary School Koro Tana (Combined),32.08201,74.17342,Combined,Punjab,2,2,1164,876
+49,Government Girls High School Kohlowala  (Male),32.08641,74.1738,Male,Punjab,4,0,2184,0
+50,Government Girls High School Kohlowala  (Female),32.08641,74.17383,Female,Punjab,0,3,0,1654
+59,Government Boys Primary School Qila Chand (Combined),32.09139,74.20055,Combined,Punjab,1,1,740,599
+53,Federal Science College For Boys (WAPDA  Town) (Male),32.09216,74.18531,Male,Punjab,3,0,1461,0
+54,Federal Science College For Boys (WAPDA  Town)  (Female),32.09216,74.18534,Female,Punjab,0,3,0,1351
+57,Allied School Haram Campus- St # 1- Jalil Town (Combined),32.09222,74.19722,Combined,Punjab,2,2,1196,995
+51,Federal Science College For Girls (WAPDA  Town) (Male),32.0946,74.18031,Male,Punjab,3,0,1534,0
+52,Federal Science College For Girls (WAPDA  Town)  (Female),32.0946,74.18034,Female,Punjab,0,3,0,1301
+58,Government Girls M/S Kashmir Colony Qila Chand (Combined),32.09611,74.20222,Combined,Punjab,2,2,1008,867
+44,Saint Fransis High School Farancisabad (Combined),32.09792,74.15633,Combined,Punjab,2,2,1239,917
+45,Saint Fransis High School Farancisabad (Male),32.09792,74.15636,Male,Punjab,4,0,2376,0
+46,Saint Fransis High School Farancisabad (Female),32.09792,74.15639,Female,Punjab,0,3,0,1773
+47,Saint Matthews High School Francis Abad Grw (Male),32.09795,74.15755,Male,Punjab,3,0,1640,0
+48,Saint Matthews High School Francis Abad Grw (Female),32.09795,74.15758,Female,Punjab,0,2,0,1231
+25,Government Girls High School Kashmir Colony No. 2 Near Murad Eye Hospital (Combined),32.10222,74.19778,Combined,Punjab,2,2,1059,930
+26,Lacas- Judicial Colony Gujranwala Campus-  (Male),32.10611,74.19417,Male,Punjab,3,0,1696,0
+27,Lacas- Judicial Colony Gujranwala Campus-   (Female),32.10611,74.1942,Female,Punjab,0,3,0,1488
+28,Gujranwala College Of Pharmacy Technician (Male),32.10917,74.18806,Male,Punjab,4,0,2563,0
+29,Gujranwala College Of Pharmacy Technician  (Female),32.10917,74.18809,Female,Punjab,0,3,0,1903
+61,Sun Rise High School System 40 Foot Bazar  Khiali Shah Pur (Beroon)  (Female),32.10972,74.16722,Female,Punjab,0,3,0,1631
+60,Government Boys High School Khiali Shah Pur (Beroon) (Male),32.11278,74.17166,Male,Punjab,4,0,2107,0
+64,Government Boys High School Khiali Shah Pur Beroon (Male),32.11278,74.17169,Male,Punjab,4,0,2401,0
+65,Government Boys High School Khiali Shah Pur (Beroon)  (Female),32.11278,74.17172,Female,Punjab,0,3,0,1635
+33,Government M.C School No. 15- 30 Ft Bazar Sardar Colony (Male),32.1128,74.18059,Male,Punjab,3,0,1791,0
+62,Sher Ali High School Iftikhar Colony Khiali Shah Pur Beroon Gujranwala (Male),32.11305,74.16583,Male,Punjab,3,0,1598,0
+63,Sher Ali High School Iftikhar Colony Khiali Shah Pur Beroon Gujranwala  (Female),32.11305,74.16586,Female,Punjab,0,2,0,1185
+34,Hassan Public School St# 6 Sardar Colony  (Female),32.11329,74.17826,Female,Punjab,0,2,0,1244
+32,Ameer Public School- Abu Bakar Park- Gujranwala (Combined),32.11454,74.17787,Combined,Punjab,2,2,1354,864
+35,Al-Noor High School (Reg.) Near Jamia Masjid Sakina Khajoor Wali Madni Road Gujranwala  (Male),32.11481,74.17641,Male,Punjab,4,0,2438,0
+37,The Pakistan School Tower Road Gujranwala (Male),32.11594,74.17143,Male,Punjab,3,0,1677,0
+38,The Pakistan School Tower Road Gujranwala  (Female),32.11594,74.17146,Female,Punjab,0,2,0,1282
+39,Times School Tower Road Gujranwala (Combined),32.11644,74.17162,Combined,Punjab,2,1,844,589
+36,The Royal School Of Science (Female Portion) Girjay Wala Bazar Gujranwala  (Female),32.11759,74.17599,Female,Punjab,0,3,0,1860
+30,M.S Memorial School Faisal Colony Gujranwala (Male),32.11827,74.18289,Male,Punjab,3,0,1445,0
+31,M.S Memorial School Faisal Colony Gujranwala  (Female),32.11827,74.18292,Female,Punjab,0,2,0,1043
+40,Government Boys High School Dairey Wala (Primary Portion) (Combined),32.11923,74.17249,Combined,Punjab,2,1,969,687
+15,The Punjab College Of Scineces for Boys Near Jamia Masjid Faiz e Madina Khailai Shahpur Gujranwala (Male),32.12029,74.17702,Male,Punjab,3,0,1828,0
+16,Government Girls Elementary School Opposite Jamia Masjid Faiz E Madina Gujranwala  (Female),32.12029,74.17705,Female,Punjab,0,2,0,1273
+17,The Punjab College Of Sciences for Boys Near Jamia Masjid Faiz E Madina Khiali Shahpur Gujranwala (Male),32.12029,74.17708,Male,Punjab,3,0,1678,0
+18,Government Girls Elementary School Opposite Jamia Masjid Faiz E Madina Gujranwala  (Female),32.12029,74.17711,Female,Punjab,0,3,0,1354
+21,Faran College- Khiali Shahpur- Gujranwala (Male),32.12103,74.17501,Male,Punjab,3,0,1510,0
+23,Faran College- Khiali Shahpur- Gujranwala (Male),32.12103,74.17504,Male,Punjab,3,0,1502,0
+22,Government Girls High School Khiali Shah Pur Near Tanki Adda  (Female),32.12136,74.17514,Female,Punjab,0,2,0,1165
+24,Government Girls High School Khiali Shah Pur Near Tanki Adda  (Female),32.12136,74.17517,Female,Punjab,0,2,0,1199
+19,Askari Public School Near Madrassa Zia Ul Quran Katcha Khiali Road Khiali Gujranwala (Male),32.12146,74.17493,Male,Punjab,3,0,1485,0
+20,Askari Public School Near Madrassa Zia Ul Quran Katcha Khiali Road Khiali Gujranwala  (Female),32.12146,74.17496,Female,Punjab,0,2,0,1119
+12,Government Pakistan Baitul Mal School Khiali Town (Male),32.12375,74.17702,Male,Punjab,3,0,1488,0
+13,Government Pakistan Baitul Mal School Khiali Town (Male),32.12375,74.17705,Male,Punjab,2,0,890,0
+14,Ravi School Moh. Khiaban E Tariq Khiali Shahpur   (Female),32.12375,74.17708,Female,Punjab,0,3,0,1678
+11,Al-Falah International School Cheema Abadi Gujranwala  (Female),32.12433,74.17886,Female,Punjab,0,3,0,1476
+10,Raza Academy Asad Colony Gujranwala (Male),32.12455,74.18327,Male,Punjab,4,0,2119,0
+9,Government Boys Primary School Asad Colony Bazar No. 5 Near Jamia Lasania Rizvia   (Female),32.12455,74.1833,Female,Punjab,0,2,0,1193
+8,Allied School Khiali Campus- Gujranwala (Male),32.12685,74.17889,Male,Punjab,3,0,1598,0
+42,Al-Badar Girls High School Gulshan Colony- Sheikhupura Road- Gujranwala (Combined),32.12694,74.18222,Combined,Punjab,2,2,1051,813
+43,Nasir Memorial Girls High School Gulshan Colony Sheikhupura Road- Gujranwala (Combined),32.1275,74.18305,Combined,Punjab,2,2,1083,860
+66,National Model School Anwer Town (Combined),32.12861,74.15806,Combined,Punjab,2,2,1012,791
+67,Government Rural Dispensary Noushera Sansi- Gujranwala (Male),32.1287,74.16476,Male,Punjab,2,0,1212,0
+68,Government Rural Dispensary Noushera Sansi- Gujranwala (Male),32.1287,74.16479,Male,Punjab,2,0,1077,0
+41,Keen Islamic Public School Street No. 1- Madina Colony- Sheikhupura Road- Gujranwala  (Combined),32.12944,74.18166,Combined,Punjab,2,1,790,614
+69,Government Girls High School Nowshera Sansi- Bhatta Abadi (Female),32.13151,74.16446,Female,Punjab,0,3,0,1654
+86,Government Girls High School Nowshera Sansi- Gujranwala  (Female),32.13151,74.16449,Female,Punjab,0,3,0,1480
+87,Government Girls Community Model School- Noshera Sansi Gujranwala (Male),32.13323,74.16435,Male,Punjab,4,0,2247,0
+88,Government Girls Community Model School- Noshera Sansi Gujranwala  (Female),32.13323,74.16438,Female,Punjab,0,3,0,1651
+70,Government Boys Elementary School Noshera Sansi Ajmal Town Near Bhatta Abadi (Combined),32.13366,74.16431,Combined,Punjab,2,2,998,758
+89,Government Boys Elementary School Noshera Sansi Ajmal Town Near Bhatta Abadi (Male),32.13366,74.16434,Male,Punjab,2,0,1201,0
+90,Government Boys Elementary School Noshera Sansi Ajmal Town Near Bhatta Abadi (Male),32.13366,74.16437,Male,Punjab,2,0,1231,0
+75,Iaqra Public School Bhatta Abadi Noshera Sansi Gujranwala (Female),32.13422,74.16775,Female,Punjab,0,4,0,2298
+85,Government Girls Primary School Qila Sunder Singh- Awan Chowk- Gujranwala (Male),32.13834,74.15651,Male,Punjab,4,0,2051,0
+7,Government Girls Primary School Mian Sansi  (Female),32.13859,74.1807,Female,Punjab,0,3,0,1724
+71,Leaders High School For Boys & Girls  Gali Maher Siraj Din Wali Katcha Khiali Road Gujranwala (Male),32.14132,74.17882,Male,Punjab,3,0,1757,0
+72,Leaders High School For Boys & Girls  Gali Maher Siraj Din Wali Katcha Khiali Road Gujranwala  (Female),32.14132,74.17885,Female,Punjab,0,2,0,1150
+73,Rafique Public School- Gala Dr. Imran Wala- Gujranwala (Male),32.14177,74.17266,Male,Punjab,4,0,1346,0
+74,Rafique Public School- Gala Dr. Imran Wala- Gujranwala (Male),32.14177,74.17269,Male,Punjab,4,0,1825,0
+2,New Aims Model School Mian Sansi Road Gujranwala  (Female),32.14284,74.18208,Female,Punjab,0,3,0,1571
+4,New Aims High School Mian Sansi Road Near Masjid Umer Farooq  (Female),32.14284,74.18211,Female,Punjab,0,2,0,1162
+1,Government Boys Elementary School Mian Sansi Mohallah Qaim Ali Shah Mian Sansi Road (Male),32.14287,74.18204,Male,Punjab,4,0,2165,0
+3,Government Boys Elementary School Mian Sansi Mohallah Qaim Ali Shah Mian Sansi Road (Male),32.14287,74.18207,Male,Punjab,3,0,1729,0
+76,Al-Tarbia Islamic Institute Opposite Allied School Main Noshera Road Near Lohywali Puli Gujranwala (Male),32.14363,74.16174,Male,Punjab,3,0,1772,0
+77,Al-Tarbia Islamic Institute Opposite Allied School Main Noshera Road Near Lohywali Puli Gujranwala (Female),32.14363,74.16177,Female,Punjab,0,3,0,1279
+91,Govt.Boys Primary School Sunder Singh Qila Dhaki Palki Road Near Awan Chowk  (Female),32.14398,74.16061,Female,Punjab,0,4,0,1851
+82,Government Girls Elementary School  Street No. 5 Mominabad  (Female),32.14456,74.16914,Female,Punjab,0,3,0,1460
+84,Government Girls Elementary School  Street No. 5 Mominabad  (Female),32.14456,74.16917,Female,Punjab,0,3,0,1565
+81,Adnan English High School (Pvt).Gali No. 12 Lohy Wali Pul Noshera Road- Gujranwala (Male),32.14518,74.16598,Male,Punjab,4,0,2067,0
+83,Adnan English High School (Pvt).Gali No. 12 Lohy Wali Pul Noshera Road- Gujranwala (Male),32.14518,74.16601,Male,Punjab,4,0,2067,0
+78,Al Mashriq High School Boys Campus Noshera Road- (Combined),32.14708,74.16821,Combined,Punjab,2,2,1011,781
+79,Little Scholars Public School St # 6 Mohallah Chah Talianwala (Male),32.14861,74.17134,Male,Punjab,3,0,1792,0
+80,Little Scholars Public School St# 6 Mohallah Chah Tailianwala  (Female),32.14861,74.17137,Female,Punjab,0,2,0,1283
+5,Shahid National Model School- Mian Sansi- Gujranwala (Male),32.17816,74.21063,Male,Punjab,2,0,1216,0
+6,Shahid National Model School- Mian Sansi- Gujranwala (Male),32.17816,74.21066,Male,Punjab,2,0,1204,0

@@ -1,0 +1,170 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+134,Govt .Girls High School- 92/10-R,30.23635754,71.95360821,Combined,Punjab,2,2,753,555
+135,Govt .Boys Pry School- 92/10-R,30.23774945,71.95840816,Male,Punjab,2,0,1063,0
+136,Govt .Boys Pry School- 92/10-R,30.23774945,71.95843816,Female,Punjab,0,2,0,836
+133,Govt .Girls Middle School- 93/10-R,30.2428903,71.92658368,Female,Punjab,0,3,0,991
+132,Govt .Boys High School- 93/10-R,30.24414706,71.92727659,Male,Punjab,3,0,1366,0
+130,Govt .Girls Model Middle School- 167/10-R,30.25086829,71.91421846,Male,Punjab,4,0,1755,0
+131,Govt .Girls Pry School- 167/10-R,30.25086829,71.91424846,Female,Punjab,0,4,0,1309
+106,Govt .Girls Community Model  School- 168/10-R (Part-I),30.26943,71.9025,Combined,Punjab,2,2,879,652
+107,Govt .Girls Community Model  School- 168/10-R (Part-II),30.26943,71.90253,Female,Punjab,0,2,0,856
+108,Govt .Girls Community Model  School- 168/10-R (Part-II),30.26943,71.90256,Male,Punjab,3,0,1136,0
+153,Govt .Model Middle  School 20/ V,30.27063354,71.82618249,Combined,Punjab,2,1,647,479
+87,Govt .Boys Middle School- Kamboh Nagar(IInd Port)Khanewal,30.27231,71.91105,Female,Punjab,0,2,0,729
+103,Govt Elemantary School- 168/10-R,30.27556399,71.920887,Combined,Punjab,2,2,600,501
+104,Govt Elemantary School- 168/10-R,30.27556399,71.920917,Male,Punjab,4,0,1592,0
+105,Govt Elemantary School- 168/10-R,30.27556399,71.920947,Female,Punjab,0,4,0,1276
+111,Govt .Girls Elemantary  Model School 90/10-R,30.27559241,71.95249711,Combined,Punjab,2,2,863,724
+113,Govt .Girls English Medium School  90/10-R,30.27559241,71.95252711,Male,Punjab,2,0,1023,0
+114,Govt .Girls Pry School 90/10-R,30.27559241,71.95255711,Female,Punjab,0,2,0,814
+109,Govt .Girls High School- 168/10-R (Part-I),30.2783996,71.91798381,Combined,Punjab,2,2,856,668
+110,Govt .Girls High School- 168/10-R (Part-II),30.27845244,71.9179754,Combined,Punjab,1,1,427,313
+147,Govt .Boys High School- Nanik Pur (High Portion),30.27971954,71.87273616,Combined,Punjab,1,1,519,428
+148,Govt .Boys High School- Nanik Pur (2nd Portion),30.27971954,71.87276616,Male,Punjab,2,0,748,0
+149,Govt .Boys High School- Nanik Pur (3rd Portion),30.27971954,71.87279616,Female,Punjab,0,2,0,598
+127,Govt .Girls Pry School 86-75/10-R,30.2808642,71.98076398,Female,Punjab,0,3,0,1183
+126,Govt .Boys Pry School 86-75/10-R,30.28143102,71.98080052,Male,Punjab,3,0,1427,0
+12,Govt. Boys Primary School Pari Wala No-1 (Basti Aziz Abad),30.2817487,71.8390006,Combined,Punjab,1,1,518,398
+143,Govt. Boys Pry School Chah Balay Wala-Nanik Pur,30.28175,71.8389979,Male,Punjab,3,0,1049,0
+86,Govt .Boys Middle School- Kamboh Nagar (Ist Part) Khanewal,30.28292708,71.91800335,Female,Punjab,0,3,0,1197
+87,Govt .Boys Middle School- Kamboh Nagar(IInd Port)Khanewal,30.28292708,71.91803335,Female,Punjab,0,2,0,729
+83,Govt .Girls Pry School- Kot Allah Singh- Near Police Welfare Petrol Pump- Kwl,30.28309499,71.91215975,Male,Punjab,3,0,1458,0
+165,Govt .Boys High School Mahni Sial (2nd Portion),30.28400942,71.78252693,Male,Punjab,3,0,1113,0
+166,Govt .Boys High School Mahni Sial (2nd Portion),30.28400942,71.78255693,Combined,Punjab,2,2,931,733
+163,Govt .Boys High School Mahni Sial,30.28401379,71.78250527,Male,Punjab,3,0,1423,0
+72,M.C Boys Primary School No-10 B Kot Berbal Khanewal,30.2859217,71.93016893,Female,Punjab,0,2,0,653
+90,Govt .Boys Pry School Marzipura No.1 Khanewal,30.28683078,71.92195765,Female,Punjab,0,2,0,819
+84,Govt. Girl Pry School Marzi Pura Khanewal,30.28691456,71.92283953,Male,Punjab,2,0,840,0
+85,Govt. Girl Pry School Marzi Pura Khanewal,30.28691456,71.92286953,Combined,Punjab,2,2,997,782
+71,Tehsil Office- Khanewal,30.28723915,71.93354544,Male,Punjab,2,0,847,0
+77,Govt .Girls Middle School Kot Berbal (Pry Portion),30.28811116,71.92778586,Male,Punjab,2,0,791,0
+78,Govt .Girls Middle School Kot Berbal (Pry Portion),30.28814645,71.9278092,Female,Punjab,0,2,0,951
+79,Govt .Girls Middle School Kot Berbal(Pry Portion),30.28814645,71.9278392,Male,Punjab,3,0,1135,0
+80,Govt .Girls Middle School Kot Berbal(Pry Portion),30.28814645,71.9278692,Female,Punjab,0,2,0,671
+73,Office PASCO Godown-  Colony.No.3 Khanewal (Ist Portion),30.28919029,71.93189127,Male,Punjab,2,0,902,0
+74,Office PASCO Godown-  Colony.No.3 Khanewal (2nd Portion),30.2892077,71.93183164,Female,Punjab,0,2,0,801
+162,Govt .Boys Middle School- Nizam Pur,30.2902704,71.8533283,Combined,Punjab,1,1,582,414
+76,Govt .Girls Hassan Model High School- (Part-II),30.29229291,71.92528796,Female,Punjab,0,4,0,1221
+75,Govt .Girls Hasan Model high School Khanewal  (Part-1),30.29232796,71.92531365,Male,Punjab,4,0,1519,0
+89,Govt .Girls Hassan Model High School (Portion IV)  Khanewal,30.29232796,71.92534365,Combined,Punjab,2,2,970,808
+167,Govt .Girls High School Mahni Sial (IInd Portion),30.29242445,71.78716192,Female,Punjab,0,2,0,863
+164,Govt .Girls High School Mahni Sial (Ist Portion),30.29247095,71.78713641,Female,Punjab,0,3,0,1091
+81,Mc.Boys Primary School No-4 (Lal School) Khanewal,30.29280004,71.92437467,Combined,Punjab,2,2,766,601
+82,Mc.Boys Primary School No-4 (Lal School) Khanewal,30.29280004,71.92440467,Combined,Punjab,2,2,872,765
+66,Govt. Boys Middle School M.C -11/B- Colony.No.3 Khanewal,30.29297176,71.93064695,Combined,Punjab,2,2,724,548
+70,M.C.Girls Pry School Near Jaswant Nagar Chowk- Colony No.3- Khanewal,30.29297176,71.93067695,Female,Punjab,0,3,0,1108
+58,Govt .Girls Degree College Khanewal-,30.2929883,71.9279208,Combined,Punjab,1,1,150,110
+60,Govt .Girls Degree College Khanewal- (Hostel)),30.2929883,71.9279508,Female,Punjab,0,2,0,846
+61,Govt .Girls Degree College Khanewal- (Hostel),30.2929883,71.9279808,Female,Punjab,0,2,0,627
+150,Ofice of Union Council- Bherowal,30.29305699,71.85890094,Combined,Punjab,1,1,571,464
+32,Govt .Girls Pry School- Block No.9 Town- Khanewal,30.29330317,71.91921259,Female,Punjab,0,3,0,1052
+65,Govt. Boys Middle School M.C -11/B- Colony.No.3 Khanewal,30.29368187,71.93064036,Male,Punjab,3,0,1326,0
+67,Govt. Boys Middle School M.C -11/B- Colony.No.3 Khanewal,30.29368187,71.93067036,Combined,Punjab,1,1,426,358
+54,Govt .Deaf & Dumb- School- Abass Nagar- Khanewal (Ist Portion),30.29390342,71.93832371,Male,Punjab,4,0,1757,0
+68,Govt. Deaf and Dumb School Abbas Nagar Khanewal (Slow Learner),30.29390342,71.93835371,Male,Punjab,3,0,1481,0
+55,Govt .Deaf & Dumb- School- Abass Nagar- Khanewal (IInd Portion),30.29390342,71.93838371,Female,Punjab,0,4,0,1417
+69,Govt. Deaf and Dumb School Abbas Nagar Khanewal (Slow Learner),30.29390342,71.93841371,Female,Punjab,0,3,0,1171
+161,Govt .Girls Middle  School- Nizam Pur,30.29393403,71.81785154,Combined,Punjab,2,2,937,733
+30,Mincipal Stadium-Khanewal,30.29396895,71.916157,Male,Punjab,3,0,1297,0
+31,Mincipal Stadium-Khanewal,30.29396895,71.916187,Combined,Punjab,1,2,598,510
+34,Patwar Khana Block No.13 Khanewal,30.29417,71.91722,Male,Punjab,2,0,1026,0
+168,B.H.U.Mahni Sial (Ist Portion),30.2942898,71.78719051,Male,Punjab,3,0,1017,0
+169,B.H.U.Mahni Sial (2nd Portion),30.29436039,71.78721009,Female,Punjab,0,2,0,794
+124,Govt .Boys Middle School 87/10-R,30.2946195,71.97022539,Combined,Punjab,1,1,459,430
+125,Govt .Boys Middle School 87/10-R,30.2946195,71.97025539,Combined,Punjab,2,2,593,482
+96,M.C.Govt . Pry School-   5/B Ghareeb Abad Stadium Road-  Gate No.2- Kwl,30.2949072,71.91988628,Female,Punjab,0,4,0,1442
+35,M.C.Boys Pry School- 5-B   Ghareebabad Stadium Road- Khanewal,30.2949624,71.9198962,Female,Punjab,0,2,0,875
+98,Govt .Boys Middle School- 88/10-R,30.29511287,71.9528074,Combined,Punjab,2,2,859,642
+50,Govt .Boys Pry School Mehra Abad (Khokharabad) KWL.,30.29590033,71.94431754,Male,Punjab,3,0,1445,0
+51,Govt .Boys Pry School Mehra Abad (Khokharabad) KWL,30.29590033,71.94434754,Female,Punjab,0,2,0,839
+52,Govt. Boys Pry School Mehra Abad (Khokharabad) Khanewal,30.29590033,71.94437754,Male,Punjab,2,0,1098,0
+56,Govt .Boys Degree College- Kwl (Ist Portion),30.2965064,71.9271144,Male,Punjab,2,0,902,0
+57,Govt .Boys Degree College- Kwl (IInd Port),30.2965064,71.9271444,Female,Punjab,0,2,0,752
+99,Govt .Girls Middle School 88/10-R Khanewal,30.29655983,71.95557869,Combined,Punjab,2,2,833,614
+100,Govt .Girls Middle School 88/10-R Khanewal,30.29655983,71.95560869,Combined,Punjab,2,2,868,637
+95,Govt .Boys Middle School- Tariqabad- Khanewal,30.29658128,71.91182499,Male,Punjab,4,0,1714,0
+64,M.C.Girls Pry School- Kutia(IInd Portion),30.29692747,71.93198263,Female,Punjab,0,3,0,1095
+63,M.C.Girls Pry School- Kutia(Ist Portion),30.29693457,71.93199519,Male,Punjab,3,0,1225,0
+91,Govt .Girls Primary School- Tariqabad- Khanewal (Part-1),30.29716046,71.91153217,Male,Punjab,2,0,857,0
+92,Govt .Girls Primary School- Tariqabad- Khanewal (Part-1),30.29716046,71.91156217,Female,Punjab,0,2,0,970
+93,Govt .Girls Primary School- Tariqabad- Khanewal (Part-1),30.29716046,71.91159217,Male,Punjab,3,0,1192,0
+94,Govt .Girls Primary School- Tariqabad- Khanewal    (Part-II),30.29716046,71.91162217,Female,Punjab,0,2,0,779
+36,Govt .Girls Pry School- Block No 11 Near Jamia Iniytia Khanewal  (Part-1),30.29767358,71.91944066,Male,Punjab,2,0,735,0
+37,Govt .Girls Pry School-  Block.No.11- Jamia Inayatia- Gate.No.02 Khanewal-   (Part-II),30.29767358,71.91947066,Female,Punjab,0,2,0,668
+101,Govt .Model Pry English Medium  School    88-A/10-R,30.29801352,71.9656704,Male,Punjab,3,0,1263,0
+102,Govt Girls Pry School    88-A/10-R,30.29801352,71.9657004,Female,Punjab,0,2,0,979
+46,M.C.Boys Pry School 2-B- Block No.6- Khanewal,30.29855721,71.91818937,Male,Punjab,4,0,1665,0
+47,M.C.Boys Pry School 2-B- Block No.6- Khanewal,30.29855721,71.91821937,Male,Punjab,2,0,918,0
+48,M.C.Boys Pry School 2-B Block No.6- Khanewal,30.29855721,71.91824937,Female,Punjab,0,2,0,744
+8,Govt. Boys High School Ahmad Nagar,30.29856883,71.90084353,Male,Punjab,3,0,1242,0
+9,Govt. Boys High School Ahmad Nagar,30.29856883,71.90087353,Combined,Punjab,2,2,683,557
+41,M.C.Girls High School- Khanewal,30.29885287,71.92313776,Female,Punjab,0,2,0,342
+42,Office of Artificial Insemination- Khanewl.,30.2991387,71.91178197,Male,Punjab,2,0,959,0
+144,Govt .Girls High School - Ahmad Nagar (Part-I),30.29917122,71.89854257,Female,Punjab,0,3,0,1049
+145,Govt .Girls High School - Ahmad Nagar (Part-II),30.29917546,71.89854335,Male,Punjab,3,0,1362,0
+146,Govt .Girls High School - Ahmad Nagar (Part-III),30.29917546,71.89857335,Combined,Punjab,2,2,876,638
+43,Office of Asst Director Live Stock- Khanewal,30.29925393,71.91221109,Female,Punjab,0,2,0,782
+62,Office District Education Officer (Secondary) Khanewal-,30.3000321,71.9244523,Combined,Punjab,1,1,258,226
+29,Govt . Vocational College Khanewal (2nd  Portion),30.3023249,71.9361442,Female,Punjab,0,2,0,640
+24,Govt .Boys Middle  School- Peoples colony- Khanewal,30.3023562,71.9364553,Male,Punjab,3,0,1470,0
+25,Govt .Boys Middle  School- Peoples colony- Khanewal,30.3023562,71.9364853,Combined,Punjab,1,1,364,372
+26,Govt .Boys Middle  School- Peoples colony- Khanewal,30.3023562,71.9365153,Combined,Punjab,1,1,567,476
+27,Govt .Girls Pry School- Peoples colony- Khanewal,30.3023562,71.9365453,Female,Punjab,0,4,0,1251
+33,Govt . Commerce College- Khanewal,30.3023562,71.9365753,Combined,Punjab,2,2,594,569
+179,Govt .Boys High School- Sham Kot  (1st Portion),30.30257516,71.84581861,Female,Punjab,0,3,0,912
+180,Govt .Boys High School- Sham Kot  (2nd Portion),30.30257516,71.84584861,Male,Punjab,3,0,1249,0
+181,Govt .Boys High School- Sham Kot (3rd Portion),30.30257516,71.84587861,Combined,Punjab,1,1,578,390
+19,Govt .Boys Model High School Khanewal-(Acadmic Wing),30.30267238,71.92938309,Male,Punjab,3,0,1370,0
+20,Govt .Boys Model High School Khanewal- (Hostel),30.30277684,71.92938701,Female,Punjab,0,3,0,1081
+21,Govt .Boys Model High School Khanewal-  (Middle Portion),30.30277684,71.92941701,Combined,Punjab,1,1,566,476
+7,Gvot.Girls Pry.School Faridabad,30.30314615,71.90510795,Female,Punjab,0,2,0,969
+17,Govt . Public High School- (West portion)Khanewal,30.3044066,71.92137741,Male,Punjab,3,0,1371,0
+18,Govt . Public High School- (East Portion)Khanewal,30.30445255,71.92151894,Female,Punjab,0,3,0,1143
+38,Govt .Girls Model High School- Khanewal Main Gate  (Ist Portion ),30.3046113,71.923737,Male,Punjab,4,0,1688,0
+39,Govt .Girls Model High School-  Khanewal-  (Office Portion),30.3046113,71.923767,Female,Punjab,0,4,0,1456
+40,M.C.Boys Middle School 1-B- Khanewal.,30.3046113,71.923797,Male,Punjab,2,0,362,0
+44,Office of Market Committee- Khanewal.,30.3046113,71.923827,Male,Punjab,2,0,782,0
+45,Office of Market Committee- Khanewal,30.3046113,71.923857,Female,Punjab,0,2,0,640
+183,Govt .Girls Higher Secondary School - Sham Kot,30.30556453,71.8460379,Combined,Punjab,2,1,694,471
+120,Govt .Boys Pry School- 83-85/10-R (East Portion),30.30616637,71.98921591,Male,Punjab,2,0,985,0
+121,Govt .Boys Pry School- 83-85/10-R     (East Portion),30.30616637,71.98924591,Male,Punjab,2,0,918,0
+182,Basic Health Unit- Sham Kot.,30.30635765,71.84685388,Combined,Punjab,2,2,802,671
+1,Office of the Deputy District officer Building Khanewal.,30.3077998,71.9369186,Male,Punjab,3,0,1194,0
+11,Office of the District officer Road Khanewal,30.3077998,71.9369486,Combined,Punjab,1,1,514,430
+13,C.T.M. Girls Primary School Khanewal,30.3077998,71.9369786,Male,Punjab,3,0,1231,0
+14,C.T.M. Girls Primary School Khanewal,30.3077998,71.9370086,Female,Punjab,0,3,0,1038
+154,Govt .Boys Pry School Solgi,30.3077998,71.9370386,Combined,Punjab,2,2,874,586
+157,Govt .Girls High School- Kot Mulchand (Ist Port),30.3077998,71.9370686,Male,Punjab,2,0,1058,0
+158,Govt .Girls High School- Kot Mulchand,30.3077998,71.9370986,Female,Punjab,0,2,0,840
+159,Govt .Girls High School- Kot Mulchand (3rd Port),30.3077998,71.9371286,Male,Punjab,3,0,1265,0
+160,Govt .Boys Pry School- Kot Mulchand,30.3077998,71.9371586,Female,Punjab,0,3,0,1050
+170,Govt .Model  Middle School- Allah Abad,30.3077998,71.9371886,Combined,Punjab,1,1,379,280
+171,Govt .Girls Middle School- Allah Abad,30.3077998,71.9372186,Combined,Punjab,1,1,398,346
+172,Govt. Boys  Pry School New Basti - Allah Abad  (part-I),30.3077998,71.9372486,Combined,Punjab,2,2,723,555
+173,Govt. Boys  Pry School New Basti - Allah Abad   (part-II),30.3077998,71.9372786,Combined,Punjab,2,2,870,679
+2,Office of the District officer Building Khanewal.,30.3077998,71.9373086,Male,Punjab,3,0,1395,0
+10,Office of the District officer Road Khanewal.,30.3077998,71.9373386,Male,Punjab,2,0,862,0
+22,Govt .Girls Middle School- Railways (Ist Portion),30.30818175,71.93156469,Male,Punjab,3,0,1495,0
+23,Govt .Girls Middle School- Railways (2nd Portion),30.30818175,71.93159469,Female,Punjab,0,3,0,1297
+28,Govt . Vocational College Khanewal (Ist Portion),30.3082198,71.937676,Male,Punjab,2,0,627,0
+122,Govt Girls High School- 83-85/10-R (1st Portion),30.30879509,71.98888503,Female,Punjab,0,2,0,702
+123,Govt .Girls High  School- 83-85/10-R   (IInd Portion),30.30879509,71.98891503,Female,Punjab,0,2,0,761
+97,M.C. Pry School- 3/B Near Nizam Abad Puli  Khanewal,30.30931899,71.94426927,Combined,Punjab,1,1,418,366
+15,M.C Boys Middle School 6-B Railway Colony Khanewal,30.31132935,71.92733146,Male,Punjab,4,0,1855,0
+16,M.C.Boys Middle  6-B School-Railways Colony- Khanewal,30.31138903,71.92737586,Female,Punjab,0,4,0,1521
+4,M.C Primary School No-7 -B Old Khanewal.,30.31332593,71.92326742,Female,Punjab,0,2,0,967
+3,Govt . Comunity Model Girls Pry School (old) Khanewal,30.31465754,71.92570964,Female,Punjab,0,3,0,1225
+5,Govt. Community Model GP School (Old Khanewal)(II-Port),30.31467261,71.92571083,Combined,Punjab,2,2,737,651
+112,Govt Girls Community  Model   School-75-A/10-R Zahoor Abad  (Middle Portion),30.31528,71.95416,Combined,Punjab,1,1,391,347
+115,Govt Girls Community  Model   School-75-A/10-R Zahoor Abad  (Primary Portion),30.31528,71.95419,Combined,Punjab,2,2,810,641
+6,Govt.Girls English Model Middle School Old Khanewal.,30.31550774,71.91778832,Female,Punjab,0,2,0,806
+116,Govt English Medium Boys Primary School- 75-A/10-R Zahoor Abad,30.31583,71.95889,Combined,Punjab,2,2,942,708
+128,Govt .Boys High School- 81-82/10-R (Ist Portion),30.31818572,72.03215171,Male,Punjab,4,0,1520,0
+129,Govt .Boys High School- 81-82/10-R (2nd Portion),30.31818572,72.03218171,Female,Punjab,0,3,0,1192
+140,Govt. Girls Middle School Dinaywala Khanewal kohna (1st Portion),30.33388074,71.89705042,Combined,Punjab,1,1,464,339
+141,Govt. Girls Middle School Dinaywala Khanewal kohna(2nd Portion),30.33388074,71.89708042,Combined,Punjab,2,2,745,580
+177,Govt .Girls Middle School- Jamisabad,30.34331715,71.85528567,Combined,Punjab,1,1,471,366
+178,Govt .Girls Middle School- Jamisabad,30.34331715,71.85531567,Combined,Punjab,1,1,545,357
+174,Govt .High School- Jamisabad  (Ist Portion),30.34381408,71.85529329,Combined,Punjab,2,2,764,590
+175,Govt .High School- Jamisabad  (II Portion),30.34382434,71.8553202,Combined,Punjab,2,1,479,364
+176,Govt .Boys Middle School- Jamisabad  (2nd  Portion),30.34382434,71.8553502,Combined,Punjab,2,1,570,463

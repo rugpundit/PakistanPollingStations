@@ -1,0 +1,33 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+33,Govt:Boys P/S Lallain(comb),25.99591,63.06221,Combined,Balochistan,2,2,659,521
+40,Govt:Boys M/School Shey Kahn(comb),25.99976,63.03905,Combined,Balochistan,2,1,678,490
+41,Govt:Boys P/S Godi(comb),26.03749,62.4734,Combined,Balochistan,1,1,291,233
+42,Govt:Boys M/S Solband(comb),26.0551,62.80759,Combined,Balochistan,2,2,723,565
+38,Govt:Boys High School Nodiz(Male),26.06248,62.77235,Male,Balochistan,3,0,1235,0
+34,Govt:Boys H/S Nasirabad(High Section for Male),26.07291,62.71751,Male,Balochistan,4,0,1411,0
+32,Govt:Boys M/S Hothabad(comb),26.07421,62.64602,Combined,Balochistan,2,2,903,702
+30,Govt:Boys H/S Khairabad (High Section for Male),26.07426,62.6457,Male,Balochistan,3,0,1180,0
+36,Govt:Girls H/S Nasirabad(Middle Section for Female),26.07488,62.71809,Female,Balochistan,0,2,0,773
+12,Govy:Boys M/School Meerabad(comb),26.08269,62.61148,Combined,Balochistan,1,1,424,340
+28,Govt:Boys H/School Asia abad/Koor Joe(comb),26.08579,62.47927,Combined,Balochistan,2,2,891,655
+26,Govt:Boys P/School Kallag Ghulam Mohammad Bazar (comb),26.08867,62.5792,Combined,Balochistan,1,1,265,258
+25,Govt:Boys P/School Wakaai(comb),26.08964,62.58762,Combined,Balochistan,1,1,264,188
+11,Govt:Boys P/School Srinkin(comb),26.08999,62.58758,Combined,Balochistan,2,2,705,516
+17,Govt:Boys H/School Nazarabad Nokabad(High Section for Male),26.09564,62.44953,Male,Balochistan,4,0,1449,0
+16,Govt:Boys P/School Aazian(comb),26.09597,62.25617,Combined,Balochistan,1,1,125,66
+19,GGMIDS NAZAR ABAD,26.09698,62.45111,Female,Balochistan,0,3,0,1234
+29,Govt:Boys P/School Malikabad(comb),26.09772,62.43993,Combined,Balochistan,2,2,868,545
+13,Govt:Boys High School Balicha(High Section for Male),26.10168,62.53015,Male,Balochistan,4,0,1244,0
+14,Govt:Girls Middle School Balicha,26.10239,62.52448,Female,Balochistan,0,3,0,941
+6,Govt:Boys M/School Roodbun/Balochabad Tump(comb),26.10591,62.4999,Combined,Balochistan,2,2,643,416
+1,Govt:Boys P/School Dazin(comb),26.10798,62.33981,Combined,Balochistan,2,2,706,493
+2,Govt:Boys M/School Konshkalat(comb),26.10882,62.41356,Combined,Balochistan,1,1,377,203
+27,Govt:Boys M/School Kohad(comb),26.12637,62.43337,Combined,Balochistan,1,1,296,190
+21,Govt:Girls cm P/School Abdui(comb),26.12655,62.43339,Combined,Balochistan,2,1,512,343
+15,Govt:Boys H/School Pull abad(comb),26.12714,62.38881,Combined,Balochistan,2,2,794,631
+22,Govt;Girls P/S Kasano(comb),26.12832,62.3808,Combined,Balochistan,1,1,310,225
+7,Govt;Boys H/School Ghomazi(High Section for Male-I),26.13242,62.29413,Male,Balochistan,3,0,855,0
+10,Govt:Boys P/School Cheeri Shankin(comb),26.13255,62.28421,Combined,Balochistan,1,1,194,148
+9,Govt:Girls H/School Ghomazi(For Female-I),26.13311,62.30126,Female,Balochistan,0,4,0,1556
+23,Govt:Boys P/School Malaant (comb),26.13364,62.33879,Combined,Balochistan,2,2,826,594
+20,Govt:Boys H/School Aspi Kahn(comb),26.22785,62.20705,Combined,Balochistan,1,1,436,316

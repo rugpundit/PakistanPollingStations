@@ -1,0 +1,158 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+72,Govt. Boys P/S Qilla Qamar Singh (Combined),31.29782,73.89496,Combined,Punjab,2,2,985,678
+74,Govt. Boys P/S Qilla Koerka (Khai Now) (Fmale),31.31488,73.92108,Female,Punjab,0,2,0,786
+73,Govt. Boys P/S Qilla Koerka (Khai Now) (Male),31.31489,73.92106,Male,Punjab,2,0,1224,0
+36,Govt: P/S  Budhay (Male),31.31513,73.65762,Male,Punjab,2,0,1440,0
+37,Govt: P/S  Budhay (Female),31.31513,73.65765,Female,Punjab,0,2,0,1015
+33,Govt; P/S Attari Chakkar. (Combined),31.31568,73.66592,Combined,Punjab,1,1,523,462
+46,Govt. Girls E/S Naran Wala (Combined),31.31636,73.72518,Combined,Punjab,1,1,530,456
+45,Govt. Boys P/S Karch Pur Khayare (Combined),31.32145,73.77445,Combined,Punjab,1,1,437,373
+57,Govt. Boys E/S Nabi Pur Pirran (Male),31.32158,73.77813,Male,Punjab,2,0,1354,0
+16,Govt; H/S Bandayke Jagir. (Combined),31.33165,73.71127,Combined,Punjab,2,1,714,543
+62,Govt: E/S  Kot Namdar. (Combined),31.33421,73.72713,Combined,Punjab,2,1,730,577
+68,Govt. Girls P/S Saleem Pur Pacca (Combined),31.33894,73.83793,Combined,Punjab,2,1,627,399
+61,Govt: P/S Pindi Piran (Combined),31.33913,73.68456,Combined,Punjab,1,1,495,366
+40,Govt. G/P/S Thatta Surtan (Combined),31.34216,73.66777,Combined,Punjab,1,1,568,338
+67,Govt. Girls P/S Noor Mandi (Combined),31.34321,73.82856,Combined,Punjab,2,1,614,457
+103,Govt. Boys P/S Bhochoke Par (Combined),31.34384,73.96233,Combined,Punjab,2,1,709,396
+101,Govt. Girls P/S Bhochoke Par  (Male),31.34401,73.96641,Male,Punjab,3,0,1576,0
+102,Govt. Girls P/S Bhochoke Par  (Female),31.34401,73.96644,Female,Punjab,0,2,0,1051
+54,Govt. Boys P/S Pippal Wala (Combined),31.34482,73.7259,Combined,Punjab,1,1,542,447
+110,Govt. Boys H/S Bahari Pur (Combined),31.34669,73.9315,Combined,Punjab,2,1,683,509
+66,Govt. Girls P/S Adda Mangtan Wala (Combined),31.34985,73.83697,Combined,Punjab,2,1,667,452
+41,Govt. Girls P/S Murtaza (Combined),31.35324,73.82438,Combined,Punjab,2,1,603,447
+42,Govt. Girls P/S Murtaza (Combined),31.35324,73.82441,Combined,Punjab,2,2,955,622
+60,Govt: P/S Dhari Bhattian (Combined),31.35438,73.75503,Combined,Punjab,2,1,727,586
+151,Govt. Girls P/S Chak No.1 U.C.C (Combined),31.3552,73.89622,Combined,Punjab,1,1,724,444
+38,Govt: E/S Barkhurdar. (Combined),31.35687,73.68817,Combined,Punjab,2,1,848,582
+39,Govt: E/S Barkhurdar. (Combined),31.35703,73.68849,Combined,Punjab,2,2,838,708
+65,Govt. Girls M/S Mangtan Wala (Combined),31.35846,73.84834,Combined,Punjab,2,1,736,531
+43,Govt. Boys P/S Chookhian Wala  (Male),31.36038,73.81979,Male,Punjab,2,0,1273,0
+44,Govt. Boys P/S Chookhian Wala  (Female),31.36038,73.81982,Female,Punjab,0,2,0,967
+55,Govt. Boys P/S Kot Moladad(Bulaqui) (Combined),31.36387,73.8634,Combined,Punjab,2,1,765,494
+109,Govt. G/ P/S Qilla Mian Singh (Combined),31.36592,73.92382,Combined,Punjab,2,1,648,394
+105,Govt. Boys P/S Alo ke Thakar (Combined),31.36709,74.0009,Combined,Punjab,2,2,952,641
+150,Govt. Girls P/S Malik Pur (Combined),31.36979,73.88513,Combined,Punjab,2,1,769,553
+108,Govt. Girls E/S Mithra Pur (Combined),31.37248,73.9777,Combined,Punjab,2,2,966,626
+154,Govt. Boys P/S Jamal Pur  (Male),31.37329,73.91453,Male,Punjab,2,0,1105,0
+155,Govt. Boys P/S Jamal Pur  (Female),31.37329,73.91455,Female,Punjab,0,1,0,762
+64,Govt. Boys M/S Mangtan Wala (Combined),31.37446,73.8429,Combined,Punjab,2,2,947,681
+152,Govt. Boys E/S Tavri Allah Yar  (Male),31.37646,73.90421,Male,Punjab,2,0,1067,0
+63,Govt. Boys P/S Gangi Peeran (Combined),31.37655,73.7258,Combined,Punjab,1,1,425,296
+157,Govt. Girls P/S Dulchi Wala (Combined),31.37697,73.85874,Combined,Punjab,1,1,692,506
+156,Govt. Boys P/S Khappar Key (Combined),31.3772,73.93221,Combined,Punjab,1,1,447,278
+71,Govt. Boys P/S Tavri Qasim (Combined),31.37789,73.88365,Combined,Punjab,2,1,709,532
+111,Govt. Girls M/S Chak No. 3 UCC (Male),31.37799,73.91376,Male,Punjab,3,0,1217,0
+112,Govt. Girls M/S Chak No. 3 UCC  (Female),31.37799,73.91379,Female,Punjab,0,2,0,839
+153,Govt. Boys E/S Tavri Allah Yar  (Female),31.37799,73.91382,Female,Punjab,0,1,0,827
+34,Govt:P/S Mundiala. (Combined),31.38286,73.6648,Combined,Punjab,2,1,618,459
+107,Govt. Girls P/S Rossay (Combined),31.38425,74.00635,Combined,Punjab,2,2,808,611
+106,Govt. Boys P/S Rossay (Combined),31.38431,74.00807,Combined,Punjab,2,2,1018,672
+87,Govt. Boys P/S Chachke Gill (Combined),31.38649,73.93288,Combined,Punjab,2,1,746,501
+17,Govt. Boys H/S Kot Hussain Khan (Combined),31.38885,73.672,Combined,Punjab,1,1,498,375
+35,Govt: P/S Chak No. 641/G B (Combined),31.3905,73.6758,Combined,Punjab,2,1,602,420
+100,Govt. Boys P/S Madho Das (Combined),31.39206,73.96339,Combined,Punjab,2,2,844,597
+51,Govt. Boys H/S Khiarey Kalan (Male),31.39592,73.77618,Male,Punjab,2,0,996,0
+52,Govt. Boys H/S Khiarey Kalan (Female),31.39592,73.77621,Female,Punjab,0,2,0,847
+53,Govt. Boys H/S Khiarey Kalan (Combined),31.39592,73.77624,Combined,Punjab,2,2,933,937
+69,Govt. Boys P/S Dodhey  (Male),31.39708,73.86745,Male,Punjab,2,0,1060,0
+58,Govt. Boys E/S Nabi Pur Pirran (Female),31.39967,73.73642,Female,Punjab,0,2,0,913
+59,Govt. Boys E/S Nabi Pur Pirran (Combined),31.39967,73.73645,Combined,Punjab,2,1,926,547
+90,Govt. Girls P/S Mughalan Wala (Combined),31.40076,73.96511,Combined,Punjab,2,1,830,601
+96,Govt. P/S Thatha Nazrian (Male),31.40137,73.99127,Male,Punjab,2,0,1101,0
+97,Govt. P/S Thatha Nazrian (Female),31.40137,73.9913,Female,Punjab,0,2,0,675
+15,Govt. Boys P/S Khair Pur (Combined),31.40243,73.68581,Combined,Punjab,1,1,647,438
+18,Govt Boys P/S Mir Pur Bhattian (Combined),31.40243,73.68584,Combined,Punjab,1,1,518,459
+19,Govt. Girls P/S Chah Pacca (Male),31.40243,73.68587,Male,Punjab,2,0,1110,0
+20,Govt. Girls P/S Chah Pacca (Female),31.40243,73.6859,Female,Punjab,0,2,0,873
+89,Govt. Girls P/S Munian Wala  (Female),31.40278,73.94228,Female,Punjab,0,2,0,829
+104,Govt. Boys P/S Kot Naubahar (Combined),31.40296,73.95203,Combined,Punjab,2,2,881,661
+98,Govt. Girls P/S Jawahar Pur (Male),31.40366,73.99612,Male,Punjab,2,0,1073,0
+99,Govt. Girls P/S Jawahar Pur (Female),31.40366,73.99615,Female,Punjab,0,2,0,782
+88,Govt. Model (Girls) P/S Munian Wala  (Male),31.40379,73.9444,Male,Punjab,2,0,1191,0
+49,Govt.Girls P/S Kali Bheir (Combined),31.40542,73.74831,Combined,Punjab,1,1,560,414
+70,Govt Girls P/S Dodhey  (Female),31.40614,73.8588,Female,Punjab,0,2,0,721
+32,Govt. B/P/S Fatta Thatha (Combined),31.40775,73.76157,Combined,Punjab,1,1,397,359
+75,G.H.S Mandi Faiz Abad  (Male),31.412,73.98367,Male,Punjab,2,0,1295,0
+76,G.H.S Mandi Faiz Abad  (Female),31.412,73.9837,Female,Punjab,0,2,0,852
+77,G.H.S Mandi Faiz Abad  (Male),31.412,73.98373,Male,Punjab,2,0,1098,0
+78,G.H.S Mandi Faiz Abad  (Female),31.412,73.98376,Female,Punjab,0,2,0,885
+79,G.H.S Mandi Faiz Abad  (male),31.412,73.98379,Male,Punjab,2,0,1058,0
+80,G.H.S Mandi Faiz Abad  (Female),31.412,73.98382,Female,Punjab,0,2,0,737
+48,Govt.Boys P/S Kawan Wali (Combined),31.41218,73.78718,Combined,Punjab,1,1,505,414
+56,Govt. Boys P/S Chaura Langer (Combined),31.41454,73.8444,Combined,Punjab,2,1,892,613
+81,G.H.S Rehan wala (Combined),31.41728,73.98178,Combined,Punjab,1,1,557,365
+82,G.H.S Rehan wala (Combined),31.41728,73.98181,Combined,Punjab,2,1,618,495
+83,G.H.S Rehan wala (Combined),31.41728,73.98184,Combined,Punjab,2,2,931,709
+84,G.H.S Rehan wala  (Male),31.41728,73.98187,Male,Punjab,2,0,1115,0
+85,G.H.S Rehan wala  (Female),31.41728,73.9819,Female,Punjab,0,2,0,720
+50,Govt. Boys H/S Piddi Pur (Combined),31.42796,73.76749,Combined,Punjab,2,1,765,635
+92,Govt. Boys P/S Sheikh Da Kot (Female),31.42998,73.97805,Female,Punjab,0,2,0,706
+93,Govt. Boys P/S Mirza Pur (Combined),31.43033,74.00657,Combined,Punjab,2,1,695,438
+94,Govt. Boys P/S Mirza Pur (Combined),31.43033,74.0066,Combined,Punjab,2,2,920,619
+113,Govt. Boys P/S Tarkhan Wala (Combined),31.43247,73.93173,Combined,Punjab,1,1,476,261
+95,G.G.E/S Mirza Pur (Combined),31.43278,74.02139,Combined,Punjab,2,1,818,508
+2,Govt. Girls P/S Kot Lehna Das (Male),31.43736,73.72594,Male,Punjab,3,0,1404,0
+1,Govt. Boys P/S Kot Lehna Das (Combined),31.43838,73.72091,Combined,Punjab,2,1,647,483
+13,Govt. Boys P/S Shihidi Kot (Combined),31.44292,73.67996,Combined,Punjab,2,1,761,587
+3,Govt. Girls P/S Kot Lehna Das (Female),31.44342,73.71781,Female,Punjab,0,2,0,988
+12,Govt. Boys P/S Kot Ghulam Rasool (Combined),31.44412,73.6954,Combined,Punjab,2,1,747,577
+11,Govt. Girls P/S Kot Sadho Ram (Combined),31.44486,73.68618,Combined,Punjab,2,2,893,620
+14,Govt. Boys P/S Kot Boota Singh (Combined),31.44488,73.71303,Combined,Punjab,2,1,809,625
+136,Govt. Boys Degree College Nankana Sahib (Male),31.44584,73.69872,Male,Punjab,3,0,1416,0
+137,Govt. Boys Degree College Nankana Sahib (Female),31.44584,73.69875,Female,Punjab,0,2,0,1163
+130,Govt. Degree Collge Women Nankana Sahib ( Old Block ) (Combined),31.44609,73.70388,Combined,Punjab,2,2,856,708
+134,Govt. Degree College Women Nankana Sahib (B.Sc Block) (Male),31.44609,73.70391,Male,Punjab,3,0,1802,0
+135,Govt. Degree College Women Nankana Sahib (NLC Block) (Female),31.44609,73.70394,Female,Punjab,0,3,0,1441
+132,Govt. Girls Fatima H/S Bachiana Road Nankana Sahib (Female),31.44616,73.6901,Female,Punjab,0,2,0,940
+133,Govt. Girls Fatima H/S Bachiana Road Nankana Sahib (Combined),31.44616,73.69013,Combined,Punjab,2,2,859,759
+146,Vocational Training Institute Nankana Sahib (Male),31.4464,73.70604,Male,Punjab,3,0,1626,0
+131,Govt. Girls Fatima H/S Bachiana Road Nankana Sahib (Male),31.44671,73.69244,Male,Punjab,2,0,1236,0
+129,Govt. G/M/C H/S Nankana Sahib (Allama Iqbal) (Female),31.44676,73.7039,Female,Punjab,0,2,0,1046
+86,G.G.P/S Nazir Pacca (Combined),31.447,73.95458,Combined,Punjab,2,1,698,437
+128,Govt. G/M/C H/S Nankana Sahib (Quaid-e-Azam) (Male),31.44716,73.70407,Male,Punjab,2,0,1324,0
+147,Vocational Training Institute Nankana Sahib (Female),31.44721,73.70155,Female,Punjab,0,3,0,1391
+118,Govt. Girls M.C H/S Nankana Sahib (Female),31.44735,73.7044,Female,Punjab,0,2,0,1128
+125,Govt. Girls P/S No.2 Nankana Sahib (Combined),31.44817,73.70357,Combined,Punjab,2,2,776,645
+47,Govt. Boys P/S (Sharqi) Abbian Wala (Combined),31.44853,73.70641,Combined,Punjab,2,2,873,691
+117,Govt. Boys H/S MC Nankana Sahib (Male),31.44874,73.7055,Male,Punjab,2,0,1353,0
+139,District Public School Nankana Sahib (Female),31.44881,73.70338,Female,Punjab,0,2,0,1021
+138,District Public School Nankana Sahib (Male),31.44882,73.70338,Male,Punjab,2,0,1201,0
+115,Govt. Boys H/S MC Nankana Sahib (Male),31.44962,73.70382,Male,Punjab,3,0,1758,0
+116,Govt. Boys P/S No. 1 MC Nankana Sahib (Female),31.45005,73.70504,Female,Punjab,0,3,0,1535
+121,Office Town Committee Nankana Sahib (Male),31.45035,73.70963,Male,Punjab,2,0,995,0
+122,Office Town Committee Nankana Sahib (Female),31.45053,73.70969,Female,Punjab,0,2,0,913
+124,Office Markit Committee Nankana Sahib (Female),31.45053,73.70972,Female,Punjab,0,2,0,1213
+119,Govt. Girls P/S MC No. 1 (Male),31.45076,73.70815,Male,Punjab,2,0,1359,0
+120,Govt. Girls P/S MC No. 1 (Female),31.45076,73.70818,Female,Punjab,0,2,0,1241
+149,Govt. Girls P/S Canada Colony (Female),31.45328,73.70016,Female,Punjab,0,2,0,934
+123,Govt. M.C P/S No.5 Anda Talab (Male),31.45411,73.70997,Male,Punjab,2,0,1442,0
+127,Govt. Boys M.C P/S No. 5 Nankana Sahib (Female),31.45411,73.71,Female,Punjab,0,2,0,967
+145,Govt. Boys E/S Canada Colony (Combined),31.45436,73.70309,Combined,Punjab,2,1,683,537
+148,Govt. Boys E/S Canada Colony (Male),31.45436,73.70312,Male,Punjab,2,0,1241,0
+10,Govt. Boys P/S Dhoor Kot (Combined),31.45488,73.69646,Combined,Punjab,2,2,853,607
+114,Govt. P/S Peer Kot (Combined),31.45572,73.92782,Combined,Punjab,1,1,300,253
+140,Govt. Boys P/S Shadbagh Colony (Male),31.45706,73.70788,Male,Punjab,2,0,1316,0
+141,Govt. Girls P/S Shadbagh Colony (Female),31.45706,73.70791,Female,Punjab,0,2,0,1110
+91,Govt. Boys P/S Sheikh Da Kot (Male),31.45791,73.97462,Male,Punjab,2,0,1093,0
+126,Govt. Boys P/S Ghoasia Colony (Male),31.45838,73.72176,Male,Punjab,2,0,1206,0
+26,Govt. Boys P/S Wara Anian (Combined),31.46017,73.70249,Combined,Punjab,1,1,541,378
+31,Govt. P/S Jani Wala (Combined),31.46022,73.77142,Combined,Punjab,2,2,920,727
+142,Govt. Girls P/S Shadbagh Colony (Combined),31.46187,73.71156,Combined,Punjab,2,1,799,608
+143,Govt. Girls P/S Shadbagh Colony Nankana Sahib (Male),31.46187,73.71159,Male,Punjab,2,0,1027,0
+144,Govt. Girls P/S Shadbagh Colony Nankana Sahib (Female),31.46187,73.71162,Female,Punjab,0,2,0,798
+8,Govt. Model P/S Nali Wala (Male),31.46187,73.71165,Male,Punjab,2,0,1012,0
+9,Govt.Model P/S Nali Wala (Female),31.46187,73.71168,Female,Punjab,0,2,0,772
+21,Govt. Boys E/S  Parey Wali (Combined),31.46344,73.67097,Combined,Punjab,2,1,791,668
+30,Govt. P/S Ladoana (Combined),31.46914,73.75956,Combined,Punjab,2,1,606,555
+4,Govt. Girls P/S (community) Darya (Male),31.47334,73.72949,Male,Punjab,2,0,1137,0
+5,Govt. Girls P/S (community) Darya (Female),31.47399,73.72998,Female,Punjab,0,2,0,850
+22,Govt. G/P/S Parey wali (Combined),31.47438,73.64021,Combined,Punjab,2,1,671,581
+29,Govt. E/S Khaddan Wala (Combined),31.47919,73.7702,Combined,Punjab,2,1,610,535
+7,Govt. Boys P/S Dhere Da Wara,31.48885,73.71064,Combined,Punjab,1,1,493,371
+27,Govt. Girls E/S Bhago Wali (Combined),31.49255,73.7033,Combined,Punjab,1,1,357,262
+25,Govt. Girls E/S Kot Jahana Noul (Combined),31.49259,73.68073,Combined,Punjab,1,1,395,294
+28,Govt. Boys P/S Wara Narain Singh (Combined),31.49368,73.68851,Combined,Punjab,1,1,245,238
+24,Govt. Boys P/S Thatha Nolan (Combined),31.49459,73.70206,Combined,Punjab,2,1,529,498
+23,Govt. Boys P/S Darbar Kot (Combined),31.5697,73.4835,Combined,Punjab,1,1,554,407
+6,Govt. Boys P/S Khape Wali (Combined),31.5708,73.4814,Combined,Punjab,2,1,567,479

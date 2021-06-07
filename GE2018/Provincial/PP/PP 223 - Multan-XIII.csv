@@ -1,0 +1,4 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+52,Government Boys Primary School- Goaj,29.45111,71.23083,Combined,Punjab,2,1,704,564
+58,Government Model Primary School- Basti Sawa,29.4775,71.30334,Combined,Punjab,1,1,575,473
+5,Government Girls Primary School- Atta Noor,29.51944,71.22222,Female,Punjab,0,2,0,1108

@@ -1,0 +1,116 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+20,GPS Khair Muhammad,26.95671,68.55293,Combined,Sindh,2,1,632,491
+22,GMS Sarai Wahid Bakhsh,26.97435,68.59332,Combined,Sindh,2,1,681,516
+114,GPS Patasho Shar (Male),26.97623,68.92923,Male,Sindh,4,0,2259,0
+115,GPS Patasho Shar (Female),26.97623,68.92926,Female,Sindh,0,4,0,1862
+104,GPS Adana,26.97805,69.12932,Combined,Sindh,2,2,662,470
+19,GPS Sutiyaro,26.98635,68.55912,Combined,Sindh,1,1,568,455
+15,GPS Mehmood Rajper,26.98728,68.61591,Combined,Sindh,2,2,792,607
+112,GPS Mitho Mino (Male),26.98969,68.92294,Male,Sindh,3,0,1219,0
+113,GPS Mitho Mino (Female),26.98969,68.92297,Female,Sindh,0,2,0,915
+21,GPS Ali Muhammad,26.99944,68.55264,Combined,Sindh,2,2,828,662
+16,GHS Tarko,27.02432,68.58234,Combined,Sindh,2,2,945,742
+18,UC Office Tarko,27.02487,68.58233,Combined,Sindh,2,2,828,737
+17,GPS Tarko,27.02543,68.5813,Combined,Sindh,2,2,780,720
+13,GPS Gulsher Mandan (Male),27.03468,68.61895,Male,Sindh,2,0,1020,0
+54,GPS Qadir Bakhsh Soomro,27.03633,68.52159,Combined,Sindh,2,1,539,480
+14,GMS Mandan (Female),27.03662,68.61901,Female,Sindh,0,2,0,876
+98,Irrigation Rest House Dadu (Male),27.03765,68.97302,Male,Sindh,4,0,1618,0
+99,Irrigation Rest House Dadu (Female),27.03765,68.97305,Female,Sindh,0,3,0,1312
+87,GPS Mevo Mangrio,27.03783,68.479,Combined,Sindh,2,2,877,734
+10,GMS Mulan Banbhan,27.04378,68.58925,Combined,Sindh,2,2,797,612
+23,GMS Seri,27.04517,68.5487,Combined,Sindh,2,1,685,550
+9,GPS Photo Khan Dasti,27.04526,68.64794,Combined,Sindh,2,2,774,545
+55,GPS Qadir Dino Shar,27.04548,68.50681,Combined,Sindh,1,1,429,359
+24,GPS Seri,27.04553,68.54625,Combined,Sindh,2,2,821,657
+86,GPS Allah Dino Amor,27.04869,68.493,Combined,Sindh,2,2,921,783
+11,GPS Rab Nawaz,27.05001,68.59473,Combined,Sindh,2,2,966,724
+88,GPS Faiz Muhammad Mojai,27.05232,68.46143,Combined,Sindh,2,2,794,613
+53,GPS Habib Phull,27.05537,68.50474,Combined,Sindh,2,2,792,652
+12,GPS Malook Shar,27.05776,68.62473,Combined,Sindh,2,2,810,696
+7,GPS Dedhano (Male),27.05892,68.64153,Male,Sindh,2,0,965,0
+8,GGPS Dedhano (Female),27.05934,68.64191,Female,Sindh,0,2,0,847
+103,GPS Noor Mustaffa Shah,27.06694,69.04453,Combined,Sindh,2,2,860,593
+3,UC Office Thari Mirwah (Male),27.06834,68.61362,Male,Sindh,4,0,1512,0
+4,GPS Girls Thari Mirwah (Female),27.06847,68.61389,Female,Sindh,0,4,0,1257
+5,GBPS Khabar Jogi (Male),27.07325,68.60506,Male,Sindh,3,0,1219,0
+1,GHS Thari Mirwah (Male),27.07327,68.61301,Male,Sindh,4,0,1322,0
+2,GHS Thari Mirwah (Female),27.07328,68.61302,Female,Sindh,0,3,0,1093
+6,GGPS Khabar Jogi (Female),27.07393,68.60537,Female,Sindh,0,2,0,978
+69,GMS Hussain Bakhsh Dasti,27.0763,68.64307,Female,Sindh,0,2,0,802
+51,GPS Khushi Muhammad Arain,27.07675,68.51427,Combined,Sindh,1,1,561,426
+68,GPS Hussain Bakhsh Dasti,27.07685,68.63499,Male,Sindh,3,0,972,0
+52,GPS Nawab Khan Rind,27.07801,68.53223,Combined,Sindh,1,1,566,419
+85,BHU Tando Mir Ali (Female),27.08656,68.49456,Female,Sindh,0,3,0,1168
+82,GHS Tando Mir Ali (Male),27.08669,68.49357,Male,Sindh,4,0,1772,0
+83,GHS Tando Mir Ali (Female),27.0867,68.49357,Female,Sindh,0,4,0,1352
+84,GPS Tando Mir Ali (Male),27.08714,68.49413,Male,Sindh,4,0,1448,0
+70,GMS Hekal (Male),27.08893,68.65579,Combined,Sindh,2,1,747,607
+79,GMS Hindyari (Male),27.09214,68.59007,Male,Sindh,4,0,1408,0
+80,GMS Hindyari (Female),27.09214,68.5901,Female,Sindh,0,3,0,1206
+71,GMS Muhammad Ishaque,27.09227,68.63615,Combined,Sindh,1,1,454,364
+72,GMS Shah Muhammad Laghari,27.09317,68.62498,Combined,Sindh,2,1,633,506
+73,GMS Shah Muhammad Laghari,27.09317,68.62501,Combined,Sindh,2,1,618,450
+102,BHU Bachal Bhambhro (Female),27.09439,69.02673,Female,Sindh,0,4,0,1475
+100,GPS Bachal Bhambhro (Male),27.09477,69.02673,Male,Sindh,3,0,1091,0
+101,GPS Bachal Bhambhro (Male),27.09477,69.02676,Male,Sindh,2,0,740,0
+89,GPS Ahmed Ali Dhengo,27.09505,68.47522,Combined,Sindh,2,1,586,445
+81,BHU Hindyari,27.09594,68.58938,Combined,Sindh,2,2,776,714
+49,GPS Dato Dasti (Female),27.10257,68.55582,Female,Sindh,0,3,0,1163
+48,Community Model School Dato Dasti (Male),27.10416,68.55607,Male,Sindh,4,0,1413,0
+50,GMS Shahnawaz Shar,27.1049,68.57543,Combined,Sindh,2,1,563,466
+74,GHS Rasool Pur -I,27.11368,68.60744,Combined,Sindh,2,1,587,429
+75,GHS Rasool Pur-II (Male),27.11372,68.60741,Male,Sindh,4,0,1406,0
+76,GHS Rasool Pur-III (Female),27.11372,68.60744,Female,Sindh,0,3,0,1131
+77,GPS Jalaldin (Male),27.11697,68.57851,Male,Sindh,4,0,1606,0
+78,GGPS Jalaldin (Female),27.11705,68.57867,Female,Sindh,0,4,0,1254
+67,GPS Habibullah Shar,27.1186,68.64963,Combined,Sindh,2,2,853,680
+96,GHS Inayat Hussain Shah (Male),27.11936,68.95625,Male,Sindh,4,0,1705,0
+97,GHS Inayat Hussain Shah (Female),27.11936,68.95628,Female,Sindh,0,3,0,1300
+66,GHS Mangho Shar,27.12045,68.63326,Combined,Sindh,2,2,929,781
+56,GHS Mehar Veesar (Male),27.12263,68.54134,Male,Sindh,4,0,1658,0
+57,GPS Mehar Veesar (Female),27.12328,68.54185,Female,Sindh,0,4,0,1464
+64,GPS Wafa Nawaz Ali Shar,27.12565,68.63291,Combined,Sindh,2,1,640,491
+65,GPS Hashim Gopang,27.13596,68.64403,Combined,Sindh,2,1,776,610
+58,GMS Dubi,27.13814,68.66201,Combined,Sindh,2,2,794,683
+45,GPS Khariri (Female),27.14048,68.49936,Female,Sindh,0,2,0,827
+44,GPS Khariri (Male),27.14053,68.4994,Male,Sindh,3,0,1123,0
+46,GPS Piral Shar,27.14135,68.52128,Combined,Sindh,1,1,488,415
+63,GHS Usman Rind,27.14381,68.6461,Combined,Sindh,2,2,918,762
+30,GMS Bago Dhoro (Male),27.14713,68.56253,Male,Sindh,4,0,1407,0
+31,GGPS Muhammad Shareef Kubar (Female),27.15021,68.56412,Female,Sindh,0,3,0,1134
+28,GPS Raban Channa,27.15648,68.62173,Combined,Sindh,2,1,714,569
+47,GES Behram Chakrani,27.15681,68.53057,Combined,Sindh,2,1,781,575
+40,GGPS Gahi Chakrani,27.15762,68.52907,Combined,Sindh,2,2,736,698
+32,GHS Matt (Male),27.15939,68.60271,Male,Sindh,2,0,939,0
+33,GHS Matt (Female),27.15939,68.60274,Female,Sindh,0,2,0,815
+29,GMS Abdul Rahim Khaskhile,27.16002,68.61441,Combined,Sindh,1,1,506,400
+34,GPS Matt,27.16059,68.60284,Combined,Sindh,2,1,669,460
+95,GPS Choondiko (Female),27.16141,68.96207,Female,Sindh,0,2,0,987
+43,GPS Moosan Shah,27.16228,68.51485,Combined,Sindh,2,2,969,823
+60,GHS Mehrab Sodhro (Femele),27.16328,68.6666,Female,Sindh,0,4,0,1410
+59,GPS Mehrab Sodhro (Male),27.16341,68.66689,Male,Sindh,4,0,1565,0
+110,GPS Mithal Mari (Male),27.16452,69.02721,Male,Sindh,4,0,1349,0
+111,GPS Mithal Mari (Female),27.16452,69.02724,Female,Sindh,0,2,0,1028
+90,GHS Choondiko (Male),27.16516,68.95634,Male,Sindh,4,0,1792,0
+91,GHS Choondiko (Female),27.16516,68.95637,Female,Sindh,0,3,0,1387
+92,GHS Choondiko,27.16516,68.9564,Combined,Sindh,2,1,755,582
+93,GHS Choondiko (Male),27.16516,68.95643,Male,Sindh,2,0,965,0
+94,GHS Choondiko (Male),27.16516,68.95646,Male,Sindh,1,0,341,0
+62,GGPS Pir Bakhsh Keryo,27.16949,68.65763,Combined,Sindh,1,1,474,429
+61,GPS Rab Nawaz Siyal,27.1717,68.65643,Combined,Sindh,2,1,624,520
+36,GPS Dodo Khan,27.17319,68.59148,Combined,Sindh,2,1,694,457
+37,GPS Hassan Din Panjabi,27.17634,68.55529,Combined,Sindh,2,1,643,438
+27,GHS Bozdar,27.18114,68.63644,Combined,Sindh,2,1,729,612
+42,GPS Waryam Wandiar,27.18134,68.521,Combined,Sindh,2,2,896,728
+25,GDC Bozdar-I (Male),27.18134,68.63687,Male,Sindh,3,0,1230,0
+26,GDC Bozdar-II (Female),27.18134,68.6369,Female,Sindh,0,3,0,970
+41,GPS Pir Bakhsh Wandiar,27.18454,68.50979,Combined,Sindh,2,2,806,647
+107,GPS Sikandarabad (Male),27.19814,69.04247,Male,Sindh,3,0,1350,0
+108,GPS Sikandarabad (Female),27.19814,69.0425,Female,Sindh,0,3,0,1079
+35,BHU Kabir Siyal,27.20203,68.56436,Combined,Sindh,2,2,782,649
+38,GPS Ghulam Akbar Lund,27.20428,68.55206,Combined,Sindh,2,1,616,510
+109,GPS Fakeer Abab,27.20673,69.11753,Combined,Sindh,2,1,784,536
+105,GHS Pharhyaro (Male),27.20867,68.9878,Male,Sindh,4,0,1770,0
+106,GHS Pharhyaro (Female),27.20867,68.98783,Female,Sindh,0,4,0,1320
+39,GPS Sanjar Khan Lund,27.21528,68.53886,Combined,Sindh,2,2,793,676

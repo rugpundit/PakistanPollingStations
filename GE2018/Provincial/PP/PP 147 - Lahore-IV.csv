@@ -1,0 +1,49 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+74,Taj Education Centre- Pak Nager Akram Road- Lahore (Combined),31.56852,74.3036,Combined,Punjab,2,1,914,706
+4,Govt. High School For Boys- Chamra Mandi Lahore Permanent.  (Male),31.57889,74.34056,Male,Punjab,1,0,722,0
+1,Vaccination Centre- Hide Market- Lahore. (combined),31.58195,74.3375,Combined,Punjab,2,1,829,687
+59,Pak Model Girls High School  Main Bazar  Park- Sultan Pura- Lahore (Male),31.58363,74.34348,Male,Punjab,3,0,1652,0
+60,Pak Model Girls High School  Main Bazar  Park- Lahore- Sultan Pura (Female),31.58363,74.34351,Female,Punjab,0,2,0,1367
+61,Pak Model Girls High School  Main Bazar  Park- Sultan Pura- Lahore (Male),31.58363,74.34354,Male,Punjab,3,0,1433,0
+62,Pak Model Girls High School  Main Bazar  Park- Sultan Pura- Lahore (Female),31.58363,74.34357,Female,Punjab,0,2,0,1096
+55,City District Govt. Girls Middle School Chah Miran Sultan Pura- Lahore Permanent (Female),31.58364,74.34155,Female,Punjab,0,2,0,1239
+58,City District Govt. Girls Middle School Chah Miran Sultan Pura- Lahore Permanent (Female),31.58364,74.34158,Female,Punjab,0,2,0,850
+76,City District Govt. Girls Middle School- Chah Miran- Sultan Pura- Lahore Permanent. (Female),31.58364,74.34161,Female,Punjab,0,2,0,1144
+67,Pak Angel Girls School- 45- Panj Peer- Road- Lahore (Combined),31.58368,74.34341,Combined,Punjab,2,2,797,666
+81,The Grammar School System Abdullah Park Chahmiran (Male),31.58566,74.33864,Male,Punjab,2,0,1105,0
+82,The Grammar School System Abdullah Park Chahmiran (Female),31.58566,74.33867,Female,Punjab,0,2,0,840
+56,Islamic Model School- Ahata Danay Dar- Chah Miran- Lahore (Combined),31.58568,74.3386,Combined,Punjab,2,1,832,616
+2,LDA Wasa Office- Aziz Road- Chowk Nakhuda- Wasan Pura- Lahore Permanent. (Male),31.58694,74.33611,Male,Punjab,4,0,1203,0
+3,LDA Wasa Office- Aziz Road- Chowk Nakhuda- Wasan Pura- Lahore Permanent. (Female),31.58694,74.33614,Female,Punjab,0,2,0,1015
+157,Bismal Acdamic School & College Yasrab Colony Bhagat Pura Lahore () (Part-I) (Combined),31.5898,74.34373,Combined,Punjab,2,1,1067,770
+153,SAINT PAULS PARISH Girls High School Sher Shah Road Road- Shad Bagh- Lahore (Combined),31.59722,74.34834,Combined,Punjab,2,1,882,669
+160,Anwar Rehana Memorial Public School- Shehbaz Road (Combined),31.59774,74.35268,Combined,Punjab,2,2,1200,863
+154,Govt. Girls Primary School- Hammad Colony- Lahore (Combined),31.59789,74.34695,Combined,Punjab,1,1,169,189
+155,Govt. Girls Primary School- Hammad Colony- Lahore (Combined),31.59789,74.34698,Combined,Punjab,1,1,676,464
+159,Government Girls Primary School- Hamad Colony- Bahagatpura- Lahore. (Combined),31.59789,74.34701,Combined,Punjab,2,1,959,595
+176,Govt. Girls  Primary School- Hammad Colony- Lahore (Male),31.59789,74.34704,Male,Punjab,3,0,1264,0
+177,Govt. Girls Primary  School- Hammad Colony- Lahore (Female),31.59789,74.34707,Female,Punjab,0,2,0,1012
+137,Govt. Naveed Junior Model School Yasrab Colony- Bhagatpura- New Shad Bagh Bazar Lahore () (Part-I) (Combined),31.59804,74.35258,Combined,Punjab,2,2,1312,850
+158,Government Naveed Junior Model School- Yasrub Colony- Bahagatpura- Lahore. (Combined),31.59804,74.35261,Combined,Punjab,1,1,661,540
+163,NGS School and Academy System- Amir Road lahore (Combined),31.60101,74.35135,Combined,Punjab,1,1,509,455
+164,NGS School and Academy - Amir Road lahore (Combined),31.60101,74.35138,Combined,Punjab,2,2,1128,885
+165,NGS School and Academy - Amir Road lahore (Combined),31.60101,74.35141,Combined,Punjab,2,1,990,751
+167,The Knowledge Point high School  Kashmir Raod- Madina Chowk- Baghatpura- Lahore  () (Part-I) (Combined),31.60112,74.35117,Combined,Punjab,2,2,1113,830
+168,The Knowledge Point high School  Kashmir Raod- Madina Chowk- Baghatpura- Lahore  () (Part-I) (Combined),31.60112,74.3512,Combined,Punjab,2,1,798,579
+169,The Knowledge Point high School  Kashmir Raod- Madina Chowk- Baghatpura- Lahore  () (Part-I) (Combined),31.60112,74.35123,Combined,Punjab,2,1,1039,652
+138,Govt. High School (Boys)- Main Aamir Road- Shadbagh- Lahore () (Part-I) (Combined),31.60309,74.34196,Combined,Punjab,2,2,1304,1032
+139,Govt. High School (Boys)- Main Aamir Road- Shadbagh- Lahore () (Part-I) (Combined),31.60309,74.34199,Combined,Punjab,2,1,903,737
+140,Govt. High School (Boys)- Main Aamir Road- Shadbagh- Lahore () (Part-II) (Combined),31.60309,74.34202,Combined,Punjab,2,2,1100,839
+141,Govt. High School (Boys)- Main Amir Road- Shadbagh- Lahore () (Part-III) (Combined),31.60309,74.34205,Combined,Punjab,1,1,730,587
+146,Govt. High School (Boys)- Main Aamir Road- Shadbagh- Lahore () (Part-VI) (Combined),31.60309,74.34208,Combined,Punjab,1,1,337,295
+147,Govt. High School (Boys)- Main Aamir Road- Shadbagh- Lahore () (Part-VI) (Combined),31.60309,74.34211,Combined,Punjab,2,2,1188,873
+162,Govt. High School- Aamir Road- Shadbagh- Lahore ()(Part-X) (Combined),31.60309,74.34214,Combined,Punjab,2,1,890,785
+144,Islah-E-Moshra High School Shad Bagh (Combined),31.60328,74.33378,Combined,Punjab,1,1,778,505
+145,Islah-E-Moshra High School Shad Bagh (Combined),31.60328,74.33381,Combined,Punjab,1,1,823,586
+156,PGH School Bhagat Pura Lahore (Combined),31.60409,74.35014,Combined,Punjab,1,1,715,566
+148,I.S High School- 8 Afzal Town- Bhagat Pura. ()  (Part-II) (Combined),31.60418,74.35007,Combined,Punjab,2,1,971,745
+143,Millat Model School Iqbal Road Shadbagh (Combined),31.60458,74.33918,Combined,Punjab,1,1,768,643
+170,The Unique Kids Grammar School and Academy- Jugian Jodha- Ring Road- Shadbagh- Lahore (Combined),31.60492,74.34247,Combined,Punjab,1,1,689,501
+171,The Unique Kids Grammar School and Academy- Jugian Jodha- Ring Road- Shadbagh- Lahore (Combined),31.60492,74.3425,Combined,Punjab,1,1,567,371
+142,Ghazi Public School- Ghazi Park Amir Road- shadbagh- Lahore () (Part-I) (Combined),31.60609,74.34247,Combined,Punjab,2,1,861,745
+173,AKS(Al-Khalid Grammar School) System Swami Nagar Road Tazab Ahata (Combined),31.61851,74.34364,Combined,Punjab,1,1,733,530

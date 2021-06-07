@@ -1,0 +1,148 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+120,Government Model Primary School Chak No.197,31.43253,72.79713,Combined,Punjab,2,1,671,488
+119,Government Model Primary School Chak No.197 West,31.43365,72.79424,Combined,Punjab,1,1,561,474
+117,Government Model Primary School Chak No.198,31.43588,72.77319,Combined,Punjab,2,2,701,594
+118,Government Model Primary School Chak No.198 West,31.43602,72.77274,Combined,Punjab,1,1,528,433
+115,Government Model Primary School Chak No.204,31.45922,72.78889,Combined,Punjab,1,1,435,443
+116,Government Model Primary School Chak No.204,31.45922,72.78892,Combined,Punjab,2,2,667,566
+101,Government Boys Primary School Chak  206/JB (Est),31.46263,72.80625,Combined,Punjab,2,2,929,686
+100,Government Boys High School Chak 185/JB,31.46557,72.84214,Female,Punjab,0,2,0,914
+99,Government Boys High School Chak 185/JB,31.46557,72.84217,Male,Punjab,2,0,1116,0
+98,Government Boys Primary School Chak  184/JB Sial,31.47475,72.83338,Combined,Punjab,1,1,195,143
+97,Union Cuncil Office 184/JB Sial,31.47994,72.83112,Combined,Punjab,2,2,972,937
+96,Government Boys Primary School Chak 184/JB Janglu,31.48554,72.83911,Combined,Punjab,1,1,608,497
+107,Government Boys Primary School Chak 235/JB,31.48641,72.80306,Female,Punjab,0,3,0,925
+108,Government Modal Elementry School Chak  236/JB,31.48641,72.80309,Combined,Punjab,2,2,907,768
+95,Government Girls High School Chak 184/JB,31.48811,72.83707,Combined,Punjab,1,1,455,382
+106,Government Girls Primary School Chak 235/JB,31.50153,72.82268,Male,Punjab,2,0,1139,0
+110,Government Model Primary School Chak  237/JB Janobi Est,31.50168,72.79364,Combined,Punjab,1,1,549,464
+46,Government Model Primary School Chak 150/JB,31.50879,72.87134,Female,Punjab,0,3,0,1096
+45,Government Model Primary School Chak 150/JB,31.51097,72.87238,Male,Punjab,2,0,1218,0
+109,Government Boys High School Chak  237/JB Shumali,31.51136,72.77944,Combined,Punjab,2,2,783,675
+48,Government Girls C/M Chak 151/JB,31.51292,72.8519,Combined,Punjab,2,1,744,629
+47,Government Boys  Elementary School Chak 151/JB,31.51443,72.85629,Combined,Punjab,2,1,749,623
+105,Government Girls Elementary School Chak 234/JB,31.51538,72.81669,Combined,Punjab,2,2,760,663
+102,Government Middle School Chak 155/JB,31.528,72.81857,Combined,Punjab,1,1,470,416
+104,Government Model Primary School Chak 157/JB,31.52864,72.78327,Combined,Punjab,2,2,803,657
+68,Government Model Primary School Chak 149/JB,31.53178,72.8857,Female,Punjab,0,2,0,873
+67,Government Model Primary School Chak 149/JB,31.53207,72.88594,Male,Punjab,2,0,1017,0
+49,Government Boys High School Chak 152/JB,31.53285,72.86556,Male,Punjab,2,0,1107,0
+50,Government Girls High School Chak 152/JB,31.5334,72.86477,Female,Punjab,0,2,0,899
+64,Government Boys High School Chak 147/JB,31.5342,72.90644,Combined,Punjab,2,2,983,847
+114,Government Boys Primary School Chah Ahmed Saeed Wala,31.53622,72.74908,Combined,Punjab,1,1,650,511
+103,Government Model Primary School Chak 154/JB,31.54299,72.81428,Combined,Punjab,2,2,828,715
+66,Government Boys Primary School Chak 145/JB,31.54339,72.84498,Combined,Punjab,1,1,579,522
+54,Government Modal Primary School Chak 148/JB,31.54917,72.89761,Combined,Punjab,1,1,464,434
+112,Government Model Primary School Chak 156/JB Sahmal,31.55159,72.7881,Combined,Punjab,1,1,644,532
+63,Government Boys Primary School Chak 146/JB,31.5538,72.92863,Combined,Punjab,2,2,937,785
+122,Government Boys Primary School Khan da Kot,31.55387,72.75706,Combined,Punjab,2,2,1006,717
+65,Government Boys Primary School Chak 153/JB,31.55724,72.87542,Combined,Punjab,2,1,791,607
+113,Government Model Primary School Chak 158/JB,31.55877,72.71558,Combined,Punjab,1,1,613,505
+111,Government Model Primary School Chak 156/JB Khokhran,31.5607,72.79276,Combined,Punjab,1,1,499,473
+62,Government Boys Primary School Chak 135/JB,31.56158,72.95558,Combined,Punjab,1,1,443,397
+55,Government Boys Elementary School Chak 142/JB,31.56523,72.85166,Combined,Punjab,2,2,913,730
+130,Government Model School Thatha Rasaloo,31.56775,72.77345,Combined,Punjab,1,1,397,313
+61,Government Girls Primary School Chak 133/JB,31.56987,72.98656,Female,Punjab,0,3,0,934
+51,Government Boys Primary School Chak 137/JB,31.57202,72.90767,Combined,Punjab,2,2,780,692
+60,Government Boys Elementary School Chak 133/JB,31.57401,72.98077,Male,Punjab,2,0,1006,0
+31,Government Primary School Chak 143/JB,31.57962,72.85602,Combined,Punjab,2,1,786,453
+69,Government Boys Primary School Chak 141/JB,31.57987,72.88615,Combined,Punjab,1,1,560,504
+128,Government Girls Elementary School Adlana,31.58166,72.77766,Combined,Punjab,1,1,430,368
+129,Government Boys High School Adlana,31.58458,72.7876,Combined,Punjab,2,2,895,830
+121,Government Model Elementary School Thatha FATEH ALI,31.58463,72.72206,Combined,Punjab,2,2,813,584
+39,Government Boys Primary School Chak 134/JB,31.58703,72.97005,Combined,Punjab,2,1,787,679
+40,Government Girls High School Chak 134/JB,31.58833,72.9715,Combined,Punjab,1,1,368,285
+43,Government Elementary School Chak 131/JB Looney,31.58928,73.02497,Male,Punjab,3,0,1808,0
+44,Government Girls Primary School Chak 131/JB Looney,31.5899,73.02465,Female,Punjab,0,4,0,1584
+33,Girs Primary School Chak 144/JB Khokhran,31.59029,72.81384,Combined,Punjab,1,1,728,608
+27,Government Model School Pubber Wala,31.59097,72.95113,Combined,Punjab,2,1,781,633
+28,Government Modal School Pubber Wala,31.59129,72.95101,Combined,Punjab,2,2,860,720
+52,Government Model Primary School Chak 136/JB,31.59307,72.92483,Combined,Punjab,1,1,591,510
+32,Government Boys Primary School Chak 144/JB Nehray,31.59322,72.8382,Combined,Punjab,2,2,873,648
+137,Government Boys Primary School Dapherkey,31.5942,72.66084,Combined,Punjab,2,2,926,776
+36,Government Boys High School Chak 132/JB,31.59898,72.99294,Male,Punjab,2,0,1148,0
+37,Government Boys High School Chak 132/JB,31.59898,72.99297,Female,Punjab,0,3,0,1112
+38,Government Girls Elementary School Chak 132/JB,31.60008,72.99419,Combined,Punjab,1,1,286,253
+53,Government Boys High School Chak 138/JB,31.6001,72.90437,Combined,Punjab,2,2,963,784
+23,Government Boys Primary School Chak 127/JB,31.60125,73.05129,Combined,Punjab,2,1,755,519
+24,Government Girls Primary School Chak 127/JB,31.60152,73.05103,Combined,Punjab,1,1,531,454
+138,Government Model Primary School Taja Berwale,31.6018,72.66534,Combined,Punjab,1,1,277,216
+58,Government Boys Primary School Chak 140/JB,31.60273,72.87479,Male,Punjab,2,0,1116,0
+59,Government Girls Primary School Chak 140/JB,31.60287,72.87337,Female,Punjab,0,2,0,927
+132,Government Modal Primary School Darutta  Coloney,31.60516,72.78323,Combined,Punjab,1,1,428,297
+126,Government K A Islamia Degree College Jamia Muhammadi Sharif,31.60734,72.72731,Male,Punjab,3,0,1226,0
+127,Government K A Islamia Degree College Jamia Muhammadi Sharif,31.60734,72.72734,Female,Punjab,0,2,0,910
+56,Government Boys Elementary School Chak 139/JB,31.6075,72.88603,Combined,Punjab,2,2,1046,785
+57,Government Girls  Elementary School Chak 139/JB,31.60811,72.8844,Combined,Punjab,2,1,722,569
+42,Government Girls Elementary School Chak 128/JB,31.6122,73.02827,Combined,Punjab,1,1,533,380
+41,Government Boys High School Chak 128/JB,31.61301,73.03104,Combined,Punjab,2,2,938,826
+144,Government Model Primary School Hid,31.61306,72.81495,Combined,Punjab,2,2,913,694
+35,Government Girls Model Primary School Chak 130/JB,31.61345,73.00343,Combined,Punjab,1,1,569,449
+136,Government Girls Primary School Naushera,31.6147,72.66579,Combined,Punjab,1,1,486,408
+34,Government Model Primary School Chak 130/JB,31.61662,73.00185,Combined,Punjab,2,2,764,713
+139,Government Model Primary School Lodhran,31.61722,72.70249,Combined,Punjab,1,1,515,311
+131,Government Model School Darutta Khurlan,31.62025,72.76099,Combined,Punjab,2,2,1020,829
+135,Government Boys Primary School Naushera,31.62077,72.67152,Combined,Punjab,2,1,709,525
+142,Government Boys Primary School Sadiv,31.62255,72.83738,Combined,Punjab,2,2,1097,742
+26,Government Girls Modal Primary School Kot Ismail,31.62426,72.93904,Combined,Punjab,2,2,1003,725
+124,Government Girls Primary School Qila Kangran,31.63085,72.71297,Combined,Punjab,1,1,608,522
+145,Government Model Primary School Pathan Kot,31.63092,72.78695,Male,Punjab,2,0,1252,0
+146,Government Model Primary School Pathan Kot,31.63092,72.78698,Female,Punjab,0,2,0,985
+123,Government Girls Elementary School Muhammadi Sharif,31.63278,72.72687,Combined,Punjab,2,2,804,644
+125,Government Boys High School Muhammadi Sharif,31.63415,72.72262,Combined,Punjab,1,1,470,409
+25,Government Boys Primary School Chak 129/JB,31.63427,73.0394,Combined,Punjab,1,1,702,577
+15,Government Girls Primary School Abbas Pur Rajoa,31.63746,72.97587,Combined,Punjab,2,1,676,566
+143,Government Boys Primary School Jani Shah,31.63828,72.86513,Combined,Punjab,2,2,949,675
+11,Government Girls Modal Primary School Hussain Pur Rajoa,31.63983,72.97202,Combined,Punjab,1,1,393,377
+12,Government Boys High School Rajoa,31.64023,72.97334,Combined,Punjab,2,2,1133,961
+88,Government Elementary School Chak No. 126/JB,31.64142,73.06351,Combined,Punjab,1,1,444,353
+13,Government Boys Primary School  Rajoa,31.64149,72.97321,Combined,Punjab,2,2,954,905
+87,Government Elementary School Chak No. 126/JB,31.64209,73.06416,Combined,Punjab,2,2,823,664
+30,Government Boys Primary School Dolat Pur,31.64265,72.92918,Combined,Punjab,2,1,988,689
+141,Government Boys Elementary School Lodia,31.64478,72.80013,Combined,Punjab,1,1,589,441
+134,Government Model Primary School Thatha Qureshian (Bhular Key),31.64617,72.73475,Combined,Punjab,1,1,584,400
+18,Government Girls Modal Primary School Thatha Galotran  Iqbal Nagar,31.64621,73.00349,Combined,Punjab,1,1,474,358
+133,Government Model Primary School Sajan Kay,31.64719,72.74708,Combined,Punjab,1,1,406,317
+14,Government Girls Higer Secondary School  Rajoa,31.64755,72.97667,Combined,Punjab,2,2,705,643
+10,Government Boys Primary School Rajoa Sharqi,31.64767,72.97348,Combined,Punjab,2,2,1037,875
+89,Government Primary School School Chak No. 126/JB  Neko Kara,31.64897,73.07349,Combined,Punjab,2,2,724,622
+140,Government Boys Elementary School Harsa Bhulla,31.6498,72.82222,Combined,Punjab,1,1,578,484
+29,Government Boys Primary School Walah Rai  Kot Syed Jalal,31.65189,72.89017,Combined,Punjab,2,2,1109,826
+90,Government Modal Primary School School Chak No. 126/JB  Canada Coloney,31.65335,73.07159,Combined,Punjab,2,2,857,638
+147,Government Model Primary School Sahmal,31.65581,72.7777,Combined,Punjab,2,2,849,609
+22,Government Boys High School Chak 125/JB,31.65709,73.06322,Combined,Punjab,2,1,812,645
+20,Government Girls High School Chak 125/JB,31.65909,73.0607,Combined,Punjab,1,1,568,426
+21,Government Girls High School Chak 125/JB,31.65909,73.06073,Combined,Punjab,1,1,550,422
+1,Government Boys Primary School  Bukhariya,31.66031,72.85349,Male,Punjab,3,0,1258,0
+2,Government Boys Primary School  Bukhariya,31.66031,72.85352,Female,Punjab,0,2,0,908
+7,Government Boys Primary School Saeed Abad (Kot Lal),31.66383,72.93004,Combined,Punjab,2,1,644,481
+19,Government Model Primary School Chak Bandi,31.66459,73.01714,Combined,Punjab,1,1,623,507
+4,Government Boys High School Rasheedah,31.67089,72.89404,Combined,Punjab,1,1,402,379
+3,Government Boys Primary School Jasrat,31.67099,72.87408,Combined,Punjab,2,2,900,712
+94,Government Modal Primary School (Girls) Chak No. 101/JB,31.67173,73.07348,Female,Punjab,0,3,0,1222
+6,Government Girls Primary School Mathrooma,31.67379,72.90909,Female,Punjab,0,2,0,924
+93,Government Modal Primary School Chak No. 101/JB,31.67429,73.076,Male,Punjab,3,0,1702,0
+5,Government Boys Primary School Mathrooma,31.67705,72.90954,Male,Punjab,3,0,1156,0
+8,Government Girls Primary School Abu Saeed-  Chah Ansariyan Wala,31.68319,72.94079,Combined,Punjab,2,1,802,564
+9,Government Girls Modal Elementary School Mehta,31.68801,72.93358,Combined,Punjab,2,1,782,546
+92,Government Girls Primary School Chak No. 15/JB,31.68848,73.09666,Combined,Punjab,1,1,483,392
+16,Government Primary School Talib Wala,31.69296,73.01586,Male,Punjab,3,0,1286,0
+17,Government Girls Elementary School Talib Wala,31.69296,73.01589,Female,Punjab,0,2,0,1005
+82,Government Boys High School Ahmadabad,31.69427,73.06193,Combined,Punjab,1,1,601,499
+83,Government Boys High School Ahmadabad,31.69427,73.06196,Combined,Punjab,1,1,521,394
+91,Government Boys Elementary School School Chak No. 15/JB  Abbas Pura,31.69583,73.09261,Combined,Punjab,2,1,687,503
+85,Government Primary School Kot Haidar Shah,31.70079,73.09367,Combined,Punjab,1,1,304,194
+80,Government Girls Elementary School Chak 14/JB Kalru,31.71717,73.10432,Combined,Punjab,2,2,946,747
+78,Government Girls High School Chak 13/JB Sar Wala,31.72476,73.11214,Combined,Punjab,2,2,1068,906
+79,Government Girls Primary School Chak 14/JB Muradwala,31.72684,73.1064,Combined,Punjab,1,1,513,401
+77,Government Modal Primary School Chak 13/JB  Walanian Wala,31.72719,73.13218,Combined,Punjab,2,1,826,665
+84,Government Modal Primary School  Bhagar Galotran No. 2,31.73029,73.09081,Combined,Punjab,1,1,515,425
+86,Government Modal Primary School Kot Sarwar,31.73544,73.05772,Combined,Punjab,1,1,575,417
+76,Government Elementary School Chak 13/JB Noorka,31.73716,73.13602,Combined,Punjab,2,2,840,689
+71,Government Boys Modal Primary School Chak 12/JB  New Kamboka Abadi Slotrianwala,31.75394,73.1386,Combined,Punjab,2,2,909,760
+70,Government Modal Primary School Chak 12/JB Thatta Kharlan,31.76013,73.11451,Combined,Punjab,1,1,563,442
+74,Government Girls High School Chak 11/JB,31.77589,73.18128,Combined,Punjab,1,1,555,467
+75,Government Boys High School Chak 11/JB,31.77617,73.17916,Combined,Punjab,1,1,597,424
+81,Government Girls Primary School Chak 465/JB,31.77672,73.18449,Combined,Punjab,1,1,352,292
+72,Government Modal Elementary School Chak 10/JB Gujjar,31.79106,73.18559,Combined,Punjab,2,2,978,776
+73,Government Girls Elementary School Chak 10/JB Gujjar,31.79233,73.18696,Combined,Punjab,1,1,483,414

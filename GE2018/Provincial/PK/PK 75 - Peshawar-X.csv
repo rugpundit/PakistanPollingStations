@@ -1,0 +1,96 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+46,G. Shaheed Hamza Ali Kakar MS Swati Tanki/GPS (Male) PS-1,33.9767,71.53132,Male,KPK,4,0,1274,0
+47,G. Shaheed Hamza Ali Kakar MS Swati Tanki/GPS (Male) PS-2,33.9767,71.53135,Male,KPK,4,0,1609,0
+48,G. Shaheed Hamza Ali Kakar MS Swati Tanki/GPS (Male) PS-3,33.9767,71.53138,Male,KPK,4,0,1655,0
+52,GGPS- Umeed Abad No.2  (Female) PS,33.97681,71.53043,Female,KPK,0,4,0,1715
+51,GGMS- Swati Gate- Peshawar (Female) PS,33.97684,71.53116,Female,KPK,0,3,0,1349
+49,GGPS Swati Tanki (Female) PS-1,33.97738,71.53123,Female,KPK,0,3,0,1574
+50,GGPS Swati Tanki (Female) PS-2,33.97738,71.53126,Female,KPK,0,3,0,1203
+45,GPS- Manakrao (Male) PS,33.97809,71.54482,Male,KPK,4,0,1916,0
+70,GGHS Bara Line (Female) PS-1,33.97849,71.51987,Female,KPK,0,3,0,1421
+71,GGHS Bara Line (Female) PS-2,33.97849,71.5199,Female,KPK,0,3,0,1265
+72,GGPS Bara Line No.2 Inside GGHS  (Female) PS,33.97849,71.51993,Female,KPK,0,2,0,817
+68,GMS Boys Rasakey Nodeh Payan (Male) PS,33.97867,71.51976,Male,KPK,4,0,1588,0
+69,GPS No.2 Nodeh Payan Inside GMS (Male) PS-1,33.97867,71.51979,Male,KPK,4,0,1297,0
+73,GPS No.2 Nodeh Payan Inside GMS (Male) PS-2,33.97867,71.51982,Male,KPK,4,0,1564,0
+42,G. Shaheed Zain Iqbal H.S  Manakrao (Male) PS-1,33.97894,71.54604,Male,KPK,4,0,1461,0
+43,G. Shaheed Zain Iqbal H.S  Manakrao (Male) PS-2,33.97894,71.54607,Male,KPK,3,0,990,0
+44,G. Shaheed Zain Iqbal H.S  Manakrao (Male) PS-3,33.97894,71.5461,Male,KPK,4,0,1946,0
+54,GGPS Charkhana (Female) PS,33.98067,71.5405,Female,KPK,0,3,0,1234
+53,GMS Charkha Khel (Male) PS,33.98095,71.54058,Male,KPK,4,0,1616,0
+41,GGPS- Landi Arbab No.1 (Female) PS,33.98148,71.54554,Female,KPK,0,3,0,992
+36,G. Shaheed Abdullah Ghani HS Landi Arbab (Male ) PS-1,33.98363,71.54808,Male,KPK,4,0,1313,0
+37,G. Shaheed Abdullah Ghani HS Landi Arbab (Male ) PS-2,33.98363,71.54811,Male,KPK,4,0,1399,0
+38,GGHS Landi Arbab (Female) PS-1,33.98422,71.54906,Female,KPK,0,3,0,976
+39,GGHS- Landi Arbab (Female) PS-2,33.98422,71.54909,Female,KPK,0,3,0,1190
+40,GGHS- Landi Arbab (Female) PS-3,33.98422,71.54912,Female,KPK,0,3,0,1186
+30,Government Dispensary Kotla Mohsin Khan Nazar Abad   (Female) PS,33.98944,71.55492,Female,KPK,0,3,0,1312
+29,Co-operative College Lala Rukh Colony /Education Employees Foundation College. (Male)  PS-1,33.98996,71.55689,Male,KPK,4,0,1779,0
+31,Co-operative College Lala Rukh Colony/Education Employees Foundation College (Male)  PS-2,33.98996,71.55692,Male,KPK,4,0,1814,0
+33,Co-operative College Lala Rukh Colony/Education Employees Foundation (Male)  PS-3,33.98996,71.55695,Male,KPK,4,0,1647,0
+35,Co-operative College Lala Rukh Colony/Education Employees Foundation (Male) PS-4,33.98996,71.55698,Male,KPK,4,0,1956,0
+8,GPS Boys Civil Colony/Audit Colony  (Male) PS,33.9904,71.5578,Male,KPK,3,0,959,0
+10,GGHS Civil Colony/Audit Colony (Female)   PS-2,33.99139,71.56014,Female,KPK,0,3,0,1249
+9,GGHS Civil Colony/Audit Colony (Female) PS-1,33.99139,71.56017,Female,KPK,0,3,0,1112
+90,F.G Girls PS No.3 Mall Road- Peshawar (Female) PS,33.99241,71.52993,Female,KPK,0,4,0,1465
+61,G. Shaheed Fahad Hussain CMHS No.4 Peshawar Cantt (Female) PS-1,33.99347,71.5369,Female,KPK,0,4,0,1330
+62,G. Shaheed Fahad Hussain CMHS No.4 Peshawar Cantt (Female) PS-2,33.99347,71.53693,Female,KPK,0,3,0,1092
+63,G. Shaheed Fahad Hussain CMHS No.4 Peshawar Cantt (Female) PS-3,33.99347,71.53696,Female,KPK,0,3,0,1135
+32,GPS No. 1 Boys Dehri Baghbanan (Female) PS-1,33.99367,71.55673,Female,KPK,0,4,0,1378
+34,GPS No. 1 Boys Dehri Baghbanan (Female) PS-2,33.99367,71.55676,Female,KPK,0,3,0,1317
+21,GG Shaheed Ghamish Salman MS No.3 Jander Gali Nauthia Qadeem (Female) PS,33.99393,71.54163,Female,KPK,0,4,0,1596
+22,GGPS No.1 Jander Gali Nauthia (Male) PS-1,33.99393,71.54166,Male,KPK,4,0,1277,0
+23,GGPS No.1 Jander Gali Nauthia (Male) PS-2,33.99393,71.54169,Male,KPK,3,0,997,0
+24,GGPS Cantt No. 1-3 (Female) PS,33.99403,71.54136,Female,KPK,0,4,0,1672
+25,G. Shaheed Fazal Rahim MS  Nauthia Jadeed (Male)  PS,33.99403,71.54139,Male,KPK,4,0,1812,0
+26,GMPS Nouthia Qadeem 2 (Female) PS-1,33.99439,71.54826,Female,KPK,0,3,0,1203
+27,GMPS Nouthia Qadeem 2 (Female) PS-2,33.99439,71.54829,Female,KPK,0,3,0,927
+59,Shaheed Hassan Zeb GGHS  No. 1 Peshawar Cantt (Female) PS-1,33.99495,71.53659,Female,KPK,0,4,0,1550
+60,Shaheed Hassan Zeb GGHS No.1 Peshawar Cantt (Female) PS-2,33.99495,71.53662,Female,KPK,0,4,0,1621
+74,FG Girls HS- Stadium Road- Saddar (Male) PS,33.99502,71.53645,Male,KPK,4,0,1587,0
+4,GGDC Bacha Khan Kohat road Peshawar (Female) PS-1,33.99564,71.55556,Female,KPK,0,4,0,1249
+5,GGDC Bacha Khan Kohat road Peshawar (Female) PS-2,33.99564,71.55559,Female,KPK,0,3,0,1127
+6,GGDC Bacha Khan Kohat road Peshawar (Female) PS-3,33.99564,71.55562,Female,KPK,0,3,0,1289
+13,Sub Office TMA Town-4 Nauthia (Male) PS-1,33.99567,71.54788,Male,KPK,4,0,1997,0
+14,Sub Office TMA Town-4 Nauthia (Female)P PS-2,33.99567,71.54791,Female,KPK,0,4,0,1594
+12,GPS No.2 for boys Civil Quarters (Male) PS,33.99616,71.55109,Male,KPK,4,0,1287,0
+28,GGPS Civil Quarters near Police Post (Female) PS,33.99616,71.55112,Female,KPK,0,4,0,1447
+17,GGCMHS  Nauthia  (Male) PS-1,33.99619,71.5434,Male,KPK,4,0,1296,0
+18,GGCMHS  Nauthia  (Male) PS-2,33.99619,71.54343,Male,KPK,4,0,1264,0
+58,GGCMHS  Nauthia  (Male) PS-3,33.99619,71.54346,Male,KPK,4,0,1446,0
+86,G Shaheed Wahab-ud-Din HS Salwan Sunehri Masjid Road Peshawar Cantt.(Female) PS,33.99627,71.54035,Female,KPK,0,4,0,1497
+55,G. Shaheed M. Sahiban HS  Nauthia Qadeem (Male) PS-1,33.99633,71.54343,Male,KPK,4,0,1442,0
+56,G. Shaheed M. Sahiban HS  Nauthia Qadeem (Male) PS-2,33.99633,71.54346,Male,KPK,4,0,1547,0
+57,G. Shaheed M. Sahiban HS  Nauthia Qadeem (Male) PS-3,33.99633,71.54349,Male,KPK,4,0,1414,0
+19,GPS No.3 Nauthia Qadeem (Male) PS-1,33.99633,71.54371,Male,KPK,3,0,921,0
+20,GPS No.3 Nauthia Qadeem (Male)  PS-2,33.99633,71.54374,Male,KPK,3,0,1183,0
+15,GGMS No. 1 Cantt  Nauthia  (Female) PS-1,33.99639,71.54381,Female,KPK,0,3,0,1013
+16,GGMS No. 1 Cantt  Nauthia  (Female) PS-2,33.99639,71.54384,Female,KPK,0,3,0,1014
+11,G Shaheed Ishaq Amin HS Civil Quarters (Female) PS,33.9973,71.5528,Female,KPK,0,3,0,1129
+83,G. Shaheed Mobeen Shah Afridi HS No.1 Peshawar Cantt. (Male) PS-1,33.99737,71.54134,Male,KPK,4,0,1260,0
+84,G. Shaheed Mobeen Shah Afridi HS No.1 Peshawar Cantt. (Male) PS-2,33.99737,71.54137,Male,KPK,4,0,1276,0
+85,G. Shaheed Mobeen Shah Afridi HS No.1 Peshawar Cantt. (Male) PS-3,33.99737,71.5414,Male,KPK,3,0,1199,0
+87,Muhammad Shaheer Khan Shaheed GGHS No. 2 Sunehri Masjid Road- Pesh: Cantt (Female) PS-1,33.99805,71.54288,Female,KPK,0,3,0,1068
+88,Muhammad Shaheer Khan Shaheed GGHS No. 2 Sunehri Masjid Road- Pesh: Cantt (Female) PS-2,33.99805,71.54291,Female,KPK,0,3,0,1063
+76,FG Boys High School Khyber Road- Peshawar  (Male) PS-1,33.99942,71.53329,Male,KPK,4,0,1426,0
+77,FG Boys High School Khyber Road- Peshawar  (Male) PS-2,33.99942,71.53332,Male,KPK,3,0,960,0
+78,FG DC for Women Mall Road- Peshawar (Female) PS-1,34.00043,71.53704,Female,KPK,0,3,0,1176
+79,FG DC for Women- Mall Road- Peshawar (Female) PS-2,34.00043,71.53707,Female,KPK,0,2,0,891
+80,FG Technical HS- Tariq Road- Peshawar (Male)  PS-1,34.00043,71.5371,Male,KPK,3,0,1153,0
+81,FG Technical HS- Tariq Road- Peshawar (Male)  PS-2,34.00043,71.53713,Male,KPK,3,0,1141,0
+64,G. Shaheed Syed Afaq Ahmad HS No. 3 Peshawar Cantt. (Male) PS-1,34.00056,71.5508,Male,KPK,4,0,1617,0
+65,G. Shaheed Syed Afaq Ahmad HS No. 3 Peshawar Cantt. (Male) PS-2,34.00056,71.55083,Male,KPK,4,0,1392,0
+66,G. Shaheed Syed Afaq Ahmad HS No. 3 Peshawar Cantt. (Male) PS-3,34.00056,71.55086,Male,KPK,4,0,1450,0
+67,G. Shaheed Syed Afaq Ahmad HS No. 3 Peshawar Cantt. (Male) PS-4,34.00056,71.55089,Male,KPK,4,0,1470,0
+93,GPS Railway Colony- Peshawar Cantt: (Female) PS-1,34.00056,71.55092,Female,KPK,0,3,0,1165
+94,GPS Railway Colony- Peshawar Cantt: (Female) PS-2,34.00056,71.55095,Female,KPK,0,3,0,1147
+91,G Shaheed Saqib Ghani HSS No.2 Peshawar Cantt (Male) PS-1,34.00063,71.55209,Male,KPK,4,0,1655,0
+92,G Shaheed Saqib Ghani HSS No.2 Peshawar Cantt (Male) PS-2,34.00063,71.55212,Male,KPK,4,0,1576,0
+1,G. Shaheed Amaar Iqbal MS Sattar Shah Colony (Male) PS-1,34.00148,71.55725,Male,KPK,4,0,2299,0
+2,G. Shaheed Amaar Iqbal MS Sattar Shah Colony (Male) PS-2,34.00148,71.55728,Male,KPK,4,0,1905,0
+7,GGPS Sattar Shah Colony  (Male) PS,34.00148,71.55731,Male,KPK,4,0,2310,0
+97,FG Girls Middle School No.4- School Road- Peshawar (Female) PS,34.00161,71.53206,Female,KPK,0,4,0,1911
+82,F.G.Junior Public School No.1 Tariq Road- Peshawar (Female) PS,34.01034,71.54984,Female,KPK,0,4,0,2012
+89,FG Boys PS Shaheed Bazar Mall Road- Peshawar (Male) PS,34.01034,71.54987,Male,KPK,4,0,1597,0
+95,FG  Junior Public School No.1 Warsak Road- Peshawar (Male) PS-1,34.02136,71.53864,Male,KPK,3,0,1085,0
+96,FG  Junior Public School No.1 Warsak Road- Peshawar (Male) PS-2,34.02136,71.53867,Male,KPK,3,0,1050,0

@@ -1,0 +1,7 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+5,Govt Boys High School Panjgran Daggar PS-1,31.917964477802165,71.15349520109984,Male,Punjab,3,0,1386,0
+7,Govt Boys High School Panjgran Praimary Portion PS-1,31.918152135706475,71.15228860250815,Combined,Punjab,1,1,531,460
+4,Govt Girls Elementary School Panjgran,31.921290541308345,71.15221445337889,Combined,Punjab,2,1,907,827
+2,Govt Boys Elementary School Ahmed Shah wali (Middle Portion),31.942075844325004,71.15143458468609,Combined,Punjab,2,1,918,775
+1,Govt Boys Primary School Tiba Murtaza Shah,31.947876723372204,71.15178612394064,Combined,Punjab,1,1,541,454
+3,Govt Girls Primary School Mehr Imam Shah Nasheb,31.950223432102717,71.12592509687218,Combined,Punjab,2,1,919,711

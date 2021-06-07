@@ -1,0 +1,69 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+155,Government BOYS PRIMARY SCHOOL CHAK CHEJRA (Combined),30.0371472,71.20217581,Combined,Punjab,1,1,334,285
+150,Government BOYS PRIMARY SCHOOL CHAK ROHARY (Male),30.04791292,71.21492395,Male,Punjab,2,0,1226,0
+151,Government BOYS PRIMARY SCHOOL CHAK ROHARY   (Female),30.04791292,71.21495395,Female,Punjab,0,2,0,1013
+144,Government Boys Primary School Peer Wala (Combined),30.0592734,71.1901781,Combined,Punjab,2,2,826,740
+2,Government Boys Primary School Said Pur (Combined),30.0619821,71.1862458,Combined,Punjab,2,2,856,787
+153,Government GIRLS PRIMARY SCHOOL LALPUR (BASTI JAM WALA) (Combined),30.064552482489542,71.2446513808283,Combined,Punjab,1,1,132,121
+154,Government GIRLS PRIMARY SCHOOL LALPUR (BASTI JAM WALA)    (Female),30.064552482489542,71.2446813808283,Female,Punjab,0,2,0,876
+152,Government GIRLS PRIMARY SCHOOL LALPUR (BASTI JAM WALA) (Male),30.064594192967526,71.24467107010857,Male,Punjab,2,0,1028,0
+146,Government BOYS ELEMENTARY SCHOOL TALEERI (Combined),30.068530703146774,71.21052807861312,Combined,Punjab,2,1,675,522
+147,Government BOYS ELEMENTARY SCHOOLTALEERI  (Male),30.068530703146774,71.2105580786131,Male,Punjab,4,0,2042,0
+149,Government BOYS ELEMNTARY SCHOOL SONAKKI (Combined),30.073437865519644,71.25788182446648,Combined,Punjab,2,1,739,687
+148,UNION COUNCIL OFFICE TALEERI (Female),30.074697681677655,71.23436562796181,Female,Punjab,0,3,0,1702
+135,Government BOYS PRIMARY SCHOOL DOABA (Male),30.0810385,71.2627349,Male,Punjab,2,0,744,0
+138,Government GIRLS ELEMENTARY SCHOOL DOABA (Female),30.0810385,71.2627649,Female,Punjab,0,2,0,956
+140,Government GIRLS ELEMENTARY SCHOOL DOABA (Combined),30.0810385,71.2627949,Combined,Punjab,2,1,644,645
+141,Government GIRLS ELEMENTARY SCHOOL DOABA (Combined),30.0810385,71.2628249,Combined,Punjab,2,2,853,752
+139,Government BOYS PRIMARY SCHOOL ASHIQ WALA (Combined),30.087112325557815,71.2521617326495,Combined,Punjab,2,1,771,557
+133,Government BOYS PRIMARY SCHOOL PANJY WALA (Combined),30.09605181,71.2269209,Combined,Punjab,1,1,580,440
+112,Government BOYS PRIMARY SCHOOL THATHA SIALAN (Combined),30.105934064541504,71.24855983034826,Combined,Punjab,1,1,612,615
+113,Government BOYS PRIMARY SCHOOL BAIT THATHA SIYALAN (Combined),30.105934064541504,71.2485898303483,Combined,Punjab,1,1,420,344
+114,Government BOYS PRIMARY SCHOOL BASTI RAWAN (Combined),30.105934064541504,71.2486198303483,Combined,Punjab,1,1,248,218
+109,BASIC HEALTH UNIT MURAD ABAD (Combined),30.105934064541504,71.2486498303483,Combined,Punjab,2,2,912,816
+110,Government GIRLS HIGH SCHOOL KHANGAN SHUMALI (Combined),30.105934064541504,71.2486798303483,Combined,Punjab,2,1,630,587
+111,Government GIRLS HIGH SCHOOL KHANGAN SHUMALI (Combined),30.105934064541504,71.2487098303483,Combined,Punjab,2,2,886,779
+134,BASIC HEALTH UNIT DOABA (Combined),30.106199147840126,71.25110777651923,Combined,Punjab,2,1,611,504
+131,Government GIRLS PRIMARY SCHOOL MAHRA FRAZ (Female),30.109750000000002,71.19595333333334,Female,Punjab,0,1,0,554
+143,Government BOYS PRIMARY SCHOOL BASTI GAZRAN  (Female),30.1104241,71.22493412,Female,Punjab,0,3,0,1271
+145,Government BOYS PRIMARY SCHOOL SHAH RANG PUR (Combined),30.13023682,71.24439148,Combined,Punjab,2,1,713,608
+127,Government Girls Primary School Khan Pur City New Building (Combined),30.14236629,71.2304517,Combined,Punjab,2,1,659,587
+128,Government Boys Primary School Khan Pur Shumali Boarding (Combined),30.14344448,71.23254264,Combined,Punjab,2,2,817,768
+124,Government Girls High School Khan Pur Shumali (combined),30.14492957,71.22184638,Combined,Punjab,1,1,194,167
+125,Government Girls High School Khan Pur Shumali  (Combined),30.14492957,71.22187638,Combined,Punjab,2,2,936,762
+126,Government Girls High School Khan Pur Shumali (Combined),30.14492957,71.22190638,Combined,Punjab,2,2,747,886
+86,Government Boys Maqtab School Bahadur Wala (Combined),30.1901697,71.4522457,Combined,Punjab,1,1,428,381
+15,Unoin Council Office Rang Pur (Combined),30.1901697,71.4522757,Combined,Punjab,1,1,449,369
+88,Government Boys Middle School Khudai (Combined),30.1901697,71.4523057,Combined,Punjab,1,1,418,372
+89,Government Boys Middle School Khudai (Combined),30.1901697,71.4523357,Combined,Punjab,2,1,750,599
+90,Government Boys Middle School Khudai (Combined),30.1901697,71.4523657,Combined,Punjab,1,1,340,286
+8,Government Boys Primary School Rang Pur (Male),30.1905273,71.4520138,Male,Punjab,2,0,824,0
+11,Government Girls Primary School Rang Pur   (Female),30.1905273,71.4520438,Female,Punjab,0,3,0,1503
+9,Government Girls Primary School Rang Pur (Male),30.1905273,71.4520738,Male,Punjab,3,0,1769,0
+91,Government Boys High School Jhalarian (Male),30.2080912,71.4412535,Male,Punjab,2,0,946,0
+92,Government Boys High School Jhalarian Female,30.2080912,71.4412835,Female,Punjab,0,2,0,734
+87,Government Boys Middle School Qabool Wala (Combined),30.2212179,71.4501586,Combined,Punjab,1,1,570,482
+26,Government Girls High School Rang Pure  (Combined),30.37374,71.40615,Combined,Punjab,1,1,570,465
+25,Government  Boys Primary School Abbas Nagar(Mouza Samti) (Combined),30.40201,71.44717,Combined,Punjab,2,1,839,739
+55,Government Boys Primary School Perhar Munda Gharbi (Combined),30.48156093507666,71.15567562282925,Combined,Punjab,1,1,172,170
+4,Government Boys Primary School Chabootara Addha (Combined),30.51445,71.5679,Combined,Punjab,2,1,768,643
+3,Government Girls Primary School Mian Wazeer Wala (Combined),30.5187445,71.5480997,Combined,Punjab,1,1,396,320
+6,Government Girls Madel  Community School Dera Haibat (Combined),30.52309,71.52372,Combined,Punjab,2,2,1319,1105
+23,Government Boys Primary School Balqana (combined),30.52353,71.56781,Combined,Punjab,2,1,699,554
+5,Government Girls High School Rang Pur   (Male),30.52555,71.54709,Male,Punjab,2,0,884,0
+7,Government Girls High School Rang Pur     (Female),30.52555,71.54712,Female,Punjab,0,2,0,659
+33,Government Primary School Chargh Bela No 3 (Combined),30.52617,71.6277,Combined,Punjab,1,1,509,423
+12,Government Boys Christian High School Chak No 5/4 L  (Male),30.5307077,71.5610823,Male,Punjab,2,0,897,0
+14,Government Boys Christian High School Chak No 5/4 L     (Female),30.5307077,71.5611123,Female,Punjab,0,2,0,778
+13,Government Boys Primary School Chak No 6/4 L (Combined),30.5307077,71.5611423,Combined,Punjab,1,1,620,455
+16,Government Boys Primary School Maqsood Pure  (Combined),30.5307077,71.5611723,Combined,Punjab,1,1,656,574
+17,Government Boys Primary School Sulhi (Male),30.5307077,71.5612023,Male,Punjab,2,0,1067,0
+18,Government Boys Primary School Sulhi (Female),30.5307077,71.5612323,Female,Punjab,0,2,0,809
+19,Canal Rest House Dewana Bangla (Combined),30.5307077,71.5612623,Combined,Punjab,2,1,664,546
+22,Government Girls Primary School 4/4R- (Female),30.5307077,71.5612923,Female,Punjab,0,2,0,944
+27,Government Boys Primary School Kaloo Wala Mouza Ameer Pure Serbana (Combined),30.5307077,71.5613223,Combined,Punjab,1,1,492,410
+28,Government Boys High School Ameer Pure Kanka (Male),30.5307077,71.5613523,Male,Punjab,3,0,1443,0
+29,Government Boys High School Ameer Pur Kanka (Female),30.5307077,71.5613823,Female,Punjab,0,3,0,1249
+30,Government Girls Primary School 5/4R (Combined),30.5307077,71.5614123,Combined,Punjab,1,1,675,537
+31,Government Girls Primary School 7/4R (Combined),30.5307077,71.5614423,Combined,Punjab,1,1,456,341
+24,Government Boys Middle School Rana Wahin (Combined),30.5399,71.53278,Combined,Punjab,1,1,332,317

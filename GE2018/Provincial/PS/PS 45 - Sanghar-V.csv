@@ -1,0 +1,70 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+52,Govt. Primary School Ch. Muhammad Din (Male).,25.89544525027227,68.64300804029334,Male,Sindh,4,0,1890,0
+53,Govt. Primary School Ch. Muhammad Din (Female).,25.895517845089998,68.64309859096548,Female,Sindh,0,4,0,1409
+66,Govt. Primary School Ghulam Hyder Bhagrani (Combined)    .,25.8971491215373,68.58582830928107,Combined,Sindh,2,2,645,614
+47,Govt. Primary School Ch. Muhammad Hanif Shd. (Female) .,25.900928353212706,68.6133457748113,Female,Sindh,0,4,0,1636
+46,Govt. Primary School Ch. Muhammad Hanif Shd. (Male).,25.901052119687407,68.61387051443728,Male,Sindh,4,0,1938,0
+64,Govt. Primary School Allah Bachayo (Male).,25.905594131994764,68.59415705726076,Male,Sindh,2,0,855,0
+65,Govt. Primary School Allah Bachayo (Female).       (IMPROVISED),25.905594131994764,68.5941870572608,Female,Sindh,0,2,0,848
+61,Govt. Primary School Haji Kashkali (Combined).,25.908676366977627,68.59768944072248,Combined,Sindh,2,2,628,532
+67,Govt. Primary School Sultan Kapri (Combined).,25.91084973123724,68.55599175125589,Combined,Sindh,1,1,407,395
+16,Govt. Girls Digree College Shahadadpur  (Male) .,25.9219304,68.6131554,Male,Sindh,3,0,1059,0
+17,Govt. Girls Digree College Shahadadpur  (Male)   .,25.9219304,68.6131854,Male,Sindh,3,0,1091,0
+18,Govt. (Prov.) High School Shahdadpur (Female)  .,25.9219304,68.6132154,Female,Sindh,0,3,0,969
+27,Municipal Office Shahdadpur (Male).,25.9219304,68.6132454,Male,Sindh,4,0,1317,0
+28,Municipal Office Shahdadpur (Male)   .      (partly IMPROVISED),25.9219304,68.6132754,Male,Sindh,3,0,1112,0
+29,Municipal Office Shahdadpur (Female).,25.9219304,68.6133054,Female,Sindh,0,4,0,1757
+30,Govt. (Prov.) Boys High School Shahdadpur (Male).,25.9219304,68.6133354,Male,Sindh,3,0,1104,0
+31,Govt. (Prov.) Boys High School Shahdadpur (Female).,25.9219304,68.6133654,Female,Sindh,0,3,0,848
+10,Govt.  Vocational Institute Shahdadpur (Female).,25.9240226,68.6156823,Female,Sindh,0,4,0,1306
+11,Govt.  Vocational Institute Shahdadpur (Female)           .,25.9240226,68.6157123,Female,Sindh,0,4,0,1590
+12,Govt. Girls Primary School Mahi Bukhtawar Shahdadpur (Male).,25.9240226,68.6157423,Male,Sindh,4,0,1558,0
+13,Govt. Girls Primary School Mahi Bukhtawar Shahdadpur (Male)        .,25.9240226,68.6157723,Male,Sindh,4,0,1907,0
+21,Municipal KG School Shahdadpur (Female)   .,25.9246517,68.6203401,Female,Sindh,0,3,0,1370
+20,Municipal KG School Shahdadpur (Male).,25.924786673835385,68.61929800051458,Male,Sindh,4,0,1808,0
+26,Govt. Primary School Faiz - e - Aam Shahdadpur (Male).,25.9256224,68.6192222,Male,Sindh,3,0,980,0
+34,Govt. Boys High School Shahdadpur (Male).,25.9256224,68.6192522,Male,Sindh,4,0,1852,0
+35,Govt. Boys High School Shahdadpur (Female).,25.9256224,68.6192822,Female,Sindh,0,4,0,1428
+36,Govt. Boys High School Shahdadpur (Male)        .,25.9256224,68.6193122,Male,Sindh,4,0,1691,0
+37,Govt. Boys High School Shahdadpur (Female) .,25.9256224,68.6193422,Female,Sindh,0,4,0,1401
+14,Govt. Primary School Pir Sibghatullah Shah- Shahdadpur (Male).,25.925948,68.6274017,Male,Sindh,4,0,1501,0
+15,Govt. Primary School Pir Sibghatullah Shah- Shahdadpur (Female).,25.925948,68.6274317,Female,Sindh,0,3,0,1230
+19,Govt. Girls Primary School Niswan Shahdadpur (Female),25.925948,68.6274617,Female,Sindh,0,3,0,981
+62,Govt. Primary School Abdul Karim Talpur (Male).,25.92970214474372,68.58962787439553,Male,Sindh,2,0,729,0
+63,Govt. Primary School Abdul Karim Talpur (Female).                            (partly IMPROVISED),25.92970214474372,68.5896578743955,Female,Sindh,0,2,0,663
+75,Govt. Primary School Bahadur Kaloi (Female).,25.940099634607815,68.60647903014632,Female,Sindh,0,2,0,929
+95,Govt. Primary School Sultan Malano (Combined).      (IMPROVISED),25.967599266483187,68.49576374841897,Combined,Sindh,2,2,771,627
+58,GPS Khudadad Kapri (Combined)  .     (partly IMPROVISED),26.0434883,68.9521422,Combined,Sindh,2,2,719,688
+80,Govt. Primary School Hashim Kashkali (Male).   (Old building),26.0434883,68.9521722,Male,Sindh,2,0,975,0
+81,Govt. Primary School Hashim Kashkali (Female).    (New building),26.0434883,68.9522022,Female,Sindh,0,2,0,896
+84,Govt. High School Maldasi (Combined).        (New Rooms),26.0434883,68.9522322,Combined,Sindh,2,2,692,653
+94,Govt. Primary School Bhoro Mangario  (Combined).      (partly IMPROVISED),26.0434883,68.9522622,Combined,Sindh,2,2,774,679
+22,Govt. Primary School Main Sindhi Shahdadpur (Male).,26.0464808,68.9403063,Male,Sindh,4,0,1438,0
+23,Govt. Primary School Main Sindhi Shahdadpur (Female).,26.0464808,68.9403363,Female,Sindh,0,3,0,1019
+24,Govt. Primary School Main Sindhi Shahdadpur (Female).,26.0464808,68.9403663,Female,Sindh,0,4,0,1601
+49,Govt. Girls. Primary School Jatia (Female)    .,26.0464808,68.9403963,Female,Sindh,0,4,0,1158
+48,Govt. Boys. High  School Jatia (Male) .,26.0464808,68.9404263,Male,Sindh,4,0,1427,0
+50,Govt. Boys High School Jatia (Male).,26.0464808,68.9404563,Male,Sindh,4,0,1550,0
+51,Govt. Girls High School Jatia (Female)     .,26.0464808,68.9404863,Female,Sindh,0,4,0,1213
+8,Govt. Primary School Imam Barghah  Muhammadi Town (Female).,26.0464808,68.9405163,Female,Sindh,0,3,0,1093
+117,Govt. High School Alam Khan Zardari (Combined).,26.0512597,68.9418505,Combined,Sindh,2,2,829,772
+118,Govt. Primary School Lundo (Male).,26.0512597,68.9418805,Male,Sindh,4,0,1812,0
+119,Basic Health Unit Lundo (Female).,26.0512597,68.9419105,Female,Sindh,0,4,0,1324
+120,GHS Lundo (Male)                  .,26.0512597,68.9419405,Male,Sindh,2,0,935,0
+121,GHS Lundo (Female)              .,26.0512597,68.9419705,Female,Sindh,0,2,0,752
+55,Govt. Primary School Mahar Ali Talpur (Comb)   .,26.0512597,68.9420005,Combined,Sindh,2,2,851,775
+57,GPS Jamal Brohi (Combined)  .     (partly IMPROVISED),26.0512597,68.9420305,Combined,Sindh,2,2,661,588
+90,Govt. Primary School Jamal Faqir (Male).         (partly IMPROVISED),26.0512597,68.9420605,Male,Sindh,4,0,1278,0
+91,Basic Health Unit Jamal Faqir (Female).,26.0512597,68.9420905,Female,Sindh,0,3,0,1105
+92,Govt. Primary School Baka Dahiri (Combined).             (IMPROVISED),26.0512597,68.9421205,Combined,Sindh,2,2,834,683
+108,Govt. Primary School Gul Muhammad Leghari (Male).   (IMPROVISED),26.075930379564,68.47415598031279,Male,Sindh,2,0,839,0
+109,Govt. Primary School Gul Muhammad Leghari (Male).    (IMPROVISED),26.07601267668501,68.47440483570706,Male,Sindh,3,0,1003,0
+110,Union Council Office Gul Muhammad Leghari (Female).     (partly IMPROVISED),26.076470169003684,68.47426353911065,Female,Sindh,0,4,0,1526
+98,Govt. Boys High School Sarhari (Male).,26.090024205619464,68.47769405458438,Male,Sindh,4,0,1720,0
+99,Govt. Boys High School Sarhari (Female).,26.09040939801156,68.47816215705211,Female,Sindh,0,4,0,1450
+96,Govt. Primary School Sarhari (Male).,26.093715624914118,68.47921858786745,Male,Sindh,4,0,1726,0
+103,Govt. Primary School Saeed Khan (Combined)  .   (partly IMPROVISED),26.096639083366902,68.51526301700564,Combined,Sindh,2,1,567,403
+100,Govt. Primary School Darya Khan Jalbani (Combined).,26.109092383144674,68.55464617715188,Combined,Sindh,2,2,553,480
+104,Govt. Primary School Noor Muhammad Kerio (Combined).   (partly IMPROVISED),26.123725605732467,68.48028874750773,Combined,Sindh,2,2,728,680
+105,Govt. Primary School Kamil Kerio (Combined)     .,26.124516971957416,68.47990011664614,Combined,Sindh,2,2,999,649
+102,Govt. Primary School Ghulam Kerio (Combined).    (partly IMPROVISED),26.12904187203197,68.53466373563047,Combined,Sindh,2,2,876,713

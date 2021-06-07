@@ -1,0 +1,98 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+84,GBHS Shahan Palal-I ( M),27.97346,67.73056,Male,Balochistan,2,0,1041,0
+85,GBHS Shahan Palal-II (F),27.97346,67.73059,Female,Balochistan,0,2,0,838
+89,Irrigation Banglow Baghtel (F),27.97961,67.7411,Female,Balochistan,0,2,0,582
+83,CD Baghtail ( Kariya Feri) ( F ),27.97961,67.74165,Female,Balochistan,0,2,0,741
+82,GBMS Baghtel ( Kariya feri) (M),27.97984,67.74166,Male,Balochistan,2,0,965,0
+88,GBPS Bghtel ( M),27.98009,67.74178,Male,Balochistan,2,0,656,0
+77,GBPS Ghulam Muhammad Jamali ( M),27.9923,67.86821,Male,Balochistan,2,0,982,0
+78,GBPS Ghulam Muhammad Jamali (F),27.99237,67.86837,Female,Balochistan,0,2,0,859
+86,GBPS Janan Jamali ( Com),27.99781,67.83556,Combined,Balochistan,1,1,615,503
+76,GBMS Faizal Faqeer ( Com),28.00571,67.88073,Combined,Balochistan,1,1,584,451
+74,GGHS Gandakha (F),28.0074,67.84798,Female,Balochistan,0,3,0,1357
+73,GBPS Gandakha (M),28.01118,67.84696,Male,Balochistan,3,0,1649,0
+90,GBPS New Kot Marri ( Com),28.01609,67.71905,Combined,Balochistan,1,1,554,462
+80,GBMS Chowki Jamali ( M),28.02054,67.92197,Male,Balochistan,2,0,1083,0
+81,GGMS Chowki Jamali (F),28.02157,67.9197,Female,Balochistan,0,2,0,891
+87,GBPS Sukhiya Jamali (Com),28.02749,67.77736,Combined,Balochistan,1,1,541,432
+75,GBPS Jabal Pur ( Com),28.03359,67.83128,Combined,Balochistan,2,1,826,554
+56,GBPS Peer Bakhsh Jamali ( Com),28.04614,67.91782,Combined,Balochistan,1,1,570,463
+92,GBHS Noshki Jadeed-I (M),28.04897,67.7406,Male,Balochistan,3,0,1101,0
+93,GBMS Noshki Jadeed-II ( F),28.04897,67.74063,Female,Balochistan,0,2,0,949
+91,GBPS Kandrri ( Goth Abdul Rehman) (Com),28.05235,67.71935,Combined,Balochistan,1,2,703,778
+72,GBPS Rasool Abad ( Com),28.057,67.78134,Combined,Balochistan,1,1,302,241
+71,GBPS Pandrani Jadeed (Com),28.06172,67.75081,Combined,Balochistan,2,2,912,862
+79,GBMS Fazal Muhammad Jamali ( Com),28.0639,67.84862,Combined,Balochistan,1,1,617,441
+68,Agriculture Form Sibi Jadeed (M),28.06731,67.7977,Male,Balochistan,2,0,774,0
+54,GBPS Aitabar Khan Jamali (Com),28.06832,67.89004,Combined,Balochistan,1,1,568,471
+69,CD Sibi Jadeed ( F),28.06885,67.79628,Female,Balochistan,0,2,0,944
+58,GBPS Bangul Darro (Com),28.07859,67.96686,Combined,Balochistan,1,1,382,284
+57,GBPS Goth Wali Muhammad Jamali (Deh Jhaloo) (Com),28.08386,67.931,Combined,Balochistan,1,1,411,345
+96,GBPS Bagh Head (M),28.08443,67.74141,Male,Balochistan,2,0,957,0
+97,BHU Bagh Head (F),28.0846,67.74012,Female,Balochistan,0,2,0,741
+55,GBPS Haji Manzoor Bakhshlani (Com),28.09093,67.89399,Combined,Balochistan,1,1,568,371
+59,GBPS Mehrab Pur (Com),28.10726,68.02694,Combined,Balochistan,1,1,297,212
+53,CD Mewa Khan Khosa ( Com),28.11063,67.85732,Combined,Balochistan,1,1,644,623
+70,GBPS Ali Sher Bugti (Com),28.11214,67.77686,Combined,Balochistan,1,1,583,504
+60,Irrigation Banglow Hadeera Pul (Com),28.12996,67.90591,Combined,Balochistan,2,1,713,587
+62,GBMS Miah Khan Pandrani Brohi (Com),28.13279,68.0191,Combined,Balochistan,2,1,780,650
+66,GBHS Ahmed Abad (M),28.13406,67.82484,Male,Balochistan,2,0,982,0
+67,GGPS Ahmed Abad (F),28.13473,67.8216,Female,Balochistan,0,2,0,664
+61,GBPS Allah Waraya Jamali (Com),28.13593,67.9758,Combined,Balochistan,2,1,1013,811
+51,GBHS Jaffarabad ( High Section) (F),28.15484,67.87547,Female,Balochistan,0,2,0,828
+50,GBHS Jaffarabad ( Middle Section) (M),28.15489,67.87538,Male,Balochistan,3,0,1151,0
+65,GBPS Goth Faiq Ali Jamali ( Sakh Wah) ( Com),28.1557,68.04358,Combined,Balochistan,1,1,583,614
+49,GBPS Jaffarabad (Com),28.15611,67.88339,Combined,Balochistan,1,1,532,474
+94,GBPS Goth Muhammad Hassan Pandrani (Berron) (Com),28.16402,67.7231,Male,Balochistan,2,0,820,0
+46,GBMS Allah Dina Rind (Com),28.16449,67.9592,Combined,Balochistan,2,2,972,763
+64,GBPS Naseer Ahmed Hijwani ( M),28.16596,68.02171,Male,Balochistan,3,0,1489,0
+11,GBPS Abdull Aziz Mengal Usta Mohammad  (M),28.1666,68.04129,Male,Balochistan,3,0,1586,0
+12,GGPS Abdul Aziz Mengal Usta Mohammad (F),28.16689,68.04144,Female,Balochistan,0,3,0,1342
+95,GBPS Asif Abad ( F),28.16849,67.74734,Female,Balochistan,0,2,0,832
+1,GBMS Bhagia Khan (Firdous Colony) (M),28.16953,68.0526,Male,Balochistan,3,0,1442,0
+4,GBPS Qurban colony (M),28.17048,68.04724,Male,Balochistan,3,0,1275,0
+63,GBPS Dad Muhammad Hijwani ( F ),28.17139,68.01688,Female,Balochistan,0,3,0,1348
+20,GBPS Yaqoob Mahllah (Portion-I) (M),28.17201,68.03893,Male,Balochistan,2,0,1109,0
+21,GBPS Yaqoob Mohallah (Portion-II) (F),28.17212,68.03909,Female,Balochistan,0,2,0,858
+5,GGPS Community Noor Mohammad (F),28.17224,68.04768,Female,Balochistan,0,3,0,1147
+2,GGMS Bhagia Khan (Firdous Colony) (F),28.17325,68.05133,Female,Balochistan,0,3,0,1422
+48,GBPS Faqirabad (Com),28.17379,67.90287,Combined,Balochistan,1,1,538,401
+18,Sui Sudran Gas Office (Room No.1-2) (M),28.17379,68.04085,Male,Balochistan,3,0,1490,0
+19,Sui Southerin Gas Office (Room No.3-4) (F),28.17379,68.04088,Female,Balochistan,0,3,0,1199
+39,GBMS Ali Abad Jamali (Com),28.17412,68.00182,Combined,Balochistan,2,1,757,630
+16,Civil Hospital Usta Mohammad (F),28.1743,68.04189,Female,Balochistan,0,2,0,927
+17,GBHS Haq Bahoo (Room 1-2) Usta Mohammad (Combind),28.17483,68.04088,Combined,Balochistan,2,2,795,742
+13,Veternery Hospital Usta Mohammad (M),28.17505,68.04321,Male,Balochistan,3,0,1304,0
+6,Food Gudam Usta Mohamma Room N.2 (Com),28.17558,68.04706,Combined,Balochistan,2,2,818,661
+15,GGPS Umrani Gali (F),28.17561,68.04366,Female,Balochistan,0,2,0,995
+8,GGPS Goth Noor Pur (F),28.17632,68.02944,Female,Balochistan,0,1,0,1453
+10,Hindu General Hall Usta Mohammad (F),28.17756,68.04454,Female,Balochistan,0,3,0,1070
+23,GBPS Haq Bahoo Colony (F),28.17792,68.04135,Female,Balochistan,0,3,0,1397
+9,Community Center Hindu Mohllah (M),28.17797,68.04614,Male,Balochistan,3,0,1202,0
+7,GBPS Goth Noor Muhammad (M),28.17801,68.02659,Male,Balochistan,1,0,629,0
+36,GGPS Manzoor Lashari (F),28.17931,68.06538,Female,Balochistan,0,2,0,881
+28,GBHS Usta Muhammad (Primary Section) Room No 1-2 (Com),28.17936,68.04639,Combined,Balochistan,3,3,863,701
+29,GBHS Usta Muhammad (Primary Section) Room No. 4.5 (Com),28.17936,68.04642,Combined,Balochistan,2,1,857,702
+14,GBPS Usta Mohammad (M),28.17944,68.04621,Male,Balochistan,2,0,689,0
+3,B & R Office Usta Mohammad (com),28.17944,68.04758,Combined,Balochistan,1,1,320,286
+22,GBHS Usta Mohammad (Room No.3-4) (M),28.1804,68.04271,Male,Balochistan,3,0,1622,0
+24,Citizen Club Collage Road Usta Mohammad (M),28.18048,68.04453,Male,Balochistan,3,0,1605,0
+25,DDEO Office Usta Mohammad (F),28.181,68.04462,Female,Balochistan,0,3,0,1424
+27,Agriculture Office Usta Muhammad (F),28.18245,68.04626,Female,Balochistan,0,3,0,1429
+38,GGHS Rustam Khan Jamali (F),28.18245,68.06673,Female,Balochistan,0,3,0,1144
+26,Forest Office Agriculture Farm (M),28.18309,68.04288,Male,Balochistan,3,0,1522,0
+37,GBHS Rustam Khan Jamali (M),28.18395,68.06973,Male,Balochistan,3,0,1291,0
+35,GBPS Zeb Khan Jamali (M),28.18575,68.09106,Male,Balochistan,2,0,952,0
+34,GBMS Gharibabad (Com),28.18929,68.10844,Combined,Balochistan,1,1,688,625
+47,GBPS Piyara Khan Umrani (Com),28.20217,67.90685,Combined,Balochistan,2,1,760,627
+33,GBPS Ali Gohar Jamali (Com),28.20252,68.13347,Combined,Balochistan,1,1,575,566
+52,Irrigation Banglow No. 1 at Qaboola Pul (Com),28.20356,67.89017,Combined,Balochistan,1,1,679,490
+40,GBPS Kot Noor Muhammad (COM),28.20566,68.03359,Combined,Balochistan,1,1,382,384
+41,GBPS Shabir Ahmed Umrani (Com),28.20723,68.041,Combined,Balochistan,1,1,519,528
+45,GGPS Faizabad (F),28.21111,67.96892,Female,Balochistan,0,3,0,1216
+44,CD Faizabad Jamali (M),28.21192,67.97176,Male,Balochistan,3,0,1213,0
+42,GBPS Goth Hussain Bakhsh Bugti ( Near Faizabad Pul) (M),28.21835,67.98563,Male,Balochistan,2,0,836,0
+32,GBHS Khanpur (Room No.3-4) (Com),28.21894,68.11389,Combined,Balochistan,2,1,784,611
+30,GBHS Khanpur (Room No 1-2) (M),28.21895,68.11404,Male,Balochistan,2,0,1026,0
+31,GGMS Khanpur (F),28.22066,68.11483,Female,Balochistan,0,2,0,869
+43,Irrigation Banglow (Near Faizabad Bridge) (F),28.22253,67.98566,Female,Balochistan,0,2,0,751

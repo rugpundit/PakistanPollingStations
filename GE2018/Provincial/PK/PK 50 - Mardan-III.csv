@@ -1,0 +1,57 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+7,Govt.Primary School-     Subidar Killi(P) combined,34.184793674008695,71.9983363300631,Combined,KPK,2,2,894,603
+8,Fazal Haq  College Nesata road Mardan (Male),34.186375782558116,72.01168796287898,Male,KPK,3,0,1380,0
+9,Govt.Primary School- Aslam Abad (Female),34.18857492709387,72.01117101671782,Female,KPK,0,2,0,825
+3,Govt. Primary School- Mirwas (P) (Male) P.S No.1,34.19388023656158,72.01138924916627,Male,KPK,2,0,926,0
+5,Govt.  Primary School- Mirwas(P) (Male) P.S No.2,34.19388023656158,72.0114192491663,Male,KPK,4,0,2447,0
+6,Govt. Girls Primary School- Mirwas(P) (Female) P.S No.2,34.19531626183771,72.01525288819218,Female,KPK,0,3,0,1573
+4,Govt. Girls Primary School- Mirwas(P) (Female) P.S No.1,34.19533432659295,72.015250720236,Female,KPK,0,2,0,594
+2,Govt.Primary School-  Naushad Abad- (T) (Female),34.196316725327286,72.00064004937221,Female,KPK,0,2,0,882
+1,Govt: Primary School Marghano Kalay (T) Male,34.20139616122596,71.99320856195177,Male,KPK,3,0,1265,0
+21,Govt. Primary School Iran Abad (Combined),34.2097886465946,72.06839505803366,Combined,KPK,2,2,905,595
+22,Govt. Girls Primary School Iran Abad P.S No.1 (Male),34.209802995476984,72.06838345870548,Male,KPK,3,0,1185,0
+23,Govt. Girls Primary School Iran Abad P.S No.2 (Female),34.209802995476984,72.0684134587055,Female,KPK,0,2,0,828
+15,Govt. High school Chail Aslam khan (Female),34.226041244295544,72.03767199526656,Female,KPK,0,2,0,1000
+90,Govt. Girls Middle School Landai(Female),34.22632286374281,72.15721121460345,Female,KPK,0,3,0,1027
+130,Govt. Higher Secondary School- Baghecha Dehrai   (P) (Male),34.22643898162648,72.20628844102936,Male,KPK,4,0,1843,0
+67,Govt: Girls High School Gaddar (Combine),34.22741496830641,72.14424764148075,Combined,KPK,2,1,609,445
+99,Govt.Girls Higher Secondary School- Shahbaz Ghari (Combined) P.S No 1,34.22973375098437,72.16351858347002,Combined,KPK,2,2,954,749
+100,Govt.Girls Higher Secondary School- Shahbaz Ghari (Male) P.S No 2,34.22973375098437,72.16354858347,Male,KPK,4,0,1807,0
+19,Govt. Girls Primary school Samar Qand (Male) P.S no. 2,34.22991702638481,72.07059257188976,Male,KPK,3,0,1155,0
+98,Govt.Primary School- No.1 Shahbaz Ghari Female,34.229962754190474,72.16105159239437,Female,KPK,0,3,0,1275
+20,Govt. Girls Primary school Samar Qand (Female) P.S no. 3,34.22999105259787,72.07065391278923,Female,KPK,0,2,0,782
+18,Govt. Girls Primary school Samar Qand (Combined) P.S. No.1,34.23013851047221,72.07060649896124,Combined,KPK,2,2,810,510
+93,Govt.Girls Primary School- Saeed Abad  Male P.S No-1,34.23017457445051,72.16061814218025,Male,KPK,3,0,999,0
+16,Govt. Girls Primary school Chail banda katlang road (Combined),34.23267274082541,72.04504826651574,Combined,KPK,2,2,799,566
+64,Govt Girls Middle Scholl Gadar (Female),34.233287303324865,72.14665767703578,Female,KPK,0,4,0,1837
+88,Govt. Girls Middle School Narshak  (Female),34.23418082948401,72.16862095558413,Female,KPK,0,2,0,1558
+17,Govt. Primary school Pir Ghari Katlang Road (Combined),34.23437351903101,72.0316351603753,Combined,KPK,2,1,545,385
+14,Govt: Primary School Chail Banda Katlang Road Mardan. ( Male),34.23469028627847,72.04531291365949,Male,KPK,3,0,1355,0
+74,Govt Primary School Shagai No.2  (Combined),34.24457664020998,72.08009540739535,Combined,KPK,2,1,641,458
+72,Govt.Primary School- Babini (P) (Male),34.24902355900169,72.0436246074601,Male,KPK,4,0,1774,0
+36,Govt. Primary School Tordhare Wal (combined),34.25708565218783,72.16278935443101,Combined,KPK,2,2,666,527
+76,Govt. Girls Middle School- Khodai Noor Kalay (P) (Combined),34.25953455515088,72.05844665039189,Combined,KPK,2,2,1072,652
+37,Govt. Girls Middle School Kaki Dehrai (Combined),34.26383182918999,72.19202280559848,Combined,KPK,1,1,272,212
+34,BHU Bashkhaly (Combined),34.271108493360366,72.14104191700402,Combined,KPK,2,2,760,630
+103,Govt.High School Garyala (combined),34.27267610179431,72.20581459797523,Combined,KPK,2,2,929,751
+28,Govt. Girls Primary School Bakhshali No.1 Female,34.272773540469004,72.16821671938669,Female,KPK,0,3,0,979
+24,Govt. Degree College Bakhshali Male 1st P/S,34.27461801120279,72.15405947171244,Male,KPK,3,0,1096,0
+25,Govt. Degree College Bakhshali Male P/S No.2,34.27461801120279,72.1540894717124,Male,KPK,3,0,1253,0
+31,Govt. Degree College Bakhshali Male P/S No.3,34.27461801120279,72.1541194717124,Male,KPK,3,0,1155,0
+32,Govt. Degree College Bakhshali Female P/S No.4,34.27461801120279,72.1541494717124,Female,KPK,0,2,0,800
+33,Govt. Degree College Bakhshali (Combined) P/S No.5,34.27461801120279,72.1541794717124,Combined,KPK,2,2,884,713
+59,Govt.Girls Primary School- Hamza Khan (P) (Female),34.279452684673046,72.09170248140072,Female,KPK,0,2,0,940
+29,Govt. Girls High School Bakhshali No.1 Male,34.28283581857787,72.15143849223988,Male,KPK,3,0,1164,0
+30,Govt. High School Bakhshali Female  P/S No.2,34.28283581857787,72.1514684922399,Female,KPK,0,2,0,920
+40,The Muslim School Gujrat High Section (Combined),34.28776663008683,72.1562866839203,Combined,KPK,2,2,1039,836
+45,Govt. Girls Higher Secondary School Gujrat (Combined),34.28810728329751,72.16613529061438,Combined,KPK,2,2,781,599
+62,Govt. Higher Secondary School- Gadar P.S No.1 (Male),34.290953752834625,72.08756075338088,Male,KPK,2,0,939,0
+63,Govt. Higher Secondary School- Gadar P.S No.2 (Male),34.290953752834625,72.0875907533809,Male,KPK,4,0,1486,0
+43,The Muslim School Gujrat Primary Section (Male) P.S No.1,34.29211765268427,72.13350575238113,Male,KPK,3,0,1200,0
+44,The Muslim School Gujrat Primary Section (Female) P.S No.2,34.29211765268427,72.1335357523811,Female,KPK,0,2,0,962
+49,Govt.Girls Primary School Jhungara(P) (Female),34.29212363720574,72.13351620644582,Female,KPK,0,3,0,1085
+69,Govt Girls Primary School Qazi Abad (Female),34.2939168885857,72.07095541019316,Female,KPK,0,3,0,1016
+68,Govt Primary School Qazi Abad (Male),34.2939168885857,72.0709854101932,Male,KPK,3,0,1441,0
+38,Govt. High School Gujrat 1st P/S combined,34.29518787470953,72.17956231112865,Combined,KPK,2,2,739,631
+39,Govt. High School Gujrat 2nd  P/S combined,34.29518787470953,72.1795923111286,Combined,KPK,1,1,451,395
+46,Govt. Girls Primary School Mohib Ullah Banda (Combined),34.332853276255776,72.1497814268775,Combined,KPK,2,2,722,516

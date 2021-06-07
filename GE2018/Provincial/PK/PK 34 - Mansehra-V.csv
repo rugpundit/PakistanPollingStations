@@ -1,0 +1,93 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+25,Government Maktab Primary School Baffa Doraha Langora,34.40769,73.18436,Male,KPK,4,0,1295,0
+45,Government Primary School Dulla Maira,34.41056,73.25833,Male,KPK,3,0,982,0
+7,Government Middle School- Baffa Doraha,34.41506,73.22635,Male,KPK,3,0,1135,0
+8,Government Primary School- Baffa Doraha,34.41509,73.22639,Female,KPK,0,2,0,819
+21,Government Primary School No.2- Baffa Maira,34.41531,73.20919,Combined,KPK,2,2,711,543
+46,Aqsa Islamia Public School Dulla Maira,34.41722,73.26361,Female,KPK,0,2,0,691
+26,Government Primary School No.1 Baffa Maira,34.42002,73.19842,Female,KPK,0,3,0,1045
+47,Hazara University Mansehra,34.42374,73.24692,Combined,KPK,1,1,376,335
+48,Hazara University Mansehra (Department of Managment Sciences) (PS-II),34.42374,73.24695,Male,KPK,4,0,1811,0
+49,Hazara University Manshera (Department of Managment Sciences) (PS-III),34.42374,73.24698,Female,KPK,0,4,0,1371
+51,Government Higher Secondary School Dhodial (PS-I),34.42476,73.25365,Male,KPK,3,0,1199,0
+52,Government Higher Secondary School Dhodial (PS-II),34.42476,73.25368,Female,KPK,0,3,0,1025
+3,Government Primary School Inayat Abad,34.42827,73.22154,Female,KPK,0,4,0,1722
+4,Government Primary School- Banda Piran (PS-I),34.43002,73.22788,Male,KPK,2,0,909,0
+5,Government Primary School Banda Piran (PS-II),34.43002,73.22791,Male,KPK,4,0,1201,0
+50,Government Primary School Dhodial,34.43198,73.25635,Combined,KPK,2,1,605,493
+58,Government Girls Primary School Badhan,34.43306,73.28694,Combined,KPK,2,1,515,364
+1,Agriculture Extension Office- Inayat Abad. (PS-I),34.43365,73.2248,Male,KPK,3,0,925,0
+2,Agriculture Office (Research Center)- Inayat Abad. (PS-II),34.43365,73.22483,Male,KPK,4,0,1219,0
+53,Government Primary School Girwal,34.43372,73.24717,Male,KPK,3,0,1044,0
+54,Government Girls Primary School Girwal,34.43417,73.24805,Female,KPK,0,2,0,807
+42,Government Middle School Dhodial,34.43556,73.25417,Female,KPK,0,3,0,1432
+40,Government Girls High School Dhodial (PS-I),34.43564,73.25935,Male,KPK,3,0,1210,0
+41,Government Girls High School Dhodial (PS-II),34.43564,73.25938,Male,KPK,2,0,615,0
+55,Government Middle School Shanai Bala,34.43758,73.26839,Male,KPK,2,0,762,0
+9,Government Primary School- Baffa Khurd (Partially Improvised),34.43766,73.21254,Combined,KPK,2,2,795,675
+10,Government Middle School Baffa Khurd,34.43788,73.21224,Male,KPK,4,0,1448,0
+11,Governmet Girls Primary School Baffa Khurd,34.4385,73.21269,Female,KPK,0,4,0,1231
+22,Government Primary School Baffa Kalan,34.43862,73.21941,Combined,KPK,2,2,649,495
+12,Government Higher Secondary School Baffa Male (PS-I),34.43864,73.22343,Male,KPK,2,0,1070,0
+17,Government Higher Secondary School Baffa Male (PS-II),34.43864,73.22346,Male,KPK,3,0,1027,0
+16,Tehsil Head Qarter Hospital Baffa,34.43914,73.21611,Combined,KPK,2,2,719,622
+14,Government Middle School Baffa Kalan Male,34.43945,73.2199,Male,KPK,3,0,1184,0
+56,Government Girls Primary School Shanai Bala,34.43946,73.26646,Female,KPK,0,2,0,620
+13,Government Girls Higher Secondary School Baffa Kalan Female (PS-II),34.44004,73.22011,Female,KPK,0,2,0,873
+15,Government Girls Higher Secondary School Baffa Kalan Female (PS-II),34.44004,73.22014,Female,KPK,0,2,0,997
+18,Government Girls Higher Secondary School Baffa Kalan Female (PS-III),34.44004,73.22017,Female,KPK,0,2,0,880
+57,Government Primary School Thanda Katha (Shanai Bala),34.44367,73.27802,Combined,KPK,2,1,569,425
+27,Government Primary School Baffa Batgram,34.44374,73.20043,Combined,KPK,2,1,649,477
+34,Government Primay School Banjna Maira,34.44627,73.22758,Male,KPK,4,0,1675,0
+19,Government Primary School Eidgah Male,34.44641,73.19403,Male,KPK,3,0,1022,0
+35,Government Girls Primary School Bajna Maira,34.44722,73.23072,Female,KPK,0,4,0,1272
+38,Government Primary School Bajna,34.44794,73.25311,Male,KPK,4,0,1530,0
+39,Government Girls Primary School Bajna,34.44794,73.25314,Female,KPK,0,3,0,1154
+71,Government Primary School Haji Bela at Lundai,34.44944,73.27528,Female,KPK,0,2,0,895
+74,Government Girsl Primary School Bedadi,34.45004,73.26959,Female,KPK,0,3,0,986
+73,Government Middle School Bedadi,34.45071,73.26845,Male,KPK,3,0,1226,0
+20,Government Girls Primary School Eidgah,34.45135,73.18886,Female,KPK,0,2,0,775
+37,Government Girls High School Bajna,34.45163,73.25512,Female,KPK,0,2,0,612
+23,Government Primay School Kulharay Markazi,34.45361,73.22974,Male,KPK,4,0,1836,0
+70,Islamia Public School Bedadi,34.45361,73.27084,Male,KPK,4,0,1678,0
+36,Government High School Bajna,34.454,73.2558,Male,KPK,2,0,816,0
+24,Government Girls Community Model School Kulharay,34.45782,73.23347,Female,KPK,0,4,0,1410
+72,Government Primary School Kandar Bedadi,34.45861,73.27667,Female,KPK,0,1,0,432
+60,Rural Health Centre Shinkiari,34.46259,73.27129,Female,KPK,0,2,0,756
+59,Union Council Office Shinkiari,34.4672,73.27109,Male,KPK,3,0,975,0
+62,Government High School Shinkiari,34.46883,73.27026,Male,KPK,4,0,2508,0
+63,Government Girls Higher Secondary School Shinkiari,34.46883,73.27029,Female,KPK,0,4,0,2050
+68,Government Primary School Shinkiari,34.46898,73.2723,Combined,KPK,2,1,569,417
+64,Government Girls Primary School No.1 Shinkiari,34.47089,73.27094,Combined,KPK,2,2,789,669
+67,Government Primary School Khan Dheri,34.47294,73.28219,Combined,KPK,2,2,1069,806
+32,Government Primary School Ziarat Batang,34.47496,73.25825,Male,KPK,2,0,680,0
+29,Government Girls Middle School Tanda,34.47794,73.25633,Female,KPK,0,4,0,1405
+31,Government Girls Primary School Tanda,34.48105,73.25834,Female,KPK,0,2,0,653
+66,Government Girls Primary School Makarha Miana,34.48168,73.27751,Female,KPK,0,4,0,1383
+33,Government Primary School Bela Tanda,34.48203,73.24704,Combined,KPK,1,1,542,419
+28,Government Middle School Tanda,34.48345,73.25636,Male,KPK,3,0,1204,0
+65,Government Primary School Makarha Miana,34.48439,73.28056,Male,KPK,4,0,1632,0
+30,Government Primary School Tanda,34.48609,73.25533,Male,KPK,2,0,834,0
+77,Government Primary School Khanpur,34.48666,73.26136,Female,KPK,0,2,0,732
+61,Government Primary School Makriah Bala,34.48816,73.27543,Combined,KPK,2,2,1062,835
+80,Ray of Light Education Acadamy Swati Abad (PS-I),34.495,73.26667,Male,KPK,3,0,1208,0
+81,Ray of Light Education Academy Swati Abad (PS-II),34.495,73.2667,Female,KPK,0,3,0,962
+79,Government Primary School Tubah,34.49617,73.27297,Female,KPK,0,2,0,759
+76,Government Middle & Primary School Mera Swai Abad Tumbah,34.49669,73.26948,Male,KPK,3,0,943,0
+78,Government Middle & Primary School Maira Swati Abad (PS-II),34.49669,73.26951,Male,KPK,3,0,996,0
+82,Government High School Dharyal,34.50876,73.26623,Male,KPK,3,0,1022,0
+83,Government Girls High School Dharyal,34.50876,73.26626,Female,KPK,0,2,0,831
+85,Siran Valley Guest House Kuligah (Dadar),34.51278,73.26056,Combined,KPK,2,2,810,625
+84,Government Primary School Kuligah,34.51484,73.26337,Combined,KPK,1,1,473,361
+75,Government Primary School Timri,34.52705,73.28125,Combined,KPK,2,2,832,613
+87,Government High School Sum Ellahi Mang,34.53996,73.24607,Male,KPK,4,0,1474,0
+88,Government Girls Primary School Sum Eallahi Mang,34.54007,73.24955,Female,KPK,0,3,0,1127
+86,Government Primary School Sum Ellahi Mang,34.54041,73.24706,Combined,KPK,2,2,879,669
+94,Government Girls Primary School Chitta Batta,34.56224,73.24989,Combined,KPK,2,1,668,480
+89,Government Primary School Daal Bani,34.56341,73.22507,Combined,KPK,2,1,518,415
+97,Government Middle School Bhogermang,34.56818,73.25729,Male,KPK,4,0,1646,0
+98,Government Girls Primary School Bhogermang,34.5691,73.25819,Female,KPK,0,4,0,1299
+96,Government Girls Primary School Cham Bakki,34.57418,73.24253,Combined,KPK,2,1,523,361
+95,Government High School Bakki,34.57755,73.22042,Combined,KPK,2,1,669,461
+90,Government Primary School Gran Thali,34.58494,73.25337,Male,KPK,2,0,880,0
+91,Government Girls Primary School Gran Thali,34.58694,73.25584,Female,KPK,0,2,0,703

@@ -1,0 +1,118 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+21,Comrade School & College Safdar Colony Alam Chowk By Pass Gujranwala (Combined),32.15014,74.14281,Combined,Punjab,2,2,1217,846
+19,City Standard High School Gala Rana Aftab Wala- Gujranwala (Male),32.15316,74.15388,Male,Punjab,3,0,1389,0
+20,City Standard High School Gala Rana Aftab Wala- Gujranwala  (Female),32.15316,74.15391,Female,Punjab,0,2,0,1044
+17,Moon Star School- Shah Rukh Colony- Gujranwala (Male),32.15372,74.15726,Male,Punjab,3,0,1284,0
+14,Government Masjid Maktab Middle School- Gujranwala  (Female) / Government Primary  School Mubarik Colony Gujranwala,32.15436,74.15716,Female,Punjab,0,3,0,1287
+16,Government Masjid Maktab Middle School- Gujranwala  (Female) / Government Primary  School Mubarik Colony Gujranwala,32.15436,74.15719,Female,Punjab,0,3,0,2317
+13,Sirat-Ul-Jannat School- Gala Sui Gas- Hafizabad Road - Gujranwala (Male),32.15487,74.15351,Male,Punjab,3,0,1704,0
+15,Sirat-Ul-Jannat School- Gala Sui Gas- Hafizabad Road- Gujranwala (Male),32.15487,74.15354,Male,Punjab,4,0,2906,0
+11,Saint Joseph High School Hafizabad  Road (Male),32.15489,74.16408,Male,Punjab,3,0,1573,0
+7,Saint Joseph High School Hafizabad  Road (Male),32.15489,74.16411,Male,Punjab,3,0,1656,0
+18,London School- Shah Rukha Colony- Gujranwala  (Female),32.15505,74.15104,Female,Punjab,0,2,0,1002
+51,GC Grammar High School- Gujranwala (Male),32.15565,74.15874,Male,Punjab,2,0,1098,0
+52,GC Grammar High School- Gujranwala  (Female),32.15565,74.15877,Female,Punjab,0,2,0,742
+10,M.C Girls Primary School No.29 Mohallah Sultan Pura (Female),32.157,74.16375,Female,Punjab,0,3,0,1632
+6,M.C Girls Primary School No.29 Mohallah Sultan Pura (Female),32.157,74.16378,Female,Punjab,0,3,0,1439
+27,Government Girls Primary School Rasheed Colony- Gujranwala  (Female),32.15799,74.15743,Female,Punjab,0,3,0,1661
+28,Government Girls Elementary School Kotli Rustam- Gujranwala (Male),32.15799,74.15746,Male,Punjab,4,0,1955,0
+29,Government Boys Hamid Ali High School- Kotli Rustam  (Female),32.15799,74.15744,Female,Punjab,0,3,0,1418
+31,Government Boys Hamid Ali High School- Kotli Rustam  (Female),32.15799,74.15747,Female,Punjab,0,3,0,1780
+34,Government Boys Hamid Ali High School- Kotli Rustam  (Female),32.15799,74.1575,Female,Punjab,0,3,0,1607
+12,Government Elementary School No. 5- Rasool Pura- Gujranwala  (Female),32.15802,74.17035,Female,Punjab,0,2,0,1211
+5,Jamia Idreesia High School Gala Barf Khana- Chah Sarafan (Male),32.15802,74.17038,Male,Punjab,4,0,1980,0
+8,Government Elementary School No. 5- Rasool Pura- Gujranwala  (Female),32.15802,74.17041,Female,Punjab,0,3,0,1251
+9,Jamia Idreesia High School Gala Barf Khana- Chah Sarafan (Male),32.15802,74.17044,Male,Punjab,4,0,1953,0
+26,Al-Qudoos High School School- Kareem Pura- Gujranwala (Male),32.15846,74.16255,Male,Punjab,4,0,2148,0
+4,Mubeen Model High School 10-Mahboob Haq Sadiq Road Gujranwala (Female),32.15992,74.16694,Female,Punjab,0,3,0,1446
+23,Al-Raheem Model High School Gujranwala  (Female),32.16035,74.16225,Female,Punjab,0,3,0,1646
+24,Munirat-Ul-Islam Model High School Garjakh- Gujranwala ( Male),32.16035,74.16228,Male,Punjab,3,0,1895,0
+25,Al-Raheem Model High School Gujranwala  (Female),32.16035,74.16231,Female,Punjab,0,3,0,1476
+1,Government Primary School- Rehman Pura- Gujranwala (Male),32.16146,74.1609,Male,Punjab,4,0,2165,0
+2,Government Primary School- Rehman Pura- Gujranwala  (Female),32.16146,74.16093,Female,Punjab,0,3,0,1638
+37,SDO GARJAKHI GATE GEPCO GRID STATION KOTLI RUSTAM BYPASS (FEMALE),32.16195,74.14572,Female,Punjab,0,3,0,1527
+32,XEN-Cantt WAPDA -GEPCO Grid Station- Kotli Rustam (Male),32.16196,74.14572,Male,Punjab,3,0,1470,0
+33,XEN-Cantt WAPDA -GEPCO Grid Station- Kotli Rustam (Male),32.16196,74.14575,Male,Punjab,2,0,979,0
+36,SDO FAROOQ GANJ GEPCO GRID STATION KOTLI RUSTAM BYPASS (MALE),32.16204,74.14573,Male,Punjab,2,0,1087,0
+38,SDO BAGBANPURA GEPCO KOTLI RUSTAM BYPASS (MALE),32.16206,74.14571,Male,Punjab,4,0,1970,0
+30,XEN-III WAPDA -GEPCO Grid Station- Kotli Rustam (Male),32.16209,74.14544,Male,Punjab,4,0,2507,0
+3,Bait-Ul-Hikmat Academy- Gala Dr. Maqsood Wala- Rehman Pura (Male),32.16241,74.16602,Male,Punjab,4,0,1941,0
+39,Government Boys Primary School Garjakh-Iii  (Female),32.16662,74.16464,Female,Punjab,0,2,0,1315
+40,Government Boys Primary School No. 2- Garjakh Gujranwala (Male),32.16662,74.16467,Male,Punjab,3,0,1956,0
+42,Government Boys Primary School No. 2- Garjakh Gujranwala (Male),32.16662,74.1647,Male,Punjab,3,0,1173,0
+44,Government Boys Primary School Baghwala- Garjakh  (Female),32.16662,74.16473,Female,Punjab,0,3,0,1714
+47,Government Boys Elementary School Garjakh- Gujranwala (Male),32.16662,74.16476,Male,Punjab,3,0,1526,0
+48,Government Girls High School Garjakh- Gujranwala  (Female),32.16676,74.16284,Female,Punjab,0,2,0,1061
+22,Sirat-E-Mustaqeem School System- Garjakh- Gujranwala ( Male),32.1668,74.15742,Male,Punjab,4,0,2347,0
+45,Paradise Science School Street Number 2 Garjakh Raza Abad Gujranwala (male),32.16697,74.15675,Male,Punjab,3,0,1947,0
+35,Government Boys Primary School No. 2 Hassan Pura Gujranwala (Male),32.16708,74.15001,Male,Punjab,2,0,1162,0
+41,Government Girls Primary School Hasan Pura- Gujranwala  (Female),32.16708,74.15004,Female,Punjab,0,3,0,1342
+57,Aims School- Gujranwala  (Male),32.17046,74.16637,Male,Punjab,2,0,1334,0
+43,Dimond Public School- Garjakh- Gujranwala (Male),32.17095,74.15675,Male,Punjab,2,0,1278,0
+46,Government Girls Primary School Fareed Road- Taj Pura  (Female),32.17095,74.15678,Female,Punjab,0,3,0,1370
+49,Fatima Jinnah School- Near Graveyard- Garjakh (Male),32.17095,74.15681,Male,Punjab,3,0,1694,0
+50,Fatima Jinnah School- Near Graveyard- Garjakh  (Female),32.17095,74.15684,Female,Punjab,0,2,0,1180
+53,Government Middle School No. 26 Islam Pura Gujranwala (Male),32.17212,74.1681,Male,Punjab,3,0,1377,0
+55,Government Middle School No. 26 Islam Pura Gujranwala (Male),32.17212,74.16813,Male,Punjab,3,0,2108,0
+54,Iram Publc School Gala Dr. Khadam Wala Islam Pura Reg No. 651   (Female),32.17261,74.1703,Female,Punjab,0,2,0,1066
+56,Iram Publc School Gala Dr. Khadam Wala Islam Pura Reg No. 651   (Female),32.17261,74.17033,Female,Punjab,0,2,0,1623
+63,Government  Primary School  Syed Pak Dhullay (Male),32.17406,74.16247,Male,Punjab,3,0,1463,0
+65,Government  Primary School  Syed Pak Dhullay (Male),32.17406,74.1625,Male,Punjab,4,0,2634,0
+67,Syed Rahnuma Computer Science College- Gujranwala (Male),32.17406,74.16253,Male,Punjab,2,0,1125,0
+69,Syed Rahnuma Computer Science College- Gujranwala (Male),32.17406,74.16256,Male,Punjab,3,0,1654,0
+58,Chand Public School Gali Kohlowali Zahoor Pura Reg No 12184/G-A   (Female),32.17406,74.16794,Female,Punjab,0,2,0,958
+59,Standard Model School- Gala Khal Wala- Afzal Pura- Dhullay (Male),32.17469,74.16214,Male,Punjab,3,0,1608,0
+61,Standard Model School- Gala Khal Wala- Afzal Pura- Dhullay (Male),32.17469,74.16217,Male,Punjab,3,0,1784,0
+79,Government High School Dhullay (Male),32.17514,74.17254,Male,Punjab,3,0,1620,0
+80,Government High School Dhullay (Female),32.17514,74.17257,Female,Punjab,0,2,0,1067
+89,Government High School Akhtar Shahbaz Block Dhullay  (Male),32.17514,74.1726,Male,Punjab,2,0,1284,0
+90,Government High School Akhtar Shahbaz Block Dhullay (Female),32.17514,74.17263,Female,Punjab,0,2,0,1097
+93,Government High School Dhullay ( Male),32.17514,74.17266,Male,Punjab,4,0,1996,0
+94,Government High School Akhtar Shahbaz Block Dhullay (Female),32.17514,74.17269,Female,Punjab,0,3,0,1699
+95,Government High School Dhullay ( Male),32.17514,74.17272,Male,Punjab,4,0,1962,0
+96,Government High School Akhtar Shahbaz Block Dhullay (Female),32.17514,74.17275,Female,Punjab,0,2,0,1359
+97,Government High School Dhullay ( Male),32.17514,74.17278,Male,Punjab,3,0,1710,0
+98,Government High School Akhtar Shahbaz Block Dhullay (Female),32.17514,74.17281,Female,Punjab,0,2,0,1388
+87,Government Girls Primary School Dhullay ( Male),32.17515,74.17254,Male,Punjab,3,0,1667,0
+88,Government Girls Primary School Dhullay ( Female),32.17515,74.17257,Female,Punjab,0,2,0,1255
+64,Ramzan Elementry School Afzal Pura Gali Khaal Wali Reg No. 6352  (Female),32.176,74.16248,Female,Punjab,0,2,0,1049
+66,Ramzan Elementry School Afzal Pura Gali Khaal Wali Reg No. 6352  (Female),32.176,74.16251,Female,Punjab,0,4,0,1892
+101,Bab ul ilm Model High School Pasban Colony Raj Kot 22 Foot Bazar Gujranwala (Male),32.18599,74.15834,Male,Punjab,3,0,1729,0
+103,Baba Ji Mehboob Model School 22 Foot Bazar Pasban Colony Raj Kot Gujranwala (Male),32.18642,74.1581,Male,Punjab,2,0,1360,0
+105,Qauaid Public School Rajkot (Male),32.18663,74.15369,Male,Punjab,2,0,1204,0
+106,Qauaid Public School Rajkot (Female),32.18663,74.15372,Female,Punjab,0,2,0,793
+102,Government Husnain Cheema Shaheed Civil Dispensry Tufail Town Near Kothi Ch.Sabir Rajkot (Female),32.18702,74.15273,Female,Punjab,0,2,0,1221
+104,Government Husnain Cheema Shaheed Civil Dispensry Tufail Town Near Kothi Ch.Sabir Rajkot (Female),32.18702,74.15276,Female,Punjab,0,2,0,912
+91,Zia foundation High School Fazal Pura (Male),32.18725,74.17053,Male,Punjab,3,0,1193,0
+81,Government Girls Mc Primary School Rabbani Town (Male),32.18747,74.16526,Male,Punjab,2,0,1287,0
+82,Government Girls Mc Primary School Rabbani Town (Female),32.18747,74.16529,Female,Punjab,0,2,0,1007
+100,Government Girls Primary School Raj Kot (Female),32.18758,74.16515,Female,Punjab,0,2,0,1178
+99,Government Girls Primary School Raj Kot (Male),32.18758,74.16518,Male,Punjab,3,0,1516,0
+92,Life Way High School Gali No. 14 Fazal Pura (Female),32.18764,74.17109,Female,Punjab,0,2,0,996
+60,Government Girls Primary School Near Jamia Masjid Rabbani- Afzal Pura-  (Female),32.18903,74.16551,Female,Punjab,0,2,0,1151
+62,Government Girls Primary School Near Jamia Masjid Rabbani- Afzal Pura-  (Female),32.18903,74.16554,Female,Punjab,0,3,0,1374
+72,Shahid Model School Noor e Mustafa Colony St. No. 3 Gujranwala (Female),32.19038,74.16757,Female,Punjab,0,4,0,1112
+74,Our High School Gali No. 4 Noor e Mustafa Colony (Combined),32.19038,74.1676,Combined,Punjab,2,2,1410,729
+71,PRIME Education High School Noor e Mustafa Colony (Male),32.19108,74.16821,Male,Punjab,4,0,1448,0
+75,Ken Public High School Siddique Akbar Road Mirza Colony (Male),32.19148,74.17028,Male,Punjab,4,0,1658,0
+85,KYN Public School Chah Soian Wala (Male),32.19149,74.17025,Male,Punjab,2,0,1371,0
+86,KYN Public School Chah Soian Wala (Female),32.19149,74.17028,Female,Punjab,0,2,0,1004
+76,The Eden High School Siddique Akbar Road Mirza Colony (Female),32.1917,74.17023,Female,Punjab,0,3,0,1235
+77,The Savy School 30 foot main bazar shaheen abad gujranwala (Male),32.19491,74.17151,Male,Punjab,3,0,1443,0
+73,Future Vision School 30 foot Bazar Shaheen Abad Gujranwala (Combined),32.19491,74.17228,Combined,Punjab,2,2,1516,1120
+78,The Superior School Tara Wala Gala 30 Foot Bazar Shaheen Abad Gujranwala (Female),32.19492,74.17152,Female,Punjab,0,3,0,1135
+83,Government Girls Elementry School 30 foot Main Bazar Shaheen Abad Gujranwala (Male),32.19548,74.17245,Male,Punjab,2,0,1125,0
+84,Government Girls Elementry School 30 Foot Main Bazar Shaheen Abad Gurjanwala (Female),32.19548,74.17248,Female,Punjab,0,2,0,793
+107,Government Boys Primary School Rudiala Warraich (Male ),32.21657,74.14029,Male,Punjab,3,0,1259,0
+108,Government Boys Primary School Rudiala Warraich (Female ),32.21657,74.14032,Female,Punjab,0,2,0,884
+113,Worker Walfare School For Girls Gulshan Colony (Female),32.21815,74.16716,Female,Punjab,0,3,0,1303
+115,Worker Walfare School For Girls Gulshan Colony (Female),32.21815,74.16719,Female,Punjab,0,2,0,1371
+112,Worker Walfare School For Boys Gulshan Colony (Male),32.21904,74.16792,Male,Punjab,3,0,1710,0
+114,Worker Walfare School For Boys Gulshan Colony (Male),32.21904,74.16795,Male,Punjab,3,0,1637,0
+110,Govt.Girls Elementary School Mandiala Waraich (Female),32.22032,74.15502,Female,Punjab,0,2,0,1729
+111,Union Council Office Mandiala Waraich  (Combined),32.221,74.1599,Combined,Punjab,2,2,1011,690
+109,Government Boys Elementry School Mandiala Warriach (Male),32.22446,74.15766,Male,Punjab,3,0,2251,0
+117,Government Girls Primary School Kot Shahan (Female),32.23166,74.1796,Female,Punjab,0,4,0,1442
+119,Government Girls Primary School Kot Shahan (Female),32.23166,74.17963,Female,Punjab,0,3,0,1045
+116,Government Boys Primary School Kot Shahan  (Male),32.23191,74.17989,Male,Punjab,4,0,1790,0
+118,Government Boys Primary School Kot Shahan  (Male),32.23191,74.17992,Male,Punjab,3,0,1399,0

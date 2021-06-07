@@ -1,0 +1,98 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+89,Govt: Higher Secondary School Fatehpur  (Combined),35.0543,72.48254,Combined,KPK,2,2,1262,979
+90,Govt: Primary School No.1 Fatehpur (Male),35.05434,72.48206,Male,KPK,2,0,1848,0
+91,Govt: Girls Primary School Fatehpur (Female),35.06367,72.48627,Female,KPK,0,2,0,1329
+93,Govt: Girls Higher Secondary School Fatehpur (Female),35.0663,72.48466,Female,KPK,0,2,0,1114
+92,Govt: Primary School No.2 Fatehpur (Male),35.0689,72.48808,Male,KPK,2,0,1514,0
+85,Govt: Primary School Benorrai  (Combined),35.07315,72.48654,Combined,KPK,1,1,581,434
+87,Govt: Primary School Barhampatai (Male),35.07322,72.49873,Male,KPK,2,0,1678,0
+88,Govt: Girls Primary School Barhampatai (Female),35.07429,72.49437,Female,KPK,0,2,0,1232
+84,Govt: Girls Primary School Chekrai (Combined),35.08451,72.49403,Combined,KPK,1,1,546,359
+86,Govt: Primary School Pir Patay  (Combined),35.0913,72.50996,Combined,KPK,2,1,1098,798
+97,Govt: Primary/Middle School Jaray (Combined),35.10066,72.50641,Combined,KPK,2,1,1187,779
+48,Govt: High School Qandil (Male),35.10538,72.50307,Male,KPK,2,0,1683,0
+49,Govt: Primary School Qandil (Female),35.10564,72.50302,Female,KPK,0,2,0,1226
+96,Govt: Girls Primary School Chancharay Matta Pia Khwarr (Female),35.10574,72.5377,Female,KPK,0,2,0,1056
+95,Govt: High School Chanchargay Middle Branch (Male),35.10666,72.52863,Male,KPK,2,0,1493,0
+94,Govt: High School Chancharay (Combined),35.10832,72.51489,Combined,KPK,2,2,1217,967
+47,Govt: Primary School Shigal  (Combined),35.11443,72.50505,Combined,KPK,1,1,551,448
+46,Govt: Primary School Terat  (Combined),35.11905,72.5061,Combined,KPK,1,1,731,552
+45,Govt: Primary School Damana (Rented)  (Combined),35.11966,72.51624,Combined,KPK,1,1,653,494
+55,Govt: Primary School Shinkoo (Male),35.12405,72.59852,Male,KPK,4,0,2361,0
+44,Govt: Girls Primary School Kalagram (Combined),35.12412,72.5151,Combined,KPK,1,1,603,437
+56,Govt: Girls Primary/Middle School Shinkoo (Female),35.12569,72.59555,Female,KPK,0,2,0,1678
+52,Govt: Middle School Bashigram (Male),35.1291,72.61315,Male,KPK,2,0,1471,0
+53,Govt: Primary School Bashigram (Female),35.12915,72.61285,Female,KPK,0,2,0,1060
+54,Govt: Girls Primary School Bashigram  (Combined),35.1292,72.61225,Combined,KPK,2,2,1513,1103
+42,Govt: Primary School Terat Dara  (Combined),35.13147,72.481,Combined,KPK,2,1,973,751
+43,Govt: Primary School Shameray  (Combined),35.13432,72.50768,Combined,KPK,2,2,1448,1031
+31,Govt: Girls Primary School Kuz Kalay Madyan (Female),35.139,72.53514,Female,KPK,0,3,0,2266
+34,Govt: Girls High School Madyan (Female),35.1391,72.54008,Female,KPK,0,3,0,1405
+35,Agriculture Office Madyan (Female),35.13953,72.54032,Female,KPK,0,2,0,1033
+29,Govt: Higher Secondary School Madyan Right Side (Male),35.14017,72.53455,Male,KPK,3,0,1348,0
+30,Govt: Higher Secondary School Madyan Left Side (Male),35.14017,72.53458,Male,KPK,3,0,1753,0
+32,Govt; Primary School Madyan Right Side (Male),35.14017,72.53461,Male,KPK,3,0,1841,0
+33,Govt: Primary School Madyan Left Side (Male),35.14017,72.53464,Male,KPK,3,0,1423,0
+57,Govt: High School Chail  (Combined),35.14025,72.58267,Combined,KPK,1,1,694,538
+58,Govt: Primary School Chail  (Combined),35.14029,72.58267,Combined,KPK,2,1,1119,794
+38,Govt: Primary School Badalai (Combined),35.1432,72.56007,Combined,KPK,2,1,979,705
+51,Govt: Primary School Shagai Shahgram  (Combined),35.14523,72.53188,Combined,KPK,2,2,1330,1083
+50,Govt: Primary School Kwaro Shahgram  (Combined),35.14695,72.52367,Combined,KPK,2,1,843,649
+41,Govt: Primary School Paklai (Combined),35.14749,72.53096,Combined,KPK,1,1,824,593
+37,Govt: Primary School Dabargay (Combined),35.15606,72.58989,Combined,KPK,1,1,635,444
+36,Govt: Middle School Dabargay  (Combined),35.15638,72.59301,Combined,KPK,2,1,855,541
+39,Govt: Middle School Kalagay  (Combined),35.15752,72.54207,Combined,KPK,2,1,1137,785
+40,Govt: Middle School Pardesha  (Combined),35.15794,72.51378,Combined,KPK,2,1,1102,752
+28,Govt: Primary School Cham Satal (Combined),35.16875,72.52912,Combined,KPK,2,2,1437,1115
+26,Govt: Primary School Satal Kuza Gahrrai Right Side (Male),35.17871,72.53436,Male,KPK,3,0,2051,0
+27,Govt: Primary School Satal Kuza Gahrrai Left Side (Female),35.17871,72.53439,Female,KPK,0,3,0,1652
+13,Govt: Middle School Ayeen (Male),35.18546,72.53998,Male,KPK,3,0,1536,0
+14,Govt: Primary School Ayeen  (Female),35.18558,72.54005,Female,KPK,0,3,0,1185
+25,Govt: Girls High School Bahrain  (Combined),35.19288,72.53934,Combined,KPK,2,2,1145,929
+22,Govt: Primary School Bahrain Right Side (Female),35.20641,72.5461,Female,KPK,0,2,0,1257
+24,Govt: Primary School Bahrain Left Side (Female),35.20641,72.54613,Female,KPK,0,2,0,1311
+21,Govt: High School Bahrain Right Side (Male),35.20668,72.54589,Male,KPK,2,0,1480,0
+23,Govt: High School Bahrain Left Side (Male),35.20668,72.54592,Male,KPK,2,0,1625,0
+15,Govt: Primary School No.1 Darolay Semi Improvised (Combined),35.21394,72.56252,Combined,KPK,2,2,1031,772
+20,Govt: Primary School Areen (Rented) Improvised (Combined),35.22576,72.49668,Combined,KPK,1,1,789,633
+19,Govt: Primary School Guntanr Bahrain  (Combined),35.22823,72.47008,Combined,KPK,2,2,1310,904
+8,Govt: Primary School No.1 Tan Torwal  Semi Improvised (Combined),35.23345,72.56808,Combined,KPK,2,2,1291,960
+17,Govt: Primary School No.1 Gornai (Female),35.23405,72.58925,Female,KPK,0,2,0,1146
+18,Govt: Girls Primary School Gornai  (Combined),35.23426,72.58855,Combined,KPK,1,1,613,508
+16,Govt: High School Gornai (Male),35.23493,72.59106,Male,KPK,2,0,1376,0
+7,Govt: Primary School Kedam  (Combined),35.24832,72.58706,Combined,KPK,1,1,776,545
+11,Govt: Girls Primary School Ramait (Female),35.2759,72.60398,Female,KPK,0,2,0,1143
+10,Govt: Middle School Ramait Improvised (Male),35.27617,72.60445,Male,KPK,2,0,1700,0
+5,Govt: Middle School Cham Gahrrai  (Combined),35.28479,72.60555,Combined,KPK,1,1,640,449
+6,Govt: Girls Primary School Cham Gahrai (Combined),35.28585,72.60547,Combined,KPK,1,1,751,521
+4,Govt: Primary School No.1 Balakot Semi Improvised (Combined),35.32375,72.60745,Combined,KPK,2,1,1262,847
+9,Govt: Higher Secondary School Mankyal (Combined),35.32584,72.61314,Combined,KPK,2,2,1541,947
+12,Govt: Primary School Badai Semi Improvised (Combined),35.33241,72.64715,Combined,KPK,2,2,1532,979
+3,Govt: High School Laikot  (Combined),35.40038,72.60419,Combined,KPK,2,2,1318,927
+2,Govt: Primary School No.2 Aryanai  (Combined),35.43684,72.60788,Combined,KPK,2,2,1526,1010
+1,Govt: High School Pishmal  (Combined),35.44753,72.60095,Combined,KPK,2,1,1225,878
+64,Govt: Primary School Jalbanr (Female),35.46526,72.58179,Female,KPK,0,2,0,1081
+63,Govt: Middle School Jalbanr  (Male),35.46559,72.58218,Male,KPK,2,0,1505,0
+65,Govt: Middle School Boyun  (Combined),35.47454,72.60405,Combined,KPK,1,1,773,510
+61,Govt: Higher Secondary School Kalam Secondary Section (Male),35.47943,72.58464,Male,KPK,3,0,1885,0
+62,Govt: Higher Secondary School Kalam High Portion (Female),35.47943,72.58467,Female,KPK,0,2,0,1266
+59,Govt: Primary School No.1 Kalam  (Combined),35.48067,72.58574,Combined,KPK,2,1,1292,860
+60,Govt: Girls Primary School No.2 Kass Kalam (Combined),35.48758,72.57632,Combined,KPK,2,1,678,469
+77,Govt: Higher Secondary School Utror Right Side  (Male),35.49075,72.46609,Male,KPK,4,0,2217,0
+78,Govt: Higher Secondary School Utroor Left Side (Female),35.49075,72.46612,Female,KPK,0,2,0,1355
+76,Govt: Primary School Utror  (Combined),35.49079,72.46817,Combined,KPK,2,1,1092,644
+75,Govt: Primary School Sazgal (Combined),35.49846,72.44476,Combined,KPK,1,1,750,413
+68,Govt: Primary School Ashoran (Male),35.50473,72.5821,Male,KPK,3,0,1554,0
+69,Govt: High School Ashoran (Female),35.50496,72.58257,Female,KPK,0,2,0,1103
+67,Govt: Girls Primary School Banr Kalay Kargalo (Combined),35.50573,72.59902,Combined,KPK,1,1,575,393
+66,Govt: Primary School Shahoo   (Combined),35.50593,72.60558,Combined,KPK,2,1,1110,692
+79,Govt: Primary/Middle School Gabral (Combined),35.51441,72.42242,Combined,KPK,2,1,863,517
+80,Govt: Primary School Bela Gabral Improvised (Combined),35.52869,72.41289,Combined,KPK,2,1,1079,629
+70,Govt: Middle School Bafar Oshoo (Combined),35.52916,72.6447,Combined,KPK,2,1,1131,757
+81,Govt: Girls Primary School Bela Gabral  (Combined),35.52946,72.41335,Combined,KPK,2,1,1341,869
+73,Govt: Primary School Churat Matiltan (Combined),35.5358,72.67815,Combined,KPK,1,1,702,421
+71,Govt: Primary School Matiltan (Combined),35.54153,72.66125,Combined,KPK,1,1,760,488
+72,Govt: High School Matiltan (Combined),35.54229,72.66162,Combined,KPK,1,1,874,581
+83,Govt: Primary School Gujjar Gabral  (Combined),35.56097,72.41741,Combined,KPK,2,1,837,555
+82,Govt: Primary School Karin Gabral (Combined),35.57075,72.41962,Combined,KPK,2,2,1556,1097
+74,Govt: Primary School Palogah (Combined),35.60612,72.68858,Combined,KPK,1,1,285,182

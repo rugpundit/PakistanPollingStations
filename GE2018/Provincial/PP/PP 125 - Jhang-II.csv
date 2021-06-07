@@ -1,0 +1,183 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+143,Government Boys Primary School Kot Rustum (Permanent),31.03423,72.06403,Combined,Punjab,2,1,700,404
+121,Government Boys Higher Secondary School Kalyar Wala (Permanent) (Male),31.04811,71.94226,Male,Punjab,2,0,935,0
+122,Government Boys Higher Secondary School (High Portion) Kalyar Wala (Permanent) (Female),31.04811,71.94229,Female,Punjab,0,2,0,715
+136,Government Boys Primary School Kot Umer Draz (Bela Ali Khanana) (Permanent),31.053032291508803,72.14236802079716,Combined,Punjab,1,1,316,203
+142,Government Boys Primary School Kot Murad (Permanent) (Male),31.05416,72.06103,Male,Punjab,2,0,1028,0
+154,Government Girls Primary School Basti Qatala (Rodu Sultan) (Permanent),31.05456,72.00542,Combined,Punjab,1,1,346,266
+141,Government Girls Elementary School- Kot Murad (Female),31.05559,72.05835,Female,Punjab,0,2,0,705
+157,Oxford Public (PEF) School Kallar Pur Rodu Sultan (Permanent) (Male),31.05721,72.00554,Male,Punjab,3,0,1049,0
+158,Government Boys Primary School Kallar Pur Rodu Sultan (Permanent) (Female),31.05759,72.00446,Female,Punjab,0,4,0,1680
+159,Government Girls High School (Primary Portion) Rodu Sultan (Permanent) (Male),31.05857,72.00812,Male,Punjab,2,0,1131,0
+160,Government Girls High School (Primary Portion) Rodu Sultan (Permanent) (Female),31.05857,72.00815,Female,Punjab,0,2,0,811
+162,Government Girls Secondary School (Double Story) Rodu Sultan (Permanent),31.05967,71.99758,Combined,Punjab,2,1,693,500
+149,Government Boys Elementry School (Primary Campus) Pahar Pur (Permanent) (Female),31.06062,72.05687,Female,Punjab,0,2,0,695
+150,Government Boys Elementry School Pahar Pur (Permanent) (Male),31.06062,72.0569,Male,Punjab,2,0,1048,0
+161,Rural Health Center Rodu Sultan (Permanent) (Male),31.06121,71.99832,Male,Punjab,2,0,1007,0
+152,Government Boys Primary School Taroor (Permanent),31.06121,72.03646,Combined,Punjab,2,1,876,671
+153,Government Boys Higher Secondry School (Old Building) Rodu Sultan (Permanent),31.06141,71.99711,Combined,Punjab,1,1,582,352
+156,Government Boys Higher Secondry School (High Portion) Rodu Sultan (Permanent) (Female),31.06148,71.99712,Female,Punjab,0,2,0,758
+155,Government Boys Higher Secondry School (Primary Portion) Rodu Sultan (Permanent) (Male),31.06148,71.99715,Male,Punjab,2,0,1052,0
+148,Government Girls Primary School- Kot Asif Khan (Permanent),31.08021,72.03703,Combined,Punjab,2,1,611,381
+135,Government Boys Primary School Dhan Miani (Permanent),31.08203,72.0726,Combined,Punjab,2,1,833,545
+131,Government Boys Primary School Basheer Abad Dargahi Shah(Permanent),31.08511,72.0374,Combined,Punjab,1,1,445,316
+151,Government Boys Primary School Pirowana Shumali (Permanent),31.09331,72.06963,Combined,Punjab,2,1,785,486
+124,Government Boys Primary School (Zafar Abad) Rehar (Permanent),31.09447,71.97393,Combined,Punjab,1,1,495,367
+125,Government Girls Primary School Hassan Abad ( Abadi Chak No. 10/3-Thal) (Permanent),31.09454,71.94891,Combined,Punjab,2,1,691,503
+144,Government Girls High School Lashari (Permanent),31.09613,72.01312,Combined,Punjab,1,1,485,350
+147,Government Boys High School (Middle Portion) Lashari (Permanent) (Female),31.09782,72.00998,Female,Punjab,0,2,0,557
+146,Government Boys High School (Primary Portion) Lashari (Permanent) (Male),31.09782,72.01001,Male,Punjab,2,0,848,0
+145,Government Boys High School Lashari (Permanent),31.09812,72.00999,Combined,Punjab,1,1,654,501
+137,Government Boys High School (Primary Portion) Jaboana (Permanent) (Male),31.10208,72.08607,Male,Punjab,3,0,1128,0
+139,Government Boys High School (High Portion) Jaboana (Permanent),31.10208,72.0861,Combined,Punjab,2,2,843,732
+140,Government Boys High School Jaboana (Middle Portion) (Permanent),31.10208,72.08613,Combined,Punjab,1,1,551,443
+123,Government Elementry School Chak No. 10/4 Thal (Permanent),31.10383,71.86964,Combined,Punjab,1,1,243,179
+138,Government Girls Community Model School Basti Abbas Nagar Chak Jaboana (Permanent) (Female),31.10461,72.08954,Female,Punjab,0,3,0,746
+182,Government Boys Elementry School Kot Dewan (Permanent),31.10679177933349,72.19339680019621,Combined,Punjab,1,1,733,571
+185,Government Boys Elementry School Kot Deewan (Primary Portion) (Permanent),31.10679177933349,72.1934268001962,Combined,Punjab,1,1,499,362
+183,Government Girls Primary School Kot Dewan (Permanent),31.10703,72.19312,Combined,Punjab,1,1,321,233
+103,Government Primary School- Binda Rasheed Pur (Permanent) (Male),31.10966,72.13054,Male,Punjab,2,0,1073,0
+129,Government Girls High School (Imran Abad) Sultan Lashari (Permanent) (Female),31.11031,72.05347,Female,Punjab,0,2,0,800
+134,Government Girls Primary School Dargahi Shah (Permanent),31.1158,72.04723,Combined,Punjab,1,1,342,241
+178,Government Boys Primary School Qadeemi (Permanent),31.11909,72.22179,Combined,Punjab,1,1,629,423
+132,Government Boys Model Elementry School Dargahi Shah (Permanent) (Male),31.11939,72.04736,Male,Punjab,3,0,996,0
+133,Government Boys Model Elementry School (Middle Portion) Dargahi Shah (Permanent) (Female),31.11939,72.04739,Female,Punjab,0,3,0,726
+130,Government Boys Primary School Sultan Lashari (Permanent) (Male),31.12193,72.01376,Male,Punjab,3,0,1079,0
+164,Government Girls Elementary School Chah Kariwala Uch Gul Imam (Permanent) (Male),31.12718,72.00316,Male,Punjab,3,0,1261,0
+165,Government Girls Elementary School Chah Kariwala Uch Gul Imam (Permanent) (Female),31.12718,72.00319,Female,Punjab,0,3,0,861
+177,Government Girls Primary School Qadeemi (Permanent),31.128465916871473,72.21833582889627,Combined,Punjab,2,1,819,627
+106,Government Girls High School (Middle Portion) Rasheed Pur (Permanent) (Female),31.12859,72.09046,Female,Punjab,0,2,0,795
+104,Government Girls High School (Primary Portion) Rasheed Pur (Permanent) (Female),31.12859,72.09049,Female,Punjab,0,3,0,1446
+105,Government Girls High School Rasheed Pur (Permanent) (Male),31.12859,72.09052,Male,Punjab,2,0,1088,0
+102,Government Elementry School (Primary Portion) Rasheed Pur (Permanent)(Male),31.12863,72.09197,Male,Punjab,2,0,917,0
+163,Government Boys High School Uch Gul Imam (Permanent),31.13175,71.97807,Combined,Punjab,2,1,841,701
+174,Government Boys Primary School Yousufi Qureshian Wala Malhuana (Permanent),31.13676,72.24725,Combined,Punjab,1,1,683,540
+169,Government Boys Elementry School Head Trimmun (Permanent),31.13695,72.16651,Combined,Punjab,1,1,663,511
+170,Government Boys Elementry School Head Trimmu (Permanent),31.13695,72.16654,Combined,Punjab,1,1,628,416
+180,Government Boys Primary School Khairay Wala (Permanent),31.14197,72.17565,Combined,Punjab,2,1,704,445
+119,Government Girls Primary School Chak No. 10/1 Thal (Permanent) (Female),31.14201,71.87332,Female,Punjab,0,2,0,856
+184,Government Model Primary School Kooray Wala (Permanent),31.14202,72.17568,Combined,Punjab,1,1,916,624
+120,Government Boys High School Chak No. 10/1 Thal (Permanent) (Male),31.14238,71.87677,Male,Punjab,2,0,1195,0
+181,Government Model Primary School Koray Wala (Permanent),31.142967098939884,72.17532724092364,Combined,Punjab,1,1,628,431
+101,Government Boys Primary School Jamali Kalan (Permanent),31.146010362133108,72.05820960719531,Combined,Punjab,2,1,689,527
+176,Veterniry Hospital Malhuana (Permanent),31.14897,72.22512,Combined,Punjab,1,1,522,434
+173,Government Boys Elementry School Malhuana (Permanent),31.14928,72.22415,Combined,Punjab,2,2,977,757
+86,Government Girls Primary School Chah Gulab Wala (Permanent),31.14944,71.90673,Combined,Punjab,1,1,509,333
+108,Government Boys Primary School Kot Bahadar Janubi (Permanent),31.15103,72.09693,Combined,Punjab,2,1,825,574
+175,Government Girls High School Malhuana (Permanent),31.15363,72.22066,Combined,Punjab,2,2,885,691
+97,Government Boys Primary School Malkana (Permanent),31.15408,72.10619,Combined,Punjab,2,2,887,700
+179,Government Girls Primary School Sumandri Kalan (Permanent),31.15539,72.20815,Combined,Punjab,1,1,320,208
+167,Government Boys Elementry School Sikandar Abad Wasawa (Permanent) (Male),31.155971415755776,72.0404440944263,Male,Punjab,3,0,1291,0
+168,Government Boys Elementry School Sikandar Abad Wasawa (Permanent) (Female),31.15598,72.04047,Female,Punjab,0,3,0,952
+5,Government Boys Primary School Bulah Patoana,31.15773,72.09619,Combined,Punjab,2,1,843,641
+166,Government Boys Primary School Sikandar Abad Wasawa (Permanent),31.164558953722096,72.01626376907456,Combined,Punjab,1,1,461,379
+100,Government Girls Elementry School Chukan Jan Pur  (Middle Portion) (Permanent) (Female),31.16851,72.09574,Female,Punjab,0,2,0,1022
+99,Government Girls Elementry School Chukan Jan Pur (Permanent) (Male),31.16851,72.09577,Male,Punjab,2,0,1252,0
+98,Government Boys Elementry School Chukan Jan Pur (Permanent),31.16949531537837,72.09683674261419,Combined,Punjab,2,2,852,656
+91,Government Boys Primary School Ferozi (Jamali Khurd) (Permanent),31.16976592926507,72.06410234730198,Combined,Punjab,1,1,627,502
+83,Veternary Hospital- 18-Hazari (Permanent),31.17389660744159,72.0969590633639,Combined,Punjab,1,1,688,669
+114,Government Boys High School Wasu Astana (Permanent) (Male),31.18041,72.08514,Male,Punjab,3,0,1145,0
+115,Government Boys High School (Middle Portion) Wasu Astana (Permanent) (Female),31.180505764370324,72.08511531273372,Female,Punjab,0,2,0,851
+112,Government Boys High School Wasu Astana (Primary Portion) (Permanent) (Male),31.185422125805207,72.07199012801286,Male,Punjab,2,0,1073,0
+90,Government Girls Primary School Kikar Wala (Jamali Khurd No. 01) (Permanent) (Female),31.18668324713132,72.04391007515692,Female,Punjab,0,2,0,848
+89,Government Primary School Kikar Wala  (Permanent) (Male),31.18681,72.04319,Male,Punjab,2,0,996,0
+118,Government Girls Higher Secondry School (Middle Portion) Wasu Astana (Permanent) (Female),31.18815,72.07857,Female,Punjab,0,3,0,1150
+117,Government Girls Higher Secondry School Wasu Astana (Permanent) (Male),31.188188735636224,72.07831543450743,Male,Punjab,3,0,1326,0
+116,Government Boys Primary School Astana (Permanent),31.190203196891275,72.0819583608603,Combined,Punjab,2,1,793,641
+84,Government Girls Model Primary School Kamra (Permanent),31.191223837285474,72.12460287119066,Combined,Punjab,1,1,516,425
+171,Government Model School Abadi Ghulam Akber Mohal (New Building) (Permanent) (Male),31.19525,72.23181,Male,Punjab,2,0,1093,0
+172,Government Girls  Primary School- Akbar Pura Mouza Mohal (Permanent) (Old Building) (Female),31.19525,72.23184,Female,Punjab,0,2,0,822
+110,Government Model Primary School (Girls Campus) Imrana Janubi (Permanent) (Female),31.1965,72.09624,Female,Punjab,0,2,0,886
+109,Government Boys Primary School Imrana Janubi (Permanent) (Male),31.19650283383818,72.09623991363722,Male,Punjab,2,0,1127,0
+128,Government Primary School Sattan Thal (Permanent),31.19901,71.8864,Combined,Punjab,2,1,971,478
+87,Government Elementry School Daal Morr (Permanent) (Male),31.20486180860136,72.03956650565318,Male,Punjab,2,0,1316,0
+88,Government Grils Primary School Daal Morr (Permanent) (Female),31.20732,72.03923,Female,Punjab,0,2,0,1043
+93,Government Boys Primary School Kotla Naik Ahmed (Permanent),31.20753828770604,72.08061829269022,Combined,Punjab,1,1,630,486
+111,Government Boys Primary School Bela Chuntra (Permanent),31.22278100723152,72.13765990954359,Combined,Punjab,1,1,577,410
+92,Government Girls Primary School Dhabbi (Permanent),31.22601067581516,72.09668209867971,Combined,Punjab,2,1,654,460
+96,Government Boys Primary School Haq Bahu Colony (Permanent),31.22965,72.04626,Combined,Punjab,1,1,391,261
+94,Government Girls Primary School Haq Bahu Colony (Permanent),31.229887206206488,72.04543465461153,Combined,Punjab,1,1,743,593
+53,Government English Medium Boys Elementary School Chaily Wala (Permanent),31.237054229258156,71.97600208367783,Combined,Punjab,2,2,745,655
+54,Government Girls Primary School Chaily Wala (Permanent),31.239495728403874,71.97051846905896,Combined,Punjab,1,1,504,320
+82,Government Model Primary School kharal Sipra(Permanent) (Female),31.240056694104076,72.08841128203416,Female,Punjab,0,2,0,821
+6,Government Girls Primary School Chak Jan Pur,31.24158,72.19843,Combined,Punjab,2,1,859,638
+95,Government Boys Model Primary School Ram Pur (Permanent),31.242134353271545,72.0601270569109,Combined,Punjab,1,1,537,408
+9,Government Boys Primary School Namdar Phulli,31.24871,72.17403,Combined,Punjab,1,1,631,548
+85,Government Boys Elementry School Bharari (Permanent),31.252261590268464,71.91248482069429,Combined,Punjab,2,2,845,629
+8,Government Boys Elementry School Bindi Patoana Kalan,31.2529,72.15159,Combined,Punjab,2,1,789,600
+11,Government Boys Primary School Tahli Gaddan Wali,31.2549,72.21014,Combined,Punjab,2,1,734,541
+55,Government Boys Primary School Sabeel Pur (Permanent),31.255531349587095,72.04918379910531,Combined,Punjab,2,2,684,601
+56,Government Boys Elementry School Kotli Baqir Shah (Permanent) (Male),31.25779455216979,72.0504439862489,Male,Punjab,2,0,863,0
+57,Government Girls Elementry School Kotli Baqir Shah (Permanent) (Female),31.25807,72.051,Female,Punjab,0,2,0,644
+127,Government Boys Elementry School (New Block) Kashmir Colony (Chak No. 11/1 Thal) (Permanent) (Female),31.25911,71.8798,Female,Punjab,0,2,0,664
+126,Government Boys Elementry School Kashmir Colony (Chak No. 11/1 Thal) (Permanent) (Male),31.25911,71.87983,Male,Punjab,2,0,948,0
+81,Government High School Subhiana Gharbi (Permanent) (Male),31.26019,72.09447,Male,Punjab,2,0,1038,0
+18,Government Boys High School Pir Kot Sadhana (Male),31.27048,72.16383,Male,Punjab,3,0,1403,0
+19,Government Boys High School Pir Kot Sadhana (Female),31.27048,72.16386,Female,Punjab,0,3,0,1095
+20,Government Boys Elemantry School Pir Kot Sadhana,31.271,72.15919,Combined,Punjab,1,1,450,383
+79,Government Girls Elementry School Munday Syed (Permanent) (Male),31.27646401020816,72.0879528379457,Male,Punjab,2,0,921,0
+65,Government Girls Elementary School Dosa (Permanent),31.27787,72.06705,Combined,Punjab,1,1,451,327
+80,Basic Health Unit Munday Syed (Permanent) (Female),31.27807,72.06898,Female,Punjab,0,2,0,801
+10,Government Boys Primary School Bela Sidhana,31.27836,72.06476,Combined,Punjab,1,1,354,260
+71,Government Boys High School Kot Maldev (Permanent),31.284071140176025,72.08587301192424,Combined,Punjab,2,2,969,655
+66,Government Boys Primary School Doosa (Permanent),31.28618512908255,72.06608590620434,Combined,Punjab,1,1,562,426
+7,Government Girls Primary School Nikkay Balouchan,31.29448,72.13659,Combined,Punjab,2,2,823,689
+13,Government Boys Primary School Lala Johla,31.29642,72.15497,Combined,Punjab,1,1,557,437
+12,Government Boys Primary School Kot Behram,31.30144,72.14697,Combined,Punjab,2,1,704,610
+58,Government Boys Elementary School Kunnal Sheroana (Primary Portion) (Nasir Abad) (Permanent) (Female),31.30615,72.05519,Female,Punjab,0,2,0,909
+59,Government Boys Elementary School Kunnal Sheroana (Nasir Abad) (Permanent) (Male),31.30615,72.05522,Male,Punjab,2,0,1031,0
+17,Government Girls Primary School Massan,31.308339650564395,72.18734433453162,Combined,Punjab,2,1,764,668
+16,Government Boys Primary School Massan,31.309098108086484,72.1873595900259,Combined,Punjab,2,1,905,625
+21,Government Boys Model Primary School Sajhar Kalasan,31.31482,72.1284,Combined,Punjab,2,1,789,630
+64,Government English Medium Boys High School Chuhan (Permanent),31.323738662248235,72.07392248183174,Combined,Punjab,2,1,756,565
+24,Government Boys Primary School Talwara,31.33526,72.15508,Combined,Punjab,1,1,556,450
+14,Government Boys Primary School Khotiana,31.33728,72.12971,Combined,Punjab,2,1,713,504
+22,Government Boys High School Salyana (Male),31.34479,72.14085,Male,Punjab,2,0,1064,0
+23,Government Boys High School Salyana (Female),31.34479,72.14088,Female,Punjab,0,2,0,879
+25,Government Girls Elemantry School Salyana,31.34862,72.13764,Combined,Punjab,1,1,660,492
+2,Government Boys Primary School Najabat,31.35453,72.12795,Combined,Punjab,2,2,1028,790
+15,Government Boys Primary School Bela Bhorana,31.36128,72.12486,Combined,Punjab,1,1,399,363
+61,Government Girls Primary School Loha Bhir (Permanent),31.36257430334156,72.05684533023295,Combined,Punjab,1,1,513,386
+4,Government Boys Primary School Jhaggar (Chaila),31.37089,72.13697,Combined,Punjab,2,2,958,765
+62,Government Boys High School Machi Wal (Permanent) (Male),31.38013,72.07459,Male,Punjab,2,0,1041,0
+63,Government Boys High School  (Middle Portion) Machi Wal (Permanent) (Female),31.38013,72.07462,Female,Punjab,0,2,0,757
+72,Government Girls High School Machi Wal (Permanent),31.38056690621514,72.07390437143148,Combined,Punjab,2,1,826,657
+1,Government Boys Secondary School Chaila,31.38705,72.14314,Combined,Punjab,2,1,859,699
+3,Government Boys Secondary School Chaila,31.38705,72.14317,Combined,Punjab,2,2,895,738
+78,Government Boys Primary School Kacha Dhapra Chak No.7/1 Thal Janubi (Permanent),31.407278514413633,71.98518308362618,Combined,Punjab,1,1,360,313
+77,Government Girls Primary School Sial (Permanent),31.40772104943003,72.0813655678215,Combined,Punjab,2,1,778,560
+76,Government Girls Elementry School Machiana (Permanent),31.414676298691855,72.07835812037429,Combined,Punjab,2,1,759,611
+73,Government Boys Primary School Sahjhar Sharqi(Permanent),31.426826981909947,72.12108774388103,Combined,Punjab,2,1,875,614
+74,Government Boys High School Sajhar (Permanent) (Male),31.435959159407208,72.07761977003751,Male,Punjab,2,0,979,0
+75,Government Boys High School Sajhar (Primary Portion) (Permanent) (Female),31.4362,72.07761,Female,Punjab,0,2,0,628
+68,Government Model Primary School Haveli Haji Mehmood (Permanent) (Male),31.46392,72.09378,Male,Punjab,2,0,1186,0
+69,Government Model Boys Primary School Haveli Haji Mehmood (Permanent) (Female),31.46392,72.09381,Female,Punjab,0,2,0,764
+67,Government Girls Primary School Haider Wala Ada Kot Shakir (Permanent),31.480093295181735,72.0672413765928,Combined,Punjab,1,1,646,447
+30,Government Boys High School Kot Shakir (Permanent),31.482007395180975,72.08667637340062,Combined,Punjab,1,1,400,265
+32,Government Boys High School Kot Shakir (Middle Portion) (Permanent) (Female),31.482007395180975,72.0867063734006,Female,Punjab,0,2,0,853
+31,Government Boys Primary School Kot Shakir (Permanent) (Male),31.482636179905423,72.09095045953694,Male,Punjab,2,0,1107,0
+33,Government Girls English Medium High School Kot Shakir (Permanent),31.48419874462271,72.08386166669295,Combined,Punjab,2,1,679,525
+70,Government Boys Primary School Budhiana Baloch Wala Chak NO.7/3 Thal Shumali(Permanent),31.49710204863542,71.96839861415944,Combined,Punjab,1,1,515,298
+38,Government Model Primary School Thatti Khair Shah (Permanent),31.502595869251962,72.14997614685664,Combined,Punjab,1,1,468,318
+35,Government Girls Primary School Thatti Gul (Permanent),31.50714285162269,72.10720911220825,Combined,Punjab,1,1,473,366
+43,Government Boys English Medium Elementry School Chandna (Permanent),31.51022384664643,72.09646881755388,Combined,Punjab,1,1,486,372
+42,Government Girls Elementary School Chandna (Permanent),31.513004118628228,72.08591896576826,Combined,Punjab,1,1,567,440
+34,Government Girls Primary School Bela Sheher (Permanent),31.525610706140366,72.09831237521328,Combined,Punjab,1,1,649,428
+36,Government Boys Primary School Muhammad Wala (Paroopi) (Permanent),31.536652689270642,72.10503239747993,Combined,Punjab,1,1,383,287
+41,Government Girls Primary School Butta Kotla 7/2 Thal Shumali (Permanent),31.543589625986993,72.10644938624287,Combined,Punjab,1,1,667,483
+39,Government Boys Primary School- Akerian Wala 7/2 Thal Shumali (Permanent) (Male),31.55368,72.01104,Male,Punjab,2,0,785,0
+37,Government Boys Primary School Akerian Wala 7/2 Thal Shumali (Permanent),31.553683636661752,72.01097616990349,Combined,Punjab,1,1,314,228
+44,Government Girls English Medium Primary School Aura (Permanent),31.566772953983378,72.11206504208401,Combined,Punjab,2,2,863,677
+40,Government Girls Primary School Abadi Goraya 7/2 Thal Shumali (Permanent) (Female),31.570826763820463,72.10323179760306,Female,Punjab,0,2,0,690
+49,Government Girls English Medium High School Mari Shah Sakhira (Permanent),31.607448388099936,72.10754191258614,Combined,Punjab,2,1,639,498
+52,Government Boys Primary School Babranwala- Mari Shah Sakhera (Permanent) (Female),31.60774276456206,72.10041376094931,Female,Punjab,0,2,0,688
+46,Government Boys High School Mari Shah Sakhira (Permanent) (Male),31.61135122743739,72.10805459819237,Male,Punjab,2,0,1105,0
+47,Government Boys High School (Primary Portion) Mari Shah Sakhira (Permanent) (Female),31.61135122743739,72.1080845981924,Female,Punjab,0,2,0,900
+48,Government Boys High School Mari Shah Sakhira (Permanent),31.61135122743739,72.1081145981924,Combined,Punjab,1,1,669,542
+51,Government Boys High School (Primary Portion) Mari Shah Sakhira (Permanent) (Male),31.61152,72.10809,Male,Punjab,2,0,1008,0
+45,Government Girls Primary School Mari Shah Sakhira (Mari Balouchan) (Permanent),31.619188640179434,72.10870413501574,Combined,Punjab,1,1,615,414
+26,Government Boys Primary School Tattar Kot,31.68455094730964,72.13836103950472,Combined,Punjab,2,2,866,658
+27,Government Girls Elementary School Bullo,31.72134,72.15215,Combined,Punjab,1,1,585,436
+29,Government Girls Elementary School Bullo (Female),31.72134,72.15218,Female,Punjab,0,2,0,850
+50,Government Girls Elementary School Bullo (Permanent),31.721510428092746,72.15243878844912,Combined,Punjab,1,1,317,233
+28,Government Boys High School Bullo (Male),31.72227,72.15029,Male,Punjab,2,0,1055,0

@@ -1,0 +1,163 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+4,Govt. Girls High School- Ratta Amral North Side (Female),33.60607,73.04662,Female,Punjab,0,2,0,999
+5,Govt. Girls High School- Ratta Amral North Side (Female),33.60607,73.04665,Female,Punjab,0,2,0,961
+6,Govt. Girls High School- Ratta Amral North Side (Female),33.60607,73.04668,Female,Punjab,0,2,0,1380
+1,MC Girls Primary School- Ratta Amral- Said Meer Colony (Male),33.60732,73.0453,Male,Punjab,2,0,1215,0
+2,MC Girls Primary School- Ratta Amral- Said Meer Colony (Male),33.60732,73.04533,Male,Punjab,2,0,1081,0
+3,MC Dispensary- Ratta Amral Rawalpindi (Male),33.60803,73.04449,Male,Punjab,3,0,1636,0
+12,Govt. Degree College for Women- Bhoosa Godown (Female),33.60814,73.04435,Female,Punjab,0,2,0,1218
+7,Govt. Degree College (Women) Boosa Godown Rwp. (Male),33.60814,73.04438,Male,Punjab,3,0,1543,0
+8,Govt. Degree College (Women) Boosa GodownRwp. (Male),33.60814,73.04441,Male,Punjab,2,0,1287,0
+140,MC Dispensary- Mohanpura (Female),33.60826,73.05281,Female,Punjab,0,2,0,897
+141,MC Dispensary- Mohanpura (Female),33.60826,73.05284,Female,Punjab,0,2,0,1287
+136,Govt. Girls High School Mohanpura (Male),33.60831,73.05336,Male,Punjab,3,0,1461,0
+138,Govt. Grils High School No. 4- Mohanpura (Male),33.60831,73.05339,Male,Punjab,2,0,1047,0
+139,Govt. Grils High School No. 4- Mohanpura (Male),33.60831,73.05342,Male,Punjab,3,0,1537,0
+142,Govt. Grils High School No. 4- Mohanpura (Male),33.60831,73.05345,Male,Punjab,3,0,1449,0
+137,Govt. Degree College for Women- Mohanpura (Female),33.60984,73.05171,Female,Punjab,0,2,0,1272
+143,Govt. Degree College for Women- Mohanpura (Female)(P).,33.60984,73.05174,Female,Punjab,0,2,0,1231
+145,Govt Degree College For Women Mohan Pura (Female),33.60984,73.05177,Female,Punjab,0,2,0,1018
+144,Tehsil Office Rawalpindi- Jinnah Road Near DHQ Hospital (Male),33.61143,73.05503,Male,Punjab,2,0,1161,0
+146,Tehsil Office Rawalpindi- Jinnah Road Near DHQ Hospital (Male),33.61143,73.05506,Male,Punjab,2,0,1309,0
+147,Tehsil Office Rawalpindi- Jinnah Road Near DHQ Hospital (Female),33.61143,73.05509,Female,Punjab,0,2,0,1217
+9,Govt. Pakistan Girls High School- Bhoosa Godown- Milad Nagar (Female),33.61145,73.04247,Female,Punjab,0,2,0,1356
+10,Govt. Pakistan Girls High School- Bhoosa Godown- Milad Nagar (Female),33.61175,73.04252,Female,Punjab,0,2,0,1122
+11,Govt. Pakistan Girls High School- Bhoosa Godown- Milad Nagar (Male),33.61175,73.04255,Male,Punjab,3,0,1539,0
+21,MC Dispensary Babu Lal Hussain Road (Male),33.61317,73.04588,Male,Punjab,2,0,1017,0
+23,MC Dispensary Babu Lal Hussain Road (Male),33.61317,73.04591,Male,Punjab,1,0,702,0
+152,Govt. Shimla Islamia High School Nimak Mandi (Female),33.61475,73.05471,Female,Punjab,0,1,0,617
+153,Govt. Shimla Islamia High School- Namak Mandi (Male),33.61475,73.05474,Male,Punjab,2,0,860,0
+13,MC Boys High Sschool Babu Lal Hussain Road (Male),33.61559,73.04625,Male,Punjab,3,0,1762,0
+14,MC Girls High School- Babu Lal Hussain Road- Milad Nagar (Female),33.61559,73.04628,Female,Punjab,0,3,0,1606
+15,MC Boys High Sschool Babu Lal Hussain Road (Male),33.61559,73.04631,Male,Punjab,4,0,2102,0
+16,MC Girls High School Babu Lal Hussain Road (Female),33.61559,73.04634,Female,Punjab,0,3,0,1774
+17,MC Boys High School Babu Lal Hussain Road (Male).,33.61559,73.04637,Male,Punjab,2,0,1268,0
+18,MC Boys High School Babu Lal Hussain Road (Male).,33.61559,73.0464,Male,Punjab,2,0,1020,0
+19,MC Girls High School Babu Lal Hussain Road Dhoke Ratte (Female),33.61559,73.04643,Female,Punjab,0,2,0,1074
+20,MC Girls High School Babu Lal Hussain Road Dhoke Ratte (Female),33.61559,73.04646,Female,Punjab,0,2,0,1291
+22,MC Girls High School Babu Lal Hussain Road Ratta (Female),33.61559,73.04649,Female,Punjab,0,2,0,993
+24,Govt. Islamia High School No.3 Babu Lal Hussain Road (Male),33.61567,73.04573,Male,Punjab,3,0,1464,0
+26,Got. Islamia Boys High School No.3 Babu Lal Hussain Road (Male),33.61567,73.04576,Male,Punjab,4,0,2525,0
+27,Got. Islamia Boys High School No.3 Babu Lal Hussain Road (Male),33.61567,73.04579,Male,Punjab,4,0,2094,0
+148,Govt. Muslim Elementory School- Bagh Sardaran- Gulshan Abad- Rawalpindi (Male),33.6189,73.05315,Male,Punjab,2,0,725,0
+149,Govt. Muslim Elementory School- Bagh Sardaran- Gulshan Abad- Rawalpindi (Male),33.6189,73.05318,Male,Punjab,2,0,1023,0
+25,Govt. Girls High School Hazara Colony- Rwp. (Female),33.61988,73.04578,Female,Punjab,0,4,0,2160
+28,Govt - Girls High School - Hazara Colony Rwp (Female),33.61988,73.04581,Female,Punjab,0,4,0,2432
+154,District Education Office (Female) -Ghazi Road (Male),33.61997,73.05454,Male,Punjab,2,0,805,0
+35,Govt Degree College for Women Mangtal (New Building) (Male),33.62028,73.03555,Male,Punjab,1,0,636,0
+36,Govt Degree College for Women Mangtal (New Building) (Male),33.62028,73.03558,Male,Punjab,1,0,618,0
+39,Govt Degree College for Women Mangtal (New Building) (Male),33.62028,73.03561,Male,Punjab,2,0,946,0
+40,Govt Degree College for Women Mangtal (New Building) (Male),33.62028,73.03564,Male,Punjab,1,0,558,0
+43,Govt Degree College for Women Mangtal (Male),33.62028,73.03567,Male,Punjab,2,0,871,0
+44,Govt Degree College for Women Mangtal (Male),33.62028,73.0357,Male,Punjab,1,0,692,0
+47,Govt Degree College For Women Mangtal (New Building) (Male),33.62028,73.03573,Male,Punjab,2,0,771,0
+48,Govt Degree College For Women Mangtal (New Building) (Male),33.62028,73.03576,Male,Punjab,2,0,866,0
+156,District Education Office (Male)- Bagh Sardran (Male),33.62058,73.05438,Male,Punjab,2,0,1201,0
+158,District Education Office (Male)- Bagh Sardran (Male),33.62058,73.05441,Male,Punjab,2,0,1304,0
+29,Rawal School & Academy Opposite Railway Road- Main Dhoke Hussu Road Dhoke Mangtal (Male),33.62073,73.03548,Male,Punjab,1,0,595,0
+32,Rawal School & Academy Opposite Railway Road- Main Dhoke Hussu Road Dhoke Mangtal (Male),33.62073,73.03551,Male,Punjab,2,0,730,0
+31,Rawal School & Academy Opposite Railway Road- Main Dhoke Hussu Road Dhoke Mangtal (Male),33.62082,73.03557,Male,Punjab,2,0,1268,0
+155,Govt. Girls Higher Secondary School No.1-Bagh Sardaran (Female),33.62103,73.05422,Female,Punjab,0,3,0,1809
+157,Govt. Girls Higher Secondary School No.1-Bagh Sardaran (Female),33.62103,73.05425,Female,Punjab,0,2,0,1156
+159,Govt. Girls Higher Secondary School No. 1- Bagh Sardaran (Female),33.62103,73.05428,Female,Punjab,0,3,0,1916
+160,Govt Girls HSS Bagh Sardara (Male),33.62103,73.05431,Male,Punjab,4,0,2133,0
+161,Govt Girls HSS Bagh Sardara (Male),33.62103,73.05434,Male,Punjab,3,0,1433,0
+30,Govt. Girls Elementary School No. 2- Boaring Road (Female),33.62252,73.03461,Female,Punjab,0,1,0,485
+33,Govt. Girls Elementary School No. 2- Boaring Road (Female),33.62252,73.03464,Female,Punjab,0,2,0,1033
+34,Govt. Girls Elementary School No. 2- Boaring Road (Female),33.62252,73.03467,Female,Punjab,0,1,0,613
+37,MC Dispensary- Boaring Road- Bilal Mohallah- Faroqia Chowk (Female),33.62259,73.03994,Female,Punjab,0,1,0,589
+38,MC Dispensary- Boaring Road- Bilal Mohallah- Faroqia Chowk (Female),33.62259,73.03997,Female,Punjab,0,1,0,534
+164,PEPCO Office old Wapda Office Safarabad (Female),33.62268,73.04762,Female,Punjab,0,2,0,959
+163,Govt. Grils High School Safdarabad (Male),33.62269,73.04788,Male,Punjab,2,0,1272,0
+165,Govt. girls High School Safdarabad (Male),33.62269,73.04791,Male,Punjab,2,0,782,0
+41,Govt Girls Primary School Mangtal .No 1 (Female),33.62291,73.03899,Female,Punjab,0,2,0,765
+42,Govt Girls Primary School Mangtal .No 1 (Female),33.62291,73.03902,Female,Punjab,0,1,0,420
+45,Govt Girls Primary School Mangtal .No 1 (Female),33.62291,73.03905,Female,Punjab,0,2,0,716
+46,Govt Girls Primary School Mangtal .No 1 (Female),33.62291,73.03908,Female,Punjab,0,1,0,559
+57,Govt. Degree College for women Dhoke Hassu (Male),33.62555,73.02811,Male,Punjab,1,0,579,0
+58,Govt. Degree College for women Dhoke Hassu (Male),33.62555,73.02814,Male,Punjab,2,0,884,0
+62,Govt. Degree College for women Dhoke Hassu (Male),33.62555,73.02817,Male,Punjab,3,0,1393,0
+63,Govt. Degree College for women Dhoke Hassu (Male),33.62555,73.0282,Male,Punjab,2,0,717,0
+59,Govt. Girls High School Dhoke Hassu (Female),33.62562,73.02789,Female,Punjab,0,3,0,1455
+61,Govt. Girls High School Dhoke Hassu (Female),33.62562,73.02792,Female,Punjab,0,1,0,717
+66,Govt. Girls High School Dhoke Hassu (Female),33.62562,73.02795,Female,Punjab,0,4,0,2483
+68,Govt Girls High School Dhoke Hassu (Female),33.62562,73.02798,Female,Punjab,0,2,0,774
+60,Govt. Girls High School Dhoke Hassu (Female),33.62575,73.02861,Female,Punjab,0,1,0,626
+69,Govt Girls High School Dhoke Hassu (Female),33.62575,73.02864,Female,Punjab,0,2,0,1092
+64,Govt. Degree College for Women Dhoke Hassu (Male),33.62624,73.0278,Male,Punjab,3,0,1502,0
+65,Govt. Girls Degree College Women Dhoke Hassu (Male),33.62624,73.02783,Male,Punjab,3,0,1540,0
+67,Govt Degree College For Women Dhoke Hassu (Male),33.62624,73.02786,Male,Punjab,2,0,1199,0
+70,Govt Degree College For Girls Dhoke Hassu(Male),33.62624,73.02789,Male,Punjab,2,0,881,0
+49,MC Primary Sschool Mehar Abad Dhoke Darzian (Female),33.62624,73.03689,Female,Punjab,0,1,0,654
+50,MC Primary Sschool Mehar Abad Dhoke Darzian (Female),33.62624,73.03692,Female,Punjab,0,1,0,704
+74,Pak Modern Public School Quaid Branch - Pirwadhai (Male),33.6265,73.04144,Male,Punjab,3,0,1717,0
+78,Pak Modern Public School Main Branch-Boring Road - Pir Wadai (Male),33.6265,73.04147,Male,Punjab,3,0,1523,0
+79,Pak Modern Public School Main Branch -Boring Road - Pir Wadai (Male),33.6265,73.0415,Male,Punjab,2,0,913,0
+82,Pak Modern Public School Quaid Branch - Pirwadhai (Male),33.6265,73.04153,Male,Punjab,2,0,865,0
+75,Khalid Model Secondary School for Girls Mohallah Ayub Abad Bukhara Road Pirwadahi (Female).,33.62654,73.044,Female,Punjab,0,2,0,991
+76,Khalid Model Secondary School for Girls Mohallah Ayub Abad Bukhara Road Pirwadahi (Female).,33.62654,73.04403,Female,Punjab,0,2,0,1040
+77,Khalid Model Secondary School for Girls Mohallah Ayub Abad Bukhara Road Pirwadahi (Female).,33.62654,73.04406,Female,Punjab,0,4,0,2293
+53,Shaheen PublicSecondary School- UC 5 ZB 1622 St. 3- Mehar Abad Dhoke Hassu (Female),33.62665,73.03532,Female,Punjab,0,2,0,991
+54,Shaheen PublicSecondary School- UC 5 ZB 1622 St. 3- Mehar Abad Dhoke Hassu (Female),33.62665,73.03535,Female,Punjab,0,2,0,1196
+56,Shaheen PublicSecondary School- UC 5 ZB 1622 St. 3- Mehar Abad Dhoke Hassu (Female),33.62665,73.03538,Female,Punjab,0,1,0,719
+51,Dar Us Islam Model Secondary School Main Road Mehr abad Dhoke Hussu (Male),33.62686,73.03477,Male,Punjab,2,0,1304,0
+55,The Brookfield Public School Dhoke Hassu (Chota Chowk) (Male),33.62693,73.03606,Male,Punjab,2,0,887,0
+81,MC Girls Primary School St. 6- Mehr Colony (Female),33.62772,73.03698,Female,Punjab,0,2,0,775
+102,Iqra Cadet School Islam Pura- Pirwadhai. (Female),33.62776,73.04564,Female,Punjab,0,4,0,2042
+52,Cute Kids Campus Elementary School St. 1- Gulshan Datta Dhoke Hussu (Male),33.62787,73.0312,Male,Punjab,3,0,1642,0
+113,Govt. Girls High School Sect.3 Khyabana-e-Sir Syed (Female),33.62881,73.04795,Female,Punjab,0,3,0,1410
+115,Govt. Girls High School Sect.3 Khyabana-e-Sir Syed (Female).,33.62881,73.04798,Female,Punjab,0,2,0,755
+117,Govt. Girls High School Sect.3 Khyabana-e-Sir Syed (Female).,33.62881,73.04801,Female,Punjab,0,2,0,1002
+120,Govt. Girls High School Sect.3 Khyabana-e-Sir Syed (Female).,33.62881,73.04804,Female,Punjab,0,2,0,860
+121,Govt. Girls High School Sect.3 Khyabana-e-Sir Syed (Female).,33.62881,73.04807,Female,Punjab,0,2,0,863
+116,Govt. Boys Elementary School Sect.4B Khyabana-e-Sir Syed (Male).,33.62973,73.05075,Male,Punjab,2,0,1180,0
+118,Govt. Boys Elementary School Sect.4B Khyabana-e-Sir Syed (Male).,33.62973,73.05078,Male,Punjab,2,0,966,0
+119,Govt. Boys Elementary School Sect.4B Khyabana-e-Sir Syed (Male).,33.62973,73.05081,Male,Punjab,2,0,968,0
+80,MC Girls Primary School St. 6- Mehr Colony (Female),33.62989,73.03924,Female,Punjab,0,2,0,1202
+101,Govt Girls High School- Zia-ul-Haq Colony- Pirwadhai- Rawalpindi. (Male),33.63094,73.04567,Male,Punjab,1,0,554,0
+83,Mehr System of Education St.no 03 Mehr Colony  (Female).,33.63096,73.03481,Female,Punjab,0,2,0,736
+71,Allied Public School Bokhara Road Pirwadahi (Male).,33.63096,73.03746,Male,Punjab,2,0,1228,0
+72,Allied Public School Bokhara Road Pirwadahi (Male).,33.63096,73.03749,Male,Punjab,2,0,1348,0
+73,Allied Public School Bokhara Road Pirwadahi (Male).,33.63096,73.03752,Male,Punjab,2,0,1063,0
+90,Islamic Cadet School- St. 25- Fauji Colony- (Female),33.63098,73.03413,Female,Punjab,0,2,0,1342
+91,Islamic Cadet School- St. 25- Fauji Colony- (Female),33.63098,73.03416,Female,Punjab,0,2,0,1220
+88,The Spirit School Street Number 31- Bokra Road Rawalpindi (Male),33.63104,73.03664,Male,Punjab,3,0,1815,0
+85,Nishtar Model SchoolSt.14 - Bokhra Road Fouji Colony  (Male).,33.63152,73.03217,Male,Punjab,3,0,2029,0
+84,Al-Sufa Model School St. No. 9 Fouji Colony (Male),33.63166,73.0306,Male,Punjab,2,0,1205,0
+89,New Cantt Public School St. No. 24- Fouji Colony (Male),33.63202,73.03448,Male,Punjab,3,0,1631,0
+98,Govt. Boys Primary School Bangash Colony (Female).,33.63218,73.04282,Female,Punjab,0,1,0,440
+99,Govt. Boys Primary School Bangash Colony (Female).,33.63218,73.04285,Female,Punjab,0,2,0,1349
+86,The Arqam School Street No. 21- Fouji Colony Rawalpindi (Female),33.63243,73.03374,Female,Punjab,0,2,0,823
+87,The Arqam School Street No. 21- Fouji Colony Rawalpindi (Female),33.63243,73.03377,Female,Punjab,0,3,0,1492
+112,Executive district Officer- Health- Khyba-e-Sir Syed Sect-4 (Male).,33.63322,73.04913,Male,Punjab,3,0,1574,0
+114,Executive district Officer- Health- Khyba-e-Sir Syed Sect-4 (Male).,33.63322,73.04916,Male,Punjab,2,0,939,0
+162,Ditrict Officer (Health) Rawalpindi Sec-IV Khyban-e-Sir Syed (Female),33.63322,73.04919,Female,Punjab,0,4,0,2010
+92,MC Girls Primary School Bangash Colony (Male),33.63422,73.03937,Male,Punjab,3,0,1747,0
+94,MC Girls Primary School Bangash Colony (Male),33.63422,73.0394,Male,Punjab,3,0,1401,0
+96,Pakistan Foundation Higher Secondary School Old Majadida School Bangash Colony. (Male),33.63422,73.03943,Male,Punjab,1,0,513,0
+97,Pakistan Foundation Higher Secondary School Old Majadida School Bangash Colony. (Male),33.63422,73.03946,Male,Punjab,3,0,1581,0
+93,Govt. Liaqat Girls High School Bangash Colony (Female),33.63451,73.0391,Female,Punjab,0,2,0,1164
+95,Govt. Liaqat Girls High School Bangash Colony (Female),33.63451,73.03913,Female,Punjab,0,2,0,977
+122,Govt Degree College for Women Khyaban-e-Sir Syed (Male),33.63728,73.04713,Male,Punjab,3,0,1398,0
+124,Govt Degree College for Women- Khayaban-e-Sir Syed (Male),33.63728,73.04716,Male,Punjab,2,0,983,0
+125,Govt Degree College for Women- Khayaban-e-Sir Syed (Male),33.63728,73.04719,Male,Punjab,2,0,1115,0
+128,Govt Degree College for Women- Khayaban-e-Sir Syed (Male),33.63728,73.04722,Male,Punjab,2,0,1269,0
+130,Govt Degree college for Women Khayaban-e-Sir Syed (Male),33.63728,73.04725,Male,Punjab,2,0,885,0
+131,Govt Degree college for Women Khayaban-e-Sir Syed (Male),33.63728,73.04728,Male,Punjab,2,0,1172,0
+134,Govt Degree College for Women Khyaban-e-Sir Syed (Male),33.63728,73.04731,Male,Punjab,2,0,712,0
+107,Govt. Girls Elementary School Sect.2  Khyabana-e-Sir Syed (Female).,33.63748,73.04238,Female,Punjab,0,2,0,1316
+108,Govt. Girls Elementary School Sect.2  Khyabana-e-Sir Syed (Female).,33.63748,73.04241,Female,Punjab,0,3,0,1992
+109,Govt. Girls Elementary School Sect.2  Khyabana-e-Sir Syed (Female).,33.63748,73.04244,Female,Punjab,0,2,0,828
+111,Govt. Girls Elementary School Sect. 2 Khyabana-e-Sir Syed (Female).,33.63748,73.04247,Female,Punjab,0,4,0,2092
+103,Govt. Boys High School Sect. 2 Khayabana-e-Sir Syed (Male),33.63767,73.04617,Male,Punjab,2,0,1326,0
+104,Govt. Boys High School Sect.2 Khyabana-e-Sir Syed (Male).,33.63767,73.0462,Male,Punjab,2,0,1173,0
+105,Govt. Boys High School Sect.2 Khyabana-e-Sir Syed (Male),33.63767,73.04623,Male,Punjab,3,0,1421,0
+106,Govt. Boys High School Sect.2 Khyabana-e-Sir Syed (Male),33.63767,73.04626,Male,Punjab,2,0,901,0
+110,Govt. Boys high School Sect.2 Khyabana-e-Sir Syed (Male).,33.63767,73.04629,Male,Punjab,4,0,2659,0
+123,Govt. Girls School Sect.1 Khybana-e- Sir Syed (Female).,33.63998,73.04809,Female,Punjab,0,2,0,1218
+126,Govt.Girls High School Sect.1 Khyabane-e- Sir Syed (Female),33.63998,73.04812,Female,Punjab,0,2,0,824
+127,Govt.Girls High School Sect.1 Khyabane-e- Sir Syed (Female),33.63998,73.04815,Female,Punjab,0,2,0,943
+129,Govt. Girls High School Sect.1 Khyaban-e-Sir Syed (Female),33.63998,73.04818,Female,Punjab,0,2,0,1079
+132,Govt. Girls High School Sect.1 Khyabane-e-Sir Syed (Female),33.63998,73.04821,Female,Punjab,0,2,0,836
+133,Govt. Girls High School Sect.1 Khyabane-e-Sir Syed (Female),33.63998,73.04824,Female,Punjab,0,2,0,1110
+135,Govt. Girls High School Sect.1 Khyaban-e-Sir Syed (Female),33.63998,73.04827,Female,Punjab,0,1,0,632

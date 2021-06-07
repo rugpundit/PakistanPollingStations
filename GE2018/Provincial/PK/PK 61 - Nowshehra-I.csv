@@ -1,0 +1,28 @@
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+94,GHS Pir sabaq 1st PS (Male),34.0085022,71.9878847,Male,KPK,4,0,1343,0
+95,GHS Pirsabaq 2nd PS (Male),34.0085022,71.9879147,Male,KPK,4,0,1284,0
+9,Government Primary School  Misri Banda (Male),34.0159215,72.12524092,Male,KPK,3,0,1205,0
+85,GPS Ghanderi Bala (Female),34.0254519,72.0417153,Female,KPK,0,3,0,1142
+40,GGPS Baba Kande Kheshgi Bala (Famale),34.04394,71.88766,Female,KPK,0,2,0,850
+27,GGHS Kheshki Payan 1st PS (Female),34.04523,71.89952,Female,KPK,0,4,0,1450
+28,GGHS Kheshki Payan 2nd  PS (Female),34.04523,71.89955,Female,KPK,0,3,0,1362
+39,GHS Kheshgi Bala  (Male),34.04797,71.88688,Male,KPK,4,0,1414,0
+24,GHSS Kheshki Payan 1st PS(Male),34.04842,71.90652,Male,KPK,4,0,1480,0
+25,GHSS Kheshki Payan 2nd PS(Male),34.04842,71.90655,Male,KPK,4,0,1180,0
+26,GHSS Kheshki Payan 3rd PS(Male),34.04842,71.90658,Male,KPK,4,0,1132,0
+21,GMS Kheshki Payan 1st PS(Male),34.04947,71.90645,Male,KPK,3,0,984,0
+22,GMS Kheshki Payan 2nd PS(Male),34.04947,71.90648,Male,KPK,4,0,1339,0
+23,G.JICA Model School Kheshki Payan(Female),34.04985,71.91011,Female,KPK,0,4,0,1710
+36,Govt. Primary & Middle School Batakzai Kheshgi Bala 1st PS (male),34.05002,71.89108,Male,KPK,4,0,1295,0
+86,GMS Sadiq Abad Ghalader (combined),34.05077,72.04809,Combined,KPK,2,2,806,532
+35,Government Primary School  No 01  Ahmad Nager Kheshki Bala (Female),34.06171,71.8671,Female,KPK,0,4,0,1442
+105,Government Girls Middle School No.1 Turlandi Male,34.07842,72.0021187,Male,KPK,4,0,1935,0
+53,Government Primary School Khura Abad  Rashakai (Combined),34.07842,72.0021487,Combined,KPK,2,2,1046,590
+58,GHSS Rashakai  1st PS (Male,34.07842,72.0021787,Male,KPK,4,0,1804,0
+59,GHSS Rashakai  2nd PS (Male),34.07842,72.0022087,Male,KPK,3,0,1058,0
+61,Government MASID Primary School (Male) Mohallah Khattak Near Nehar Rashaka,34.07842,72.0022387,Male,KPK,4,0,1708,0
+55,GGHSS Rashakai 1st PS (Female),34.07842,72.0022687,Female,KPK,0,4,0,1452
+56,GGHSS Rashakai 2nd PS (Female),34.07842,72.0022987,Female,KPK,0,3,0,1064
+57,GGHSS Rashakai 3rd  PS (Female),34.07842,72.0023287,Female,KPK,0,4,0,1291
+16,GHS Hamza Rashaka (Male),34.09856,71.93971,Male,KPK,3,0,1032,0
+46,GGPS Tordher (Female),34.12793,71.98177,Female,KPK,0,3,0,1027
