@@ -1,552 +1,552 @@
-PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
- 575 - Govt. Boys Primary School Bairanwala,31.76642,73.27493,Combined,Punjab,2,1,609,429
- 525 - Govt. Primary School  Dhari Wala- Badar Ali,31.7681,73.24246,Combined,Punjab,1,1,387,264
- 531 - Govt. Girls Primary School Chak No 474,31.77172,73.28767,Combined,Punjab,1,1,505,421
- 526 - Govt. Primary School Badar Ali (Kot Badar Din),31.7725,73.22836,Combined,Punjab,1,1,768,663
- 528 - Govt. Primary School Chokairian,31.78062,73.21404,Combined,Punjab,2,1,585,473
- 515 - Govt. Secondary  School- Zakheera Beranwala (Chak No.2),31.79931,73.25139,Male,Punjab,2,0,965,0
- 503 - Govt. Girls Elementary School Kishan Garh,31.80339,73.33002,Combined,Punjab,1,1,672,497
- 527 - Govt.  Primary School Attaranwala,31.80506,73.20525,Combined,Punjab,2,1,648,543
- 529 - Govt. Girls Highs School Ghubrika (East Side),31.81749,73.20284,Male,Punjab,2,0,930,0
- 530 - Govt. Girls Highs School Ghubrika (West Side),31.81749,73.20287,Female,Punjab,0,2,0,743
- 514 - Govt. Primary School Chak No. 1,31.81961,73.25594,Combined,Punjab,2,1,754,708
- 521 - Govt. Basic Health Center Mustafa Abad(East side),31.82127,73.27998,Male,Punjab,2,0,1046,0
- 522 - Govt. Basic Health Center Mustafa Abad(West side),31.82127,73.28001,Female,Punjab,0,2,0,953
- 502 - Govt. Primary  School Sharbaga,31.82283,73.33215,Combined,Punjab,1,1,626,457
- 509 - Govt. Girls Primary  School Sharbaga,31.82388,73.33398,Combined,Punjab,1,1,637,455
- 510 - Govt. Elementary School Chah Anah,31.82682,73.36761,Male,Punjab,3,0,1213,0
- 519 - Govt. Boys Elementary School Mustafa Abad(East side),31.82952,73.28007,Male,Punjab,2,0,985,0
- 520 - Govt. Boys Elementary School Mustafa Abad(West side),31.82952,73.2801,Female,Punjab,0,2,0,916
- 517 - Govt. Girls High School Mustafa Abad (East Side),31.83018,73.27865,Male,Punjab,2,0,986,0
- 518 - Govt. Girls High School Mustafa Abad (West Side),31.83018,73.27868,Female,Punjab,0,2,0,822
- 435 - Govt. Primary School (for boys) Mochi Wala,31.83437,73.50547,Combined,Punjab,2,1,888,616
- 512 - Govt. Primary School Thatha Malian,31.83463,73.25099,Male,Punjab,2,0,947,0
- 439 - Govt. Model Primary School Kanwanwali,31.83716,73.46483,Combined,Punjab,2,1,911,673
- 513 - Govt. Girls School Thatha Malian,31.83925,73.25015,Female,Punjab,0,2,0,753
- 434 - Govt. Model Primary School Jandraka,31.83963,73.51871,Combined,Punjab,2,1,821,615
- 523 - Govt.  Primary School Tibba Shah Behlol,31.84137,73.21255,Male,Punjab,2,0,1079,0
- 440 - Govt.  Primary School Par Lakhan,31.84158,73.41059,Combined,Punjab,2,1,853,560
- 482 - Govt. Primary School Thatha Sabat Shah,31.84241,73.38197,Combined,Punjab,1,1,740,465
- 538 - Govt. Girls Elementary School  Tiba Shah Behlol,31.84634,73.20862,Combined,Punjab,2,1,636,455
- 524 - Govt.  Girls Elementary School Tibba Shah Behlol,31.84637,73.20867,Female,Punjab,0,2,0,696
- 505 - Govt.  Primary School Chattar Wala Pindi Bhattian,31.85154,73.34396,Combined,Punjab,1,1,459,300
- 537 - Govt. Girls Primary School Machonikka,31.85212,73.22702,Female,Punjab,0,2,0,1084
- 535 - Govt. Model Primary School Haveli Harbaj Rai,31.85486,73.26373,Combined,Punjab,2,1,856,675
- 536 - Govt.  High School Machonikka,31.85586,73.22382,Male,Punjab,3,0,1281,0
- 504 - Basic Health Unit- Kot Nakka,31.85617,73.3385,Combined,Punjab,1,1,418,365
- 480 - Govt. Girls Elementary School Ambaltas,31.85625,73.43971,Combined,Punjab,1,1,358,308
- 436 - Govt. Girls  Primary School Dubar,31.85628,73.47698,Combined,Punjab,2,1,751,581
- 539 - Govt. Central Model Boys School Sahoke,31.8564,73.18559,Combined,Punjab,2,1,751,580
- 363 - Govt. Girls Primary School Haji Pura Sukheki East Side,31.85657,73.49987,Male,Punjab,3,0,1109,0
- 364 - Govt. Girls Primary School Haji Pura Sukheki West Side,31.85657,73.4999,Female,Punjab,0,2,0,939
- 365 - Govt. Girls Primary School Tubewell Colony- Sukheki East Side,31.85906,73.51546,Male,Punjab,2,0,992,0
- 366 - Govt. Girls Primary School Tubewell Colony- Sukheki West Side,31.85906,73.51549,Female,Punjab,0,2,0,844
- 500 - Govt.  High School- Kot Nakka (East Side),31.86118,73.33246,Male,Punjab,3,0,1197,0
- 501 - Govt.  High School- Kot Nakka (West Side),31.86118,73.33249,Female,Punjab,0,2,0,999
- 506 - Govt. Girls High School Kot Nakka(East side),31.86162,73.32954,Male,Punjab,2,0,1200,0
- 507 - Govt. Girls High School Kot Nakka(West side),31.86162,73.32957,Female,Punjab,0,2,0,1159
- 508 - Govt. Girls High School Kot Nakka (Combined),31.86162,73.3296,Combined,Punjab,1,1,568,432
- 344 - Govt. Boys Primary School Tubewell Colony- Sukheki (East Side),31.86173,73.51734,Male,Punjab,2,0,1063,0
- 345 - Govt. Boys Primary School Tubewell Colony- Sukheki (West Side),31.86173,73.51737,Female,Punjab,0,2,0,896
- 367 - Govt. Girls Degree College Sukheki Mandi (East Side),31.86215,73.51774,Combined,Punjab,2,1,767,618
- 368 - Govt. Girls Degree College Sukheki Mandi (West Side),31.86215,73.51777,Combined,Punjab,1,1,613,465
- 491 - Govt. Primary School Thatha Raika,31.86273,73.36871,Combined,Punjab,1,1,447,399
- 357 - Govt. Primary School Walgan Baran,31.8638,73.48353,Combined,Punjab,1,1,590,456
- 534 - Govt. Boys Primary School Thatha Karimdad,31.8642,73.25909,Combined,Punjab,1,1,537,439
- 437 - Govt.  Boys Primary School Nawan Maneka Kalan (East Side),31.86573,73.4548,Male,Punjab,2,0,945,0
- 438 - Govt.  Boys Primary School Nawan Maneka Kalan (West Side),31.86573,73.45483,Female,Punjab,0,2,0,785
- 533 - Govt. Girls Primary School Thatha Karimdad,31.86577,73.25861,Combined,Punjab,2,1,826,658
- 346 - Govt. Girls Higher Secondary School Sukheki Mandi,31.86639,73.50761,Male,Punjab,2,0,952,0
- 347 - Govt. Girls Higher Secondary School Sukheki (Part Primary),31.86639,73.50764,Female,Punjab,0,2,0,876
- 481 - Govt. Primary School Par Ahmed,31.86684,73.3833,Combined,Punjab,1,1,536,390
- 476 - Govt.  Elementary School  Bhobhra (East Side),31.86842,73.40975,Male,Punjab,2,0,1036,0
- 477 - Govt.  Elementary School  Bhobhra (West Side),31.86842,73.40978,Female,Punjab,0,2,0,751
- 351 - Govt. Girls Primary School Nai Mandi Sukheki,31.86958,73.49171,Female,Punjab,0,2,0,821
- 352 - Govt.  Rashid Minhas High School Sukheki Mandi (East Side),31.87273,73.48674,Male,Punjab,2,0,1065,0
- 353 - Govt.  Rashid Minhas High School Sukheki Mandi (West Side),31.87273,73.48677,Female,Punjab,0,2,0,850
- 492 - Govt.  Primary School Fatehki(East),31.8747,73.3179,Male,Punjab,2,0,1243,0
- 493 - Govt.  Primary School Fatehki(West),31.8747,73.31793,Female,Punjab,0,2,0,918
- 355 - Govt. Elementary School Sukheki Gaon (East Side),31.87646,73.46743,Male,Punjab,3,0,1482,0
- 356 - Govt.  Elementary School Sukheki Gaon- West Side,31.87646,73.46746,Female,Punjab,0,2,0,1170
- 311 - Govt. Girls Primary School Nawab Pura- Pindi Bhattian (East side),31.87715,73.30067,Female,Punjab,0,2,0,792
- 313 - Govt. Girls Primary School Nawab Pura- Pindi Bhattian (West side),31.87715,73.3007,Female,Punjab,0,2,0,1363
- 478 - Govt. Girls  Elementary School Rah Bhobhra,31.87768,73.41003,Combined,Punjab,2,1,762,636
- 380 - Govt. Primary School Qila Usman Ghani,31.87781,73.61714,Combined,Punjab,1,1,639,496
- 479 - Govt. Girls Primary School Mona Maneka,31.87938,73.44167,Combined,Punjab,1,1,598,478
- 432 - Govt.  Elementary School  Tawalay Wali,31.88158,73.50185,Male,Punjab,3,0,1127,0
- 433 - Govt. Girls Primary School Tawelay Wali,31.88166,73.50184,Female,Punjab,0,2,0,929
- 302 - Govt. High School No.1 Pindi Bhattian Jonubi Block,31.88321,73.28151,Male,Punjab,2,0,970,0
- 321 - Govt.  High School No.1 Old Building  Pindi Bhattian,31.88321,73.28154,Male,Punjab,2,0,933,0
- 323 - Govt.  High School No.1 Pindi Bhattian,31.88321,73.28157,Combined,Punjab,2,1,674,605
- 541 - Govt. Primary School Siddique Abad,31.88395,73.24339,Combined,Punjab,2,1,773,576
- 320 - Govt. Girls Primary School Hassan Pura Pindi Bhattian,31.88402,73.25423,Female,Punjab,0,2,0,671
- 544 - Govt. Boys High School Mirza  Bhattian (East Side),31.88674,73.18705,Male,Punjab,2,0,1012,0
- 545 - Govt. Boys High School Mirza  Bhattian (West Side),31.88675,73.18704,Female,Punjab,0,2,0,851
- 494 - Govt. Secondary School Thatha Kheru Mutmal(East),31.88908,73.33795,Male,Punjab,2,0,1109,0
- 495 - Govt. Secondary School Thatha Kheru Mutmal(West),31.88908,73.33798,Male,Punjab,2,0,939,0
- 384 - Govt. Boys Primary School Sawan Pura,31.88939,73.60216,Combined,Punjab,2,1,860,644
- 317 - Office of  Assistnat Director Benzeer Incom Sport Program Pindi Bhattian,31.88986,73.26577,Male,Punjab,3,0,1136,0
- 319 - Govt.  Primary School Hassan Pura Pindi Bhattian,31.89154,73.26569,Male,Punjab,2,0,829,0
- 310 - Govt.  Primary School Nawab Pura- Pindi Bhattian(East side),31.89209,73.28037,Male,Punjab,2,0,940,0
- 312 - Govt.  Primary School Nawab Pura- Pindi Bhattian (West side),31.89209,73.2804,Male,Punjab,2,0,1611,0
- 379 - Govt. Elementary School Bhaka Bhattian,31.89242,73.68053,Combined,Punjab,1,1,472,321
- 318 - Govt. Vocational Training Institute Pindi Bhattian,31.89282,73.2722,Female,Punjab,0,2,0,950
- 546 - Govt. Boys Primary School Maqsooda Bhattian,31.89349,73.20226,Combined,Punjab,1,1,557,429
- 308 - Govt.   Girls Primary School Dulleki (East Side),31.89442,73.29311,Male,Punjab,2,0,954,0
- 309 - Govt.  Girls Primary School Dulleki (West Side),31.89442,73.29314,Female,Punjab,0,2,0,762
- 314 - Govt. Islah Modle Primary School  Pindi Bhattian,31.89452,73.26887,Combined,Punjab,2,1,878,629
- 307 - Office of Deputy Director Live Stock Lahore Road Pindi Bhattian,31.89476,73.28519,Combined,Punjab,2,1,648,553
- 322 - District Public School- Pindi Bhattian,31.89486,73.2689,Female,Punjab,0,2,0,689
- 304 - Govt. T.H.Q Hospital Pindi Bhattian,31.89649,73.27825,Combined,Punjab,2,1,768,750
- 305 - Soil Salinity Research Institue Lahore Road Pindi Bhattian,31.89663,73.27856,Combined,Punjab,2,1,886,663
- 315 - Govt.  Primary School No.1 Pindi Bhattian (North Side),31.89721,73.26917,Combined,Punjab,2,1,740,622
- 316 - Govt.  Primary School No.1 Pindi Bhattian (South Side),31.89721,73.2692,Combined,Punjab,2,1,643,534
- 497 - Govt. Boys Primary School Bahoo Man,31.89848,73.36794,Combined,Punjab,2,1,845,710
- 306 - Office of  Assistant Manager (Operation) Gepco Lahore Road Pindi Bhattian,31.89861,73.2716,Combined,Punjab,2,1,679,558
- 496 - Govt. Girls High School Thatha Kheru Mutmal,31.89888,73.41637,Female,Punjab,0,2,0,1602
- 473 - Govt. Primary School Atlay Rehman,31.89985,73.45802,Male,Punjab,3,0,1186,0
- 324 - Govt. Veterinary  Hospital Hafizabad Road Pindi Bhattian,31.90036,73.27041,Combined,Punjab,2,1,666,486
- 303 - Govt. Girls Higher Secondary School Main Bazar Pindi Bhattian,31.90046,73.27113,Female,Punjab,0,2,0,823
- 301 - Govt. Girls Elementary School Mian Khair Muhammad Noon Pindi Bhattian,31.9007,73.27385,Female,Punjab,0,2,0,802
- 474 - Govt. Girls Primary School Atlay Rehman,31.90102,73.45712,Female,Punjab,0,2,0,794
- 483 - Govt. Boys  Primary School Puraneki,31.90287,73.39042,Combined,Punjab,2,1,882,639
- 382 - Govt. Girls High School Mian Raheema,31.90653,73.61169,Combined,Punjab,2,1,782,575
- 383 - Govt. Boys Primary School Jalalana,31.90749,73.58984,Combined,Punjab,2,1,697,555
- 431 - Govt. Primary School Khatrani,31.91067,73.486,Combined,Punjab,1,1,644,490
- 298 - Office of Assistant Director Agricultural Extension Hafizabad Road Pindi Bhattian,31.91129,73.27193,Male,Punjab,2,0,882,0
- 299 - Office of Assistant Director Agricultural Extension Hafizabad Road Pindi Bhattian,31.91129,73.27196,Female,Punjab,0,2,0,712
- 498 - Govt. High School Shori Maneka,31.91307,73.33705,Male,Punjab,3,0,1301,0
- 475 - Govt. Model Primary School Channi Qasim,31.91326,73.40894,Combined,Punjab,1,1,441,369
- 499 - Govt. Girls Elementary School Shori Maneka,31.91452,73.33681,Female,Punjab,0,2,0,1126
- 422 - Govt. Girls Secondary School Kot Sarwar,31.91745,73.50183,Male,Punjab,3,0,1348,0
- 423 - Govt. Girls Secondary School Kot Sarwar Part Elementary,31.91745,73.50186,Female,Punjab,0,2,0,1026
- 558 - Govt. Boys Primary School Bhopa Lodhika,31.91845,73.46976,Combined,Punjab,1,1,633,454
- 543 - Govt.  Primary School  Chouchak,31.92057,73.19822,Combined,Punjab,2,1,729,583
- 377 - Govt. Boys Primary School Khanjar,31.92235,73.69223,Combined,Punjab,2,1,876,626
- 548 - Govt.  Primary School Chohdo Ahmed Yar,31.92371,73.32626,Male,Punjab,2,0,908,0
- 429 - Govt. Primary School Hardo Ratta (East Side),31.92594,73.47117,Male,Punjab,2,0,965,0
- 430 - Govt. Primary School Hardo Ratta (West Side),31.92594,73.4712,Female,Punjab,0,2,0,699
- 540 - Govt. Elementary School Thathi Assiash Kalan,31.92685,73.21053,Combined,Punjab,2,1,751,527
- 296 - Govt. Model High School  Pindi Bhattian- Shamali Block,31.92758,73.28519,Male,Punjab,2,0,976,0
- 297 - Govt. Model High School  Pindi Bhattian- Jonubi Block,31.92758,73.28522,Female,Punjab,0,2,0,701
- 542 - Govt. Girls  Elementary School Thathi Behlol Pur,31.92818,73.20708,Combined,Punjab,2,1,875,627
- 284 - Govt. Primary School Rakh Pindi Jalol,31.92909,73.74023,Combined,Punjab,1,1,380,294
- 485 - Govt. Girls High School Janduke,31.93066,73.40679,Female,Punjab,0,2,0,912
- 489 - Govt. Boys Primary School Husseke Awal,31.93134,73.38496,Combined,Punjab,2,1,623,578
- 490 - Govt. Girls Primary School- Husseke Awal,31.93134,73.38499,Combined,Punjab,2,1,779,585
- 484 - Govt. High School Janduke,31.93217,73.40491,Male,Punjab,2,0,1095,0
- 386 - Govt. Girls Elementary School Nahrianwala,31.93341,73.60393,Female,Punjab,0,2,0,795
- 378 - Govt. Model Primary School Ghanoke,31.93452,73.67731,Combined,Punjab,1,1,532,400
- 385 - Govt. Primary School Nahrianwala,31.93487,73.60463,Male,Punjab,2,0,1085,0
- 391 - Govt.  Primary School  Dinga  Wadahra,31.93555,73.65646,Combined,Punjab,1,1,598,452
- 552 - Govt. Primary School Dullu Kalan,31.93628,73.20923,Combined,Punjab,1,1,518,402
- 487 - Govt. Boys High School Mirza Bhangsinka (East side),31.9384,73.33636,Male,Punjab,2,0,1121,0
- 488 - Govt. Boys High School Mirza Bhangsinka(West side),31.9384,73.33639,Female,Punjab,0,2,0,825
- 551 - Govt. Girls Primary School Bagh Kohna,31.9415,73.27077,Combined,Punjab,2,1,847,616
- 465 - Govt. Boys Primary School Widror,31.94195,73.43868,Combined,Punjab,2,1,698,486
- 392 - Govt. Secondary School- Burj Dara (East Side),31.94491,73.63486,Male,Punjab,2,0,866,0
- 393 - Govt. Secondary School- Burj Dara (West Side),31.94491,73.63489,Female,Punjab,0,2,0,663
- 408 - Govt. Elementary School Uddoki,31.94547,73.54001,Combined,Punjab,2,1,690,482
- 409 - Govt. Model Elementary School (Part Girls) Uddoki,31.94552,73.5396,Combined,Punjab,1,1,510,355
- 486 - Govt. Boys Elementary School Wijhwan,31.94737,73.39853,Combined,Punjab,2,1,903,745
- 553 - Govt. Boys Primary School  Kot Nizam,31.94777,73.24356,Combined,Punjab,1,1,919,678
- 389 - Govt.  Elementary School Shameer Dinga  (Male),31.94993,73.67515,Male,Punjab,2,0,1023,0
- 390 - Govt.  Elementary School Shameer Dinga  (Female),31.94993,73.67518,Female,Punjab,0,2,0,773
- 549 - Govt. Girls Primary School Chohdo Ahmed Yar,31.95204,73.31437,Female,Punjab,0,2,0,701
- 283 - Govt. Boys Primary School-  Dera  Jammu,31.95227,73.75294,Combined,Punjab,1,1,812,628
- 419 - Govt. Boys Elementary School Dohatta Azmat- East Side,31.95945,73.47532,Male,Punjab,2,0,1131,0
- 420 - Govt. Boys Elementary School Dohatta Azmat- West Side,31.95945,73.47535,Female,Punjab,0,2,0,909
- 562 - Govt. Primary School Dhalke Kalan,31.95981,73.33792,Combined,Punjab,1,1,480,366
- 294 - Govt. Girls Secondary   School- Kot Hassan Khan East Side,31.96191,73.70843,Combined,Punjab,1,1,218,164
- 472 - Govt. Girls Model Primary School Garhi Wahab,31.96206,73.38194,Female,Punjab,0,2,0,1003
- 413 - Govt. Model Primary School Thatha Asian,31.96307,73.53918,Combined,Punjab,2,1,874,608
- 471 - Govt. Boys Primary School Garhi Wahab,31.96337,73.38271,Male,Punjab,3,0,1296,0
- 289 - Govt. English Medium Primary School Kot Hanjranwan Wala,31.96351,73.6857,Combined,Punjab,2,1,1052,745
- 412 - Govt. Girls Elementary School Tootra,31.96359,73.55665,Combined,Punjab,2,1,789,562
- 547 - Govt. Boys Primary School Qila Murad Bukhsh,31.96397,73.30639,Combined,Punjab,2,1,743,525
- 411 - Govt. Girls Primary School Thatha Manak,31.96449,73.56058,Combined,Punjab,2,1,789,546
- 570 - Govt. Boys Primary School Chohdo Khuda Yar,31.96491,73.29053,Combined,Punjab,1,1,816,630
- 554 - Govt. Secondary School Kot Bela,31.96578,73.2412,Combined,Punjab,2,1,905,670
- 466 - Govt. Boys  High School Kassisay (East Side),31.96633,73.41124,Male,Punjab,2,0,952,0
- 467 - Govt. Boys High School Kassisay (West Side),31.96633,73.41127,Male,Punjab,2,0,820,0
- 290 - Govt. Model Primary School Panjatha,31.96679,73.68011,Combined,Punjab,1,1,319,231
- 291 - Govt. Secondary  School Kot Hassan Khan-East Side,31.96786,73.74371,Male,Punjab,2,0,1333,0
- 292 - Govt. Secondary  School Kot Hassan Khan  south Side,31.96786,73.74374,Female,Punjab,0,2,0,1090
- 293 - Govt. Secondary  School Kot Hassan Khan-West Side,31.96786,73.74377,Combined,Punjab,1,1,754,594
- 295 - Govt. Boys Primary School- Chak Gujran Kalan,31.96786,73.7438,Combined,Punjab,2,1,692,486
- 468 - Govt. Girls Elementary School Kassisay,31.9686,73.41087,Female,Punjab,0,2,0,1360
- 557 - Govt. Primary School Dhapar Barkat Ram,31.97153,73.36207,Combined,Punjab,2,1,805,594
- 418 - Govt. Model Primary School Manjwan (Girls Campus),31.97198,73.50581,Combined,Punjab,1,1,617,414
- 397 - Govt. Primary School- Kaleki Mandi (Sharqi) (Male),31.97669,73.60342,Male,Punjab,2,0,898,0
- 398 - Govt. Primary School- Kaleki Mandi (Sharqi) (Female),31.97669,73.60345,Female,Punjab,0,2,0,770
- 399 - Govt.  Higher Secondary School Kaleki- Middle Block (Male),31.97707,73.60357,Male,Punjab,2,0,1083,0
- 400 - Govt.  Higher Secondary School Kaleki- Middle Block (Female),31.97707,73.6036,Female,Punjab,0,2,0,805
- 401 - Govt. Girls Higher Secondary School  Primary Block Kaleki  Mandi (East Side),31.97707,73.60363,Male,Punjab,2,0,1106,0
- 402 - Govt. Girls Higher Secondary School  Primary Block Kaleki  Mandi (West Side),31.97707,73.60366,Female,Punjab,0,2,0,828
- 405 - Govt. Higher Secondary School   Kaleki Mandi- East Side,31.97707,73.60369,Male,Punjab,3,0,1465,0
- 406 - Govt. Higher Secondary School   Kaleki Mandi- (West Side),31.97707,73.60372,Female,Punjab,0,2,0,1070
- 407 - Govt. Girls Higher Secondary School- Kaleki Mandi,31.97707,73.60375,Combined,Punjab,1,1,520,415
- 281 - Govt. Girls High School Kassoke (East side),31.98018,73.73306,Male,Punjab,2,0,1021,0
- 282 - Govt. Girls High School Kassoke (west side),31.98018,73.73309,Female,Punjab,0,2,0,716
- 450 - Govt. Model Primary School Sanbhal,31.98091,73.45058,Combined,Punjab,2,1,701,588
- 277 - Govt. Higher Secondary School Kassoke- ( East Side),31.98115,73.7306,Combined,Punjab,2,1,862,637
- 278 - Govt.Higher Secondary School Kassoke- ( West Side),31.98115,73.73063,Combined,Punjab,2,1,758,528
- 279 - Govt. Girls Community Model School- Kassoki (East side),31.98123,73.73177,Male,Punjab,2,0,1148,0
- 280 - Govt. Girls Community Model School- Kassoki (West side),31.98123,73.7318,Female,Punjab,0,2,0,796
- 252 - Govt.Girls Secondary School Kot Nanak,31.98195,73.79282,Combined,Punjab,2,1,748,517
- 414 - Govt.  Primary School  Bangar Nao,31.98212,73.52045,Combined,Punjab,2,1,775,629
- 470 - Govt. Girls Primary School Thatha Jahid Ameer Wala,31.98786,73.37525,Combined,Punjab,1,1,551,422
- 469 - Govt. Elementary School Thatha Jahid Ameer Wala,31.9879,73.37492,Combined,Punjab,1,1,580,473
- 247 - Govt. Primary School Borianwala,31.98824,73.73905,Male,Punjab,2,0,1174,0
- 561 - Govt. Boys Primary School- Jassoke,31.9894,73.32389,Combined,Punjab,1,1,562,457
- 560 - Govt. Girls  Secondary School Tahli Goraya- East Side,31.99279,73.33627,Combined,Punjab,2,1,753,600
- 248 - Govt. Girls Primary School Borianwala,31.99313,73.75645,Female,Punjab,0,2,0,838
- 448 - Govt. Boys Elementary School Matteki,31.99392,73.45883,Male,Punjab,3,0,1352,0
- 449 - Govt. Girls Elementary School Matteki,31.99408,73.45986,Female,Punjab,0,2,0,1022
- 559 - Govt. Boys Secondary School Tahli Goraya (West Side ),31.99409,73.32909,Combined,Punjab,2,1,705,587
- 376 - Govt. Model Primary School Samra,31.99505,73.60631,Combined,Punjab,2,1,856,620
- 569 - Govt.  Primary School Lodhray,31.99519,73.26253,Combined,Punjab,1,1,677,500
- 286 - Govt. Girls Elementary School Wachoke Khurd East Side,31.99673,73.67085,Male,Punjab,2,0,1130,0
- 287 - Govt.Girls Elementary School Wachoke Khurd West Side,31.99673,73.67088,Female,Punjab,0,2,0,793
- 556 - Govt. Girls Secondary School Madhora Kalan,31.99695,73.42068,Female,Punjab,0,2,0,995
- 375 - Govt. Boys Primary   School- Geegay,31.9971,73.55721,Female,Punjab,0,2,0,982
- 555 - Govt.Boys Elementary School Madhora Kalan,31.99714,73.42094,Male,Punjab,3,0,1219,0
- 373 - Govt. Primary School- Kot Mian,32.00087,73.59349,Combined,Punjab,1,1,479,403
- 251 - Govt.Girls Model Primary School Buayke,32.00169,73.7683,Combined,Punjab,1,1,684,516
- 274 - Govt.Girls Secondary School Jurian (East Side),32.00215,73.69857,Male,Punjab,3,0,1464,0
- 275 - Govt.Girls Secondary School Jurian (West Side),32.00215,73.6986,Female,Punjab,0,2,0,1093
- 566 - Govt. Secondary School Khurram Choraira,32.00254,73.28797,Combined,Punjab,2,1,807,673
- 568 - Govt. Primary School Burj Masti,32.00272,73.26708,Combined,Punjab,2,1,682,482
- 374 - Govt. Girls Elecmentary School- Dera Manak (Geegay),32.00426,73.56329,Male,Punjab,3,0,1200,0
- 444 - Govt. Boys Primary School Thatha Gajju,32.0046,73.47757,Combined,Punjab,2,1,713,594
- 447 - Govt. Girls Primary School Sakhi,32.0061,73.50381,Female,Punjab,0,2,0,762
- 272 - Govt.Secondary School Jurian(East Side),32.00827,73.7,Male,Punjab,2,0,987,0
- 273 - Govt.Secondary School Jurian  (West Side),32.00827,73.70003,Female,Punjab,0,2,0,790
- 285 - Govt.Secondary School Wachoki Kalan,32.00889,73.68873,Combined,Punjab,2,1,791,575
- 276 - Govt. Girls Elementary School Qila Balwant Singh,32.00907,73.73046,Combined,Punjab,1,1,686,570
- 242 - Govt. Boys Model Primary School Ghanian Khurd,32.00976,73.75026,Combined,Punjab,1,1,535,391
- 446 - Govt. Secondary School Sakhi,32.0112,73.50425,Male,Punjab,2,0,1037,0
- 462 - Govt. Girls Elementary School Mughoke,32.01228,73.41001,Combined,Punjab,2,1,666,477
- 257 - Govt.Model Primary School Lakhia,32.01484,73.60523,Combined,Punjab,2,1,769,522
- 464 - Govt. Boys Elementary School Kot Khushal,32.01666,73.43467,Combined,Punjab,2,2,854,661
- 249 - Govt. Primary School Laveray Kalan,32.01723,73.7889,Male,Punjab,3,0,1368,0
- 573 - Govt. Boys Primary School Thatha Mona Salabat,32.01747,73.32405,Combined,Punjab,2,1,719,531
- 565 - Govt. Model Primary School Garhi Gondal,32.01751,73.27264,Combined,Punjab,2,1,846,668
- 574 - Govt. Primary School Khurram Lodhi,32.01937,73.29332,Combined,Punjab,1,1,510,410
- 288 - Govt. Primary Girls  School Channi Hoshnak Rai,32.02139,73.65901,Combined,Punjab,1,1,605,397
- 271 - Govt.Girls Elementary School Kariala (West Side),32.02193,73.69198,Female,Punjab,0,2,0,946
- 268 - Govt. Elementary School Kariala (West Side),32.02284,73.69077,Male,Punjab,2,0,1145,0
- 250 - Govt.Girls Secondary School Laveray Kalan,32.02354,73.79175,Female,Punjab,0,2,0,1056
- 370 - Govt. Primary School Shah Jamal (East Side),32.02535,73.56094,Male,Punjab,2,0,1104,0
- 371 - Govt. Pirmary School Shah Jamal (West Side),32.02535,73.56097,Female,Punjab,0,2,0,915
- 567 - Govt. Primary School Mahiwala,32.02641,73.23611,Combined,Punjab,1,1,612,473
- 259 - Govt. Boys Elementary School Kot Nawan,32.02793,73.69688,Combined,Punjab,1,1,702,504
- 66 - Govt. Elementary School Ram Garh (Thatha Khokhran) (North Side),32.02793,73.69691,Male,Punjab,3,0,1502,0
- 68 - Govt. Elementary School Ram Garh (Thatha Khokhran) (South Side),32.02793,73.69694,Female,Punjab,0,2,0,1196
- 461 - Govt. Boys Primary School Dharian,32.02799,73.40965,Combined,Punjab,2,2,1047,737
- 463 - Govt. Boys Primary School Patli Kharal,32.02865,73.46381,Combined,Punjab,2,1,676,465
- 245 - Govt.High School Vinni   East Side,32.03067,73.79365,Male,Punjab,3,0,1456,0
- 234 - Govt.Boys Primary School Sioke,32.03103,73.7942,Combined,Punjab,1,1,595,424
- 255 - Govt.Girls High School Madhrianwala (East side),32.03252,73.63364,Male,Punjab,2,0,1330,0
- 256 - Govt.Girls High School Madhrianwala,32.03252,73.63367,Female,Punjab,0,2,0,1098
- 253 - Govt.Secondary School Madhrianwala- (East Side),32.03252,73.63368,Male,Punjab,2,0,1111,0
- 254 - Govt.Secondary School Madhrianwala- (West Side),32.03252,73.63371,Female,Punjab,0,2,0,809
- 572 - Govt. Girls Primary School  Sadhoke,32.03284,73.36838,Female,Punjab,0,2,0,722
- 267 - Govt.Girls High School  Bhoon Kalan  (West Side),32.033,73.70332,Female,Punjab,0,2,0,1080
- 457 - Govt. Elementary School Khiday,32.03493,73.48007,Combined,Punjab,2,1,700,532
- 445 - Govt. Primary School Peer Kamal,32.035,73.50783,Combined,Punjab,1,1,797,690
- 269 - Govt. Elementary School Kariala East Side,32.03801,73.70316,Female,Punjab,0,2,0,867
- 563 - Govt.  Primary School  Kot Alam Kalan,32.03808,73.27725,Combined,Punjab,1,1,488,309
- 369 - Govt. Boys Primary School- Saroop Wala,32.04019,73.57478,Combined,Punjab,2,1,823,671
- 266 - Govt.Girls High School  Bhoon Kalan (East Side),32.04137,73.70136,Male,Punjab,3,0,1361,0
- 265 - Govt. Model Primary School Hardo Bhoon Khurd,32.04431,73.70401,Combined,Punjab,2,1,829,607
- 578 - Govt. Boys Primary School Jag Bhatti,32.04592,73.34502,Combined,Punjab,1,1,646,355
- 443 - Govt. Girls Primary School Waleki,32.04727,73.50925,Combined,Punjab,2,1,650,491
- 233 - Govt.Girls Primary  School Peer Kot Sani,32.05079,73.74272,Combined,Punjab,1,1,397,286
- 270 - Govt.Girls Elementary School Kariala (East Side),32.0508,73.68159,Male,Punjab,2,0,1168,0
- 258 - Govt. Boys Primary School- Touheed Nagar (Mamna),32.05328,73.62796,Combined,Punjab,1,1,537,452
- 564 - Govt. Elementary School  Kot Ghazi,32.05355,73.28407,Combined,Punjab,2,1,873,468
- 372 - Govt. Model Primary School Phulo Chiragh Shah,32.05416,73.54985,Combined,Punjab,1,1,308,256
- 62 - Govt. Girls Primary School  Khan Pura Hafizabad (East side),32.05704,73.68202,Female,Punjab,0,2,0,1306
- 63 - Govt. Girls Primary School  Khan Pura Hafizabad (west side),32.05704,73.68205,Female,Punjab,0,3,0,1536
- 69 - District Public School- Ram Garh- East Side,32.05711,73.67414,Male,Punjab,1,0,559,0
- 70 - District Public School- Ram Garh- Hafizabad Western Side,32.05711,73.67417,Female,Punjab,0,1,0,401
- 453 - Govt. Rural Health Center Rasoolpur Tarar,32.05768,73.46725,Combined,Punjab,1,1,638,408
- 579 - Govt. Girls Primary School Kot Mohabat,32.05815,73.31713,Combined,Punjab,1,1,645,454
- 67 - Govt. Girls Primary School- Burj Fateh Ali,32.05831,73.66633,Combined,Punjab,1,1,425,300
- 52 - Govt. MC  Elementary School No.5 Hafizabad (North Side-I),32.05851,73.69224,Male,Punjab,4,0,2006,0
- 53 - Govt. MC  Elementary School No.5 Hafizabad (North Side-II),32.05851,73.69227,Male,Punjab,3,0,1849,0
- 54 - Govt. MC  Elementary School No.5 Hafizabad (North Side-III),32.05851,73.6923,Male,Punjab,3,0,1862,0
- 55 - Govt. MC  Elementary School No.5 Hafizabad (South Side-I),32.05851,73.69233,Female,Punjab,0,3,0,1832
- 56 - Govt. MC  Elementary School No.5 Hafizabad  (South Side-II),32.05851,73.69236,Female,Punjab,0,3,0,1374
- 57 - Govt. MC  Elementary School No.5 Hafizabad (South Side-III),32.05851,73.69239,Female,Punjab,0,3,0,1350
- 451 - Govt. Boys  Primary School- Nauroz Pur,32.059,73.47198,Male,Punjab,3,0,1363,0
- 455 - Govt. Girls High School Rasool Pur Tarar,32.059,73.47201,Combined,Punjab,2,1,909,641
- 456 - Govt.  High School Rasool Pur Tarar (West Side),32.059,73.47204,Combined,Punjab,2,2,975,725
- 459 - Govt. Girls Elementary School Solangi Kharal,32.06038,73.43001,Male,Punjab,3,0,1406,0
- 334 - Govt. Degree College  for Women Jalalpur Bhattian (East Side),32.06044,73.40144,Female,Punjab,0,2,0,702
- 336 - Govt. Degree College  for Women Jalalpur Bhattian (West Side),32.06044,73.40147,Female,Punjab,0,2,0,589
- 460 - Govt. Boys Primary School Solangi Kharal,32.0606,73.42522,Female,Punjab,0,2,0,1110
- 333 - Govt. Girls Elementary School Mohallah Alam Pura Jalalpur Bhattian,32.06067,73.40149,Male,Punjab,2,0,1073,0
- 261 - Govt.Girls Primary School Solangi Awan,32.06084,73.66996,Female,Punjab,0,2,0,976
- 264 - Govt.Boys Primary School Peelo,32.06094,73.55907,Combined,Punjab,1,1,561,395
- 441 - Govt.  Primary School Thatha Gahra (East Side),32.06097,73.50148,Male,Punjab,3,0,1472,0
- 442 - Govt.  Primary School Thatha Gahra (West Side),32.06097,73.50151,Female,Punjab,0,2,0,1142
- 332 - Govt. Boys Primary School Alam Pura- Jalalpur Bhattian,32.06128,73.40118,Combined,Punjab,2,1,793,579
- 228 - Govt.Girls Elementary School Dhunni  (East Side),32.06144,73.79847,Male,Punjab,3,0,1477,0
- 229 - Govt.Girls Elementary  School Dhunni  (West Side),32.06144,73.7985,Female,Punjab,0,2,0,1146
- 230 - Govt.Boys Primary School Dhunni,32.06144,73.79853,Combined,Punjab,1,1,529,364
- 240 - Govt. Elementary School Mangat Uncha (East side),32.06176,73.70196,Male,Punjab,2,0,1065,0
- 244 - Govt. Boys Primary School Madan Philla,32.06176,73.70199,Combined,Punjab,2,1,899,667
- 74 - Govt. High School No.2 Madina Colony Hafizabad (East Side),32.06208,73.67751,Male,Punjab,2,0,1453,0
- 75 - Govt. High School No.2 Madina Colony Hafizabad (West Side-I),32.06208,73.67754,Female,Punjab,0,4,0,2111
- 76 - Govt. High School No.2 Madina Colony Hafizabad.  (West Side-II),32.06208,73.67757,Male,Punjab,2,0,1333,0
- 77 - Govt. High School No.2 Madina Colony Hall Block- HFD.,32.06208,73.6776,Male,Punjab,3,0,1482,0
- 454 - Govt. High School Rasool Pur Tarar (East Side),32.06232,73.46115,Combined,Punjab,2,1,646,500
- 64 - Govt. MC Girls Primary School No.4 Hafizabad (East side),32.0624,73.69025,Male,Punjab,3,0,1950,0
- 65 - Govt. MC Girls Primary School No.4 Hafizabad (west side),32.0624,73.69028,Male,Punjab,3,0,1651,0
- 78 - Govt. Girls Elementary School- Madina Colony Hafizabad (West Side-I),32.06274,73.67712,Female,Punjab,0,3,0,1332
- 184 - Govt.Girls Elementary School Sandhwan Tarar (East Side),32.06323,73.5294,Male,Punjab,3,0,1247,0
- 185 - Govt.Girls Elementary School Sandhwan Tarar (West Side),32.06323,73.52943,Female,Punjab,0,2,0,1003
- 241 - Govt. Elementary School Mangat Uncha (West Side),32.06343,73.69983,Female,Punjab,0,2,0,844
- 60 - Govt. Saint Meri High School Moh.Khan Pura (East side),32.06355,73.68791,Male,Punjab,3,0,1905,0
- 61 - Govt. Saint Meri High School Moh.Khan Pura (west side),32.06355,73.68794,Female,Punjab,0,3,0,1698
- 328 - Govt. Public Higher Secondary School Jalalpur Bhattian (New Block I),32.06391,73.37846,Male,Punjab,2,0,904,0
- 330 - Govt. Public Higher Secondary School Jalalpur Bhattian (New Block II),32.06391,73.37849,Male,Punjab,3,0,1124,0
- 340 - Govt. Public Higher Secondary School Jalalpur Bhattian (New Block III),32.06391,73.37852,Male,Punjab,2,0,994,0
- 341 - Govt. Public Higher Secondary School Jalalpur Bhattian Shamali  Gate,32.06391,73.37855,Female,Punjab,0,2,0,805
- 342 - Govt. Public Higher Secondary School Jalalpur Bhattian (New Block IV),32.06391,73.37858,Male,Punjab,2,0,1219,0
- 343 - Govt.  Public Higher Secondary School Jalalpur Bhattian Shamali  Gate,32.06391,73.37861,Female,Punjab,0,2,0,895
- 262 - Govt.Girls Elementary School Channi Mitha (East side),32.06399,73.61246,Male,Punjab,2,0,1277,0
- 263 - Govt.Girls Elementary School Channi Mitha (west side),32.06409,73.6125,Female,Punjab,0,2,0,944
- 337 - Govt. Boys High School Jalalpur Bhattian New Block (Combine),32.06435,73.3784,Combined,Punjab,1,1,736,541
- 338 - Govt. Boys High School Jalalpur Bhattian New Block (Male),32.06435,73.37843,Male,Punjab,3,0,1767,0
- 73 - Govt. Girls Primary School  Habib Gunj Hafizabad,32.0644,73.68198,Female,Punjab,0,3,0,1457
- 452 - Govt. Girls Community Model School Nawan Shehar,32.06546,73.48499,Female,Punjab,0,2,0,958
- 51 - Govt. Girls Primary School  Peer Kale Shah- Hafizabad,32.06574,73.69444,Combined,Punjab,2,1,951,786
- 329 - Govt. Girls Community Model School Jalalpur Bhattian (East Side),32.06583,73.37953,Female,Punjab,0,2,0,659
- 331 - Govt. Girls Community Model School Jalalpur Bhattian (West Side),32.06583,73.37956,Female,Punjab,0,2,0,935
- 327 - Govt. Girls Secondary School Jalalpur Bhattian (Combine),32.06598,73.37862,Combined,Punjab,1,1,478,369
- 335 - Govt. Girls Secondary School Jalalpur Bhattian (Male),32.06598,73.37865,Male,Punjab,2,0,851,0
- 339 - Govt. Girls Secondary School Jalalpur Bhattian (Female),32.06598,73.37868,Female,Punjab,0,3,0,1430
- 71 - Govt. Muslim High School HFD South Side-A,32.06681,73.68359,Male,Punjab,2,0,1232,0
- 72 - Govt. Muslim High School HFD  South Side-B,32.06681,73.68362,Male,Punjab,1,0,508,0
- 79 - Govt. Muslim High School HFD- New Block (West Side-II),32.06681,73.68365,Male,Punjab,2,0,1320,0
- 80 - Govt. Muslim High School HFD- New Block (North Side),32.06681,73.68368,Male,Punjab,2,0,914,0
- 36 - Govt. Model Primary School Kot Qadir Bukhsh,32.06683,73.70553,Combined,Punjab,1,1,617,499
- 90 - Govt. Boys Primary School Qila Sahib Singh (East side-I),32.06701,73.66107,Male,Punjab,3,0,2128,0
- 85 - Govt. College Hafizabad (East side),32.06714,73.6795,Male,Punjab,3,0,1381,0
- 86 - Govt.  Degree College Hafizabad  (West side),32.06714,73.67953,Female,Punjab,0,2,0,1203
- 91 - Govt. Boys Primary School Qila Sahib Singh(West Side-II),32.06728,73.66097,Male,Punjab,3,0,1569,0
- 93 - Govt. Girls Elemantary School Qila Sahib Singh(West Side-II),32.06734,73.66118,Female,Punjab,0,3,0,1141
- 81 - Govt. Girls Higher Secondary School No. 1 Hafizabad (Center of Excellence) (Old Blcok ),32.06746,73.68163,Female,Punjab,0,2,0,1132
- 82 - Govt. Girls Higher Secondary School No. 1 Hafizabad (Center of Excellence) (New Block),32.06746,73.68166,Female,Punjab,0,2,0,826
- 87 - Govt. Boys Primary School Qila Sahib Singh(East Side),32.06762,73.66333,Male,Punjab,4,0,2098,0
- 88 - Govt. Girls Elementary School Qila Sahib Singh (East Side),32.06762,73.66336,Female,Punjab,0,3,0,1541
- 92 - Govt. Girls Elemantary School Qila Sahib Singh(West Side-I),32.06767,73.66121,Female,Punjab,0,3,0,1846
- 235 - Govt.Girls Secondary School Chak Chatha (south side),32.06788,73.69947,Combined,Punjab,2,1,742,548
- 238 - Govt.Girls Secondary School Chak Chatha (East Side),32.06788,73.6995,Male,Punjab,3,0,1518,0
- 239 - Govt.Girls Secondary School Chak Chatha (West Side),32.06788,73.69953,Female,Punjab,0,2,0,1171
- 29 - Govt. Model Higher Secondary School Hafizabad (Old Building) (East North Side),32.06788,73.69956,Male,Punjab,2,0,873,0
- 30 - Govt. Model Higher Secondary School Hafizabad(Old Building) (West North Side),32.06788,73.69959,Male,Punjab,2,0,1004,0
- 31 - Govt. Model Higher Secondary School Hafizabad (New Building) (East Side-I),32.06788,73.69962,Female,Punjab,0,3,0,1545
- 326 - Govt. Girls Primary School Jalalpur Kohna,32.06861,73.3633,Female,Punjab,0,2,0,878
- 260 - Govt. Primary School Solangi Awan,32.06892,73.64974,Male,Punjab,2,0,1190,0
- 89 - Govt. M.C. Primary Boys  School No.3 Hafizabad,32.06907,73.6816,Combined,Punjab,1,1,575,510
- 95 - Govt.  Boys Primary School MC No.4 Hafizabad (South Side),32.0691,73.68164,Male,Punjab,2,0,896,0
- 96 - Govt. Girls  Primary School MC No. 3 Hafizabad,32.0691,73.68167,Female,Punjab,0,3,0,1793
- 97 - Govt. D.H.Q Hospital Hafizabad (East Side),32.0691,73.6817,Male,Punjab,2,0,896,0
- 47 - Office of Deputy District Education Officer (Women) Hafizabad (East Side),32.06917,73.69356,Male,Punjab,2,0,998,0
- 48 - Office of Deputy District Education Officer (Women) Hafizabad (West  Side),32.06932,73.69404,Female,Punjab,0,2,0,863
- 84 - Office of Additional Director- Live Stock- Hafizabad  South Side,32.06934,73.6875,Female,Punjab,0,3,0,1411
- 44 - Govt. Girls Elementary School Garhi Awan Mohallah Sharif Pura (East side),32.06967,73.69594,Male,Punjab,3,0,1231,0
- 45 - Govt. Girls Elementary School Garhi Awan Mohallah Sharif Pura (West Side),32.06967,73.69597,Female,Punjab,0,2,0,974
- 58 - Office of Additional Director- Live Stock- Hafizabad (East side),32.06971,73.68777,Male,Punjab,2,0,948,0
- 59 - Office of Additional Director- Live Stock- Hafizabad West Side,32.06971,73.6878,Female,Punjab,0,2,0,798
- 42 - Govt.Model Primary School MC  No.7 (Mohallah Sharif Pura) East Side,32.06971,73.69554,Male,Punjab,3,0,1279,0
- 43 - Govt.Model Primary School MC  No.7 (Mohallah Sharif Pura) West  Side,32.06971,73.69557,Female,Punjab,0,2,0,1082
- 39 - Govt. Model Higher Secondary School- Hafizabad (Old Building) (East South Side),32.06973,73.69415,Male,Punjab,2,0,888,0
- 40 - Govt. Model Higher Secondary School- Hafizabad (Old Building) (West South Side),32.06973,73.69418,Male,Punjab,2,0,760,0
- 41 - Govt. Model Higher Secondary School Hafizabad (New Building) (South Side),32.06973,73.69421,Female,Punjab,0,3,0,1442
- 49 - Govt. Model Higher Secondary School Hafizabad (Old Building) (Library Block),32.06973,73.69424,Male,Punjab,3,0,1465,0
- 50 - Govt. Model Higher Secondary School Hafizabad (New Building)  (East Side-II),32.06973,73.69427,Female,Punjab,0,3,0,1387
- 83 - Office of Additional Director- Live Stock- Hafizabad (North side),32.06991,73.6879,Male,Punjab,3,0,1574,0
- 32 - Office of District Population Welfare DC House Hafizabad,32.06999,73.71237,Male,Punjab,4,0,1763,0
- 46 - Govt. Girls  Primary School No.1 Hafizabad,32.07042,73.69141,Combined,Punjab,1,1,658,629
- 583 - Govt. Girls Elementary School Thatha Argan,32.07046,73.39524,Combined,Punjab,2,2,939,674
- 101 - Govt. Girls Community Model School Dhingranwali,32.07111,73.67757,Female,Punjab,0,2,0,795
- 577 - Govt. Boys Primary School Kotla Anandan,32.07114,73.35922,Combined,Punjab,1,1,614,466
- 103 - Alfalah Dastkari School- Vanike Chowk Hafizabad,32.07182,73.68482,Female,Punjab,0,2,0,1162
- 325 - Govt.  Primary School Bahowdinke,32.07196,73.36623,Male,Punjab,2,0,1170,0
- 198 - Govt. Primary School Jahanian,32.07233,73.66348,Combined,Punjab,1,1,509,364
- 217 - Govt.Girls Primary School Sagar Kalan,32.07233,73.66351,Combined,Punjab,2,1,1179,878
- 98 - Govt. D.H.Q Hospital Hafizabad (West Side),32.07249,73.68076,Male,Punjab,2,0,799,0
- 104 - Govt. D.H.Q Hospital Hafizabad- New Block  (East Side),32.07263,73.68039,Male,Punjab,2,0,860,0
- 105 - Govt. D.H.Q Hospital Hafizabad- New Block  (West Side-I),32.07263,73.68042,Male,Punjab,2,0,708,0
- 106 - Govt. D.H.Q Hospital Hafizabad- New Block  (West Side-II),32.07263,73.68045,Female,Punjab,0,3,0,1332
- 37 - Office Assistant Director Agricultural (Extension) Gujranwala Road Hafizabad (East Side),32.07278,73.70979,Male,Punjab,2,0,1301,0
- 38 - Office Assistant Director Agricultural (Extension) Gujranwala Road Hafizabad (West Side),32.07278,73.70982,Female,Punjab,0,2,0,1024
- 197 - Govt. Model Primary School- Channi Karim Dad,32.07293,73.62093,Combined,Punjab,1,1,544,406
- 110 - Govt. Girls Elecmentary School Qila Ram Kor,32.07295,73.67841,Combined,Punjab,2,2,886,736
- 26 - Govt. MC  Primary School No.2 Hafizabad,32.07381,73.69514,Female,Punjab,0,2,0,1242
- 18 - Govt. Model Primary School Garhi Ghous Hafizabad,32.07382,73.6955,Combined,Punjab,1,1,628,491
- 22 - Govt. Girls Model Higher Secondary School HFD. East South Side,32.07393,73.69319,Male,Punjab,2,0,1082,0
- 23 - Govt. Girls Model Higher Secondary School HFD. East North Side,32.07393,73.69322,Male,Punjab,2,0,667,0
- 24 - Govt. Girls Model Higher Secondary School HFD. West Side-I,32.07393,73.69325,Female,Punjab,0,3,0,1479
- 25 - Govt. Girls Model Higher Secondary School HFD. West side-II,32.07393,73.69328,Male,Punjab,3,0,1469,0
- 19 - Govt. Secondary School No.1 Hafizabad East Side,32.07431,73.69022,Male,Punjab,2,0,972,0
- 20 - Govt. Secondary School No.1 Hafizabad West Side,32.07431,73.69025,Male,Punjab,2,0,910,0
- 21 - Govt. Secondary School No.1 Hafizabad Old Building,32.07431,73.69028,Female,Punjab,0,3,0,1514
- 1 - Govt. MC Elementary School No.8 HFD (South Side),32.07443,73.68651,Combined,Punjab,1,1,565,467
- 2 - Govt. MC Elementary School No.8 HFD  (West Side),32.07443,73.68654,Male,Punjab,3,0,1321,0
- 3 - Govt. MC Elementary School No.8 HFD (East Side),32.07443,73.68657,Female,Punjab,0,2,0,1180
- 11 - Govt.Islamia Post Graduate College for Women- Hafizabad (New Block),32.07481,73.68769,Combined,Punjab,2,2,943,877
- 28 - Govt. Primary School Moh. Qadar Abad- West Side,32.07541,73.70345,Female,Punjab,0,2,0,1085
- 27 - Govt Primary School Moh. Qadar Abad- East Side,32.07545,73.70341,Male,Punjab,3,0,1320,0
- 214 - Govt. Community Model Girls Elementary School Thatha Kalian,32.0763,73.67107,Male,Punjab,2,0,1228,0
- 10 - Govt.Islamia Post Graduate College for Women- Hafizabad (Old Block) West side,32.07633,73.68745,Female,Punjab,0,2,0,1184
- 9 - Govt.Islamia Post Graduate College for Women- Hafizabad (Old Block) ? East Side,32.07633,73.68748,Male,Punjab,3,0,1371,0
- 108 - Govt.MC  Primary School No.9 Mian Da Kot (East side-II),32.07658,73.67999,Female,Punjab,0,2,0,1102
- 109 - Govt.MC  Primary School No.9 Mian Da Kot (west side),32.07658,73.68002,Combined,Punjab,2,1,732,615
- 231 - Govt. Boys Primary School Dahranwali,32.0766,73.73743,Combined,Punjab,2,1,791,646
- 107 - Govt.MC  Primary School No.9 Mian Da Kot (East side-I),32.07664,73.67971,Male,Punjab,3,0,1420,0
- 236 - Govt.Boys Elementary School Chak Chatha (West Side),32.07673,73.73747,Male,Punjab,3,0,1436,0
- 237 - Govt. Boys Elementary School Chak Chatha (East Side),32.07673,73.7375,Female,Punjab,0,2,0,1070
- 12 - Govt. Double Section Girls High School Ali Pur Road- Hafizabad (North Side-B),32.07693,73.68786,Male,Punjab,3,0,1337,0
- 13 - Govt.  Double Section Girls High School Ali Pur Road- Hafizabad (North Side-C),32.07693,73.68789,Male,Punjab,2,0,934,0
- 14 - Govt. Double Section Girls High School Ali Pur Road- Hafizabad (South East Side-A),32.07693,73.68792,Female,Punjab,0,2,0,1251
- 15 - Govt. Double Section Girls High School Ali Pur Road- Hafizabad (South East Side-B),32.07693,73.68795,Female,Punjab,0,2,0,733
- 4 - Govt. Double Section Girls High School Ali Pur Road- Hafizabad(North Side-A),32.07693,73.68798,Male,Punjab,3,0,1544,0
- 5 - Govt. Double Section Girls High School Ali Pur Road- Hafizabad (South Side),32.07693,73.68801,Female,Punjab,0,3,0,1344
- 196 - Govt. Girls Elementary School Kot Chian,32.07777,73.57053,Female,Punjab,0,2,0,892
- 6 - Govt. MC Primary School No.1 Hafizabad (For Boys) Alipur Road (East Side),32.07784,73.68885,Combined,Punjab,2,2,691,614
- 7 - Govt. MC Primary School No.1 Hafizabad (For Boys) Alipur Road (West Side),32.07784,73.68888,Male,Punjab,2,0,1160,0
- 33 - Govt. Model Primary School Canal Colony,32.07806,73.72228,Female,Punjab,0,3,0,1409
- 195 - Govt. Boys Elementary School English Medium Kot Chian,32.07998,73.57558,Male,Punjab,2,0,1114,0
- 243 - Govt. Girls Model Primary School- Ghanian Khurd,32.08054,73.80157,Combined,Punjab,2,1,723,604
- 232 - Govt.Model Elementary  School Jaidke,32.08093,73.73449,Combined,Punjab,2,1,833,604
- 102 - Govt. MC Boys School No.6 Post Office Road- HFD East Side,32.08279,73.65905,Male,Punjab,2,0,1369,0
- 580 - Govt. Primary School  Marth,32.08306,73.29969,Combined,Punjab,2,1,855,602
- 170 - Govt  Model Primary School Channi Wazira,32.08361,73.67583,Combined,Punjab,2,1,853,665
- 34 - Govt.Model Primary School Chatha Dad (East side),32.0842,73.69479,Male,Punjab,2,0,958,0
- 100 - Govt. Boys Primary School Dhingranwali,32.08466,73.65976,Male,Punjab,2,0,976,0
- 458 - Govt. Boys Primary School Meerakh Kalan,32.08535,73.43894,Combined,Punjab,2,1,692,471
- 8 - Govt. Boys Primary School Ali Town,32.0862,73.68206,Female,Punjab,0,2,0,931
- 193 - Govt.  High School Pindi Bawray,32.08801,73.58789,Male,Punjab,4,0,1681,0
- 194 - Govt. Girls Elementary School Pindi Bawary,32.08889,73.58977,Female,Punjab,0,3,0,1280
- 582 - Govt. Boys Primary School   Chah Hakeem Wala,32.08913,73.39387,Combined,Punjab,2,1,964,696
- 227 - Govt. Boys Primary School Iqbal Nagar,32.0892,73.7845,Combined,Punjab,1,1,658,451
- 186 - Govt.Boys Primary School Bhopa Chadhran,32.08942,73.49178,Combined,Punjab,1,1,515,421
- 191 - Govt.Boys Primary School Rai Chand,32.08942,73.49181,Combined,Punjab,2,1,835,657
- 113 - Govt. English Medium Primary School Jagganwala,32.09008,73.69107,Combined,Punjab,1,1,688,475
- 35 - Govt.Model Primary School Chatha Dad (West side),32.09069,73.79106,Female,Punjab,0,2,0,767
- 246 - Govt.High School Vinni (West Side),32.09074,73.80477,Female,Punjab,0,2,0,1144
- 17 - Govt.Girls  Primary School Kot Hashmat,32.09106,73.67838,Female,Punjab,0,2,0,678
- 111 - Govt.  English Medium Model Primary School Jharianwala,32.09169,73.67366,Combined,Punjab,1,1,841,629
- 199 - Govt.Model Primary School Prem Kot,32.09219,73.63988,Combined,Punjab,2,2,985,774
- 215 - Govt.Boys Primary School Thatha Kalian,32.09219,73.69804,Female,Punjab,0,2,0,940
- 16 - Govt.Primary School Kot Hashmat,32.09241,73.69225,Male,Punjab,2,0,929,0
- 187 - Govt.Girls Elementary School Ali Abad (Balo Nau).  (East Side),32.09622,73.52891,Male,Punjab,2,0,946,0
- 188 - Govt.Girls Elementary School Ali Abad (Balo Nau). (West Side),32.09622,73.52894,Female,Punjab,0,2,0,782
- 200 - Govt.Boys Primary School Hardo Pipli,32.09669,73.62694,Combined,Punjab,2,1,867,646
- 216 - Govt.Secondary School Sagar Kalan,32.09707,73.74791,Combined,Punjab,1,1,594,458
- 213 - Govt. Girls  Primary School Battaray,32.10062,73.70025,Combined,Punjab,2,2,1020,806
- 585 - Govt.  Primary School Bhoon Rata,32.10479,73.33315,Combined,Punjab,2,1,812,532
- 112 - Govt.Boys High School Qila Ram Kour (East Side),32.1049,73.66541,Combined,Punjab,2,1,927,665
- 114 - Govt. Boys High School Qila Ram Kor (West Side),32.1049,73.66544,Combined,Punjab,1,1,625,437
- 189 - Govt.Boys Primary School  Ram Tarar  (East Side),32.10524,73.46026,Male,Punjab,2,0,900,0
- 190 - Govt.Boys Primary School  Ram Tarar  (West Side),32.10524,73.46029,Female,Punjab,0,2,0,749
- 226 - Govt. Basic Health Unit Mangat Nicha,32.10852,73.77398,Combined,Punjab,2,1,850,635
- 581 - Govt. Boys Primary School Khanna Bhattian,32.10897,73.43514,Combined,Punjab,2,1,783,601
- 201 - Govt. Boys Primary School Wingay,32.11045,73.65572,Combined,Punjab,1,1,468,403
- 225 - Govt.Girls High School Mangat Nicha (West Side),32.11274,73.77943,Combined,Punjab,2,2,1019,689
- 224 - Govt.Girls High School Mangat Nicha (East Side),32.11321,73.77937,Combined,Punjab,2,1,760,589
- 115 - Govt.Boys Primary School Kot Said Muhammad,32.11765,73.51027,Combined,Punjab,2,1,890,684
- 175 - Govt. English Medium Primary School Noor Pura- Kolo Tarar (East Side),32.11802,73.55664,Combined,Punjab,2,1,741,691
- 218 - Govt. Boys  Primary School Ahmad Pur  Chatha,32.11882,73.75886,Combined,Punjab,1,1,346,326
- 202 - Govt.Boys Primary School Bawray Nau,32.11954,73.62047,Male,Punjab,2,0,964,0
- 203 - Govt.Girls Primary School Bawray Nau,32.12003,73.61734,Female,Punjab,0,2,0,741
- 209 - Govt. Model Primary School- Nidala Kham,32.12139,73.70802,Combined,Punjab,1,1,433,355
- 587 - Govt. Boys Primary School  Narowal,32.12226,73.41178,Combined,Punjab,2,1,901,663
- 223 - Govt. Boys Elementary School- Kot Sajana,32.12337,73.79022,Combined,Punjab,2,1,795,556
- 591 - Govt. Elementary School Mehmood Pur (Male),32.12507,73.36957,Male,Punjab,3,0,1187,0
- 592 - Govt. Elementary School Mehmood Pur (Female),32.12507,73.3696,Female,Punjab,0,2,0,857
- 208 - Govt. High School School Kalianwala (Primary Portion),32.12545,73.68723,Combined,Punjab,1,1,475,335
- 222 - Govt. Girls Community Model School Kot Sajana,32.12559,73.78728,Combined,Punjab,1,1,597,432
- 212 - Govt.  High School Kalianwala,32.12719,73.686,Combined,Punjab,2,1,932,647
- 176 - Govt. Higher Secondary School Kolo Tarar- (East Side),32.12933,73.5379,Male,Punjab,3,0,1287,0
- 177 - Govt. Higher Secondary School Kolo Tarar-  (West Side),32.12933,73.53793,Female,Punjab,0,2,0,973
- 178 - Govt. Higher Secondary School Kolo Tarar- Part Primary (North  Side),32.12933,73.53796,Male,Punjab,3,0,1339,0
- 179 - Govt. Higher Secondary School Kolo Tarar (South Side),32.12933,73.53799,Female,Punjab,0,2,0,1106
- 210 - Govt.Girls Secondary School Kalianwala- East Side,32.12995,73.68359,Male,Punjab,2,0,1054,0
- 211 - Govt.Girls Secondary School Kalianwala- West Side,32.12995,73.68362,Female,Punjab,0,2,0,788
- 169 - Govt. Girls Community Model School Channi Hanjrawan,32.13587,73.64565,Combined,Punjab,2,2,986,725
- 220 - Govt.Boys Primary School Kalair Wala Khurd,32.13722,73.76611,Combined,Punjab,2,2,896,621
- 219 - Govt.Girls Elementary School  Kot Gora,32.13806,73.76583,Combined,Punjab,2,2,936,660
- 166 - Govt. Secondary School Dhiranke Mir Dadke  (East Side),32.13978,73.63683,Male,Punjab,2,0,1239,0
- 167 - Govt. Secondary School Dhiranke Mir Dadke (West Side),32.13978,73.63686,Female,Punjab,0,2,0,916
- 588 - Govt. Girls High School Chak Bhatti (East Side),32.14249,73.41586,Combined,Punjab,2,1,812,534
- 589 - Govt. Girls Community Model School- Chak Bhatti,32.14249,73.41589,Combined,Punjab,1,1,728,604
- 590 - Govt. Girls High School Chak Bhatti (West Side),32.14249,73.41592,Combined,Punjab,2,1,718,496
- 221 - Govt.Girls Elementary School Muradian,32.1425,73.71917,Combined,Punjab,2,2,906,693
- 116 - Govt. Elementary School Khan Pur,32.1432,73.4785,Combined,Punjab,2,2,927,703
- 586 - Govt. Primary School Kutay Shah,32.1456,73.3892,Combined,Punjab,2,1,813,592
- 593 - Govt. Girls Primary School   Channi Thathlan,32.1456,73.38923,Combined,Punjab,2,1,713,483
- 207 - Govt.Primary School for Boys Shori Chatha,32.14611,73.71833,Combined,Punjab,2,1,777,573
- 168 - Govt. Boys Primary School- Dheeranke Lalke,32.14742,73.63043,Combined,Punjab,1,1,510,402
- 192 - Govt. English Medium Primary School Baleki Nao,32.14814,73.46443,Combined,Punjab,2,1,929,679
- 174 - Govt. Girls  Primary School Malikwala,32.15461,73.54842,Combined,Punjab,1,1,609,446
- 118 - Govt. Girls Elementary School Rahgo Seyedan,32.15565,73.52135,Female,Punjab,0,2,0,774
- 204 - Govt.Boys Elementary School Chak Kharal,32.15917,73.72,Male,Punjab,3,0,1190,0
- 119 - Govt. Elementary School English Medium Muzafar Nau (East Side),32.15968,73.48406,Male,Punjab,2,0,879,0
- 117 - Govt.Boys Elementary School Rahgo Syedan,32.16063,73.51894,Male,Punjab,2,0,951,0
- 205 - Govt.Girls Primary School Chak Kharal,32.16084,73.72778,Female,Punjab,0,2,0,826
- 122 - Govt. English Medium Primary School- Hardo Thatha Bama,32.16354,73.42518,Combined,Punjab,1,1,471,334
- 120 - Govt. Girls Elementary School  Muzafar Nau,32.16405,73.47454,Female,Punjab,0,2,0,688
- 171 - Govt. Boys Primary School Seray Tarar,32.1662,73.58981,Combined,Punjab,2,1,740,552
- 164 - Govt.Boys Elementary School Marh Bashi,32.17028,73.66111,Male,Punjab,3,0,1261,0
- 165 - Govt. Girls Community Model School-Marh Bashi,32.17056,73.66084,Female,Punjab,0,2,0,998
- 121 - Govt.Girls Model Elementary School Pheroki,32.17882,73.44165,Combined,Punjab,2,1,648,477
- 124 - Govt. Girls Elementary School English Medium Kot Ishaq (East Side),32.18174,73.54317,Male,Punjab,3,0,1442,0
- 125 - Govt. Girls Elementary School  English Medium Kot Ishaq  (West Side),32.18174,73.5432,Female,Punjab,0,2,0,1164
- 127 - Govt. Basic Health Unit- Mehdi Abad.,32.18583,73.50667,Female,Punjab,0,2,0,908
- 123 - Govt. Elementary School Gujjarke,32.1868,73.45655,Combined,Punjab,1,1,603,477
- 126 - Govt. Girls Elementary  School Mehdi Abad,32.18739,73.51022,Male,Punjab,3,0,1239,0
- 173 - Govt.Girls  Elementary School Beri Wala,32.18785,73.60888,Female,Punjab,0,2,0,1166
- 172 - Govt.English Medium Elementary School Beri Wala,32.18822,73.60518,Male,Punjab,3,0,1445,0
- 206 - Govt.Girls Primary  School Kot Pannah,32.18861,73.74444,Combined,Punjab,2,1,793,570
- 142 - Govt.Model Primary School Kharak Bhattian,32.20446,73.61797,Combined,Punjab,2,1,860,710
- 132 - Govt. Boys Primary School Bukkan Kalan (Male),32.20752,73.56857,Male,Punjab,2,0,1114,0
- 133 - Govt. Boys Primary School Bukkan Kalan (Female),32.20752,73.5686,Female,Punjab,0,2,0,859
- 163 - Govt.Boys English Medium Elementary School Chak Ghazi,32.20776,73.70163,Combined,Punjab,2,2,871,748
- 134 - Govt.Boys Elementary School Mohallah Jahangir Pura- Vanike Tarar East Side,32.21003,73.585,Male,Punjab,3,0,1852,0
- 135 - Govt.Boys Elementary School Mohallah Jahangir Pura- Vanike Tarar West Side,32.21003,73.58503,Female,Punjab,0,2,0,1373
- 159 - Govt. Boys High School Ramke Chatha- (East Side),32.21138,73.66402,Male,Punjab,3,0,1362,0
- 160 - Govt. Boys High School Ramke Chatha- (West Side),32.21138,73.66405,Female,Punjab,0,2,0,1057
- 161 - Govt.Girls High School Ramke Chatha (East Side),32.21152,73.66432,Combined,Punjab,2,1,716,550
- 162 - Govt.Girls High School Ramke Chatha (West Side),32.21152,73.66435,Combined,Punjab,2,2,749,620
- 129 - Govt.Girls Elementary School English Medium Chak Sajada,32.21528,73.52361,Combined,Punjab,2,1,730,549
- 136 - Govt. Higher Secondary School Vanike Tarar (East Side),32.21669,73.58215,Male,Punjab,3,0,1324,0
- 139 - Govt. Higher Secondary School Vanike Tarar  (West Side),32.21669,73.58218,Male,Punjab,2,0,1087,0
- 140 - Govt. Higher Secondary School Vanike Tarar  (South Side),32.21669,73.58221,Female,Punjab,0,2,0,852
- 137 - Govt.Girls Higher Secondary School Vanike Tarar  West Side,32.21795,73.58298,Female,Punjab,0,2,0,1090
- 138 - Govt.Girls Higher Secondary School Vanike Tarar  East Side,32.21795,73.58301,Combined,Punjab,2,2,760,637
- 146 - Govt.Boys Primary School- Kot Pir Muhammad,32.22192,73.59419,Combined,Punjab,2,1,853,558
- 130 - Govt. Girls Elementary School Behak Ahmed Yar     (East Side),32.22937,73.53773,Male,Punjab,2,0,1100,0
- 131 - Govt. Girls Elementary School Behak Ahmed Yar (West Side),32.22937,73.53776,Female,Punjab,0,2,0,834
- 141 - Govt.Primary School Kot Qadir Bukhsh,32.23328,73.55949,Combined,Punjab,2,1,825,674
- 145 - Govt. Girls Primary School Kot Jan Muhammad,32.24059,73.57497,Combined,Punjab,2,1,626,485
- 147 - Govt.  Girls Elementary School Asadullah Pur,32.24584,73.64832,Combined,Punjab,2,1,729,594
- 158 - Govt.Girls Elementary School Amrao Kalan,32.24603,73.64994,Combined,Punjab,1,1,617,476
- 148 - Govt. Boys Primary School- Bhirri Chatha,32.24665,73.67368,Combined,Punjab,2,1,823,641
- 151 - Govt. Girls Community Model Elemantary School-  Sooianwala.,32.24888,73.70143,Male,Punjab,2,0,1107,0
- 149 - Govt.Secondary School Sooianwala (East Side),32.24967,73.70301,Male,Punjab,3,0,1484,0
- 150 - Govt.Secondary School Sooianwala (West Side),32.24967,73.70304,Female,Punjab,0,2,0,1150
- 152 - Govt. Girls Higher Secondary School Sooianwala,32.25006,73.69991,Female,Punjab,0,2,0,902
- 143 - Govt.Elementary School Allowdinke Kalan (East Side),32.26578,73.62803,Male,Punjab,2,0,1091,0
- 144 - Govt.Elementary School Allowdinke Kalan (West Side),32.26578,73.62806,Female,Punjab,0,2,0,850
- 153 - Govt.English Medium Primary School Nakki Chatha (East Side),32.27592,73.71297,Male,Punjab,2,0,984,0
- 154 - Govt.English Medium Primary School Nakki Chatha (West Side),32.27592,73.713,Female,Punjab,0,2,0,768
- 155 - Govt. Boys Primary School Qadar Abad Colony (Kotli Daim),32.29135,73.69019,Combined,Punjab,2,1,760,594
- 156 - Govt. English Medium Primary School Channi Ghula,32.30105,73.69157,Male,Punjab,3,0,1396,0
- 157 - Govt. Girls Primary School Channi Ghula,32.30108,73.69159,Female,Punjab,0,2,0,1032
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+575,Govt. Boys Primary School Bairanwala,31.76642,73.27493,Combined,Punjab,2,1,609,429
+525,Govt. Primary School  Dhari Wala- Badar Ali,31.7681,73.24246,Combined,Punjab,1,1,387,264
+531,Govt. Girls Primary School Chak No 474,31.77172,73.28767,Combined,Punjab,1,1,505,421
+526,Govt. Primary School Badar Ali (Kot Badar Din),31.7725,73.22836,Combined,Punjab,1,1,768,663
+528,Govt. Primary School Chokairian,31.78062,73.21404,Combined,Punjab,2,1,585,473
+515,Govt. Secondary  School- Zakheera Beranwala (Chak No.2),31.79931,73.25139,Male,Punjab,2,0,965,0
+503,Govt. Girls Elementary School Kishan Garh,31.80339,73.33002,Combined,Punjab,1,1,672,497
+527,Govt.  Primary School Attaranwala,31.80506,73.20525,Combined,Punjab,2,1,648,543
+529,Govt. Girls Highs School Ghubrika (East Side),31.81749,73.20284,Male,Punjab,2,0,930,0
+530,Govt. Girls Highs School Ghubrika (West Side),31.81749,73.20287,Female,Punjab,0,2,0,743
+514,Govt. Primary School Chak No. 1,31.81961,73.25594,Combined,Punjab,2,1,754,708
+521,Govt. Basic Health Center Mustafa Abad(East side),31.82127,73.27998,Male,Punjab,2,0,1046,0
+522,Govt. Basic Health Center Mustafa Abad(West side),31.82127,73.28001,Female,Punjab,0,2,0,953
+502,Govt. Primary  School Sharbaga,31.82283,73.33215,Combined,Punjab,1,1,626,457
+509,Govt. Girls Primary  School Sharbaga,31.82388,73.33398,Combined,Punjab,1,1,637,455
+510,Govt. Elementary School Chah Anah,31.82682,73.36761,Male,Punjab,3,0,1213,0
+519,Govt. Boys Elementary School Mustafa Abad(East side),31.82952,73.28007,Male,Punjab,2,0,985,0
+520,Govt. Boys Elementary School Mustafa Abad(West side),31.82952,73.2801,Female,Punjab,0,2,0,916
+517,Govt. Girls High School Mustafa Abad (East Side),31.83018,73.27865,Male,Punjab,2,0,986,0
+518,Govt. Girls High School Mustafa Abad (West Side),31.83018,73.27868,Female,Punjab,0,2,0,822
+435,Govt. Primary School (for boys) Mochi Wala,31.83437,73.50547,Combined,Punjab,2,1,888,616
+512,Govt. Primary School Thatha Malian,31.83463,73.25099,Male,Punjab,2,0,947,0
+439,Govt. Model Primary School Kanwanwali,31.83716,73.46483,Combined,Punjab,2,1,911,673
+513,Govt. Girls School Thatha Malian,31.83925,73.25015,Female,Punjab,0,2,0,753
+434,Govt. Model Primary School Jandraka,31.83963,73.51871,Combined,Punjab,2,1,821,615
+523,Govt.  Primary School Tibba Shah Behlol,31.84137,73.21255,Male,Punjab,2,0,1079,0
+440,Govt.  Primary School Par Lakhan,31.84158,73.41059,Combined,Punjab,2,1,853,560
+482,Govt. Primary School Thatha Sabat Shah,31.84241,73.38197,Combined,Punjab,1,1,740,465
+538,Govt. Girls Elementary School  Tiba Shah Behlol,31.84634,73.20862,Combined,Punjab,2,1,636,455
+524,Govt.  Girls Elementary School Tibba Shah Behlol,31.84637,73.20867,Female,Punjab,0,2,0,696
+505,Govt.  Primary School Chattar Wala Pindi Bhattian,31.85154,73.34396,Combined,Punjab,1,1,459,300
+537,Govt. Girls Primary School Machonikka,31.85212,73.22702,Female,Punjab,0,2,0,1084
+535,Govt. Model Primary School Haveli Harbaj Rai,31.85486,73.26373,Combined,Punjab,2,1,856,675
+536,Govt.  High School Machonikka,31.85586,73.22382,Male,Punjab,3,0,1281,0
+504,Basic Health Unit- Kot Nakka,31.85617,73.3385,Combined,Punjab,1,1,418,365
+480,Govt. Girls Elementary School Ambaltas,31.85625,73.43971,Combined,Punjab,1,1,358,308
+436,Govt. Girls  Primary School Dubar,31.85628,73.47698,Combined,Punjab,2,1,751,581
+539,Govt. Central Model Boys School Sahoke,31.8564,73.18559,Combined,Punjab,2,1,751,580
+363,Govt. Girls Primary School Haji Pura Sukheki East Side,31.85657,73.49987,Male,Punjab,3,0,1109,0
+364,Govt. Girls Primary School Haji Pura Sukheki West Side,31.85657,73.4999,Female,Punjab,0,2,0,939
+365,Govt. Girls Primary School Tubewell Colony- Sukheki East Side,31.85906,73.51546,Male,Punjab,2,0,992,0
+366,Govt. Girls Primary School Tubewell Colony- Sukheki West Side,31.85906,73.51549,Female,Punjab,0,2,0,844
+500,Govt.  High School- Kot Nakka (East Side),31.86118,73.33246,Male,Punjab,3,0,1197,0
+501,Govt.  High School- Kot Nakka (West Side),31.86118,73.33249,Female,Punjab,0,2,0,999
+506,Govt. Girls High School Kot Nakka(East side),31.86162,73.32954,Male,Punjab,2,0,1200,0
+507,Govt. Girls High School Kot Nakka(West side),31.86162,73.32957,Female,Punjab,0,2,0,1159
+508,Govt. Girls High School Kot Nakka (Combined),31.86162,73.3296,Combined,Punjab,1,1,568,432
+344,Govt. Boys Primary School Tubewell Colony- Sukheki (East Side),31.86173,73.51734,Male,Punjab,2,0,1063,0
+345,Govt. Boys Primary School Tubewell Colony- Sukheki (West Side),31.86173,73.51737,Female,Punjab,0,2,0,896
+367,Govt. Girls Degree College Sukheki Mandi (East Side),31.86215,73.51774,Combined,Punjab,2,1,767,618
+368,Govt. Girls Degree College Sukheki Mandi (West Side),31.86215,73.51777,Combined,Punjab,1,1,613,465
+491,Govt. Primary School Thatha Raika,31.86273,73.36871,Combined,Punjab,1,1,447,399
+357,Govt. Primary School Walgan Baran,31.8638,73.48353,Combined,Punjab,1,1,590,456
+534,Govt. Boys Primary School Thatha Karimdad,31.8642,73.25909,Combined,Punjab,1,1,537,439
+437,Govt.  Boys Primary School Nawan Maneka Kalan (East Side),31.86573,73.4548,Male,Punjab,2,0,945,0
+438,Govt.  Boys Primary School Nawan Maneka Kalan (West Side),31.86573,73.45483,Female,Punjab,0,2,0,785
+533,Govt. Girls Primary School Thatha Karimdad,31.86577,73.25861,Combined,Punjab,2,1,826,658
+346,Govt. Girls Higher Secondary School Sukheki Mandi,31.86639,73.50761,Male,Punjab,2,0,952,0
+347,Govt. Girls Higher Secondary School Sukheki (Part Primary),31.86639,73.50764,Female,Punjab,0,2,0,876
+481,Govt. Primary School Par Ahmed,31.86684,73.3833,Combined,Punjab,1,1,536,390
+476,Govt.  Elementary School  Bhobhra (East Side),31.86842,73.40975,Male,Punjab,2,0,1036,0
+477,Govt.  Elementary School  Bhobhra (West Side),31.86842,73.40978,Female,Punjab,0,2,0,751
+351,Govt. Girls Primary School Nai Mandi Sukheki,31.86958,73.49171,Female,Punjab,0,2,0,821
+352,Govt.  Rashid Minhas High School Sukheki Mandi (East Side),31.87273,73.48674,Male,Punjab,2,0,1065,0
+353,Govt.  Rashid Minhas High School Sukheki Mandi (West Side),31.87273,73.48677,Female,Punjab,0,2,0,850
+492,Govt.  Primary School Fatehki(East),31.8747,73.3179,Male,Punjab,2,0,1243,0
+493,Govt.  Primary School Fatehki(West),31.8747,73.31793,Female,Punjab,0,2,0,918
+355,Govt. Elementary School Sukheki Gaon (East Side),31.87646,73.46743,Male,Punjab,3,0,1482,0
+356,Govt.  Elementary School Sukheki Gaon- West Side,31.87646,73.46746,Female,Punjab,0,2,0,1170
+311,Govt. Girls Primary School Nawab Pura- Pindi Bhattian (East side),31.87715,73.30067,Female,Punjab,0,2,0,792
+313,Govt. Girls Primary School Nawab Pura- Pindi Bhattian (West side),31.87715,73.3007,Female,Punjab,0,2,0,1363
+478,Govt. Girls  Elementary School Rah Bhobhra,31.87768,73.41003,Combined,Punjab,2,1,762,636
+380,Govt. Primary School Qila Usman Ghani,31.87781,73.61714,Combined,Punjab,1,1,639,496
+479,Govt. Girls Primary School Mona Maneka,31.87938,73.44167,Combined,Punjab,1,1,598,478
+432,Govt.  Elementary School  Tawalay Wali,31.88158,73.50185,Male,Punjab,3,0,1127,0
+433,Govt. Girls Primary School Tawelay Wali,31.88166,73.50184,Female,Punjab,0,2,0,929
+302,Govt. High School No.1 Pindi Bhattian Jonubi Block,31.88321,73.28151,Male,Punjab,2,0,970,0
+321,Govt.  High School No.1 Old Building  Pindi Bhattian,31.88321,73.28154,Male,Punjab,2,0,933,0
+323,Govt.  High School No.1 Pindi Bhattian,31.88321,73.28157,Combined,Punjab,2,1,674,605
+541,Govt. Primary School Siddique Abad,31.88395,73.24339,Combined,Punjab,2,1,773,576
+320,Govt. Girls Primary School Hassan Pura Pindi Bhattian,31.88402,73.25423,Female,Punjab,0,2,0,671
+544,Govt. Boys High School Mirza  Bhattian (East Side),31.88674,73.18705,Male,Punjab,2,0,1012,0
+545,Govt. Boys High School Mirza  Bhattian (West Side),31.88675,73.18704,Female,Punjab,0,2,0,851
+494,Govt. Secondary School Thatha Kheru Mutmal(East),31.88908,73.33795,Male,Punjab,2,0,1109,0
+495,Govt. Secondary School Thatha Kheru Mutmal(West),31.88908,73.33798,Male,Punjab,2,0,939,0
+384,Govt. Boys Primary School Sawan Pura,31.88939,73.60216,Combined,Punjab,2,1,860,644
+317,Office of  Assistnat Director Benzeer Incom Sport Program Pindi Bhattian,31.88986,73.26577,Male,Punjab,3,0,1136,0
+319,Govt.  Primary School Hassan Pura Pindi Bhattian,31.89154,73.26569,Male,Punjab,2,0,829,0
+310,Govt.  Primary School Nawab Pura- Pindi Bhattian(East side),31.89209,73.28037,Male,Punjab,2,0,940,0
+312,Govt.  Primary School Nawab Pura- Pindi Bhattian (West side),31.89209,73.2804,Male,Punjab,2,0,1611,0
+379,Govt. Elementary School Bhaka Bhattian,31.89242,73.68053,Combined,Punjab,1,1,472,321
+318,Govt. Vocational Training Institute Pindi Bhattian,31.89282,73.2722,Female,Punjab,0,2,0,950
+546,Govt. Boys Primary School Maqsooda Bhattian,31.89349,73.20226,Combined,Punjab,1,1,557,429
+308,Govt.   Girls Primary School Dulleki (East Side),31.89442,73.29311,Male,Punjab,2,0,954,0
+309,Govt.  Girls Primary School Dulleki (West Side),31.89442,73.29314,Female,Punjab,0,2,0,762
+314,Govt. Islah Modle Primary School  Pindi Bhattian,31.89452,73.26887,Combined,Punjab,2,1,878,629
+307,Office of Deputy Director Live Stock Lahore Road Pindi Bhattian,31.89476,73.28519,Combined,Punjab,2,1,648,553
+322,District Public School- Pindi Bhattian,31.89486,73.2689,Female,Punjab,0,2,0,689
+304,Govt. T.H.Q Hospital Pindi Bhattian,31.89649,73.27825,Combined,Punjab,2,1,768,750
+305,Soil Salinity Research Institue Lahore Road Pindi Bhattian,31.89663,73.27856,Combined,Punjab,2,1,886,663
+315,Govt.  Primary School No.1 Pindi Bhattian (North Side),31.89721,73.26917,Combined,Punjab,2,1,740,622
+316,Govt.  Primary School No.1 Pindi Bhattian (South Side),31.89721,73.2692,Combined,Punjab,2,1,643,534
+497,Govt. Boys Primary School Bahoo Man,31.89848,73.36794,Combined,Punjab,2,1,845,710
+306,Office of  Assistant Manager (Operation) Gepco Lahore Road Pindi Bhattian,31.89861,73.2716,Combined,Punjab,2,1,679,558
+496,Govt. Girls High School Thatha Kheru Mutmal,31.89888,73.41637,Female,Punjab,0,2,0,1602
+473,Govt. Primary School Atlay Rehman,31.89985,73.45802,Male,Punjab,3,0,1186,0
+324,Govt. Veterinary  Hospital Hafizabad Road Pindi Bhattian,31.90036,73.27041,Combined,Punjab,2,1,666,486
+303,Govt. Girls Higher Secondary School Main Bazar Pindi Bhattian,31.90046,73.27113,Female,Punjab,0,2,0,823
+301,Govt. Girls Elementary School Mian Khair Muhammad Noon Pindi Bhattian,31.9007,73.27385,Female,Punjab,0,2,0,802
+474,Govt. Girls Primary School Atlay Rehman,31.90102,73.45712,Female,Punjab,0,2,0,794
+483,Govt. Boys  Primary School Puraneki,31.90287,73.39042,Combined,Punjab,2,1,882,639
+382,Govt. Girls High School Mian Raheema,31.90653,73.61169,Combined,Punjab,2,1,782,575
+383,Govt. Boys Primary School Jalalana,31.90749,73.58984,Combined,Punjab,2,1,697,555
+431,Govt. Primary School Khatrani,31.91067,73.486,Combined,Punjab,1,1,644,490
+298,Office of Assistant Director Agricultural Extension Hafizabad Road Pindi Bhattian,31.91129,73.27193,Male,Punjab,2,0,882,0
+299,Office of Assistant Director Agricultural Extension Hafizabad Road Pindi Bhattian,31.91129,73.27196,Female,Punjab,0,2,0,712
+498,Govt. High School Shori Maneka,31.91307,73.33705,Male,Punjab,3,0,1301,0
+475,Govt. Model Primary School Channi Qasim,31.91326,73.40894,Combined,Punjab,1,1,441,369
+499,Govt. Girls Elementary School Shori Maneka,31.91452,73.33681,Female,Punjab,0,2,0,1126
+422,Govt. Girls Secondary School Kot Sarwar,31.91745,73.50183,Male,Punjab,3,0,1348,0
+423,Govt. Girls Secondary School Kot Sarwar Part Elementary,31.91745,73.50186,Female,Punjab,0,2,0,1026
+558,Govt. Boys Primary School Bhopa Lodhika,31.91845,73.46976,Combined,Punjab,1,1,633,454
+543,Govt.  Primary School  Chouchak,31.92057,73.19822,Combined,Punjab,2,1,729,583
+377,Govt. Boys Primary School Khanjar,31.92235,73.69223,Combined,Punjab,2,1,876,626
+548,Govt.  Primary School Chohdo Ahmed Yar,31.92371,73.32626,Male,Punjab,2,0,908,0
+429,Govt. Primary School Hardo Ratta (East Side),31.92594,73.47117,Male,Punjab,2,0,965,0
+430,Govt. Primary School Hardo Ratta (West Side),31.92594,73.4712,Female,Punjab,0,2,0,699
+540,Govt. Elementary School Thathi Assiash Kalan,31.92685,73.21053,Combined,Punjab,2,1,751,527
+296,Govt. Model High School  Pindi Bhattian- Shamali Block,31.92758,73.28519,Male,Punjab,2,0,976,0
+297,Govt. Model High School  Pindi Bhattian- Jonubi Block,31.92758,73.28522,Female,Punjab,0,2,0,701
+542,Govt. Girls  Elementary School Thathi Behlol Pur,31.92818,73.20708,Combined,Punjab,2,1,875,627
+284,Govt. Primary School Rakh Pindi Jalol,31.92909,73.74023,Combined,Punjab,1,1,380,294
+485,Govt. Girls High School Janduke,31.93066,73.40679,Female,Punjab,0,2,0,912
+489,Govt. Boys Primary School Husseke Awal,31.93134,73.38496,Combined,Punjab,2,1,623,578
+490,Govt. Girls Primary School- Husseke Awal,31.93134,73.38499,Combined,Punjab,2,1,779,585
+484,Govt. High School Janduke,31.93217,73.40491,Male,Punjab,2,0,1095,0
+386,Govt. Girls Elementary School Nahrianwala,31.93341,73.60393,Female,Punjab,0,2,0,795
+378,Govt. Model Primary School Ghanoke,31.93452,73.67731,Combined,Punjab,1,1,532,400
+385,Govt. Primary School Nahrianwala,31.93487,73.60463,Male,Punjab,2,0,1085,0
+391,Govt.  Primary School  Dinga  Wadahra,31.93555,73.65646,Combined,Punjab,1,1,598,452
+552,Govt. Primary School Dullu Kalan,31.93628,73.20923,Combined,Punjab,1,1,518,402
+487,Govt. Boys High School Mirza Bhangsinka (East side),31.9384,73.33636,Male,Punjab,2,0,1121,0
+488,Govt. Boys High School Mirza Bhangsinka(West side),31.9384,73.33639,Female,Punjab,0,2,0,825
+551,Govt. Girls Primary School Bagh Kohna,31.9415,73.27077,Combined,Punjab,2,1,847,616
+465,Govt. Boys Primary School Widror,31.94195,73.43868,Combined,Punjab,2,1,698,486
+392,Govt. Secondary School- Burj Dara (East Side),31.94491,73.63486,Male,Punjab,2,0,866,0
+393,Govt. Secondary School- Burj Dara (West Side),31.94491,73.63489,Female,Punjab,0,2,0,663
+408,Govt. Elementary School Uddoki,31.94547,73.54001,Combined,Punjab,2,1,690,482
+409,Govt. Model Elementary School (Part Girls) Uddoki,31.94552,73.5396,Combined,Punjab,1,1,510,355
+486,Govt. Boys Elementary School Wijhwan,31.94737,73.39853,Combined,Punjab,2,1,903,745
+553,Govt. Boys Primary School  Kot Nizam,31.94777,73.24356,Combined,Punjab,1,1,919,678
+389,Govt.  Elementary School Shameer Dinga  (Male),31.94993,73.67515,Male,Punjab,2,0,1023,0
+390,Govt.  Elementary School Shameer Dinga  (Female),31.94993,73.67518,Female,Punjab,0,2,0,773
+549,Govt. Girls Primary School Chohdo Ahmed Yar,31.95204,73.31437,Female,Punjab,0,2,0,701
+283,Govt. Boys Primary School-  Dera  Jammu,31.95227,73.75294,Combined,Punjab,1,1,812,628
+419,Govt. Boys Elementary School Dohatta Azmat- East Side,31.95945,73.47532,Male,Punjab,2,0,1131,0
+420,Govt. Boys Elementary School Dohatta Azmat- West Side,31.95945,73.47535,Female,Punjab,0,2,0,909
+562,Govt. Primary School Dhalke Kalan,31.95981,73.33792,Combined,Punjab,1,1,480,366
+294,Govt. Girls Secondary   School- Kot Hassan Khan East Side,31.96191,73.70843,Combined,Punjab,1,1,218,164
+472,Govt. Girls Model Primary School Garhi Wahab,31.96206,73.38194,Female,Punjab,0,2,0,1003
+413,Govt. Model Primary School Thatha Asian,31.96307,73.53918,Combined,Punjab,2,1,874,608
+471,Govt. Boys Primary School Garhi Wahab,31.96337,73.38271,Male,Punjab,3,0,1296,0
+289,Govt. English Medium Primary School Kot Hanjranwan Wala,31.96351,73.6857,Combined,Punjab,2,1,1052,745
+412,Govt. Girls Elementary School Tootra,31.96359,73.55665,Combined,Punjab,2,1,789,562
+547,Govt. Boys Primary School Qila Murad Bukhsh,31.96397,73.30639,Combined,Punjab,2,1,743,525
+411,Govt. Girls Primary School Thatha Manak,31.96449,73.56058,Combined,Punjab,2,1,789,546
+570,Govt. Boys Primary School Chohdo Khuda Yar,31.96491,73.29053,Combined,Punjab,1,1,816,630
+554,Govt. Secondary School Kot Bela,31.96578,73.2412,Combined,Punjab,2,1,905,670
+466,Govt. Boys  High School Kassisay (East Side),31.96633,73.41124,Male,Punjab,2,0,952,0
+467,Govt. Boys High School Kassisay (West Side),31.96633,73.41127,Male,Punjab,2,0,820,0
+290,Govt. Model Primary School Panjatha,31.96679,73.68011,Combined,Punjab,1,1,319,231
+291,Govt. Secondary  School Kot Hassan Khan-East Side,31.96786,73.74371,Male,Punjab,2,0,1333,0
+292,Govt. Secondary  School Kot Hassan Khan  south Side,31.96786,73.74374,Female,Punjab,0,2,0,1090
+293,Govt. Secondary  School Kot Hassan Khan-West Side,31.96786,73.74377,Combined,Punjab,1,1,754,594
+295,Govt. Boys Primary School- Chak Gujran Kalan,31.96786,73.7438,Combined,Punjab,2,1,692,486
+468,Govt. Girls Elementary School Kassisay,31.9686,73.41087,Female,Punjab,0,2,0,1360
+557,Govt. Primary School Dhapar Barkat Ram,31.97153,73.36207,Combined,Punjab,2,1,805,594
+418,Govt. Model Primary School Manjwan (Girls Campus),31.97198,73.50581,Combined,Punjab,1,1,617,414
+397,Govt. Primary School- Kaleki Mandi (Sharqi) (Male),31.97669,73.60342,Male,Punjab,2,0,898,0
+398,Govt. Primary School- Kaleki Mandi (Sharqi) (Female),31.97669,73.60345,Female,Punjab,0,2,0,770
+399,Govt.  Higher Secondary School Kaleki- Middle Block (Male),31.97707,73.60357,Male,Punjab,2,0,1083,0
+400,Govt.  Higher Secondary School Kaleki- Middle Block (Female),31.97707,73.6036,Female,Punjab,0,2,0,805
+401,Govt. Girls Higher Secondary School  Primary Block Kaleki  Mandi (East Side),31.97707,73.60363,Male,Punjab,2,0,1106,0
+402,Govt. Girls Higher Secondary School  Primary Block Kaleki  Mandi (West Side),31.97707,73.60366,Female,Punjab,0,2,0,828
+405,Govt. Higher Secondary School   Kaleki Mandi- East Side,31.97707,73.60369,Male,Punjab,3,0,1465,0
+406,Govt. Higher Secondary School   Kaleki Mandi- (West Side),31.97707,73.60372,Female,Punjab,0,2,0,1070
+407,Govt. Girls Higher Secondary School- Kaleki Mandi,31.97707,73.60375,Combined,Punjab,1,1,520,415
+281,Govt. Girls High School Kassoke (East side),31.98018,73.73306,Male,Punjab,2,0,1021,0
+282,Govt. Girls High School Kassoke (west side),31.98018,73.73309,Female,Punjab,0,2,0,716
+450,Govt. Model Primary School Sanbhal,31.98091,73.45058,Combined,Punjab,2,1,701,588
+277,Govt. Higher Secondary School Kassoke- ( East Side),31.98115,73.7306,Combined,Punjab,2,1,862,637
+278,Govt.Higher Secondary School Kassoke- ( West Side),31.98115,73.73063,Combined,Punjab,2,1,758,528
+279,Govt. Girls Community Model School- Kassoki (East side),31.98123,73.73177,Male,Punjab,2,0,1148,0
+280,Govt. Girls Community Model School- Kassoki (West side),31.98123,73.7318,Female,Punjab,0,2,0,796
+252,Govt.Girls Secondary School Kot Nanak,31.98195,73.79282,Combined,Punjab,2,1,748,517
+414,Govt.  Primary School  Bangar Nao,31.98212,73.52045,Combined,Punjab,2,1,775,629
+470,Govt. Girls Primary School Thatha Jahid Ameer Wala,31.98786,73.37525,Combined,Punjab,1,1,551,422
+469,Govt. Elementary School Thatha Jahid Ameer Wala,31.9879,73.37492,Combined,Punjab,1,1,580,473
+247,Govt. Primary School Borianwala,31.98824,73.73905,Male,Punjab,2,0,1174,0
+561,Govt. Boys Primary School- Jassoke,31.9894,73.32389,Combined,Punjab,1,1,562,457
+560,Govt. Girls  Secondary School Tahli Goraya- East Side,31.99279,73.33627,Combined,Punjab,2,1,753,600
+248,Govt. Girls Primary School Borianwala,31.99313,73.75645,Female,Punjab,0,2,0,838
+448,Govt. Boys Elementary School Matteki,31.99392,73.45883,Male,Punjab,3,0,1352,0
+449,Govt. Girls Elementary School Matteki,31.99408,73.45986,Female,Punjab,0,2,0,1022
+559,Govt. Boys Secondary School Tahli Goraya (West Side ),31.99409,73.32909,Combined,Punjab,2,1,705,587
+376,Govt. Model Primary School Samra,31.99505,73.60631,Combined,Punjab,2,1,856,620
+569,Govt.  Primary School Lodhray,31.99519,73.26253,Combined,Punjab,1,1,677,500
+286,Govt. Girls Elementary School Wachoke Khurd East Side,31.99673,73.67085,Male,Punjab,2,0,1130,0
+287,Govt.Girls Elementary School Wachoke Khurd West Side,31.99673,73.67088,Female,Punjab,0,2,0,793
+556,Govt. Girls Secondary School Madhora Kalan,31.99695,73.42068,Female,Punjab,0,2,0,995
+375,Govt. Boys Primary   School- Geegay,31.9971,73.55721,Female,Punjab,0,2,0,982
+555,Govt.Boys Elementary School Madhora Kalan,31.99714,73.42094,Male,Punjab,3,0,1219,0
+373,Govt. Primary School- Kot Mian,32.00087,73.59349,Combined,Punjab,1,1,479,403
+251,Govt.Girls Model Primary School Buayke,32.00169,73.7683,Combined,Punjab,1,1,684,516
+274,Govt.Girls Secondary School Jurian (East Side),32.00215,73.69857,Male,Punjab,3,0,1464,0
+275,Govt.Girls Secondary School Jurian (West Side),32.00215,73.6986,Female,Punjab,0,2,0,1093
+566,Govt. Secondary School Khurram Choraira,32.00254,73.28797,Combined,Punjab,2,1,807,673
+568,Govt. Primary School Burj Masti,32.00272,73.26708,Combined,Punjab,2,1,682,482
+374,Govt. Girls Elecmentary School- Dera Manak (Geegay),32.00426,73.56329,Male,Punjab,3,0,1200,0
+444,Govt. Boys Primary School Thatha Gajju,32.0046,73.47757,Combined,Punjab,2,1,713,594
+447,Govt. Girls Primary School Sakhi,32.0061,73.50381,Female,Punjab,0,2,0,762
+272,Govt.Secondary School Jurian(East Side),32.00827,73.7,Male,Punjab,2,0,987,0
+273,Govt.Secondary School Jurian  (West Side),32.00827,73.70003,Female,Punjab,0,2,0,790
+285,Govt.Secondary School Wachoki Kalan,32.00889,73.68873,Combined,Punjab,2,1,791,575
+276,Govt. Girls Elementary School Qila Balwant Singh,32.00907,73.73046,Combined,Punjab,1,1,686,570
+242,Govt. Boys Model Primary School Ghanian Khurd,32.00976,73.75026,Combined,Punjab,1,1,535,391
+446,Govt. Secondary School Sakhi,32.0112,73.50425,Male,Punjab,2,0,1037,0
+462,Govt. Girls Elementary School Mughoke,32.01228,73.41001,Combined,Punjab,2,1,666,477
+257,Govt.Model Primary School Lakhia,32.01484,73.60523,Combined,Punjab,2,1,769,522
+464,Govt. Boys Elementary School Kot Khushal,32.01666,73.43467,Combined,Punjab,2,2,854,661
+249,Govt. Primary School Laveray Kalan,32.01723,73.7889,Male,Punjab,3,0,1368,0
+573,Govt. Boys Primary School Thatha Mona Salabat,32.01747,73.32405,Combined,Punjab,2,1,719,531
+565,Govt. Model Primary School Garhi Gondal,32.01751,73.27264,Combined,Punjab,2,1,846,668
+574,Govt. Primary School Khurram Lodhi,32.01937,73.29332,Combined,Punjab,1,1,510,410
+288,Govt. Primary Girls  School Channi Hoshnak Rai,32.02139,73.65901,Combined,Punjab,1,1,605,397
+271,Govt.Girls Elementary School Kariala (West Side),32.02193,73.69198,Female,Punjab,0,2,0,946
+268,Govt. Elementary School Kariala (West Side),32.02284,73.69077,Male,Punjab,2,0,1145,0
+250,Govt.Girls Secondary School Laveray Kalan,32.02354,73.79175,Female,Punjab,0,2,0,1056
+370,Govt. Primary School Shah Jamal (East Side),32.02535,73.56094,Male,Punjab,2,0,1104,0
+371,Govt. Pirmary School Shah Jamal (West Side),32.02535,73.56097,Female,Punjab,0,2,0,915
+567,Govt. Primary School Mahiwala,32.02641,73.23611,Combined,Punjab,1,1,612,473
+259,Govt. Boys Elementary School Kot Nawan,32.02793,73.69688,Combined,Punjab,1,1,702,504
+66,Govt. Elementary School Ram Garh (Thatha Khokhran) (North Side),32.02793,73.69691,Male,Punjab,3,0,1502,0
+68,Govt. Elementary School Ram Garh (Thatha Khokhran) (South Side),32.02793,73.69694,Female,Punjab,0,2,0,1196
+461,Govt. Boys Primary School Dharian,32.02799,73.40965,Combined,Punjab,2,2,1047,737
+463,Govt. Boys Primary School Patli Kharal,32.02865,73.46381,Combined,Punjab,2,1,676,465
+245,Govt.High School Vinni   East Side,32.03067,73.79365,Male,Punjab,3,0,1456,0
+234,Govt.Boys Primary School Sioke,32.03103,73.7942,Combined,Punjab,1,1,595,424
+255,Govt.Girls High School Madhrianwala (East side),32.03252,73.63364,Male,Punjab,2,0,1330,0
+256,Govt.Girls High School Madhrianwala,32.03252,73.63367,Female,Punjab,0,2,0,1098
+253,Govt.Secondary School Madhrianwala- (East Side),32.03252,73.63368,Male,Punjab,2,0,1111,0
+254,Govt.Secondary School Madhrianwala- (West Side),32.03252,73.63371,Female,Punjab,0,2,0,809
+572,Govt. Girls Primary School  Sadhoke,32.03284,73.36838,Female,Punjab,0,2,0,722
+267,Govt.Girls High School  Bhoon Kalan  (West Side),32.033,73.70332,Female,Punjab,0,2,0,1080
+457,Govt. Elementary School Khiday,32.03493,73.48007,Combined,Punjab,2,1,700,532
+445,Govt. Primary School Peer Kamal,32.035,73.50783,Combined,Punjab,1,1,797,690
+269,Govt. Elementary School Kariala East Side,32.03801,73.70316,Female,Punjab,0,2,0,867
+563,Govt.  Primary School  Kot Alam Kalan,32.03808,73.27725,Combined,Punjab,1,1,488,309
+369,Govt. Boys Primary School- Saroop Wala,32.04019,73.57478,Combined,Punjab,2,1,823,671
+266,Govt.Girls High School  Bhoon Kalan (East Side),32.04137,73.70136,Male,Punjab,3,0,1361,0
+265,Govt. Model Primary School Hardo Bhoon Khurd,32.04431,73.70401,Combined,Punjab,2,1,829,607
+578,Govt. Boys Primary School Jag Bhatti,32.04592,73.34502,Combined,Punjab,1,1,646,355
+443,Govt. Girls Primary School Waleki,32.04727,73.50925,Combined,Punjab,2,1,650,491
+233,Govt.Girls Primary  School Peer Kot Sani,32.05079,73.74272,Combined,Punjab,1,1,397,286
+270,Govt.Girls Elementary School Kariala (East Side),32.0508,73.68159,Male,Punjab,2,0,1168,0
+258,Govt. Boys Primary School- Touheed Nagar (Mamna),32.05328,73.62796,Combined,Punjab,1,1,537,452
+564,Govt. Elementary School  Kot Ghazi,32.05355,73.28407,Combined,Punjab,2,1,873,468
+372,Govt. Model Primary School Phulo Chiragh Shah,32.05416,73.54985,Combined,Punjab,1,1,308,256
+62,Govt. Girls Primary School  Khan Pura Hafizabad (East side),32.05704,73.68202,Female,Punjab,0,2,0,1306
+63,Govt. Girls Primary School  Khan Pura Hafizabad (west side),32.05704,73.68205,Female,Punjab,0,3,0,1536
+69,District Public School- Ram Garh- East Side,32.05711,73.67414,Male,Punjab,1,0,559,0
+70,District Public School- Ram Garh- Hafizabad Western Side,32.05711,73.67417,Female,Punjab,0,1,0,401
+453,Govt. Rural Health Center Rasoolpur Tarar,32.05768,73.46725,Combined,Punjab,1,1,638,408
+579,Govt. Girls Primary School Kot Mohabat,32.05815,73.31713,Combined,Punjab,1,1,645,454
+67,Govt. Girls Primary School- Burj Fateh Ali,32.05831,73.66633,Combined,Punjab,1,1,425,300
+52,Govt. MC  Elementary School No.5 Hafizabad (North Side-I),32.05851,73.69224,Male,Punjab,4,0,2006,0
+53,Govt. MC  Elementary School No.5 Hafizabad (North Side-II),32.05851,73.69227,Male,Punjab,3,0,1849,0
+54,Govt. MC  Elementary School No.5 Hafizabad (North Side-III),32.05851,73.6923,Male,Punjab,3,0,1862,0
+55,Govt. MC  Elementary School No.5 Hafizabad (South Side-I),32.05851,73.69233,Female,Punjab,0,3,0,1832
+56,Govt. MC  Elementary School No.5 Hafizabad  (South Side-II),32.05851,73.69236,Female,Punjab,0,3,0,1374
+57,Govt. MC  Elementary School No.5 Hafizabad (South Side-III),32.05851,73.69239,Female,Punjab,0,3,0,1350
+451,Govt. Boys  Primary School- Nauroz Pur,32.059,73.47198,Male,Punjab,3,0,1363,0
+455,Govt. Girls High School Rasool Pur Tarar,32.059,73.47201,Combined,Punjab,2,1,909,641
+456,Govt.  High School Rasool Pur Tarar (West Side),32.059,73.47204,Combined,Punjab,2,2,975,725
+459,Govt. Girls Elementary School Solangi Kharal,32.06038,73.43001,Male,Punjab,3,0,1406,0
+334,Govt. Degree College  for Women Jalalpur Bhattian (East Side),32.06044,73.40144,Female,Punjab,0,2,0,702
+336,Govt. Degree College  for Women Jalalpur Bhattian (West Side),32.06044,73.40147,Female,Punjab,0,2,0,589
+460,Govt. Boys Primary School Solangi Kharal,32.0606,73.42522,Female,Punjab,0,2,0,1110
+333,Govt. Girls Elementary School Mohallah Alam Pura Jalalpur Bhattian,32.06067,73.40149,Male,Punjab,2,0,1073,0
+261,Govt.Girls Primary School Solangi Awan,32.06084,73.66996,Female,Punjab,0,2,0,976
+264,Govt.Boys Primary School Peelo,32.06094,73.55907,Combined,Punjab,1,1,561,395
+441,Govt.  Primary School Thatha Gahra (East Side),32.06097,73.50148,Male,Punjab,3,0,1472,0
+442,Govt.  Primary School Thatha Gahra (West Side),32.06097,73.50151,Female,Punjab,0,2,0,1142
+332,Govt. Boys Primary School Alam Pura- Jalalpur Bhattian,32.06128,73.40118,Combined,Punjab,2,1,793,579
+228,Govt.Girls Elementary School Dhunni  (East Side),32.06144,73.79847,Male,Punjab,3,0,1477,0
+229,Govt.Girls Elementary  School Dhunni  (West Side),32.06144,73.7985,Female,Punjab,0,2,0,1146
+230,Govt.Boys Primary School Dhunni,32.06144,73.79853,Combined,Punjab,1,1,529,364
+240,Govt. Elementary School Mangat Uncha (East side),32.06176,73.70196,Male,Punjab,2,0,1065,0
+244,Govt. Boys Primary School Madan Philla,32.06176,73.70199,Combined,Punjab,2,1,899,667
+74,Govt. High School No.2 Madina Colony Hafizabad (East Side),32.06208,73.67751,Male,Punjab,2,0,1453,0
+75,Govt. High School No.2 Madina Colony Hafizabad (West Side-I),32.06208,73.67754,Female,Punjab,0,4,0,2111
+76,Govt. High School No.2 Madina Colony Hafizabad.  (West Side-II),32.06208,73.67757,Male,Punjab,2,0,1333,0
+77,Govt. High School No.2 Madina Colony Hall Block- HFD.,32.06208,73.6776,Male,Punjab,3,0,1482,0
+454,Govt. High School Rasool Pur Tarar (East Side),32.06232,73.46115,Combined,Punjab,2,1,646,500
+64,Govt. MC Girls Primary School No.4 Hafizabad (East side),32.0624,73.69025,Male,Punjab,3,0,1950,0
+65,Govt. MC Girls Primary School No.4 Hafizabad (west side),32.0624,73.69028,Male,Punjab,3,0,1651,0
+78,Govt. Girls Elementary School- Madina Colony Hafizabad (West Side-I),32.06274,73.67712,Female,Punjab,0,3,0,1332
+184,Govt.Girls Elementary School Sandhwan Tarar (East Side),32.06323,73.5294,Male,Punjab,3,0,1247,0
+185,Govt.Girls Elementary School Sandhwan Tarar (West Side),32.06323,73.52943,Female,Punjab,0,2,0,1003
+241,Govt. Elementary School Mangat Uncha (West Side),32.06343,73.69983,Female,Punjab,0,2,0,844
+60,Govt. Saint Meri High School Moh.Khan Pura (East side),32.06355,73.68791,Male,Punjab,3,0,1905,0
+61,Govt. Saint Meri High School Moh.Khan Pura (west side),32.06355,73.68794,Female,Punjab,0,3,0,1698
+328,Govt. Public Higher Secondary School Jalalpur Bhattian (New Block I),32.06391,73.37846,Male,Punjab,2,0,904,0
+330,Govt. Public Higher Secondary School Jalalpur Bhattian (New Block II),32.06391,73.37849,Male,Punjab,3,0,1124,0
+340,Govt. Public Higher Secondary School Jalalpur Bhattian (New Block III),32.06391,73.37852,Male,Punjab,2,0,994,0
+341,Govt. Public Higher Secondary School Jalalpur Bhattian Shamali  Gate,32.06391,73.37855,Female,Punjab,0,2,0,805
+342,Govt. Public Higher Secondary School Jalalpur Bhattian (New Block IV),32.06391,73.37858,Male,Punjab,2,0,1219,0
+343,Govt.  Public Higher Secondary School Jalalpur Bhattian Shamali  Gate,32.06391,73.37861,Female,Punjab,0,2,0,895
+262,Govt.Girls Elementary School Channi Mitha (East side),32.06399,73.61246,Male,Punjab,2,0,1277,0
+263,Govt.Girls Elementary School Channi Mitha (west side),32.06409,73.6125,Female,Punjab,0,2,0,944
+337,Govt. Boys High School Jalalpur Bhattian New Block (Combine),32.06435,73.3784,Combined,Punjab,1,1,736,541
+338,Govt. Boys High School Jalalpur Bhattian New Block (Male),32.06435,73.37843,Male,Punjab,3,0,1767,0
+73,Govt. Girls Primary School  Habib Gunj Hafizabad,32.0644,73.68198,Female,Punjab,0,3,0,1457
+452,Govt. Girls Community Model School Nawan Shehar,32.06546,73.48499,Female,Punjab,0,2,0,958
+51,Govt. Girls Primary School  Peer Kale Shah- Hafizabad,32.06574,73.69444,Combined,Punjab,2,1,951,786
+329,Govt. Girls Community Model School Jalalpur Bhattian (East Side),32.06583,73.37953,Female,Punjab,0,2,0,659
+331,Govt. Girls Community Model School Jalalpur Bhattian (West Side),32.06583,73.37956,Female,Punjab,0,2,0,935
+327,Govt. Girls Secondary School Jalalpur Bhattian (Combine),32.06598,73.37862,Combined,Punjab,1,1,478,369
+335,Govt. Girls Secondary School Jalalpur Bhattian (Male),32.06598,73.37865,Male,Punjab,2,0,851,0
+339,Govt. Girls Secondary School Jalalpur Bhattian (Female),32.06598,73.37868,Female,Punjab,0,3,0,1430
+71,Govt. Muslim High School HFD South Side-A,32.06681,73.68359,Male,Punjab,2,0,1232,0
+72,Govt. Muslim High School HFD  South Side-B,32.06681,73.68362,Male,Punjab,1,0,508,0
+79,Govt. Muslim High School HFD- New Block (West Side-II),32.06681,73.68365,Male,Punjab,2,0,1320,0
+80,Govt. Muslim High School HFD- New Block (North Side),32.06681,73.68368,Male,Punjab,2,0,914,0
+36,Govt. Model Primary School Kot Qadir Bukhsh,32.06683,73.70553,Combined,Punjab,1,1,617,499
+90,Govt. Boys Primary School Qila Sahib Singh (East side-I),32.06701,73.66107,Male,Punjab,3,0,2128,0
+85,Govt. College Hafizabad (East side),32.06714,73.6795,Male,Punjab,3,0,1381,0
+86,Govt.  Degree College Hafizabad  (West side),32.06714,73.67953,Female,Punjab,0,2,0,1203
+91,Govt. Boys Primary School Qila Sahib Singh(West Side-II),32.06728,73.66097,Male,Punjab,3,0,1569,0
+93,Govt. Girls Elemantary School Qila Sahib Singh(West Side-II),32.06734,73.66118,Female,Punjab,0,3,0,1141
+81,Govt. Girls Higher Secondary School No. 1 Hafizabad (Center of Excellence) (Old Blcok ),32.06746,73.68163,Female,Punjab,0,2,0,1132
+82,Govt. Girls Higher Secondary School No. 1 Hafizabad (Center of Excellence) (New Block),32.06746,73.68166,Female,Punjab,0,2,0,826
+87,Govt. Boys Primary School Qila Sahib Singh(East Side),32.06762,73.66333,Male,Punjab,4,0,2098,0
+88,Govt. Girls Elementary School Qila Sahib Singh (East Side),32.06762,73.66336,Female,Punjab,0,3,0,1541
+92,Govt. Girls Elemantary School Qila Sahib Singh(West Side-I),32.06767,73.66121,Female,Punjab,0,3,0,1846
+235,Govt.Girls Secondary School Chak Chatha (south side),32.06788,73.69947,Combined,Punjab,2,1,742,548
+238,Govt.Girls Secondary School Chak Chatha (East Side),32.06788,73.6995,Male,Punjab,3,0,1518,0
+239,Govt.Girls Secondary School Chak Chatha (West Side),32.06788,73.69953,Female,Punjab,0,2,0,1171
+29,Govt. Model Higher Secondary School Hafizabad (Old Building) (East North Side),32.06788,73.69956,Male,Punjab,2,0,873,0
+30,Govt. Model Higher Secondary School Hafizabad(Old Building) (West North Side),32.06788,73.69959,Male,Punjab,2,0,1004,0
+31,Govt. Model Higher Secondary School Hafizabad (New Building) (East Side-I),32.06788,73.69962,Female,Punjab,0,3,0,1545
+326,Govt. Girls Primary School Jalalpur Kohna,32.06861,73.3633,Female,Punjab,0,2,0,878
+260,Govt. Primary School Solangi Awan,32.06892,73.64974,Male,Punjab,2,0,1190,0
+89,Govt. M.C. Primary Boys  School No.3 Hafizabad,32.06907,73.6816,Combined,Punjab,1,1,575,510
+95,Govt.  Boys Primary School MC No.4 Hafizabad (South Side),32.0691,73.68164,Male,Punjab,2,0,896,0
+96,Govt. Girls  Primary School MC No. 3 Hafizabad,32.0691,73.68167,Female,Punjab,0,3,0,1793
+97,Govt. D.H.Q Hospital Hafizabad (East Side),32.0691,73.6817,Male,Punjab,2,0,896,0
+47,Office of Deputy District Education Officer (Women) Hafizabad (East Side),32.06917,73.69356,Male,Punjab,2,0,998,0
+48,Office of Deputy District Education Officer (Women) Hafizabad (West  Side),32.06932,73.69404,Female,Punjab,0,2,0,863
+84,Office of Additional Director- Live Stock- Hafizabad  South Side,32.06934,73.6875,Female,Punjab,0,3,0,1411
+44,Govt. Girls Elementary School Garhi Awan Mohallah Sharif Pura (East side),32.06967,73.69594,Male,Punjab,3,0,1231,0
+45,Govt. Girls Elementary School Garhi Awan Mohallah Sharif Pura (West Side),32.06967,73.69597,Female,Punjab,0,2,0,974
+58,Office of Additional Director- Live Stock- Hafizabad (East side),32.06971,73.68777,Male,Punjab,2,0,948,0
+59,Office of Additional Director- Live Stock- Hafizabad West Side,32.06971,73.6878,Female,Punjab,0,2,0,798
+42,Govt.Model Primary School MC  No.7 (Mohallah Sharif Pura) East Side,32.06971,73.69554,Male,Punjab,3,0,1279,0
+43,Govt.Model Primary School MC  No.7 (Mohallah Sharif Pura) West  Side,32.06971,73.69557,Female,Punjab,0,2,0,1082
+39,Govt. Model Higher Secondary School- Hafizabad (Old Building) (East South Side),32.06973,73.69415,Male,Punjab,2,0,888,0
+40,Govt. Model Higher Secondary School- Hafizabad (Old Building) (West South Side),32.06973,73.69418,Male,Punjab,2,0,760,0
+41,Govt. Model Higher Secondary School Hafizabad (New Building) (South Side),32.06973,73.69421,Female,Punjab,0,3,0,1442
+49,Govt. Model Higher Secondary School Hafizabad (Old Building) (Library Block),32.06973,73.69424,Male,Punjab,3,0,1465,0
+50,Govt. Model Higher Secondary School Hafizabad (New Building)  (East Side-II),32.06973,73.69427,Female,Punjab,0,3,0,1387
+83,Office of Additional Director- Live Stock- Hafizabad (North side),32.06991,73.6879,Male,Punjab,3,0,1574,0
+32,Office of District Population Welfare DC House Hafizabad,32.06999,73.71237,Male,Punjab,4,0,1763,0
+46,Govt. Girls  Primary School No.1 Hafizabad,32.07042,73.69141,Combined,Punjab,1,1,658,629
+583,Govt. Girls Elementary School Thatha Argan,32.07046,73.39524,Combined,Punjab,2,2,939,674
+101,Govt. Girls Community Model School Dhingranwali,32.07111,73.67757,Female,Punjab,0,2,0,795
+577,Govt. Boys Primary School Kotla Anandan,32.07114,73.35922,Combined,Punjab,1,1,614,466
+103,Alfalah Dastkari School- Vanike Chowk Hafizabad,32.07182,73.68482,Female,Punjab,0,2,0,1162
+325,Govt.  Primary School Bahowdinke,32.07196,73.36623,Male,Punjab,2,0,1170,0
+198,Govt. Primary School Jahanian,32.07233,73.66348,Combined,Punjab,1,1,509,364
+217,Govt.Girls Primary School Sagar Kalan,32.07233,73.66351,Combined,Punjab,2,1,1179,878
+98,Govt. D.H.Q Hospital Hafizabad (West Side),32.07249,73.68076,Male,Punjab,2,0,799,0
+104,Govt. D.H.Q Hospital Hafizabad- New Block  (East Side),32.07263,73.68039,Male,Punjab,2,0,860,0
+105,Govt. D.H.Q Hospital Hafizabad- New Block  (West Side-I),32.07263,73.68042,Male,Punjab,2,0,708,0
+106,Govt. D.H.Q Hospital Hafizabad- New Block  (West Side-II),32.07263,73.68045,Female,Punjab,0,3,0,1332
+37,Office Assistant Director Agricultural (Extension) Gujranwala Road Hafizabad (East Side),32.07278,73.70979,Male,Punjab,2,0,1301,0
+38,Office Assistant Director Agricultural (Extension) Gujranwala Road Hafizabad (West Side),32.07278,73.70982,Female,Punjab,0,2,0,1024
+197,Govt. Model Primary School- Channi Karim Dad,32.07293,73.62093,Combined,Punjab,1,1,544,406
+110,Govt. Girls Elecmentary School Qila Ram Kor,32.07295,73.67841,Combined,Punjab,2,2,886,736
+26,Govt. MC  Primary School No.2 Hafizabad,32.07381,73.69514,Female,Punjab,0,2,0,1242
+18,Govt. Model Primary School Garhi Ghous Hafizabad,32.07382,73.6955,Combined,Punjab,1,1,628,491
+22,Govt. Girls Model Higher Secondary School HFD. East South Side,32.07393,73.69319,Male,Punjab,2,0,1082,0
+23,Govt. Girls Model Higher Secondary School HFD. East North Side,32.07393,73.69322,Male,Punjab,2,0,667,0
+24,Govt. Girls Model Higher Secondary School HFD. West Side-I,32.07393,73.69325,Female,Punjab,0,3,0,1479
+25,Govt. Girls Model Higher Secondary School HFD. West side-II,32.07393,73.69328,Male,Punjab,3,0,1469,0
+19,Govt. Secondary School No.1 Hafizabad East Side,32.07431,73.69022,Male,Punjab,2,0,972,0
+20,Govt. Secondary School No.1 Hafizabad West Side,32.07431,73.69025,Male,Punjab,2,0,910,0
+21,Govt. Secondary School No.1 Hafizabad Old Building,32.07431,73.69028,Female,Punjab,0,3,0,1514
+1,Govt. MC Elementary School No.8 HFD (South Side),32.07443,73.68651,Combined,Punjab,1,1,565,467
+2,Govt. MC Elementary School No.8 HFD  (West Side),32.07443,73.68654,Male,Punjab,3,0,1321,0
+3,Govt. MC Elementary School No.8 HFD (East Side),32.07443,73.68657,Female,Punjab,0,2,0,1180
+11,Govt.Islamia Post Graduate College for Women- Hafizabad (New Block),32.07481,73.68769,Combined,Punjab,2,2,943,877
+28,Govt. Primary School Moh. Qadar Abad- West Side,32.07541,73.70345,Female,Punjab,0,2,0,1085
+27,Govt Primary School Moh. Qadar Abad- East Side,32.07545,73.70341,Male,Punjab,3,0,1320,0
+214,Govt. Community Model Girls Elementary School Thatha Kalian,32.0763,73.67107,Male,Punjab,2,0,1228,0
+10,Govt.Islamia Post Graduate College for Women- Hafizabad (Old Block) West side,32.07633,73.68745,Female,Punjab,0,2,0,1184
+9,Govt.Islamia Post Graduate College for Women- Hafizabad (Old Block) ? East Side,32.07633,73.68748,Male,Punjab,3,0,1371,0
+108,Govt.MC  Primary School No.9 Mian Da Kot (East side-II),32.07658,73.67999,Female,Punjab,0,2,0,1102
+109,Govt.MC  Primary School No.9 Mian Da Kot (west side),32.07658,73.68002,Combined,Punjab,2,1,732,615
+231,Govt. Boys Primary School Dahranwali,32.0766,73.73743,Combined,Punjab,2,1,791,646
+107,Govt.MC  Primary School No.9 Mian Da Kot (East side-I),32.07664,73.67971,Male,Punjab,3,0,1420,0
+236,Govt.Boys Elementary School Chak Chatha (West Side),32.07673,73.73747,Male,Punjab,3,0,1436,0
+237,Govt. Boys Elementary School Chak Chatha (East Side),32.07673,73.7375,Female,Punjab,0,2,0,1070
+12,Govt. Double Section Girls High School Ali Pur Road- Hafizabad (North Side-B),32.07693,73.68786,Male,Punjab,3,0,1337,0
+13,Govt.  Double Section Girls High School Ali Pur Road- Hafizabad (North Side-C),32.07693,73.68789,Male,Punjab,2,0,934,0
+14,Govt. Double Section Girls High School Ali Pur Road- Hafizabad (South East Side-A),32.07693,73.68792,Female,Punjab,0,2,0,1251
+15,Govt. Double Section Girls High School Ali Pur Road- Hafizabad (South East Side-B),32.07693,73.68795,Female,Punjab,0,2,0,733
+4,Govt. Double Section Girls High School Ali Pur Road- Hafizabad(North Side-A),32.07693,73.68798,Male,Punjab,3,0,1544,0
+5,Govt. Double Section Girls High School Ali Pur Road- Hafizabad (South Side),32.07693,73.68801,Female,Punjab,0,3,0,1344
+196,Govt. Girls Elementary School Kot Chian,32.07777,73.57053,Female,Punjab,0,2,0,892
+6,Govt. MC Primary School No.1 Hafizabad (For Boys) Alipur Road (East Side),32.07784,73.68885,Combined,Punjab,2,2,691,614
+7,Govt. MC Primary School No.1 Hafizabad (For Boys) Alipur Road (West Side),32.07784,73.68888,Male,Punjab,2,0,1160,0
+33,Govt. Model Primary School Canal Colony,32.07806,73.72228,Female,Punjab,0,3,0,1409
+195,Govt. Boys Elementary School English Medium Kot Chian,32.07998,73.57558,Male,Punjab,2,0,1114,0
+243,Govt. Girls Model Primary School- Ghanian Khurd,32.08054,73.80157,Combined,Punjab,2,1,723,604
+232,Govt.Model Elementary  School Jaidke,32.08093,73.73449,Combined,Punjab,2,1,833,604
+102,Govt. MC Boys School No.6 Post Office Road- HFD East Side,32.08279,73.65905,Male,Punjab,2,0,1369,0
+580,Govt. Primary School  Marth,32.08306,73.29969,Combined,Punjab,2,1,855,602
+170,Govt  Model Primary School Channi Wazira,32.08361,73.67583,Combined,Punjab,2,1,853,665
+34,Govt.Model Primary School Chatha Dad (East side),32.0842,73.69479,Male,Punjab,2,0,958,0
+100,Govt. Boys Primary School Dhingranwali,32.08466,73.65976,Male,Punjab,2,0,976,0
+458,Govt. Boys Primary School Meerakh Kalan,32.08535,73.43894,Combined,Punjab,2,1,692,471
+8,Govt. Boys Primary School Ali Town,32.0862,73.68206,Female,Punjab,0,2,0,931
+193,Govt.  High School Pindi Bawray,32.08801,73.58789,Male,Punjab,4,0,1681,0
+194,Govt. Girls Elementary School Pindi Bawary,32.08889,73.58977,Female,Punjab,0,3,0,1280
+582,Govt. Boys Primary School   Chah Hakeem Wala,32.08913,73.39387,Combined,Punjab,2,1,964,696
+227,Govt. Boys Primary School Iqbal Nagar,32.0892,73.7845,Combined,Punjab,1,1,658,451
+186,Govt.Boys Primary School Bhopa Chadhran,32.08942,73.49178,Combined,Punjab,1,1,515,421
+191,Govt.Boys Primary School Rai Chand,32.08942,73.49181,Combined,Punjab,2,1,835,657
+113,Govt. English Medium Primary School Jagganwala,32.09008,73.69107,Combined,Punjab,1,1,688,475
+35,Govt.Model Primary School Chatha Dad (West side),32.09069,73.79106,Female,Punjab,0,2,0,767
+246,Govt.High School Vinni (West Side),32.09074,73.80477,Female,Punjab,0,2,0,1144
+17,Govt.Girls  Primary School Kot Hashmat,32.09106,73.67838,Female,Punjab,0,2,0,678
+111,Govt.  English Medium Model Primary School Jharianwala,32.09169,73.67366,Combined,Punjab,1,1,841,629
+199,Govt.Model Primary School Prem Kot,32.09219,73.63988,Combined,Punjab,2,2,985,774
+215,Govt.Boys Primary School Thatha Kalian,32.09219,73.69804,Female,Punjab,0,2,0,940
+16,Govt.Primary School Kot Hashmat,32.09241,73.69225,Male,Punjab,2,0,929,0
+187,Govt.Girls Elementary School Ali Abad (Balo Nau).  (East Side),32.09622,73.52891,Male,Punjab,2,0,946,0
+188,Govt.Girls Elementary School Ali Abad (Balo Nau). (West Side),32.09622,73.52894,Female,Punjab,0,2,0,782
+200,Govt.Boys Primary School Hardo Pipli,32.09669,73.62694,Combined,Punjab,2,1,867,646
+216,Govt.Secondary School Sagar Kalan,32.09707,73.74791,Combined,Punjab,1,1,594,458
+213,Govt. Girls  Primary School Battaray,32.10062,73.70025,Combined,Punjab,2,2,1020,806
+585,Govt.  Primary School Bhoon Rata,32.10479,73.33315,Combined,Punjab,2,1,812,532
+112,Govt.Boys High School Qila Ram Kour (East Side),32.1049,73.66541,Combined,Punjab,2,1,927,665
+114,Govt. Boys High School Qila Ram Kor (West Side),32.1049,73.66544,Combined,Punjab,1,1,625,437
+189,Govt.Boys Primary School  Ram Tarar  (East Side),32.10524,73.46026,Male,Punjab,2,0,900,0
+190,Govt.Boys Primary School  Ram Tarar  (West Side),32.10524,73.46029,Female,Punjab,0,2,0,749
+226,Govt. Basic Health Unit Mangat Nicha,32.10852,73.77398,Combined,Punjab,2,1,850,635
+581,Govt. Boys Primary School Khanna Bhattian,32.10897,73.43514,Combined,Punjab,2,1,783,601
+201,Govt. Boys Primary School Wingay,32.11045,73.65572,Combined,Punjab,1,1,468,403
+225,Govt.Girls High School Mangat Nicha (West Side),32.11274,73.77943,Combined,Punjab,2,2,1019,689
+224,Govt.Girls High School Mangat Nicha (East Side),32.11321,73.77937,Combined,Punjab,2,1,760,589
+115,Govt.Boys Primary School Kot Said Muhammad,32.11765,73.51027,Combined,Punjab,2,1,890,684
+175,Govt. English Medium Primary School Noor Pura- Kolo Tarar (East Side),32.11802,73.55664,Combined,Punjab,2,1,741,691
+218,Govt. Boys  Primary School Ahmad Pur  Chatha,32.11882,73.75886,Combined,Punjab,1,1,346,326
+202,Govt.Boys Primary School Bawray Nau,32.11954,73.62047,Male,Punjab,2,0,964,0
+203,Govt.Girls Primary School Bawray Nau,32.12003,73.61734,Female,Punjab,0,2,0,741
+209,Govt. Model Primary School- Nidala Kham,32.12139,73.70802,Combined,Punjab,1,1,433,355
+587,Govt. Boys Primary School  Narowal,32.12226,73.41178,Combined,Punjab,2,1,901,663
+223,Govt. Boys Elementary School- Kot Sajana,32.12337,73.79022,Combined,Punjab,2,1,795,556
+591,Govt. Elementary School Mehmood Pur (Male),32.12507,73.36957,Male,Punjab,3,0,1187,0
+592,Govt. Elementary School Mehmood Pur (Female),32.12507,73.3696,Female,Punjab,0,2,0,857
+208,Govt. High School School Kalianwala (Primary Portion),32.12545,73.68723,Combined,Punjab,1,1,475,335
+222,Govt. Girls Community Model School Kot Sajana,32.12559,73.78728,Combined,Punjab,1,1,597,432
+212,Govt.  High School Kalianwala,32.12719,73.686,Combined,Punjab,2,1,932,647
+176,Govt. Higher Secondary School Kolo Tarar- (East Side),32.12933,73.5379,Male,Punjab,3,0,1287,0
+177,Govt. Higher Secondary School Kolo Tarar-  (West Side),32.12933,73.53793,Female,Punjab,0,2,0,973
+178,Govt. Higher Secondary School Kolo Tarar- Part Primary (North  Side),32.12933,73.53796,Male,Punjab,3,0,1339,0
+179,Govt. Higher Secondary School Kolo Tarar (South Side),32.12933,73.53799,Female,Punjab,0,2,0,1106
+210,Govt.Girls Secondary School Kalianwala- East Side,32.12995,73.68359,Male,Punjab,2,0,1054,0
+211,Govt.Girls Secondary School Kalianwala- West Side,32.12995,73.68362,Female,Punjab,0,2,0,788
+169,Govt. Girls Community Model School Channi Hanjrawan,32.13587,73.64565,Combined,Punjab,2,2,986,725
+220,Govt.Boys Primary School Kalair Wala Khurd,32.13722,73.76611,Combined,Punjab,2,2,896,621
+219,Govt.Girls Elementary School  Kot Gora,32.13806,73.76583,Combined,Punjab,2,2,936,660
+166,Govt. Secondary School Dhiranke Mir Dadke  (East Side),32.13978,73.63683,Male,Punjab,2,0,1239,0
+167,Govt. Secondary School Dhiranke Mir Dadke (West Side),32.13978,73.63686,Female,Punjab,0,2,0,916
+588,Govt. Girls High School Chak Bhatti (East Side),32.14249,73.41586,Combined,Punjab,2,1,812,534
+589,Govt. Girls Community Model School- Chak Bhatti,32.14249,73.41589,Combined,Punjab,1,1,728,604
+590,Govt. Girls High School Chak Bhatti (West Side),32.14249,73.41592,Combined,Punjab,2,1,718,496
+221,Govt.Girls Elementary School Muradian,32.1425,73.71917,Combined,Punjab,2,2,906,693
+116,Govt. Elementary School Khan Pur,32.1432,73.4785,Combined,Punjab,2,2,927,703
+586,Govt. Primary School Kutay Shah,32.1456,73.3892,Combined,Punjab,2,1,813,592
+593,Govt. Girls Primary School   Channi Thathlan,32.1456,73.38923,Combined,Punjab,2,1,713,483
+207,Govt.Primary School for Boys Shori Chatha,32.14611,73.71833,Combined,Punjab,2,1,777,573
+168,Govt. Boys Primary School- Dheeranke Lalke,32.14742,73.63043,Combined,Punjab,1,1,510,402
+192,Govt. English Medium Primary School Baleki Nao,32.14814,73.46443,Combined,Punjab,2,1,929,679
+174,Govt. Girls  Primary School Malikwala,32.15461,73.54842,Combined,Punjab,1,1,609,446
+118,Govt. Girls Elementary School Rahgo Seyedan,32.15565,73.52135,Female,Punjab,0,2,0,774
+204,Govt.Boys Elementary School Chak Kharal,32.15917,73.72,Male,Punjab,3,0,1190,0
+119,Govt. Elementary School English Medium Muzafar Nau (East Side),32.15968,73.48406,Male,Punjab,2,0,879,0
+117,Govt.Boys Elementary School Rahgo Syedan,32.16063,73.51894,Male,Punjab,2,0,951,0
+205,Govt.Girls Primary School Chak Kharal,32.16084,73.72778,Female,Punjab,0,2,0,826
+122,Govt. English Medium Primary School- Hardo Thatha Bama,32.16354,73.42518,Combined,Punjab,1,1,471,334
+120,Govt. Girls Elementary School  Muzafar Nau,32.16405,73.47454,Female,Punjab,0,2,0,688
+171,Govt. Boys Primary School Seray Tarar,32.1662,73.58981,Combined,Punjab,2,1,740,552
+164,Govt.Boys Elementary School Marh Bashi,32.17028,73.66111,Male,Punjab,3,0,1261,0
+165,Govt. Girls Community Model School-Marh Bashi,32.17056,73.66084,Female,Punjab,0,2,0,998
+121,Govt.Girls Model Elementary School Pheroki,32.17882,73.44165,Combined,Punjab,2,1,648,477
+124,Govt. Girls Elementary School English Medium Kot Ishaq (East Side),32.18174,73.54317,Male,Punjab,3,0,1442,0
+125,Govt. Girls Elementary School  English Medium Kot Ishaq  (West Side),32.18174,73.5432,Female,Punjab,0,2,0,1164
+127,Govt. Basic Health Unit- Mehdi Abad.,32.18583,73.50667,Female,Punjab,0,2,0,908
+123,Govt. Elementary School Gujjarke,32.1868,73.45655,Combined,Punjab,1,1,603,477
+126,Govt. Girls Elementary  School Mehdi Abad,32.18739,73.51022,Male,Punjab,3,0,1239,0
+173,Govt.Girls  Elementary School Beri Wala,32.18785,73.60888,Female,Punjab,0,2,0,1166
+172,Govt.English Medium Elementary School Beri Wala,32.18822,73.60518,Male,Punjab,3,0,1445,0
+206,Govt.Girls Primary  School Kot Pannah,32.18861,73.74444,Combined,Punjab,2,1,793,570
+142,Govt.Model Primary School Kharak Bhattian,32.20446,73.61797,Combined,Punjab,2,1,860,710
+132,Govt. Boys Primary School Bukkan Kalan (Male),32.20752,73.56857,Male,Punjab,2,0,1114,0
+133,Govt. Boys Primary School Bukkan Kalan (Female),32.20752,73.5686,Female,Punjab,0,2,0,859
+163,Govt.Boys English Medium Elementary School Chak Ghazi,32.20776,73.70163,Combined,Punjab,2,2,871,748
+134,Govt.Boys Elementary School Mohallah Jahangir Pura- Vanike Tarar East Side,32.21003,73.585,Male,Punjab,3,0,1852,0
+135,Govt.Boys Elementary School Mohallah Jahangir Pura- Vanike Tarar West Side,32.21003,73.58503,Female,Punjab,0,2,0,1373
+159,Govt. Boys High School Ramke Chatha- (East Side),32.21138,73.66402,Male,Punjab,3,0,1362,0
+160,Govt. Boys High School Ramke Chatha- (West Side),32.21138,73.66405,Female,Punjab,0,2,0,1057
+161,Govt.Girls High School Ramke Chatha (East Side),32.21152,73.66432,Combined,Punjab,2,1,716,550
+162,Govt.Girls High School Ramke Chatha (West Side),32.21152,73.66435,Combined,Punjab,2,2,749,620
+129,Govt.Girls Elementary School English Medium Chak Sajada,32.21528,73.52361,Combined,Punjab,2,1,730,549
+136,Govt. Higher Secondary School Vanike Tarar (East Side),32.21669,73.58215,Male,Punjab,3,0,1324,0
+139,Govt. Higher Secondary School Vanike Tarar  (West Side),32.21669,73.58218,Male,Punjab,2,0,1087,0
+140,Govt. Higher Secondary School Vanike Tarar  (South Side),32.21669,73.58221,Female,Punjab,0,2,0,852
+137,Govt.Girls Higher Secondary School Vanike Tarar  West Side,32.21795,73.58298,Female,Punjab,0,2,0,1090
+138,Govt.Girls Higher Secondary School Vanike Tarar  East Side,32.21795,73.58301,Combined,Punjab,2,2,760,637
+146,Govt.Boys Primary School- Kot Pir Muhammad,32.22192,73.59419,Combined,Punjab,2,1,853,558
+130,Govt. Girls Elementary School Behak Ahmed Yar     (East Side),32.22937,73.53773,Male,Punjab,2,0,1100,0
+131,Govt. Girls Elementary School Behak Ahmed Yar (West Side),32.22937,73.53776,Female,Punjab,0,2,0,834
+141,Govt.Primary School Kot Qadir Bukhsh,32.23328,73.55949,Combined,Punjab,2,1,825,674
+145,Govt. Girls Primary School Kot Jan Muhammad,32.24059,73.57497,Combined,Punjab,2,1,626,485
+147,Govt.  Girls Elementary School Asadullah Pur,32.24584,73.64832,Combined,Punjab,2,1,729,594
+158,Govt.Girls Elementary School Amrao Kalan,32.24603,73.64994,Combined,Punjab,1,1,617,476
+148,Govt. Boys Primary School- Bhirri Chatha,32.24665,73.67368,Combined,Punjab,2,1,823,641
+151,Govt. Girls Community Model Elemantary School-  Sooianwala.,32.24888,73.70143,Male,Punjab,2,0,1107,0
+149,Govt.Secondary School Sooianwala (East Side),32.24967,73.70301,Male,Punjab,3,0,1484,0
+150,Govt.Secondary School Sooianwala (West Side),32.24967,73.70304,Female,Punjab,0,2,0,1150
+152,Govt. Girls Higher Secondary School Sooianwala,32.25006,73.69991,Female,Punjab,0,2,0,902
+143,Govt.Elementary School Allowdinke Kalan (East Side),32.26578,73.62803,Male,Punjab,2,0,1091,0
+144,Govt.Elementary School Allowdinke Kalan (West Side),32.26578,73.62806,Female,Punjab,0,2,0,850
+153,Govt.English Medium Primary School Nakki Chatha (East Side),32.27592,73.71297,Male,Punjab,2,0,984,0
+154,Govt.English Medium Primary School Nakki Chatha (West Side),32.27592,73.713,Female,Punjab,0,2,0,768
+155,Govt. Boys Primary School Qadar Abad Colony (Kotli Daim),32.29135,73.69019,Combined,Punjab,2,1,760,594
+156,Govt. English Medium Primary School Channi Ghula,32.30105,73.69157,Male,Punjab,3,0,1396,0
+157,Govt. Girls Primary School Channi Ghula,32.30108,73.69159,Female,Punjab,0,2,0,1032

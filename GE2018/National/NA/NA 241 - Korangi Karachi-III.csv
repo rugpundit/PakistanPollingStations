@@ -1,15 +1,15 @@
-PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
- 22 - Khan Public Sec.School (Combined),24.84635,67.13457,Combined,Sindh,2,2,922,548
- 19 - GBSS School Bilal Colony (Combined),24.84782,67.13522,Combined,Sindh,2,2,1223,780
- 18 - GBSS School Bilal Colony (Combined),24.84788,67.13787,Combined,Sindh,2,2,1357,755
- 20 - Tauheed Public Sec.School (Combined),24.84938,67.11789,Combined,Sindh,2,2,1081,647
- 16 - Takbeer Public School- Bilal Colony (Combined),24.85052,67.13273,Combined,Sindh,2,2,1130,661
- 21 - Hazrat Bilal Public School- Bilal Colony (Combined),24.85134,67.13934,Combined,Sindh,2,2,1338,750
- 15 - Sana Grammar High School Bilal Colony   (Combined),24.85232,67.13284,Combined,Sindh,2,2,1370,715
- 17 - GBPS Muhammad Ali Goth Sector 8/C (Combined),24.85421,67.13676,Combined,Sindh,2,2,1164,725
- 24 - GBPS Muhammad Ali Goth Sector 8/C (Combined),24.85421,67.13679,Combined,Sindh,2,2,1362,779
- 13 - Knowledge Public School- Bilal Colony (Combined),24.85549,67.13409,Combined,Sindh,2,2,1198,611
- 14 - Kings (Smart) School- Bilal Colony (Combined),24.85549,67.13412,Combined,Sindh,2,2,823,459
- 144 - Soch Foundation Dispensary Landhi  (Combined),24.85809,67.15061,Combined,Sindh,2,2,1302,1011
- 145 - Soch Foundation Dispensary Landhi  (Combined),24.85809,67.15064,Combined,Sindh,2,2,1002,831
- 140 - Allied Schools Gul Millat (Combined),24.86045,67.1565,Combined,Sindh,2,2,1140,902
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+22,Khan Public Sec.School (Combined),24.84635,67.13457,Combined,Sindh,2,2,922,548
+19,GBSS School Bilal Colony (Combined),24.84782,67.13522,Combined,Sindh,2,2,1223,780
+18,GBSS School Bilal Colony (Combined),24.84788,67.13787,Combined,Sindh,2,2,1357,755
+20,Tauheed Public Sec.School (Combined),24.84938,67.11789,Combined,Sindh,2,2,1081,647
+16,Takbeer Public School- Bilal Colony (Combined),24.85052,67.13273,Combined,Sindh,2,2,1130,661
+21,Hazrat Bilal Public School- Bilal Colony (Combined),24.85134,67.13934,Combined,Sindh,2,2,1338,750
+15,Sana Grammar High School Bilal Colony   (Combined),24.85232,67.13284,Combined,Sindh,2,2,1370,715
+17,GBPS Muhammad Ali Goth Sector 8/C (Combined),24.85421,67.13676,Combined,Sindh,2,2,1164,725
+24,GBPS Muhammad Ali Goth Sector 8/C (Combined),24.85421,67.13679,Combined,Sindh,2,2,1362,779
+13,Knowledge Public School- Bilal Colony (Combined),24.85549,67.13409,Combined,Sindh,2,2,1198,611
+14,Kings (Smart) School- Bilal Colony (Combined),24.85549,67.13412,Combined,Sindh,2,2,823,459
+144,Soch Foundation Dispensary Landhi  (Combined),24.85809,67.15061,Combined,Sindh,2,2,1302,1011
+145,Soch Foundation Dispensary Landhi  (Combined),24.85809,67.15064,Combined,Sindh,2,2,1002,831
+140,Allied Schools Gul Millat (Combined),24.86045,67.1565,Combined,Sindh,2,2,1140,902

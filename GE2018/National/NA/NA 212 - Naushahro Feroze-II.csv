@@ -1,320 +1,320 @@
-PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
- 41 - GPS Khamiso Dahri,26.55946,68.09499,Combined,Sindh,2,1,672,449
- 53 - GPS Hidayatullah Dahri,26.56028,67.99944,Combined,Sindh,2,1,537,384
- 40 - GPS Jhando Khan Solangi (Improvised),26.56294,68.13085,Combined,Sindh,2,2,627,544
- 49 - GPS Hayat Sethar (Improvised),26.57383,68.05322,Combined,Sindh,1,1,484,366
- 48 - GPS Abdul Ghafoor Bughio,26.57559,68.06916,Combined,Sindh,1,1,475,393
- 47 - GPS Agha Form,26.58142,68.11852,Combined,Sindh,2,1,591,440
- 79 - GPS Tapal Machi  (Male) (improvised),26.58321,67.97802,Male,Sindh,3,0,1016,0
- 80 - GPS Tapal Machi  (Female),26.58321,67.97805,Female,Sindh,0,3,0,914
- 81 - GPS Bungal Burdi,26.59204,67.95513,Combined,Sindh,1,1,525,424
- 52 - GPS Bahadur Jiskani,26.59262,68.01645,Combined,Sindh,1,1,481,419
- 51 - GPS Dodo Bhatti,26.59541,68.04862,Combined,Sindh,1,1,239,159
- 39 - GPS Soonhari Form,26.59642,68.12975,Combined,Sindh,2,2,809,644
- 42 - GPS Mir Hassan Solangi (Male) (Improvised),26.59818,68.05848,Male,Sindh,3,0,1047,0
- 43 - GPS Mir Hassan Solangi  (Female),26.59818,68.05851,Female,Sindh,0,3,0,872
- 77 - GPS Saifal Jiskani,26.59885,68.01288,Combined,Sindh,2,2,753,647
- 44 - GPS Haji Muhammad Hassan Korai,26.59888,68.10059,Combined,Sindh,1,1,506,381
- 276 - GPS Ghullam Nabi Dahri,26.60625,68.18925,Combined,Sindh,1,1,487,293
- 277 - GGPS Ghullam Nabi Dahri,26.60625,68.18928,Combined,Sindh,2,1,743,526
- 45 - GPS Shah Muhammad Korai,26.60639,68.12361,Combined,Sindh,1,1,550,450
- 71 - GHS Old Gachero,26.60781,67.94165,Combined,Sindh,2,2,844,737
- 89 - GPS Muhammad Saleh Bughio,26.60823,67.8077,Combined,Sindh,1,1,305,190
- 72 - GPS Old Gachero,26.60841,67.94172,Combined,Sindh,2,2,722,605
- 50 - GPS Lundo,26.60888,68.03333,Combined,Sindh,2,2,719,655
- 86 - GPS Ismail Bughio,26.61046,67.96998,Combined,Sindh,2,2,676,591
- 46 - GPS Rasool Abad,26.61147,68.12006,Combined,Sindh,2,2,700,519
- 274 - GPS Masurjiwah,26.61905,68.21254,Combined,Sindh,2,2,883,766
- 273 - GPS Tagri,26.62061,68.22666,Combined,Sindh,2,2,754,648
- 85 - GMS Maree,26.6207,67.97145,Combined,Sindh,1,1,338,314
- 54 - GHS Mubarak Buriro (Male),26.62094,68.10757,Male,Sindh,2,0,952,0
- 55 - GHS Mubarak Buriro (Female),26.62094,68.1076,Female,Sindh,0,2,0,742
- 56 - GHS Mubarak Buriro,26.62094,68.10763,Combined,Sindh,2,2,803,726
- 281 - Govt: Middle School Jan Muhammad Siyal,26.62128,68.14096,Combined,Sindh,2,2,718,506
- 84 - GPS Maree,26.62164,67.97775,Combined,Sindh,2,2,791,609
- 62 - GPS Murtaza Abad (Improvised),26.6223,68.13972,Combined,Sindh,2,1,630,483
- 76 - GMS Abdul Hameed Panjabi,26.62429,67.99872,Combined,Sindh,2,1,513,430
- 75 - GPS New Gachero,26.63177,68.00298,Combined,Sindh,2,2,598,506
- 82 - GPS (Boys)  Heesab,26.63251,67.98033,Combined,Sindh,1,1,544,417
- 83 - GMS Raheem Chand,26.63272,67.98009,Combined,Sindh,1,1,491,435
- 275 - GPS Berki,26.63326,68.24824,Combined,Sindh,2,1,593,431
- 87 - GPS Leghari Bijirani,26.63449,67.91826,Combined,Sindh,2,2,697,570
- 108 - GPS Shafi Muhammad Solangi,26.63619,68.03716,Combined,Sindh,2,2,711,608
- 88 - GPS Wahid Bux Leghari,26.64136,67.92319,Combined,Sindh,1,1,424,350
- 73 - GPS Sher Khan Dal,26.64138,67.989,Combined,Sindh,2,2,772,615
- 61 - GHS Qammaruddin Chandio,26.64164,68.12497,Combined,Sindh,1,1,321,326
- 63 - GHS Qammaruddin Chandio,26.64164,68.125,Combined,Sindh,2,2,1009,745
- 105 - GPS Wali Muhammad Sabki (Male),26.64329,68.0744,Male,Sindh,2,0,882,0
- 106 - GPS Wali Muhammad Sabki (Female),26.64329,68.07443,Female,Sindh,0,2,0,793
- 74 - GPS Ishaque Chand Village Nihal Mari,26.64506,67.99631,Combined,Sindh,2,2,849,677
- 269 - GPS Ghullam Ali Khaskheli,26.64764,68.31107,Combined,Sindh,2,2,873,663
- 107 - GPS  Village Mukrari,26.64879,68.03926,Combined,Sindh,2,2,678,631
- 69 - GPS Sanwal Joo Khoro (Male),26.6511,68.01261,Male,Sindh,4,0,1371,0
- 282 - GPS Umer Chandio,26.65214,68.14944,Combined,Sindh,2,1,616,456
- 36 - Animal Husbandry Moro,26.65283,67.99354,Combined,Sindh,1,1,578,423
- 37 - Animal Husbandry Moro  (Male),26.65283,67.99357,Male,Sindh,3,0,1065,0
- 38 - Animal Husbandry Moro   (Female),26.65283,67.9936,Female,Sindh,0,2,0,738
- 70 - GPS Usman Memon (Female),26.653,68.00903,Female,Sindh,0,4,0,1245
- 2 - Govt: Girls College Moro (Male),26.6541,67.99801,Male,Sindh,3,0,1163,0
- 3 - Govt: Girls College Moro (Female),26.6541,67.99804,Female,Sindh,0,3,0,942
- 92 - GPS Dittal Korai,26.65492,67.92921,Combined,Sindh,2,1,587,495
- 20 - GPS Ramzan Chandio,26.65556,67.99328,Combined,Sindh,2,2,1043,866
- 268 - GPS Khando Mari,26.65726,68.28547,Combined,Sindh,2,2,871,676
- 13 - GPS Ghanhwar Khan Chandio,26.65903,68.0042,Combined,Sindh,2,2,842,664
- 29 - GPS Shah Abdul Latif Moro,26.65927,67.99853,Combined,Sindh,2,2,665,539
- 58 - GPS Allah Bux Solangi (Improvised),26.65974,68.13207,Combined,Sindh,2,1,544,324
- 15 - Govt Vocational institute Moro (Male),26.66023,67.99363,Male,Sindh,3,0,1071,0
- 16 - Govt Vocational institute Moro (Female),26.66023,67.99366,Female,Sindh,0,2,0,886
- 30 - GPS shadi Khan Dhilo Moro(Male),26.66071,67.99586,Male,Sindh,3,0,1018,0
- 31 - GPS shadi Khan Dhilo Moro(Female),26.66071,67.99589,Female,Sindh,0,2,0,882
- 32 - GPS shadi Khan Dhilo Moro,26.66071,67.99592,Combined,Sindh,2,2,983,793
- 27 - GGPS Near Imambargah Moro (Male),26.66089,67.99363,Male,Sindh,4,0,1645,0
- 28 - GGPS Near Imambargah Moro (Female),26.66089,67.99366,Female,Sindh,0,4,0,1467
- 33 - GGPS Near Imambargah Moro,26.66089,67.99369,Combined,Sindh,1,1,419,318
- 17 - GPS Main Urdu,26.6614,67.99641,Combined,Sindh,2,2,792,685
- 7 - GPS Main Sindhi Moro (Male),26.663,68.00033,Male,Sindh,3,0,1059,0
- 8 - GPS Main Sindhi Moro (Female),26.663,68.00036,Female,Sindh,0,2,0,860
- 9 - GPS Main Sindhi Moro,26.663,68.00039,Combined,Sindh,2,2,682,606
- 100 - GPS Sahib Khan Chandio,26.66423,67.96255,Combined,Sindh,2,2,781,583
- 11 - Muncipial Committee Office Moro (Male),26.66499,68.00159,Male,Sindh,3,0,1183,0
- 12 - Muncipial Committee Office Moro (Female),26.66499,68.00162,Female,Sindh,0,3,0,1002
- 4 - Muncipial Committee  Moro  (Male),26.66499,68.00165,Male,Sindh,4,0,1281,0
- 5 - Muncipial Committee  Moro  (Female),26.66499,68.00168,Female,Sindh,0,3,0,1053
- 10 - GPS Lalo Machi,26.66545,67.98113,Combined,Sindh,2,2,906,793
- 280 - GMS Allah Ditto Jatoi,26.66684,68.16228,Combined,Sindh,2,1,763,471
- 278 - GPS Allah Dito Jatoi (Male),26.66685,68.16213,Male,Sindh,3,0,1407,0
- 279 - GPS Allah Dito Jatoi (Female),26.66685,68.16216,Female,Sindh,0,2,0,851
- 59 - GPS Allah Ditto Malikani,26.66685,68.16219,Combined,Sindh,1,1,458,383
- 1 - GMS Dastagir Colony (Improvised),26.667,68.00566,Combined,Sindh,2,2,866,698
- 18 - GPS Dastagir colony Moro,26.667,68.00569,Combined,Sindh,1,1,502,471
- 19 - GPS Dastagir colony Moro,26.667,68.00572,Combined,Sindh,2,2,1048,848
- 25 - GPS Sayed Ahmed shah Moro,26.66706,67.99347,Combined,Sindh,2,2,604,501
- 6 - GGHS Moro,26.66811,68.00066,Combined,Sindh,1,1,381,356
- 21 - GPS Gulshan-e-Mukhtiar Moro,26.66979,68.00403,Combined,Sindh,1,1,480,380
- 67 - GPS Dado Siyal (Male),26.67038,67.96961,Male,Sindh,3,0,1288,0
- 68 - GPS Dado Siyal  (Female),26.67038,67.96964,Female,Sindh,0,2,0,949
- 22 - G. Elementary College Moro (Male),26.67073,67.99921,Male,Sindh,3,0,1155,0
- 23 - G. Elementary College Moro  (Female),26.67073,67.99924,Female,Sindh,0,3,0,937
- 26 - G. Elementary College Moro,26.67073,67.99927,Combined,Sindh,2,2,598,511
- 24 - G. Elementary College Moro,26.67097,67.99973,Combined,Sindh,2,2,896,729
- 14 - GHS Boys Moro,26.67374,68.00939,Combined,Sindh,2,2,747,613
- 258 - GGMS Darya Khan Mari (Male),26.67558,68.28659,Male,Sindh,4,0,1414,0
- 259 - GGMS Darya Khan Mari (Female),26.67558,68.28662,Female,Sindh,0,2,0,995
- 257 - Urdu Primary School Darya Khan Mari,26.67648,68.28802,Combined,Sindh,2,2,898,610
- 103 - GPS Sardar Khan Lund,26.6792,68.02789,Combined,Sindh,2,2,792,655
- 57 - GPS Jumo Chandio,26.67997,68.11883,Combined,Sindh,2,2,741,516
- 260 - Basic Health Center D.K.Mari (Male),26.67997,68.28235,Male,Sindh,3,0,1087,0
- 261 - Basic Health Center D.K.Mari (Female),26.67997,68.28238,Female,Sindh,0,2,0,814
- 104 - GGPS Sardar Khan Lund,26.68139,68.02507,Combined,Sindh,2,2,888,697
- 64 - GMS Daris (Male),26.68362,68.00396,Male,Sindh,4,0,1426,0
- 65 - GMS Daris (Female),26.68362,68.00399,Female,Sindh,0,3,0,1068
- 66 - GPS Daris,26.68362,68.00402,Combined,Sindh,2,2,625,634
- 60 - GPS Allah Bux Depar,26.68406,68.0951,Combined,Sindh,2,2,846,618
- 102 - GHS Shah Muhammad Panjabi,26.68415,68.05659,Combined,Sindh,1,1,415,313
- 95 - GPS Fatoo Balal,26.68535,67.94614,Combined,Sindh,2,1,590,466
- 266 - GPS Gul Muhammad Khaskheli (Male) (Improvised),26.68544,68.27748,Male,Sindh,4,0,1518,0
- 267 - GPS Gul Muhammad Khaskheli (Female),26.68544,68.27751,Female,Sindh,0,3,0,1205
- 283 - GPS Allah Bux Mari  (Male),26.69452,68.29572,Male,Sindh,3,0,1116,0
- 284 - GPS Allah Bux Mari  (Female),26.69452,68.29575,Female,Sindh,0,3,0,969
- 97 - GGPS Tando Lashari,26.69599,68.06639,Combined,Sindh,2,1,572,456
- 264 - GPS (Boys) Kahkat (Male)           ( Improvised),26.69714,68.23518,Male,Sindh,3,0,1110,0
- 265 - GPS (Boys) Kahkat (Female) (Improvised),26.69714,68.23521,Female,Sindh,0,2,0,810
- 93 - GPS Waryaso (Male),26.69828,67.94891,Male,Sindh,2,0,955,0
- 94 - GPS Waryaso (Female),26.69828,67.94894,Female,Sindh,0,2,0,869
- 262 - GPS Channari (Male) (Improvised),26.69991,68.26348,Male,Sindh,3,0,1114,0
- 263 - GPS Channari (Female) (Improvised),26.69991,68.26351,Female,Sindh,0,2,0,708
- 153 - GPS Kandhra Colony (Male),26.70219,67.92992,Male,Sindh,2,0,877,0
- 154 - GPS Kandhra Colony (Female),26.70219,67.92995,Female,Sindh,0,2,0,674
- 91 - GPS Kandhra Colony,26.70222,67.92998,Combined,Sindh,1,1,379,277
- 96 - GPS Dooro Bihan,26.70349,68.05389,Combined,Sindh,1,1,489,408
- 98 - GPS Dheeran,26.7069,68.03616,Combined,Sindh,2,1,516,412
- 151 - GPS Muhammad Khan Joyo (Male),26.70795,67.91446,Male,Sindh,3,0,1105,0
- 101 - GPS Ghareebo Bihan,26.71272,68.00684,Combined,Sindh,2,2,664,534
- 155 - GPS Imam Abad,26.71532,68.04495,Combined,Sindh,2,1,565,459
- 133 - GPS Lett Nangar Khan,26.71871,67.88734,Combined,Sindh,2,2,878,791
- 285 - GPS Qadir Bux Khaskheli,26.72123,68.29446,Combined,Sindh,2,1,560,415
- 296 - GPS Talib Mari,26.72157,68.24467,Combined,Sindh,2,1,731,478
- 156 - GHS Imam Abad,26.72185,67.93035,Combined,Sindh,1,1,245,209
- 90 - GPS Sahib Khan Chandio,26.72359,68.09375,Combined,Sindh,2,1,699,577
- 297 - GPS Motar Mari,26.72492,68.25494,Combined,Sindh,2,2,777,657
- 149 - GPS Jan Muhammad Dhilo,26.72915,67.92992,Combined,Sindh,1,1,502,426
- 302 - GPS Kalro  (Male) (Improvised),26.73068,68.19169,Male,Sindh,2,0,594,0
- 303 - GPS Kalro (Female),26.73068,68.19172,Female,Sindh,0,1,0,407
- 233 - GPS Paria,26.73187,68.17129,Combined,Sindh,1,1,444,381
- 288 - GMS (Boys) Meeranpur,26.73351,68.26821,Combined,Sindh,1,1,460,334
- 289 - GMS (Boys) Meeranpur,26.73351,68.26824,Combined,Sindh,2,2,626,533
- 99 - GPS Qadir Bux Jatoi,26.73405,68.09139,Combined,Sindh,2,2,641,533
- 234 - GPS Saddique Leghari (Improvised),26.73582,68.13319,Combined,Sindh,2,1,718,470
- 116 - GPS Chando,26.7362,68.02336,Combined,Sindh,1,1,499,451
- 112 - GPS (Boys) Manaheen (Male),26.73819,68.01196,Male,Sindh,2,0,892,0
- 113 - GPS (Boys) Manaheen  (Female),26.73819,68.01199,Female,Sindh,0,2,0,792
- 304 - GPS Ahmed Khan Lashari,26.73986,68.20059,Combined,Sindh,1,1,482,330
- 305 - GPS Mehmood Memon           ( Improvised),26.73986,68.20062,Combined,Sindh,2,2,764,629
- 231 - GHS Phull  (Male),26.7401,68.16661,Male,Sindh,4,0,1845,0
- 232 - GHS Phull (Female),26.7401,68.16664,Female,Sindh,0,3,0,1307
- 215 - GPS Ibrahim Mubeejo at Qalandar Bux Mubeejo,26.74115,68.10068,Combined,Sindh,2,1,716,493
- 150 - GPS Puran,26.74116,67.91924,Combined,Sindh,2,2,723,539
- 148 - GPS Chibhar Mahar,26.7416,67.95198,Combined,Sindh,2,2,797,648
- 114 - GHS Sadhuja,26.74209,68.06579,Combined,Sindh,2,2,980,803
- 115 - GPS Sadhuja,26.74249,68.06458,Combined,Sindh,1,1,528,352
- 230 - GPS Muhalla Raj Muhammad Phull,26.74394,68.16199,Combined,Sindh,2,2,817,654
- 206 - GPS Gul Muhammad Mubeejo,26.75426,68.09261,Combined,Sindh,2,1,722,534
- 286 - GPS Juman Shah (Male),26.75732,68.29336,Male,Sindh,3,0,1056,0
- 287 - GPS Juman Shah  (Female),26.75732,68.29339,Female,Sindh,0,2,0,857
- 110 - GPS Hote Khan Behrani (Male),26.75931,68.00066,Male,Sindh,3,0,969,0
- 111 - GPS Hote Khan Behrani  (Female),26.75931,68.00069,Female,Sindh,0,3,0,872
- 147 - GPS Allah Dad Almani,26.75993,67.91831,Combined,Sindh,2,2,831,686
- 307 - GPS Saddique Abad,26.76149,68.16892,Combined,Sindh,2,2,793,621
- 209 - GPS Sakhi Mubarak,26.76256,68.04551,Combined,Sindh,1,1,509,413
- 109 - GPS Jumo Norio,26.76413,67.9835,Combined,Sindh,1,1,262,260
- 308 - GPS Abrahu (Improvised),26.76466,68.17284,Combined,Sindh,1,1,386,301
- 146 - GPS  Ghazi Sabki,26.7647,67.96909,Combined,Sindh,2,2,639,529
- 145 - GPS Boys Ubhro Shah,26.76517,67.95979,Combined,Sindh,2,1,588,416
- 205 - GPS Noorpur,26.77048,68.09453,Combined,Sindh,1,1,505,376
- 207 - GHS Jumo Wassan  (Male),26.77405,68.0835,Male,Sindh,3,0,1026,0
- 208 - GHS Jumo Wassan  (Female),26.77405,68.08353,Female,Sindh,0,2,0,759
- 243 - GPS Sindhi Boys Paddidan(Male),26.77409,68.30238,Male,Sindh,3,0,1063,0
- 244 - GPS Sindhi Boys Paddidan (Female),26.77409,68.30241,Female,Sindh,0,2,0,918
- 239 - GGHS Paddidan  (Male),26.77519,68.29831,Male,Sindh,3,0,1214,0
- 240 - GGHS Paddidan   (Female),26.77519,68.29834,Female,Sindh,0,2,0,913
- 248 - GGHS Paddidan (Male),26.77519,68.29837,Male,Sindh,3,0,1038,0
- 249 - GGHS Paddidan  (Female),26.77519,68.2984,Female,Sindh,0,2,0,773
- 300 - GPS Ghazi Khan Waswano(Male),26.77573,68.2118,Male,Sindh,2,0,1007,0
- 301 - GPS Ghazi Khan Waswano(Female),26.77573,68.21183,Female,Sindh,0,2,0,910
- 250 - Technicial College New Built Paddidan,26.77603,68.29593,Combined,Sindh,2,2,792,629
- 241 - Govt: Health Center Paddidan (Male),26.77822,68.30196,Male,Sindh,3,0,1145,0
- 242 - Govt: Health Center Paddidan (Female),26.77822,68.30199,Female,Sindh,0,2,0,915
- 142 - GHS Old Malik,26.78003,67.91183,Combined,Sindh,2,2,577,546
- 251 - Govt: Urdu Primary School Railway Colony Paddidan,26.78072,68.28173,Combined,Sindh,1,1,428,331
- 238 - GPS Attar Mari,26.78105,68.11497,Combined,Sindh,2,2,579,525
- 143 - GPS (New) Malik,26.78119,67.91537,Combined,Sindh,2,2,864,726
- 131 - PWD Bunglow Mithio Khoso ( Improvised),26.78143,67.98553,Combined,Sindh,2,2,777,626
- 132 - PWD Bunglow Mithio Khoso (Improvised),26.78143,67.98556,Combined,Sindh,2,2,656,583
- 245 - GPS Near Cooton Factory Paddidan Station (Male),26.78259,68.28302,Male,Sindh,2,0,989,0
- 246 - GPS Near Cooton Factory Paddidan Station  (Female),26.78259,68.28305,Female,Sindh,0,2,0,804
- 229 - GPS Abdullah Phull,26.78337,68.14877,Combined,Sindh,2,2,934,685
- 294 - GGMS Cheeho (Male),26.78376,68.25957,Male,Sindh,3,0,1281,0
- 295 - GGMS Cheeho (Female),26.78376,68.2596,Female,Sindh,0,3,0,999
- 247 - GGHS Naer Sadawah Paddidan,26.78421,68.27915,Combined,Sindh,2,2,824,582
- 291 - GHS Cheeho,26.78444,68.26399,Combined,Sindh,1,1,572,419
- 292 - GHS Cheeho (Male),26.78444,68.26402,Male,Sindh,3,0,1310,0
- 293 - GHS Cheeho (Female),26.78444,68.26405,Female,Sindh,0,3,0,1179
- 130 - GPS Hote Khan Chandio,26.78582,67.96372,Combined,Sindh,1,1,371,302
- 298 - GPS  Dangeja,26.78862,68.22159,Combined,Sindh,2,1,623,485
- 299 - GMS Dangeja,26.78906,68.22189,Combined,Sindh,2,1,636,486
- 290 - GPS Yousif Rajper,26.78948,68.24481,Combined,Sindh,2,2,786,621
- 128 - GPS New Jatoi (Female),26.78969,67.97565,Female,Sindh,0,4,0,1251
- 138 - GPS New Jatoi,26.78969,67.97568,Combined,Sindh,1,1,459,380
- 235 - GPS Jiskani,26.7909,68.13338,Combined,Sindh,2,2,930,733
- 119 - GHS Deparja (Male),26.79094,67.94042,Male,Sindh,4,0,1583,0
- 120 - GHS Deparja  (Female),26.79094,67.94045,Female,Sindh,0,4,0,1279
- 212 - GPS Daree Wara Bohia (Male),26.79152,68.04595,Male,Sindh,2,0,920,0
- 213 - GPS Daree Wara Bohia  (Female),26.79152,68.04598,Female,Sindh,0,2,0,789
- 129 - GPS Mango Khan Dahar,26.79237,67.95668,Combined,Sindh,2,1,723,551
- 252 - GPS Sinyari,26.79237,68.28886,Combined,Sindh,1,1,439,381
- 136 - GHS New Jatoi (Male),26.79446,67.98779,Male,Sindh,4,0,1339,0
- 137 - GHS New Jatoi (Female),26.79446,67.98782,Female,Sindh,0,3,0,1075
- 127 - GGPS New Jatoi (Male),26.79483,67.98692,Male,Sindh,4,0,1444,0
- 139 - GPS Kamal Khoso,26.79487,68.00907,Combined,Sindh,2,2,658,532
- 210 - GPS Razi Khoso (Male),26.79593,68.03638,Male,Sindh,3,0,1074,0
- 211 - GPS Razi Khoso (Female),26.79593,68.03641,Female,Sindh,0,2,0,897
- 255 - GHS Haroon Shar (Male),26.79636,68.32984,Male,Sindh,3,0,1138,0
- 256 - GHS Haroon Shar  (Female),26.79636,68.32987,Female,Sindh,0,2,0,868
- 237 - GGPS Nather Deetha (Female)    ( Improvised),26.80104,68.11875,Female,Sindh,0,2,0,878
- 236 - GPS Nather Deetha (Male),26.8014,68.1191,Male,Sindh,3,0,1084,0
- 253 - GPS Rankoon (Male),26.80542,68.29303,Male,Sindh,3,0,1034,0
- 254 - GPS Rankoon (Female),26.80542,68.29306,Female,Sindh,0,2,0,856
- 126 - GGPS Thohra (Female),26.80715,67.97214,Female,Sindh,0,3,0,982
- 125 - GPS (Boys) Thohra  (Male),26.80733,67.97507,Male,Sindh,3,0,1136,0
- 214 - GGPS Haji Khan Khoso,26.80774,68.06375,Combined,Sindh,2,2,973,736
- 221 - GPS Attal Bohio (Male),26.8149,68.09119,Male,Sindh,2,0,902,0
- 222 - GPS Attal Bohio  (Female),26.8149,68.09122,Female,Sindh,0,2,0,793
- 218 - GPS Muhammad Hassan Khokhar,26.81543,68.10439,Combined,Sindh,2,2,1157,1057
- 200 - GPS Dhani Bux Jatoi,26.81586,68.03484,Combined,Sindh,2,2,509,428
- 135 - GPS Boys Jam Doongah,26.81868,67.97898,Combined,Sindh,2,2,925,677
- 121 - GHS Old Jatoi (Male),26.82623,67.95598,Male,Sindh,2,0,698,0
- 122 - GHS Old Jatoi (Female),26.82623,67.95601,Female,Sindh,0,2,0,528
- 123 - GPS Old Jatoi,26.82632,67.95642,Combined,Sindh,2,2,750,525
- 124 - GPS Old Jatoi,26.82632,67.95645,Combined,Sindh,1,1,244,173
- 227 - GGPS Buxo Khan Rind (Male),26.82849,68.12851,Male,Sindh,2,0,946,0
- 228 - GGPS Buxo Khan Rind (Female),26.82849,68.12854,Female,Sindh,0,2,0,927
- 199 - GPS Main School Abran,26.82857,68.02402,Combined,Sindh,2,2,1318,986
- 134 - GPS Boys Chattan Shah,26.83037,67.98797,Combined,Sindh,2,2,736,603
- 219 - GPS Adh Khahi @ Jumo Mirbahar  (Male),26.83201,68.10613,Male,Sindh,2,0,907,0
- 220 - GPS Adh Khahi @ Jumo Mirbahar  (Female),26.83201,68.10616,Female,Sindh,0,2,0,729
- 167 - GHS Madrsa  N.Feroze (Male),26.83689,68.12063,Male,Sindh,3,0,1081,0
- 168 - GHS Madrsa  N.Feroze (Female),26.83689,68.12066,Female,Sindh,0,3,0,946
- 163 - GPS Main Sindhi N.Feroze (Male),26.83715,68.12109,Male,Sindh,4,0,1319,0
- 164 - GPS Main Sindhi N.Feroze (Female),26.83715,68.12112,Female,Sindh,0,3,0,1149
- 165 - Govt: Higher Secondary School Girls N.Feroze (Male),26.8373,68.11852,Male,Sindh,4,0,1386,0
- 166 - Govt: Higher Secondary School Girls N.Feroze (Female),26.8373,68.11855,Female,Sindh,0,3,0,1130
- 161 - GPS Urdu N.Feroze (Male),26.83913,68.12312,Male,Sindh,4,0,1267,0
- 162 - GPS Urdu N.Feroze (Female),26.83913,68.12315,Female,Sindh,0,3,0,1019
- 117 - GPS Murad Koreejo,26.83919,67.96497,Combined,Sindh,2,2,677,615
- 118 - GPS (Boys) Sehra,26.83919,67.965,Combined,Sindh,2,2,940,719
- 159 - GPS Khalifa Ghullam Shabir Khalifa Muhalla (Male),26.84243,68.12493,Male,Sindh,3,0,999,0
- 160 - GPS Khalifa Ghullam Shabir Khalifa Muhalla (Female),26.84243,68.12496,Female,Sindh,0,2,0,932
- 170 - DHO Office N.Feroze (Male),26.84314,68.11097,Male,Sindh,4,0,2190,0
- 171 - DHO Office N.Feroze (Female),26.84314,68.111,Female,Sindh,0,4,0,1753
- 157 - GPS Saleem Pur N.Feroze (Male),26.84423,68.12251,Male,Sindh,3,0,1017,0
- 158 - GPS Saleem Pur N.Feroze (Female),26.84423,68.12254,Female,Sindh,0,2,0,910
- 204 - GPS Bhurand,26.84619,68.0457,Combined,Sindh,1,1,643,518
- 226 - GPS Wada Dangraj,26.84798,68.08741,Combined,Sindh,2,2,827,698
- 169 - GPS Wapda Colony N.Feroze,26.84908,68.13089,Combined,Sindh,2,2,602,508
- 172 - GPS Amir Bux Mari N.Feroze,26.85018,68.10342,Combined,Sindh,2,2,686,584
- 203 - GPS Uris Bhatti,26.85056,68.03267,Combined,Sindh,2,2,909,724
- 140 - PWD Bunglow Kareeja,26.85199,67.95933,Combined,Sindh,1,1,277,208
- 223 - GPS Khouro Sharif  (Male) (Improsied),26.85233,68.15494,Male,Sindh,4,0,1759,0
- 224 - GPS Khouro Sharif  (Female),26.85233,68.15497,Female,Sindh,0,3,0,1310
- 225 - GPS Khouro Sharif,26.85233,68.155,Combined,Sindh,1,1,304,201
- 194 - GPS Mellayo Chahan @ Dhani Bux Panhwar (Male),26.85581,67.98724,Male,Sindh,3,0,1049,0
- 195 - GPS Mellayo Chahan @ Dhani Bux Panhwar (Female),26.85581,67.98727,Female,Sindh,0,2,0,787
- 173 - GPS Misri Chandio,26.85629,68.07591,Combined,Sindh,1,1,489,421
- 201 - GHS Khair Muhammad Bohio (Male),26.85693,68.06432,Male,Sindh,3,0,1169,0
- 202 - GHS Khair Muhammad Bohio (Female),26.85693,68.06435,Female,Sindh,0,3,0,974
- 197 - Animal Husbandary Hospital  Polling Station (Male),26.85913,68.00591,Male,Sindh,3,0,1269,0
- 198 - Animal Husbandary Hospital  Polling Station (Female),26.85913,68.00594,Female,Sindh,0,3,0,1167
- 141 - GPS Sher Muhammad Jatoi (improvised),26.86111,67.88625,Combined,Sindh,2,1,677,359
- 189 - GPS Abji  (Male),26.86793,67.9837,Male,Sindh,2,0,924,0
- 190 - GPS Abji   (Female),26.86793,67.98373,Female,Sindh,0,2,0,768
- 193 - GPS Abji,26.86793,67.98376,Combined,Sindh,1,1,542,501
- 180 - Govt: Elementary College Mithiani (Male),26.86887,67.98212,Male,Sindh,3,0,1223,0
- 181 - Govt: Elementary College Mithiani (Female),26.86887,67.98215,Female,Sindh,0,3,0,999
- 182 - Govt: Elementary College Mithiani (Male),26.86887,67.98218,Male,Sindh,3,0,1164,0
- 183 - Govt: Elementary College Mithiani (Female),26.86887,67.98221,Female,Sindh,0,2,0,961
- 178 - GHS MithianI,26.86917,67.97604,Combined,Sindh,2,2,662,564
- 184 - GPS Mithiani No.1.               ( Muslim),26.86938,67.97976,Combined,Sindh,2,2,581,505
- 196 - GPS Urdu  Abji,26.86969,67.98386,Combined,Sindh,1,1,483,435
- 191 - GGPS Abji (Male ),26.87173,67.98356,Male,Sindh,2,0,891,0
- 192 - GGPS Abji (Female),26.87173,67.98359,Female,Sindh,0,2,0,749
- 179 - GPS Mithiani (Malik Muhalla),26.8721,67.97847,Combined,Sindh,1,1,485,391
- 174 - GPS Jan Muhammad Tagar,26.87709,68.09525,Combined,Sindh,2,1,539,440
- 175 - GPS Ismail Mari,26.88317,68.06075,Combined,Sindh,2,2,645,523
- 176 - GPS Thatt Goraho,26.8899,68.00364,Combined,Sindh,2,2,1131,808
- 177 - GPS Thatt Goraho,26.8899,68.00367,Combined,Sindh,2,2,992,753
- 185 - GPS Jumo Panhwar (Male),26.8974,68.01147,Male,Sindh,4,0,1259,0
- 186 - GPS Jumo Panhwar (Female),26.8974,68.0115,Female,Sindh,0,2,0,910
- 310 - GPS Arbab Ali Solangi,26.90701,68.10406,Combined,Sindh,2,1,599,446
- 315 - GHS Ghullam Muhammad Panhwar (Male),26.90793,68.02689,Male,Sindh,3,0,1003,0
- 316 - GHS Ghullam Muhammad Panhwar (Female),26.90793,68.02692,Female,Sindh,0,2,0,756
- 319 - GHS Ghullam Muhammad Panhwar (Male),26.90793,68.02695,Male,Sindh,3,0,1087,0
- 320 - GHS Ghullam Muhammad Panhwar  (Female),26.90793,68.02698,Female,Sindh,0,3,0,882
- 318 - GGPS Dalipota  (Female),26.91185,68.03448,Female,Sindh,0,2,0,845
- 321 - Basic Health Unit Dalipota (Male),26.91286,68.03405,Male,Sindh,3,0,1090,0
- 322 - Basic Health Unit Dalipota  (Female),26.91286,68.03408,Female,Sindh,0,3,0,905
- 312 - GPS Shafi Muhammad Waggan,26.92771,68.10406,Combined,Sindh,2,2,884,770
- 313 - GPS Nawazio Bhan (Male),26.92804,68.11964,Male,Sindh,2,0,624,0
- 314 - GGPS Nawazio Bhan (Female),26.92804,68.11967,Female,Sindh,0,2,0,582
- 187 - GPS Koure Ja Bhan,26.9309,67.99574,Combined,Sindh,2,2,701,542
- 188 - GPS Koure Ja Bhan,26.9309,67.99577,Combined,Sindh,1,1,406,333
- 328 - GPS Shafi Muhammad Siyal,26.94561,68.05138,Combined,Sindh,2,2,752,641
- 331 - GMS Bhanhoon Kolachi,26.95402,68.05434,Combined,Sindh,2,2,770,567
- 332 - GBLLS  Bhanhoon Kolachi,26.95415,68.05399,Combined,Sindh,2,2,650,482
- 152 - GPS Sanhari (Female),26.95879,68.10275,Female,Sindh,0,2,0,886
- 327 - GPS Bhorti,26.9673,68.0361,Combined,Sindh,2,1,605,427
- 330 - GPS Muhammad Umar Sahito,26.96762,68.05629,Combined,Sindh,1,1,492,398
- 324 - GHS Bhority (Female),26.96778,68.10886,Female,Sindh,0,2,0,836
- 325 - GHS Bhorty  (Male),26.96778,68.10889,Male,Sindh,3,0,1060,0
- 329 - GPS Ameer Bux Mari (Improvised),26.97296,68.05421,Combined,Sindh,2,2,753,601
- 326 - GHS Bhorty  (Female),26.97522,68.12399,Female,Sindh,0,2,0,916
- 323 - GHS Bhorty (Male),27.01324,68.12352,Male,Sindh,3,0,1091,0
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+41,GPS Khamiso Dahri,26.55946,68.09499,Combined,Sindh,2,1,672,449
+53,GPS Hidayatullah Dahri,26.56028,67.99944,Combined,Sindh,2,1,537,384
+40,GPS Jhando Khan Solangi (Improvised),26.56294,68.13085,Combined,Sindh,2,2,627,544
+49,GPS Hayat Sethar (Improvised),26.57383,68.05322,Combined,Sindh,1,1,484,366
+48,GPS Abdul Ghafoor Bughio,26.57559,68.06916,Combined,Sindh,1,1,475,393
+47,GPS Agha Form,26.58142,68.11852,Combined,Sindh,2,1,591,440
+79,GPS Tapal Machi  (Male) (improvised),26.58321,67.97802,Male,Sindh,3,0,1016,0
+80,GPS Tapal Machi  (Female),26.58321,67.97805,Female,Sindh,0,3,0,914
+81,GPS Bungal Burdi,26.59204,67.95513,Combined,Sindh,1,1,525,424
+52,GPS Bahadur Jiskani,26.59262,68.01645,Combined,Sindh,1,1,481,419
+51,GPS Dodo Bhatti,26.59541,68.04862,Combined,Sindh,1,1,239,159
+39,GPS Soonhari Form,26.59642,68.12975,Combined,Sindh,2,2,809,644
+42,GPS Mir Hassan Solangi (Male) (Improvised),26.59818,68.05848,Male,Sindh,3,0,1047,0
+43,GPS Mir Hassan Solangi  (Female),26.59818,68.05851,Female,Sindh,0,3,0,872
+77,GPS Saifal Jiskani,26.59885,68.01288,Combined,Sindh,2,2,753,647
+44,GPS Haji Muhammad Hassan Korai,26.59888,68.10059,Combined,Sindh,1,1,506,381
+276,GPS Ghullam Nabi Dahri,26.60625,68.18925,Combined,Sindh,1,1,487,293
+277,GGPS Ghullam Nabi Dahri,26.60625,68.18928,Combined,Sindh,2,1,743,526
+45,GPS Shah Muhammad Korai,26.60639,68.12361,Combined,Sindh,1,1,550,450
+71,GHS Old Gachero,26.60781,67.94165,Combined,Sindh,2,2,844,737
+89,GPS Muhammad Saleh Bughio,26.60823,67.8077,Combined,Sindh,1,1,305,190
+72,GPS Old Gachero,26.60841,67.94172,Combined,Sindh,2,2,722,605
+50,GPS Lundo,26.60888,68.03333,Combined,Sindh,2,2,719,655
+86,GPS Ismail Bughio,26.61046,67.96998,Combined,Sindh,2,2,676,591
+46,GPS Rasool Abad,26.61147,68.12006,Combined,Sindh,2,2,700,519
+274,GPS Masurjiwah,26.61905,68.21254,Combined,Sindh,2,2,883,766
+273,GPS Tagri,26.62061,68.22666,Combined,Sindh,2,2,754,648
+85,GMS Maree,26.6207,67.97145,Combined,Sindh,1,1,338,314
+54,GHS Mubarak Buriro (Male),26.62094,68.10757,Male,Sindh,2,0,952,0
+55,GHS Mubarak Buriro (Female),26.62094,68.1076,Female,Sindh,0,2,0,742
+56,GHS Mubarak Buriro,26.62094,68.10763,Combined,Sindh,2,2,803,726
+281,Govt: Middle School Jan Muhammad Siyal,26.62128,68.14096,Combined,Sindh,2,2,718,506
+84,GPS Maree,26.62164,67.97775,Combined,Sindh,2,2,791,609
+62,GPS Murtaza Abad (Improvised),26.6223,68.13972,Combined,Sindh,2,1,630,483
+76,GMS Abdul Hameed Panjabi,26.62429,67.99872,Combined,Sindh,2,1,513,430
+75,GPS New Gachero,26.63177,68.00298,Combined,Sindh,2,2,598,506
+82,GPS (Boys)  Heesab,26.63251,67.98033,Combined,Sindh,1,1,544,417
+83,GMS Raheem Chand,26.63272,67.98009,Combined,Sindh,1,1,491,435
+275,GPS Berki,26.63326,68.24824,Combined,Sindh,2,1,593,431
+87,GPS Leghari Bijirani,26.63449,67.91826,Combined,Sindh,2,2,697,570
+108,GPS Shafi Muhammad Solangi,26.63619,68.03716,Combined,Sindh,2,2,711,608
+88,GPS Wahid Bux Leghari,26.64136,67.92319,Combined,Sindh,1,1,424,350
+73,GPS Sher Khan Dal,26.64138,67.989,Combined,Sindh,2,2,772,615
+61,GHS Qammaruddin Chandio,26.64164,68.12497,Combined,Sindh,1,1,321,326
+63,GHS Qammaruddin Chandio,26.64164,68.125,Combined,Sindh,2,2,1009,745
+105,GPS Wali Muhammad Sabki (Male),26.64329,68.0744,Male,Sindh,2,0,882,0
+106,GPS Wali Muhammad Sabki (Female),26.64329,68.07443,Female,Sindh,0,2,0,793
+74,GPS Ishaque Chand Village Nihal Mari,26.64506,67.99631,Combined,Sindh,2,2,849,677
+269,GPS Ghullam Ali Khaskheli,26.64764,68.31107,Combined,Sindh,2,2,873,663
+107,GPS  Village Mukrari,26.64879,68.03926,Combined,Sindh,2,2,678,631
+69,GPS Sanwal Joo Khoro (Male),26.6511,68.01261,Male,Sindh,4,0,1371,0
+282,GPS Umer Chandio,26.65214,68.14944,Combined,Sindh,2,1,616,456
+36,Animal Husbandry Moro,26.65283,67.99354,Combined,Sindh,1,1,578,423
+37,Animal Husbandry Moro  (Male),26.65283,67.99357,Male,Sindh,3,0,1065,0
+38,Animal Husbandry Moro   (Female),26.65283,67.9936,Female,Sindh,0,2,0,738
+70,GPS Usman Memon (Female),26.653,68.00903,Female,Sindh,0,4,0,1245
+2,Govt: Girls College Moro (Male),26.6541,67.99801,Male,Sindh,3,0,1163,0
+3,Govt: Girls College Moro (Female),26.6541,67.99804,Female,Sindh,0,3,0,942
+92,GPS Dittal Korai,26.65492,67.92921,Combined,Sindh,2,1,587,495
+20,GPS Ramzan Chandio,26.65556,67.99328,Combined,Sindh,2,2,1043,866
+268,GPS Khando Mari,26.65726,68.28547,Combined,Sindh,2,2,871,676
+13,GPS Ghanhwar Khan Chandio,26.65903,68.0042,Combined,Sindh,2,2,842,664
+29,GPS Shah Abdul Latif Moro,26.65927,67.99853,Combined,Sindh,2,2,665,539
+58,GPS Allah Bux Solangi (Improvised),26.65974,68.13207,Combined,Sindh,2,1,544,324
+15,Govt Vocational institute Moro (Male),26.66023,67.99363,Male,Sindh,3,0,1071,0
+16,Govt Vocational institute Moro (Female),26.66023,67.99366,Female,Sindh,0,2,0,886
+30,GPS shadi Khan Dhilo Moro(Male),26.66071,67.99586,Male,Sindh,3,0,1018,0
+31,GPS shadi Khan Dhilo Moro(Female),26.66071,67.99589,Female,Sindh,0,2,0,882
+32,GPS shadi Khan Dhilo Moro,26.66071,67.99592,Combined,Sindh,2,2,983,793
+27,GGPS Near Imambargah Moro (Male),26.66089,67.99363,Male,Sindh,4,0,1645,0
+28,GGPS Near Imambargah Moro (Female),26.66089,67.99366,Female,Sindh,0,4,0,1467
+33,GGPS Near Imambargah Moro,26.66089,67.99369,Combined,Sindh,1,1,419,318
+17,GPS Main Urdu,26.6614,67.99641,Combined,Sindh,2,2,792,685
+7,GPS Main Sindhi Moro (Male),26.663,68.00033,Male,Sindh,3,0,1059,0
+8,GPS Main Sindhi Moro (Female),26.663,68.00036,Female,Sindh,0,2,0,860
+9,GPS Main Sindhi Moro,26.663,68.00039,Combined,Sindh,2,2,682,606
+100,GPS Sahib Khan Chandio,26.66423,67.96255,Combined,Sindh,2,2,781,583
+11,Muncipial Committee Office Moro (Male),26.66499,68.00159,Male,Sindh,3,0,1183,0
+12,Muncipial Committee Office Moro (Female),26.66499,68.00162,Female,Sindh,0,3,0,1002
+4,Muncipial Committee  Moro  (Male),26.66499,68.00165,Male,Sindh,4,0,1281,0
+5,Muncipial Committee  Moro  (Female),26.66499,68.00168,Female,Sindh,0,3,0,1053
+10,GPS Lalo Machi,26.66545,67.98113,Combined,Sindh,2,2,906,793
+280,GMS Allah Ditto Jatoi,26.66684,68.16228,Combined,Sindh,2,1,763,471
+278,GPS Allah Dito Jatoi (Male),26.66685,68.16213,Male,Sindh,3,0,1407,0
+279,GPS Allah Dito Jatoi (Female),26.66685,68.16216,Female,Sindh,0,2,0,851
+59,GPS Allah Ditto Malikani,26.66685,68.16219,Combined,Sindh,1,1,458,383
+1,GMS Dastagir Colony (Improvised),26.667,68.00566,Combined,Sindh,2,2,866,698
+18,GPS Dastagir colony Moro,26.667,68.00569,Combined,Sindh,1,1,502,471
+19,GPS Dastagir colony Moro,26.667,68.00572,Combined,Sindh,2,2,1048,848
+25,GPS Sayed Ahmed shah Moro,26.66706,67.99347,Combined,Sindh,2,2,604,501
+6,GGHS Moro,26.66811,68.00066,Combined,Sindh,1,1,381,356
+21,GPS Gulshan-e-Mukhtiar Moro,26.66979,68.00403,Combined,Sindh,1,1,480,380
+67,GPS Dado Siyal (Male),26.67038,67.96961,Male,Sindh,3,0,1288,0
+68,GPS Dado Siyal  (Female),26.67038,67.96964,Female,Sindh,0,2,0,949
+22,G. Elementary College Moro (Male),26.67073,67.99921,Male,Sindh,3,0,1155,0
+23,G. Elementary College Moro  (Female),26.67073,67.99924,Female,Sindh,0,3,0,937
+26,G. Elementary College Moro,26.67073,67.99927,Combined,Sindh,2,2,598,511
+24,G. Elementary College Moro,26.67097,67.99973,Combined,Sindh,2,2,896,729
+14,GHS Boys Moro,26.67374,68.00939,Combined,Sindh,2,2,747,613
+258,GGMS Darya Khan Mari (Male),26.67558,68.28659,Male,Sindh,4,0,1414,0
+259,GGMS Darya Khan Mari (Female),26.67558,68.28662,Female,Sindh,0,2,0,995
+257,Urdu Primary School Darya Khan Mari,26.67648,68.28802,Combined,Sindh,2,2,898,610
+103,GPS Sardar Khan Lund,26.6792,68.02789,Combined,Sindh,2,2,792,655
+57,GPS Jumo Chandio,26.67997,68.11883,Combined,Sindh,2,2,741,516
+260,Basic Health Center D.K.Mari (Male),26.67997,68.28235,Male,Sindh,3,0,1087,0
+261,Basic Health Center D.K.Mari (Female),26.67997,68.28238,Female,Sindh,0,2,0,814
+104,GGPS Sardar Khan Lund,26.68139,68.02507,Combined,Sindh,2,2,888,697
+64,GMS Daris (Male),26.68362,68.00396,Male,Sindh,4,0,1426,0
+65,GMS Daris (Female),26.68362,68.00399,Female,Sindh,0,3,0,1068
+66,GPS Daris,26.68362,68.00402,Combined,Sindh,2,2,625,634
+60,GPS Allah Bux Depar,26.68406,68.0951,Combined,Sindh,2,2,846,618
+102,GHS Shah Muhammad Panjabi,26.68415,68.05659,Combined,Sindh,1,1,415,313
+95,GPS Fatoo Balal,26.68535,67.94614,Combined,Sindh,2,1,590,466
+266,GPS Gul Muhammad Khaskheli (Male) (Improvised),26.68544,68.27748,Male,Sindh,4,0,1518,0
+267,GPS Gul Muhammad Khaskheli (Female),26.68544,68.27751,Female,Sindh,0,3,0,1205
+283,GPS Allah Bux Mari  (Male),26.69452,68.29572,Male,Sindh,3,0,1116,0
+284,GPS Allah Bux Mari  (Female),26.69452,68.29575,Female,Sindh,0,3,0,969
+97,GGPS Tando Lashari,26.69599,68.06639,Combined,Sindh,2,1,572,456
+264,GPS (Boys) Kahkat (Male)           ( Improvised),26.69714,68.23518,Male,Sindh,3,0,1110,0
+265,GPS (Boys) Kahkat (Female) (Improvised),26.69714,68.23521,Female,Sindh,0,2,0,810
+93,GPS Waryaso (Male),26.69828,67.94891,Male,Sindh,2,0,955,0
+94,GPS Waryaso (Female),26.69828,67.94894,Female,Sindh,0,2,0,869
+262,GPS Channari (Male) (Improvised),26.69991,68.26348,Male,Sindh,3,0,1114,0
+263,GPS Channari (Female) (Improvised),26.69991,68.26351,Female,Sindh,0,2,0,708
+153,GPS Kandhra Colony (Male),26.70219,67.92992,Male,Sindh,2,0,877,0
+154,GPS Kandhra Colony (Female),26.70219,67.92995,Female,Sindh,0,2,0,674
+91,GPS Kandhra Colony,26.70222,67.92998,Combined,Sindh,1,1,379,277
+96,GPS Dooro Bihan,26.70349,68.05389,Combined,Sindh,1,1,489,408
+98,GPS Dheeran,26.7069,68.03616,Combined,Sindh,2,1,516,412
+151,GPS Muhammad Khan Joyo (Male),26.70795,67.91446,Male,Sindh,3,0,1105,0
+101,GPS Ghareebo Bihan,26.71272,68.00684,Combined,Sindh,2,2,664,534
+155,GPS Imam Abad,26.71532,68.04495,Combined,Sindh,2,1,565,459
+133,GPS Lett Nangar Khan,26.71871,67.88734,Combined,Sindh,2,2,878,791
+285,GPS Qadir Bux Khaskheli,26.72123,68.29446,Combined,Sindh,2,1,560,415
+296,GPS Talib Mari,26.72157,68.24467,Combined,Sindh,2,1,731,478
+156,GHS Imam Abad,26.72185,67.93035,Combined,Sindh,1,1,245,209
+90,GPS Sahib Khan Chandio,26.72359,68.09375,Combined,Sindh,2,1,699,577
+297,GPS Motar Mari,26.72492,68.25494,Combined,Sindh,2,2,777,657
+149,GPS Jan Muhammad Dhilo,26.72915,67.92992,Combined,Sindh,1,1,502,426
+302,GPS Kalro  (Male) (Improvised),26.73068,68.19169,Male,Sindh,2,0,594,0
+303,GPS Kalro (Female),26.73068,68.19172,Female,Sindh,0,1,0,407
+233,GPS Paria,26.73187,68.17129,Combined,Sindh,1,1,444,381
+288,GMS (Boys) Meeranpur,26.73351,68.26821,Combined,Sindh,1,1,460,334
+289,GMS (Boys) Meeranpur,26.73351,68.26824,Combined,Sindh,2,2,626,533
+99,GPS Qadir Bux Jatoi,26.73405,68.09139,Combined,Sindh,2,2,641,533
+234,GPS Saddique Leghari (Improvised),26.73582,68.13319,Combined,Sindh,2,1,718,470
+116,GPS Chando,26.7362,68.02336,Combined,Sindh,1,1,499,451
+112,GPS (Boys) Manaheen (Male),26.73819,68.01196,Male,Sindh,2,0,892,0
+113,GPS (Boys) Manaheen  (Female),26.73819,68.01199,Female,Sindh,0,2,0,792
+304,GPS Ahmed Khan Lashari,26.73986,68.20059,Combined,Sindh,1,1,482,330
+305,GPS Mehmood Memon           ( Improvised),26.73986,68.20062,Combined,Sindh,2,2,764,629
+231,GHS Phull  (Male),26.7401,68.16661,Male,Sindh,4,0,1845,0
+232,GHS Phull (Female),26.7401,68.16664,Female,Sindh,0,3,0,1307
+215,GPS Ibrahim Mubeejo at Qalandar Bux Mubeejo,26.74115,68.10068,Combined,Sindh,2,1,716,493
+150,GPS Puran,26.74116,67.91924,Combined,Sindh,2,2,723,539
+148,GPS Chibhar Mahar,26.7416,67.95198,Combined,Sindh,2,2,797,648
+114,GHS Sadhuja,26.74209,68.06579,Combined,Sindh,2,2,980,803
+115,GPS Sadhuja,26.74249,68.06458,Combined,Sindh,1,1,528,352
+230,GPS Muhalla Raj Muhammad Phull,26.74394,68.16199,Combined,Sindh,2,2,817,654
+206,GPS Gul Muhammad Mubeejo,26.75426,68.09261,Combined,Sindh,2,1,722,534
+286,GPS Juman Shah (Male),26.75732,68.29336,Male,Sindh,3,0,1056,0
+287,GPS Juman Shah  (Female),26.75732,68.29339,Female,Sindh,0,2,0,857
+110,GPS Hote Khan Behrani (Male),26.75931,68.00066,Male,Sindh,3,0,969,0
+111,GPS Hote Khan Behrani  (Female),26.75931,68.00069,Female,Sindh,0,3,0,872
+147,GPS Allah Dad Almani,26.75993,67.91831,Combined,Sindh,2,2,831,686
+307,GPS Saddique Abad,26.76149,68.16892,Combined,Sindh,2,2,793,621
+209,GPS Sakhi Mubarak,26.76256,68.04551,Combined,Sindh,1,1,509,413
+109,GPS Jumo Norio,26.76413,67.9835,Combined,Sindh,1,1,262,260
+308,GPS Abrahu (Improvised),26.76466,68.17284,Combined,Sindh,1,1,386,301
+146,GPS  Ghazi Sabki,26.7647,67.96909,Combined,Sindh,2,2,639,529
+145,GPS Boys Ubhro Shah,26.76517,67.95979,Combined,Sindh,2,1,588,416
+205,GPS Noorpur,26.77048,68.09453,Combined,Sindh,1,1,505,376
+207,GHS Jumo Wassan  (Male),26.77405,68.0835,Male,Sindh,3,0,1026,0
+208,GHS Jumo Wassan  (Female),26.77405,68.08353,Female,Sindh,0,2,0,759
+243,GPS Sindhi Boys Paddidan(Male),26.77409,68.30238,Male,Sindh,3,0,1063,0
+244,GPS Sindhi Boys Paddidan (Female),26.77409,68.30241,Female,Sindh,0,2,0,918
+239,GGHS Paddidan  (Male),26.77519,68.29831,Male,Sindh,3,0,1214,0
+240,GGHS Paddidan   (Female),26.77519,68.29834,Female,Sindh,0,2,0,913
+248,GGHS Paddidan (Male),26.77519,68.29837,Male,Sindh,3,0,1038,0
+249,GGHS Paddidan  (Female),26.77519,68.2984,Female,Sindh,0,2,0,773
+300,GPS Ghazi Khan Waswano(Male),26.77573,68.2118,Male,Sindh,2,0,1007,0
+301,GPS Ghazi Khan Waswano(Female),26.77573,68.21183,Female,Sindh,0,2,0,910
+250,Technicial College New Built Paddidan,26.77603,68.29593,Combined,Sindh,2,2,792,629
+241,Govt: Health Center Paddidan (Male),26.77822,68.30196,Male,Sindh,3,0,1145,0
+242,Govt: Health Center Paddidan (Female),26.77822,68.30199,Female,Sindh,0,2,0,915
+142,GHS Old Malik,26.78003,67.91183,Combined,Sindh,2,2,577,546
+251,Govt: Urdu Primary School Railway Colony Paddidan,26.78072,68.28173,Combined,Sindh,1,1,428,331
+238,GPS Attar Mari,26.78105,68.11497,Combined,Sindh,2,2,579,525
+143,GPS (New) Malik,26.78119,67.91537,Combined,Sindh,2,2,864,726
+131,PWD Bunglow Mithio Khoso ( Improvised),26.78143,67.98553,Combined,Sindh,2,2,777,626
+132,PWD Bunglow Mithio Khoso (Improvised),26.78143,67.98556,Combined,Sindh,2,2,656,583
+245,GPS Near Cooton Factory Paddidan Station (Male),26.78259,68.28302,Male,Sindh,2,0,989,0
+246,GPS Near Cooton Factory Paddidan Station  (Female),26.78259,68.28305,Female,Sindh,0,2,0,804
+229,GPS Abdullah Phull,26.78337,68.14877,Combined,Sindh,2,2,934,685
+294,GGMS Cheeho (Male),26.78376,68.25957,Male,Sindh,3,0,1281,0
+295,GGMS Cheeho (Female),26.78376,68.2596,Female,Sindh,0,3,0,999
+247,GGHS Naer Sadawah Paddidan,26.78421,68.27915,Combined,Sindh,2,2,824,582
+291,GHS Cheeho,26.78444,68.26399,Combined,Sindh,1,1,572,419
+292,GHS Cheeho (Male),26.78444,68.26402,Male,Sindh,3,0,1310,0
+293,GHS Cheeho (Female),26.78444,68.26405,Female,Sindh,0,3,0,1179
+130,GPS Hote Khan Chandio,26.78582,67.96372,Combined,Sindh,1,1,371,302
+298,GPS  Dangeja,26.78862,68.22159,Combined,Sindh,2,1,623,485
+299,GMS Dangeja,26.78906,68.22189,Combined,Sindh,2,1,636,486
+290,GPS Yousif Rajper,26.78948,68.24481,Combined,Sindh,2,2,786,621
+128,GPS New Jatoi (Female),26.78969,67.97565,Female,Sindh,0,4,0,1251
+138,GPS New Jatoi,26.78969,67.97568,Combined,Sindh,1,1,459,380
+235,GPS Jiskani,26.7909,68.13338,Combined,Sindh,2,2,930,733
+119,GHS Deparja (Male),26.79094,67.94042,Male,Sindh,4,0,1583,0
+120,GHS Deparja  (Female),26.79094,67.94045,Female,Sindh,0,4,0,1279
+212,GPS Daree Wara Bohia (Male),26.79152,68.04595,Male,Sindh,2,0,920,0
+213,GPS Daree Wara Bohia  (Female),26.79152,68.04598,Female,Sindh,0,2,0,789
+129,GPS Mango Khan Dahar,26.79237,67.95668,Combined,Sindh,2,1,723,551
+252,GPS Sinyari,26.79237,68.28886,Combined,Sindh,1,1,439,381
+136,GHS New Jatoi (Male),26.79446,67.98779,Male,Sindh,4,0,1339,0
+137,GHS New Jatoi (Female),26.79446,67.98782,Female,Sindh,0,3,0,1075
+127,GGPS New Jatoi (Male),26.79483,67.98692,Male,Sindh,4,0,1444,0
+139,GPS Kamal Khoso,26.79487,68.00907,Combined,Sindh,2,2,658,532
+210,GPS Razi Khoso (Male),26.79593,68.03638,Male,Sindh,3,0,1074,0
+211,GPS Razi Khoso (Female),26.79593,68.03641,Female,Sindh,0,2,0,897
+255,GHS Haroon Shar (Male),26.79636,68.32984,Male,Sindh,3,0,1138,0
+256,GHS Haroon Shar  (Female),26.79636,68.32987,Female,Sindh,0,2,0,868
+237,GGPS Nather Deetha (Female)    ( Improvised),26.80104,68.11875,Female,Sindh,0,2,0,878
+236,GPS Nather Deetha (Male),26.8014,68.1191,Male,Sindh,3,0,1084,0
+253,GPS Rankoon (Male),26.80542,68.29303,Male,Sindh,3,0,1034,0
+254,GPS Rankoon (Female),26.80542,68.29306,Female,Sindh,0,2,0,856
+126,GGPS Thohra (Female),26.80715,67.97214,Female,Sindh,0,3,0,982
+125,GPS (Boys) Thohra  (Male),26.80733,67.97507,Male,Sindh,3,0,1136,0
+214,GGPS Haji Khan Khoso,26.80774,68.06375,Combined,Sindh,2,2,973,736
+221,GPS Attal Bohio (Male),26.8149,68.09119,Male,Sindh,2,0,902,0
+222,GPS Attal Bohio  (Female),26.8149,68.09122,Female,Sindh,0,2,0,793
+218,GPS Muhammad Hassan Khokhar,26.81543,68.10439,Combined,Sindh,2,2,1157,1057
+200,GPS Dhani Bux Jatoi,26.81586,68.03484,Combined,Sindh,2,2,509,428
+135,GPS Boys Jam Doongah,26.81868,67.97898,Combined,Sindh,2,2,925,677
+121,GHS Old Jatoi (Male),26.82623,67.95598,Male,Sindh,2,0,698,0
+122,GHS Old Jatoi (Female),26.82623,67.95601,Female,Sindh,0,2,0,528
+123,GPS Old Jatoi,26.82632,67.95642,Combined,Sindh,2,2,750,525
+124,GPS Old Jatoi,26.82632,67.95645,Combined,Sindh,1,1,244,173
+227,GGPS Buxo Khan Rind (Male),26.82849,68.12851,Male,Sindh,2,0,946,0
+228,GGPS Buxo Khan Rind (Female),26.82849,68.12854,Female,Sindh,0,2,0,927
+199,GPS Main School Abran,26.82857,68.02402,Combined,Sindh,2,2,1318,986
+134,GPS Boys Chattan Shah,26.83037,67.98797,Combined,Sindh,2,2,736,603
+219,GPS Adh Khahi @ Jumo Mirbahar  (Male),26.83201,68.10613,Male,Sindh,2,0,907,0
+220,GPS Adh Khahi @ Jumo Mirbahar  (Female),26.83201,68.10616,Female,Sindh,0,2,0,729
+167,GHS Madrsa  N.Feroze (Male),26.83689,68.12063,Male,Sindh,3,0,1081,0
+168,GHS Madrsa  N.Feroze (Female),26.83689,68.12066,Female,Sindh,0,3,0,946
+163,GPS Main Sindhi N.Feroze (Male),26.83715,68.12109,Male,Sindh,4,0,1319,0
+164,GPS Main Sindhi N.Feroze (Female),26.83715,68.12112,Female,Sindh,0,3,0,1149
+165,Govt: Higher Secondary School Girls N.Feroze (Male),26.8373,68.11852,Male,Sindh,4,0,1386,0
+166,Govt: Higher Secondary School Girls N.Feroze (Female),26.8373,68.11855,Female,Sindh,0,3,0,1130
+161,GPS Urdu N.Feroze (Male),26.83913,68.12312,Male,Sindh,4,0,1267,0
+162,GPS Urdu N.Feroze (Female),26.83913,68.12315,Female,Sindh,0,3,0,1019
+117,GPS Murad Koreejo,26.83919,67.96497,Combined,Sindh,2,2,677,615
+118,GPS (Boys) Sehra,26.83919,67.965,Combined,Sindh,2,2,940,719
+159,GPS Khalifa Ghullam Shabir Khalifa Muhalla (Male),26.84243,68.12493,Male,Sindh,3,0,999,0
+160,GPS Khalifa Ghullam Shabir Khalifa Muhalla (Female),26.84243,68.12496,Female,Sindh,0,2,0,932
+170,DHO Office N.Feroze (Male),26.84314,68.11097,Male,Sindh,4,0,2190,0
+171,DHO Office N.Feroze (Female),26.84314,68.111,Female,Sindh,0,4,0,1753
+157,GPS Saleem Pur N.Feroze (Male),26.84423,68.12251,Male,Sindh,3,0,1017,0
+158,GPS Saleem Pur N.Feroze (Female),26.84423,68.12254,Female,Sindh,0,2,0,910
+204,GPS Bhurand,26.84619,68.0457,Combined,Sindh,1,1,643,518
+226,GPS Wada Dangraj,26.84798,68.08741,Combined,Sindh,2,2,827,698
+169,GPS Wapda Colony N.Feroze,26.84908,68.13089,Combined,Sindh,2,2,602,508
+172,GPS Amir Bux Mari N.Feroze,26.85018,68.10342,Combined,Sindh,2,2,686,584
+203,GPS Uris Bhatti,26.85056,68.03267,Combined,Sindh,2,2,909,724
+140,PWD Bunglow Kareeja,26.85199,67.95933,Combined,Sindh,1,1,277,208
+223,GPS Khouro Sharif  (Male) (Improsied),26.85233,68.15494,Male,Sindh,4,0,1759,0
+224,GPS Khouro Sharif  (Female),26.85233,68.15497,Female,Sindh,0,3,0,1310
+225,GPS Khouro Sharif,26.85233,68.155,Combined,Sindh,1,1,304,201
+194,GPS Mellayo Chahan @ Dhani Bux Panhwar (Male),26.85581,67.98724,Male,Sindh,3,0,1049,0
+195,GPS Mellayo Chahan @ Dhani Bux Panhwar (Female),26.85581,67.98727,Female,Sindh,0,2,0,787
+173,GPS Misri Chandio,26.85629,68.07591,Combined,Sindh,1,1,489,421
+201,GHS Khair Muhammad Bohio (Male),26.85693,68.06432,Male,Sindh,3,0,1169,0
+202,GHS Khair Muhammad Bohio (Female),26.85693,68.06435,Female,Sindh,0,3,0,974
+197,Animal Husbandary Hospital  Polling Station (Male),26.85913,68.00591,Male,Sindh,3,0,1269,0
+198,Animal Husbandary Hospital  Polling Station (Female),26.85913,68.00594,Female,Sindh,0,3,0,1167
+141,GPS Sher Muhammad Jatoi (improvised),26.86111,67.88625,Combined,Sindh,2,1,677,359
+189,GPS Abji  (Male),26.86793,67.9837,Male,Sindh,2,0,924,0
+190,GPS Abji   (Female),26.86793,67.98373,Female,Sindh,0,2,0,768
+193,GPS Abji,26.86793,67.98376,Combined,Sindh,1,1,542,501
+180,Govt: Elementary College Mithiani (Male),26.86887,67.98212,Male,Sindh,3,0,1223,0
+181,Govt: Elementary College Mithiani (Female),26.86887,67.98215,Female,Sindh,0,3,0,999
+182,Govt: Elementary College Mithiani (Male),26.86887,67.98218,Male,Sindh,3,0,1164,0
+183,Govt: Elementary College Mithiani (Female),26.86887,67.98221,Female,Sindh,0,2,0,961
+178,GHS MithianI,26.86917,67.97604,Combined,Sindh,2,2,662,564
+184,GPS Mithiani No.1.               ( Muslim),26.86938,67.97976,Combined,Sindh,2,2,581,505
+196,GPS Urdu  Abji,26.86969,67.98386,Combined,Sindh,1,1,483,435
+191,GGPS Abji (Male ),26.87173,67.98356,Male,Sindh,2,0,891,0
+192,GGPS Abji (Female),26.87173,67.98359,Female,Sindh,0,2,0,749
+179,GPS Mithiani (Malik Muhalla),26.8721,67.97847,Combined,Sindh,1,1,485,391
+174,GPS Jan Muhammad Tagar,26.87709,68.09525,Combined,Sindh,2,1,539,440
+175,GPS Ismail Mari,26.88317,68.06075,Combined,Sindh,2,2,645,523
+176,GPS Thatt Goraho,26.8899,68.00364,Combined,Sindh,2,2,1131,808
+177,GPS Thatt Goraho,26.8899,68.00367,Combined,Sindh,2,2,992,753
+185,GPS Jumo Panhwar (Male),26.8974,68.01147,Male,Sindh,4,0,1259,0
+186,GPS Jumo Panhwar (Female),26.8974,68.0115,Female,Sindh,0,2,0,910
+310,GPS Arbab Ali Solangi,26.90701,68.10406,Combined,Sindh,2,1,599,446
+315,GHS Ghullam Muhammad Panhwar (Male),26.90793,68.02689,Male,Sindh,3,0,1003,0
+316,GHS Ghullam Muhammad Panhwar (Female),26.90793,68.02692,Female,Sindh,0,2,0,756
+319,GHS Ghullam Muhammad Panhwar (Male),26.90793,68.02695,Male,Sindh,3,0,1087,0
+320,GHS Ghullam Muhammad Panhwar  (Female),26.90793,68.02698,Female,Sindh,0,3,0,882
+318,GGPS Dalipota  (Female),26.91185,68.03448,Female,Sindh,0,2,0,845
+321,Basic Health Unit Dalipota (Male),26.91286,68.03405,Male,Sindh,3,0,1090,0
+322,Basic Health Unit Dalipota  (Female),26.91286,68.03408,Female,Sindh,0,3,0,905
+312,GPS Shafi Muhammad Waggan,26.92771,68.10406,Combined,Sindh,2,2,884,770
+313,GPS Nawazio Bhan (Male),26.92804,68.11964,Male,Sindh,2,0,624,0
+314,GGPS Nawazio Bhan (Female),26.92804,68.11967,Female,Sindh,0,2,0,582
+187,GPS Koure Ja Bhan,26.9309,67.99574,Combined,Sindh,2,2,701,542
+188,GPS Koure Ja Bhan,26.9309,67.99577,Combined,Sindh,1,1,406,333
+328,GPS Shafi Muhammad Siyal,26.94561,68.05138,Combined,Sindh,2,2,752,641
+331,GMS Bhanhoon Kolachi,26.95402,68.05434,Combined,Sindh,2,2,770,567
+332,GBLLS  Bhanhoon Kolachi,26.95415,68.05399,Combined,Sindh,2,2,650,482
+152,GPS Sanhari (Female),26.95879,68.10275,Female,Sindh,0,2,0,886
+327,GPS Bhorti,26.9673,68.0361,Combined,Sindh,2,1,605,427
+330,GPS Muhammad Umar Sahito,26.96762,68.05629,Combined,Sindh,1,1,492,398
+324,GHS Bhority (Female),26.96778,68.10886,Female,Sindh,0,2,0,836
+325,GHS Bhorty  (Male),26.96778,68.10889,Male,Sindh,3,0,1060,0
+329,GPS Ameer Bux Mari (Improvised),26.97296,68.05421,Combined,Sindh,2,2,753,601
+326,GHS Bhorty  (Female),26.97522,68.12399,Female,Sindh,0,2,0,916
+323,GHS Bhorty (Male),27.01324,68.12352,Male,Sindh,3,0,1091,0

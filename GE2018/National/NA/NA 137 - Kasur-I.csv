@@ -1,328 +1,328 @@
-PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
- 361 - Govt.Girls Primary School RatneWala,30.957563013859566,74.3989997606346,Combined,Punjab,2,1,852,545
- 362 - Govt.Girls Primary School RatneWala,30.957563013859566,74.3990297606346,Combined,Punjab,1,1,917,648
- 360 - Govt. Boys Primary school Bhadian Usman Wala,30.975305000000002,74.43569333333333,Combined,Punjab,1,1,208,138
- 354 - Govt. Girls Primary School Nuri Wala,30.98769399900936,74.42934343749859,Male,Punjab,3,0,1502,0
- 355 - Govt Girls Primary School Nuri Wala,30.98769399900936,74.4293734374986,Female,Punjab,0,2,0,1204
- 350 - Govt.Girls Primary School Kharaper,30.999983992987225,74.4518346779785,Combined,Punjab,2,2,784,583
- 351 - Govt.Girls Primary School Kharapar,30.999983992987225,74.4518646779785,Combined,Punjab,1,1,338,251
- 334 - Govt.Girls Primary School Basti Jummay Wala Moza Ullake,31.000384218776592,74.51722537171821,Combined,Punjab,1,1,364,266
- 352 - Govt.Boys Elementry School Kharapar,31.000716086667946,74.45502914745995,Combined,Punjab,2,2,1447,1088
- 358 - Govt. Girls High School Hussain Khan Wala,31.008463381618718,74.41436271843236,Male,Punjab,3,0,1520,0
- 359 - Govt. Girls HighSchool Hussain Khan Wala,31.008463381618718,74.4143927184324,Female,Punjab,0,2,0,1244
- 348 - Govt. Boys Primary School Bazid Pur,31.012028340397116,74.47153268067215,Combined,Punjab,1,1,421,315
- 349 - Govt. Boys Primary School Bazid Pur,31.012028340397116,74.4715626806722,Combined,Punjab,1,1,299,300
- 333 - Govt. Boys Primary School Singh Sahib Wala Kajjian wala,31.015310571585427,74.51633177452595,Combined,Punjab,1,1,624,472
- 344 - Govt.Boys Elemantary School Rasool Nagar,31.01728254480013,74.49367915310259,Male,Punjab,2,0,1221,0
- 345 - Govt.Boys Elementry Rasool Nagar,31.01728254480013,74.4937091531026,Female,Punjab,0,2,0,1331
- 346 - Govt.boys Elementry School Rasool Nagar,31.01728254480013,74.4937391531026,Male,Punjab,2,0,735,0
- 332 - Govt.Girls Elementry School Fattuhi Wala,31.025050215050097,74.52548170776198,Combined,Punjab,2,2,959,760
- 338 - Govt.Boys Primary School Main Wala,31.02832437290087,74.47794890887997,Male,Punjab,2,0,853,0
- 339 - Govt.Girls Primary School Main Wala,31.029195929928715,74.47752972036855,Female,Punjab,0,2,0,668
- 336 - Govt.Girls elementry School Burj Kalan,31.03024422873056,74.49484584964785,Male,Punjab,2,0,1388,0
- 337 - Govt.Girls Elementry School Burj Kalan,31.03024422873056,74.4948758496478,Female,Punjab,0,2,0,1133
- 176 - Govt. Boys Primary School Nayke (Combined,31.033405372223704,74.42066773589605,Combined,Punjab,2,2,1066,765
- 172 - Govt. Boys Primary School Bhuchke (Male,31.033658194215544,74.40383893103582,Male,Punjab,4,0,1331,0
- 173 - Govt. Boys Primary School Bhuchke (Female,31.033658194215544,74.4038689310358,Female,Punjab,0,3,0,1018
- 308 - Govt. Boys Primary School Quttba (Male,31.034730100023136,74.35754389623993,Male,Punjab,4,0,2327,0
- 309 - Govt. Boys Primary School Quttba (Female,31.034730100023136,74.3575738962399,Female,Punjab,0,4,0,1687
- 335 - Govt.Girls Primary School Burj Khurd,31.03663726773277,74.51986204585623,Combined,Punjab,1,1,505,436
- 306 - Govt.Girls Primary School Qutba (Male,31.036952472758095,74.35670995118049,Male,Punjab,4,0,1505,0
- 307 - Govt.Girls Primary School Qutba (Female,31.036952472758095,74.3567399511805,Female,Punjab,0,3,0,1162
- 304 - Govt. Boys Primary School Kailon(Male,31.043246368357835,74.3760350144383,Male,Punjab,4,0,1481,0
- 305 - Govt.Girls Primary School Kailon (Female,31.043251312403985,74.3763139967982,Female,Punjab,0,2,0,1067
- 181 - Govt. Boys Elementary School Hari Har  (Male,31.044064300222644,74.46433476074638,Male,Punjab,4,0,1458,0
- 182 - Govt. Boys Elementary School Hari Har  (Female,31.044064300222644,74.4643647607464,Female,Punjab,0,3,0,1153
- 166 - Govt.Girls Primary School Shamas Pura (Combined,31.050160118757155,74.39872078163332,Combined,Punjab,1,1,434,314
- 341 - Govt.Boys Primary School Sanda Chistana,31.050498192651233,74.50105824343044,Male,Punjab,3,0,1168,0
- 342 - Govt.Boys Primary School Sanda Chistana,31.050498192651233,74.5010882434304,Female,Punjab,0,4,0,1873
- 343 - Govt.Boys Primary School Sanda Chistana,31.050498192651233,74.5011182434304,Male,Punjab,3,0,1378,0
- 340 - Govt.Girls Community Modle School Sanda Chistana,31.050682408983246,74.50114158061524,Combined,Punjab,1,1,450,343
- 175 - Govt. Boys Primary School Ahmed Pur (Combined,31.052827566928382,74.44390140457992,Combined,Punjab,2,2,1020,784
- 325 - Govt.Girls High School Mahalam Kalan,31.054451777971245,74.54227967820289,Combined,Punjab,2,2,796,593
- 326 - Govt.Girls High School Mahalam Kalan,31.054451777971245,74.5423096782029,Combined,Punjab,1,1,454,339
- 327 - Govt.Boys High School Mahalam Kalan,31.054581971019182,74.54749001596839,Combined,Punjab,2,2,902,760
- 302 - Govt. Boys Higher Secondary School Roshan Bheela (Female,31.057742553462475,74.34502585153778,Female,Punjab,0,3,0,1197
- 164 - Govt.Boys High Sheikammad Kohna(FEMALE,31.05985603529854,74.42526784240752,Female,Punjab,0,3,0,1152
- 321 - Govt.Girls Elementry School Rajji Wala Araian,31.060344519276732,74.56439083014946,Combined,Punjab,2,2,893,748
- 330 - Govt.Boys Elementry School Bhedian Kalan,31.061516582631032,74.52556462695219,Male,Punjab,3,0,1225,0
- 331 - Govt.Boys Elementry School Bhedian Kalan,31.061516582631032,74.5255946269522,Female,Punjab,0,2,0,964
- 163 - Govt.Girls  Primary School Sheikammad Kohna(MALE,31.061639644091187,74.42531637245915,Male,Punjab,4,0,1519,0
- 162 - Govt.Girls Primary School Bahadar Pura (FEMALE,31.062057529067623,74.40211883878136,Female,Punjab,0,3,0,1121
- 179 - Govt. Boys Primary School Bahmni Wala (Male,31.062220739980415,74.4727557194272,Male,Punjab,4,0,1360,0
- 180 - Govt. Boys Primary School Bahmni Wala (Female,31.062220739980415,74.4727857194272,Female,Punjab,0,3,0,1064
- 301 - Govt.Girls Higher Secondary School Roshan Bheela(Male,31.0654466992085,74.35542775091778,Male,Punjab,4,0,1537,0
- 324 - Govt.Girls Primary School Khan Pur Bhedian,31.067213096377884,74.49581041801316,Combined,Punjab,2,2,749,610
- 183 - Govt.Girls Elementary School kotli Pathana(Combined,31.06797339868989,74.4441723585507,Combined,Punjab,1,1,301,197
- 328 - Govt.Girls High School Bhedian Kalan,31.068556973859447,74.52609788108724,Female,Punjab,0,2,0,1026
- 329 - Govt.Girls High School Bhedian Kalan,31.068556973859447,74.5261278810872,Male,Punjab,4,0,1352,0
- 186 - Govt. Boys Elementary School Maan(Male,31.07547655569691,74.49097633187523,Male,Punjab,2,0,937,0
- 187 - Govt. Boys Elementary School Maan(Male,31.07547655569691,74.4910063318752,Male,Punjab,2,0,776,0
- 188 - Govt. Boys Elementary School Maan (Female,31.07547655569691,74.4910363318752,Female,Punjab,0,3,0,1355
- 184 - Govt.Girls High School Maan(Male,31.076313634724038,74.48948061655267,Male,Punjab,2,0,1014,0
- 185 - Govt.Girls High School Maan (Female,31.076313634724038,74.4895106165527,Female,Punjab,0,2,0,796
- 322 - Govt.Boys Parimary School Sheikh Pura Kohna,31.077291838743317,74.5542079558294,Combined,Punjab,2,1,798,641
- 323 - Govt.Boys Primary School Shiekh Pura Kohna,31.077291838743317,74.5542379558294,Combined,Punjab,2,2,975,687
- 320 - Govt.Girls Primary School Kamal Pura,31.077798001229137,74.58529306013632,Combined,Punjab,2,1,897,632
- 167 - Govt.Girls Elementary School Tolu Wala (Combined,31.078774331890482,74.43412087546446,Combined,Punjab,2,2,1058,927
- 177 - Govt. Boys Primary School Dule Wala (Male,31.082805292894445,74.45241705066051,Male,Punjab,3,0,1119,0
- 178 - Govt. Boys Primary School Dule Wala (Female,31.082805292894445,74.4524470506605,Female,Punjab,0,2,0,906
- 197 - Govt. Boys Primary School Lohgarh Ghugian (Combined,31.08411790205004,74.52009264121588,Combined,Punjab,2,1,631,490
- 319 - Govt.Boys Primary School Mahi Wala,31.086732402705298,74.60848774971501,Combined,Punjab,2,1,771,622
- 198 - Govt. Boys Primary School Ladheke (Combined,31.08893951633087,74.53681818435291,Combined,Punjab,1,1,328,248
- 165 - Govt.Girls Primary School Faqir-e-Wala(Combined,31.089920941765822,74.44052376507936,Combined,Punjab,2,2,683,605
- 170 - Govt.Girls High School Nizam Pura (Male,31.09233169521864,74.41847161808958,Male,Punjab,3,0,1478,0
- 171 - Govt.Girls High School Nizam Pura (Female,31.09233169521864,74.4185016180896,Female,Punjab,0,3,0,1251
- 168 - Govt. Boys Elementary School Nizam Pura (Male,31.09293624071795,74.41992074149232,Male,Punjab,2,0,985,0
- 169 - Govt. Boys Elementary School Nizam Pura  (Female,31.09293624071795,74.4199507414923,Female,Punjab,0,2,0,764
- 196 - Govt. Boys Primary School Rohiwal (Combined,31.09310286598781,74.52879263636792,Combined,Punjab,1,1,408,404
- 156 - Govt.Girls Primary School Bagle Kambown(Male,31.09795470169608,74.46665969325197,Male,Punjab,3,0,1111,0
- 157 - Govt.Girls Primary School Bagle Kambown  (Female,31.09795470169608,74.466689693252,Female,Punjab,0,2,0,872
- 154 - Govt. Boys Primary School Bagle Kambown  (Male,31.099608172149512,74.47054481282609,Male,Punjab,4,0,1511,0
- 155 - Govt. Boys Primary School Bagle Kambown  (Female,31.099608172149512,74.4705748128261,Female,Punjab,0,3,0,1193
- 292 - Govt. Boys Primary School  Sahari Uttar  (Combined,31.101217207538802,74.35948065935978,Combined,Punjab,2,2,1082,845
- 293 - Govt. Boys Primary School  Sahari Uttar  (Combined,31.101217207538802,74.3595106593598,Combined,Punjab,2,2,1489,1148
- 189 - Govt. Boys Primary School Kesar Garh (Male,31.10377651309124,74.4824727848408,Male,Punjab,4,0,1957,0
- 190 - Govt. Boys Primary School Kesar Garh (Female,31.10377651309124,74.4825027848408,Female,Punjab,0,4,0,1599
- 42 - Govt. Boys Primary School Kot Balochan- Kasur.,31.105983950349092,74.45042763093852,Male,Punjab,3,0,1049,0
- 43 - Govt. Boys Primary School Kot Balochan- Kasur.,31.105983950349092,74.4504576309385,Female,Punjab,0,2,0,925
- 44 - Janazgah Baba Mastan Shah Outside Kot Haleem Khan Kasur.,31.10648918904379,74.45001957906182,Male,Punjab,3,0,1257,0
- 45 - Janazgah Baba Mastan Shah Outside Kot Haleem Khan Kasur.,31.10648918904379,74.4500495790618,Female,Punjab,0,2,0,1066
- 194 - Govt. Boys Primary School Patto Khona  (Combined,31.106754354367222,74.51133845696124,Combined,Punjab,2,1,671,435
- 195 - Govt. Boys Primary School Patto Khona  (Combined,31.106754354367222,74.5113684569612,Combined,Punjab,2,1,635,468
- 46 - Govt. Girls Primary School Kot Haleem Khan- Kasur.,31.107249568635346,74.45031318833456,Male,Punjab,4,0,1900,0
- 47 - Govt. Girls Primary School Kot Haleem Khan- Kasur.,31.107249568635346,74.4503431883346,Female,Punjab,0,4,0,1560
- 54 - Govt. Commerce College Kamal Chisti-Kasur.,31.110402733672238,74.46910012693125,Combined,Punjab,2,2,807,648
- 74 - M.C Govt.Girls High School Basti Chiragh Shah- Kasur.,31.110502069367268,74.44219978012579,Male,Punjab,3,0,1045,0
- 75 - M.C Govt.Girls High School Basti Chiragh Shah- Kasur.,31.110502069367268,74.4422297801258,Female,Punjab,0,2,0,868
- 130 - Govt. Girls High School Block No. 2 Haji Fareed Raod Kasur.,31.110629652495575,74.44226567183985,Male,Punjab,4,0,1382,0
- 131 - Govt. Girls High School Block No. 2 Haji Fareed Raod Kasur.,31.110629652495575,74.4422956718398,Female,Punjab,0,3,0,1203
- 70 - Govt.Girls M.C Primary School Basti Chiragh Shah- Kasur.,31.11086005887056,74.4426636863155,Male,Punjab,2,0,898,0
- 76 - Govt. Boys Primary School Rukan Pura- Kasur.,31.111334812683797,74.42589316539272,Male,Punjab,4,0,1649,0
- 77 - Govt. Boys Primary School Rukan Pura- Kasur.,31.111334812683797,74.4259231653927,Female,Punjab,0,4,0,1348
- 66 - Govt. Boys Primary School Salamat Pura- Kasur.,31.112075664794087,74.44584244300702,Male,Punjab,2,0,927,0
- 67 - Govt. Boys Primary School Salamat Pura- Kasur.,31.112075664794087,74.445872443007,Female,Punjab,0,2,0,704
- 48 - Mission High School  (PEB School System) Kot Ghulam Muhammad Khan- Kasur.,31.112551162053286,74.45997646403517,Male,Punjab,4,0,1536,0
- 49 - Mission High School  (PEB School System) Kot Ghulam Muhammad Khan- Kasur.,31.112551162053286,74.4600064640352,Female,Punjab,0,3,0,1207
- 50 - Mission High School  (PEB School System) Kot Ghulam Muhammad Khan- Kasur.,31.112551162053286,74.4600364640352,Male,Punjab,4,0,1309,0
- 51 - Mission High School  (PEB School System) Kot Ghulam Muhammad Khan- Kasur.,31.112551162053286,74.4600664640352,Female,Punjab,0,3,0,1078
- 34 - Govt. Girls Primary School Paka Qila- Kasur.,31.112630547566955,74.45465604758736,Male,Punjab,3,0,1308,0
- 35 - Govt. Girls Primary School Paka Qila- Kasur.,31.112630547566955,74.4546860475874,Female,Punjab,0,3,0,1115
- 78 - Govt. Girls Elementary School Rukan Pura- Kasur.,31.113280576988203,74.43313490400641,Male,Punjab,3,0,1340,0
- 79 - Govt. Girls Elementary School Rukan Pura- Kasur.,31.113280576988203,74.4331649040064,Female,Punjab,0,2,0,1130
- 29 - Govt. Boys Primary School Kot Ghulam Muhammad Khan Kasur.,31.113489642407263,74.45738584562484,Male,Punjab,3,0,1433,0
- 30 - Govt. Boys Primary School Kot Ghulam Muhammad Khan Kasur.,31.113489642407263,74.4574158456248,Female,Punjab,0,3,0,1183
- 37 - Govt.  Girls Primary School Kot Piran Kasur.,31.114459541510136,74.45527261864962,Female,Punjab,0,4,0,1626
- 237 - Govt. Boys Primary School Bholake (Combined,31.1152051,74.4678122,Combined,Punjab,2,2,939,627
- 241 - Basic Health Unit  Daftuh (Female,31.1152051,74.4678422,Female,Punjab,0,2,0,822
- 249 - Govt.Girls Elementary School Theh Wadana(Combined,31.1152051,74.4678722,Combined,Punjab,2,2,1026,788
- 250 - Govt. Boys Elementary School Theh Wadana Ferooz Pur Road(Combined,31.1152051,74.4679022,Combined,Punjab,2,1,546,437
- 253 - Govt. Boys High School Khara (Combined,31.1152051,74.4679322,Combined,Punjab,1,1,338,229
- 254 - Govt. Boys Primary School TIBBA Khara (Male,31.1152051,74.4679622,Male,Punjab,4,0,1287,0
- 255 - Govt.Girls High School Khara (Female,31.1152051,74.4679922,Female,Punjab,0,2,0,916
- 258 - Govt.Girls High School Khara(Male,31.1152051,74.4680222,Male,Punjab,4,0,2552,0
- 259 - Govt Grils High School Khara (Female,31.1152051,74.4680522,Female,Punjab,0,4,0,2097
- 256 - Govt. Boys High School Khara(Male,31.1152051,74.4680822,Male,Punjab,3,0,1046,0
- 257 - Govt. Boys High School Khara (Female,31.1152051,74.4681122,Female,Punjab,0,2,0,557
- 174 - Govt.Girls Primary School Kotla Sheikh Natha (Combined,31.11542896,74.46767605,Combined,Punjab,2,1,726,487
- 199 - Govt. Boys  Elementary School Rai Kalan (Male,31.1154488,74.4671408,Male,Punjab,4,0,1450,0
- 211 - Basic Health Unit Chhatian Wala (Combined,31.1154488,74.4671708,Combined,Punjab,2,1,807,522
- 269 - Govt.High School NO 1 Mustafabad Main Feroz Pur Road(Male,31.1154488,74.4672008,Male,Punjab,2,0,788,0
- 270 - Govt.High School NO 1 Mustafabad Main Feroz Pur Road((Female,31.1154488,74.4672308,Female,Punjab,0,2,0,727
- 271 - Govt.Girls Primary School NO 2 Mustafabad Mohallah Malkan Wala  NEAR CHURCH(Male,31.1154488,74.4672608,Male,Punjab,4,0,1786,0
- 272 - Govt.Girls Primary School NO 2 Mustafabad Mohallah Malkan Wala  NEAR CHURCH(Female,31.1154488,74.4672908,Female,Punjab,0,3,0,1301
- 277 - Govt. Hanifa Begum Girls Degree College Mustafabad (Male),31.1154488,74.4673208,Male,Punjab,4,0,1660,0
- 278 - Govt. Hanifa Begum Girls Degree College Mustafabad (Female),31.1154488,74.4673508,Female,Punjab,0,4,0,1349
- 276 - Govt.Girls Primary School No. 1 Mustafabade Ameer Colony (Female ),31.1154488,74.4673808,Female,Punjab,0,2,0,1017
- 279 - Govt.Girls Elementary School Bagichi Mohalla (Male,31.1154488,74.4674108,Male,Punjab,3,0,1189,0
- 280 - Govt.Girls Elementary School Bagichi Mohalla (Female,31.1154488,74.4674408,Female,Punjab,0,2,0,933
- 212 - Govt. Boys High School Salar Nagar Vegal(Male,31.1154488,74.4674708,Male,Punjab,3,0,1191,0
- 213 - Govt. Boys High School Salar Nagar Vegal(Male,31.1154488,74.4675008,Male,Punjab,2,0,740,0
- 281 - Govt. High School No. 2 Mustafabad Primary portion- (Bagichi Mohalla) (Combined ),31.1154488,74.4675308,Combined,Punjab,2,2,1576,1208
- 282 - Govt. Boys Primary School Niwan Theh (Male,31.1154488,74.4675608,Male,Punjab,2,0,858,0
- 283 - Govt. Girls Primary School Niwan Theh (Female,31.1154488,74.4675908,Female,Punjab,0,2,0,632
- 214 - Govt.Girls High School Salar Nagar Vega(Female,31.1154488,74.4676208,Female,Punjab,0,3,0,1187
- 215 - Govt. Boys Primary School Leel (Combined,31.1154488,74.4676508,Combined,Punjab,2,1,714,465
- 216 - Govt. Boys Primary School Theh Pannua  (Combined,31.1154488,74.4676808,Combined,Punjab,1,1,361,211
- 217 - Govt. Boys Elementary School Katloi Kalan (Combined,31.1154488,74.4677108,Combined,Punjab,2,1,616,436
- 218 - Govt. Boys Elementary School Katloi Kalan (Combined,31.1154488,74.4677408,Combined,Punjab,1,1,407,306
- 220 - Govt.Girls Primary School Wadara Near Katlohi  (Combined,31.1154488,74.4677708,Combined,Punjab,1,1,557,389
- 221 - Govt. Boys Primary School Gaduke(Combined,31.1154488,74.4678008,Combined,Punjab,2,1,805,453
- 222 - Govt.Girls Primary School Gaduke (Combined,31.1154488,74.4678308,Combined,Punjab,2,2,940,541
- 200 - Govt.Girls Elementary School Rai Kalan (Female,31.1154488,74.4678608,Female,Punjab,0,2,0,922
- 223 - Govt. Boys Primary School Green Kot      (Combined,31.1154488,74.4678908,Combined,Punjab,2,2,910,728
- 224 - Govt. Boys Primary School Green Kot      (Combined,31.1154488,74.4679208,Combined,Punjab,2,1,771,474
- 225 - Govt. Boys Elementary School Rakh Katloi Katlohi Khurd(Combined,31.1154488,74.4679508,Combined,Punjab,2,1,591,396
- 228 - Govt.Girls Elementary School Sarhali Kalan (Combined,31.1154488,74.4679808,Combined,Punjab,1,1,393,241
- 229 - Govt.Girls Elementary School Sarhali Kalan (Combined,31.1154488,74.4680108,Combined,Punjab,2,1,719,572
- 230 - Govt. Boys Primary School Kalyan (Combined,31.1154488,74.4680408,Combined,Punjab,2,1,688,444
- 231 - Govt.Girls Primary School Bhoja (Combined,31.1154488,74.4680708,Combined,Punjab,2,2,974,678
- 232 - Govt. Boys Elementary School Sarhali Khurd (Combined,31.1154488,74.4681008,Combined,Punjab,2,1,672,531
- 233 - Govt. Boys Elementary School Sarhali Khurd (Combined,31.1154488,74.4681308,Combined,Punjab,2,1,604,446
- 234 - Govt.Girls Elementary School Ibrahim Abad (Combined,31.1154488,74.4681608,Combined,Punjab,2,1,671,537
- 201 - Govt. Boys Primary School Rai Jhugian(Combined,31.1154488,74.4681908,Combined,Punjab,2,1,692,516
- 238 - Govt. Boys Elementry School Daftuh(Male,31.1154488,74.4682208,Male,Punjab,4,0,1384,0
- 239 - Govt. Boys Elementary School Daftuh (Female,31.1154488,74.4682508,Female,Punjab,0,2,0,1014
- 240 - Office of Union Council.Daftoh(Male,31.1154488,74.4682808,Male,Punjab,2,0,1178,0
- 242 - Govt.Girls High School Daftuh (Combined,31.1154488,74.4683108,Combined,Punjab,2,2,1301,859
- 243 - Govt.Girls High School Lakhne Ke (Combined,31.1154488,74.4683408,Combined,Punjab,2,1,739,520
- 246 - Govt. Boys Primary School Lakhne Ke (Female,31.1154488,74.4683708,Female,Punjab,0,3,0,1347
- 202 - Govt. Boys  Primary School Bader Pur (Male,31.1154488,74.4684008,Male,Punjab,3,0,1474,0
- 247 - Govt.Girls High School Lakhne Ke(Male,31.1154488,74.4684308,Male,Punjab,3,0,1339,0
- 248 - Govt.Girls High School Lakhne Ke (Female,31.1154488,74.4684608,Female,Punjab,0,2,0,977
- 252 - Govt.Girls Primary School Theh Bhallo(Combined,31.1154488,74.4684908,Combined,Punjab,2,1,772,549
- 203 - Govt.Girls Elementary School Bader Pur (Female,31.1154488,74.4685208,Female,Punjab,0,2,0,1149
- 204 - Govt. Boys High School Badian(Male,31.1154488,74.4685508,Male,Punjab,3,0,1107,0
- 205 - Govt.Girls High School Badian (Male,31.1154488,74.4685808,Male,Punjab,2,0,667,0
- 206 - Govt.Girls High School Badian (Female,31.1154488,74.4686108,Female,Punjab,0,3,0,1255
- 207 - Govt. Boys High School Chhatian Wala (Combined,31.1154488,74.4686408,Combined,Punjab,1,1,499,304
- 208 - Govt. Boys High School Chhatian Wala (Combined,31.1154488,74.4686708,Combined,Punjab,1,1,580,395
- 209 - Govt.Girls Elementary School Chhatian Wala (Combined,31.1154488,74.4687008,Combined,Punjab,1,1,358,185
- 210 - Govt.Girls Elementary School Chhatian Wala (Combined,31.1154488,74.4687308,Combined,Punjab,2,1,834,553
- 260 - RHC Mustafabad (Male,31.1154488,74.4687608,Male,Punjab,2,0,848,0
- 261 - RHC Mustafabad (Female,31.1154488,74.4687908,Female,Punjab,0,4,0,2231
- 262 - RHC Mustafabad (Male,31.1154488,74.4688208,Male,Punjab,4,0,2065,0
- 263 - GPS#1 Mustfabad Chowk Shah Nawaz (Male),31.1154488,74.4688508,Male,Punjab,3,0,1290,0
- 264 - GPS#1 Mustfabad Chowk Shah Nawaz (Male),31.1154488,74.4688808,Male,Punjab,4,0,1311,0
- 265 - GPS#1 Mustfabad Chowk Shah Nawaz(Female),31.1154488,74.4689108,Female,Punjab,0,4,0,1782
- 266 - Govt Girls Primary School Sharki Abadi Mustafabad(BEWAN Basti (Combined,31.1154488,74.4689408,Combined,Punjab,1,1,646,526
- 267 - Govt.Girls Primary School No.3 Main Bazar (Male),31.1154488,74.4689708,Male,Punjab,3,0,1169,0
- 268 - Govt.Girls Primary School No.3 Main Bazar (Female),31.1154488,74.4690008,Female,Punjab,0,2,0,963
- 226 - Govt. Boys High School Sarhali Kalan (Combined,31.11545472,74.4677184,Combined,Punjab,2,2,845,580
- 227 - Govt. Boys High School Sarhali Kalan (Combined,31.11545472,74.4677484,Combined,Punjab,2,2,866,577
- 12 - Govt. Boys Islamia Degree College Kasur.,31.115477,74.4676669,Male,Punjab,4,0,1648,0
- 13 - Govt. Boys Islamia Degree College Kasur.,31.115477,74.4676969,Female,Punjab,0,4,0,1384
- 15 - Govt. Boys Islamia Degree College Kasur.,31.115477,74.4677269,Combined,Punjab,1,1,345,297
- 138 - Govt. Lab School- Jinnah Road- Kasur.,31.115477,74.4677569,Male,Punjab,3,0,1395,0
- 139 - Govt. Lab School- Jinnah Road- Kasur.,31.115477,74.4677869,Female,Punjab,0,3,0,1179
- 14 - Govt. MC Girls High School Shahbaz Khan Road Kasur.,31.115477,74.4678169,Combined,Punjab,2,1,547,447
- 16 - Govt. MC Girls High School Shahbaz Khan Road Kasur.,31.115477,74.4678469,Male,Punjab,4,0,1668,0
- 17 - Govt. MC Girls High School Shahbaz Khan Road Kasur.,31.115477,74.4678769,Female,Punjab,0,3,0,1378
- 142 - Govt.Boys Primary school Dingi Pura- Kasur.,31.115477,74.4679069,Male,Punjab,3,0,1336,0
- 143 - Govt.Boys Primary school Dingi Pura- Kasur.,31.115477,74.4679369,Female,Punjab,0,3,0,1113
- 144 - Govt. Girls Elementary School Basti Chup Shah- Kasur.,31.115477,74.4679669,Male,Punjab,4,0,1803,0
- 145 - Govt. Girls Elementary School Basti Chup Shah- Kasur.,31.115477,74.4679969,Female,Punjab,0,3,0,1353
- 20 - Govt. Girls Elementary School Munir Shaheed Colony- Kasur.,31.115477,74.4680269,Male,Punjab,2,0,799,0
- 18 - Govt. Girls Elementary School Munir Shaheed Colony- Kasur.,31.115477,74.4680569,Male,Punjab,3,0,1195,0
- 21 - Govt. Boys Primary School Jamia Hanfia near Sabzi Mandi- Kasur.,31.115477,74.4680869,Male,Punjab,4,0,1596,0
- 22 - Govt. Boys Primary School Jamia Hanfia near Sabzi Mandi- Kasur.,31.115477,74.4681169,Female,Punjab,0,3,0,1250
- 27 - EX. Office District Officer Forest Steel Bagh- Kasur.,31.115477,74.4681469,Male,Punjab,4,0,2531,0
- 28 - EX. Office District Officer Forest Steel Bagh- Kasur.,31.115477,74.4681769,Female,Punjab,0,4,0,1938
- 110 - Govt. Boys Primary School Kot Murad Chock Shahidan Wala Kasur.,31.115487,74.4676088,Combined,Punjab,2,2,1082,829
- 116 - Muncipal Committee. Girls Primary School Bazar Dalgran Kasur.,31.115487,74.4676388,Male,Punjab,2,0,1011,0
- 117 - Muncipal Committee. Girls Primary School Bazar Dalgran Kasur.,31.115487,74.4676688,Female,Punjab,0,2,0,870
- 118 - Primary Portion Govt. Boys  Taid-ul-Islam High School Kasur.,31.115487,74.4676988,Male,Punjab,3,0,1204,0
- 119 - Primary Portion Govt. Boys  Taid-ul-Islam High School Kasur.,31.115487,74.4677288,Female,Punjab,0,2,0,1009
- 120 - Govt. Boys Taid-ul-Islam High School Kasur.,31.115487,74.4677588,Male,Punjab,3,0,1255,0
- 122 - Govt. Boys Primary School Basti Lal Shah- Kasur.,31.115487,74.4677888,Male,Punjab,2,0,785,0
- 123 - Govt. Boys Primary School Basti Lal Shah- Kasur.,31.115487,74.4678188,Male,Punjab,2,0,893,0
- 124 - Govt. Girls Elementary School Basti Lal Shah- Kasur.,31.115487,74.4678488,Female,Punjab,0,4,0,1512
- 125 - Govt. Girls Elementary School Basti Lal Shah- Kasur.,31.115487,74.4678788,Male,Punjab,2,0,864,0
- 126 - Govt. Girls Elementary School Basti Lal Shah- Kasur.,31.115487,74.4679088,Male,Punjab,3,0,1113,0
- 127 - Govt. Girls Elementary School Basti Lal Shah- Kasur.,31.115487,74.4679388,Female,Punjab,0,4,0,1528
- 136 - Govt. Technical Training Centre- Raiwind Road- Kasur.,31.115487,74.4679688,Male,Punjab,4,0,1306,0
- 137 - Govt. Technical Training Centre- Raiwind Road- Kasur.,31.115487,74.4679988,Female,Punjab,0,2,0,1058
- 60 - Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4680288,Male,Punjab,4,0,1943,0
- 61 - Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4680588,Female,Punjab,0,2,0,986
- 62 - Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4680888,Male,Punjab,3,0,1053,0
- 63 - Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4681188,Female,Punjab,0,4,0,1411
- 64 - Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4681488,Male,Punjab,4,0,1323,0
- 65 - Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4681788,Female,Punjab,0,3,0,1069
- 68 - Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4682088,Male,Punjab,4,0,1430,0
- 69 - Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4682388,Female,Punjab,0,3,0,1169
- 105 - Railway Dispensary Near Railway Station- Kasur.,31.115487,74.4682688,Male,Punjab,3,0,1278,0
- 106 - Railway Dispensary Near Railway Station- Kasur.,31.115487,74.4682988,Female,Punjab,0,2,0,1013
- 107 - Govt. Girls Primary School- Manzoor Colony- Jammat Pura- Kasur,31.1155627,74.4671711,Male,Punjab,4,0,1447,0
- 108 - Govt. Girls Primary School- Manzoor Colony- Jammat Pura- Kasur.,31.1155627,74.4672011,Female,Punjab,0,3,0,1157
- 150 - Govt. Boys Elementary School Sheikh Bhago(Male,31.1155627,74.4672311,Male,Punjab,2,0,807,0
- 151 - Govt. Boys Elementary School Sheikh Bhago (Female,31.1155627,74.4672611,Female,Punjab,0,2,0,599
- 152 - Govt.Girls Primary School Sheikh Bhago                 (Combined,31.1155627,74.4672911,Combined,Punjab,2,1,946,728
- 153 - Govt.Girls Primary School Sheikh Bhago                 (Combined,31.1155627,74.4673211,Combined,Punjab,2,1,831,639
- 38 - Millat Idial School Kot Molvi Abdul Qadir- Kasur. (Private),31.1155627,74.4673511,Male,Punjab,3,0,1215,0
- 39 - Millat Idial School Kot Molvi Abdul Qadir- Kasur. (Private),31.1155627,74.4673811,Female,Punjab,0,2,0,918
- 80 - Govt. Girls Elementary School Iqra Bhasar Pura- Street No. 07- Kasur.,31.1155627,74.4674111,Male,Punjab,3,0,1210,0
- 81 - Govt. Girls Elementary School Iqra Bhasar Pura- Street No. 07- Kasur.,31.1155627,74.4674411,Female,Punjab,0,2,0,1046
- 82 - Shamas Pilot High School Bhasar Pura- Kasur.,31.1155627,74.4674711,Male,Punjab,2,0,675,0
- 83 - Shamas Pilot High School Bhasar Pura- Kasur.,31.1155627,74.4675011,Female,Punjab,0,2,0,518
- 87 - Govt. Boys High School Basti Chiragh Shah - Kasur.,31.1155627,74.4675311,Male,Punjab,3,0,1282,0
- 88 - Govt. Boys High School Basti Chiragh Shah - Kasur.,31.1155627,74.4675611,Female,Punjab,0,3,0,959
- 89 - Dignity Public School Basti Sabri- Kasur.,31.1155627,74.4675911,Male,Punjab,4,0,2054,0
- 90 - Dignity Public School Basti Sabri- Kasur.,31.1155627,74.4676211,Male,Punjab,3,0,1411,0
- 91 - Dignity Public School Basti Sabri- Kasur.,31.1155627,74.4676511,Female,Punjab,0,4,0,2569
- 92 - Govt. MC Boys High School Basti Chiragh Shah- Kasur.,31.1155627,74.4676811,Male,Punjab,3,0,1066,0
- 93 - Govt. MC Boys High School Basti Chiragh Shah- Kasur.,31.1155627,74.4677111,Female,Punjab,0,4,0,1573
- 94 - Govt. MC Boys High School Basti Chiragh Shah- Kasur.,31.1155627,74.4677411,Male,Punjab,2,0,929,0
- 97 - Govt. MC Boys High School Basti Chiragh Shah- Kasur.,31.1155627,74.4677711,Male,Punjab,2,0,1009,0
- 98 - Govt. MC Boys High School Basti Chiragh Shah- Kasur.,31.1155627,74.4678011,Female,Punjab,0,2,0,814
- 95 - Govt. Girls Primary School Basti Sabri- Kasur.,31.1155627,74.4678311,Male,Punjab,4,0,2120,0
- 96 - Govt. Girls Primary School Basti Sabri- Kasur.,31.1155627,74.4678611,Female,Punjab,0,4,0,1646
- 100 - Govt. Boys Primary School Bhatta Sohan Din- Kasur.,31.1155627,74.4678911,Male,Punjab,2,0,954,0
- 99 - Govt. Boys Primary School Bhatta Sohan Din- Kasur.,31.1155627,74.4679211,Male,Punjab,4,0,1262,0
- 101 - Govt. Boys Primary School Bhatta Sohan Din- Kasur.,31.1155627,74.4679511,Female,Punjab,0,4,0,1773
- 102 - Govt. MC High School (Priamry Portion) Purani Building Gali No. 4 Basti Chiragh Shah- Kasur.,31.1155627,74.4679811,Male,Punjab,4,0,2253,0
- 103 - Govt. MC High School (Priamry Portion) Purani Building Gali No. 4 Basti Chiragh Shah- Kasur.,31.1155627,74.4680111,Female,Punjab,0,4,0,1782
- 104 - Govt. MC High School (Priamry Portion) Purani Building Gali No. 4 Basti Chiragh Shah- Kasur.,31.1155627,74.4680411,Combined,Punjab,2,1,705,511
- 316 - Govt.Boys High School Sahjra,31.11560099691331,74.6249351303291,Male,Punjab,4,0,1674,0
- 317 - Govt.Boys High school Sahjra,31.11560099691331,74.6249651303291,Female,Punjab,0,3,0,1274
- 111 - Govt. Hanfia Islamia High School- National Bank Chowk- Kasur.,31.115782707289927,74.45003745527578,Male,Punjab,4,0,1993,0
- 112 - Govt. Hanfia Islamia High School- National Bank Chowk- Kasur.,31.115782707289927,74.4500674552758,Female,Punjab,0,4,0,2340
- 113 - Govt. Hanfia Islamia High School- National Bank Chowk- Kasur.,31.115782707289927,74.4500974552758,Male,Punjab,2,0,676,0
- 146 - Govt.Boys Primary school Kot Usman Khan- Kasur.,31.11602468,74.44604721,Male,Punjab,3,0,1185,0
- 148 - Govt.Boys Primary school Kot Usman Khan- Kasur.,31.11602468,74.44607721,Female,Punjab,0,2,0,1000
- 314 - Govt. Girls Primary school sahjra,31.116490916857295,74.62305974453527,Male,Punjab,2,0,712,0
- 315 - Govt.Girls Primary School Sahjra,31.116490916857295,74.6230897445353,Female,Punjab,0,2,0,414
- 55 - Govt. Girls Degree College-Baldia Chowk- Kasur.,31.118759219125785,74.45603795617534,Male,Punjab,2,0,682,0
- 56 - Govt. Girls Degree College-Baldia Chowk- Kasur.,31.118759219125785,74.4560679561753,Female,Punjab,0,4,0,1368
- 57 - Govt. Girls Degree College-Baldia Chowk- Kasur.,31.118759219125785,74.4560979561753,Male,Punjab,3,0,1072,0
- 109 - Govt. Boys Primary School- Jammat Pura- Kasur,31.1190059792417,74.43957321340578,Combined,Punjab,1,1,300,229
- 294 - Govt. Boys Primary School Haveli Padanianwali  (Combined,31.12011485565718,74.3757466209865,Combined,Punjab,1,1,304,197
- 114 - Govt. Boys Primary School Gandum Mandi- Kasur.,31.12012298886183,74.4481512115917,Male,Punjab,2,0,1065,0
- 115 - Govt. Boys Primary School Gandum Mandi- Kasur.,31.12012298886183,74.4481812115917,Female,Punjab,0,2,0,889
- 318 - Govt.Boys Primary School Mabbuke,31.120501059511998,74.65051453942687,Combined,Punjab,1,1,527,397
- 58 - Govt. Boys Primary School Shahbaz Road- Kasur.,31.12068607,74.4583414,Male,Punjab,3,0,1155,0
- 59 - Govt. Boys Primary School Shahbaz Road- Kasur.,31.12068607,74.4583714,Female,Punjab,0,2,0,906
- 159 - Govt. Boys Primary School Rasoolpur- Kasur Rural Part (Male,31.121105447166425,74.4355987755782,Male,Punjab,4,0,2751,0
- 121 - Office of the Manager Sanat Zar- Kot Rukan Din- Kasur.,31.12232501,74.44513416,Female,Punjab,0,3,0,1125
- 128 - Govt. Girls High School Haji Farid Road Kasur.,31.122536013606688,74.44833161436128,Male,Punjab,3,0,1165,0
- 129 - Govt. Girls High School Haji Farid Road Kasur.,31.122536013606688,74.4483616143613,Female,Punjab,0,2,0,939
- 147 - Govt. Girls High School  Haji Farid Raod- Kasur.,31.122539068981503,74.44822591532123,Combined,Punjab,1,1,550,431
- 149 - Govt. Girls High School  Haji Farid Raod- Kasur.,31.122539068981503,74.4482559153212,Combined,Punjab,2,2,740,677
- 140 - Govt. Boys Model High School-  Near Education Complex- Kasur.,31.12310889147722,74.44976564900446,Male,Punjab,2,0,729,0
- 141 - Govt. Boys Model High School-  Near Education Complex- Kasur.,31.12310889147722,74.4497956490045,Female,Punjab,0,2,0,554
- 52 - Govt. Boys Primary School Care Colony-Kasur.,31.12439950251596,74.4728987524816,Male,Punjab,3,0,1071,0
- 53 - Govt. Boys Primary School Care Colony-Kasur.,31.12439950251596,74.4729287524816,Female,Punjab,0,2,0,952
- 23 - Govt. Girls Primary School Road Kot Kasur.,31.124917568159173,74.46082295741908,Male,Punjab,4,0,3213,0
- 24 - Govt. Girls Primary School Road Kot Kasur.,31.124917568159173,74.4608529574191,Female,Punjab,0,4,0,2712
- 132 - Govt. Girls Primary School Shah Inayat Colony- Kot Rukan Din- Kasur.,31.125426073233378,74.44490969084663,Male,Punjab,4,0,1553,0
- 133 - Govt. Girls Primary School Shah Inayat Colony- Kot Rukan Din- Kasur.,31.125426073233378,74.4449396908466,Female,Punjab,0,3,0,1237
- 134 - Govt. Boys Primary School Basti Khadima Abad- Khara Road- Kasur.,31.127901214044634,74.44517907351275,Male,Punjab,2,0,1020,0
- 135 - Govt. Boys Primary School Basti Khadima Abad- Khara Road- Kasur.,31.127901214044634,74.4452090735127,Female,Punjab,0,2,0,847
- 25 - Press Club- Ferozpur Road- Kasur.,31.13121379085719,74.46012454970317,Male,Punjab,4,0,2773,0
- 26 - Press Club- Ferozpur Road- Kasur.,31.13121379085719,74.4601545497032,Female,Punjab,0,4,0,2260
- 4 - Office District Population Welfare Officer- Kasur. Fazal Khan Colony Street  No. 1- Kasur.,31.132647808839607,74.45469821510802,Male,Punjab,4,0,1764,0
- 5 - Office District Population Welfare Officer- Kasur. Fazal Khan Colony Street  No. 1- Kasur.,31.132647808839607,74.454728215108,Female,Punjab,0,4,0,1319
- 6 - Govt. Boys Primary School Gulam Sabir KhudanPura- Abadi Noor Shah Wali- Kasur.,31.13451496,74.45329767,Male,Punjab,4,0,1731,0
- 7 - Govt. Boys Primary School Gulam Sabir KhudanPura- Abadi Noor Shah Wali- Kasur.,31.13451496,74.45332767,Female,Punjab,0,3,0,1368
- 193 - Govt. Boys Primary School Rang Pur (Combined,31.135395507394346,74.48035850702898,Combined,Punjab,2,2,1589,1266
- 8 - Govt. Boys Primary School Basti Qadirabad Kasur.,31.135586859714405,74.4452427055943,Male,Punjab,4,0,1771,0
- 9 - Govt. Boys Primary School Basti Qadirabad Kasur.,31.135586859714405,74.4452727055943,Female,Punjab,0,4,0,1403
- 288 - Govt. Boys Elementary School Nand Ka Takya Hardo Sahari(Male,31.135953904468586,74.37988523436073,Male,Punjab,3,0,1130,0
- 287 - Govt.Girls Primary School Nand Ka Takya Hardo Sahari (Female,31.13752044855808,74.38060229606428,Female,Punjab,0,2,0,767
- 1 - Govt. Boys Primary School Kot Fateh Baz Khan- Kasur.,31.13907307447883,74.45690904344397,Male,Punjab,2,0,883,0
- 2 - Govt. Boys Primary School Kot Fateh Baz Khan- Kasur.,31.13907307447883,74.456939043444,Male,Punjab,3,0,1173,0
- 3 - Govt. Girls Primary School Kot Fateh Baz Khan,31.13907307447883,74.456969043444,Female,Punjab,0,4,0,1638
- 290 - Govt. Boys High School Chah Arroor Singh Hardo Sahari(Male,31.13918852001443,74.35069786648378,Male,Punjab,3,0,1077,0
- 291 - Basic Health Unit Ramyana  Hardo Sahari (Combined,31.140499616374672,74.3450021660164,Combined,Punjab,2,2,1351,1051
- 191 - Govt.Girls Primary School Peru Wala (Male,31.14095026890982,74.47783958391415,Male,Punjab,2,0,1024,0
- 192 - Govt.Girls Primary School Peru Wala (Female,31.14095026890982,74.4778695839141,Female,Punjab,0,2,0,771
- 289 - Govt. Girls Primary School Chah Arroor Singh Hardo Sahari (Female ),31.144275255001638,74.3510953704684,Female,Punjab,0,2,0,856
- 284 - Govt.Girls Elementary School Haveli Balaqa singh Hardo Sahari (Male,31.149950765232337,74.35032279245091,Male,Punjab,2,0,759,0
- 285 - Govt.Girls Elementary School Haveli Balaqa Singh Hardo Sahari (Female,31.149950765232337,74.3503527924509,Female,Punjab,0,2,0,528
- 235 - Govt. Boys Primary School Basti Bewan   (Beroon Mustafabad) (Combined,31.15071728,74.20634895,Combined,Punjab,1,1,399,239
- 236 - Govt. Boys Primary School Basti Bewan    (Beroon Mustafabad) (Combined),31.15071728,74.20637895,Combined,Punjab,2,1,728,445
- 158 - Govt. Boys Primary School Sader Dewan (Combined,31.155006840426566,74.45889428980932,Combined,Punjab,2,2,1727,1364
- 296 - Govt. Boys Primary School Vern- Chak Buliana (Female,31.15530270397857,74.4865501726092,Female,Punjab,0,2,0,1050
- 295 - Govt.Girls Primary School Vern- Chak Buliana(Male,31.15685549091445,74.4874834215939,Male,Punjab,3,0,1448,0
- 299 - Govt. Boys High School Qadiwind Chak Buliana (Combined,31.168410787888607,74.48719183032055,Combined,Punjab,2,2,866,645
- 300 - Govt. Girls High School Qadiwind Chak Buliana (Combined,31.169200581331708,74.47581967312708,Combined,Punjab,2,2,1486,1136
- 297 - Govt. Boys Primary School Targa Chak Buliana (Combined,31.18203903042928,74.49991306233917,Combined,Punjab,2,2,1103,722
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+361,Govt.Girls Primary School RatneWala,30.957563013859566,74.3989997606346,Combined,Punjab,2,1,852,545
+362,Govt.Girls Primary School RatneWala,30.957563013859566,74.3990297606346,Combined,Punjab,1,1,917,648
+360,Govt. Boys Primary school Bhadian Usman Wala,30.975305000000002,74.43569333333333,Combined,Punjab,1,1,208,138
+354,Govt. Girls Primary School Nuri Wala,30.98769399900936,74.42934343749859,Male,Punjab,3,0,1502,0
+355,Govt Girls Primary School Nuri Wala,30.98769399900936,74.4293734374986,Female,Punjab,0,2,0,1204
+350,Govt.Girls Primary School Kharaper,30.999983992987225,74.4518346779785,Combined,Punjab,2,2,784,583
+351,Govt.Girls Primary School Kharapar,30.999983992987225,74.4518646779785,Combined,Punjab,1,1,338,251
+334,Govt.Girls Primary School Basti Jummay Wala Moza Ullake,31.000384218776592,74.51722537171821,Combined,Punjab,1,1,364,266
+352,Govt.Boys Elementry School Kharapar,31.000716086667946,74.45502914745995,Combined,Punjab,2,2,1447,1088
+358,Govt. Girls High School Hussain Khan Wala,31.008463381618718,74.41436271843236,Male,Punjab,3,0,1520,0
+359,Govt. Girls HighSchool Hussain Khan Wala,31.008463381618718,74.4143927184324,Female,Punjab,0,2,0,1244
+348,Govt. Boys Primary School Bazid Pur,31.012028340397116,74.47153268067215,Combined,Punjab,1,1,421,315
+349,Govt. Boys Primary School Bazid Pur,31.012028340397116,74.4715626806722,Combined,Punjab,1,1,299,300
+333,Govt. Boys Primary School Singh Sahib Wala Kajjian wala,31.015310571585427,74.51633177452595,Combined,Punjab,1,1,624,472
+344,Govt.Boys Elemantary School Rasool Nagar,31.01728254480013,74.49367915310259,Male,Punjab,2,0,1221,0
+345,Govt.Boys Elementry Rasool Nagar,31.01728254480013,74.4937091531026,Female,Punjab,0,2,0,1331
+346,Govt.boys Elementry School Rasool Nagar,31.01728254480013,74.4937391531026,Male,Punjab,2,0,735,0
+332,Govt.Girls Elementry School Fattuhi Wala,31.025050215050097,74.52548170776198,Combined,Punjab,2,2,959,760
+338,Govt.Boys Primary School Main Wala,31.02832437290087,74.47794890887997,Male,Punjab,2,0,853,0
+339,Govt.Girls Primary School Main Wala,31.029195929928715,74.47752972036855,Female,Punjab,0,2,0,668
+336,Govt.Girls elementry School Burj Kalan,31.03024422873056,74.49484584964785,Male,Punjab,2,0,1388,0
+337,Govt.Girls Elementry School Burj Kalan,31.03024422873056,74.4948758496478,Female,Punjab,0,2,0,1133
+176,Govt. Boys Primary School Nayke (Combined,31.033405372223704,74.42066773589605,Combined,Punjab,2,2,1066,765
+172,Govt. Boys Primary School Bhuchke (Male,31.033658194215544,74.40383893103582,Male,Punjab,4,0,1331,0
+173,Govt. Boys Primary School Bhuchke (Female,31.033658194215544,74.4038689310358,Female,Punjab,0,3,0,1018
+308,Govt. Boys Primary School Quttba (Male,31.034730100023136,74.35754389623993,Male,Punjab,4,0,2327,0
+309,Govt. Boys Primary School Quttba (Female,31.034730100023136,74.3575738962399,Female,Punjab,0,4,0,1687
+335,Govt.Girls Primary School Burj Khurd,31.03663726773277,74.51986204585623,Combined,Punjab,1,1,505,436
+306,Govt.Girls Primary School Qutba (Male,31.036952472758095,74.35670995118049,Male,Punjab,4,0,1505,0
+307,Govt.Girls Primary School Qutba (Female,31.036952472758095,74.3567399511805,Female,Punjab,0,3,0,1162
+304,Govt. Boys Primary School Kailon(Male,31.043246368357835,74.3760350144383,Male,Punjab,4,0,1481,0
+305,Govt.Girls Primary School Kailon (Female,31.043251312403985,74.3763139967982,Female,Punjab,0,2,0,1067
+181,Govt. Boys Elementary School Hari Har  (Male,31.044064300222644,74.46433476074638,Male,Punjab,4,0,1458,0
+182,Govt. Boys Elementary School Hari Har  (Female,31.044064300222644,74.4643647607464,Female,Punjab,0,3,0,1153
+166,Govt.Girls Primary School Shamas Pura (Combined,31.050160118757155,74.39872078163332,Combined,Punjab,1,1,434,314
+341,Govt.Boys Primary School Sanda Chistana,31.050498192651233,74.50105824343044,Male,Punjab,3,0,1168,0
+342,Govt.Boys Primary School Sanda Chistana,31.050498192651233,74.5010882434304,Female,Punjab,0,4,0,1873
+343,Govt.Boys Primary School Sanda Chistana,31.050498192651233,74.5011182434304,Male,Punjab,3,0,1378,0
+340,Govt.Girls Community Modle School Sanda Chistana,31.050682408983246,74.50114158061524,Combined,Punjab,1,1,450,343
+175,Govt. Boys Primary School Ahmed Pur (Combined,31.052827566928382,74.44390140457992,Combined,Punjab,2,2,1020,784
+325,Govt.Girls High School Mahalam Kalan,31.054451777971245,74.54227967820289,Combined,Punjab,2,2,796,593
+326,Govt.Girls High School Mahalam Kalan,31.054451777971245,74.5423096782029,Combined,Punjab,1,1,454,339
+327,Govt.Boys High School Mahalam Kalan,31.054581971019182,74.54749001596839,Combined,Punjab,2,2,902,760
+302,Govt. Boys Higher Secondary School Roshan Bheela (Female,31.057742553462475,74.34502585153778,Female,Punjab,0,3,0,1197
+164,Govt.Boys High Sheikammad Kohna(FEMALE,31.05985603529854,74.42526784240752,Female,Punjab,0,3,0,1152
+321,Govt.Girls Elementry School Rajji Wala Araian,31.060344519276732,74.56439083014946,Combined,Punjab,2,2,893,748
+330,Govt.Boys Elementry School Bhedian Kalan,31.061516582631032,74.52556462695219,Male,Punjab,3,0,1225,0
+331,Govt.Boys Elementry School Bhedian Kalan,31.061516582631032,74.5255946269522,Female,Punjab,0,2,0,964
+163,Govt.Girls  Primary School Sheikammad Kohna(MALE,31.061639644091187,74.42531637245915,Male,Punjab,4,0,1519,0
+162,Govt.Girls Primary School Bahadar Pura (FEMALE,31.062057529067623,74.40211883878136,Female,Punjab,0,3,0,1121
+179,Govt. Boys Primary School Bahmni Wala (Male,31.062220739980415,74.4727557194272,Male,Punjab,4,0,1360,0
+180,Govt. Boys Primary School Bahmni Wala (Female,31.062220739980415,74.4727857194272,Female,Punjab,0,3,0,1064
+301,Govt.Girls Higher Secondary School Roshan Bheela(Male,31.0654466992085,74.35542775091778,Male,Punjab,4,0,1537,0
+324,Govt.Girls Primary School Khan Pur Bhedian,31.067213096377884,74.49581041801316,Combined,Punjab,2,2,749,610
+183,Govt.Girls Elementary School kotli Pathana(Combined,31.06797339868989,74.4441723585507,Combined,Punjab,1,1,301,197
+328,Govt.Girls High School Bhedian Kalan,31.068556973859447,74.52609788108724,Female,Punjab,0,2,0,1026
+329,Govt.Girls High School Bhedian Kalan,31.068556973859447,74.5261278810872,Male,Punjab,4,0,1352,0
+186,Govt. Boys Elementary School Maan(Male,31.07547655569691,74.49097633187523,Male,Punjab,2,0,937,0
+187,Govt. Boys Elementary School Maan(Male,31.07547655569691,74.4910063318752,Male,Punjab,2,0,776,0
+188,Govt. Boys Elementary School Maan (Female,31.07547655569691,74.4910363318752,Female,Punjab,0,3,0,1355
+184,Govt.Girls High School Maan(Male,31.076313634724038,74.48948061655267,Male,Punjab,2,0,1014,0
+185,Govt.Girls High School Maan (Female,31.076313634724038,74.4895106165527,Female,Punjab,0,2,0,796
+322,Govt.Boys Parimary School Sheikh Pura Kohna,31.077291838743317,74.5542079558294,Combined,Punjab,2,1,798,641
+323,Govt.Boys Primary School Shiekh Pura Kohna,31.077291838743317,74.5542379558294,Combined,Punjab,2,2,975,687
+320,Govt.Girls Primary School Kamal Pura,31.077798001229137,74.58529306013632,Combined,Punjab,2,1,897,632
+167,Govt.Girls Elementary School Tolu Wala (Combined,31.078774331890482,74.43412087546446,Combined,Punjab,2,2,1058,927
+177,Govt. Boys Primary School Dule Wala (Male,31.082805292894445,74.45241705066051,Male,Punjab,3,0,1119,0
+178,Govt. Boys Primary School Dule Wala (Female,31.082805292894445,74.4524470506605,Female,Punjab,0,2,0,906
+197,Govt. Boys Primary School Lohgarh Ghugian (Combined,31.08411790205004,74.52009264121588,Combined,Punjab,2,1,631,490
+319,Govt.Boys Primary School Mahi Wala,31.086732402705298,74.60848774971501,Combined,Punjab,2,1,771,622
+198,Govt. Boys Primary School Ladheke (Combined,31.08893951633087,74.53681818435291,Combined,Punjab,1,1,328,248
+165,Govt.Girls Primary School Faqir-e-Wala(Combined,31.089920941765822,74.44052376507936,Combined,Punjab,2,2,683,605
+170,Govt.Girls High School Nizam Pura (Male,31.09233169521864,74.41847161808958,Male,Punjab,3,0,1478,0
+171,Govt.Girls High School Nizam Pura (Female,31.09233169521864,74.4185016180896,Female,Punjab,0,3,0,1251
+168,Govt. Boys Elementary School Nizam Pura (Male,31.09293624071795,74.41992074149232,Male,Punjab,2,0,985,0
+169,Govt. Boys Elementary School Nizam Pura  (Female,31.09293624071795,74.4199507414923,Female,Punjab,0,2,0,764
+196,Govt. Boys Primary School Rohiwal (Combined,31.09310286598781,74.52879263636792,Combined,Punjab,1,1,408,404
+156,Govt.Girls Primary School Bagle Kambown(Male,31.09795470169608,74.46665969325197,Male,Punjab,3,0,1111,0
+157,Govt.Girls Primary School Bagle Kambown  (Female,31.09795470169608,74.466689693252,Female,Punjab,0,2,0,872
+154,Govt. Boys Primary School Bagle Kambown  (Male,31.099608172149512,74.47054481282609,Male,Punjab,4,0,1511,0
+155,Govt. Boys Primary School Bagle Kambown  (Female,31.099608172149512,74.4705748128261,Female,Punjab,0,3,0,1193
+292,Govt. Boys Primary School  Sahari Uttar  (Combined,31.101217207538802,74.35948065935978,Combined,Punjab,2,2,1082,845
+293,Govt. Boys Primary School  Sahari Uttar  (Combined,31.101217207538802,74.3595106593598,Combined,Punjab,2,2,1489,1148
+189,Govt. Boys Primary School Kesar Garh (Male,31.10377651309124,74.4824727848408,Male,Punjab,4,0,1957,0
+190,Govt. Boys Primary School Kesar Garh (Female,31.10377651309124,74.4825027848408,Female,Punjab,0,4,0,1599
+42,Govt. Boys Primary School Kot Balochan- Kasur.,31.105983950349092,74.45042763093852,Male,Punjab,3,0,1049,0
+43,Govt. Boys Primary School Kot Balochan- Kasur.,31.105983950349092,74.4504576309385,Female,Punjab,0,2,0,925
+44,Janazgah Baba Mastan Shah Outside Kot Haleem Khan Kasur.,31.10648918904379,74.45001957906182,Male,Punjab,3,0,1257,0
+45,Janazgah Baba Mastan Shah Outside Kot Haleem Khan Kasur.,31.10648918904379,74.4500495790618,Female,Punjab,0,2,0,1066
+194,Govt. Boys Primary School Patto Khona  (Combined,31.106754354367222,74.51133845696124,Combined,Punjab,2,1,671,435
+195,Govt. Boys Primary School Patto Khona  (Combined,31.106754354367222,74.5113684569612,Combined,Punjab,2,1,635,468
+46,Govt. Girls Primary School Kot Haleem Khan- Kasur.,31.107249568635346,74.45031318833456,Male,Punjab,4,0,1900,0
+47,Govt. Girls Primary School Kot Haleem Khan- Kasur.,31.107249568635346,74.4503431883346,Female,Punjab,0,4,0,1560
+54,Govt. Commerce College Kamal Chisti-Kasur.,31.110402733672238,74.46910012693125,Combined,Punjab,2,2,807,648
+74,M.C Govt.Girls High School Basti Chiragh Shah- Kasur.,31.110502069367268,74.44219978012579,Male,Punjab,3,0,1045,0
+75,M.C Govt.Girls High School Basti Chiragh Shah- Kasur.,31.110502069367268,74.4422297801258,Female,Punjab,0,2,0,868
+130,Govt. Girls High School Block No. 2 Haji Fareed Raod Kasur.,31.110629652495575,74.44226567183985,Male,Punjab,4,0,1382,0
+131,Govt. Girls High School Block No. 2 Haji Fareed Raod Kasur.,31.110629652495575,74.4422956718398,Female,Punjab,0,3,0,1203
+70,Govt.Girls M.C Primary School Basti Chiragh Shah- Kasur.,31.11086005887056,74.4426636863155,Male,Punjab,2,0,898,0
+76,Govt. Boys Primary School Rukan Pura- Kasur.,31.111334812683797,74.42589316539272,Male,Punjab,4,0,1649,0
+77,Govt. Boys Primary School Rukan Pura- Kasur.,31.111334812683797,74.4259231653927,Female,Punjab,0,4,0,1348
+66,Govt. Boys Primary School Salamat Pura- Kasur.,31.112075664794087,74.44584244300702,Male,Punjab,2,0,927,0
+67,Govt. Boys Primary School Salamat Pura- Kasur.,31.112075664794087,74.445872443007,Female,Punjab,0,2,0,704
+48,Mission High School  (PEB School System) Kot Ghulam Muhammad Khan- Kasur.,31.112551162053286,74.45997646403517,Male,Punjab,4,0,1536,0
+49,Mission High School  (PEB School System) Kot Ghulam Muhammad Khan- Kasur.,31.112551162053286,74.4600064640352,Female,Punjab,0,3,0,1207
+50,Mission High School  (PEB School System) Kot Ghulam Muhammad Khan- Kasur.,31.112551162053286,74.4600364640352,Male,Punjab,4,0,1309,0
+51,Mission High School  (PEB School System) Kot Ghulam Muhammad Khan- Kasur.,31.112551162053286,74.4600664640352,Female,Punjab,0,3,0,1078
+34,Govt. Girls Primary School Paka Qila- Kasur.,31.112630547566955,74.45465604758736,Male,Punjab,3,0,1308,0
+35,Govt. Girls Primary School Paka Qila- Kasur.,31.112630547566955,74.4546860475874,Female,Punjab,0,3,0,1115
+78,Govt. Girls Elementary School Rukan Pura- Kasur.,31.113280576988203,74.43313490400641,Male,Punjab,3,0,1340,0
+79,Govt. Girls Elementary School Rukan Pura- Kasur.,31.113280576988203,74.4331649040064,Female,Punjab,0,2,0,1130
+29,Govt. Boys Primary School Kot Ghulam Muhammad Khan Kasur.,31.113489642407263,74.45738584562484,Male,Punjab,3,0,1433,0
+30,Govt. Boys Primary School Kot Ghulam Muhammad Khan Kasur.,31.113489642407263,74.4574158456248,Female,Punjab,0,3,0,1183
+37,Govt.  Girls Primary School Kot Piran Kasur.,31.114459541510136,74.45527261864962,Female,Punjab,0,4,0,1626
+237,Govt. Boys Primary School Bholake (Combined,31.1152051,74.4678122,Combined,Punjab,2,2,939,627
+241,Basic Health Unit  Daftuh (Female,31.1152051,74.4678422,Female,Punjab,0,2,0,822
+249,Govt.Girls Elementary School Theh Wadana(Combined,31.1152051,74.4678722,Combined,Punjab,2,2,1026,788
+250,Govt. Boys Elementary School Theh Wadana Ferooz Pur Road(Combined,31.1152051,74.4679022,Combined,Punjab,2,1,546,437
+253,Govt. Boys High School Khara (Combined,31.1152051,74.4679322,Combined,Punjab,1,1,338,229
+254,Govt. Boys Primary School TIBBA Khara (Male,31.1152051,74.4679622,Male,Punjab,4,0,1287,0
+255,Govt.Girls High School Khara (Female,31.1152051,74.4679922,Female,Punjab,0,2,0,916
+258,Govt.Girls High School Khara(Male,31.1152051,74.4680222,Male,Punjab,4,0,2552,0
+259,Govt Grils High School Khara (Female,31.1152051,74.4680522,Female,Punjab,0,4,0,2097
+256,Govt. Boys High School Khara(Male,31.1152051,74.4680822,Male,Punjab,3,0,1046,0
+257,Govt. Boys High School Khara (Female,31.1152051,74.4681122,Female,Punjab,0,2,0,557
+174,Govt.Girls Primary School Kotla Sheikh Natha (Combined,31.11542896,74.46767605,Combined,Punjab,2,1,726,487
+199,Govt. Boys  Elementary School Rai Kalan (Male,31.1154488,74.4671408,Male,Punjab,4,0,1450,0
+211,Basic Health Unit Chhatian Wala (Combined,31.1154488,74.4671708,Combined,Punjab,2,1,807,522
+269,Govt.High School NO 1 Mustafabad Main Feroz Pur Road(Male,31.1154488,74.4672008,Male,Punjab,2,0,788,0
+270,Govt.High School NO 1 Mustafabad Main Feroz Pur Road((Female,31.1154488,74.4672308,Female,Punjab,0,2,0,727
+271,Govt.Girls Primary School NO 2 Mustafabad Mohallah Malkan Wala  NEAR CHURCH(Male,31.1154488,74.4672608,Male,Punjab,4,0,1786,0
+272,Govt.Girls Primary School NO 2 Mustafabad Mohallah Malkan Wala  NEAR CHURCH(Female,31.1154488,74.4672908,Female,Punjab,0,3,0,1301
+277,Govt. Hanifa Begum Girls Degree College Mustafabad (Male),31.1154488,74.4673208,Male,Punjab,4,0,1660,0
+278,Govt. Hanifa Begum Girls Degree College Mustafabad (Female),31.1154488,74.4673508,Female,Punjab,0,4,0,1349
+276,Govt.Girls Primary School No. 1 Mustafabade Ameer Colony (Female ),31.1154488,74.4673808,Female,Punjab,0,2,0,1017
+279,Govt.Girls Elementary School Bagichi Mohalla (Male,31.1154488,74.4674108,Male,Punjab,3,0,1189,0
+280,Govt.Girls Elementary School Bagichi Mohalla (Female,31.1154488,74.4674408,Female,Punjab,0,2,0,933
+212,Govt. Boys High School Salar Nagar Vegal(Male,31.1154488,74.4674708,Male,Punjab,3,0,1191,0
+213,Govt. Boys High School Salar Nagar Vegal(Male,31.1154488,74.4675008,Male,Punjab,2,0,740,0
+281,Govt. High School No. 2 Mustafabad Primary portion- (Bagichi Mohalla) (Combined ),31.1154488,74.4675308,Combined,Punjab,2,2,1576,1208
+282,Govt. Boys Primary School Niwan Theh (Male,31.1154488,74.4675608,Male,Punjab,2,0,858,0
+283,Govt. Girls Primary School Niwan Theh (Female,31.1154488,74.4675908,Female,Punjab,0,2,0,632
+214,Govt.Girls High School Salar Nagar Vega(Female,31.1154488,74.4676208,Female,Punjab,0,3,0,1187
+215,Govt. Boys Primary School Leel (Combined,31.1154488,74.4676508,Combined,Punjab,2,1,714,465
+216,Govt. Boys Primary School Theh Pannua  (Combined,31.1154488,74.4676808,Combined,Punjab,1,1,361,211
+217,Govt. Boys Elementary School Katloi Kalan (Combined,31.1154488,74.4677108,Combined,Punjab,2,1,616,436
+218,Govt. Boys Elementary School Katloi Kalan (Combined,31.1154488,74.4677408,Combined,Punjab,1,1,407,306
+220,Govt.Girls Primary School Wadara Near Katlohi  (Combined,31.1154488,74.4677708,Combined,Punjab,1,1,557,389
+221,Govt. Boys Primary School Gaduke(Combined,31.1154488,74.4678008,Combined,Punjab,2,1,805,453
+222,Govt.Girls Primary School Gaduke (Combined,31.1154488,74.4678308,Combined,Punjab,2,2,940,541
+200,Govt.Girls Elementary School Rai Kalan (Female,31.1154488,74.4678608,Female,Punjab,0,2,0,922
+223,Govt. Boys Primary School Green Kot      (Combined,31.1154488,74.4678908,Combined,Punjab,2,2,910,728
+224,Govt. Boys Primary School Green Kot      (Combined,31.1154488,74.4679208,Combined,Punjab,2,1,771,474
+225,Govt. Boys Elementary School Rakh Katloi Katlohi Khurd(Combined,31.1154488,74.4679508,Combined,Punjab,2,1,591,396
+228,Govt.Girls Elementary School Sarhali Kalan (Combined,31.1154488,74.4679808,Combined,Punjab,1,1,393,241
+229,Govt.Girls Elementary School Sarhali Kalan (Combined,31.1154488,74.4680108,Combined,Punjab,2,1,719,572
+230,Govt. Boys Primary School Kalyan (Combined,31.1154488,74.4680408,Combined,Punjab,2,1,688,444
+231,Govt.Girls Primary School Bhoja (Combined,31.1154488,74.4680708,Combined,Punjab,2,2,974,678
+232,Govt. Boys Elementary School Sarhali Khurd (Combined,31.1154488,74.4681008,Combined,Punjab,2,1,672,531
+233,Govt. Boys Elementary School Sarhali Khurd (Combined,31.1154488,74.4681308,Combined,Punjab,2,1,604,446
+234,Govt.Girls Elementary School Ibrahim Abad (Combined,31.1154488,74.4681608,Combined,Punjab,2,1,671,537
+201,Govt. Boys Primary School Rai Jhugian(Combined,31.1154488,74.4681908,Combined,Punjab,2,1,692,516
+238,Govt. Boys Elementry School Daftuh(Male,31.1154488,74.4682208,Male,Punjab,4,0,1384,0
+239,Govt. Boys Elementary School Daftuh (Female,31.1154488,74.4682508,Female,Punjab,0,2,0,1014
+240,Office of Union Council.Daftoh(Male,31.1154488,74.4682808,Male,Punjab,2,0,1178,0
+242,Govt.Girls High School Daftuh (Combined,31.1154488,74.4683108,Combined,Punjab,2,2,1301,859
+243,Govt.Girls High School Lakhne Ke (Combined,31.1154488,74.4683408,Combined,Punjab,2,1,739,520
+246,Govt. Boys Primary School Lakhne Ke (Female,31.1154488,74.4683708,Female,Punjab,0,3,0,1347
+202,Govt. Boys  Primary School Bader Pur (Male,31.1154488,74.4684008,Male,Punjab,3,0,1474,0
+247,Govt.Girls High School Lakhne Ke(Male,31.1154488,74.4684308,Male,Punjab,3,0,1339,0
+248,Govt.Girls High School Lakhne Ke (Female,31.1154488,74.4684608,Female,Punjab,0,2,0,977
+252,Govt.Girls Primary School Theh Bhallo(Combined,31.1154488,74.4684908,Combined,Punjab,2,1,772,549
+203,Govt.Girls Elementary School Bader Pur (Female,31.1154488,74.4685208,Female,Punjab,0,2,0,1149
+204,Govt. Boys High School Badian(Male,31.1154488,74.4685508,Male,Punjab,3,0,1107,0
+205,Govt.Girls High School Badian (Male,31.1154488,74.4685808,Male,Punjab,2,0,667,0
+206,Govt.Girls High School Badian (Female,31.1154488,74.4686108,Female,Punjab,0,3,0,1255
+207,Govt. Boys High School Chhatian Wala (Combined,31.1154488,74.4686408,Combined,Punjab,1,1,499,304
+208,Govt. Boys High School Chhatian Wala (Combined,31.1154488,74.4686708,Combined,Punjab,1,1,580,395
+209,Govt.Girls Elementary School Chhatian Wala (Combined,31.1154488,74.4687008,Combined,Punjab,1,1,358,185
+210,Govt.Girls Elementary School Chhatian Wala (Combined,31.1154488,74.4687308,Combined,Punjab,2,1,834,553
+260,RHC Mustafabad (Male,31.1154488,74.4687608,Male,Punjab,2,0,848,0
+261,RHC Mustafabad (Female,31.1154488,74.4687908,Female,Punjab,0,4,0,2231
+262,RHC Mustafabad (Male,31.1154488,74.4688208,Male,Punjab,4,0,2065,0
+263,GPS#1 Mustfabad Chowk Shah Nawaz (Male),31.1154488,74.4688508,Male,Punjab,3,0,1290,0
+264,GPS#1 Mustfabad Chowk Shah Nawaz (Male),31.1154488,74.4688808,Male,Punjab,4,0,1311,0
+265,GPS#1 Mustfabad Chowk Shah Nawaz(Female),31.1154488,74.4689108,Female,Punjab,0,4,0,1782
+266,Govt Girls Primary School Sharki Abadi Mustafabad(BEWAN Basti (Combined,31.1154488,74.4689408,Combined,Punjab,1,1,646,526
+267,Govt.Girls Primary School No.3 Main Bazar (Male),31.1154488,74.4689708,Male,Punjab,3,0,1169,0
+268,Govt.Girls Primary School No.3 Main Bazar (Female),31.1154488,74.4690008,Female,Punjab,0,2,0,963
+226,Govt. Boys High School Sarhali Kalan (Combined,31.11545472,74.4677184,Combined,Punjab,2,2,845,580
+227,Govt. Boys High School Sarhali Kalan (Combined,31.11545472,74.4677484,Combined,Punjab,2,2,866,577
+12,Govt. Boys Islamia Degree College Kasur.,31.115477,74.4676669,Male,Punjab,4,0,1648,0
+13,Govt. Boys Islamia Degree College Kasur.,31.115477,74.4676969,Female,Punjab,0,4,0,1384
+15,Govt. Boys Islamia Degree College Kasur.,31.115477,74.4677269,Combined,Punjab,1,1,345,297
+138,Govt. Lab School- Jinnah Road- Kasur.,31.115477,74.4677569,Male,Punjab,3,0,1395,0
+139,Govt. Lab School- Jinnah Road- Kasur.,31.115477,74.4677869,Female,Punjab,0,3,0,1179
+14,Govt. MC Girls High School Shahbaz Khan Road Kasur.,31.115477,74.4678169,Combined,Punjab,2,1,547,447
+16,Govt. MC Girls High School Shahbaz Khan Road Kasur.,31.115477,74.4678469,Male,Punjab,4,0,1668,0
+17,Govt. MC Girls High School Shahbaz Khan Road Kasur.,31.115477,74.4678769,Female,Punjab,0,3,0,1378
+142,Govt.Boys Primary school Dingi Pura- Kasur.,31.115477,74.4679069,Male,Punjab,3,0,1336,0
+143,Govt.Boys Primary school Dingi Pura- Kasur.,31.115477,74.4679369,Female,Punjab,0,3,0,1113
+144,Govt. Girls Elementary School Basti Chup Shah- Kasur.,31.115477,74.4679669,Male,Punjab,4,0,1803,0
+145,Govt. Girls Elementary School Basti Chup Shah- Kasur.,31.115477,74.4679969,Female,Punjab,0,3,0,1353
+20,Govt. Girls Elementary School Munir Shaheed Colony- Kasur.,31.115477,74.4680269,Male,Punjab,2,0,799,0
+18,Govt. Girls Elementary School Munir Shaheed Colony- Kasur.,31.115477,74.4680569,Male,Punjab,3,0,1195,0
+21,Govt. Boys Primary School Jamia Hanfia near Sabzi Mandi- Kasur.,31.115477,74.4680869,Male,Punjab,4,0,1596,0
+22,Govt. Boys Primary School Jamia Hanfia near Sabzi Mandi- Kasur.,31.115477,74.4681169,Female,Punjab,0,3,0,1250
+27,EX. Office District Officer Forest Steel Bagh- Kasur.,31.115477,74.4681469,Male,Punjab,4,0,2531,0
+28,EX. Office District Officer Forest Steel Bagh- Kasur.,31.115477,74.4681769,Female,Punjab,0,4,0,1938
+110,Govt. Boys Primary School Kot Murad Chock Shahidan Wala Kasur.,31.115487,74.4676088,Combined,Punjab,2,2,1082,829
+116,Muncipal Committee. Girls Primary School Bazar Dalgran Kasur.,31.115487,74.4676388,Male,Punjab,2,0,1011,0
+117,Muncipal Committee. Girls Primary School Bazar Dalgran Kasur.,31.115487,74.4676688,Female,Punjab,0,2,0,870
+118,Primary Portion Govt. Boys  Taid-ul-Islam High School Kasur.,31.115487,74.4676988,Male,Punjab,3,0,1204,0
+119,Primary Portion Govt. Boys  Taid-ul-Islam High School Kasur.,31.115487,74.4677288,Female,Punjab,0,2,0,1009
+120,Govt. Boys Taid-ul-Islam High School Kasur.,31.115487,74.4677588,Male,Punjab,3,0,1255,0
+122,Govt. Boys Primary School Basti Lal Shah- Kasur.,31.115487,74.4677888,Male,Punjab,2,0,785,0
+123,Govt. Boys Primary School Basti Lal Shah- Kasur.,31.115487,74.4678188,Male,Punjab,2,0,893,0
+124,Govt. Girls Elementary School Basti Lal Shah- Kasur.,31.115487,74.4678488,Female,Punjab,0,4,0,1512
+125,Govt. Girls Elementary School Basti Lal Shah- Kasur.,31.115487,74.4678788,Male,Punjab,2,0,864,0
+126,Govt. Girls Elementary School Basti Lal Shah- Kasur.,31.115487,74.4679088,Male,Punjab,3,0,1113,0
+127,Govt. Girls Elementary School Basti Lal Shah- Kasur.,31.115487,74.4679388,Female,Punjab,0,4,0,1528
+136,Govt. Technical Training Centre- Raiwind Road- Kasur.,31.115487,74.4679688,Male,Punjab,4,0,1306,0
+137,Govt. Technical Training Centre- Raiwind Road- Kasur.,31.115487,74.4679988,Female,Punjab,0,2,0,1058
+60,Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4680288,Male,Punjab,4,0,1943,0
+61,Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4680588,Female,Punjab,0,2,0,986
+62,Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4680888,Male,Punjab,3,0,1053,0
+63,Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4681188,Female,Punjab,0,4,0,1411
+64,Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4681488,Male,Punjab,4,0,1323,0
+65,Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4681788,Female,Punjab,0,3,0,1069
+68,Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4682088,Male,Punjab,4,0,1430,0
+69,Mission High School  (ST JOSEPH)- Latif Pura- Kasur.,31.115487,74.4682388,Female,Punjab,0,3,0,1169
+105,Railway Dispensary Near Railway Station- Kasur.,31.115487,74.4682688,Male,Punjab,3,0,1278,0
+106,Railway Dispensary Near Railway Station- Kasur.,31.115487,74.4682988,Female,Punjab,0,2,0,1013
+107,Govt. Girls Primary School- Manzoor Colony- Jammat Pura- Kasur,31.1155627,74.4671711,Male,Punjab,4,0,1447,0
+108,Govt. Girls Primary School- Manzoor Colony- Jammat Pura- Kasur.,31.1155627,74.4672011,Female,Punjab,0,3,0,1157
+150,Govt. Boys Elementary School Sheikh Bhago(Male,31.1155627,74.4672311,Male,Punjab,2,0,807,0
+151,Govt. Boys Elementary School Sheikh Bhago (Female,31.1155627,74.4672611,Female,Punjab,0,2,0,599
+152,Govt.Girls Primary School Sheikh Bhago                 (Combined,31.1155627,74.4672911,Combined,Punjab,2,1,946,728
+153,Govt.Girls Primary School Sheikh Bhago                 (Combined,31.1155627,74.4673211,Combined,Punjab,2,1,831,639
+38,Millat Idial School Kot Molvi Abdul Qadir- Kasur. (Private),31.1155627,74.4673511,Male,Punjab,3,0,1215,0
+39,Millat Idial School Kot Molvi Abdul Qadir- Kasur. (Private),31.1155627,74.4673811,Female,Punjab,0,2,0,918
+80,Govt. Girls Elementary School Iqra Bhasar Pura- Street No. 07- Kasur.,31.1155627,74.4674111,Male,Punjab,3,0,1210,0
+81,Govt. Girls Elementary School Iqra Bhasar Pura- Street No. 07- Kasur.,31.1155627,74.4674411,Female,Punjab,0,2,0,1046
+82,Shamas Pilot High School Bhasar Pura- Kasur.,31.1155627,74.4674711,Male,Punjab,2,0,675,0
+83,Shamas Pilot High School Bhasar Pura- Kasur.,31.1155627,74.4675011,Female,Punjab,0,2,0,518
+87,Govt. Boys High School Basti Chiragh Shah - Kasur.,31.1155627,74.4675311,Male,Punjab,3,0,1282,0
+88,Govt. Boys High School Basti Chiragh Shah - Kasur.,31.1155627,74.4675611,Female,Punjab,0,3,0,959
+89,Dignity Public School Basti Sabri- Kasur.,31.1155627,74.4675911,Male,Punjab,4,0,2054,0
+90,Dignity Public School Basti Sabri- Kasur.,31.1155627,74.4676211,Male,Punjab,3,0,1411,0
+91,Dignity Public School Basti Sabri- Kasur.,31.1155627,74.4676511,Female,Punjab,0,4,0,2569
+92,Govt. MC Boys High School Basti Chiragh Shah- Kasur.,31.1155627,74.4676811,Male,Punjab,3,0,1066,0
+93,Govt. MC Boys High School Basti Chiragh Shah- Kasur.,31.1155627,74.4677111,Female,Punjab,0,4,0,1573
+94,Govt. MC Boys High School Basti Chiragh Shah- Kasur.,31.1155627,74.4677411,Male,Punjab,2,0,929,0
+97,Govt. MC Boys High School Basti Chiragh Shah- Kasur.,31.1155627,74.4677711,Male,Punjab,2,0,1009,0
+98,Govt. MC Boys High School Basti Chiragh Shah- Kasur.,31.1155627,74.4678011,Female,Punjab,0,2,0,814
+95,Govt. Girls Primary School Basti Sabri- Kasur.,31.1155627,74.4678311,Male,Punjab,4,0,2120,0
+96,Govt. Girls Primary School Basti Sabri- Kasur.,31.1155627,74.4678611,Female,Punjab,0,4,0,1646
+100,Govt. Boys Primary School Bhatta Sohan Din- Kasur.,31.1155627,74.4678911,Male,Punjab,2,0,954,0
+99,Govt. Boys Primary School Bhatta Sohan Din- Kasur.,31.1155627,74.4679211,Male,Punjab,4,0,1262,0
+101,Govt. Boys Primary School Bhatta Sohan Din- Kasur.,31.1155627,74.4679511,Female,Punjab,0,4,0,1773
+102,Govt. MC High School (Priamry Portion) Purani Building Gali No. 4 Basti Chiragh Shah- Kasur.,31.1155627,74.4679811,Male,Punjab,4,0,2253,0
+103,Govt. MC High School (Priamry Portion) Purani Building Gali No. 4 Basti Chiragh Shah- Kasur.,31.1155627,74.4680111,Female,Punjab,0,4,0,1782
+104,Govt. MC High School (Priamry Portion) Purani Building Gali No. 4 Basti Chiragh Shah- Kasur.,31.1155627,74.4680411,Combined,Punjab,2,1,705,511
+316,Govt.Boys High School Sahjra,31.11560099691331,74.6249351303291,Male,Punjab,4,0,1674,0
+317,Govt.Boys High school Sahjra,31.11560099691331,74.6249651303291,Female,Punjab,0,3,0,1274
+111,Govt. Hanfia Islamia High School- National Bank Chowk- Kasur.,31.115782707289927,74.45003745527578,Male,Punjab,4,0,1993,0
+112,Govt. Hanfia Islamia High School- National Bank Chowk- Kasur.,31.115782707289927,74.4500674552758,Female,Punjab,0,4,0,2340
+113,Govt. Hanfia Islamia High School- National Bank Chowk- Kasur.,31.115782707289927,74.4500974552758,Male,Punjab,2,0,676,0
+146,Govt.Boys Primary school Kot Usman Khan- Kasur.,31.11602468,74.44604721,Male,Punjab,3,0,1185,0
+148,Govt.Boys Primary school Kot Usman Khan- Kasur.,31.11602468,74.44607721,Female,Punjab,0,2,0,1000
+314,Govt. Girls Primary school sahjra,31.116490916857295,74.62305974453527,Male,Punjab,2,0,712,0
+315,Govt.Girls Primary School Sahjra,31.116490916857295,74.6230897445353,Female,Punjab,0,2,0,414
+55,Govt. Girls Degree College-Baldia Chowk- Kasur.,31.118759219125785,74.45603795617534,Male,Punjab,2,0,682,0
+56,Govt. Girls Degree College-Baldia Chowk- Kasur.,31.118759219125785,74.4560679561753,Female,Punjab,0,4,0,1368
+57,Govt. Girls Degree College-Baldia Chowk- Kasur.,31.118759219125785,74.4560979561753,Male,Punjab,3,0,1072,0
+109,Govt. Boys Primary School- Jammat Pura- Kasur,31.1190059792417,74.43957321340578,Combined,Punjab,1,1,300,229
+294,Govt. Boys Primary School Haveli Padanianwali  (Combined,31.12011485565718,74.3757466209865,Combined,Punjab,1,1,304,197
+114,Govt. Boys Primary School Gandum Mandi- Kasur.,31.12012298886183,74.4481512115917,Male,Punjab,2,0,1065,0
+115,Govt. Boys Primary School Gandum Mandi- Kasur.,31.12012298886183,74.4481812115917,Female,Punjab,0,2,0,889
+318,Govt.Boys Primary School Mabbuke,31.120501059511998,74.65051453942687,Combined,Punjab,1,1,527,397
+58,Govt. Boys Primary School Shahbaz Road- Kasur.,31.12068607,74.4583414,Male,Punjab,3,0,1155,0
+59,Govt. Boys Primary School Shahbaz Road- Kasur.,31.12068607,74.4583714,Female,Punjab,0,2,0,906
+159,Govt. Boys Primary School Rasoolpur- Kasur Rural Part (Male,31.121105447166425,74.4355987755782,Male,Punjab,4,0,2751,0
+121,Office of the Manager Sanat Zar- Kot Rukan Din- Kasur.,31.12232501,74.44513416,Female,Punjab,0,3,0,1125
+128,Govt. Girls High School Haji Farid Road Kasur.,31.122536013606688,74.44833161436128,Male,Punjab,3,0,1165,0
+129,Govt. Girls High School Haji Farid Road Kasur.,31.122536013606688,74.4483616143613,Female,Punjab,0,2,0,939
+147,Govt. Girls High School  Haji Farid Raod- Kasur.,31.122539068981503,74.44822591532123,Combined,Punjab,1,1,550,431
+149,Govt. Girls High School  Haji Farid Raod- Kasur.,31.122539068981503,74.4482559153212,Combined,Punjab,2,2,740,677
+140,Govt. Boys Model High School-  Near Education Complex- Kasur.,31.12310889147722,74.44976564900446,Male,Punjab,2,0,729,0
+141,Govt. Boys Model High School-  Near Education Complex- Kasur.,31.12310889147722,74.4497956490045,Female,Punjab,0,2,0,554
+52,Govt. Boys Primary School Care Colony-Kasur.,31.12439950251596,74.4728987524816,Male,Punjab,3,0,1071,0
+53,Govt. Boys Primary School Care Colony-Kasur.,31.12439950251596,74.4729287524816,Female,Punjab,0,2,0,952
+23,Govt. Girls Primary School Road Kot Kasur.,31.124917568159173,74.46082295741908,Male,Punjab,4,0,3213,0
+24,Govt. Girls Primary School Road Kot Kasur.,31.124917568159173,74.4608529574191,Female,Punjab,0,4,0,2712
+132,Govt. Girls Primary School Shah Inayat Colony- Kot Rukan Din- Kasur.,31.125426073233378,74.44490969084663,Male,Punjab,4,0,1553,0
+133,Govt. Girls Primary School Shah Inayat Colony- Kot Rukan Din- Kasur.,31.125426073233378,74.4449396908466,Female,Punjab,0,3,0,1237
+134,Govt. Boys Primary School Basti Khadima Abad- Khara Road- Kasur.,31.127901214044634,74.44517907351275,Male,Punjab,2,0,1020,0
+135,Govt. Boys Primary School Basti Khadima Abad- Khara Road- Kasur.,31.127901214044634,74.4452090735127,Female,Punjab,0,2,0,847
+25,Press Club- Ferozpur Road- Kasur.,31.13121379085719,74.46012454970317,Male,Punjab,4,0,2773,0
+26,Press Club- Ferozpur Road- Kasur.,31.13121379085719,74.4601545497032,Female,Punjab,0,4,0,2260
+4,Office District Population Welfare Officer- Kasur. Fazal Khan Colony Street  No. 1- Kasur.,31.132647808839607,74.45469821510802,Male,Punjab,4,0,1764,0
+5,Office District Population Welfare Officer- Kasur. Fazal Khan Colony Street  No. 1- Kasur.,31.132647808839607,74.454728215108,Female,Punjab,0,4,0,1319
+6,Govt. Boys Primary School Gulam Sabir KhudanPura- Abadi Noor Shah Wali- Kasur.,31.13451496,74.45329767,Male,Punjab,4,0,1731,0
+7,Govt. Boys Primary School Gulam Sabir KhudanPura- Abadi Noor Shah Wali- Kasur.,31.13451496,74.45332767,Female,Punjab,0,3,0,1368
+193,Govt. Boys Primary School Rang Pur (Combined,31.135395507394346,74.48035850702898,Combined,Punjab,2,2,1589,1266
+8,Govt. Boys Primary School Basti Qadirabad Kasur.,31.135586859714405,74.4452427055943,Male,Punjab,4,0,1771,0
+9,Govt. Boys Primary School Basti Qadirabad Kasur.,31.135586859714405,74.4452727055943,Female,Punjab,0,4,0,1403
+288,Govt. Boys Elementary School Nand Ka Takya Hardo Sahari(Male,31.135953904468586,74.37988523436073,Male,Punjab,3,0,1130,0
+287,Govt.Girls Primary School Nand Ka Takya Hardo Sahari (Female,31.13752044855808,74.38060229606428,Female,Punjab,0,2,0,767
+1,Govt. Boys Primary School Kot Fateh Baz Khan- Kasur.,31.13907307447883,74.45690904344397,Male,Punjab,2,0,883,0
+2,Govt. Boys Primary School Kot Fateh Baz Khan- Kasur.,31.13907307447883,74.456939043444,Male,Punjab,3,0,1173,0
+3,Govt. Girls Primary School Kot Fateh Baz Khan,31.13907307447883,74.456969043444,Female,Punjab,0,4,0,1638
+290,Govt. Boys High School Chah Arroor Singh Hardo Sahari(Male,31.13918852001443,74.35069786648378,Male,Punjab,3,0,1077,0
+291,Basic Health Unit Ramyana  Hardo Sahari (Combined,31.140499616374672,74.3450021660164,Combined,Punjab,2,2,1351,1051
+191,Govt.Girls Primary School Peru Wala (Male,31.14095026890982,74.47783958391415,Male,Punjab,2,0,1024,0
+192,Govt.Girls Primary School Peru Wala (Female,31.14095026890982,74.4778695839141,Female,Punjab,0,2,0,771
+289,Govt. Girls Primary School Chah Arroor Singh Hardo Sahari (Female ),31.144275255001638,74.3510953704684,Female,Punjab,0,2,0,856
+284,Govt.Girls Elementary School Haveli Balaqa singh Hardo Sahari (Male,31.149950765232337,74.35032279245091,Male,Punjab,2,0,759,0
+285,Govt.Girls Elementary School Haveli Balaqa Singh Hardo Sahari (Female,31.149950765232337,74.3503527924509,Female,Punjab,0,2,0,528
+235,Govt. Boys Primary School Basti Bewan   (Beroon Mustafabad) (Combined,31.15071728,74.20634895,Combined,Punjab,1,1,399,239
+236,Govt. Boys Primary School Basti Bewan    (Beroon Mustafabad) (Combined),31.15071728,74.20637895,Combined,Punjab,2,1,728,445
+158,Govt. Boys Primary School Sader Dewan (Combined,31.155006840426566,74.45889428980932,Combined,Punjab,2,2,1727,1364
+296,Govt. Boys Primary School Vern- Chak Buliana (Female,31.15530270397857,74.4865501726092,Female,Punjab,0,2,0,1050
+295,Govt.Girls Primary School Vern- Chak Buliana(Male,31.15685549091445,74.4874834215939,Male,Punjab,3,0,1448,0
+299,Govt. Boys High School Qadiwind Chak Buliana (Combined,31.168410787888607,74.48719183032055,Combined,Punjab,2,2,866,645
+300,Govt. Girls High School Qadiwind Chak Buliana (Combined,31.169200581331708,74.47581967312708,Combined,Punjab,2,2,1486,1136
+297,Govt. Boys Primary School Targa Chak Buliana (Combined,31.18203903042928,74.49991306233917,Combined,Punjab,2,2,1103,722

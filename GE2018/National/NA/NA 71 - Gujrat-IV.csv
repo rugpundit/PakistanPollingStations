@@ -1,9 +1,9 @@
-PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
- 63 - Girls Primary School - Thoon (Combined),32.884063906353994,73.746624543629,Combined,Punjab,2,1,789,710
- 127 - Girls Higher Sec School Sarai Alamgir  (Male),32.8999466,73.7552562,Male,Punjab,3,0,1647,0
- 128 - Girls Higher Sec School Sarai Alamgir  (Male),32.8999466,73.7552862,Male,Punjab,3,0,2291,0
- 107 - Girls High School Mahey Road Sarai Alamgir  (Male),32.8999466,73.7553162,Male,Punjab,2,0,1582,0
- 108 - Girls High School Mahey Road Sarai Alamgir  (Male),32.8999466,73.7553462,Male,Punjab,2,0,941,0
- 45 - GGPS Nothia Qureshian  (Female),32.91619,73.77898,Female,Punjab,0,2,0,865
- 82 - Govt. Gilrs Model School- Kastila (Combined),32.9165294,73.7947798,Combined,Punjab,2,2,1017,805
- 16 - Govt. Boys E/S Mandi Bhalwal (Combined),32.97481819653318,73.89384829419917,Combined,Punjab,1,1,613,503
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+63,Girls Primary School - Thoon (Combined),32.884063906353994,73.746624543629,Combined,Punjab,2,1,789,710
+127,Girls Higher Sec School Sarai Alamgir  (Male),32.8999466,73.7552562,Male,Punjab,3,0,1647,0
+128,Girls Higher Sec School Sarai Alamgir  (Male),32.8999466,73.7552862,Male,Punjab,3,0,2291,0
+107,Girls High School Mahey Road Sarai Alamgir  (Male),32.8999466,73.7553162,Male,Punjab,2,0,1582,0
+108,Girls High School Mahey Road Sarai Alamgir  (Male),32.8999466,73.7553462,Male,Punjab,2,0,941,0
+45,GGPS Nothia Qureshian  (Female),32.91619,73.77898,Female,Punjab,0,2,0,865
+82,Govt. Gilrs Model School- Kastila (Combined),32.9165294,73.7947798,Combined,Punjab,2,2,1017,805
+16,Govt. Boys E/S Mandi Bhalwal (Combined),32.97481819653318,73.89384829419917,Combined,Punjab,1,1,613,503
