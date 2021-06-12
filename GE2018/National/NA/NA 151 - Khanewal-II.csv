@@ -1,88 +1,88 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-54,Govt Middle School-10-/8-R (Combined) Boys Section,30.23635754,71.95360821,Combined,Punjab,2,2,874,686
-55,Govt Model Primary School-14/8-R(East) (Combined) Girls Portion,30.23774945,71.95840816,Combined,Punjab,2,2,715,506
-56,Govt Model Primary School-14/8-R(East) (Combined) Boys Portion,30.23774945,71.95843816,Combined,Punjab,1,1,462,381
-53,Govt Model School 8-B/8-R  (Combined),30.2428903,71.92658368,Combined,Punjab,2,1,534,368
-52,Govt .Boys Model Primary School- 8-A / 8R  (Combined),30.24414706,71.92727659,Combined,Punjab,2,1,520,385
-50,Govt High  School-  11-A / 8R (Combined),30.25086829,71.91421846,Combined,Punjab,2,2,700,587
-51,Govt Model  Middle School-  11-B / 8R (Combined),30.25086829,71.91424846,Combined,Punjab,2,2,989,794
-71,Govt High School 8/9-R (Male),30.27063354,71.82618249,Male,Punjab,2,0,765,0
-36,Govt. Girls Middle English Medium School- Mian Shameer No. 02- Markaz Khanewal (Combined),30.27559241,71.95249711,Combined,Punjab,1,1,394,271
-35,Govt .Boys Elementry School 18/AH (Combined),30.2783996,71.91798381,Combined,Punjab,1,1,438,257
-66,Govt Girls  Elementry School-   5/9-R (Female),30.27971954,71.87273616,Female,Punjab,0,4,0,1420
-67,Govt High School- 7/9-R (Male),30.27971954,71.87276616,Male,Punjab,3,0,1002,0
-68,Govt High School-7/9-R (Male),30.27971954,71.87279616,Male,Punjab,1,0,342,0
-48,Govt Model  Primary School-  11/8-R (Combined) Boys Portion,30.2808642,71.98076398,Combined,Punjab,2,2,944,761
-47,Govt .Girls Primary School- 15/ V Sharki (Combined),30.28143102,71.98080052,Combined,Punjab,1,1,361,267
-62,Govt Model  Middle School-13/8-R (Girls Portion) (Female),30.28175,71.8389979,Female,Punjab,0,1,0,392
-80,Govt Model Middle School 15/9-R (Combined),30.28400942,71.78252693,Combined,Punjab,1,1,216,166
-82,Govt Elementry School 13/9-R (Combined),30.28400942,71.78255693,Combined,Punjab,2,2,1083,794
-83,Govt Boys Primary School 18/9-R (Combined),30.28400942,71.78258693,Combined,Punjab,2,2,1037,793
-8,Primary School No-2 Makhdom Pur  (Female),30.2902704,71.8533283,Female,Punjab,0,4,0,1306
-81,Govt Elementry School 13/9-R (Combined),30.29242445,71.78716192,Combined,Punjab,1,1,407,324
-84,Govt Girls Primary School 4/8-AR (Combined),30.29242445,71.78719192,Combined,Punjab,2,2,765,558
-69,Govt High School-7/9-R (Combined),30.29305699,71.85890094,Combined,Punjab,2,2,923,806
-79,Govt Model Middle School 15/9-R Girls Portion (Combined),30.29393403,71.81785154,Combined,Punjab,2,2,968,872
-85,Govt Boys High School 4/9-R (Male),30.2942898,71.78719051,Male,Punjab,4,0,1450,0
-86,Govt Boys High School 4/9-R  (Part-II) (Female),30.2942898,71.78722051,Female,Punjab,0,3,0,1184
-45,Govt .Girls Primary School- 15/ V (Combined),30.2946195,71.97022539,Combined,Punjab,2,1,658,447
-46,Govt .Girls Primary School- 15/ V (Combined),30.2946195,71.97025539,Combined,Punjab,2,1,731,541
-63,Govt Primary School 12/8-R (Combined),30.29917122,71.89854257,Combined,Punjab,1,1,385,314
-64,Govt  Model Middle School-   9/9-R (Combined),30.29917122,71.89857257,Combined,Punjab,2,2,761,607
-65,Govt Elementry School- 5/9-R (Male),30.29917122,71.89860257,Male,Punjab,4,0,1604,0
-95,Govt Boys Higher Secondary School 19/9-R (Combined),30.30257516,71.84581861,Combined,Punjab,2,2,787,610
-41,Govt .Girls Middle School- 16/ V (Female),30.30616637,71.98921591,Female,Punjab,0,3,0,1149
-42,Govt .Boys Middle School- Chak No.17/AH  (Combined),30.30616637,71.98924591,Combined,Punjab,2,1,680,489
-72,Govt High School 8/9-R (Male),30.3077998,71.9369186,Male,Punjab,3,0,1178,0
-73,Govt .Girls Community Model School 8/9-R (Female),30.3077998,71.9369486,Female,Punjab,0,3,0,932
-74,Govt .Girls Community Model School 8/9-R (Female),30.3077998,71.9369786,Female,Punjab,0,2,0,542
-75,Govt .Girls Middle School 14/9-R(Middle Port) (Male),30.3077998,71.9370086,Male,Punjab,4,0,1737,0
-76,Govt .Girls Middle School 14/9-R(Primary Port (Female),30.3077998,71.9370386,Female,Punjab,0,2,0,800
-77,Govt .Girls Middle School 14/9-R(Primary Port (Female),30.3077998,71.9370686,Female,Punjab,0,2,0,561
-78,Govt Boys High School  14/9-R  (Combined),30.3077998,71.9370986,Combined,Punjab,2,1,630,431
-87,Govt Boys Middle School 2/9-R (Male),30.3077998,71.9371286,Male,Punjab,3,0,1168,0
-88,Govt Boys Middle School 2/9-R (Combined),30.3077998,71.9371586,Combined,Punjab,2,2,760,624
-89,Govt Girls Middle School 2/9-R (Female),30.3077998,71.9371886,Female,Punjab,0,3,0,932
-9,Govt. Higher Secondary School Boys Makhdom Pur (Male),30.3077998,71.9372186,Male,Punjab,2,0,528,0
-3,Govt. Middle School Makhdom Pur (Male),30.3077998,71.9372486,Male,Punjab,4,0,1436,0
-30,Govt .Girls High School 12/AH  (Combined),30.3077998,71.9372786,Combined,Punjab,2,2,811,586
-31,Govt .Girls Model Community School-11/AH  (Combined),30.3077998,71.9373086,Combined,Punjab,2,2,973,747
-33,Govt . High School- 9/ V  (Combined),30.3077998,71.9373386,Combined,Punjab,2,2,956,748
-34,Govt .Boys Elementry School 18/AH  (Combined),30.3077998,71.9373686,Combined,Punjab,2,2,735,624
-21,Govt Girls High School- Chak No. 4/AH   (Combined),30.3082198,71.937676,Combined,Punjab,2,2,901,653
-22,Govt Girls High School- Chak No. 4/AH  (Combined),30.3082198,71.937706,Combined,Punjab,1,1,499,323
-23,Govt .Model Primary School- Chak No. 5/AH   (Combined),30.3082198,71.937736,Combined,Punjab,2,2,751,605
-24,Govt .Boys Primary School Chak No. 10/AH (Combined),30.3082198,71.937766,Combined,Punjab,2,2,791,591
-25,Govt .Girls Primary School- Chak No.10/AH  (Combined),30.3082198,71.937796,Combined,Punjab,1,1,434,323
-26,Govt .Boys Primary School-6/AH  (Combine),30.3082198,71.937826,Combined,Punjab,2,2,788,550
-27,Govt Model Primary School-7/V (Combined),30.3082198,71.937856,Combined,Punjab,2,2,692,506
-28,Govt .Boys High School-12/AH (Combined),30.3082198,71.937886,Combined,Punjab,2,2,1040,811
-40,Govt Elementry School- 16/ V (Male),30.3082198,71.937916,Male,Punjab,4,0,1425,0
-43,Govt .Boys Middle School- Chak No.17/AH  (Combined),30.30879509,71.98888503,Combined,Punjab,2,1,639,541
-44,Govt .Girls Middle School- Chak No.19/ V (Combined),30.30879509,71.98891503,Combined,Punjab,2,2,852,715
-49,Govt High  School-  11-A / 8R (Combined),30.31818572,72.03215171,Combined,Punjab,2,1,636,457
-5,Govt. Higher Secondary School Boys Makhdom Pur  (Male),30.31818572,72.03218171,Male,Punjab,4,0,1226,0
-39,Govt .Girls Primary School- Rakh Makhdum Voni  (Combined),30.32239871,71.9807757,Combined,Punjab,1,1,312,221
-6,Govt. Higher Secondary School Boys Makhdom Pur  (Female),30.33388074,71.89705042,Female,Punjab,0,3,0,942
-60,Govt Model  Middle School-13/8-R (Male) Boys Portion,30.33388074,71.89708042,Male,Punjab,3,0,1362,0
-93,Govt Model Boys Primary School  17/9-R  (Combined),30.34331715,71.85528567,Combined,Punjab,2,2,702,569
-94,Govt Model Boys Primary School  17/9-R  (Combined),30.34331715,71.85531567,Combined,Punjab,1,1,565,434
-90,Govt Elementry School 16/9-R (Male),30.34381408,71.85529329,Male,Punjab,4,0,1497,0
-92,Govt Elementry School 16/9-R (Female),30.34381408,71.85532329,Female,Punjab,0,3,0,1148
-91,Govt Girls Primary School 16/9-R (Combined),30.34382434,71.8553202,Combined,Punjab,2,1,650,510
-4,Govt. Primary Girls Community School Makhdoom Pur (Female),30.34533726,72.03085798,Female,Punjab,0,3,0,1067
-29,Govt .Boys High School- 12/AH(Part-II) (Combined),30.35432592,71.92558007,Combined,Punjab,2,2,710,567
-15,Govt .Girls Middle School 3/AH  (Female),30.42080766,72.0209028,Female,Punjab,0,2,0,871
-14,Govt. High School 3/AH  Primary Portion (Male),30.4208758,72.02514644,Male,Punjab,4,0,1262,0
-19,Govt .Boys Primary School- 6-A Waryam wala 2/AH (Combined),30.42659,71.99548,Combined,Punjab,1,1,476,292
-32,Govt .Boys Primary School- 8 / V  (combined),30.43163662,72.10214561,Combined,Punjab,2,2,839,574
-18,Govt .Girls Middle School- 2/AH  (Combined),30.43435,72.022,Combined,Punjab,2,2,694,520
-13,Govt Model Primary School Makhdoom Pur Station (Combined),30.44019,72.04102,Combined,Punjab,2,2,843,660
-11,Govt. Girls Higher Secondary School Makhdom Pur  (Male),30.46323281,72.04533215,Male,Punjab,4,0,1620,0
-12,Govt. Girls Higher Secondary School Makhdom Pur  (Female),30.46323281,72.04536215,Female,Punjab,0,4,0,1243
-16,Govt .Boys Primary School Kot Abdullah  (Combined),30.47411497,72.04833473,Combined,Punjab,2,2,891,788
-1,Govt. Middle School Makhdom Pur (Male),30.5564883,72.0107592,Male,Punjab,2,0,720,0
-2,Town Committee Makhdom Pur  (Female),30.5564883,72.0107892,Female,Punjab,0,2,0,554
-10,Govt Primary School Talem ul Quran  (Female),30.5564883,72.0108192,Female,Punjab,0,2,0,416
-17,Govt Girls Primary School-Bhirki Kot  Abdullah (Combined),30.5564883,72.0108492,Combined,Punjab,2,1,604,449
-20,Govt Model Primary School- Chak No. 1/AH  (Combined),30.5564883,72.0108792,Combined,Punjab,2,2,853,641
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 54 - Govt Middle School-10-/8-R (Combined) Boys Section,30.23635754,71.95360821,Combined,Punjab,2,2,874,686
+ 55 - Govt Model Primary School-14/8-R(East) (Combined) Girls Portion,30.23774945,71.95840816,Combined,Punjab,2,2,715,506
+ 56 - Govt Model Primary School-14/8-R(East) (Combined) Boys Portion,30.23774945,71.95843816,Combined,Punjab,1,1,462,381
+ 53 - Govt Model School 8-B/8-R  (Combined),30.2428903,71.92658368,Combined,Punjab,2,1,534,368
+ 52 - Govt .Boys Model Primary School- 8-A / 8R  (Combined),30.24414706,71.92727659,Combined,Punjab,2,1,520,385
+ 50 - Govt High  School-  11-A / 8R (Combined),30.25086829,71.91421846,Combined,Punjab,2,2,700,587
+ 51 - Govt Model  Middle School-  11-B / 8R (Combined),30.25086829,71.91424846,Combined,Punjab,2,2,989,794
+ 71 - Govt High School 8/9-R (Male),30.27063354,71.82618249,Male,Punjab,2,0,765,0
+ 36 - Govt. Girls Middle English Medium School- Mian Shameer No. 02- Markaz Khanewal (Combined),30.27559241,71.95249711,Combined,Punjab,1,1,394,271
+ 35 - Govt .Boys Elementry School 18/AH (Combined),30.2783996,71.91798381,Combined,Punjab,1,1,438,257
+ 66 - Govt Girls  Elementry School-   5/9-R (Female),30.27971954,71.87273616,Female,Punjab,0,4,0,1420
+ 67 - Govt High School- 7/9-R (Male),30.27971954,71.87276616,Male,Punjab,3,0,1002,0
+ 68 - Govt High School-7/9-R (Male),30.27971954,71.87279616,Male,Punjab,1,0,342,0
+ 48 - Govt Model  Primary School-  11/8-R (Combined) Boys Portion,30.2808642,71.98076398,Combined,Punjab,2,2,944,761
+ 47 - Govt .Girls Primary School- 15/ V Sharki (Combined),30.28143102,71.98080052,Combined,Punjab,1,1,361,267
+ 62 - Govt Model  Middle School-13/8-R (Girls Portion) (Female),30.28175,71.8389979,Female,Punjab,0,1,0,392
+ 80 - Govt Model Middle School 15/9-R (Combined),30.28400942,71.78252693,Combined,Punjab,1,1,216,166
+ 82 - Govt Elementry School 13/9-R (Combined),30.28400942,71.78255693,Combined,Punjab,2,2,1083,794
+ 83 - Govt Boys Primary School 18/9-R (Combined),30.28400942,71.78258693,Combined,Punjab,2,2,1037,793
+ 8 - Primary School No-2 Makhdom Pur  (Female),30.2902704,71.8533283,Female,Punjab,0,4,0,1306
+ 81 - Govt Elementry School 13/9-R (Combined),30.29242445,71.78716192,Combined,Punjab,1,1,407,324
+ 84 - Govt Girls Primary School 4/8-AR (Combined),30.29242445,71.78719192,Combined,Punjab,2,2,765,558
+ 69 - Govt High School-7/9-R (Combined),30.29305699,71.85890094,Combined,Punjab,2,2,923,806
+ 79 - Govt Model Middle School 15/9-R Girls Portion (Combined),30.29393403,71.81785154,Combined,Punjab,2,2,968,872
+ 85 - Govt Boys High School 4/9-R (Male),30.2942898,71.78719051,Male,Punjab,4,0,1450,0
+ 86 - Govt Boys High School 4/9-R  (Part-II) (Female),30.2942898,71.78722051,Female,Punjab,0,3,0,1184
+ 45 - Govt .Girls Primary School- 15/ V (Combined),30.2946195,71.97022539,Combined,Punjab,2,1,658,447
+ 46 - Govt .Girls Primary School- 15/ V (Combined),30.2946195,71.97025539,Combined,Punjab,2,1,731,541
+ 63 - Govt Primary School 12/8-R (Combined),30.29917122,71.89854257,Combined,Punjab,1,1,385,314
+ 64 - Govt  Model Middle School-   9/9-R (Combined),30.29917122,71.89857257,Combined,Punjab,2,2,761,607
+ 65 - Govt Elementry School- 5/9-R (Male),30.29917122,71.89860257,Male,Punjab,4,0,1604,0
+ 95 - Govt Boys Higher Secondary School 19/9-R (Combined),30.30257516,71.84581861,Combined,Punjab,2,2,787,610
+ 41 - Govt .Girls Middle School- 16/ V (Female),30.30616637,71.98921591,Female,Punjab,0,3,0,1149
+ 42 - Govt .Boys Middle School- Chak No.17/AH  (Combined),30.30616637,71.98924591,Combined,Punjab,2,1,680,489
+ 72 - Govt High School 8/9-R (Male),30.3077998,71.9369186,Male,Punjab,3,0,1178,0
+ 73 - Govt .Girls Community Model School 8/9-R (Female),30.3077998,71.9369486,Female,Punjab,0,3,0,932
+ 74 - Govt .Girls Community Model School 8/9-R (Female),30.3077998,71.9369786,Female,Punjab,0,2,0,542
+ 75 - Govt .Girls Middle School 14/9-R(Middle Port) (Male),30.3077998,71.9370086,Male,Punjab,4,0,1737,0
+ 76 - Govt .Girls Middle School 14/9-R(Primary Port (Female),30.3077998,71.9370386,Female,Punjab,0,2,0,800
+ 77 - Govt .Girls Middle School 14/9-R(Primary Port (Female),30.3077998,71.9370686,Female,Punjab,0,2,0,561
+ 78 - Govt Boys High School  14/9-R  (Combined),30.3077998,71.9370986,Combined,Punjab,2,1,630,431
+ 87 - Govt Boys Middle School 2/9-R (Male),30.3077998,71.9371286,Male,Punjab,3,0,1168,0
+ 88 - Govt Boys Middle School 2/9-R (Combined),30.3077998,71.9371586,Combined,Punjab,2,2,760,624
+ 89 - Govt Girls Middle School 2/9-R (Female),30.3077998,71.9371886,Female,Punjab,0,3,0,932
+ 9 - Govt. Higher Secondary School Boys Makhdom Pur (Male),30.3077998,71.9372186,Male,Punjab,2,0,528,0
+ 3 - Govt. Middle School Makhdom Pur (Male),30.3077998,71.9372486,Male,Punjab,4,0,1436,0
+ 30 - Govt .Girls High School 12/AH  (Combined),30.3077998,71.9372786,Combined,Punjab,2,2,811,586
+ 31 - Govt .Girls Model Community School-11/AH  (Combined),30.3077998,71.9373086,Combined,Punjab,2,2,973,747
+ 33 - Govt . High School- 9/ V  (Combined),30.3077998,71.9373386,Combined,Punjab,2,2,956,748
+ 34 - Govt .Boys Elementry School 18/AH  (Combined),30.3077998,71.9373686,Combined,Punjab,2,2,735,624
+ 21 - Govt Girls High School- Chak No. 4/AH   (Combined),30.3082198,71.937676,Combined,Punjab,2,2,901,653
+ 22 - Govt Girls High School- Chak No. 4/AH  (Combined),30.3082198,71.937706,Combined,Punjab,1,1,499,323
+ 23 - Govt .Model Primary School- Chak No. 5/AH   (Combined),30.3082198,71.937736,Combined,Punjab,2,2,751,605
+ 24 - Govt .Boys Primary School Chak No. 10/AH (Combined),30.3082198,71.937766,Combined,Punjab,2,2,791,591
+ 25 - Govt .Girls Primary School- Chak No.10/AH  (Combined),30.3082198,71.937796,Combined,Punjab,1,1,434,323
+ 26 - Govt .Boys Primary School-6/AH  (Combine),30.3082198,71.937826,Combined,Punjab,2,2,788,550
+ 27 - Govt Model Primary School-7/V (Combined),30.3082198,71.937856,Combined,Punjab,2,2,692,506
+ 28 - Govt .Boys High School-12/AH (Combined),30.3082198,71.937886,Combined,Punjab,2,2,1040,811
+ 40 - Govt Elementry School- 16/ V (Male),30.3082198,71.937916,Male,Punjab,4,0,1425,0
+ 43 - Govt .Boys Middle School- Chak No.17/AH  (Combined),30.30879509,71.98888503,Combined,Punjab,2,1,639,541
+ 44 - Govt .Girls Middle School- Chak No.19/ V (Combined),30.30879509,71.98891503,Combined,Punjab,2,2,852,715
+ 49 - Govt High  School-  11-A / 8R (Combined),30.31818572,72.03215171,Combined,Punjab,2,1,636,457
+ 5 - Govt. Higher Secondary School Boys Makhdom Pur  (Male),30.31818572,72.03218171,Male,Punjab,4,0,1226,0
+ 39 - Govt .Girls Primary School- Rakh Makhdum Voni  (Combined),30.32239871,71.9807757,Combined,Punjab,1,1,312,221
+ 6 - Govt. Higher Secondary School Boys Makhdom Pur  (Female),30.33388074,71.89705042,Female,Punjab,0,3,0,942
+ 60 - Govt Model  Middle School-13/8-R (Male) Boys Portion,30.33388074,71.89708042,Male,Punjab,3,0,1362,0
+ 93 - Govt Model Boys Primary School  17/9-R  (Combined),30.34331715,71.85528567,Combined,Punjab,2,2,702,569
+ 94 - Govt Model Boys Primary School  17/9-R  (Combined),30.34331715,71.85531567,Combined,Punjab,1,1,565,434
+ 90 - Govt Elementry School 16/9-R (Male),30.34381408,71.85529329,Male,Punjab,4,0,1497,0
+ 92 - Govt Elementry School 16/9-R (Female),30.34381408,71.85532329,Female,Punjab,0,3,0,1148
+ 91 - Govt Girls Primary School 16/9-R (Combined),30.34382434,71.8553202,Combined,Punjab,2,1,650,510
+ 4 - Govt. Primary Girls Community School Makhdoom Pur (Female),30.34533726,72.03085798,Female,Punjab,0,3,0,1067
+ 29 - Govt .Boys High School- 12/AH(Part-II) (Combined),30.35432592,71.92558007,Combined,Punjab,2,2,710,567
+ 15 - Govt .Girls Middle School 3/AH  (Female),30.42080766,72.0209028,Female,Punjab,0,2,0,871
+ 14 - Govt. High School 3/AH  Primary Portion (Male),30.4208758,72.02514644,Male,Punjab,4,0,1262,0
+ 19 - Govt .Boys Primary School- 6-A Waryam wala 2/AH (Combined),30.42659,71.99548,Combined,Punjab,1,1,476,292
+ 32 - Govt .Boys Primary School- 8 / V  (combined),30.43163662,72.10214561,Combined,Punjab,2,2,839,574
+ 18 - Govt .Girls Middle School- 2/AH  (Combined),30.43435,72.022,Combined,Punjab,2,2,694,520
+ 13 - Govt Model Primary School Makhdoom Pur Station (Combined),30.44019,72.04102,Combined,Punjab,2,2,843,660
+ 11 - Govt. Girls Higher Secondary School Makhdom Pur  (Male),30.46323281,72.04533215,Male,Punjab,4,0,1620,0
+ 12 - Govt. Girls Higher Secondary School Makhdom Pur  (Female),30.46323281,72.04536215,Female,Punjab,0,4,0,1243
+ 16 - Govt .Boys Primary School Kot Abdullah  (Combined),30.47411497,72.04833473,Combined,Punjab,2,2,891,788
+ 1 - Govt. Middle School Makhdom Pur (Male),30.5564883,72.0107592,Male,Punjab,2,0,720,0
+ 2 - Town Committee Makhdom Pur  (Female),30.5564883,72.0107892,Female,Punjab,0,2,0,554
+ 10 - Govt Primary School Talem ul Quran  (Female),30.5564883,72.0108192,Female,Punjab,0,2,0,416
+ 17 - Govt Girls Primary School-Bhirki Kot  Abdullah (Combined),30.5564883,72.0108492,Combined,Punjab,2,1,604,449
+ 20 - Govt Model Primary School- Chak No. 1/AH  (Combined),30.5564883,72.0108792,Combined,Punjab,2,2,853,641

@@ -1,64 +1,64 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-22,Govt. B/H/S Chak 42 Marar  (Combined),31.67403,73.40936,Combined,Punjab,2,1,846,617
-23,Govt. G/H/S 42 Marar  (Male),31.67407,73.4093,Male,Punjab,2,0,1045,0
-24,Govt. G/H/S 42 Marar (Female),31.67407,73.40933,Female,Punjab,0,2,0,858
-25,Govt. G/H/S 42 Marar  (Combined),31.67422,73.40698,Combined,Punjab,2,1,704,582
-18,Govt. B/E/S Kotla Kalan Chak No. 43/RB   (Male),31.68397,73.38621,Male,Punjab,3,0,1425,0
-19,Govt. B/E/S Kotla Kalan Chak No. 43/RB   (Female),31.68397,73.38624,Female,Punjab,0,2,0,1013
-21,Govt. B/P/S Chak No. 46 Chak Chatha  (Female),31.68836,73.35544,Female,Punjab,0,2,0,1220
-20,Govt. B/P/S Chak No. 46 Chak Chatha  (Male),31.68851,73.35542,Male,Punjab,3,0,1632,0
-16,Govt. G/P/S Kotla Khurd Chak No.43/RB  (Male),31.6954,73.38017,Male,Punjab,3,0,1694,0
-17,Govt. G/P/S Kotla Khurd Chak No.43/RB  (Female),31.69544,73.38019,Female,Punjab,0,3,0,1427
-14,Govt. B/P/S Chak No.45RB  (Male),31.70339,73.40735,Male,Punjab,2,0,1178,0
-15,Govt. B/P/S Chak No.45RB  (Female),31.70339,73.40738,Female,Punjab,0,2,0,952
-12,Govt. G/P/S Marar Chak No.45 RB (Male),31.71128,73.4326,Male,Punjab,2,0,1126,0
-13,Govt. G/P/S Marar Chak No.45 RB  (Female),31.71128,73.43263,Female,Punjab,0,2,0,841
-59,Govt. B/P/S Chak No.40/RB (Male),31.71128,73.43266,Male,Punjab,2,0,1305,0
-60,Govt. Girls M/S Chak No.40/RB Hamraj Pura (Female),31.71128,73.43269,Female,Punjab,0,2,0,1053
-61,Govt. Girls M/S Chak No.40/RB Hamraj Pura  (Combined),31.71128,73.43272,Combined,Punjab,2,1,813,610
-10,Govt. B/P/S Chahoor Muslim 118 RB (Combined),31.71222,73.3608,Combined,Punjab,2,1,643,522
-11,Govt. Girls/P/S Chahoor Muslim 118 RB  (Combined),31.71288,73.36351,Combined,Punjab,2,2,868,723
-75,Govt. Girls/E/S Ahmad Pura (Female),31.71304,73.37296,Female,Punjab,0,2,0,1230
-65,Govt.B/P/S Chak No.28/RB  (Male),31.71387,73.39559,Male,Punjab,3,0,1394,0
-66,Govt.B/P/S Chak No.28/RB  (Female),31.71387,73.39562,Female,Punjab,0,2,0,1033
-76,Govt. B/P/S Ahmad abad  (Male),31.71549,73.36985,Male,Punjab,2,0,1005,0
-77,Govt. B/P/S Ahmad abad  (Female),31.71549,73.36988,Female,Punjab,0,2,0,797
-74,Govt. Girls/E/S Ahmad Abad     Sangla Hill (Male),31.71942,73.36946,Male,Punjab,3,0,1532,0
-71,Govt. G/High/S Islam Pura  (Combined),31.72103,73.37666,Combined,Punjab,2,1,812,622
-72,Govt. G/High/S Islam Pura  (Male),31.72103,73.37669,Male,Punjab,3,0,1380,0
-73,Govt. G/High/S Islam Pura (Female),31.72103,73.37672,Female,Punjab,0,2,0,1037
-8,Govt. girls primary school Basti Sharif Pura.  (Male),31.7221,73.35395,Male,Punjab,2,0,1102,0
-6,Govt. Girls P/S Raza Abad  (Male),31.7235,73.38578,Male,Punjab,2,0,1058,0
-7,Govt. Girls P/S Raza Abad  (female),31.7235,73.38581,Female,Punjab,0,2,0,789
-64,Govt. G/H/S Baroia Chak No.36/RB   (Combined),31.73179,73.41528,Combined,Punjab,2,2,978,715
-62,Govt. B/H/S Baroia Chak No.36/RB (Male),31.73194,73.41555,Male,Punjab,2,0,1175,0
-63,Govt. B/H/S Baroia Chak No.36/RB  (Female),31.73194,73.41558,Female,Punjab,0,2,0,994
-3,Office UC Bhulair (Combined),31.73229,73.34447,Combined,Punjab,2,1,665,469
-34,Govt. B/M/S Siran Wali (Combined),31.73333,73.305,Combined,Punjab,2,2,956,750
-35,Govt. Girls/M/S Siran Wali  (Combined),31.73389,73.33611,Combined,Punjab,1,1,553,461
-1,Govt. B/H/S  Bhulair  (Male),31.7339,73.34096,Male,Punjab,2,0,1195,0
-2,Govt. B/H/S  Bhulair  (Female),31.7339,73.34099,Female,Punjab,0,2,0,923
-4,Govt. G/H/S  Bhulair  (Male),31.73504,73.34171,Male,Punjab,3,0,1337,0
-5,Govt. G/H/S  Bhulair  (Female),31.73504,73.34174,Female,Punjab,0,2,0,999
-44,Govt.Girls/P/S Chuhoor Mughalan Chak No.117/RB  (Combined),31.7399,73.36616,Combined,Punjab,2,2,798,653
-42,Govt. B/P/S Chuhoor Kotli Chak No.117/RB  (Male),31.74216,73.38883,Male,Punjab,2,0,1337,0
-43,Govt. B/P/S Chuhoor Kotli Chak No.117/RB  (Female),31.74216,73.38886,Female,Punjab,0,3,0,1078
-26,Govt. B/H/S Chak Pandorian 122 RB  (Combined),31.75139,73.29389,Combined,Punjab,2,2,873,680
-27,Govt. Girls/H/S Chak Pandorian 122 RB  (Combined),31.75194,73.29333,Combined,Punjab,2,2,979,718
-30,Govt. G/E/S Chak No.120/RB Dera Begail Singh Wala (Male),31.75593,73.34148,Male,Punjab,2,0,1200,0
-31,Govt. G/E/S Chak No.120/RB Dera Begail Singh Wala  (Female),31.75593,73.34151,Female,Punjab,0,2,0,887
-48,Govt. B/M/S Chak No. 112 RB Ali Abad  (Female),31.76479,73.42694,Female,Punjab,0,2,0,870
-47,Govt. B/M/S Chak No. 112 RB Ali Abad  (Male),31.7648,73.42694,Male,Punjab,2,0,1211,0
-29,Govt. G/P/S Chak No. 121 RB Dogri   (Combined),31.76522,73.31487,Combined,Punjab,2,1,691,543
-28,Govt. G/G/H/S Chak No.121 RB Hanjli   (Combined),31.77518,73.33498,Combined,Punjab,2,2,882,687
-41,Govt. G/P/S Chak No.111/RB Mehmand wali (Charvind)  (Combined),31.77667,73.40692,Combined,Punjab,3,1,957,676
-51,Govt. G/H/S Marh Baloachan  (Male),31.7785,73.43649,Male,Punjab,3,0,1370,0
-52,Govt. G/H/S Marh Baloachan  (Female),31.7785,73.43652,Female,Punjab,0,2,0,1048
-58,Govt. G/M/S Ganian wala chak No.21/RB   (Combined),31.77922,73.44936,Combined,Punjab,2,2,869,657
-32,Govt. B/M/S Chak No. 116 RB  (Combined),31.77954,73.34834,Combined,Punjab,2,1,667,495
-49,Govt.B/H/S Marh Baloachan  (Male),31.78273,73.43978,Male,Punjab,3,0,1381,0
-50,Govt.B/H/S Marh Baloachan  (Female),31.78273,73.43981,Female,Punjab,0,2,0,1057
-33,Govt. B/M/S Chak No. 116 RB Gollay Bajwey (Combined),31.79215,73.36515,Combined,Punjab,2,1,882,590
-57,Govt. G/E/S Ratian Sikhan Chak No. 5/RB  (Combined),31.81322,73.46208,Combined,Punjab,2,1,755,634
-55,Govt.G/P/S Ratian Chak No. 5/RB  (Male),31.81657,73.45712,Male,Punjab,2,0,1072,0
-56,Govt.G/P/S Ratian Chak No. 5/RB  (Female),31.81657,73.45715,Female,Punjab,0,2,0,779
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 22 - Govt. B/H/S Chak 42 Marar  (Combined),31.67403,73.40936,Combined,Punjab,2,1,846,617
+ 23 - Govt. G/H/S 42 Marar  (Male),31.67407,73.4093,Male,Punjab,2,0,1045,0
+ 24 - Govt. G/H/S 42 Marar (Female),31.67407,73.40933,Female,Punjab,0,2,0,858
+ 25 - Govt. G/H/S 42 Marar  (Combined),31.67422,73.40698,Combined,Punjab,2,1,704,582
+ 18 - Govt. B/E/S Kotla Kalan Chak No. 43/RB   (Male),31.68397,73.38621,Male,Punjab,3,0,1425,0
+ 19 - Govt. B/E/S Kotla Kalan Chak No. 43/RB   (Female),31.68397,73.38624,Female,Punjab,0,2,0,1013
+ 21 - Govt. B/P/S Chak No. 46 Chak Chatha  (Female),31.68836,73.35544,Female,Punjab,0,2,0,1220
+ 20 - Govt. B/P/S Chak No. 46 Chak Chatha  (Male),31.68851,73.35542,Male,Punjab,3,0,1632,0
+ 16 - Govt. G/P/S Kotla Khurd Chak No.43/RB  (Male),31.6954,73.38017,Male,Punjab,3,0,1694,0
+ 17 - Govt. G/P/S Kotla Khurd Chak No.43/RB  (Female),31.69544,73.38019,Female,Punjab,0,3,0,1427
+ 14 - Govt. B/P/S Chak No.45RB  (Male),31.70339,73.40735,Male,Punjab,2,0,1178,0
+ 15 - Govt. B/P/S Chak No.45RB  (Female),31.70339,73.40738,Female,Punjab,0,2,0,952
+ 12 - Govt. G/P/S Marar Chak No.45 RB (Male),31.71128,73.4326,Male,Punjab,2,0,1126,0
+ 13 - Govt. G/P/S Marar Chak No.45 RB  (Female),31.71128,73.43263,Female,Punjab,0,2,0,841
+ 59 - Govt. B/P/S Chak No.40/RB (Male),31.71128,73.43266,Male,Punjab,2,0,1305,0
+ 60 - Govt. Girls M/S Chak No.40/RB Hamraj Pura (Female),31.71128,73.43269,Female,Punjab,0,2,0,1053
+ 61 - Govt. Girls M/S Chak No.40/RB Hamraj Pura  (Combined),31.71128,73.43272,Combined,Punjab,2,1,813,610
+ 10 - Govt. B/P/S Chahoor Muslim 118 RB (Combined),31.71222,73.3608,Combined,Punjab,2,1,643,522
+ 11 - Govt. Girls/P/S Chahoor Muslim 118 RB  (Combined),31.71288,73.36351,Combined,Punjab,2,2,868,723
+ 75 - Govt. Girls/E/S Ahmad Pura (Female),31.71304,73.37296,Female,Punjab,0,2,0,1230
+ 65 - Govt.B/P/S Chak No.28/RB  (Male),31.71387,73.39559,Male,Punjab,3,0,1394,0
+ 66 - Govt.B/P/S Chak No.28/RB  (Female),31.71387,73.39562,Female,Punjab,0,2,0,1033
+ 76 - Govt. B/P/S Ahmad abad  (Male),31.71549,73.36985,Male,Punjab,2,0,1005,0
+ 77 - Govt. B/P/S Ahmad abad  (Female),31.71549,73.36988,Female,Punjab,0,2,0,797
+ 74 - Govt. Girls/E/S Ahmad Abad     Sangla Hill (Male),31.71942,73.36946,Male,Punjab,3,0,1532,0
+ 71 - Govt. G/High/S Islam Pura  (Combined),31.72103,73.37666,Combined,Punjab,2,1,812,622
+ 72 - Govt. G/High/S Islam Pura  (Male),31.72103,73.37669,Male,Punjab,3,0,1380,0
+ 73 - Govt. G/High/S Islam Pura (Female),31.72103,73.37672,Female,Punjab,0,2,0,1037
+ 8 - Govt. girls primary school Basti Sharif Pura.  (Male),31.7221,73.35395,Male,Punjab,2,0,1102,0
+ 6 - Govt. Girls P/S Raza Abad  (Male),31.7235,73.38578,Male,Punjab,2,0,1058,0
+ 7 - Govt. Girls P/S Raza Abad  (female),31.7235,73.38581,Female,Punjab,0,2,0,789
+ 64 - Govt. G/H/S Baroia Chak No.36/RB   (Combined),31.73179,73.41528,Combined,Punjab,2,2,978,715
+ 62 - Govt. B/H/S Baroia Chak No.36/RB (Male),31.73194,73.41555,Male,Punjab,2,0,1175,0
+ 63 - Govt. B/H/S Baroia Chak No.36/RB  (Female),31.73194,73.41558,Female,Punjab,0,2,0,994
+ 3 - Office UC Bhulair (Combined),31.73229,73.34447,Combined,Punjab,2,1,665,469
+ 34 - Govt. B/M/S Siran Wali (Combined),31.73333,73.305,Combined,Punjab,2,2,956,750
+ 35 - Govt. Girls/M/S Siran Wali  (Combined),31.73389,73.33611,Combined,Punjab,1,1,553,461
+ 1 - Govt. B/H/S  Bhulair  (Male),31.7339,73.34096,Male,Punjab,2,0,1195,0
+ 2 - Govt. B/H/S  Bhulair  (Female),31.7339,73.34099,Female,Punjab,0,2,0,923
+ 4 - Govt. G/H/S  Bhulair  (Male),31.73504,73.34171,Male,Punjab,3,0,1337,0
+ 5 - Govt. G/H/S  Bhulair  (Female),31.73504,73.34174,Female,Punjab,0,2,0,999
+ 44 - Govt.Girls/P/S Chuhoor Mughalan Chak No.117/RB  (Combined),31.7399,73.36616,Combined,Punjab,2,2,798,653
+ 42 - Govt. B/P/S Chuhoor Kotli Chak No.117/RB  (Male),31.74216,73.38883,Male,Punjab,2,0,1337,0
+ 43 - Govt. B/P/S Chuhoor Kotli Chak No.117/RB  (Female),31.74216,73.38886,Female,Punjab,0,3,0,1078
+ 26 - Govt. B/H/S Chak Pandorian 122 RB  (Combined),31.75139,73.29389,Combined,Punjab,2,2,873,680
+ 27 - Govt. Girls/H/S Chak Pandorian 122 RB  (Combined),31.75194,73.29333,Combined,Punjab,2,2,979,718
+ 30 - Govt. G/E/S Chak No.120/RB Dera Begail Singh Wala (Male),31.75593,73.34148,Male,Punjab,2,0,1200,0
+ 31 - Govt. G/E/S Chak No.120/RB Dera Begail Singh Wala  (Female),31.75593,73.34151,Female,Punjab,0,2,0,887
+ 48 - Govt. B/M/S Chak No. 112 RB Ali Abad  (Female),31.76479,73.42694,Female,Punjab,0,2,0,870
+ 47 - Govt. B/M/S Chak No. 112 RB Ali Abad  (Male),31.7648,73.42694,Male,Punjab,2,0,1211,0
+ 29 - Govt. G/P/S Chak No. 121 RB Dogri   (Combined),31.76522,73.31487,Combined,Punjab,2,1,691,543
+ 28 - Govt. G/G/H/S Chak No.121 RB Hanjli   (Combined),31.77518,73.33498,Combined,Punjab,2,2,882,687
+ 41 - Govt. G/P/S Chak No.111/RB Mehmand wali (Charvind)  (Combined),31.77667,73.40692,Combined,Punjab,3,1,957,676
+ 51 - Govt. G/H/S Marh Baloachan  (Male),31.7785,73.43649,Male,Punjab,3,0,1370,0
+ 52 - Govt. G/H/S Marh Baloachan  (Female),31.7785,73.43652,Female,Punjab,0,2,0,1048
+ 58 - Govt. G/M/S Ganian wala chak No.21/RB   (Combined),31.77922,73.44936,Combined,Punjab,2,2,869,657
+ 32 - Govt. B/M/S Chak No. 116 RB  (Combined),31.77954,73.34834,Combined,Punjab,2,1,667,495
+ 49 - Govt.B/H/S Marh Baloachan  (Male),31.78273,73.43978,Male,Punjab,3,0,1381,0
+ 50 - Govt.B/H/S Marh Baloachan  (Female),31.78273,73.43981,Female,Punjab,0,2,0,1057
+ 33 - Govt. B/M/S Chak No. 116 RB Gollay Bajwey (Combined),31.79215,73.36515,Combined,Punjab,2,1,882,590
+ 57 - Govt. G/E/S Ratian Sikhan Chak No. 5/RB  (Combined),31.81322,73.46208,Combined,Punjab,2,1,755,634
+ 55 - Govt.G/P/S Ratian Chak No. 5/RB  (Male),31.81657,73.45712,Male,Punjab,2,0,1072,0
+ 56 - Govt.G/P/S Ratian Chak No. 5/RB  (Female),31.81657,73.45715,Female,Punjab,0,2,0,779

@@ -1,10 +1,10 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-250,Govt: Degree Collage Diplo (Male),24.461390582766505,69.58746348831123,Male,Sindh,4,0,1126,0
-249,GBPS Motatio Colony Diplo,24.465614174357242,69.58244560628819,Combined,Sindh,2,1,493,349
-247,GGHS Diplo (Female),24.469217213116767,69.58224965429814,Female,Sindh,0,3,0,925
-246,GHS Diplo 2 (Male),24.469254594541454,69.58229249190228,Male,Sindh,4,0,1362,0
-252,GBMS Mohammad Sahir Hamerai Bah (Male),24.47688430219742,69.57829653553644,Male,Sindh,4,0,1199,0
-251,Govt. Degree Collage Diplo (Female),24.47691395740919,69.57828381896374,Female,Sindh,0,3,0,919
-243,G. Disp. Kharo Dabhro (Female),24.630237413297078,69.41522925132543,Female,Sindh,0,2,0,725
-76,Dispensary Griyancho,24.671056945289163,69.84332922727563,Combined,Sindh,2,1,548,447
-19,GPS Main Mohntar,25.056571406319645,70.21227401512103,Combined,Sindh,1,1,231,167
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 250 - Govt: Degree Collage Diplo (Male),24.461390582766505,69.58746348831123,Male,Sindh,4,0,1126,0
+ 249 - GBPS Motatio Colony Diplo,24.465614174357242,69.58244560628819,Combined,Sindh,2,1,493,349
+ 247 - GGHS Diplo (Female),24.469217213116767,69.58224965429814,Female,Sindh,0,3,0,925
+ 246 - GHS Diplo 2 (Male),24.469254594541454,69.58229249190228,Male,Sindh,4,0,1362,0
+ 252 - GBMS Mohammad Sahir Hamerai Bah (Male),24.47688430219742,69.57829653553644,Male,Sindh,4,0,1199,0
+ 251 - Govt. Degree Collage Diplo (Female),24.47691395740919,69.57828381896374,Female,Sindh,0,3,0,919
+ 243 - G. Disp. Kharo Dabhro (Female),24.630237413297078,69.41522925132543,Female,Sindh,0,2,0,725
+ 76 - Dispensary Griyancho,24.671056945289163,69.84332922727563,Combined,Sindh,2,1,548,447
+ 19 - GPS Main Mohntar,25.056571406319645,70.21227401512103,Combined,Sindh,1,1,231,167

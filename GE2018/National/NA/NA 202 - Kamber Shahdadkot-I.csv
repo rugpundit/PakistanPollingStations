@@ -1,268 +1,268 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-218,Government Primary School  Muhammad Punhal Mugheri Male  First Portion,27.364323,67.8095906,Male,Sindh,2,0,1068,0
-219,Government Primary School  Muhammad Punhal Mugheri Female  Second Portion,27.364323,67.8096206,Female,Sindh,0,2,0,849
-179,Government Primary School Soharo Khoso Male  First Portion,27.364323,67.8096506,Male,Sindh,2,0,1062,0
-180,Government Primary School Soharo Khoso Female Second Portion,27.364323,67.8096806,Female,Sindh,0,2,0,779
-198,Government Primary School Moladino Khoso Combined,27.364323,67.8097106,Combined,Sindh,2,2,1081,746
-204,Government Primary School Wali Dino Khoso First Portion Combined,27.364323,67.8097406,Combined,Sindh,1,1,565,411
-205,Government Primary School Wali Dino Khoso Second Portion Combined,27.364323,67.8097706,Combined,Sindh,1,1,501,340
-202,Government Middle School  Miran Machi Combined,27.364323,67.8098006,Combined,Sindh,2,2,769,713
-201,Government Primary School Jamal Khan Magsi Combined,27.364323,67.8098306,Combined,Sindh,2,2,789,693
-200,Government Girls Primary School New Khabar Combined,27.364323,67.8098606,Combined,Sindh,2,2,980,712
-203,Government Primary School Manjhi Gopang Combined,27.364323,67.8098906,Combined,Sindh,2,2,702,410
-188,Government Primary School Miskeen Pur Combined,27.364323,67.8099206,Combined,Sindh,1,1,577,460
-191,Government Primary School Bharmee Combined,27.364323,67.8099506,Combined,Sindh,1,1,719,684
-194,Government Primary School Usman Brohi Combined,27.364323,67.8099806,Combined,Sindh,2,2,813,593
-192,Government Primary School Jam Khoso Combined,27.364323,67.8100106,Combined,Sindh,2,2,886,695
-193,Government Primary School Ghulam Ali Magsi Combined,27.364323,67.8100406,Combined,Sindh,2,2,853,645
-195,Government Primary School Fida Hussain Brohi Combined,27.364323,67.8100706,Combined,Sindh,2,2,806,555
-178,Government Middle School Ali Ji Wand Combined,27.364323,67.8101006,Combined,Sindh,2,2,758,570
-177,Government Primary School Mubark Kalhoro  Combined,27.364323,67.8101306,Combined,Sindh,2,2,881,784
-131,Government Primary School Chakar Sultan Combined,27.364323,67.8101606,Combined,Sindh,2,2,681,543
-129,Government Primary School Shah jo Lao Combined,27.364323,67.8101906,Combined,Sindh,2,2,853,663
-125,Government Primary School Lukman Siyal Combined,27.5661698,68.2063015,Combined,Sindh,2,2,810,678
-122,Government Primary School Punhal Bhatti  Combined,27.5661698,68.2063315,Combined,Sindh,2,2,711,629
-124,Government Primary School Lal Khan Mastoi Combined,27.5661698,68.2063615,Combined,Sindh,2,2,712,511
-137,Government High School Kot Lal Bux Mahesar Male First Portion,27.5661698,68.2063915,Male,Sindh,3,0,1271,0
-138,Government High School Kot Lal Bux Mahesar Second Portion Female,27.5661698,68.2064215,Female,Sindh,0,3,0,1004
-139,Government Primary School Kot Lal Bux Mahesar Combined,27.5661698,68.2064515,Combined,Sindh,1,1,471,423
-134,Government Primary School Khuda Bux Gopang Combined,27.5661698,68.2064815,Combined,Sindh,1,1,561,406
-136,Government Primary School Philhari Combined,27.5661698,68.2065115,Combined,Sindh,2,2,710,543
-135,Government Primary School Hayat Khan Gopang Combined,27.5661698,68.2065415,Combined,Sindh,1,1,570,545
-162,Government Primary School Hamzo Khan Shar Combined,27.5661698,68.2065715,Combined,Sindh,2,2,756,685
-145,Government High School Hyder Chandio First Portion Combined,27.5661698,68.2066015,Combined,Sindh,1,1,543,444
-146,Government High School Hyder Chandio Second Portion Combined,27.5661698,68.2066315,Combined,Sindh,1,1,518,434
-240,Government High School Chajra Combined First  Portion,27.5877387,68.0211032,Combined,Sindh,2,2,802,703
-242,Government High School Chajra Combined Second  Portion,27.5877387,68.0211332,Combined,Sindh,2,2,718,526
-241,Government Primary School  Chajra Combined,27.5877387,68.0211632,Combined,Sindh,1,1,704,498
-238,Government Primary School  Bhawand Lakha Combined,27.5877387,68.0211932,Combined,Sindh,1,1,634,469
-239,Government Primary School  Rab Rakhio Lakho Combined,27.5877387,68.0212232,Combined,Sindh,2,2,734,672
-224,Government Primary School  Juma Khan Brohi Combined,27.5877387,68.0212532,Combined,Sindh,2,2,738,575
-225,Government Primary School  Hasla Combined,27.5877387,68.0212832,Combined,Sindh,2,2,908,747
-226,Government Primary School  Ranwati First Male Portion,27.5877387,68.0213132,Male,Sindh,2,0,1126,0
-227,Government Primary School  Ranwati Female Second Portion,27.5877387,68.0213432,Female,Sindh,0,2,0,987
-228,Government Middle School  Mena Combined First Portion,27.5877387,68.0213732,Combined,Sindh,1,1,670,584
-229,Government Middle School  Mena Combined Second Portion,27.5877387,68.0214032,Combined,Sindh,2,2,845,647
-222,Government Primary School  Kot Ghulam Shah Combined,27.5877387,68.0214332,Combined,Sindh,1,1,740,580
-230,Government Primary School  Mahyoon Male First Portion,27.5878374,68.0286692,Male,Sindh,3,0,1583,0
-231,Government Primary School  Mahyoon Female Second,27.5878374,68.0286992,Female,Sindh,0,3,0,1223
-21,Government Boys Primary School Dhani Bux Brohi Combined,27.5878374,68.0287292,Combined,Sindh,1,1,464,389
-235,Government Primary School  Dhani Bux Combined,27.5878374,68.0287592,Combined,Sindh,2,2,828,684
-232,Government Primary School  Jhing Combined First Portion,27.5878374,68.0287892,Combined,Sindh,1,1,527,441
-233,Government Primary School  Jhing Combined Second Portion,27.5878374,68.0288192,Combined,Sindh,1,1,705,607
-234,Government Primary School  Ali Bux Bhangar Combined,27.5878374,68.0288492,Combined,Sindh,2,2,792,641
-223,Government Primary School  Meeran Hulio Combined,27.5878374,68.0288792,Combined,Sindh,1,1,628,450
-254,Government Primary School  Razi Khan Combined,27.5878374,68.0289092,Combined,Sindh,2,2,876,649
-255,Government Primary School  Sahib Khan Gorar Combined First Portion,27.5878374,68.0289392,Combined,Sindh,1,1,451,285
-256,Government Primary School  Sahib Khan Gorar Combined Second Portion,27.5878374,68.0289692,Combined,Sindh,1,1,567,367
-257,Basic Health Unit  Ghazi Khan Khuhwar Combined,27.5878374,68.0289992,Combined,Sindh,2,2,869,721
-258,Government Primary School  Sharif Bhutto Combined,27.5878374,68.0290292,Combined,Sindh,1,1,543,447
-259,Government Primary School Dital Abro first Portion Combined,27.5878374,68.0290592,Combined,Sindh,1,1,719,449
-260,Government Primary School Dital Abro Combined Second Portion,27.5878374,68.0290892,Combined,Sindh,1,1,588,419
-236,Government Primary School Sarang Khuhwar Combined,27.5878374,68.0291192,Combined,Sindh,2,2,764,747
-261,Government Boys Primary School- Abri Combined,27.5881266,68.0085392,Combined,Sindh,2,2,956,696
-262,Government Middle Boys School  Abri Combined First Portion,27.5881266,68.0085692,Combined,Sindh,2,2,746,522
-263,Government Middle Boys School  Abri Combined Second Portion,27.5881266,68.0085992,Combined,Sindh,1,1,476,371
-265,Government Primary School  Dhani Bux Tunio Combined,27.5881266,68.0086292,Combined,Sindh,1,1,662,571
-266,Government Primary School  Sharefani Combined,27.5881266,68.0086592,Combined,Sindh,2,2,769,613
-264,Government High School Khairpur Juso Combined First Portion,27.5881266,68.0086892,Combined,Sindh,1,1,881,572
-267,Government High School Khairpur Juso Combined Second Portion,27.5881266,68.0087192,Combined,Sindh,1,1,633,509
-247,Government Middle School  Jean Abro Male First Portion,27.5881266,68.0087492,Male,Sindh,2,0,1153,0
-248,Government Middle School  Jean Abro Female Second Portion,27.5881266,68.0087792,Female,Sindh,0,2,0,747
-249,Government Middle School  Jean Abro Combined Thrid Portion,27.5881266,68.0088092,Combined,Sindh,1,1,707,491
-250,Government Middle School  Jean Abro Combined Fourth Portion,27.5881266,68.0088392,Combined,Sindh,1,1,456,308
-252,Government Primary School  Aheer Combined,27.5881266,68.0088692,Combined,Sindh,1,1,615,536
-251,Government Primary School  Pir Muhammad Metlo Combined,27.5881266,68.0088992,Combined,Sindh,2,2,1070,727
-253,Government Primary School  Esso Village Combined,27.5881266,68.0089292,Combined,Sindh,2,2,1035,805
-237,Government Primary School  Fatah Muhammad  Mughari Combined,27.5894699,67.9927906,Combined,Sindh,2,2,780,543
-245,Government Primary School  Hafezabad Male First Portion,27.5894699,67.9928206,Male,Sindh,2,0,1060,0
-246,Government Primary School  Hafezabad Female Second Portion,27.5894699,67.9928506,Female,Sindh,0,2,0,903
-243,Government Primary School  Sohrab Patojo Combined,27.5961363,68.0035963,Combined,Sindh,2,2,942,813
-244,Government Primary School  Kamal Khan Combined,27.5961363,68.0036263,Combined,Sindh,1,1,606,454
-181,Government Primary School Hakim Shah Combined,27.6201412,68.007695,Combined,Sindh,2,2,809,572
-185,Government Primary School Gul Muhammad Chacho Combined,27.6201412,68.007725,Combined,Sindh,2,2,883,708
-156,Government Primary School Saindad Laghari Combined,27.6514792,68.1720198,Combined,Sindh,1,1,694,562
-157,Government Primary School Jamal Khan  Laghari First Portion Combined,27.6514792,68.1720498,Combined,Sindh,1,1,543,444
-158,Government Primary School Jamal Khan Laghari Second Portion Combined,27.6514792,68.1720798,Combined,Sindh,1,1,424,374
-214,Government High School Behram  First Portion Combined,27.6884906,67.9755194,Combined,Sindh,2,2,792,595
-215,Government High School Behram  Second Portion Combined,27.6884906,67.9755494,Combined,Sindh,2,2,992,772
-216,Government Girls Primary School  Behram First Portion Combined,27.6884906,67.9755794,Combined,Sindh,2,2,890,771
-217,Government Girls Primary School  Behram Second Portion Combined,27.6884906,67.9756094,Combined,Sindh,2,2,742,653
-220,Government Middle School Bhuthi Combined First Portion,27.6884906,67.9756394,Combined,Sindh,2,2,816,634
-221,Government Middle School Bhuthi Combined Second Portion,27.6884906,67.9756694,Combined,Sindh,2,2,1042,835
-186,Government Primary School Noorul Huda Shah Combined,27.6890858,67.9710098,Combined,Sindh,2,2,970,662
-169,Government High School Bhambo Khan Chandio First Portion Combined,27.691909,68.0783814,Combined,Sindh,1,1,741,659
-170,Government High School Bhambo Khan Chandio Second Portion Combined,27.691909,68.0784114,Combined,Sindh,2,2,716,729
-176,Government Primary School Chutto Joyo  Combined,27.6924487,68.0637144,Combined,Sindh,2,2,828,702
-168,Government Primary School Bhambo Khan Chandio Combined,27.7069982,68.0697721,Combined,Sindh,1,1,640,521
-12,Government Primary School Punhal Khaskheli Combined,27.71763,67.77087,Combined,Sindh,1,1,561,453
-173,Government Primary School Tharo Wadho Combined,27.7220874,68.0611628,Combined,Sindh,1,1,561,460
-174,Government Middle School Tharo Wadho  First Portion Combined,27.7220874,68.0611928,Combined,Sindh,2,2,1227,957
-175,Government Middle School Tharo Wadho Second Portion Combined,27.7220874,68.0612228,Combined,Sindh,2,2,738,579
-132,Government Primary School Nabi Bux Mastoi First Portion Combined,27.7325263,67.9693454,Combined,Sindh,2,2,789,575
-133,Government Primary School Nabi Bux Mastoi Second Portion Combined,27.7325263,67.9693754,Combined,Sindh,1,1,523,446
-130,Government Primary School Muhammad Ibraheem Mastoi Combined,27.7342084,67.9671107,Combined,Sindh,1,1,599,476
-17,Government Primary School Khalipho Combined,27.73691,67.68298,Combined,Sindh,1,1,470,379
-213,Government Primary School  Miro Khan Tunia Mohalla  Combined,27.7402632,68.0855714,Combined,Sindh,2,2,900,787
-182,Government Primary School Badalabad First Portion Male,27.7420029,67.9418066,Male,Sindh,2,0,1113,0
-183,Government Primary School Badalabad Second Portion Female,27.7420029,67.9418366,Female,Sindh,0,2,0,830
-187,Government Primary School Bhuthi Hakra Combined,27.7420029,67.9418666,Combined,Sindh,2,2,1122,832
-26,Government Boys Primary School Jan Muhammad Khoso Combined,27.7420029,67.9418966,Combined,Sindh,1,1,464,331
-184,Government Primary School Jan Muhammad Khoso Combined,27.7420029,67.9419266,Combined,Sindh,1,1,638,442
-199,Government Primary School Geo Magsi Combined,27.7420659,67.927607,Combined,Sindh,1,1,530,509
-197,Government Primary School Rup Watoo Combined,27.7421632,67.9419019,Combined,Sindh,2,2,947,785
-196,Government Primary School Chachiri Combined,27.7421632,67.9419319,Combined,Sindh,1,1,704,510
-166,Government Primary School Drib Chandio First Portion Combined,27.7511251,68.1036019,Combined,Sindh,1,1,572,398
-167,Government Primary School Drib Chandio Second Portion Combined,27.7511251,68.1036319,Combined,Sindh,1,1,521,391
-163,Government High School Miro Khan Town Combined,27.7593037,68.0870619,Combined,Sindh,2,2,807,633
-206,Government Primary School  Miro Khan-II Town Male First Portion,27.7593037,68.0870919,Male,Sindh,2,0,948,0
-207,Government Primary School  Miro Khan-II Town Female Second Portion,27.7593037,68.0871219,Female,Sindh,0,2,0,824
-208,Government Girls High School Miro Khan Combined,27.7593037,68.0871519,Combined,Sindh,1,1,554,492
-212,Government Primary School  Main Miro Khan Combined,27.7594273,68.0878071,Combined,Sindh,2,2,893,835
-171,Government Primary School Purano Tharo First Portion Combined,27.7594273,68.0878371,Combined,Sindh,1,1,529,470
-172,Government Primary School Purano Tharo Second Portion Combined,27.7594273,68.0878671,Combined,Sindh,1,1,517,401
-128,Government Primary School Tar Mathyon Combined,27.7594273,68.0878971,Combined,Sindh,1,1,690,545
-127,Government Primary School Dolat ji Wandh Combined,27.7594273,68.0879271,Combined,Sindh,1,1,562,467
-209,Government Girls Primary School Miro Khan Male  First Portion,27.7594273,68.0879571,Male,Sindh,2,0,1129,0
-210,Government Girls Primary School  Miro Khan Female  Portion-2,27.7594273,68.0879871,Female,Sindh,0,2,0,1025
-144,Government Primary School Buxio Sario Combined,27.7596517,68.0870619,Combined,Sindh,1,1,547,484
-164,Government Primary School Ali Sher Gopang Combined,27.7609713,68.0971226,Combined,Sindh,2,2,875,707
-159,Government High School Thouf Chousol First Poriton Combined,27.7610331,68.0974952,Combined,Sindh,1,1,510,441
-160,Government High School Thouf Chousol Second Poriton Combined,27.7610331,68.0975252,Combined,Sindh,1,1,550,484
-161,Government Primary School Thouf Chousol Combined,27.7610331,68.0975552,Combined,Sindh,1,1,627,540
-149,Government Primary School Ali Nawaz Jagerani Combined,27.7610331,68.0975852,Combined,Sindh,2,2,830,705
-147,Government Primary School Mahmood Abad Combined,27.7610331,68.0976152,Combined,Sindh,2,2,731,603
-148,Government Primary School Sahib Khan Korai Combined,27.7610331,68.0976452,Combined,Sindh,1,1,363,319
-150,Government Primary School Jan Muhammad Leghari Combined,27.7610331,68.0976752,Combined,Sindh,1,1,617,522
-151,Government Primary School Jeend Lak Combined Portion-1,27.7610331,68.0977052,Combined,Sindh,1,1,644,570
-152,Government Primary School Jeend Lak Combined Portion-2,27.7610331,68.0977352,Combined,Sindh,1,1,555,419
-153,Government Primary School Bakhar Mahesar Combined,27.7610331,68.0977652,Combined,Sindh,1,1,700,538
-154,Government Primary School Ali Muhammad Soomro Male  Portion-1,27.7610331,68.0977952,Male,Sindh,2,0,1055,0
-155,Government Primary School Ali Muhammad Soomro Female  Portion-2,27.7610331,68.0978252,Female,Sindh,0,2,0,889
-141,Government High School Arzi Bhutto First Portion Combined,27.7610331,68.0978552,Combined,Sindh,2,2,776,710
-142,Government High School Arzi Bhutto Second Portion Combined,27.7610331,68.0978852,Combined,Sindh,2,2,802,615
-143,Government Primary School Arzi Bhutto Combined,27.7610331,68.0979152,Combined,Sindh,2,2,748,632
-140,Government Primary School Teerahn Pur  Combined,27.7610331,68.0979452,Combined,Sindh,2,2,872,713
-165,Government Primary School Khawand Dino Kalhoro Combined,27.7613193,68.0971226,Combined,Sindh,1,1,489,425
-123,Government Primary School Jumo Bhatti Combined,27.761356,68.090205,Combined,Sindh,2,2,737,676
-211,Taluka Municipal Office Miro Khan Combined,27.7621246,68.0882756,Combined,Sindh,2,2,784,630
-18,Rehabilitation Health Centre Mirpur Combined,27.770128441809014,67.63853433865724,Combined,Sindh,1,1,463,399
-11,Government Girls Primary School Sikandarabad Combined,27.783406609317492,67.77179768996211,Combined,Sindh,1,1,480,389
-15,Government Primary School Khan Wah Combined,27.798938146690485,67.63396618025416,Combined,Sindh,1,1,555,439
-189,Government Middle School  Karira First Portion Combined,27.80037,67.93119,Combined,Sindh,2,2,799,651
-190,Government Middle School  Karira Second Portion Combined,27.80037,67.93122,Combined,Sindh,1,1,509,341
-14,Government Primary School Dilwish Magsi Combined,27.802813457390524,67.69607384773744,Combined,Sindh,2,2,688,548
-16,Government Primary School Niaz Ahmed Chandio Combined,27.82261391956117,67.68565203655668,Combined,Sindh,1,1,674,466
-45,Government Primary School  Meer je Nari Combined,27.822751643495913,67.89829303112461,Combined,Sindh,2,2,678,536
-116,Government Middle School Wada Selra Combined,27.830403444038097,67.92269423482179,Combined,Sindh,1,1,618,517
-114,Government Boys Primary School Wada Seelra Male First Portion,27.830604625593057,67.92696089170745,Male,Sindh,3,0,1383,0
-115,Government Boys Primary School Wada Selra Female Second Portion,27.830604625593057,67.9269908917074,Female,Sindh,0,3,0,1237
-54,Government Girls Primary School  Chakyani Combined,27.83517,67.98071,Combined,Sindh,2,2,753,651
-107,Government Provincial High School Shahdadkot First Portion Combined,27.837184241484042,67.91147840293634,Combined,Sindh,2,2,762,641
-112,Government Provincial High School Shahdadkot Male Second Portion,27.837184241484042,67.9115084029363,Male,Sindh,3,0,1210,0
-113,Government Provincial High School Shahdadkot Female Third Portion,27.837184241484042,67.9115384029363,Female,Sindh,0,3,0,936
-111,Government Primary School  Railway Colony Female,27.839065500986745,67.91343696319838,Female,Sindh,0,4,0,1291
-117,Government Primary School Sir Shahnawaz Bhutto Combined,27.8394507,68.1112652,Combined,Sindh,1,1,546,544
-119,Government Middle School  Sijawal Male  Portion-1,27.8394507,68.1112952,Male,Sindh,2,0,1096,0
-120,Government Middle School  Sijawal Female  Portion-2,27.8394507,68.1113252,Female,Sindh,0,2,0,832
-121,Government Middle School  Sijawal Combined Portion-3,27.8394507,68.1113552,Combined,Sindh,1,1,559,523
-118,Government Primary School Sijawal Combined,27.8394507,68.1113852,Combined,Sindh,1,1,441,349
-97,Government Primary School  Azim Brohi Combined,27.841169826975086,67.90213425656444,Combined,Sindh,2,2,760,626
-104,Government Boys Primary School Muhammad Bux Khuhawar Combined,27.841211376135625,67.90212749129566,Combined,Sindh,2,2,890,730
-103,Agricultural Office Shahdadkot Combined,27.841355278613612,67.90152389858598,Combined,Sindh,2,2,938,698
-8,Government Primary School Ashique Ali Mughari Combined,27.84188588203655,67.60657022514637,Combined,Sindh,1,1,327,280
-100,Government Single Section Boys High School Shahdadkot Second Protion Combined,27.843151209609204,67.89698180704893,Combined,Sindh,2,2,729,578
-101,Government Single Section Boys High School  Shahdadkot Thrid Portion Combined,27.843151209609204,67.8970118070489,Combined,Sindh,2,2,913,709
-102,Government Single Section Boys High School  Shahdadkot First Portion Combined,27.843151209609204,67.8970418070489,Combined,Sindh,2,2,635,519
-91,Government Girls Primary School No.2 Shahdadkot First Portion  Combined,27.84438250793144,67.90345318679476,Combined,Sindh,2,2,841,654
-92,Government Girls Primary School  No.2- Shahdadkot Male Second Portion,27.84438250793144,67.9034831867948,Male,Sindh,2,0,1303,0
-93,Government Girls Primary School  No.2- Shahdadkot Female Third Portion,27.84438250793144,67.9035131867948,Female,Sindh,0,2,0,1096
-96,Government Boys Primary School Noor Muhammadi Combined,27.84444,67.89923,Combined,Sindh,2,2,773,588
-105,Government Primary School  Mehran Shahdadkot Male First Portion,27.84494,67.90708,Male,Sindh,3,0,1114,0
-106,Government Primary School  Mehran Shahdadkot Female Second Portion,27.84494,67.90711,Female,Sindh,0,3,0,968
-94,Government Boys Primary School Sidiqui Madarsa First Portion Combined,27.845690622773912,67.90321959393044,Combined,Sindh,2,2,705,613
-95,Government Boys Primary School Sidiqui Madarsa Second Portion Combined,27.845690622773912,67.9032495939304,Combined,Sindh,2,2,835,732
-44,Government Primary School  Ali Dost Magsi First Portion Combined,27.84571,67.9069478,Combined,Sindh,2,2,739,554
-46,Government Primary School  Ali Dost Magsi Second Portion Combined,27.84571,67.9069778,Combined,Sindh,1,1,497,411
-110,Government Boys Primary School Baqarabad Male,27.846905313740006,67.91493420762676,Male,Sindh,4,0,1698,0
-88,Taluka Hospital Shahdadkot Male First Portion,27.847160100778698,67.90009951813362,Male,Sindh,2,0,1143,0
-89,Taluka Hospital Shahdadkot Female Second Portion,27.847160100778698,67.9001295181336,Female,Sindh,0,2,0,987
-90,Taluka Hospital Shahdadkot Thrid Portion Combined,27.847160100778698,67.9001595181336,Combined,Sindh,1,1,562,536
-34,Government Girls Primary School Ali Hussain Brohi Combined,27.84761239774525,67.70176053978503,Combined,Sindh,2,2,849,724
-86,Government Boys Primary School Khuda Bux Soomro Male First Portion,27.84801,67.90603,Male,Sindh,3,0,1379,0
-87,Government Boys Primary School Khuda Bux Soomro  Female  Second Portion,27.84801,67.90606,Female,Sindh,0,3,0,1197
-41,Government Middle School Bakhtiar Brohi Shahdadkot First Portion Combined,27.848424114233175,67.93416159084984,Combined,Sindh,2,2,914,762
-43,Government Middle School Bakhtiar Brohi Shahdadkot Second Portion Combined,27.848424114233175,67.9341915908498,Combined,Sindh,1,1,398,358
-33,Government Primary School Ali Hussain Khan Brohi Combined,27.84889,67.69972,Combined,Sindh,1,1,548,475
-108,Government Boys Primary School Mazharul Islam First Portion  Combined,27.849082038611655,67.91150714354171,Combined,Sindh,2,2,873,686
-109,Government Boys Primary School Mazharul Islam Second Portion Combined,27.849082038611655,67.9115371435417,Combined,Sindh,2,2,911,763
-82,Government Boys Primary School Faiz Illahi Male First Portion,27.84909174002945,67.90144849628871,Male,Sindh,3,0,1357,0
-83,Government Boys Primary School Faiz Illahi Female  Second Portion,27.84909174002945,67.9014784962887,Female,Sindh,0,3,0,1140
-84,Government Boys Primary School Faiz Illahi Male  Thrid Portion,27.84909174002945,67.9015084962887,Male,Sindh,2,0,1166,0
-85,Government Boys Primary School Faiz Illahi Female  Fourth Portion,27.84909174002945,67.9015384962887,Female,Sindh,0,2,0,935
-52,Government Boys Primary School  Haji Darya Khan Mastoi First Portion Combined,27.84952775023891,67.95830289027684,Combined,Sindh,2,2,657,575
-53,Government Boys Primary School  Haji Darya Kha Mastoi Second Portion Combined,27.84952775023891,67.9583328902768,Combined,Sindh,2,2,687,527
-19,Government Primary School Ahmed Bhatti Combined,27.8495587,67.908533,Combined,Sindh,1,1,479,423
-126,Government Primary School Mitho Khan Mastoi Combined,27.8496067,67.9330192,Combined,Sindh,1,1,656,554
-80,Veterinary Hospital Shahdadkot Combined,27.850342421359553,67.90814814367793,Combined,Sindh,2,2,658,518
-76,Government Girls Single Section High School Shahdadkot Male First Portion,27.85046,67.90558,Male,Sindh,3,0,1580,0
-77,Government Girls Single Section High School Shahdadkot Female Second Portion,27.85046,67.90561,Female,Sindh,0,3,0,1337
-78,Government Girls Single Section High School Shahdadkot Combined Third Portion,27.85046,67.90564,Combined,Sindh,2,2,737,630
-79,Government Primary School  Halemia Combined,27.851392504238405,67.90566497477961,Combined,Sindh,2,2,689,573
-74,Government Boys Primary School Faiz Muhammad Khan Kharal- No.3 Combined First Portion,27.851438405511,67.89731906547298,Combined,Sindh,2,2,736,598
-75,Government Boys Primary School Faiz Muhammad Khan Kharal-No. 3 Combined Second Portion,27.851438405511,67.897349065473,Combined,Sindh,1,1,586,507
-10,Government Middle School Pul 97000 Combined,27.85154862329364,67.63786118477583,Combined,Sindh,2,2,687,525
-81,Government Boys Primary School Faiz Muhammad Khan Kharil No.1 Combined,27.851725472456245,67.91831718836845,Combined,Sindh,2,2,866,647
-13,Government Primary School Kehar Khan Magsi Combined,27.85205962602049,67.75028178468347,Combined,Sindh,2,2,641,513
-98,Government Boys Primary School Sahib Khan Lashari Male  First Portion,27.8555,67.90749,Male,Sindh,3,0,1402,0
-99,Government Boys Primary School Sahib Khan Lashari Female Second Portion,27.8555,67.90752,Female,Sindh,0,3,0,1080
-32,Government Primary School Bahadur Magsi Combined,27.859313869848847,67.69977293908596,Combined,Sindh,1,1,539,459
-40,Government Boys Primary School  Sobho Karirio Combined,27.85977768397305,67.89477780781876,Combined,Sindh,1,1,620,444
-9,Government Primary School Haji Illahi Bux Khoso Combined,27.859862633049488,67.63391632586718,Combined,Sindh,1,1,601,535
-20,Government Primary School Shah Wasayo Combined,27.86016542930156,67.8116530738771,Combined,Sindh,2,2,639,546
-42,Government Boys Primary School  Qaiser Brohi Combined,27.860487125460427,67.9189560667183,Combined,Sindh,2,2,799,590
-61,Government Middle School Dhing First Portion Combined,27.867976698482423,68.00692526648778,Combined,Sindh,2,2,745,562
-62,Government Middle School Dhing Second Portion Combined,27.867976698482423,68.0069552664878,Combined,Sindh,1,1,590,476
-56,Government High School Aitbar Khan Chandio First Portion Combined,27.870335260982,67.95312988595244,Combined,Sindh,2,2,790,648
-57,Government High School Aitbar Khan Chandio Second Portion Combined,27.870335260982,67.9531598859524,Combined,Sindh,1,1,435,395
-7,Government Primary School Ghulam Rasool Chandio Combined,27.870634826123766,67.57011985027019,Combined,Sindh,2,2,728,511
-35,Government Primary School Kot Shahbag Combined,27.87076053209603,67.73324565030634,Combined,Sindh,2,2,613,519
-55,Government Primary School  Muhammad Hassan Chandio  Combined,27.870981857385843,67.95213758472634,Combined,Sindh,1,1,510,417
-36,Government Girls Primary School Kot Shahbag Combined,27.871962999925017,67.73407914675772,Combined,Sindh,1,1,551,518
-28,Government Higher Secondary School Qubo Saeed Khan First Portion Combined,27.87692961283028,67.70683159120381,Combined,Sindh,1,1,607,446
-29,Government Higher Secondary School Qubo Saeed Khan Second Portion Combined,27.87692961283028,67.7068615912038,Combined,Sindh,1,1,568,564
-30,Government Boys Primary School Hebat Khan Magsi First Portion Combined,27.877797456611233,67.67395303049084,Combined,Sindh,2,2,691,561
-31,Government Boys Primary School Hebat Khan Magsi Second First Portion Combined,27.877797456611233,67.6739830304908,Combined,Sindh,1,1,556,474
-49,Government Primary School  Amir Bux Dangar Combined,27.87966695844401,67.96986727373078,Combined,Sindh,1,1,538,369
-37,Government Girls Primary School Muhammad Bakar Brohi First Portion Combined,27.881656479526956,67.71496755034939,Combined,Sindh,2,2,618,586
-38,Government Girls Primary School Muhammad Bakar Brohi Second Portion Combined,27.881656479526956,67.7149975503494,Combined,Sindh,1,1,417,375
-25,Government Primary School Gul Hassan  Mugheri Combined,27.883761826434903,67.77169981339894,Combined,Sindh,1,1,495,405
-2,Government High School Kachi Pul First Portion Combined,27.8857840038836,67.62844210490584,Combined,Sindh,1,1,633,577
-3,Government High School Kachi Pul Second First Portion Combined,27.88583,67.62833,Combined,Sindh,1,1,503,482
-39,Government Primary School Farozabad Combined,27.886962817418667,67.8857660188781,Combined,Sindh,2,2,562,457
-27,Government Primary School Mir Ali Jan Magsi,27.8943605767563,67.70457912236452,Combined,Sindh,2,2,830,594
-50,Government Primary School  Shahpur Jamali Combined,27.897566078060756,67.9357276343036,Combined,Sindh,1,1,454,374
-6,Government Primary School Lakhmeer Khan Khoso Combined,27.908941693603992,67.69901311956346,Combined,Sindh,2,2,658,585
-48,Government Primary School  Bopho Jamali  Combined,27.90972,67.95068,Combined,Sindh,2,2,831,741
-60,Government Boys Primary School  Jevan Leghari Combined,27.914670753953985,68.05900919575303,Combined,Sindh,2,2,747,599
-59,Government Boys Primary School  Tajo Laghari Combined,27.914913111344497,68.00590500958995,Combined,Sindh,2,2,839,618
-4,Government Middle School Mir Muhammad Bujrani First Portion Combined,27.918166774325073,67.68000053241849,Combined,Sindh,1,1,521,423
-5,Government Middle School Mir Muhammad Bujrani Second Portion Combined,27.918166774325073,67.6800305324185,Combined,Sindh,1,1,491,441
-51,Government Primary School  Raheem Khan Jamali Combined,27.918748751363925,67.91346506209445,Combined,Sindh,2,2,683,582
-1,Government Primary School Ghulam Mustafa Khan Jarwar Combined,27.92111,67.64139,Combined,Sindh,2,2,779,630
-24,Government Primary School Ameer Jan Mughari Combined,27.927460532512516,67.75007361146001,Combined,Sindh,1,1,582,489
-68,Government Primary School  Rasool Bux Kutrio Combined,27.92992,67.88982,Combined,Sindh,1,1,483,492
-47,Government Primary School  Sahib Khan Bhatti  Combined,27.93054,67.93881,Combined,Sindh,2,2,781,667
-58,Government Primary School  Shoukat Jarwar Combined,27.93499,68.00088,Combined,Sindh,2,2,614,500
-65,Government Primary School  Kamber Ali Jatoi  Combined,27.939172672283085,68.1072422987901,Combined,Sindh,1,1,412,336
-69,Government Primary School  Jari Combined,27.94378097131041,67.86666085864715,Combined,Sindh,1,1,513,495
-71,Government Middle School Sanjar Bhatti Combined,27.95333,67.99441,Combined,Sindh,2,2,726,602
-22,Government Boys Primary School Kot Chutto Combined,27.95389,67.8225,Combined,Sindh,1,1,527,449
-64,Government Boys Primary School  Baharo Gurgaige Combined,27.95465275457996,68.11416752218835,Combined,Sindh,1,1,454,298
-23,Government Primary School Kot Jhurio Combined,27.96055,67.85623,Combined,Sindh,1,1,543,460
-67,Government Middle School Muhammad Khan Bhutto Combined,27.9612,67.91125,Combined,Sindh,2,2,642,496
-72,Government Girls Primary School  Ghulam Nabi Bhurgri Combined,27.96139653113896,67.99187253494894,Combined,Sindh,1,1,476,376
-63,Government Primary School  Bakhoo Siyal Combined,27.961669945267282,68.10059934086978,Combined,Sindh,1,1,633,482
-66,Government Girls Primary School  Gul Muhammad Jarwar Combined,27.9804,67.9346,Combined,Sindh,1,1,417,334
-73,Government Boys Primary School  Gul Muhammad Jarwar Combined,27.9804,67.93463,Combined,Sindh,2,2,661,577
-70,Government Boys Primary School  Umeed Ali Junejo Combined,27.98655,67.96575,Combined,Sindh,1,1,550,492
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 218 - Government Primary School  Muhammad Punhal Mugheri Male  First Portion,27.364323,67.8095906,Male,Sindh,2,0,1068,0
+ 219 - Government Primary School  Muhammad Punhal Mugheri Female  Second Portion,27.364323,67.8096206,Female,Sindh,0,2,0,849
+ 179 - Government Primary School Soharo Khoso Male  First Portion,27.364323,67.8096506,Male,Sindh,2,0,1062,0
+ 180 - Government Primary School Soharo Khoso Female Second Portion,27.364323,67.8096806,Female,Sindh,0,2,0,779
+ 198 - Government Primary School Moladino Khoso Combined,27.364323,67.8097106,Combined,Sindh,2,2,1081,746
+ 204 - Government Primary School Wali Dino Khoso First Portion Combined,27.364323,67.8097406,Combined,Sindh,1,1,565,411
+ 205 - Government Primary School Wali Dino Khoso Second Portion Combined,27.364323,67.8097706,Combined,Sindh,1,1,501,340
+ 202 - Government Middle School  Miran Machi Combined,27.364323,67.8098006,Combined,Sindh,2,2,769,713
+ 201 - Government Primary School Jamal Khan Magsi Combined,27.364323,67.8098306,Combined,Sindh,2,2,789,693
+ 200 - Government Girls Primary School New Khabar Combined,27.364323,67.8098606,Combined,Sindh,2,2,980,712
+ 203 - Government Primary School Manjhi Gopang Combined,27.364323,67.8098906,Combined,Sindh,2,2,702,410
+ 188 - Government Primary School Miskeen Pur Combined,27.364323,67.8099206,Combined,Sindh,1,1,577,460
+ 191 - Government Primary School Bharmee Combined,27.364323,67.8099506,Combined,Sindh,1,1,719,684
+ 194 - Government Primary School Usman Brohi Combined,27.364323,67.8099806,Combined,Sindh,2,2,813,593
+ 192 - Government Primary School Jam Khoso Combined,27.364323,67.8100106,Combined,Sindh,2,2,886,695
+ 193 - Government Primary School Ghulam Ali Magsi Combined,27.364323,67.8100406,Combined,Sindh,2,2,853,645
+ 195 - Government Primary School Fida Hussain Brohi Combined,27.364323,67.8100706,Combined,Sindh,2,2,806,555
+ 178 - Government Middle School Ali Ji Wand Combined,27.364323,67.8101006,Combined,Sindh,2,2,758,570
+ 177 - Government Primary School Mubark Kalhoro  Combined,27.364323,67.8101306,Combined,Sindh,2,2,881,784
+ 131 - Government Primary School Chakar Sultan Combined,27.364323,67.8101606,Combined,Sindh,2,2,681,543
+ 129 - Government Primary School Shah jo Lao Combined,27.364323,67.8101906,Combined,Sindh,2,2,853,663
+ 125 - Government Primary School Lukman Siyal Combined,27.5661698,68.2063015,Combined,Sindh,2,2,810,678
+ 122 - Government Primary School Punhal Bhatti  Combined,27.5661698,68.2063315,Combined,Sindh,2,2,711,629
+ 124 - Government Primary School Lal Khan Mastoi Combined,27.5661698,68.2063615,Combined,Sindh,2,2,712,511
+ 137 - Government High School Kot Lal Bux Mahesar Male First Portion,27.5661698,68.2063915,Male,Sindh,3,0,1271,0
+ 138 - Government High School Kot Lal Bux Mahesar Second Portion Female,27.5661698,68.2064215,Female,Sindh,0,3,0,1004
+ 139 - Government Primary School Kot Lal Bux Mahesar Combined,27.5661698,68.2064515,Combined,Sindh,1,1,471,423
+ 134 - Government Primary School Khuda Bux Gopang Combined,27.5661698,68.2064815,Combined,Sindh,1,1,561,406
+ 136 - Government Primary School Philhari Combined,27.5661698,68.2065115,Combined,Sindh,2,2,710,543
+ 135 - Government Primary School Hayat Khan Gopang Combined,27.5661698,68.2065415,Combined,Sindh,1,1,570,545
+ 162 - Government Primary School Hamzo Khan Shar Combined,27.5661698,68.2065715,Combined,Sindh,2,2,756,685
+ 145 - Government High School Hyder Chandio First Portion Combined,27.5661698,68.2066015,Combined,Sindh,1,1,543,444
+ 146 - Government High School Hyder Chandio Second Portion Combined,27.5661698,68.2066315,Combined,Sindh,1,1,518,434
+ 240 - Government High School Chajra Combined First  Portion,27.5877387,68.0211032,Combined,Sindh,2,2,802,703
+ 242 - Government High School Chajra Combined Second  Portion,27.5877387,68.0211332,Combined,Sindh,2,2,718,526
+ 241 - Government Primary School  Chajra Combined,27.5877387,68.0211632,Combined,Sindh,1,1,704,498
+ 238 - Government Primary School  Bhawand Lakha Combined,27.5877387,68.0211932,Combined,Sindh,1,1,634,469
+ 239 - Government Primary School  Rab Rakhio Lakho Combined,27.5877387,68.0212232,Combined,Sindh,2,2,734,672
+ 224 - Government Primary School  Juma Khan Brohi Combined,27.5877387,68.0212532,Combined,Sindh,2,2,738,575
+ 225 - Government Primary School  Hasla Combined,27.5877387,68.0212832,Combined,Sindh,2,2,908,747
+ 226 - Government Primary School  Ranwati First Male Portion,27.5877387,68.0213132,Male,Sindh,2,0,1126,0
+ 227 - Government Primary School  Ranwati Female Second Portion,27.5877387,68.0213432,Female,Sindh,0,2,0,987
+ 228 - Government Middle School  Mena Combined First Portion,27.5877387,68.0213732,Combined,Sindh,1,1,670,584
+ 229 - Government Middle School  Mena Combined Second Portion,27.5877387,68.0214032,Combined,Sindh,2,2,845,647
+ 222 - Government Primary School  Kot Ghulam Shah Combined,27.5877387,68.0214332,Combined,Sindh,1,1,740,580
+ 230 - Government Primary School  Mahyoon Male First Portion,27.5878374,68.0286692,Male,Sindh,3,0,1583,0
+ 231 - Government Primary School  Mahyoon Female Second,27.5878374,68.0286992,Female,Sindh,0,3,0,1223
+ 21 - Government Boys Primary School Dhani Bux Brohi Combined,27.5878374,68.0287292,Combined,Sindh,1,1,464,389
+ 235 - Government Primary School  Dhani Bux Combined,27.5878374,68.0287592,Combined,Sindh,2,2,828,684
+ 232 - Government Primary School  Jhing Combined First Portion,27.5878374,68.0287892,Combined,Sindh,1,1,527,441
+ 233 - Government Primary School  Jhing Combined Second Portion,27.5878374,68.0288192,Combined,Sindh,1,1,705,607
+ 234 - Government Primary School  Ali Bux Bhangar Combined,27.5878374,68.0288492,Combined,Sindh,2,2,792,641
+ 223 - Government Primary School  Meeran Hulio Combined,27.5878374,68.0288792,Combined,Sindh,1,1,628,450
+ 254 - Government Primary School  Razi Khan Combined,27.5878374,68.0289092,Combined,Sindh,2,2,876,649
+ 255 - Government Primary School  Sahib Khan Gorar Combined First Portion,27.5878374,68.0289392,Combined,Sindh,1,1,451,285
+ 256 - Government Primary School  Sahib Khan Gorar Combined Second Portion,27.5878374,68.0289692,Combined,Sindh,1,1,567,367
+ 257 - Basic Health Unit  Ghazi Khan Khuhwar Combined,27.5878374,68.0289992,Combined,Sindh,2,2,869,721
+ 258 - Government Primary School  Sharif Bhutto Combined,27.5878374,68.0290292,Combined,Sindh,1,1,543,447
+ 259 - Government Primary School Dital Abro first Portion Combined,27.5878374,68.0290592,Combined,Sindh,1,1,719,449
+ 260 - Government Primary School Dital Abro Combined Second Portion,27.5878374,68.0290892,Combined,Sindh,1,1,588,419
+ 236 - Government Primary School Sarang Khuhwar Combined,27.5878374,68.0291192,Combined,Sindh,2,2,764,747
+ 261 - Government Boys Primary School- Abri Combined,27.5881266,68.0085392,Combined,Sindh,2,2,956,696
+ 262 - Government Middle Boys School  Abri Combined First Portion,27.5881266,68.0085692,Combined,Sindh,2,2,746,522
+ 263 - Government Middle Boys School  Abri Combined Second Portion,27.5881266,68.0085992,Combined,Sindh,1,1,476,371
+ 265 - Government Primary School  Dhani Bux Tunio Combined,27.5881266,68.0086292,Combined,Sindh,1,1,662,571
+ 266 - Government Primary School  Sharefani Combined,27.5881266,68.0086592,Combined,Sindh,2,2,769,613
+ 264 - Government High School Khairpur Juso Combined First Portion,27.5881266,68.0086892,Combined,Sindh,1,1,881,572
+ 267 - Government High School Khairpur Juso Combined Second Portion,27.5881266,68.0087192,Combined,Sindh,1,1,633,509
+ 247 - Government Middle School  Jean Abro Male First Portion,27.5881266,68.0087492,Male,Sindh,2,0,1153,0
+ 248 - Government Middle School  Jean Abro Female Second Portion,27.5881266,68.0087792,Female,Sindh,0,2,0,747
+ 249 - Government Middle School  Jean Abro Combined Thrid Portion,27.5881266,68.0088092,Combined,Sindh,1,1,707,491
+ 250 - Government Middle School  Jean Abro Combined Fourth Portion,27.5881266,68.0088392,Combined,Sindh,1,1,456,308
+ 252 - Government Primary School  Aheer Combined,27.5881266,68.0088692,Combined,Sindh,1,1,615,536
+ 251 - Government Primary School  Pir Muhammad Metlo Combined,27.5881266,68.0088992,Combined,Sindh,2,2,1070,727
+ 253 - Government Primary School  Esso Village Combined,27.5881266,68.0089292,Combined,Sindh,2,2,1035,805
+ 237 - Government Primary School  Fatah Muhammad  Mughari Combined,27.5894699,67.9927906,Combined,Sindh,2,2,780,543
+ 245 - Government Primary School  Hafezabad Male First Portion,27.5894699,67.9928206,Male,Sindh,2,0,1060,0
+ 246 - Government Primary School  Hafezabad Female Second Portion,27.5894699,67.9928506,Female,Sindh,0,2,0,903
+ 243 - Government Primary School  Sohrab Patojo Combined,27.5961363,68.0035963,Combined,Sindh,2,2,942,813
+ 244 - Government Primary School  Kamal Khan Combined,27.5961363,68.0036263,Combined,Sindh,1,1,606,454
+ 181 - Government Primary School Hakim Shah Combined,27.6201412,68.007695,Combined,Sindh,2,2,809,572
+ 185 - Government Primary School Gul Muhammad Chacho Combined,27.6201412,68.007725,Combined,Sindh,2,2,883,708
+ 156 - Government Primary School Saindad Laghari Combined,27.6514792,68.1720198,Combined,Sindh,1,1,694,562
+ 157 - Government Primary School Jamal Khan  Laghari First Portion Combined,27.6514792,68.1720498,Combined,Sindh,1,1,543,444
+ 158 - Government Primary School Jamal Khan Laghari Second Portion Combined,27.6514792,68.1720798,Combined,Sindh,1,1,424,374
+ 214 - Government High School Behram  First Portion Combined,27.6884906,67.9755194,Combined,Sindh,2,2,792,595
+ 215 - Government High School Behram  Second Portion Combined,27.6884906,67.9755494,Combined,Sindh,2,2,992,772
+ 216 - Government Girls Primary School  Behram First Portion Combined,27.6884906,67.9755794,Combined,Sindh,2,2,890,771
+ 217 - Government Girls Primary School  Behram Second Portion Combined,27.6884906,67.9756094,Combined,Sindh,2,2,742,653
+ 220 - Government Middle School Bhuthi Combined First Portion,27.6884906,67.9756394,Combined,Sindh,2,2,816,634
+ 221 - Government Middle School Bhuthi Combined Second Portion,27.6884906,67.9756694,Combined,Sindh,2,2,1042,835
+ 186 - Government Primary School Noorul Huda Shah Combined,27.6890858,67.9710098,Combined,Sindh,2,2,970,662
+ 169 - Government High School Bhambo Khan Chandio First Portion Combined,27.691909,68.0783814,Combined,Sindh,1,1,741,659
+ 170 - Government High School Bhambo Khan Chandio Second Portion Combined,27.691909,68.0784114,Combined,Sindh,2,2,716,729
+ 176 - Government Primary School Chutto Joyo  Combined,27.6924487,68.0637144,Combined,Sindh,2,2,828,702
+ 168 - Government Primary School Bhambo Khan Chandio Combined,27.7069982,68.0697721,Combined,Sindh,1,1,640,521
+ 12 - Government Primary School Punhal Khaskheli Combined,27.71763,67.77087,Combined,Sindh,1,1,561,453
+ 173 - Government Primary School Tharo Wadho Combined,27.7220874,68.0611628,Combined,Sindh,1,1,561,460
+ 174 - Government Middle School Tharo Wadho  First Portion Combined,27.7220874,68.0611928,Combined,Sindh,2,2,1227,957
+ 175 - Government Middle School Tharo Wadho Second Portion Combined,27.7220874,68.0612228,Combined,Sindh,2,2,738,579
+ 132 - Government Primary School Nabi Bux Mastoi First Portion Combined,27.7325263,67.9693454,Combined,Sindh,2,2,789,575
+ 133 - Government Primary School Nabi Bux Mastoi Second Portion Combined,27.7325263,67.9693754,Combined,Sindh,1,1,523,446
+ 130 - Government Primary School Muhammad Ibraheem Mastoi Combined,27.7342084,67.9671107,Combined,Sindh,1,1,599,476
+ 17 - Government Primary School Khalipho Combined,27.73691,67.68298,Combined,Sindh,1,1,470,379
+ 213 - Government Primary School  Miro Khan Tunia Mohalla  Combined,27.7402632,68.0855714,Combined,Sindh,2,2,900,787
+ 182 - Government Primary School Badalabad First Portion Male,27.7420029,67.9418066,Male,Sindh,2,0,1113,0
+ 183 - Government Primary School Badalabad Second Portion Female,27.7420029,67.9418366,Female,Sindh,0,2,0,830
+ 187 - Government Primary School Bhuthi Hakra Combined,27.7420029,67.9418666,Combined,Sindh,2,2,1122,832
+ 26 - Government Boys Primary School Jan Muhammad Khoso Combined,27.7420029,67.9418966,Combined,Sindh,1,1,464,331
+ 184 - Government Primary School Jan Muhammad Khoso Combined,27.7420029,67.9419266,Combined,Sindh,1,1,638,442
+ 199 - Government Primary School Geo Magsi Combined,27.7420659,67.927607,Combined,Sindh,1,1,530,509
+ 197 - Government Primary School Rup Watoo Combined,27.7421632,67.9419019,Combined,Sindh,2,2,947,785
+ 196 - Government Primary School Chachiri Combined,27.7421632,67.9419319,Combined,Sindh,1,1,704,510
+ 166 - Government Primary School Drib Chandio First Portion Combined,27.7511251,68.1036019,Combined,Sindh,1,1,572,398
+ 167 - Government Primary School Drib Chandio Second Portion Combined,27.7511251,68.1036319,Combined,Sindh,1,1,521,391
+ 163 - Government High School Miro Khan Town Combined,27.7593037,68.0870619,Combined,Sindh,2,2,807,633
+ 206 - Government Primary School  Miro Khan-II Town Male First Portion,27.7593037,68.0870919,Male,Sindh,2,0,948,0
+ 207 - Government Primary School  Miro Khan-II Town Female Second Portion,27.7593037,68.0871219,Female,Sindh,0,2,0,824
+ 208 - Government Girls High School Miro Khan Combined,27.7593037,68.0871519,Combined,Sindh,1,1,554,492
+ 212 - Government Primary School  Main Miro Khan Combined,27.7594273,68.0878071,Combined,Sindh,2,2,893,835
+ 171 - Government Primary School Purano Tharo First Portion Combined,27.7594273,68.0878371,Combined,Sindh,1,1,529,470
+ 172 - Government Primary School Purano Tharo Second Portion Combined,27.7594273,68.0878671,Combined,Sindh,1,1,517,401
+ 128 - Government Primary School Tar Mathyon Combined,27.7594273,68.0878971,Combined,Sindh,1,1,690,545
+ 127 - Government Primary School Dolat ji Wandh Combined,27.7594273,68.0879271,Combined,Sindh,1,1,562,467
+ 209 - Government Girls Primary School Miro Khan Male  First Portion,27.7594273,68.0879571,Male,Sindh,2,0,1129,0
+ 210 - Government Girls Primary School  Miro Khan Female  Portion-2,27.7594273,68.0879871,Female,Sindh,0,2,0,1025
+ 144 - Government Primary School Buxio Sario Combined,27.7596517,68.0870619,Combined,Sindh,1,1,547,484
+ 164 - Government Primary School Ali Sher Gopang Combined,27.7609713,68.0971226,Combined,Sindh,2,2,875,707
+ 159 - Government High School Thouf Chousol First Poriton Combined,27.7610331,68.0974952,Combined,Sindh,1,1,510,441
+ 160 - Government High School Thouf Chousol Second Poriton Combined,27.7610331,68.0975252,Combined,Sindh,1,1,550,484
+ 161 - Government Primary School Thouf Chousol Combined,27.7610331,68.0975552,Combined,Sindh,1,1,627,540
+ 149 - Government Primary School Ali Nawaz Jagerani Combined,27.7610331,68.0975852,Combined,Sindh,2,2,830,705
+ 147 - Government Primary School Mahmood Abad Combined,27.7610331,68.0976152,Combined,Sindh,2,2,731,603
+ 148 - Government Primary School Sahib Khan Korai Combined,27.7610331,68.0976452,Combined,Sindh,1,1,363,319
+ 150 - Government Primary School Jan Muhammad Leghari Combined,27.7610331,68.0976752,Combined,Sindh,1,1,617,522
+ 151 - Government Primary School Jeend Lak Combined Portion-1,27.7610331,68.0977052,Combined,Sindh,1,1,644,570
+ 152 - Government Primary School Jeend Lak Combined Portion-2,27.7610331,68.0977352,Combined,Sindh,1,1,555,419
+ 153 - Government Primary School Bakhar Mahesar Combined,27.7610331,68.0977652,Combined,Sindh,1,1,700,538
+ 154 - Government Primary School Ali Muhammad Soomro Male  Portion-1,27.7610331,68.0977952,Male,Sindh,2,0,1055,0
+ 155 - Government Primary School Ali Muhammad Soomro Female  Portion-2,27.7610331,68.0978252,Female,Sindh,0,2,0,889
+ 141 - Government High School Arzi Bhutto First Portion Combined,27.7610331,68.0978552,Combined,Sindh,2,2,776,710
+ 142 - Government High School Arzi Bhutto Second Portion Combined,27.7610331,68.0978852,Combined,Sindh,2,2,802,615
+ 143 - Government Primary School Arzi Bhutto Combined,27.7610331,68.0979152,Combined,Sindh,2,2,748,632
+ 140 - Government Primary School Teerahn Pur  Combined,27.7610331,68.0979452,Combined,Sindh,2,2,872,713
+ 165 - Government Primary School Khawand Dino Kalhoro Combined,27.7613193,68.0971226,Combined,Sindh,1,1,489,425
+ 123 - Government Primary School Jumo Bhatti Combined,27.761356,68.090205,Combined,Sindh,2,2,737,676
+ 211 - Taluka Municipal Office Miro Khan Combined,27.7621246,68.0882756,Combined,Sindh,2,2,784,630
+ 18 - Rehabilitation Health Centre Mirpur Combined,27.770128441809014,67.63853433865724,Combined,Sindh,1,1,463,399
+ 11 - Government Girls Primary School Sikandarabad Combined,27.783406609317492,67.77179768996211,Combined,Sindh,1,1,480,389
+ 15 - Government Primary School Khan Wah Combined,27.798938146690485,67.63396618025416,Combined,Sindh,1,1,555,439
+ 189 - Government Middle School  Karira First Portion Combined,27.80037,67.93119,Combined,Sindh,2,2,799,651
+ 190 - Government Middle School  Karira Second Portion Combined,27.80037,67.93122,Combined,Sindh,1,1,509,341
+ 14 - Government Primary School Dilwish Magsi Combined,27.802813457390524,67.69607384773744,Combined,Sindh,2,2,688,548
+ 16 - Government Primary School Niaz Ahmed Chandio Combined,27.82261391956117,67.68565203655668,Combined,Sindh,1,1,674,466
+ 45 - Government Primary School  Meer je Nari Combined,27.822751643495913,67.89829303112461,Combined,Sindh,2,2,678,536
+ 116 - Government Middle School Wada Selra Combined,27.830403444038097,67.92269423482179,Combined,Sindh,1,1,618,517
+ 114 - Government Boys Primary School Wada Seelra Male First Portion,27.830604625593057,67.92696089170745,Male,Sindh,3,0,1383,0
+ 115 - Government Boys Primary School Wada Selra Female Second Portion,27.830604625593057,67.9269908917074,Female,Sindh,0,3,0,1237
+ 54 - Government Girls Primary School  Chakyani Combined,27.83517,67.98071,Combined,Sindh,2,2,753,651
+ 107 - Government Provincial High School Shahdadkot First Portion Combined,27.837184241484042,67.91147840293634,Combined,Sindh,2,2,762,641
+ 112 - Government Provincial High School Shahdadkot Male Second Portion,27.837184241484042,67.9115084029363,Male,Sindh,3,0,1210,0
+ 113 - Government Provincial High School Shahdadkot Female Third Portion,27.837184241484042,67.9115384029363,Female,Sindh,0,3,0,936
+ 111 - Government Primary School  Railway Colony Female,27.839065500986745,67.91343696319838,Female,Sindh,0,4,0,1291
+ 117 - Government Primary School Sir Shahnawaz Bhutto Combined,27.8394507,68.1112652,Combined,Sindh,1,1,546,544
+ 119 - Government Middle School  Sijawal Male  Portion-1,27.8394507,68.1112952,Male,Sindh,2,0,1096,0
+ 120 - Government Middle School  Sijawal Female  Portion-2,27.8394507,68.1113252,Female,Sindh,0,2,0,832
+ 121 - Government Middle School  Sijawal Combined Portion-3,27.8394507,68.1113552,Combined,Sindh,1,1,559,523
+ 118 - Government Primary School Sijawal Combined,27.8394507,68.1113852,Combined,Sindh,1,1,441,349
+ 97 - Government Primary School  Azim Brohi Combined,27.841169826975086,67.90213425656444,Combined,Sindh,2,2,760,626
+ 104 - Government Boys Primary School Muhammad Bux Khuhawar Combined,27.841211376135625,67.90212749129566,Combined,Sindh,2,2,890,730
+ 103 - Agricultural Office Shahdadkot Combined,27.841355278613612,67.90152389858598,Combined,Sindh,2,2,938,698
+ 8 - Government Primary School Ashique Ali Mughari Combined,27.84188588203655,67.60657022514637,Combined,Sindh,1,1,327,280
+ 100 - Government Single Section Boys High School Shahdadkot Second Protion Combined,27.843151209609204,67.89698180704893,Combined,Sindh,2,2,729,578
+ 101 - Government Single Section Boys High School  Shahdadkot Thrid Portion Combined,27.843151209609204,67.8970118070489,Combined,Sindh,2,2,913,709
+ 102 - Government Single Section Boys High School  Shahdadkot First Portion Combined,27.843151209609204,67.8970418070489,Combined,Sindh,2,2,635,519
+ 91 - Government Girls Primary School No.2 Shahdadkot First Portion  Combined,27.84438250793144,67.90345318679476,Combined,Sindh,2,2,841,654
+ 92 - Government Girls Primary School  No.2- Shahdadkot Male Second Portion,27.84438250793144,67.9034831867948,Male,Sindh,2,0,1303,0
+ 93 - Government Girls Primary School  No.2- Shahdadkot Female Third Portion,27.84438250793144,67.9035131867948,Female,Sindh,0,2,0,1096
+ 96 - Government Boys Primary School Noor Muhammadi Combined,27.84444,67.89923,Combined,Sindh,2,2,773,588
+ 105 - Government Primary School  Mehran Shahdadkot Male First Portion,27.84494,67.90708,Male,Sindh,3,0,1114,0
+ 106 - Government Primary School  Mehran Shahdadkot Female Second Portion,27.84494,67.90711,Female,Sindh,0,3,0,968
+ 94 - Government Boys Primary School Sidiqui Madarsa First Portion Combined,27.845690622773912,67.90321959393044,Combined,Sindh,2,2,705,613
+ 95 - Government Boys Primary School Sidiqui Madarsa Second Portion Combined,27.845690622773912,67.9032495939304,Combined,Sindh,2,2,835,732
+ 44 - Government Primary School  Ali Dost Magsi First Portion Combined,27.84571,67.9069478,Combined,Sindh,2,2,739,554
+ 46 - Government Primary School  Ali Dost Magsi Second Portion Combined,27.84571,67.9069778,Combined,Sindh,1,1,497,411
+ 110 - Government Boys Primary School Baqarabad Male,27.846905313740006,67.91493420762676,Male,Sindh,4,0,1698,0
+ 88 - Taluka Hospital Shahdadkot Male First Portion,27.847160100778698,67.90009951813362,Male,Sindh,2,0,1143,0
+ 89 - Taluka Hospital Shahdadkot Female Second Portion,27.847160100778698,67.9001295181336,Female,Sindh,0,2,0,987
+ 90 - Taluka Hospital Shahdadkot Thrid Portion Combined,27.847160100778698,67.9001595181336,Combined,Sindh,1,1,562,536
+ 34 - Government Girls Primary School Ali Hussain Brohi Combined,27.84761239774525,67.70176053978503,Combined,Sindh,2,2,849,724
+ 86 - Government Boys Primary School Khuda Bux Soomro Male First Portion,27.84801,67.90603,Male,Sindh,3,0,1379,0
+ 87 - Government Boys Primary School Khuda Bux Soomro  Female  Second Portion,27.84801,67.90606,Female,Sindh,0,3,0,1197
+ 41 - Government Middle School Bakhtiar Brohi Shahdadkot First Portion Combined,27.848424114233175,67.93416159084984,Combined,Sindh,2,2,914,762
+ 43 - Government Middle School Bakhtiar Brohi Shahdadkot Second Portion Combined,27.848424114233175,67.9341915908498,Combined,Sindh,1,1,398,358
+ 33 - Government Primary School Ali Hussain Khan Brohi Combined,27.84889,67.69972,Combined,Sindh,1,1,548,475
+ 108 - Government Boys Primary School Mazharul Islam First Portion  Combined,27.849082038611655,67.91150714354171,Combined,Sindh,2,2,873,686
+ 109 - Government Boys Primary School Mazharul Islam Second Portion Combined,27.849082038611655,67.9115371435417,Combined,Sindh,2,2,911,763
+ 82 - Government Boys Primary School Faiz Illahi Male First Portion,27.84909174002945,67.90144849628871,Male,Sindh,3,0,1357,0
+ 83 - Government Boys Primary School Faiz Illahi Female  Second Portion,27.84909174002945,67.9014784962887,Female,Sindh,0,3,0,1140
+ 84 - Government Boys Primary School Faiz Illahi Male  Thrid Portion,27.84909174002945,67.9015084962887,Male,Sindh,2,0,1166,0
+ 85 - Government Boys Primary School Faiz Illahi Female  Fourth Portion,27.84909174002945,67.9015384962887,Female,Sindh,0,2,0,935
+ 52 - Government Boys Primary School  Haji Darya Khan Mastoi First Portion Combined,27.84952775023891,67.95830289027684,Combined,Sindh,2,2,657,575
+ 53 - Government Boys Primary School  Haji Darya Kha Mastoi Second Portion Combined,27.84952775023891,67.9583328902768,Combined,Sindh,2,2,687,527
+ 19 - Government Primary School Ahmed Bhatti Combined,27.8495587,67.908533,Combined,Sindh,1,1,479,423
+ 126 - Government Primary School Mitho Khan Mastoi Combined,27.8496067,67.9330192,Combined,Sindh,1,1,656,554
+ 80 - Veterinary Hospital Shahdadkot Combined,27.850342421359553,67.90814814367793,Combined,Sindh,2,2,658,518
+ 76 - Government Girls Single Section High School Shahdadkot Male First Portion,27.85046,67.90558,Male,Sindh,3,0,1580,0
+ 77 - Government Girls Single Section High School Shahdadkot Female Second Portion,27.85046,67.90561,Female,Sindh,0,3,0,1337
+ 78 - Government Girls Single Section High School Shahdadkot Combined Third Portion,27.85046,67.90564,Combined,Sindh,2,2,737,630
+ 79 - Government Primary School  Halemia Combined,27.851392504238405,67.90566497477961,Combined,Sindh,2,2,689,573
+ 74 - Government Boys Primary School Faiz Muhammad Khan Kharal- No.3 Combined First Portion,27.851438405511,67.89731906547298,Combined,Sindh,2,2,736,598
+ 75 - Government Boys Primary School Faiz Muhammad Khan Kharal-No. 3 Combined Second Portion,27.851438405511,67.897349065473,Combined,Sindh,1,1,586,507
+ 10 - Government Middle School Pul 97000 Combined,27.85154862329364,67.63786118477583,Combined,Sindh,2,2,687,525
+ 81 - Government Boys Primary School Faiz Muhammad Khan Kharil No.1 Combined,27.851725472456245,67.91831718836845,Combined,Sindh,2,2,866,647
+ 13 - Government Primary School Kehar Khan Magsi Combined,27.85205962602049,67.75028178468347,Combined,Sindh,2,2,641,513
+ 98 - Government Boys Primary School Sahib Khan Lashari Male  First Portion,27.8555,67.90749,Male,Sindh,3,0,1402,0
+ 99 - Government Boys Primary School Sahib Khan Lashari Female Second Portion,27.8555,67.90752,Female,Sindh,0,3,0,1080
+ 32 - Government Primary School Bahadur Magsi Combined,27.859313869848847,67.69977293908596,Combined,Sindh,1,1,539,459
+ 40 - Government Boys Primary School  Sobho Karirio Combined,27.85977768397305,67.89477780781876,Combined,Sindh,1,1,620,444
+ 9 - Government Primary School Haji Illahi Bux Khoso Combined,27.859862633049488,67.63391632586718,Combined,Sindh,1,1,601,535
+ 20 - Government Primary School Shah Wasayo Combined,27.86016542930156,67.8116530738771,Combined,Sindh,2,2,639,546
+ 42 - Government Boys Primary School  Qaiser Brohi Combined,27.860487125460427,67.9189560667183,Combined,Sindh,2,2,799,590
+ 61 - Government Middle School Dhing First Portion Combined,27.867976698482423,68.00692526648778,Combined,Sindh,2,2,745,562
+ 62 - Government Middle School Dhing Second Portion Combined,27.867976698482423,68.0069552664878,Combined,Sindh,1,1,590,476
+ 56 - Government High School Aitbar Khan Chandio First Portion Combined,27.870335260982,67.95312988595244,Combined,Sindh,2,2,790,648
+ 57 - Government High School Aitbar Khan Chandio Second Portion Combined,27.870335260982,67.9531598859524,Combined,Sindh,1,1,435,395
+ 7 - Government Primary School Ghulam Rasool Chandio Combined,27.870634826123766,67.57011985027019,Combined,Sindh,2,2,728,511
+ 35 - Government Primary School Kot Shahbag Combined,27.87076053209603,67.73324565030634,Combined,Sindh,2,2,613,519
+ 55 - Government Primary School  Muhammad Hassan Chandio  Combined,27.870981857385843,67.95213758472634,Combined,Sindh,1,1,510,417
+ 36 - Government Girls Primary School Kot Shahbag Combined,27.871962999925017,67.73407914675772,Combined,Sindh,1,1,551,518
+ 28 - Government Higher Secondary School Qubo Saeed Khan First Portion Combined,27.87692961283028,67.70683159120381,Combined,Sindh,1,1,607,446
+ 29 - Government Higher Secondary School Qubo Saeed Khan Second Portion Combined,27.87692961283028,67.7068615912038,Combined,Sindh,1,1,568,564
+ 30 - Government Boys Primary School Hebat Khan Magsi First Portion Combined,27.877797456611233,67.67395303049084,Combined,Sindh,2,2,691,561
+ 31 - Government Boys Primary School Hebat Khan Magsi Second First Portion Combined,27.877797456611233,67.6739830304908,Combined,Sindh,1,1,556,474
+ 49 - Government Primary School  Amir Bux Dangar Combined,27.87966695844401,67.96986727373078,Combined,Sindh,1,1,538,369
+ 37 - Government Girls Primary School Muhammad Bakar Brohi First Portion Combined,27.881656479526956,67.71496755034939,Combined,Sindh,2,2,618,586
+ 38 - Government Girls Primary School Muhammad Bakar Brohi Second Portion Combined,27.881656479526956,67.7149975503494,Combined,Sindh,1,1,417,375
+ 25 - Government Primary School Gul Hassan  Mugheri Combined,27.883761826434903,67.77169981339894,Combined,Sindh,1,1,495,405
+ 2 - Government High School Kachi Pul First Portion Combined,27.8857840038836,67.62844210490584,Combined,Sindh,1,1,633,577
+ 3 - Government High School Kachi Pul Second First Portion Combined,27.88583,67.62833,Combined,Sindh,1,1,503,482
+ 39 - Government Primary School Farozabad Combined,27.886962817418667,67.8857660188781,Combined,Sindh,2,2,562,457
+ 27 - Government Primary School Mir Ali Jan Magsi,27.8943605767563,67.70457912236452,Combined,Sindh,2,2,830,594
+ 50 - Government Primary School  Shahpur Jamali Combined,27.897566078060756,67.9357276343036,Combined,Sindh,1,1,454,374
+ 6 - Government Primary School Lakhmeer Khan Khoso Combined,27.908941693603992,67.69901311956346,Combined,Sindh,2,2,658,585
+ 48 - Government Primary School  Bopho Jamali  Combined,27.90972,67.95068,Combined,Sindh,2,2,831,741
+ 60 - Government Boys Primary School  Jevan Leghari Combined,27.914670753953985,68.05900919575303,Combined,Sindh,2,2,747,599
+ 59 - Government Boys Primary School  Tajo Laghari Combined,27.914913111344497,68.00590500958995,Combined,Sindh,2,2,839,618
+ 4 - Government Middle School Mir Muhammad Bujrani First Portion Combined,27.918166774325073,67.68000053241849,Combined,Sindh,1,1,521,423
+ 5 - Government Middle School Mir Muhammad Bujrani Second Portion Combined,27.918166774325073,67.6800305324185,Combined,Sindh,1,1,491,441
+ 51 - Government Primary School  Raheem Khan Jamali Combined,27.918748751363925,67.91346506209445,Combined,Sindh,2,2,683,582
+ 1 - Government Primary School Ghulam Mustafa Khan Jarwar Combined,27.92111,67.64139,Combined,Sindh,2,2,779,630
+ 24 - Government Primary School Ameer Jan Mughari Combined,27.927460532512516,67.75007361146001,Combined,Sindh,1,1,582,489
+ 68 - Government Primary School  Rasool Bux Kutrio Combined,27.92992,67.88982,Combined,Sindh,1,1,483,492
+ 47 - Government Primary School  Sahib Khan Bhatti  Combined,27.93054,67.93881,Combined,Sindh,2,2,781,667
+ 58 - Government Primary School  Shoukat Jarwar Combined,27.93499,68.00088,Combined,Sindh,2,2,614,500
+ 65 - Government Primary School  Kamber Ali Jatoi  Combined,27.939172672283085,68.1072422987901,Combined,Sindh,1,1,412,336
+ 69 - Government Primary School  Jari Combined,27.94378097131041,67.86666085864715,Combined,Sindh,1,1,513,495
+ 71 - Government Middle School Sanjar Bhatti Combined,27.95333,67.99441,Combined,Sindh,2,2,726,602
+ 22 - Government Boys Primary School Kot Chutto Combined,27.95389,67.8225,Combined,Sindh,1,1,527,449
+ 64 - Government Boys Primary School  Baharo Gurgaige Combined,27.95465275457996,68.11416752218835,Combined,Sindh,1,1,454,298
+ 23 - Government Primary School Kot Jhurio Combined,27.96055,67.85623,Combined,Sindh,1,1,543,460
+ 67 - Government Middle School Muhammad Khan Bhutto Combined,27.9612,67.91125,Combined,Sindh,2,2,642,496
+ 72 - Government Girls Primary School  Ghulam Nabi Bhurgri Combined,27.96139653113896,67.99187253494894,Combined,Sindh,1,1,476,376
+ 63 - Government Primary School  Bakhoo Siyal Combined,27.961669945267282,68.10059934086978,Combined,Sindh,1,1,633,482
+ 66 - Government Girls Primary School  Gul Muhammad Jarwar Combined,27.9804,67.9346,Combined,Sindh,1,1,417,334
+ 73 - Government Boys Primary School  Gul Muhammad Jarwar Combined,27.9804,67.93463,Combined,Sindh,2,2,661,577
+ 70 - Government Boys Primary School  Umeed Ali Junejo Combined,27.98655,67.96575,Combined,Sindh,1,1,550,492

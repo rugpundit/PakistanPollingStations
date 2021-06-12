@@ -1,335 +1,335 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-256,Govt. Boys High School Mithari (Male),-35.93651,25.3125,Male,Balochistan,3,0,1105,0
-366,Govt. Boys H/S Chukhi (Combined),27.92259,67.62246,Combined,Balochistan,2,2,529,431
-358,Govt. Boys M/S Kechhi Jadeed (Combined),27.94424,67.53206,Combined,Balochistan,2,1,555,341
-380,Govt: Boys H/S Shambani (combined),27.9674,67.55451,Combined,Balochistan,2,2,564,468
-364,Govt. Boys H/S Kot Magsi I (Male),27.97186,67.64896,Male,Balochistan,3,0,770,0
-387,Govt: Boys H/S Mitho (combined),27.97394,67.51111,Combined,Balochistan,2,1,420,322
-362,Govt.Boys H/S Sakhani I (Male),27.9925,67.659,Male,Balochistan,3,0,768,0
-363,Govt.Boys H/S School Sakhani II(Female),27.9925,67.65903,Female,Balochistan,0,2,0,660
-361,Govt. Boys M/S Shahmir Khan (Combined),28.01572,67.67427,Combined,Balochistan,2,2,455,419
-381,Govt: Boys P/S School Kuhna Shadi Har (Combined),28.024,67.55519,Combined,Balochistan,2,1,410,269
-377,Basic Health Unit Barrija (Male),28.02545,67.49033,Male,Balochistan,3,0,877,0
-378,Govt. Boys High School Barijah(Feimale),28.02617,67.49083,Female,Balochistan,0,2,0,695
-379,Govt. Girls Primary School Barijah (Combined),28.02743,67.49065,Combined,Balochistan,2,1,564,362
-359,Govt. Boys P/S Amirabad (Combined),28.02791,67.59627,Combined,Balochistan,2,1,462,337
-360,Govt.Boys M/S Band Mehmood (Combined),28.03897,67.61649,Combined,Balochistan,1,1,279,202
-385,Civil Dispensary Saif Abad (Female),28.11573,67.63708,Female,Balochistan,0,3,0,875
-383,Govt: Boys P/S Saif Abad (Male) I,28.12441,67.63937,Male,Balochistan,3,0,836,0
-384,Govt: P/S Saif Abad (Male) II,28.12441,67.6394,Male,Balochistan,3,0,905,0
-386,Govt: Boys M/S Dhori (combined),28.17718,67.41628,Combined,Balochistan,2,2,639,431
-382,Govt: Boys P/S Koreja (combined),28.18217,67.44202,Combined,Balochistan,2,2,657,376
-355,Govt. M/S Kabbar(Combined),28.22819,67.54799,Combined,Balochistan,2,2,684,381
-98,Govt: P/S Abdul Raheem (Combined),28.2375,67.96745,Combined,Balochistan,2,1,560,520
-109,Govt. Middle School Allah Abad (Female),28.24129,67.92872,Female,Balochistan,0,3,0,1077
-108,Govt. High School Allah Abad (Male),28.24151,67.92786,Male,Balochistan,3,0,980,0
-158,Govt. P/S Sher Muhammad (Combined),28.27543,67.92648,Combined,Balochistan,2,2,970,652
-357,Govt. P/S Khaskhely (Combined),28.27695,67.39167,Combined,Balochistan,2,2,684,494
-348,Govt: Girls M/S Hindu Mohalla Mithora  (Combined) new,28.28697,67.45464,Combined,Balochistan,2,1,431,384
-349,Govt: Girls H/S Jhal Magsi (Female),28.28697,67.45467,Female,Balochistan,0,3,0,1069
-350,Govt: Boys M/S Jhal Magsi (Male-I),28.28697,67.4547,Male,Balochistan,3,0,846,0
-351,Govt: Boys M/S Jhal Magsi (Male- II),28.28697,67.45473,Male,Balochistan,2,0,552,0
-347,Govt: Boys H/S Jhal Magsi (Male),28.28783,67.45148,Male,Balochistan,4,0,1216,0
-352,Govt: Boys P/S Hindu Mohalla Jhal Magsi (Female) New,28.28783,67.45151,Female,Balochistan,0,3,0,1093
-134,Govt: M/S Karam Khan Umrani (Combined),28.28838,67.96591,Combined,Balochistan,2,1,548,489
-102,Govt. P/S Muhammad Bakhsh Palyani(Female),28.2975,67.75156,Female,Balochistan,0,3,0,991
-138,Govt: P/S Juma Khan Umrani Irrigation colony (Combined),28.29804,67.98952,Combined,Balochistan,2,1,536,340
-376,Govt. Boys Primary School Matt Sindhurr (Female) (New),28.30109,67.5824,Female,Balochistan,0,2,0,544
-375,Govt. Boys Primary School Matt Sindhurr (Male),28.30157,67.58483,Male,Balochistan,3,0,1041,0
-101,Govt: P/S Sabz Alli Umrani (Male),28.31033,67.74366,Male,Balochistan,4,0,1449,0
-105,Govt. P/S Muhammad Khan (Combined),28.31213,67.83146,Combined,Balochistan,2,2,799,551
-106,B.H.U Faraz Abad (Noro) (Combined),28.31265,67.83159,Combined,Balochistan,1,1,157,192
-139,Community Hall Essa Khan Paryani (Combined),28.315,67.96481,Combined,Balochistan,2,2,739,750
-137,Govt: P/S Meher Ali Umrani (Combined),28.31567,67.97614,Combined,Balochistan,2,2,636,584
-354,Basic Health Unit Sargani(Female),28.31814,67.38224,Female,Balochistan,0,3,0,851
-353,Govt: Boys H/S Sargani (Male),28.3198,67.38156,Male,Balochistan,3,0,1038,0
-372,Govt. Boys P.S Mat Kaloo Goth Shafi Muhammad (Combined),28.33752,67.60598,Combined,Balochistan,1,1,395,267
-142,Govt. H/S Mir Wah (Combined),28.34861,67.97321,Combined,Balochistan,2,2,893,715
-117,Civil Dipencary Molvi Lehri (Male),28.35351,67.90437,Male,Balochistan,2,0,712,0
-119,Govt. P/S Molvi Lehri (Female),28.35446,67.90166,Female,Balochistan,0,3,0,893
-140,Govt: P/S Lal Jan (Combined),28.35637,67.95251,Combined,Balochistan,2,1,520,445
-374,Govt. Girls Middle School Hathiari (Female) (New),28.36949,67.56013,Female,Balochistan,0,2,0,808
-161,Govt. H/S Behram Khan Buledi (Male),28.37575,68.07066,Male,Balochistan,3,0,1075,0
-162,Govt. H/S Behram Khan Buledi portion II (Male),28.37575,68.07069,Male,Balochistan,2,0,540,0
-163,Govt. Girls Middle School Behram Khan Buledi portion I (Female),28.37687,68.07327,Female,Balochistan,0,3,0,972
-164,Govt. Girls M/S Behram Khan Buledi portion II (Female),28.37687,68.0733,Female,Balochistan,0,2,0,438
-112,Govt. Girls P/S Fateh Muhammad (Female),28.38103,67.96094,Female,Balochistan,0,3,0,981
-103,Govt. Primary School Goth Abdullah Khan Umrani (Male),28.38215,67.80132,Male,Balochistan,3,0,1027,0
-104,Civil Dispencary Goth Abdullah Khan Umrani (Female),28.38224,67.80105,Female,Balochistan,0,2,0,823
-110,Govt. Boys P/S Fateh Muhammad (Male),28.38287,67.96339,Male,Balochistan,3,0,955,0
-356,Govt.  P/S Kochho (Ghulam Rasool Bughrani) (Combined),28.38298,67.37942,Combined,Balochistan,1,1,396,299
-100,Civil Dispensary Mehrab Wah (Combined),28.38333,67.8006,Combined,Balochistan,2,1,602,500
-129,Civil Dispensary Akbar Umrani Roopa (Male),28.38635,68.01397,Male,Balochistan,2,0,834,0
-131,Govt: Girls P/S  Akbar Umrani Roopa (Female),28.38682,68.01374,Female,Balochistan,0,4,0,1353
-128,Govt. P/S Dad Muhammad Umrani (Female),28.38916,67.9859,Female,Balochistan,0,3,0,962
-127,B.H.U Dad Muhamamd Umrani (Male),28.39002,67.98611,Male,Balochistan,3,0,1036,0
-371,Govt. Boys Middle School Safrani (Combined),28.39105,67.40345,Combined,Balochistan,2,2,828,481
-154,Govt. M/S Dil Murad Gola (Combined),28.39735,68.0406,Combined,Balochistan,1,1,473,381
-114,Govt. M/S Ali Akbar Mengal portion I (Male),28.40872,67.91557,Male,Balochistan,3,0,893,0
-115,Govt. M/S Ali Akbar Mengal Portion II (Male),28.40872,67.9156,Male,Balochistan,3,0,831,0
-126,Govt. H/S Aziz Abad (Female) (High Section),28.40874,67.97771,Female,Balochistan,0,4,0,1173
-125,Govt. H/S Aziz Abad (Primary Section) (Male),28.40875,67.97813,Male,Balochistan,4,0,1135,0
-116,Civil Dispencary Ali Akbar Mengal (Female),28.40896,67.91557,Female,Balochistan,0,4,0,1121
-169,Govt. M/S Qadir Abad (Male),28.40896,68.12502,Male,Balochistan,3,0,929,0
-170,Govt. Girls M/S Qadir Abad (Female),28.40957,68.12568,Female,Balochistan,0,3,0,915
-370,Govt. Boys P.S Bet Siddique (Combined),28.41611,67.42751,Combined,Balochistan,2,1,635,314
-107,Govt. Primary School Niak Muhamamd (Combined),28.4197,67.94453,Combined,Balochistan,2,1,602,406
-165,Govt. H/S Noor Muhammad Mengal Portion I (Male),28.42278,68.13821,Male,Balochistan,3,0,929,0
-166,Govt. H/S Noor Muhammad Mengal Portion II (Male),28.42278,68.13824,Male,Balochistan,3,0,930,0
-167,Civil Dispencary Noor Muhammad Mengal portion I (Female),28.42307,68.13776,Female,Balochistan,0,3,0,916
-168,Civil Dispencary Noor Muhammad Mengal Portion II (Female),28.42307,68.13779,Female,Balochistan,0,3,0,916
-153,Govt. P/S Ghous Bakhsh Gola (Combined),28.42476,68.06248,Combined,Balochistan,2,2,696,612
-123,Govt. M/s Taj Muhammad Lehri (Male),28.42579,67.9876,Combined,Balochistan,2,1,1013,0
-136,Govt: P/S Abdul Raheem Umrani (Combined),28.42778,67.7607,Combined,Balochistan,1,1,365,284
-121,Govt. P/S Muhammad Rahim Rid (Combined),28.42996,67.99133,Combined,Balochistan,2,1,460,375
-132,Govt: P/S Allah Bakhsh Umrani  Comhbined,28.43269,68.00041,Combined,Balochistan,2,1,559,526
-156,Govt. P/S Ghulam Nabi Marri (Combined),28.44088,68.05016,Combined,Balochistan,2,2,750,600
-160,B.H.U Mir Gul Jattak (Combined),28.44225,68.12735,Combined,Balochistan,2,1,521,424
-159,Govt. P/S Mir Gul Jattak (Combined),28.44278,68.12732,Combined,Balochistan,2,1,521,423
-192,BHU Sabaz Ali Umrani (Combined),28.44652,68.18993,Combined,Balochistan,2,2,618,505
-157,Govt: P/S Haji Kaloo Khan Marri (Combined),28.44939,68.05032,Combined,Balochistan,3,1,703,417
-367,Govt. Boys M/S Panjuk I (Combined),28.45257,67.52652,Combined,Balochistan,2,2,655,431
-368,Govt.Boys M/S Panjuk 2 ( Combined),28.45257,67.52655,Combined,Balochistan,1,1,270,157
-96,Govt: P/S Aalooda Baba Kot (Combined),28.45382,67.82137,Combined,Balochistan,1,2,505,524
-39,Govt; H/S Shafee Muhammad Umrani Highe Section ( Combined),28.45623,68.29984,Combined,Balochistan,1,1,513,431
-151,Govt: P/S Raheem Bux (Mitha Manjhoo) (Combined),28.4575,68.03379,Combined,Balochistan,2,1,521,382
-143,Govt. P/S Yousaf Palal at Ali Gul Umrani (Combined),28.46006,67.99031,Combined,Balochistan,2,2,787,525
-177,Govt. Boys H/S Muhammad Rahim Mengal portion I (Male),28.46287,68.15054,Male,Balochistan,2,0,659,0
-178,Govt. Boys H/S Muhammad Rahim Mengal Portion II (Female),28.46296,68.15059,Female,Balochistan,0,3,0,1108
-144,Govt: P/S Muhammad Waja (Combined),28.46324,67.94733,Combined,Balochistan,2,2,593,630
-152,Govt. P/S  Shori Warial (Combined),28.46491,68.01815,Combined,Balochistan,2,1,516,291
-186,Govt. P/S Mangoli (Combined),28.47175,68.27702,Combined,Balochistan,1,1,489,276
-175,Govt P/S Bedar  Balan (Goth Saeed Khan Marri ) Combined,28.47365,68.16038,Combined,Balochistan,2,2,842,632
-145,Civil Dispensary Sarfraz Khan (Male),28.48228,67.98541,Male,Balochistan,3,0,1016,0
-146,Govt: P/S Abdul Aziz Barak (Male),28.4823,67.98534,Male,Balochistan,3,0,797,0
-149,Govt: Boys H/S Shori Data (Combined),28.48266,68.04316,Combined,Balochistan,2,1,592,472
-150,Govt: H/S Shori Data Portion- II (Combined),28.48266,68.04319,Combined,Balochistan,2,1,592,473
-194,Govt. M/S Sultan Haijwani (Combined),28.48901,68.18786,Combined,Balochistan,2,2,810,514
-181,Govt. Boys H/S Kot Mengal High Section (Male),28.48982,68.26139,Male,Balochistan,4,0,1307,0
-182,Govt. Boys H/S Kot Mengal Portion II (Male),28.49004,68.26126,Male,Balochistan,4,0,1307,0
-183,Govt. Boys H/S Kot Mengal Primary Section (Female),28.49027,68.26126,Female,Balochistan,0,4,0,1800
-188,Govt. M/S Abdul Majeed Lehri (Male),28.49471,68.20921,Male,Balochistan,3,0,857,0
-190,Govt. M/S Abdul Majeed Lehri (Female),28.49471,68.20924,Female,Balochistan,0,2,0,691
-173,Govt. H/S Sona Khan Portion 1 (Male),28.49649,68.12994,Male,Balochistan,4,0,1288,0
-174,Govt. H/S Sona Khan portion II (Female),28.49661,68.12988,Female,Balochistan,0,3,0,943
-184,Govt. Girls P/S Abdul Rehman Hejwani (Combined),28.50388,68.18459,Combined,Balochistan,1,1,452,341
-179,Govt. P/S Haji Khan Jatoi (Combined),28.50995,68.21471,Combined,Balochistan,2,1,560,339
-171,Govt. M/S Khuda Bakhsh Khosa Portion II (Male),28.51159,68.16711,Male,Balochistan,4,0,1588,0
-172,Govt. Girls M/S Khuda Bakhsh Khosa portion II (Female),28.51159,68.16714,Female,Balochistan,0,4,0,1629
-85,Govt: Girls M/S Jara Khan Joya Port: I (Female),28.51159257602264,68.16710622529298,Female,Balochistan,0,4,0,1251
-340,Govt: Boys  P/S Naushehra (Combined),28.51226,67.55949,Combined,Balochistan,2,1,618,367
-36,Govt: P/S Shehzada Khan Umrani ( Combined),28.51657,68.33479,Combined,Balochistan,2,1,632,505
-330,Govt.boys  M/S Mir Pur (Combined-I),28.52881,67.73714,Combined,Balochistan,2,1,549,319
-331,Govt. Boys M/S Mir Pur (Combined-II),28.52881,67.73717,Combined,Balochistan,1,1,390,245
-34,Govt: P/S Juma Khan Umrani (Male),28.52888,68.24779,Male,Balochistan,3,0,1131,0
-35,Govt: Girls M/S Juma Khan Umrani (Female),28.52969,68.24837,Female,Balochistan,0,3,0,1009
-369,Govt. Middle School Khan Pur (comibined),28.53074,67.42538,Combined,Balochistan,1,1,318,184
-44,BHU Haji Dildar Khan Umrani Portion-I ( Male),28.53373,68.39194,Male,Balochistan,2,0,835,0
-46,BHU Haji Dildar Khan Umrani Portion-II ( Female),28.53373,68.39197,Female,Balochistan,0,2,0,738
-45,Govt; P/S Allanhanda Khan Umrani (Male),28.53381,68.39212,Male,Balochistan,2,0,834,0
-65,T.C.F School Abro Mohallah (portion I) (Female),28.53421,68.21663,Female,Balochistan,0,3,0,1149
-66,T.C.F School Abro Mohallah (portion II) (Female),28.53421,68.21666,Female,Balochistan,0,3,0,1341
-67,Govt. Degree College D. M. Jamali. Portion I ( Male),28.53447,68.22672,Male,Balochistan,4,0,1327,0
-68,Govt. Degree College D.M.Jamali Portion II (Male),28.53447,68.22675,Male,Balochistan,4,0,1244,0
-61,Govt. Girls Middle School Abdul Wahab Soomro portion I ( Female),28.5351,68.21729,Female,Balochistan,0,4,0,1242
-62,Govt; Girls MS Abdul Wahab Soomro Por; II (Female),28.5351,68.21732,Female,Balochistan,0,3,0,1125
-69,Technical Training Center D.M.Jamali Portion I (Female),28.53517,68.22586,Female,Balochistan,0,3,0,943
-70,Technical Trainning Center D.M Jamali Portion II (Female),28.53517,68.22589,Female,Balochistan,0,3,0,947
-59,Govt; Boys Model H/S DM Jamali Port; I (Male),28.53602,68.21864,Male,Balochistan,4,0,1221,0
-60,Govt. Boys Model High School D.M.Jamali Portion II (Male),28.53602,68.21867,Male,Balochistan,4,0,1226,0
-95,Govt: Girls P/S Rustam Khan Domki (Male),28.53707,68.21888,Male,Balochistan,4,0,1266,0
-43,Govt; P/S Mehmood Khan ( Goth Jagan ) ( Combined),28.53832,68.3656,Combined,Balochistan,2,2,835,737
-63,Sana Public School DM Jamali (Male),28.53914,68.22117,Male,Balochistan,4,0,1298,0
-33,Govt: P/S Nabi Bakhsh Bhangher (Combined),28.54143,68.34753,Combined,Balochistan,1,1,477,390
-197,Govt. P/S Ahmed Khan Domki (Combined),28.54209,68.15369,Combined,Balochistan,1,1,303,168
-64,Office Chairman Market Committee DM Jamali Portion I (Male),28.54248,68.22212,Male,Balochistan,3,0,1042,0
-75,Office of Chairman Market Committee DM Jamali Port: II (Male),28.54248,68.22215,Male,Balochistan,4,0,1266,0
-86,Shaheem Public Grammer School DM Jamali Port; I (Female),28.54324,68.22427,Female,Balochistan,0,4,0,1320
-94,Shaheen Public Grammer School DM Jamali Port: II (Female),28.54324,68.2243,Female,Balochistan,0,2,0,848
-32,Govt: P/S Arbab Khan Umrani (Combined),28.54414,68.27412,Combined,Balochistan,2,2,998,661
-76,Govt: P/S Taj ul Uloom DM Jamali (Female),28.54463,68.21906,Female,Balochistan,0,4,0,1238
-93,Govt: Boys P/S Bhutto Muhalla DM Jamali (Male),28.54556,68.22637,Male,Balochistan,2,0,829,0
-72,Govt. Girls Model H/S D.M. Jamali Portion I (Female),28.54637,68.21913,Female,Balochistan,0,3,0,949
-74,Govt: Girls Model H/S DM Jamali Port: II (Female),28.54637,68.21916,Female,Balochistan,0,4,0,1327
-89,Govt: Girls M/S Jara Khan Joya Port: II (Female),28.54663,68.22261,Female,Balochistan,0,4,0,1315
-90,Govt: H/S Shaheed Sohail Aslam DM Jamali Port: I (Male),28.54666,68.22311,Male,Balochistan,2,0,885,0
-91,Govt: H/S Shaheed Sohail Aslam DM Jamali Port: I (Male),28.54666,68.22314,Male,Balochistan,3,0,917,0
-71,Govt Special H/S Dera Murad Jamali Portion 1( Male),28.54774,68.21748,Male,Balochistan,3,0,978,0
-73,Govt: Boys Special H/S Dera Murad Jamali Port: I (Male),28.54774,68.21751,Male,Balochistan,4,0,1268,0
-92,Govt: P/S Boohar Mohalla DM Jamali (Female),28.54783,68.22651,Female,Balochistan,0,4,0,1254
-336,Govt: Boys H/S Pachh (Male),28.54804,67.40878,Male,Balochistan,3,0,828,0
-57,Govt; Girls P/S Irrigation colony Dera Murad Jamali (Female),28.54923,68.20352,Female,Balochistan,0,4,0,1406
-337,Govt: Girls M/S Pachh (Female),28.55132,67.40698,Female,Balochistan,0,2,0,662
-84,Govt; Girls Inter college Port; I (Male),28.55175,68.21924,Male,Balochistan,3,0,1106,0
-88,Govt: Girls Inter College DM Jamali Port: II (Male),28.55175,68.21927,Male,Balochistan,3,0,1156,0
-81,Usmania Public School DM Jamali (Female),28.55202,68.21726,Female,Balochistan,0,4,0,1314
-82,Office of Agriculture Engineering Deptt; near Ghee Mil (Female),28.55249,68.21832,Female,Balochistan,0,4,0,1258
-87,Govt: P/S Ghee Mil Mohalla Port: II (Male),28.5532,68.22018,Male,Balochistan,4,0,1156,0
-83,Govt; P/S Ghee Mil Mohalla Port; I (Male),28.5532,68.22023,Male,Balochistan,3,0,1105,0
-332,Govt.boys  H/S Kotra (Male),28.55721,67.3834,Male,Balochistan,3,0,1024,0
-333,Govt. Girls M/S Kotra (Female) (New),28.55721,67.38343,Female,Balochistan,0,3,0,849
-77,Fishries  Office DM Jamali Port: I (Male),28.55776,68.21619,Male,Balochistan,2,0,840,0
-79,Fishries office DM Jamali Port: III (Male),28.55776,68.21622,Male,Balochistan,3,0,1064,0
-30,Govt: P/S Mola Bakhsh Pandrani (Combined),28.56675,68.28199,Combined,Balochistan,1,1,539,356
-338,Govt: Boys M/S Fateh Pur (Combined),28.56758,67.49447,Combined,Balochistan,1,1,388,282
-339,Govt: Boys M/S Fateh Pur (Combined) II,28.56758,67.4945,Combined,Balochistan,2,1,470,321
-80,Govt: Boys P/S Bachal Khan Mugheri (Male),28.56904,68.22807,Male,Balochistan,2,0,521,0
-49,Govt; Girls P/S Muhammad Sidique Bangulzai (Female),28.57391,68.23788,Female,Balochistan,0,2,0,788
-48,Govt; Boys P/S Muhammad Sidique Bangulzai (Male),28.57391,68.23799,Male,Balochistan,3,0,953,0
-195,Govt. P/S Ranjhan Khan Hara (B.E. F building) (Combined),28.587,68.10126,Combined,Balochistan,2,2,795,413
-334,Govt: Boys M/S Khaari (Male),28.58748,67.35784,Male,Balochistan,4,0,1130,0
-50,Govt; P/S Haji Khan Phanyar ( Combined),28.58878,68.26347,Combined,Balochistan,1,1,342,177
-21,Govt: P/S Sohbat Khan (Combined),28.58978,68.38394,Combined,Balochistan,2,2,878,604
-335,Govt: Veterenary Dispensary Khari (Female),28.59213,67.35882,Female,Balochistan,0,3,0,753
-326,Govt. Priamry School Seed Form (Combined),28.59899,67.45109,Combined,Balochistan,2,1,461,335
-27,BHU Abdul Hameed Khosa (Female),28.60343,68.40955,Female,Balochistan,0,4,0,1415
-22,BHU Allah Waraya Shar (Male),28.60374,68.32206,Male,Balochistan,3,0,1091,0
-26,Govt: Boys M/S Abdul Hameed Khosa ( Male),28.60401,68.40894,Male,Balochistan,4,0,1630,0
-24,Govt: P/S Abdul Khaliq Khosa (Combined),28.60502,68.328,Combined,Balochistan,2,1,696,523
-23,Govt; Girls P/S Peer Bakhsh Shar  (Female),28.61003,68.35939,Female,Balochistan,0,2,0,860
-324,Govt. Girls Primary School Hussaini Mohollah Gandawah (Female),28.61016,67.48588,Female,Balochistan,0,3,0,806
-53,Govt; P/S Goth Aziz Abad (Uch) ( Combined),28.61045,68.16677,Combined,Balochistan,2,1,684,363
-322,Govt. Girls High School Gandawah (Female),28.61197,67.48649,Female,Balochistan,0,3,0,999
-321,Govt. Boys Primary School Basti Kamal Shah Gandawah (Combined) (New),28.61298,67.49078,Combined,Balochistan,2,2,546,451
-323,Govt. Boys High School Priamry Section Gandawah (Male),28.6139,67.48325,Male,Balochistan,3,0,943,0
-325,Govt. Girls Priamry School Qazi Mohollah (Combined),28.61528,67.48,Combined,Balochistan,2,1,431,369
-20,Govt Boys PrimarySchool Wahid Bakhsh Khosa (Combined),28.62323,68.38594,Combined,Balochistan,1,1,272,205
-19,Govetnment Girls P/S Mir Muhammad Shah (Female),28.63113,68.39333,Female,Balochistan,0,4,0,1304
-52,Govt; Boys P/S Dost Muhammad Pandrani (Combined),28.63188,68.1951,Combined,Balochistan,2,1,607,485
-18,Govt; Boys M/S Mir Muhammad Shah (Male),28.63335,68.39278,Male,Balochistan,2,0,796,0
-51,Al-Aziz Public School Goth Rehmatullah Jakhrani (pull Rabi canal) (Combined),28.63739,68.17323,Combined,Balochistan,2,1,606,485
-346,Govt: Boys M/S Kunara (Combined),28.63839,67.3761,Combined,Balochistan,3,1,823,391
-29,Civil Dispencery Mir Hassan (Female),28.64468,68.41101,Female,Balochistan,0,3,0,1178
-28,Govt: Boys M/S Mir Hassan (Male),28.64546,68.40851,Male,Balochistan,4,0,1492,0
-345,Govt: Boys M/S Patri (Combined),28.66649,67.35939,Combined,Balochistan,2,2,720,477
-342,Govt: Girls P/S Gajan (Female),28.67432,67.43022,Female,Balochistan,0,2,0,609
-341,Govt: H/S Gajan (Male),28.6755,67.42725,Male,Balochistan,3,0,932,0
-343,Govt: M/S Qazi Ismail Goth Azad Khan (Combined),28.71239,67.39865,Combined,Balochistan,2,1,618,381
-17,BHU Shah Pur (female),28.71932,68.4128,Female,Balochistan,0,4,0,1338
-344,Baluchistan Education Foundation Qazi Ismail (Combined) New,28.73051,67.4191,Combined,Balochistan,2,1,484,242
-327,Govt. Boys Priamry School Ghaus Pur (Combined),28.73868,67.65127,Combined,Balochistan,2,1,594,326
-55,Govt; M/S Nauttal ( Combined),28.75217,68.07981,Combined,Balochistan,2,2,1098,612
-328,Govt. Boys M/S Shikar  Pur (Combined),28.75785,67.69054,Combined,Balochistan,2,1,527,373
-310,Improvised Arri (Combined) (New),28.7657,67.52873,Combined,Balochistan,2,1,751,299
-301,Govt: Boys P/S Esbani (Female),28.787297971734322,67.45796049390941,Female,Balochistan,0,2,0,806
-306,Govt. Primary School Sianch (Combined),28.801080509198062,67.53857541961928,Combined,Balochistan,1,1,340,278
-302,Govt. Primary School Tando Gulab (Combined),28.802308325066132,67.50311473122308,Combined,Balochistan,1,1,505,255
-303,Improvised Godri (Combined),28.80331955259431,67.53231439107964,Combined,Balochistan,1,1,245,264
-298,Govt. Primary Scholl Azdi (Combined),28.803738464474694,67.45726095486351,Combined,Balochistan,2,1,506,388
-312,Improvised Sheheja (Combined) (New),28.80453,67.52201,Combined,Balochistan,1,1,243,236
-311,Improvised Seena Wah (Combined) (New),28.806,67.54574,Combined,Balochistan,1,1,193,147
-309,Improvised Machi (Combined) New).,28.81834,67.43143,Combined,Balochistan,1,1,206,235
-300,Govt. Primary School Eri Tunia (Combined),28.821430086452857,67.54643850230387,Combined,Balochistan,2,1,502,408
-293,Govt. Primary School Chalwani (Combined),28.831053868667247,67.42162539133172,Combined,Balochistan,1,1,229,408
-313,Govt. Boys Primary School Qasai (Combined),28.8323,67.48856,Combined,Balochistan,2,2,670,447
-4,Govt: Primary school Banri (combined),28.85318,68.3244,Combined,Balochistan,2,1,599,182
-329,Govt. Boys P.S Chhorri Ghulam Hussain (Combined),28.85606,67.65892,Combined,Balochistan,1,1,307,177
-304,Govt. Primary School Arzi (Combined),28.857032104339993,67.4751845838821,Combined,Balochistan,2,2,859,658
-294,Govt. Boys High School Shoran High Section (Male),28.859598550465183,67.45246782623022,Male,Balochistan,3,0,1073,0
-305,Govt. Primary School Jhok Shahbaz (Combined),28.85993123012553,67.48184770314494,Combined,Balochistan,2,1,575,399
-296,Govt. Boys High School Shoran Primary Section (Combined),28.860077298056478,67.45232734404259,Combined,Balochistan,2,2,657,498
-265,Govt. Boys H/S Haji Shahar (Male),28.86014,67.45245,Male,Balochistan,4,0,1372,0
-266,Govt. Boys H/S Haji Shahar (Male),28.86014,67.45248,Male,Balochistan,2,0,633,0
-295,Govt. Girls Primary School Shoran (Female),28.8627,67.45153,Female,Balochistan,0,3,0,953
-292,Govt. Girls Primary School Shoran (Female),28.86336226321764,67.45155361176968,Female,Balochistan,0,2,0,480
-288,Govt. Primary School Siahpad (Combined),28.86392,67.45283,Combined,Balochistan,1,1,194,141
-297,Govt. Primary School Mulan Shoran (Combined),28.86392,67.45286,Combined,Balochistan,1,1,381,252
-291,Civil Dispensary Shoran (Male),28.863941492039974,67.45283237889569,Male,Balochistan,2,0,685,0
-10,Govt: H/school Chattar Port: II Male,28.86632,68.32904,Male,Balochistan,2,0,945,0
-8,Govt: H/S Chattar port: I (combined),28.86632,68.32907,Combined,Balochistan,2,2,696,622
-290,Govt. Boys Primary School Sarkandar (Combined),28.88060089589366,67.43899697761023,Combined,Balochistan,1,1,429,358
-9,Govt: P/school Wazeerani (Combined),28.88241,68.34661,Combined,Balochistan,2,1,643,362
-289,Improvised Mawali (Combined) (New),28.88383,67.4952,Combined,Balochistan,1,1,460,215
-287,Govt: Boys P/S Kot Misrii (combined),28.89740148618907,67.48528686244394,Combined,Balochistan,2,2,599,454
-308,Impromivsed Darozai (Combined)(Neew),28.91112,67.46034,Combined,Balochistan,1,1,351,235
-314,Govt. Boys Primary School Sanari (Combined) (New),28.92107,67.59032,Combined,Balochistan,1,1,186,372
-7,Govt: M/S Korar Port: II (Tahir Kot) Female,28.92199,68.33056,Female,Balochistan,0,3,0,884
-6,Govt: M/S Korar (port: I male),28.93461,68.32357,Male,Balochistan,4,0,1384,0
-15,Govt: Boys M/S Kundi Ramdani (combined),28.94066,68.38668,Combined,Balochistan,2,2,669,735
-286,Govt: P/S Haft Wali Balina (Combined),28.978092822670458,67.44460205036779,Combined,Balochistan,1,1,334,117
-2,Govt high school phuliji (combined),28.99487,68.34834,Combined,Balochistan,2,1,607,431
-3,Govt high school phuleji (port II) combined,28.99487,68.34837,Combined,Balochistan,1,1,416,275
-1,Govt primary school phuligy balina (combined),29.00181,68.34608,Combined,Balochistan,2,2,789,448
-319,Govt. Praimary School Chattani (P)(Combined),29.062490683406654,67.6519181471975,Combined,Balochistan,2,1,426,251
-284,Govt. P/S Chakar Mari (Combined),29.083657929868416,67.57616379026493,Combined,Balochistan,2,1,867,379
-285,BHU Chakar Marri (combined),29.087862856980006,67.58930237092719,Combined,Balochistan,1,1,471,259
-281,Govt.P/S Khuda Dost(Combined),29.11377264647704,67.60287995452116,Combined,Balochistan,1,1,368,183
-317,Govt. Primary School Rustum (Combined),29.117686053504094,67.70559115164568,Combined,Balochistan,2,1,678,393
-280,Govt. P/S Chamb (Combined) New,29.14392,67.59214,Combined,Balochistan,1,1,292,153
-278,Govt. H/S Sanni (Combined),29.149108507925558,67.560675955668,Combined,Balochistan,2,2,999,534
-307,Govt. Boys Primary School Bagrochi (Combined) (New),29.15011,67.7859,Combined,Balochistan,1,1,407,386
-273,Govt. Middle M/S Bakhshia (Combined) New,29.15011,67.78593,Combined,Balochistan,1,1,339,204
-315,Govt. Primary School Khattan (Male),29.150829891668312,67.69748334400724,Male,Balochistan,2,0,967,0
-316,Govt. P/ School Khattan (Female) (New),29.150829891668312,67.6975133440072,Female,Balochistan,0,2,0,706
-275,Govt. Boys H/S Ghazi (Combined),29.17229,67.83586,Combined,Balochistan,2,1,556,433
-250,Govt: Boys P/S Railway Station Mshkaf (Combined) (P),29.172301729610172,67.83584319795922,Combined,Balochistan,1,1,356,207
-276,Govt. Boys M/S Chandar (Combined),29.174917197968423,67.85788937472326,Combined,Balochistan,2,1,752,502
-272,Govt- P/S Masoo (Combined),29.180752927262315,67.77941355120105,Combined,Balochistan,2,1,547,342
-283,Govt. M/S Mehasar Shahwani (Combined),29.183634490322227,67.64119351375275,Combined,Balochistan,1,1,151,86
-318,Govt. Primary School Dildar (Combined),29.183640616607416,67.71873482354918,Combined,Balochistan,1,1,292,223
-268,Govt. Boys P/S Takari (Combined),29.22658,67.86131,Combined,Balochistan,2,1,645,388
-271,Govt. Boys H/S Ghogra (Combined),29.2327,67.78915,Combined,Balochistan,2,1,517,350
-277,Govt. Boys P/S Garhi Aurang Shah (Combined ),29.244409699300828,67.75276915019508,Combined,Balochistan,2,1,611,363
-269,Govt. Boys P/S Dandor (Combined),29.25335271844797,67.84154802395845,Combined,Balochistan,2,1,720,396
-267,Govt. M/S Haji Shahar (Female),29.25949,67.82414,Female,Balochistan,0,4,0,1337
-274,Govt. Boys P/S Dossa (Combined),29.26033,67.82192,Combined,Balochistan,2,1,788,499
-262,Govt. M/S Arri (Combined),29.30801,67.78076,Combined,Balochistan,2,1,592,403
-263,Govt. M/S Arri (Combined),29.30801,67.78079,Combined,Balochistan,1,1,466,305
-261,Govt. Boys P/S Taj (Combined),29.31604419079615,67.80210685831585,Combined,Balochistan,1,1,356,235
-238,Govt: P/S Gahi (Combined),29.345259311175962,67.81842658031479,Combined,Balochistan,1,1,189,127
-258,Govt. Girls High School Mithari (Famel),29.36231,67.81554,Female,Balochistan,0,2,0,820
-257,Govt. Girls HighSchool Mithari (Female),29.362310571193646,67.81550708810417,Female,Balochistan,0,2,0,638
-255,Govt. Boys High School Mithari (Male),29.362658728559147,67.82167842268322,Male,Balochistan,2,0,796,0
-237,Govt: P/S Naushra (Combined),29.3761,67.58732,Combined,Balochistan,2,1,530,335
-234,Govt. P/S Mehar Garh (Combined),29.40318224302507,67.59775184389541,Combined,Balochistan,1,1,320,157
-252,Govt. Middle school Naghari (combined) (New),29.41085,67.64183,Combined,Balochistan,2,1,523,374
-264,Govt. P/S Kolachi (Combined),29.412752759760906,67.83537564761446,Combined,Balochistan,2,1,474,262
-239,Govt: M/S Kot Gahi (Male),29.433859139333727,67.59048426882363,Male,Balochistan,2,0,703,0
-251,Govt: P/S Jalbani (Combined),29.457568826423387,67.61506646989562,Combined,Balochistan,2,1,412,233
-241,Govt: Girls P/S Chotai Gharbi (Combined),29.463064104083333,67.60957129212711,Combined,Balochistan,1,1,408,229
-253,Govt. Primary School Basti Musa Khan (Male),29.468450144572735,67.6447971443463,Male,Balochistan,2,0,769,0
-254,Govt.Girls Primary School Bati Musa Khan (Female),29.46896,67.64505,Female,Balochistan,0,2,0,534
-225,Govt. Girls H/S Dhadar (Female),29.47574,67.64905,Female,Balochistan,0,2,0,673
-224,Govt. Girls H/S Dhadar (Female),29.475773878315316,67.6492107707721,Female,Balochistan,0,2,0,551
-223,Govt.Boys Model High School Dhadar (Male),29.47644,67.64393,Male,Balochistan,2,0,785,0
-222,Govt. Boys Model High School Dhader (Male),29.476520999512353,67.64396319227318,Male,Balochistan,2,0,656,0
-247,Govt: Girls M/S Faiz Abad (Female),29.48475,67.65697,Female,Balochistan,0,2,0,523
-235,Govt: P/S Durabi Balina (Male),29.485046808838774,67.53323174395035,Male,Balochistan,3,0,1200,0
-236,Govt:Boys P/S Durabani Zarina (Female),29.485046808838774,67.5332617439503,Female,Balochistan,0,3,0,850
-246,Govt: P/S Faiz Abad (Male),29.48585,67.65544,Male,Balochistan,2,0,817,0
-240,Govt: M/S Gahi (Female),29.48629,67.63984,Female,Balochistan,0,2,0,503
-230,Govt. M/S Baboo Mohallah(Male),29.486410787530815,67.62451858853792,Male,Balochistan,3,0,885,0
-228,Govt. Girls H/S Rind Ali (Female),29.487,67.64126,Female,Balochistan,0,2,0,531
-231,Govt. Girls Community M/S Rind Ali (Female),29.487,67.64129,Female,Balochistan,0,2,0,628
-229,Govt. Girls H/S Rind Ali (Female),29.487,67.64132,Female,Balochistan,0,3,0,917
-279,Govt. P/S Tayaib Balin (Combined),29.48867,67.7103,Combined,Balochistan,2,1,514,353
-226,Govt. Boys H/S Rind Ali (Male),29.48904,67.63892,Male,Balochistan,2,0,631,0
-227,Govt. H/S Rind Ali (Male),29.48904,67.63895,Male,Balochistan,3,0,1252,0
-244,Govt: P/S Brahim Baran (Male),29.4962,67.72142,Male,Balochistan,2,0,1025,0
-245,Govt: Girls M/S Raheem Baran (Female),29.49823,67.71352,Female,Balochistan,0,2,0,574
-243,Govt: Girls H/S Mashkaf (Female),29.50826,67.67934,Female,Balochistan,0,3,0,1056
-242,Govt: H/S Mshkaf (Male),29.51051,67.67636,Male,Balochistan,4,0,1421,0
-249,Govt: M/S Lundi (Female) New,29.54923,67.78754,Female,Balochistan,0,2,0,567
-282,Govt. Boys P/S Had Khari (Combined),29.54966,67.87556,Combined,Balochistan,1,1,452,258
-248,Govt: Boys M/S Lundi (Male),29.55076,67.78793,Male,Balochistan,3,0,985,0
-221,Govt. M/S Kirta (Combined),29.610120517278947,67.48497180523232,Combined,Balochistan,2,1,609,321
-220,(Improvised) Bibi Nani (Combined),29.699745558212634,67.38500999109989,Combined,Balochistan,3,1,831,306
-218,Govt. P/S Abbe Gum (Male),29.8049731005996,67.40348856305155,Male,Balochistan,2,0,972,0
-219,Govt. P/S Abbe Gum (Female),29.80498,67.40334,Female,Balochistan,0,2,0,577
-217,Govt. Girls P/S Mach Nadi (Female),29.859033313189254,67.31841438726185,Female,Balochistan,0,3,0,968
-215,Govt. Boys Middle School Killi Gul Khan Nadi Mach (Male),29.86023,67.32114,Male,Balochistan,3,0,1270,0
-212,Civil Hospital Much (Female),29.86286,67.33098,Female,Balochistan,0,3,0,1019
-209,Office of the Sui Gas Much (Female),29.86497218439564,67.32977529592506,Female,Balochistan,0,3,0,1136
-203,Govt: Boys H/S Railway colony Mach (Male),29.865246473799548,67.32396184808798,Male,Balochistan,3,0,1114,0
-204,(2) Govt: Boys H/S Railway colony Mach (Male),29.86535,67.3238,Male,Balochistan,3,0,935,0
-205,Govt: Girls H/S Mach (Female),29.86551,67.32852,Female,Balochistan,0,2,0,762
-206,Govt: Girls H/S Mach (Female) II,29.86551,67.32855,Female,Balochistan,0,2,0,490
-207,Library Hall Mach (Male),29.867360295953944,67.3282144193232,Male,Balochistan,2,0,1301,0
-208,2Liberary Hall Much (Male),29.86738,67.32812,Male,Balochistan,1,0,425,0
-199,Govt. Boys H/S Machh (Male),29.868416098504998,67.3275119014193,Male,Balochistan,2,0,538,0
-200,II Govt: Boys H/S Mach (Male),29.86853,67.32746,Male,Balochistan,3,0,1261,0
-210,Inspector Mines Office Much (Male),29.8691,67.32482,Male,Balochistan,3,0,948,0
-211,Inspector Mines Office Much (Male),29.8691,67.32485,Male,Balochistan,3,0,952,0
-202,Govt: Girls H/S Samalani colony Mach (Female),29.87054,67.32294,Female,Balochistan,0,3,0,846
-201,Govt: Girls H/S Samalani colony Mach (Female),29.87054865965446,67.32308253705617,Female,Balochistan,0,1,0,352
-213,Govt. Boys H/S Kolpur (Male),29.90535,67.13275,Male,Balochistan,4,0,1411,0
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 256 - Govt. Boys High School Mithari (Male),-35.93651,25.3125,Male,Balochistan,3,0,1105,0
+ 366 - Govt. Boys H/S Chukhi (Combined),27.92259,67.62246,Combined,Balochistan,2,2,529,431
+ 358 - Govt. Boys M/S Kechhi Jadeed (Combined),27.94424,67.53206,Combined,Balochistan,2,1,555,341
+ 380 - Govt: Boys H/S Shambani (combined),27.9674,67.55451,Combined,Balochistan,2,2,564,468
+ 364 - Govt. Boys H/S Kot Magsi I (Male),27.97186,67.64896,Male,Balochistan,3,0,770,0
+ 387 - Govt: Boys H/S Mitho (combined),27.97394,67.51111,Combined,Balochistan,2,1,420,322
+ 362 - Govt.Boys H/S Sakhani I (Male),27.9925,67.659,Male,Balochistan,3,0,768,0
+ 363 - Govt.Boys H/S School Sakhani II(Female),27.9925,67.65903,Female,Balochistan,0,2,0,660
+ 361 - Govt. Boys M/S Shahmir Khan (Combined),28.01572,67.67427,Combined,Balochistan,2,2,455,419
+ 381 - Govt: Boys P/S School Kuhna Shadi Har (Combined),28.024,67.55519,Combined,Balochistan,2,1,410,269
+ 377 - Basic Health Unit Barrija (Male),28.02545,67.49033,Male,Balochistan,3,0,877,0
+ 378 - Govt. Boys High School Barijah(Feimale),28.02617,67.49083,Female,Balochistan,0,2,0,695
+ 379 - Govt. Girls Primary School Barijah (Combined),28.02743,67.49065,Combined,Balochistan,2,1,564,362
+ 359 - Govt. Boys P/S Amirabad (Combined),28.02791,67.59627,Combined,Balochistan,2,1,462,337
+ 360 - Govt.Boys M/S Band Mehmood (Combined),28.03897,67.61649,Combined,Balochistan,1,1,279,202
+ 385 - Civil Dispensary Saif Abad (Female),28.11573,67.63708,Female,Balochistan,0,3,0,875
+ 383 - Govt: Boys P/S Saif Abad (Male) I,28.12441,67.63937,Male,Balochistan,3,0,836,0
+ 384 - Govt: P/S Saif Abad (Male) II,28.12441,67.6394,Male,Balochistan,3,0,905,0
+ 386 - Govt: Boys M/S Dhori (combined),28.17718,67.41628,Combined,Balochistan,2,2,639,431
+ 382 - Govt: Boys P/S Koreja (combined),28.18217,67.44202,Combined,Balochistan,2,2,657,376
+ 355 - Govt. M/S Kabbar(Combined),28.22819,67.54799,Combined,Balochistan,2,2,684,381
+ 98 - Govt: P/S Abdul Raheem (Combined),28.2375,67.96745,Combined,Balochistan,2,1,560,520
+ 109 - Govt. Middle School Allah Abad (Female),28.24129,67.92872,Female,Balochistan,0,3,0,1077
+ 108 - Govt. High School Allah Abad (Male),28.24151,67.92786,Male,Balochistan,3,0,980,0
+ 158 - Govt. P/S Sher Muhammad (Combined),28.27543,67.92648,Combined,Balochistan,2,2,970,652
+ 357 - Govt. P/S Khaskhely (Combined),28.27695,67.39167,Combined,Balochistan,2,2,684,494
+ 348 - Govt: Girls M/S Hindu Mohalla Mithora  (Combined) new,28.28697,67.45464,Combined,Balochistan,2,1,431,384
+ 349 - Govt: Girls H/S Jhal Magsi (Female),28.28697,67.45467,Female,Balochistan,0,3,0,1069
+ 350 - Govt: Boys M/S Jhal Magsi (Male-I),28.28697,67.4547,Male,Balochistan,3,0,846,0
+ 351 - Govt: Boys M/S Jhal Magsi (Male- II),28.28697,67.45473,Male,Balochistan,2,0,552,0
+ 347 - Govt: Boys H/S Jhal Magsi (Male),28.28783,67.45148,Male,Balochistan,4,0,1216,0
+ 352 - Govt: Boys P/S Hindu Mohalla Jhal Magsi (Female) New,28.28783,67.45151,Female,Balochistan,0,3,0,1093
+ 134 - Govt: M/S Karam Khan Umrani (Combined),28.28838,67.96591,Combined,Balochistan,2,1,548,489
+ 102 - Govt. P/S Muhammad Bakhsh Palyani(Female),28.2975,67.75156,Female,Balochistan,0,3,0,991
+ 138 - Govt: P/S Juma Khan Umrani Irrigation colony (Combined),28.29804,67.98952,Combined,Balochistan,2,1,536,340
+ 376 - Govt. Boys Primary School Matt Sindhurr (Female) (New),28.30109,67.5824,Female,Balochistan,0,2,0,544
+ 375 - Govt. Boys Primary School Matt Sindhurr (Male),28.30157,67.58483,Male,Balochistan,3,0,1041,0
+ 101 - Govt: P/S Sabz Alli Umrani (Male),28.31033,67.74366,Male,Balochistan,4,0,1449,0
+ 105 - Govt. P/S Muhammad Khan (Combined),28.31213,67.83146,Combined,Balochistan,2,2,799,551
+ 106 - B.H.U Faraz Abad (Noro) (Combined),28.31265,67.83159,Combined,Balochistan,1,1,157,192
+ 139 - Community Hall Essa Khan Paryani (Combined),28.315,67.96481,Combined,Balochistan,2,2,739,750
+ 137 - Govt: P/S Meher Ali Umrani (Combined),28.31567,67.97614,Combined,Balochistan,2,2,636,584
+ 354 - Basic Health Unit Sargani(Female),28.31814,67.38224,Female,Balochistan,0,3,0,851
+ 353 - Govt: Boys H/S Sargani (Male),28.3198,67.38156,Male,Balochistan,3,0,1038,0
+ 372 - Govt. Boys P.S Mat Kaloo Goth Shafi Muhammad (Combined),28.33752,67.60598,Combined,Balochistan,1,1,395,267
+ 142 - Govt. H/S Mir Wah (Combined),28.34861,67.97321,Combined,Balochistan,2,2,893,715
+ 117 - Civil Dipencary Molvi Lehri (Male),28.35351,67.90437,Male,Balochistan,2,0,712,0
+ 119 - Govt. P/S Molvi Lehri (Female),28.35446,67.90166,Female,Balochistan,0,3,0,893
+ 140 - Govt: P/S Lal Jan (Combined),28.35637,67.95251,Combined,Balochistan,2,1,520,445
+ 374 - Govt. Girls Middle School Hathiari (Female) (New),28.36949,67.56013,Female,Balochistan,0,2,0,808
+ 161 - Govt. H/S Behram Khan Buledi (Male),28.37575,68.07066,Male,Balochistan,3,0,1075,0
+ 162 - Govt. H/S Behram Khan Buledi portion II (Male),28.37575,68.07069,Male,Balochistan,2,0,540,0
+ 163 - Govt. Girls Middle School Behram Khan Buledi portion I (Female),28.37687,68.07327,Female,Balochistan,0,3,0,972
+ 164 - Govt. Girls M/S Behram Khan Buledi portion II (Female),28.37687,68.0733,Female,Balochistan,0,2,0,438
+ 112 - Govt. Girls P/S Fateh Muhammad (Female),28.38103,67.96094,Female,Balochistan,0,3,0,981
+ 103 - Govt. Primary School Goth Abdullah Khan Umrani (Male),28.38215,67.80132,Male,Balochistan,3,0,1027,0
+ 104 - Civil Dispencary Goth Abdullah Khan Umrani (Female),28.38224,67.80105,Female,Balochistan,0,2,0,823
+ 110 - Govt. Boys P/S Fateh Muhammad (Male),28.38287,67.96339,Male,Balochistan,3,0,955,0
+ 356 - Govt.  P/S Kochho (Ghulam Rasool Bughrani) (Combined),28.38298,67.37942,Combined,Balochistan,1,1,396,299
+ 100 - Civil Dispensary Mehrab Wah (Combined),28.38333,67.8006,Combined,Balochistan,2,1,602,500
+ 129 - Civil Dispensary Akbar Umrani Roopa (Male),28.38635,68.01397,Male,Balochistan,2,0,834,0
+ 131 - Govt: Girls P/S  Akbar Umrani Roopa (Female),28.38682,68.01374,Female,Balochistan,0,4,0,1353
+ 128 - Govt. P/S Dad Muhammad Umrani (Female),28.38916,67.9859,Female,Balochistan,0,3,0,962
+ 127 - B.H.U Dad Muhamamd Umrani (Male),28.39002,67.98611,Male,Balochistan,3,0,1036,0
+ 371 - Govt. Boys Middle School Safrani (Combined),28.39105,67.40345,Combined,Balochistan,2,2,828,481
+ 154 - Govt. M/S Dil Murad Gola (Combined),28.39735,68.0406,Combined,Balochistan,1,1,473,381
+ 114 - Govt. M/S Ali Akbar Mengal portion I (Male),28.40872,67.91557,Male,Balochistan,3,0,893,0
+ 115 - Govt. M/S Ali Akbar Mengal Portion II (Male),28.40872,67.9156,Male,Balochistan,3,0,831,0
+ 126 - Govt. H/S Aziz Abad (Female) (High Section),28.40874,67.97771,Female,Balochistan,0,4,0,1173
+ 125 - Govt. H/S Aziz Abad (Primary Section) (Male),28.40875,67.97813,Male,Balochistan,4,0,1135,0
+ 116 - Civil Dispencary Ali Akbar Mengal (Female),28.40896,67.91557,Female,Balochistan,0,4,0,1121
+ 169 - Govt. M/S Qadir Abad (Male),28.40896,68.12502,Male,Balochistan,3,0,929,0
+ 170 - Govt. Girls M/S Qadir Abad (Female),28.40957,68.12568,Female,Balochistan,0,3,0,915
+ 370 - Govt. Boys P.S Bet Siddique (Combined),28.41611,67.42751,Combined,Balochistan,2,1,635,314
+ 107 - Govt. Primary School Niak Muhamamd (Combined),28.4197,67.94453,Combined,Balochistan,2,1,602,406
+ 165 - Govt. H/S Noor Muhammad Mengal Portion I (Male),28.42278,68.13821,Male,Balochistan,3,0,929,0
+ 166 - Govt. H/S Noor Muhammad Mengal Portion II (Male),28.42278,68.13824,Male,Balochistan,3,0,930,0
+ 167 - Civil Dispencary Noor Muhammad Mengal portion I (Female),28.42307,68.13776,Female,Balochistan,0,3,0,916
+ 168 - Civil Dispencary Noor Muhammad Mengal Portion II (Female),28.42307,68.13779,Female,Balochistan,0,3,0,916
+ 153 - Govt. P/S Ghous Bakhsh Gola (Combined),28.42476,68.06248,Combined,Balochistan,2,2,696,612
+ 123 - Govt. M/s Taj Muhammad Lehri (Male),28.42579,67.9876,Combined,Balochistan,2,1,1013,0
+ 136 - Govt: P/S Abdul Raheem Umrani (Combined),28.42778,67.7607,Combined,Balochistan,1,1,365,284
+ 121 - Govt. P/S Muhammad Rahim Rid (Combined),28.42996,67.99133,Combined,Balochistan,2,1,460,375
+ 132 - Govt: P/S Allah Bakhsh Umrani  Comhbined,28.43269,68.00041,Combined,Balochistan,2,1,559,526
+ 156 - Govt. P/S Ghulam Nabi Marri (Combined),28.44088,68.05016,Combined,Balochistan,2,2,750,600
+ 160 - B.H.U Mir Gul Jattak (Combined),28.44225,68.12735,Combined,Balochistan,2,1,521,424
+ 159 - Govt. P/S Mir Gul Jattak (Combined),28.44278,68.12732,Combined,Balochistan,2,1,521,423
+ 192 - BHU Sabaz Ali Umrani (Combined),28.44652,68.18993,Combined,Balochistan,2,2,618,505
+ 157 - Govt: P/S Haji Kaloo Khan Marri (Combined),28.44939,68.05032,Combined,Balochistan,3,1,703,417
+ 367 - Govt. Boys M/S Panjuk I (Combined),28.45257,67.52652,Combined,Balochistan,2,2,655,431
+ 368 - Govt.Boys M/S Panjuk 2 ( Combined),28.45257,67.52655,Combined,Balochistan,1,1,270,157
+ 96 - Govt: P/S Aalooda Baba Kot (Combined),28.45382,67.82137,Combined,Balochistan,1,2,505,524
+ 39 - Govt; H/S Shafee Muhammad Umrani Highe Section ( Combined),28.45623,68.29984,Combined,Balochistan,1,1,513,431
+ 151 - Govt: P/S Raheem Bux (Mitha Manjhoo) (Combined),28.4575,68.03379,Combined,Balochistan,2,1,521,382
+ 143 - Govt. P/S Yousaf Palal at Ali Gul Umrani (Combined),28.46006,67.99031,Combined,Balochistan,2,2,787,525
+ 177 - Govt. Boys H/S Muhammad Rahim Mengal portion I (Male),28.46287,68.15054,Male,Balochistan,2,0,659,0
+ 178 - Govt. Boys H/S Muhammad Rahim Mengal Portion II (Female),28.46296,68.15059,Female,Balochistan,0,3,0,1108
+ 144 - Govt: P/S Muhammad Waja (Combined),28.46324,67.94733,Combined,Balochistan,2,2,593,630
+ 152 - Govt. P/S  Shori Warial (Combined),28.46491,68.01815,Combined,Balochistan,2,1,516,291
+ 186 - Govt. P/S Mangoli (Combined),28.47175,68.27702,Combined,Balochistan,1,1,489,276
+ 175 - Govt P/S Bedar  Balan (Goth Saeed Khan Marri ) Combined,28.47365,68.16038,Combined,Balochistan,2,2,842,632
+ 145 - Civil Dispensary Sarfraz Khan (Male),28.48228,67.98541,Male,Balochistan,3,0,1016,0
+ 146 - Govt: P/S Abdul Aziz Barak (Male),28.4823,67.98534,Male,Balochistan,3,0,797,0
+ 149 - Govt: Boys H/S Shori Data (Combined),28.48266,68.04316,Combined,Balochistan,2,1,592,472
+ 150 - Govt: H/S Shori Data Portion- II (Combined),28.48266,68.04319,Combined,Balochistan,2,1,592,473
+ 194 - Govt. M/S Sultan Haijwani (Combined),28.48901,68.18786,Combined,Balochistan,2,2,810,514
+ 181 - Govt. Boys H/S Kot Mengal High Section (Male),28.48982,68.26139,Male,Balochistan,4,0,1307,0
+ 182 - Govt. Boys H/S Kot Mengal Portion II (Male),28.49004,68.26126,Male,Balochistan,4,0,1307,0
+ 183 - Govt. Boys H/S Kot Mengal Primary Section (Female),28.49027,68.26126,Female,Balochistan,0,4,0,1800
+ 188 - Govt. M/S Abdul Majeed Lehri (Male),28.49471,68.20921,Male,Balochistan,3,0,857,0
+ 190 - Govt. M/S Abdul Majeed Lehri (Female),28.49471,68.20924,Female,Balochistan,0,2,0,691
+ 173 - Govt. H/S Sona Khan Portion 1 (Male),28.49649,68.12994,Male,Balochistan,4,0,1288,0
+ 174 - Govt. H/S Sona Khan portion II (Female),28.49661,68.12988,Female,Balochistan,0,3,0,943
+ 184 - Govt. Girls P/S Abdul Rehman Hejwani (Combined),28.50388,68.18459,Combined,Balochistan,1,1,452,341
+ 179 - Govt. P/S Haji Khan Jatoi (Combined),28.50995,68.21471,Combined,Balochistan,2,1,560,339
+ 171 - Govt. M/S Khuda Bakhsh Khosa Portion II (Male),28.51159,68.16711,Male,Balochistan,4,0,1588,0
+ 172 - Govt. Girls M/S Khuda Bakhsh Khosa portion II (Female),28.51159,68.16714,Female,Balochistan,0,4,0,1629
+ 85 - Govt: Girls M/S Jara Khan Joya Port: I (Female),28.51159257602264,68.16710622529298,Female,Balochistan,0,4,0,1251
+ 340 - Govt: Boys  P/S Naushehra (Combined),28.51226,67.55949,Combined,Balochistan,2,1,618,367
+ 36 - Govt: P/S Shehzada Khan Umrani ( Combined),28.51657,68.33479,Combined,Balochistan,2,1,632,505
+ 330 - Govt.boys  M/S Mir Pur (Combined-I),28.52881,67.73714,Combined,Balochistan,2,1,549,319
+ 331 - Govt. Boys M/S Mir Pur (Combined-II),28.52881,67.73717,Combined,Balochistan,1,1,390,245
+ 34 - Govt: P/S Juma Khan Umrani (Male),28.52888,68.24779,Male,Balochistan,3,0,1131,0
+ 35 - Govt: Girls M/S Juma Khan Umrani (Female),28.52969,68.24837,Female,Balochistan,0,3,0,1009
+ 369 - Govt. Middle School Khan Pur (comibined),28.53074,67.42538,Combined,Balochistan,1,1,318,184
+ 44 - BHU Haji Dildar Khan Umrani Portion-I ( Male),28.53373,68.39194,Male,Balochistan,2,0,835,0
+ 46 - BHU Haji Dildar Khan Umrani Portion-II ( Female),28.53373,68.39197,Female,Balochistan,0,2,0,738
+ 45 - Govt; P/S Allanhanda Khan Umrani (Male),28.53381,68.39212,Male,Balochistan,2,0,834,0
+ 65 - T.C.F School Abro Mohallah (portion I) (Female),28.53421,68.21663,Female,Balochistan,0,3,0,1149
+ 66 - T.C.F School Abro Mohallah (portion II) (Female),28.53421,68.21666,Female,Balochistan,0,3,0,1341
+ 67 - Govt. Degree College D. M. Jamali. Portion I ( Male),28.53447,68.22672,Male,Balochistan,4,0,1327,0
+ 68 - Govt. Degree College D.M.Jamali Portion II (Male),28.53447,68.22675,Male,Balochistan,4,0,1244,0
+ 61 - Govt. Girls Middle School Abdul Wahab Soomro portion I ( Female),28.5351,68.21729,Female,Balochistan,0,4,0,1242
+ 62 - Govt; Girls MS Abdul Wahab Soomro Por; II (Female),28.5351,68.21732,Female,Balochistan,0,3,0,1125
+ 69 - Technical Training Center D.M.Jamali Portion I (Female),28.53517,68.22586,Female,Balochistan,0,3,0,943
+ 70 - Technical Trainning Center D.M Jamali Portion II (Female),28.53517,68.22589,Female,Balochistan,0,3,0,947
+ 59 - Govt; Boys Model H/S DM Jamali Port; I (Male),28.53602,68.21864,Male,Balochistan,4,0,1221,0
+ 60 - Govt. Boys Model High School D.M.Jamali Portion II (Male),28.53602,68.21867,Male,Balochistan,4,0,1226,0
+ 95 - Govt: Girls P/S Rustam Khan Domki (Male),28.53707,68.21888,Male,Balochistan,4,0,1266,0
+ 43 - Govt; P/S Mehmood Khan ( Goth Jagan ) ( Combined),28.53832,68.3656,Combined,Balochistan,2,2,835,737
+ 63 - Sana Public School DM Jamali (Male),28.53914,68.22117,Male,Balochistan,4,0,1298,0
+ 33 - Govt: P/S Nabi Bakhsh Bhangher (Combined),28.54143,68.34753,Combined,Balochistan,1,1,477,390
+ 197 - Govt. P/S Ahmed Khan Domki (Combined),28.54209,68.15369,Combined,Balochistan,1,1,303,168
+ 64 - Office Chairman Market Committee DM Jamali Portion I (Male),28.54248,68.22212,Male,Balochistan,3,0,1042,0
+ 75 - Office of Chairman Market Committee DM Jamali Port: II (Male),28.54248,68.22215,Male,Balochistan,4,0,1266,0
+ 86 - Shaheem Public Grammer School DM Jamali Port; I (Female),28.54324,68.22427,Female,Balochistan,0,4,0,1320
+ 94 - Shaheen Public Grammer School DM Jamali Port: II (Female),28.54324,68.2243,Female,Balochistan,0,2,0,848
+ 32 - Govt: P/S Arbab Khan Umrani (Combined),28.54414,68.27412,Combined,Balochistan,2,2,998,661
+ 76 - Govt: P/S Taj ul Uloom DM Jamali (Female),28.54463,68.21906,Female,Balochistan,0,4,0,1238
+ 93 - Govt: Boys P/S Bhutto Muhalla DM Jamali (Male),28.54556,68.22637,Male,Balochistan,2,0,829,0
+ 72 - Govt. Girls Model H/S D.M. Jamali Portion I (Female),28.54637,68.21913,Female,Balochistan,0,3,0,949
+ 74 - Govt: Girls Model H/S DM Jamali Port: II (Female),28.54637,68.21916,Female,Balochistan,0,4,0,1327
+ 89 - Govt: Girls M/S Jara Khan Joya Port: II (Female),28.54663,68.22261,Female,Balochistan,0,4,0,1315
+ 90 - Govt: H/S Shaheed Sohail Aslam DM Jamali Port: I (Male),28.54666,68.22311,Male,Balochistan,2,0,885,0
+ 91 - Govt: H/S Shaheed Sohail Aslam DM Jamali Port: I (Male),28.54666,68.22314,Male,Balochistan,3,0,917,0
+ 71 - Govt Special H/S Dera Murad Jamali Portion 1( Male),28.54774,68.21748,Male,Balochistan,3,0,978,0
+ 73 - Govt: Boys Special H/S Dera Murad Jamali Port: I (Male),28.54774,68.21751,Male,Balochistan,4,0,1268,0
+ 92 - Govt: P/S Boohar Mohalla DM Jamali (Female),28.54783,68.22651,Female,Balochistan,0,4,0,1254
+ 336 - Govt: Boys H/S Pachh (Male),28.54804,67.40878,Male,Balochistan,3,0,828,0
+ 57 - Govt; Girls P/S Irrigation colony Dera Murad Jamali (Female),28.54923,68.20352,Female,Balochistan,0,4,0,1406
+ 337 - Govt: Girls M/S Pachh (Female),28.55132,67.40698,Female,Balochistan,0,2,0,662
+ 84 - Govt; Girls Inter college Port; I (Male),28.55175,68.21924,Male,Balochistan,3,0,1106,0
+ 88 - Govt: Girls Inter College DM Jamali Port: II (Male),28.55175,68.21927,Male,Balochistan,3,0,1156,0
+ 81 - Usmania Public School DM Jamali (Female),28.55202,68.21726,Female,Balochistan,0,4,0,1314
+ 82 - Office of Agriculture Engineering Deptt; near Ghee Mil (Female),28.55249,68.21832,Female,Balochistan,0,4,0,1258
+ 87 - Govt: P/S Ghee Mil Mohalla Port: II (Male),28.5532,68.22018,Male,Balochistan,4,0,1156,0
+ 83 - Govt; P/S Ghee Mil Mohalla Port; I (Male),28.5532,68.22023,Male,Balochistan,3,0,1105,0
+ 332 - Govt.boys  H/S Kotra (Male),28.55721,67.3834,Male,Balochistan,3,0,1024,0
+ 333 - Govt. Girls M/S Kotra (Female) (New),28.55721,67.38343,Female,Balochistan,0,3,0,849
+ 77 - Fishries  Office DM Jamali Port: I (Male),28.55776,68.21619,Male,Balochistan,2,0,840,0
+ 79 - Fishries office DM Jamali Port: III (Male),28.55776,68.21622,Male,Balochistan,3,0,1064,0
+ 30 - Govt: P/S Mola Bakhsh Pandrani (Combined),28.56675,68.28199,Combined,Balochistan,1,1,539,356
+ 338 - Govt: Boys M/S Fateh Pur (Combined),28.56758,67.49447,Combined,Balochistan,1,1,388,282
+ 339 - Govt: Boys M/S Fateh Pur (Combined) II,28.56758,67.4945,Combined,Balochistan,2,1,470,321
+ 80 - Govt: Boys P/S Bachal Khan Mugheri (Male),28.56904,68.22807,Male,Balochistan,2,0,521,0
+ 49 - Govt; Girls P/S Muhammad Sidique Bangulzai (Female),28.57391,68.23788,Female,Balochistan,0,2,0,788
+ 48 - Govt; Boys P/S Muhammad Sidique Bangulzai (Male),28.57391,68.23799,Male,Balochistan,3,0,953,0
+ 195 - Govt. P/S Ranjhan Khan Hara (B.E. F building) (Combined),28.587,68.10126,Combined,Balochistan,2,2,795,413
+ 334 - Govt: Boys M/S Khaari (Male),28.58748,67.35784,Male,Balochistan,4,0,1130,0
+ 50 - Govt; P/S Haji Khan Phanyar ( Combined),28.58878,68.26347,Combined,Balochistan,1,1,342,177
+ 21 - Govt: P/S Sohbat Khan (Combined),28.58978,68.38394,Combined,Balochistan,2,2,878,604
+ 335 - Govt: Veterenary Dispensary Khari (Female),28.59213,67.35882,Female,Balochistan,0,3,0,753
+ 326 - Govt. Priamry School Seed Form (Combined),28.59899,67.45109,Combined,Balochistan,2,1,461,335
+ 27 - BHU Abdul Hameed Khosa (Female),28.60343,68.40955,Female,Balochistan,0,4,0,1415
+ 22 - BHU Allah Waraya Shar (Male),28.60374,68.32206,Male,Balochistan,3,0,1091,0
+ 26 - Govt: Boys M/S Abdul Hameed Khosa ( Male),28.60401,68.40894,Male,Balochistan,4,0,1630,0
+ 24 - Govt: P/S Abdul Khaliq Khosa (Combined),28.60502,68.328,Combined,Balochistan,2,1,696,523
+ 23 - Govt; Girls P/S Peer Bakhsh Shar  (Female),28.61003,68.35939,Female,Balochistan,0,2,0,860
+ 324 - Govt. Girls Primary School Hussaini Mohollah Gandawah (Female),28.61016,67.48588,Female,Balochistan,0,3,0,806
+ 53 - Govt; P/S Goth Aziz Abad (Uch) ( Combined),28.61045,68.16677,Combined,Balochistan,2,1,684,363
+ 322 - Govt. Girls High School Gandawah (Female),28.61197,67.48649,Female,Balochistan,0,3,0,999
+ 321 - Govt. Boys Primary School Basti Kamal Shah Gandawah (Combined) (New),28.61298,67.49078,Combined,Balochistan,2,2,546,451
+ 323 - Govt. Boys High School Priamry Section Gandawah (Male),28.6139,67.48325,Male,Balochistan,3,0,943,0
+ 325 - Govt. Girls Priamry School Qazi Mohollah (Combined),28.61528,67.48,Combined,Balochistan,2,1,431,369
+ 20 - Govt Boys PrimarySchool Wahid Bakhsh Khosa (Combined),28.62323,68.38594,Combined,Balochistan,1,1,272,205
+ 19 - Govetnment Girls P/S Mir Muhammad Shah (Female),28.63113,68.39333,Female,Balochistan,0,4,0,1304
+ 52 - Govt; Boys P/S Dost Muhammad Pandrani (Combined),28.63188,68.1951,Combined,Balochistan,2,1,607,485
+ 18 - Govt; Boys M/S Mir Muhammad Shah (Male),28.63335,68.39278,Male,Balochistan,2,0,796,0
+ 51 - Al-Aziz Public School Goth Rehmatullah Jakhrani (pull Rabi canal) (Combined),28.63739,68.17323,Combined,Balochistan,2,1,606,485
+ 346 - Govt: Boys M/S Kunara (Combined),28.63839,67.3761,Combined,Balochistan,3,1,823,391
+ 29 - Civil Dispencery Mir Hassan (Female),28.64468,68.41101,Female,Balochistan,0,3,0,1178
+ 28 - Govt: Boys M/S Mir Hassan (Male),28.64546,68.40851,Male,Balochistan,4,0,1492,0
+ 345 - Govt: Boys M/S Patri (Combined),28.66649,67.35939,Combined,Balochistan,2,2,720,477
+ 342 - Govt: Girls P/S Gajan (Female),28.67432,67.43022,Female,Balochistan,0,2,0,609
+ 341 - Govt: H/S Gajan (Male),28.6755,67.42725,Male,Balochistan,3,0,932,0
+ 343 - Govt: M/S Qazi Ismail Goth Azad Khan (Combined),28.71239,67.39865,Combined,Balochistan,2,1,618,381
+ 17 - BHU Shah Pur (female),28.71932,68.4128,Female,Balochistan,0,4,0,1338
+ 344 - Baluchistan Education Foundation Qazi Ismail (Combined) New,28.73051,67.4191,Combined,Balochistan,2,1,484,242
+ 327 - Govt. Boys Priamry School Ghaus Pur (Combined),28.73868,67.65127,Combined,Balochistan,2,1,594,326
+ 55 - Govt; M/S Nauttal ( Combined),28.75217,68.07981,Combined,Balochistan,2,2,1098,612
+ 328 - Govt. Boys M/S Shikar  Pur (Combined),28.75785,67.69054,Combined,Balochistan,2,1,527,373
+ 310 - Improvised Arri (Combined) (New),28.7657,67.52873,Combined,Balochistan,2,1,751,299
+ 301 - Govt: Boys P/S Esbani (Female),28.787297971734322,67.45796049390941,Female,Balochistan,0,2,0,806
+ 306 - Govt. Primary School Sianch (Combined),28.801080509198062,67.53857541961928,Combined,Balochistan,1,1,340,278
+ 302 - Govt. Primary School Tando Gulab (Combined),28.802308325066132,67.50311473122308,Combined,Balochistan,1,1,505,255
+ 303 - Improvised Godri (Combined),28.80331955259431,67.53231439107964,Combined,Balochistan,1,1,245,264
+ 298 - Govt. Primary Scholl Azdi (Combined),28.803738464474694,67.45726095486351,Combined,Balochistan,2,1,506,388
+ 312 - Improvised Sheheja (Combined) (New),28.80453,67.52201,Combined,Balochistan,1,1,243,236
+ 311 - Improvised Seena Wah (Combined) (New),28.806,67.54574,Combined,Balochistan,1,1,193,147
+ 309 - Improvised Machi (Combined) New).,28.81834,67.43143,Combined,Balochistan,1,1,206,235
+ 300 - Govt. Primary School Eri Tunia (Combined),28.821430086452857,67.54643850230387,Combined,Balochistan,2,1,502,408
+ 293 - Govt. Primary School Chalwani (Combined),28.831053868667247,67.42162539133172,Combined,Balochistan,1,1,229,408
+ 313 - Govt. Boys Primary School Qasai (Combined),28.8323,67.48856,Combined,Balochistan,2,2,670,447
+ 4 - Govt: Primary school Banri (combined),28.85318,68.3244,Combined,Balochistan,2,1,599,182
+ 329 - Govt. Boys P.S Chhorri Ghulam Hussain (Combined),28.85606,67.65892,Combined,Balochistan,1,1,307,177
+ 304 - Govt. Primary School Arzi (Combined),28.857032104339993,67.4751845838821,Combined,Balochistan,2,2,859,658
+ 294 - Govt. Boys High School Shoran High Section (Male),28.859598550465183,67.45246782623022,Male,Balochistan,3,0,1073,0
+ 305 - Govt. Primary School Jhok Shahbaz (Combined),28.85993123012553,67.48184770314494,Combined,Balochistan,2,1,575,399
+ 296 - Govt. Boys High School Shoran Primary Section (Combined),28.860077298056478,67.45232734404259,Combined,Balochistan,2,2,657,498
+ 265 - Govt. Boys H/S Haji Shahar (Male),28.86014,67.45245,Male,Balochistan,4,0,1372,0
+ 266 - Govt. Boys H/S Haji Shahar (Male),28.86014,67.45248,Male,Balochistan,2,0,633,0
+ 295 - Govt. Girls Primary School Shoran (Female),28.8627,67.45153,Female,Balochistan,0,3,0,953
+ 292 - Govt. Girls Primary School Shoran (Female),28.86336226321764,67.45155361176968,Female,Balochistan,0,2,0,480
+ 288 - Govt. Primary School Siahpad (Combined),28.86392,67.45283,Combined,Balochistan,1,1,194,141
+ 297 - Govt. Primary School Mulan Shoran (Combined),28.86392,67.45286,Combined,Balochistan,1,1,381,252
+ 291 - Civil Dispensary Shoran (Male),28.863941492039974,67.45283237889569,Male,Balochistan,2,0,685,0
+ 10 - Govt: H/school Chattar Port: II Male,28.86632,68.32904,Male,Balochistan,2,0,945,0
+ 8 - Govt: H/S Chattar port: I (combined),28.86632,68.32907,Combined,Balochistan,2,2,696,622
+ 290 - Govt. Boys Primary School Sarkandar (Combined),28.88060089589366,67.43899697761023,Combined,Balochistan,1,1,429,358
+ 9 - Govt: P/school Wazeerani (Combined),28.88241,68.34661,Combined,Balochistan,2,1,643,362
+ 289 - Improvised Mawali (Combined) (New),28.88383,67.4952,Combined,Balochistan,1,1,460,215
+ 287 - Govt: Boys P/S Kot Misrii (combined),28.89740148618907,67.48528686244394,Combined,Balochistan,2,2,599,454
+ 308 - Impromivsed Darozai (Combined)(Neew),28.91112,67.46034,Combined,Balochistan,1,1,351,235
+ 314 - Govt. Boys Primary School Sanari (Combined) (New),28.92107,67.59032,Combined,Balochistan,1,1,186,372
+ 7 - Govt: M/S Korar Port: II (Tahir Kot) Female,28.92199,68.33056,Female,Balochistan,0,3,0,884
+ 6 - Govt: M/S Korar (port: I male),28.93461,68.32357,Male,Balochistan,4,0,1384,0
+ 15 - Govt: Boys M/S Kundi Ramdani (combined),28.94066,68.38668,Combined,Balochistan,2,2,669,735
+ 286 - Govt: P/S Haft Wali Balina (Combined),28.978092822670458,67.44460205036779,Combined,Balochistan,1,1,334,117
+ 2 - Govt high school phuliji (combined),28.99487,68.34834,Combined,Balochistan,2,1,607,431
+ 3 - Govt high school phuleji (port II) combined,28.99487,68.34837,Combined,Balochistan,1,1,416,275
+ 1 - Govt primary school phuligy balina (combined),29.00181,68.34608,Combined,Balochistan,2,2,789,448
+ 319 - Govt. Praimary School Chattani (P)(Combined),29.062490683406654,67.6519181471975,Combined,Balochistan,2,1,426,251
+ 284 - Govt. P/S Chakar Mari (Combined),29.083657929868416,67.57616379026493,Combined,Balochistan,2,1,867,379
+ 285 - BHU Chakar Marri (combined),29.087862856980006,67.58930237092719,Combined,Balochistan,1,1,471,259
+ 281 - Govt.P/S Khuda Dost(Combined),29.11377264647704,67.60287995452116,Combined,Balochistan,1,1,368,183
+ 317 - Govt. Primary School Rustum (Combined),29.117686053504094,67.70559115164568,Combined,Balochistan,2,1,678,393
+ 280 - Govt. P/S Chamb (Combined) New,29.14392,67.59214,Combined,Balochistan,1,1,292,153
+ 278 - Govt. H/S Sanni (Combined),29.149108507925558,67.560675955668,Combined,Balochistan,2,2,999,534
+ 307 - Govt. Boys Primary School Bagrochi (Combined) (New),29.15011,67.7859,Combined,Balochistan,1,1,407,386
+ 273 - Govt. Middle M/S Bakhshia (Combined) New,29.15011,67.78593,Combined,Balochistan,1,1,339,204
+ 315 - Govt. Primary School Khattan (Male),29.150829891668312,67.69748334400724,Male,Balochistan,2,0,967,0
+ 316 - Govt. P/ School Khattan (Female) (New),29.150829891668312,67.6975133440072,Female,Balochistan,0,2,0,706
+ 275 - Govt. Boys H/S Ghazi (Combined),29.17229,67.83586,Combined,Balochistan,2,1,556,433
+ 250 - Govt: Boys P/S Railway Station Mshkaf (Combined) (P),29.172301729610172,67.83584319795922,Combined,Balochistan,1,1,356,207
+ 276 - Govt. Boys M/S Chandar (Combined),29.174917197968423,67.85788937472326,Combined,Balochistan,2,1,752,502
+ 272 - Govt- P/S Masoo (Combined),29.180752927262315,67.77941355120105,Combined,Balochistan,2,1,547,342
+ 283 - Govt. M/S Mehasar Shahwani (Combined),29.183634490322227,67.64119351375275,Combined,Balochistan,1,1,151,86
+ 318 - Govt. Primary School Dildar (Combined),29.183640616607416,67.71873482354918,Combined,Balochistan,1,1,292,223
+ 268 - Govt. Boys P/S Takari (Combined),29.22658,67.86131,Combined,Balochistan,2,1,645,388
+ 271 - Govt. Boys H/S Ghogra (Combined),29.2327,67.78915,Combined,Balochistan,2,1,517,350
+ 277 - Govt. Boys P/S Garhi Aurang Shah (Combined ),29.244409699300828,67.75276915019508,Combined,Balochistan,2,1,611,363
+ 269 - Govt. Boys P/S Dandor (Combined),29.25335271844797,67.84154802395845,Combined,Balochistan,2,1,720,396
+ 267 - Govt. M/S Haji Shahar (Female),29.25949,67.82414,Female,Balochistan,0,4,0,1337
+ 274 - Govt. Boys P/S Dossa (Combined),29.26033,67.82192,Combined,Balochistan,2,1,788,499
+ 262 - Govt. M/S Arri (Combined),29.30801,67.78076,Combined,Balochistan,2,1,592,403
+ 263 - Govt. M/S Arri (Combined),29.30801,67.78079,Combined,Balochistan,1,1,466,305
+ 261 - Govt. Boys P/S Taj (Combined),29.31604419079615,67.80210685831585,Combined,Balochistan,1,1,356,235
+ 238 - Govt: P/S Gahi (Combined),29.345259311175962,67.81842658031479,Combined,Balochistan,1,1,189,127
+ 258 - Govt. Girls High School Mithari (Famel),29.36231,67.81554,Female,Balochistan,0,2,0,820
+ 257 - Govt. Girls HighSchool Mithari (Female),29.362310571193646,67.81550708810417,Female,Balochistan,0,2,0,638
+ 255 - Govt. Boys High School Mithari (Male),29.362658728559147,67.82167842268322,Male,Balochistan,2,0,796,0
+ 237 - Govt: P/S Naushra (Combined),29.3761,67.58732,Combined,Balochistan,2,1,530,335
+ 234 - Govt. P/S Mehar Garh (Combined),29.40318224302507,67.59775184389541,Combined,Balochistan,1,1,320,157
+ 252 - Govt. Middle school Naghari (combined) (New),29.41085,67.64183,Combined,Balochistan,2,1,523,374
+ 264 - Govt. P/S Kolachi (Combined),29.412752759760906,67.83537564761446,Combined,Balochistan,2,1,474,262
+ 239 - Govt: M/S Kot Gahi (Male),29.433859139333727,67.59048426882363,Male,Balochistan,2,0,703,0
+ 251 - Govt: P/S Jalbani (Combined),29.457568826423387,67.61506646989562,Combined,Balochistan,2,1,412,233
+ 241 - Govt: Girls P/S Chotai Gharbi (Combined),29.463064104083333,67.60957129212711,Combined,Balochistan,1,1,408,229
+ 253 - Govt. Primary School Basti Musa Khan (Male),29.468450144572735,67.6447971443463,Male,Balochistan,2,0,769,0
+ 254 - Govt.Girls Primary School Bati Musa Khan (Female),29.46896,67.64505,Female,Balochistan,0,2,0,534
+ 225 - Govt. Girls H/S Dhadar (Female),29.47574,67.64905,Female,Balochistan,0,2,0,673
+ 224 - Govt. Girls H/S Dhadar (Female),29.475773878315316,67.6492107707721,Female,Balochistan,0,2,0,551
+ 223 - Govt.Boys Model High School Dhadar (Male),29.47644,67.64393,Male,Balochistan,2,0,785,0
+ 222 - Govt. Boys Model High School Dhader (Male),29.476520999512353,67.64396319227318,Male,Balochistan,2,0,656,0
+ 247 - Govt: Girls M/S Faiz Abad (Female),29.48475,67.65697,Female,Balochistan,0,2,0,523
+ 235 - Govt: P/S Durabi Balina (Male),29.485046808838774,67.53323174395035,Male,Balochistan,3,0,1200,0
+ 236 - Govt:Boys P/S Durabani Zarina (Female),29.485046808838774,67.5332617439503,Female,Balochistan,0,3,0,850
+ 246 - Govt: P/S Faiz Abad (Male),29.48585,67.65544,Male,Balochistan,2,0,817,0
+ 240 - Govt: M/S Gahi (Female),29.48629,67.63984,Female,Balochistan,0,2,0,503
+ 230 - Govt. M/S Baboo Mohallah(Male),29.486410787530815,67.62451858853792,Male,Balochistan,3,0,885,0
+ 228 - Govt. Girls H/S Rind Ali (Female),29.487,67.64126,Female,Balochistan,0,2,0,531
+ 231 - Govt. Girls Community M/S Rind Ali (Female),29.487,67.64129,Female,Balochistan,0,2,0,628
+ 229 - Govt. Girls H/S Rind Ali (Female),29.487,67.64132,Female,Balochistan,0,3,0,917
+ 279 - Govt. P/S Tayaib Balin (Combined),29.48867,67.7103,Combined,Balochistan,2,1,514,353
+ 226 - Govt. Boys H/S Rind Ali (Male),29.48904,67.63892,Male,Balochistan,2,0,631,0
+ 227 - Govt. H/S Rind Ali (Male),29.48904,67.63895,Male,Balochistan,3,0,1252,0
+ 244 - Govt: P/S Brahim Baran (Male),29.4962,67.72142,Male,Balochistan,2,0,1025,0
+ 245 - Govt: Girls M/S Raheem Baran (Female),29.49823,67.71352,Female,Balochistan,0,2,0,574
+ 243 - Govt: Girls H/S Mashkaf (Female),29.50826,67.67934,Female,Balochistan,0,3,0,1056
+ 242 - Govt: H/S Mshkaf (Male),29.51051,67.67636,Male,Balochistan,4,0,1421,0
+ 249 - Govt: M/S Lundi (Female) New,29.54923,67.78754,Female,Balochistan,0,2,0,567
+ 282 - Govt. Boys P/S Had Khari (Combined),29.54966,67.87556,Combined,Balochistan,1,1,452,258
+ 248 - Govt: Boys M/S Lundi (Male),29.55076,67.78793,Male,Balochistan,3,0,985,0
+ 221 - Govt. M/S Kirta (Combined),29.610120517278947,67.48497180523232,Combined,Balochistan,2,1,609,321
+ 220 - (Improvised) Bibi Nani (Combined),29.699745558212634,67.38500999109989,Combined,Balochistan,3,1,831,306
+ 218 - Govt. P/S Abbe Gum (Male),29.8049731005996,67.40348856305155,Male,Balochistan,2,0,972,0
+ 219 - Govt. P/S Abbe Gum (Female),29.80498,67.40334,Female,Balochistan,0,2,0,577
+ 217 - Govt. Girls P/S Mach Nadi (Female),29.859033313189254,67.31841438726185,Female,Balochistan,0,3,0,968
+ 215 - Govt. Boys Middle School Killi Gul Khan Nadi Mach (Male),29.86023,67.32114,Male,Balochistan,3,0,1270,0
+ 212 - Civil Hospital Much (Female),29.86286,67.33098,Female,Balochistan,0,3,0,1019
+ 209 - Office of the Sui Gas Much (Female),29.86497218439564,67.32977529592506,Female,Balochistan,0,3,0,1136
+ 203 - Govt: Boys H/S Railway colony Mach (Male),29.865246473799548,67.32396184808798,Male,Balochistan,3,0,1114,0
+ 204 - (2) Govt: Boys H/S Railway colony Mach (Male),29.86535,67.3238,Male,Balochistan,3,0,935,0
+ 205 - Govt: Girls H/S Mach (Female),29.86551,67.32852,Female,Balochistan,0,2,0,762
+ 206 - Govt: Girls H/S Mach (Female) II,29.86551,67.32855,Female,Balochistan,0,2,0,490
+ 207 - Library Hall Mach (Male),29.867360295953944,67.3282144193232,Male,Balochistan,2,0,1301,0
+ 208 - 2Liberary Hall Much (Male),29.86738,67.32812,Male,Balochistan,1,0,425,0
+ 199 - Govt. Boys H/S Machh (Male),29.868416098504998,67.3275119014193,Male,Balochistan,2,0,538,0
+ 200 - II Govt: Boys H/S Mach (Male),29.86853,67.32746,Male,Balochistan,3,0,1261,0
+ 210 - Inspector Mines Office Much (Male),29.8691,67.32482,Male,Balochistan,3,0,948,0
+ 211 - Inspector Mines Office Much (Male),29.8691,67.32485,Male,Balochistan,3,0,952,0
+ 202 - Govt: Girls H/S Samalani colony Mach (Female),29.87054,67.32294,Female,Balochistan,0,3,0,846
+ 201 - Govt: Girls H/S Samalani colony Mach (Female),29.87054865965446,67.32308253705617,Female,Balochistan,0,1,0,352
+ 213 - Govt. Boys H/S Kolpur (Male),29.90535,67.13275,Male,Balochistan,4,0,1411,0

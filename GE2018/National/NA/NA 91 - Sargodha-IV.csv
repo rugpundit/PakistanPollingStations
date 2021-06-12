@@ -1,342 +1,342 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-310,GOVERNMENT BOYS MOEDL MIDDLE SCHOOL CHAK NO.165 NB  (COMB)  (T),31.598096540462436,72.24191451783655,Combined,Punjab,1,1,631,491
-312,GOVERNMENT BOYS  HIGH SCHOOL CHAK .162/164 NB (MALE) (T),31.605501154684248,72.25840187279515,Male,Punjab,3,0,1343,0
-313,GOVERNMENT BOYS HIGH SCHOOL CHAK .162/164 NB (FEMALE) (T),31.605541625957063,72.25841747802956,Female,Punjab,0,2,0,1130
-308,GOVERNMENT BOYS PRIMARY SCHOOL No 2- CHAK NO.163 NB (MALE) (T),31.60599783118731,72.24928861488002,Male,Punjab,3,0,1400,0
-309,GOVERNMENTGIRLS HIGH SCHOOL - CHAK NO.163 NB (FEMALE) (T),31.607214634369807,72.24602899850757,Female,Punjab,0,2,0,1070
-311,GOVERNMENT BOYS ELEMENTARY SCHOOL CHAK .160/N.B (COMB)  (T),31.625569820649698,72.28894064205377,Combined,Punjab,2,1,821,619
-307,GOVERNMENT GIRLS ELEMENTARY SCHOOL - CHAK NO.161 NB (FEMALE) (T),31.63550959647124,72.2719683022406,Female,Punjab,0,2,0,990
-306,GOVERNMENT BOYS PRIMARY SCHOOL - CHAK NO.161 NB (MALE) (T),31.636527737554708,72.27378477817254,Male,Punjab,3,0,1353,0
-285,GOVERNMENT BOYS  HIGHER SECONDARY  SCHOOL        CHAK NO.157 NB (COMB) (P),31.64950131457545,72.32700799194048,Male,Punjab,3,0,1275,0
-286,(15) GOVERNMENT BOYS  HIGHER SECONDARY  SCHOOL        CHAK NO.157 NB (COMB) (P),31.64950131457545,72.3270379919405,Female,Punjab,0,2,0,1084
-284,GOVERNMENT BOYS  HIGHER SECONDARY   SCHOOL        CHAK NO.157 NB  (COMB) (P),31.64954602065771,72.32702950321796,Combined,Punjab,2,1,839,593
-328,GOVERNMENTBOYS  PRIMARY SCHOOL- CHAK NO.174 NB   (COMB)  (T),31.65090833544784,72.34653527770882,Combined,Punjab,1,1,476,348
-287,GOVERNMENT BOYS PRIMARY SCHOOL- CHAK NO.158  NB (COMB) (T),31.657737242209944,72.29402732834848,Combined,Punjab,1,1,315,246
-288,GOVERNMENT GIRLS  MIDDLE  SCHOOL- CHAK NO.159  NB (COMB) (P),31.657737242209944,72.2940573283485,Combined,Punjab,2,1,874,645
-295,(23) GOVERNMENT GIRLS ELEMENTARY SCHOOL 155 NB (Female),31.66651,72.32273,Female,Punjab,0,2,0,941
-294,GOVERNMENT BOYS PRIMARY SCHOOL- CHAK NO.155  NB  (Male)  (T),31.66716070511502,72.32216543533464,Male,Punjab,2,0,1174,0
-293,GOVERNMENT BOYS PRIMARY SCHOOL- CHAK NO.155  NB  (COMB)  (T),31.66719951171171,72.32215412094627,Combined,Punjab,2,1,787,573
-292,GOVERNMENT BOYS ELEMENTARY SCHOOL- CHAK NO.154  NB  (COMB)  (T),31.67865642146479,72.331609256932,Combined,Punjab,2,2,892,721
-296,GOVERNMENT BOYS HIGH SCHOOL- CHAK NO.156 NB  (COMB)  (T),31.68044448128515,72.30342556370452,Combined,Punjab,2,2,914,759
-326,GOVERNMENT GIRLS  PRIMARY SCHOOL- CHAK NO.153 NB  (COMB)  (T),31.690850412339355,72.34055829742532,Combined,Punjab,1,1,499,365
-327,GOVERNMENTBOYS  PRIMARY SCHOOL-2 CHAK NO.173 NB (T) *Combined),31.691806901535145,72.39275709680147,Combined,Punjab,1,1,484,368
-325,GOVERNMENT BOYS  PRIMARY SCHOOL- CHAK NO.170/172  NB  (COMB)  (T),31.69653378631567,72.40965281604252,Combined,Punjab,2,1,761,568
-305,GOVERNMENT BOYS ELEMENTARY SCHOOL CHAK NO.169 NB  (COMB)  (T),31.69715444064663,72.44239308703274,Combined,Punjab,2,2,1133,889
-315,GOVERNMENT  B0YS PRIMARY SCHOOL CHAK NO.151 NB SAMURANWALA (MAKHANWALA)  (COMB)  (T),31.707377393060888,72.36963713023111,Combined,Punjab,1,1,452,311
-324,GOVERNMENT GIRLS COMMUNITY MODEL ELEMENTARY SCHOOL CHAK NO.173/NB SOBHAGA  (COMB)  (T),31.712397140815366,72.39725553627444,Combined,Punjab,2,2,974,793
-314,GOVERNMENT  B0YS ELEMENTARY SCHOOL CHAK NO.151 NB (KALYARANWALA)  (COMB)  (T),31.71494492744914,72.37609468841912,Combined,Punjab,1,1,648,471
-302,GOVERNMENT BOYS HIGH SCHOOL- CHAK NO.168/171 NB (MALE) (P),31.71717309104883,72.44092443439271,Male,Punjab,2,0,1171,0
-303,(30) GOVERNMENT BOYS HIGH SCHOOL- CHAK NO.168/171 NB (MALE) (P),31.71717309104883,72.4409544343927,Male,Punjab,2,0,914,0
-317,GOVOT. BOYS HIGH  SCHOOL CHAK NO.152 NB (MALE) (P),31.717357336649904,72.35437383227915,Male,Punjab,3,0,1241,0
-318,GOVERNMENT BOYS HIGH  SCHOOL CHAK NO.152 NB (FEMALE) (P),31.717357336649904,72.3544038322791,Female,Punjab,0,2,0,947
-304,`Govt. Girls Elementary School Chak No. .168/171 NB  NB (FEMALE) (P),31.717610884428055,72.4413389792957,Female,Punjab,0,3,0,1655
-316,GOVERNMENT GIRLS HIGH SCHOOL CHAK NO.152 NB  (COMB)  (T),31.7193002277562,72.35146613522832,Combined,Punjab,1,1,589,443
-291,GOVERNMENT BOYS PRIMARY SCHOOL- CHAK NO.139/140 NB  (COMB)  (T),31.73373530074921,72.39927004574459,Combined,Punjab,1,1,452,372
-322,GOVERNMENT GILRS MIDDLE SCHOOL- CHAK NO.137/138 (MALE) (P),31.736727769140067,72.42915282492993,Male,Punjab,2,0,935,0
-323,GOVERNMENT BOYS PRIMARY  SCHOOL- CHAK NO.137/138 (FEMALE)  (T),31.739732514239748,72.4300277133967,Female,Punjab,0,2,0,744
-320,(46) GOVERNMENT BOYS PRIMARY SCHOOL CHAK NO 133 NB (Female),31.77723,72.48611,Female,Punjab,0,2,0,968
-210,Government Girls Primary School Chak No.126/NB(Male) (T),31.802507455502994,73.32889613290244,Male,Punjab,3,0,1436,0
-211,Government Girls Primary School Chak No.126/NB(Female) (T),31.802507455502994,73.3289261329024,Female,Punjab,0,2,0,1180
-213,Government Girls High School Chak No.135/SB (East) (Male) (P),31.802507455502994,73.3289561329024,Male,Punjab,4,0,1762,0
-214,Government Girls High School Chak No.135/SB (West) (Female) (P),31.802507455502994,73.3289861329024,Female,Punjab,0,3,0,1338
-224,Govt. Boys Primary School Chak No.50/SB (T) (Combined),31.802507455502994,73.3290161329024,Combined,Punjab,2,1,758,613
-225,Govt. Boys Middle School Chak No.61/SB (Combined) (P),31.802507455502994,73.3290461329024,Combined,Punjab,2,1,684,541
-226,Govt. Girls Elementary School Chak No.62/SB (Combined)(T),31.802507455502994,73.3290761329024,Combined,Punjab,1,1,541,451
-227,Government Boys High School Chak No.63/SB (Combined) (P),31.802507455502994,73.3291061329024,Combined,Punjab,2,2,926,805
-228,(260) Govt. Boys Elementary School Chak No.64/SB (Combined) (T),31.802507455502994,73.3291361329024,Combined,Punjab,1,1,602,470
-229,Govt. Boys Elementary School Chak No.64/SB (Combined) (T),31.802507455502994,73.3291661329024,Combined,Punjab,1,1,564,495
-230,Govt. Boys Primary School Chak No.60/SB (Combined)(T),31.802507455502994,73.3291961329024,Combined,Punjab,1,1,608,510
-231,Govt. Girls High School Chak No.60/SB (Combined)(P),31.802507455502994,73.3292261329024,Combined,Punjab,2,1,771,589
-232,Govt. Boys Primary School Chak No.49/SB(Combined) (T),31.802507455502994,73.3292561329024,Combined,Punjab,2,1,726,579
-242,Govt. Boys High School Chak No.120/SB. (Combined) (T),31.802507455502994,73.3292861329024,Combined,Punjab,2,2,1097,827
-243,Government Girls High School Chak No.120/SB.(Combined)(P),31.802507455502994,73.3293161329024,Combined,Punjab,2,2,1114,816
-244,Govt.Girls Primary School Chak No.115-ASB (Combined) (T),31.802507455502994,73.3293461329024,Combined,Punjab,1,1,481,371
-245,Govt. Boys Elementary School Chak No.119/SB(Combined) (T),31.802507455502994,73.3293761329024,Combined,Punjab,2,2,1056,778
-273,GOVERNMENT GIRLS COMMUNITY MODEL ELEMENTRY  SCHOOL- CHAK NO.127  NB  (FEMALE) (P),31.835947640936592,72.53192648174416,Female,Punjab,0,3,0,1354
-272,GOVERNMENT GIRLS MIDDLE  SCHOOL- CHAK NO.127  NB  (MALE) (P),31.83598015286101,72.53191145715249,Male,Punjab,3,0,1452,0
-126,Govt. Girls High School Chak No.59 S.B.(Combined) (P),31.85225234694702,72.74232293114058,Combined,Punjab,2,2,870,716
-132,Government Boys Elementry School Chak Jodh(Combined)  (P),31.853947731128844,72.95121479423393,Combined,Punjab,2,2,1015,876
-138,Govt. Boys Primary School Chak 56 a/SB (Combined)(T),31.854853312528817,72.81833029351274,Combined,Punjab,1,1,358,308
-122,Government Girls High School Chak NO.58 S.B. Dogranwala East (Male) (P),31.85550407463801,72.77252166686348,Male,Punjab,2,0,1132,0
-123,Government Girls HighSchool Chak NO.58 S.B. Dogranwala West (Female) (P),31.855531044202085,72.77247916594128,Female,Punjab,0,2,0,819
-125,Government Boys Primary School Chak No.58  S.B. (QasabWala) (WEST) (Female) (T),31.856107469401525,72.77350704028984,Female,Punjab,0,2,0,1099
-124,Government Boys Primary School Chak No.58  S.B. (QasabWala) (EAST) (Male) (T),31.856154455187877,72.77347355271509,Male,Punjab,3,0,1242,0
-136,Government Girls High School Chak No.55 S.B(Combined) (P).,31.86249624213408,72.83458366162841,Combined,Punjab,2,2,1094,859
-139,Govt. Girls Primary School Chak 57 S.B.(Combined)  (T),31.863169060938016,72.8011059744411,Combined,Punjab,1,1,566,437
-121,Govt Girls Primary School. Chak No.47 SB (Combined)(T),31.863278129013082,72.74888192627458,Combined,Punjab,1,1,377,270
-137,Govt. Girls Elementry School Chak No.56 S.B.(Combined)  (P),31.875768510635538,72.83316636912812,Combined,Punjab,2,1,666,495
-91,Government Girls Higher Secondary School Chak No.46 S.B. EAST(Female) (P),31.877819751549286,72.77379448660386,Female,Punjab,0,3,0,1343
-93,Government Girls Higher Secondary School Chak No.46 S.B. . West (Female) (P),31.877832005492493,72.77381516383444,Female,Punjab,0,3,0,1270
-130,Government Girls High School Chak No.54  S.B.  West (Female) (P),31.879302822834255,72.89320546776264,Female,Punjab,0,2,0,753
-129,Government Girls High School Chak No.54  S.B. East (Male) (P),31.87931098368655,72.89323222506904,Male,Punjab,2,0,986,0
-92,Government Boys Higher Secondary School Chak No.46 S.B. West (Male) (P),31.879461340463855,72.7765098869638,Male,Punjab,3,0,1575,0
-90,Government Boys Higher Secondary School Chak No.46 S.B. EAST(Male) (P),31.879493106022355,72.77653462206723,Male,Punjab,3,0,1654,0
-127,Government Boys High School Chak No.54 S.B.(Combined)  (P),31.8815434315449,72.89147243039041,Combined,Punjab,1,1,507,407
-128,Government Boys High School Chak No.54 S.B.(Combined)  (T),31.88158434431085,72.8914039506815,Combined,Punjab,2,2,845,673
-97,Govt. Boys  High  School Chak No.44/S.B.   (EAST)  (Combined)  (P),31.882387576787018,72.81897412779836,Combined,Punjab,2,2,914,816
-98,Govt.Boys High School Chak No.44S.B.(West)     (Combined) (P),31.882387576787018,72.8190041277984,Combined,Punjab,1,1,534,452
-95,Government Girls High School No.2 Chak No.115 S.B. (Female ) (T),31.88329175527199,72.75326876863834,Female,Punjab,0,3,0,1211
-94,Government Boys Primary School Chak No.115 S.B. (Male) (T),31.883957763246524,72.74943356041811,Male,Punjab,4,0,1684,0
-134,Government Community Model School Chak No.53 S.B. East (Male) (P),31.884988930903084,72.92988495238367,Male,Punjab,3,0,1433,0
-135,Government Community Model School Chak No.53 S.B. West (Female) (P),31.884988930903084,72.9299149523837,Female,Punjab,0,2,0,1200
-99,Government Girls Primary School Colony Mubark Pura Chak No.45  S.B.(Combined)(T),31.88716027406754,72.77621822496457,Combined,Punjab,1,1,578,396
-133,Govt. Girls Elementry School Chak No.53 S.B.(Combined)  (P),31.8878,72.9303,Combined,Punjab,1,1,538,374
-96,Government Girls Elementry School Chak No.43 S.B. (Combined)  (P),31.894028447113797,72.84742153817008,Combined,Punjab,2,2,1004,768
-100,Government Boys  High School Chak No.45 S.B. (EAST) (Combined) (P),31.89501115758181,72.8013831452136,Combined,Punjab,2,2,858,722
-101,(64) Government Boys  High School Chak No.45 S.B. (EAST) (Combined) (P),31.89501115758181,72.8014131452136,Combined,Punjab,1,1,409,346
-102,Govt. Boys  High School Chak No.45S.B. (West)    (Combined (P),31.89501115758181,72.8014431452136,Combined,Punjab,2,1,790,608
-103,Govt.Girls High School Chak No.45S.B.(West)        (Combined) (T),31.896040254284745,72.79914727089128,Combined,Punjab,2,1,677,517
-131,Government Boys Elementry School Chak No.52 S.B. (Combined)  (P),31.89917,72.9101,Combined,Punjab,1,1,547,427
-161,Government Boys High School Chak No 42 S.B.East (Male) (P),31.90207017608887,72.87599749794161,Male,Punjab,4,0,1893,0
-162,Government Boys High School Chak No 42 S.B.West (Male) (P),31.902074460883785,72.87603225755018,Male,Punjab,1,0,631,0
-163,Government Girls  Higher Secondary  School Chak No 42  S.B.East (Female) (P),31.904947580270886,72.87162833014733,Female,Punjab,0,3,0,1540
-164,Government Girls  Higher Secondary  School Chak No 42 S.B.West  (Female) (P),31.904947580270886,72.8716583301473,Female,Punjab,0,1,0,467
-117,Govt.Girls High School chak No.113 S.B. (EAST) (Male) (P),31.907688549283836,72.71037140572562,Male,Punjab,4,0,1873,0
-118,Govt. Girls High School chak No.113 S.B. (West) (Female) (P),31.907728742898723,72.71041687611782,Female,Punjab,0,3,0,1444
-120,Govt. Girls Model Primary School Chak No.116 S.B.(Combined) (T),31.908752589785372,72.6862763270144,Combined,Punjab,1,1,603,488
-116,Govt. Girls  Primary School Chak No.114 S.B.(Combined)  (T),31.90883129844849,72.73399421426959,Combined,Punjab,2,2,938,729
-168,Government Girls High School Chak No.41 S.B. West (Female) (P),31.90919221875118,72.84027203359994,Female,Punjab,0,2,0,830
-167,Government Girls High School Chak No.41 S.B. East (male) (P),31.911668504198392,72.83811026167966,Male,Punjab,2,0,993,0
-166,Govt.Girls High  School Chak No 37 S.B.(Combined) (P),31.922260777964926,72.86273930052103,Combined,Punjab,2,2,1034,900
-111,Govt. Boys High School Chak No.111 S.B. (Male) (P),31.922939892994417,72.73063507831874,Male,Punjab,3,0,1279,0
-112,(73) Govt. Boys High School Chak No.111 S.B. (Male) (P),31.922939892994417,72.7306650783187,Male,Punjab,2,0,1027,0
-165,Govt. Boys Elementary School Chak No 37 S.B.(Combined) (P),31.923849544098925,72.86070785077712,Combined,Punjab,1,1,438,381
-113,Govt.Girls Elementry  School Chak No.111 S.B. (Female)   (P),31.923944941032413,72.72904491699647,Female,Punjab,0,4,0,1695
-159,Government Boys High School Chak No 40 S.B. East (Male) (P),31.927840683945455,72.82508267500995,Male,Punjab,3,0,1251,0
-160,Government Boys High School Chak No 40 S.B.West (Female) (P),31.927862507453707,72.82508496211898,Female,Punjab,0,2,0,1081
-119,Govt.Girls High School Chak No.112S.B.(Combined)  (P),31.933958851192372,72.69170589419006,Combined,Punjab,2,2,991,862
-157,Govt. Boys Elementry School Chak NO.39 S.B. (Male)  (T),31.93551119595942,72.81324750318849,Male,Punjab,3,0,1282,0
-158,Government Girls Primary School Chak NO.39 S.B. (Female)  (T),31.935571525268497,72.81329860260513,Female,Punjab,0,2,0,1093
-184,Government Girls  High School Chak NO.142 S.B.  Female (P),31.945477231163768,72.65878026453498,Female,Punjab,0,3,0,1368
-153,Government Boys High School Chak No.36 S.B.(Combined) (P),31.946635592471644,72.84793089311113,Combined,Punjab,2,1,715,615
-182,Govt. Boys Elementry School Chak NO.142 S.B East (Combined) (P),31.947543708984647,72.66090165506792,Combined,Punjab,1,1,459,362
-183,Government Boys Elementry School Chak NO.142 S.B. west (Male)  (P),31.94756587375416,72.66088126025673,Male,Punjab,4,0,1701,0
-152,Govt. Girls High School Chak No.36 S.B. West (Combined)  (T),31.947953409891568,72.84283794141287,Combined,Punjab,2,2,893,755
-151,Govt.Girls High School Chak No.36S.B. East(Combined) (P),31.947979267254404,72.84283072230355,Combined,Punjab,1,1,555,456
-154,Govt.Girls Elementry School Chak NO.98 S.B.(Combined)(P),31.96242109915562,72.81731265806147,Combined,Punjab,2,2,1169,962
-142,Govt. Girls Elementry School Chak NO.97 S.B.(Combined) (P),31.980962628267108,72.78919134968892,Combined,Punjab,1,1,633,521
-181,Govt.Girls High School Chak NO.108 S.B. (Combined)(P),31.983275734466975,72.68805914882459,Combined,Punjab,2,2,1163,891
-155,Govt. Girls High School Chak No 90S.B. East (Combined)(P),31.989600387961918,72.83470900268289,Combined,Punjab,2,2,952,884
-156,Govt. Girls High School Chak No 90S.B. West (Combined) (P),31.989600387961918,72.8347390026829,Combined,Punjab,1,1,408,351
-173,Govet. Girls High School Chak No.109 S.B.  ( Male) (P),31.990334960974455,72.66528062394364,Male,Punjab,4,0,1975,0
-174,Govt. Boys  Higher Secondary School Chak No.109 S.B.   (Female) (P),31.990391044924475,72.6677847467912,Female,Punjab,0,3,0,1636
-146,Govt. Girls Elementry School Chak No 94 S.B.(Combined) (P),31.99040038825299,72.81893798618366,Combined,Punjab,2,1,678,546
-180,Govt. Girls High School Chak NO.104 S.B.  West (Female) (P),31.998460446040102,72.69982616236318,Female,Punjab,0,2,0,1071
-179,Government Girls High School Chak NO.104 S.B. East (Male)  (P),31.9984607321497,72.6998371030083,Male,Punjab,3,0,1425,0
-177,Govt.Boys High School Chak NO.104 S.B.(Combined)(T),32.00060070377327,72.69646096234318,Combined,Punjab,1,1,481,357
-178,(159) Govt.Boys High School Chak NO.104 S.B.(Combined)(T),32.00060070377327,72.6964909623432,Combined,Punjab,2,2,813,674
-140,Government Boys High School Chak NO.95 S.B.(Combined) (P),32.00211299276308,72.78180267345272,Combined,Punjab,2,2,819,716
-145,Govt. Girls Elementry School Chak No 92 S.B.(Combined)  (T),32.01082256239269,72.80270049030847,Combined,Punjab,2,1,809,613
-143,Government Girls High School Chak No.89 S.B.(Combined)  (P),32.01133124329087,72.82982484568866,Combined,Punjab,2,2,891,763
-185,Government Boys High School Chak No.88 N.B. East Male (P),32.011908888735,72.64948323346863,Male,Punjab,4,0,1805,0
-186,Government Boys High School Chak No.88 N.B. West  Female (P),32.011908888735,72.6495132334686,Female,Punjab,0,3,0,1551
-144,Govt.Boys Primary School Chak No.89 S.B.(Combined) (T),32.01327731674969,72.8294044063961,Combined,Punjab,1,1,601,496
-141,Govt. Girls Elementry School Chak NO.96 S.B.(Combined)  (P),32.018933379238646,72.7648253057365,Combined,Punjab,2,2,1001,862
-190,(170) Govt. Girls Primary School Chak No.50 N.B. Female  (P),32.04384,72.70676,Female,Punjab,0,3,0,1190
-37,Government Boys Primary School Chak No102 N.B. Male  (T),32.0556866,72.6330416,Male,Punjab,3,0,1508,0
-38,Government Girls  High School Chak No102 N.B. Female (P),32.0556866,72.6330716,Female,Punjab,0,3,0,1254
-39,Government Girls Elementry School Chak No.106 N.B. (Combined) (P),32.0556866,72.6331016,Combined,Punjab,2,2,822,692
-40,Government Boys Elementry School Chak No.89 N.B. (Male) (P),32.0556866,72.6331316,Male,Punjab,4,0,1897,0
-54,Govt.Girls Community Model School ChakNo.110/NB. (Male)  (T),32.0556866,72.6331616,Male,Punjab,2,0,1106,0
-55,(24) Govt.Girls Community Model School ChakNo.110/NB. (Female)  (T),32.0556866,72.6331916,Female,Punjab,0,2,0,883
-29,Government Boys  Model Primary School  Chak No.103 N.B. (Male) (T),32.0556866,72.6332216,Male,Punjab,3,0,1234,0
-84,Government Boys High School Chak No.101 N.B. (Male) (P),32.0556866,72.6332516,Male,Punjab,4,0,2308,0
-30,Government Girls Primary School  Chak No.103 N.B. (Female) (T),32.0556866,72.6332816,Female,Punjab,0,2,0,1047
-85,Government Girls  High School Chak No.101 N.B. (Female ) (P),32.0556866,72.6333116,Female,Punjab,0,4,0,1984
-86,Govt.GirlsPrimarySchool Chak No.97 N.B.(Combined)  (T),32.0556866,72.6333416,Combined,Punjab,2,2,895,766
-87,Government Girls High School Chak No.96 N.B.(Male)  (P),32.0556866,72.6333716,Male,Punjab,3,0,1400,0
-88,(52) Government Girls High School Chak No.96 N.B.(Female)  (P),32.0556866,72.6334016,Female,Punjab,0,2,0,1079
-89,Govt.Boys Elementary School Chak No.96 N.B.(Combined)  (P),32.0556866,72.6334316,Combined,Punjab,1,1,268,159
-49,Government Boys Elementry School Bahaik Maken(East)(Combined)  (P),32.0742027,72.6496718,Combined,Punjab,2,2,995,803
-50,Government Boys Elementry School Bahaik Maken (Combined) (West) (P),32.0742027,72.6497018,Combined,Punjab,1,1,532,436
-197,Government Girls Primary School Chak No.130/NB (Male) (T),32.0742027,72.6497318,Male,Punjab,4,0,1690,0
-198,Government Boys Primary School Chak No.130/NB(Female) (T),32.0742027,72.6497618,Female,Punjab,0,3,0,1317
-199,Government Girls Primary School(English Medium) Chak No.138/SB (Combined) (Aslam Colony) (T),32.0742027,72.6497918,Combined,Punjab,2,2,880,666
-200,O/O Union Council Chak No.138/SB (Combined) (T),32.0742027,72.6498218,Combined,Punjab,2,2,959,769
-201,Government Degree College for Women- Sillanwali.(Combined) (T),32.0742027,72.6498518,Combined,Punjab,2,2,1091,798
-202,Govt. Girls Middle School Chak No.140/SB (Combined)(P),32.0742027,72.6498818,Combined,Punjab,2,1,717,561
-53,Govt.Girls PrimarySchool  Chak No.112 N.B.(Combined) (T),32.0742027,72.6499118,Combined,Punjab,2,2,971,783
-203,Govt. Girls Primary School Chak No.141/SB (Combined) (T),32.0742027,72.6499418,Combined,Punjab,1,1,661,530
-204,Govt.Boys Primary School Chak No.132/NB(Combined) (T),32.0742027,72.6499718,Combined,Punjab,2,1,762,594
-205,Government Girls High School Chak No.122/NB (East) (Male) (T),32.0742027,72.6500018,Male,Punjab,3,0,1340,0
-206,Government Girls High School Chak No.122/NB(West)  (Female) (T),32.0742027,72.6500318,Female,Punjab,0,2,0,1133
-207,Govt. Girls High School Chak No.121/NB (Combined)(T),32.0742027,72.6500618,Combined,Punjab,2,2,892,769
-208,Government Boys Primry School Chak No.134/SB(Male) (T),32.0742027,72.6500918,Male,Punjab,2,0,1160,0
-209,Government Girls Primry School Chak No.134/SB(Female) (T),32.0742027,72.6501218,Female,Punjab,0,2,0,915
-212,Govt.Girls Elementary School Chak No.120/NB (Combined) (P),32.0742027,72.6501518,Combined,Punjab,2,1,822,673
-215,Govt.Boys Primary School Chak No.137/SB (Combined) (T),32.0742027,72.6501818,Combined,Punjab,2,2,935,828
-216,Government Boys Primary School Chak No.139/SB(Male) (T),32.0742027,72.6502118,Male,Punjab,3,0,1636,0
-217,Government Girls Primary School Chak No.139/SB(Female) (T),32.0742027,72.6502418,Female,Punjab,0,3,0,1422
-218,Govt .Boys High School Chak No.132/SB(East) (Male) (T),32.0742027,72.6502718,Male,Punjab,3,0,1581,0
-219,Government Boys High School Chak No.132/SB(West) (Female) (P),32.0742027,72.6503018,Female,Punjab,0,3,0,1257
-220,Government Boys Elementary School Chak No.136/SB(Male) (T),32.0742027,72.6503318,Male,Punjab,3,0,1249,0
-221,Government Girls  Elementary School Chak No.136/SB(Female) (T),32.0742027,72.6503618,Female,Punjab,0,2,0,1106
-222,Govt.Boys High School Chak No.133/SB(East) (Male) (P),32.0742027,72.6503918,Male,Punjab,4,0,1656,0
-223,Govt. Boys High School Chak No.133/SB(West) (Female) (P),32.0742027,72.6504218,Female,Punjab,0,3,0,1395
-234,Government Boys Higher Secondary School Chak No.126/SB(East) (Male) (P),32.0742027,72.6504518,Male,Punjab,3,0,1528,0
-235,Government Boys Higher Secondary School Chak No.126/SB(West) (Female) (P),32.0742027,72.6504818,Female,Punjab,0,2,0,1153
-236,Govt. Boys Elementary School Chak No.128/SB(Combined)(T),32.0742027,72.6505118,Combined,Punjab,2,1,727,520
-237,Govt.Girls Elementary School Chak No.128/SB(Combined) (T),32.0742027,72.6505418,Combined,Punjab,1,1,540,356
-238,Govt. Boys Elementary School Chak No.130/SB.(Combined) (T),32.0742027,72.6505718,Combined,Punjab,1,1,511,449
-239,(269) Govt. Boys Elementary School Chak No.130/SB.(Combined) (T),32.0742027,72.6506018,Combined,Punjab,1,1,621,522
-240,Government Boys High School Chak No.48/SB (Combined) (P),32.0742027,72.6506318,Combined,Punjab,2,1,662,533
-241,Government Girls High School Chak No.48/SB (Combined)(P),32.0742027,72.6506618,Combined,Punjab,2,1,693,604
-246,Government Boys Higher Secondary School Chak No.118/SB(East) (Male) (P),32.0742027,72.6506918,Male,Punjab,4,0,1948,0
-247,Government Boys Higher Secondary School Chak No.118/SB(West) (Female) (P),32.0742027,72.6507218,Female,Punjab,0,3,0,1413
-248,Government Girls High School Chak No.122/SB(East) (Male) (P),32.0742027,72.6507518,Male,Punjab,4,0,1757,0
-249,Government Girls High School Chak No.122/SB(West) (Female) (P),32.0742027,72.6507818,Female,Punjab,0,3,0,1393
-250,Government Boys High School Chak No.125/SB(East) Male) (P),32.0742027,72.6508118,Male,Punjab,3,0,1583,0
-251,Government Boys High School Chak No.125/SB(West) (Female) (P),32.0742027,72.6508418,Female,Punjab,0,2,0,1157
-252,Government Girls High  School Chak No.117/S.B. (East)( Male) (T),32.0742027,72.6508718,Male,Punjab,3,0,1275,0
-253,Government Girls High  School Chak No.117/S.B. (West) (Female) (T),32.0742027,72.6509018,Female,Punjab,0,2,0,1106
-254,Govt. Boys High School Chak No.123/SB (Combined) (T),32.0742027,72.6509318,Combined,Punjab,2,1,750,611
-255,Government Boys Primary School Chak No.124/SB(Male) (T),32.0742027,72.6509618,Male,Punjab,3,0,1287,0
-256,Government Girls Elementary School Chak No.124/SB(Female) (T),32.0742027,72.6509918,Female,Punjab,0,2,0,1009
-257,Govt. Boys Primary School Chak No.129/SB(Combined) (T),32.0742027,72.6510218,Combined,Punjab,2,2,874,663
-258,Govt. Girls High School Chak No.129/SB (Combined) (T),32.0742027,72.6510518,Combined,Punjab,1,1,430,349
-259,Govt Girls Elementary School Chak No.131/SB (Combined)(P),32.0742027,72.6510818,Combined,Punjab,2,2,1153,844
-260,Government Girls Higher Secondry School Chak No.127/SB (East)(Combined)(T),32.0742027,72.6511118,Combined,Punjab,2,2,993,801
-261,Govt.Girls Higher Secndry School ChakNo.127/SB (West) (Combined) (T),32.0742027,72.6511418,Combined,Punjab,2,2,941,656
-262,Government Girls High School Chak No.107/NB (Combined) (P),32.0742027,72.6511718,Combined,Punjab,2,2,979,823
-263,Government Boys Primary School Chak No.111/NB (Combined)(T),32.0742027,72.6512018,Combined,Punjab,2,2,869,721
-264,Government Boys High School Chak No.121/SB (Combined)(P),32.0742027,72.6512318,Combined,Punjab,2,2,896,726
-265,(294) Government Boys High School Chak No.121/SB (Combined)(P),32.0742027,72.6512618,Combined,Punjab,1,1,440,358
-266,Government Boys High School Chak No.113/NB(East) (Male) (P),32.0742027,72.6512918,Male,Punjab,2,0,1119,0
-267,Government Boys High School Chak No.113/NB(West) (Female) (P),32.0742027,72.6513218,Female,Punjab,0,2,0,959
-268,Government Girls High School Chak No.114/NB (Combined) (T),32.0742027,72.6513518,Combined,Punjab,2,2,962,820
-269,Government Girls Elementary School Chak No.115/NB (Combined) (T),32.0742027,72.6513818,Combined,Punjab,2,2,885,739
-72,Government Boys Primary School Chak N0.81 N.B. Malwana (Male) (T),32.0742027,72.6514118,Male,Punjab,3,0,1113,0
-73,Government Boys Primary School Chak No.81 N.B. (Female) (T),32.0742027,72.6514418,Female,Punjab,0,2,0,875
-74,Government Boys Higher Secondary School Chak No.82 N.B.(Male)  (P),32.0742027,72.6514718,Male,Punjab,2,0,1210,0
-75,(40) Government Boys Higher Secondary School Chak No.82 N.B.(Female)  (P),32.0742027,72.6515018,Female,Punjab,0,2,0,1001
-76,Govt.Girls Elementary School Chak No.82 N.B.(Combined)  (T),32.0742027,72.6515318,Combined,Punjab,1,1,337,236
-78,Govt. Boys Elementary School Chak No.93 N.B. Male (T),32.0742027,72.6515618,Male,Punjab,4,0,1944,0
-79,Govt. Girls Elementary School Chak No.93 N.B. Female (T),32.0742027,72.6515918,Female,Punjab,0,3,0,1573
-80,Govt. Boys Primary School chak No.83/ NB (Combined) (T),32.0742027,72.6516218,Combined,Punjab,2,2,911,728
-81,Govt. Girls Elementry School Chak No.190 N.B.(Combined)  (T),32.0742027,72.6516518,Combined,Punjab,2,2,992,785
-82,Government Girls  Elementary School Chak No.190 N.B. Tarkota. (Combined) (T),32.0742027,72.6516818,Combined,Punjab,1,1,630,521
-147,Govt. Girls High School Chak No100 S.B. East (Male) (P),32.07607941139094,72.66580542644803,Male,Punjab,3,0,1327,0
-148,Government Girls High School Chak No100 S.B. East (Female)  (P),32.07607941139094,72.665835426448,Female,Punjab,0,2,0,1088
-149,Govt. Boys High School Chak No.101 S.B.(Combined) (P),32.07607941139094,72.665865426448,Combined,Punjab,2,1,774,619
-150,Government Girls High School Chak No102 S.B. (P)(Combined),32.07607941139094,72.665895426448,Combined,Punjab,2,2,943,797
-169,Govt. Girls High School Chak No.98 N.B. East (Combined) (P),32.07607941139094,72.665925426448,Combined,Punjab,2,2,1021,845
-170,Govt. Girls High School Chak No.98 N.B. West(Combined) (P),32.07607941139094,72.665955426448,Combined,Punjab,2,2,903,755
-171,Government Boys High School Chak No.99 N.B.(Male)  (P),32.07607941139094,72.665985426448,Male,Punjab,3,0,1340,0
-172,(154) Government Boys High School Chak No.99 N.B.(Female)  (P),32.07607941139094,72.666015426448,Female,Punjab,0,2,0,1058
-175,Govt. Girls Elementry School Chak NO.100 N.B.  East (Male) (P),32.07607941139094,72.666045426448,Male,Punjab,3,0,1273,0
-176,Govt.Girls Elementry School Chak NO.100 N.B.  West  (Female)  (T),32.07607941139094,72.666075426448,Female,Punjab,0,2,0,1012
-187,Government Girls High School Chak No.50 N.B. East (Male-I)  (P),32.07607941139094,72.666105426448,Male,Punjab,3,0,1566,0
-188,Government Girls High School Chak No.50 N.B. West (Male-II)  (P),32.07607941139094,72.666135426448,Male,Punjab,3,0,1182,0
-189,Govt. Boys Primary School Chak No.50 N.B. Female  (P),32.07607941139094,72.666165426448,Female,Punjab,0,2,0,1088
-191,Govt. Girls Elementry School Chak No.51 N.B.(Combined)  (P),32.07607941139094,72.666195426448,Combined,Punjab,2,2,806,711
-192,Govt. Boys Primary School Chak No.99 S.B.(Combined) (T),32.07607941139094,72.666225426448,Combined,Punjab,2,2,849,684
-193,Govt. Girls High School Chak No103 S.B.(Combined)  (T),32.07607941139094,72.666255426448,Combined,Punjab,2,2,949,770
-194,Govt.Boys Elementary School Chak No.103 S.B.(Combined)  (T),32.07607941139094,72.666285426448,Combined,Punjab,1,1,506,390
-195,Govt. Boys Primary School No 2 Asianwala Near B.H.U (Male) (T),32.07607941139094,72.666315426448,Male,Punjab,2,0,1103,0
-104,Govt.Girls Higher Secondary School Chak No.105/S.B.(EAST)  (Combined) (P),32.07607941139094,72.666345426448,Combined,Punjab,1,1,616,578
-105,Govt. Girls Higher Secondary School Chak No.105 S.B. (West ) (Combined) (P),32.07607941139094,72.666375426448,Combined,Punjab,1,1,632,532
-106,Govt. Girls Elementry School Chak No.106/S.B.(Combined) (P),32.07607941139094,72.666405426448,Combined,Punjab,2,2,939,775
-107,Govt.Girls High School Chak No.107/S.B. (East)(Combined)  (P),32.07607941139094,72.666435426448,Combined,Punjab,1,1,649,556
-108,Government Girls High School Chak No.107 S.B.(Combined)  (West) (P),32.07607941139094,72.666465426448,Combined,Punjab,1,1,547,446
-109,(71) Government Girls High School Chak No.107 S.B.(Combined)  (West) (P),32.07607941139094,72.666495426448,Combined,Punjab,2,1,798,599
-110,Govt. Girls High School Chak No.107S.B.(North)(Combined) (P),32.07607941139094,72.666525426448,Combined,Punjab,2,2,908,727
-114,Govt. Girls Elementry School Chak No.110S.B.(Combined)  (T),32.07607941139094,72.666555426448,Combined,Punjab,2,2,856,751
-115,Govt. Boys Primary School Chak No.110 S.B. Ahli Rawan (Combined)  (P),32.07607941139094,72.666585426448,Combined,Punjab,1,1,576,468
-280,GOVERNMENT GIRLS PRIMARY SCHOOL- CHAK NO.134  NB (COMB) (T),32.0762796,72.6600204,Combined,Punjab,2,1,816,646
-281,GOVERNMENT BOYS HIGH  SCHOOL- CHAK  142  NB (COMB) (P),32.0762796,72.6600504,Combined,Punjab,2,2,1137,845
-282,GOVERNMENT BOYS ELEMENTARY  SCHOOL- CHAK 166/167 NB (MALE)  (T),32.0762796,72.6600804,Male,Punjab,3,0,1233,0
-283,GOVERNMENT GIRLS  PRIMARY SCHOOL- CHAK  166/167 NB (FEMALE)  (T),32.0762796,72.6601104,Female,Punjab,0,2,0,958
-299,GOVERNMENT GIRLS ELEMENTARY SCHOOL-  CHAK NO.143 NB (COMB)  (T),32.0762796,72.6601404,Combined,Punjab,2,2,883,678
-278,GOVERNMENT GIRLS ELEMENTARY SCHOOL- CHAK NO.141  NB (COMB) (T),32.0762796,72.6601704,Combined,Punjab,2,2,1015,803
-279,GOVERNMENT BOYS ELEMENTARY SCHOOL- CHAK NO.131  NB  (COMB) (T),32.0762796,72.6602004,Combined,Punjab,2,2,991,766
-329,GOVERNMENT GIRLS  HIGH SCHOOL- NISHATABAD/CHNANAN PURA SILLANWALI (MALE) (T),32.07632062814441,72.66015159811019,Male,Punjab,3,0,1241,0
-330,VETNERY HOSPITAL- NISHATABAD SILLANWALI (FEMALE) (T),32.07632062814441,72.6601815981102,Female,Punjab,0,2,0,926
-331,GOVERNMENT BOYS PRIMARY SCHOOL NO 4- ZAFAR ABAD-SILLANWALI (MALE) (T),32.07632062814441,72.6602115981102,Male,Punjab,4,0,1805,0
-332,DEPUTY EDUCATION OFFICER -SILLANWALI (FEMALE) (T),32.07632062814441,72.6602415981102,Female,Punjab,0,3,0,1571
-333,GOVERNMENT GIRLS HIGH SCHOOL- SILLANWALI (MALE) (P),32.07632062814441,72.6602715981102,Male,Punjab,3,0,1482,0
-334,GOVERNMENT BOYS PRIMARY  SCHOOL- NO.1 SILLANWALI (FEMALE) (P),32.07632062814441,72.6603015981102,Female,Punjab,0,3,0,1274
-335,GOVERNMENT BOYS PRIMARY SCHOOL- ISLAM NAGAR SILLANWALI (MALE) (T),32.07632062814441,72.6603315981102,Male,Punjab,4,0,1731,0
-336,GOVERNMENT GIRLS  PRIMARY SCHOOL- ISLAM NAGAR SILLANWALI (FEMALE) (T),32.07632062814441,72.6603615981102,Female,Punjab,0,3,0,1418
-337,GOVERNMENT BOYS DEGREE COLLEGE SILLANWALI (MALE) (P),32.07632062814441,72.6603915981102,Male,Punjab,2,0,1101,0
-338,(63) GOVERNMENT BOYS DEGREE COLLEGE SILLANWALI (MALE) (P),32.07632062814441,72.6604215981102,Male,Punjab,2,0,983,0
-339,GOVERNMENT BOYS DEGREE COLLEGE SILLANWALI (FEMALE) (P),32.07632062814441,72.6604515981102,Female,Punjab,0,3,0,1680
-340,Municipal Administration Hall Sillanwali (MALE) (P),32.07632062814441,72.6604815981102,Male,Punjab,3,0,1535,0
-341,Municipal Administration Hall Sillanwali (FEMALE) (P),32.07632062814441,72.6605115981102,Female,Punjab,0,3,0,1283
-342,GOVERNMENT BOYS HIGH SCHOOL NO.1 SILLANWALI (MALE) (P),32.07632062814441,72.6605415981102,Male,Punjab,3,0,1318,0
-343,GOVERNMENTBOYS  HIGH SCHOOL NO.1 SILLANWALI (FEMALE) (P),32.07632062814441,72.6605715981102,Female,Punjab,0,2,0,1109
-2,Government Boys Elementary School Chak No.53 N.B.  (Male)  (P),32.076594919655825,72.65878769524572,Male,Punjab,3,0,1373,0
-3,Government Boys Elementary School Chak No.53 N.B. (Female ) (P),32.076594919655825,72.6588176952457,Female,Punjab,0,2,0,1123
-4,Government Boys Primary School Chak No.52 N.B.  (T)(Combined),32.076594919655825,72.6588476952457,Combined,Punjab,2,2,991,795
-5,Government Boys High  School Chak No.52 A/NB (East) (P)(Combined),32.076594919655825,72.6588776952457,Combined,Punjab,2,2,901,740
-6,Government Boys High  School Chak No.52 A/NB (West) (P)(Combined),32.076594919655825,72.6589076952457,Combined,Punjab,2,2,1284,1130
-7,Government Girls  High  School Chak NO.52 A/NB (P)(Combined),32.076594919655825,72.6589376952457,Combined,Punjab,1,1,597,478
-10,Government Boys Primary School Chak NO.54 N.B.  (T)(Combined),32.076594919655825,72.6589676952457,Combined,Punjab,1,1,655,532
-8,Government Boys High School Chak No.55 N.B.  (Male)  (P),32.076594919655825,72.6589976952457,Male,Punjab,3,0,1233,0
-9,Government Boys High School Chak No.55 N.B. (Female) (P),32.076594919655825,72.6590276952457,Female,Punjab,0,2,0,982
-11,(293) Government Girls Community Model School 54 NB (Combine),32.076594919655825,72.6590576952457,Combined,Punjab,1,1,578,482
-12,Government Boys Elementry  School Chak NO.66 N.B.  (Combined)  (P),32.076594919655825,72.6590876952457,Combined,Punjab,2,2,694,636
-13,Government Boys Elementry School Chak NO.66 N.B. (Female ) (T),32.076594919655825,72.6591176952457,Female,Punjab,0,2,0,1288
-14,Government Girls Elementry  School Chak No.66 N.B.  (T)(Combined),32.076594919655825,72.6591476952457,Combined,Punjab,1,1,572,500
-15,Government Boys Elementary  School Chak No.69 N.B.  (T)(Combined),32.076594919655825,72.6591776952457,Combined,Punjab,2,1,726,557
-16,Government Boys Elementary School Chak No.74 N.B. East  (P)(Combined),32.076594919655825,72.6592076952457,Combined,Punjab,1,1,433,385
-17,Government Boys  Elementary  School Chak No.74 N.B.West (P)(Combined),32.076594919655825,72.6592376952457,Combined,Punjab,2,2,853,681
-18,Government Boys Elementary School Chak No.75 N.B.  (T)(Combined),32.076594919655825,72.6592676952457,Combined,Punjab,2,2,1121,966
-19,Government Boys Primary School Chak No.1 Rakh Dhareema  (T)(Combined),32.076594919655825,72.6592976952457,Combined,Punjab,1,1,639,486
-20,Government Boys Primary School Chak No.2 Rakh Dhareema  (T)(Combined),32.076594919655825,72.6593276952457,Combined,Punjab,2,2,1004,850
-21,Government Boys Primary School Chak No 3  Rakh Dhareema  (T)(Combined),32.076594919655825,72.6593576952457,Combined,Punjab,1,1,484,336
-22,Government Boys Primary School Chak No.4 Rakh Dhareema (T)(Combined),32.076594919655825,72.6593876952457,Combined,Punjab,1,1,375,292
-23,Government Boys Primary School Chak No.5 Rakh Dhareema/ Mangla Dam  (T)(Male),32.076594919655825,72.6594176952457,Male,Punjab,3,0,1256,0
-1,Government Vaterinary Hospital- Jhal Chakian (Male),32.076594919655825,72.6594476952457,Male,Punjab,3,0,1521,0
-270,GOVERNMENT GIRLS ELEMENTARY SCHOOL- CHAK NO.129 NB (MALE) (T),32.076594919655825,72.6594776952457,Male,Punjab,3,0,1216,0
-271,(1) GOVERNMENT GIRLS ELEMENTARY SCHOOL- CHAK NO.129 NB (COMB) (T),32.076594919655825,72.6595076952457,Female,Punjab,0,2,0,1119
-289,GOVERNMENTGIRLS  HIGH SCHOOL CHAK NO.135 NB (MALE) (T),32.076594919655825,72.6595376952457,Male,Punjab,3,0,1479,0
-290,GOVERNMENT GIRLS HIGH SCHOOL CHAK NO.135 NB (FEMALE) (T),32.076594919655825,72.6595676952457,Female,Punjab,0,2,0,1214
-297,GOVERNMENT BOYS HIGH SCHOOL- CHAK NO.147/148 NB (MALE) (P),32.076594919655825,72.6595976952457,Male,Punjab,3,0,1599,0
-298,GOVERNMENT BOYS HIGH SCHOOL- CHAK NO.147/148 NB (FEMALE) (P),32.076594919655825,72.6596276952457,Female,Punjab,0,2,0,1259
-300,GOVERNMENT GIRLS ELEMENTARY SCHOOL-  CHAK NO.146 NB  (COMB)  (P),32.076594919655825,72.6596576952457,Combined,Punjab,1,1,521,430
-301,GOVERNMENT GIRLS PRIMARY SCHOOL-  CHAK .149/150 NB  (COMB)  (T),32.076594919655825,72.6596876952457,Combined,Punjab,2,1,771,598
-274,GOVERNMENT GIRLS HIGH SCHOOL- CHAK NO.125 NB (MALE)  (T),32.076594919655825,72.6597176952457,Male,Punjab,3,0,1432,0
-275,GOVERNMENT GIRLS HIGH SCHOOL- CHAK NO.125 NB (FEMALE) (T),32.076594919655825,72.6597476952457,Female,Punjab,0,2,0,1211
-319,GOVERNMENT GIRLS  PRIMARY SCHOOL- CHAK NO.133 NB  (Male)  (T),32.076594919655825,72.6597776952457,Male,Punjab,3,0,1240,0
-321,GOVERNMENT BOYS MIDDLE SCHOOL- CHAK NO.136 NB  (COMB)  (P),32.076594919655825,72.6598076952457,Combined,Punjab,2,1,773,575
-276,GOVERNMENT GIRLS PRIMARY SCHOOL- CHAK NO.128 NB (COMB) (T),32.076594919655825,72.6598376952457,Combined,Punjab,2,2,993,861
-277,GOVERNMENT GIRLS ELEMENTARY SCHOOL- CHAK 144/145  NB  (COMB) (T),32.076594919655825,72.6598676952457,Combined,Punjab,2,2,1012,794
-25,Government Girls Model Primary School Chak No.104 ANB (Male)(T),32.0772413,72.661497,Male,Punjab,3,0,1358,0
-26,(1) Government Girls Model Primary School Chak No.104 ANB (Female)(T),32.0772413,72.661527,Female,Punjab,0,2,0,1159
-36,Government Boys Elementary School Chak No.187 N.B. (Combined) (T),32.0772413,72.661557,Combined,Punjab,1,1,499,404
-41,Government Girls Elementry School Chak No.89 N.B. (Female) (P),32.0772413,72.661587,Female,Punjab,0,3,0,1622
-42,Government Boys High School Chak No.84 N.B. (Male) (P),32.0772413,72.661617,Male,Punjab,2,0,1152,0
-43,(16) Government Boys High School Chak No.84 N.B. (Male) (P),32.0772413,72.661647,Male,Punjab,3,0,1393,0
-44,(17) Government Girls High School Chak No.84 N.B. (Female) (P),32.0772413,72.661677,Female,Punjab,0,2,0,691
-45,Government Girls High School Chak No.84 N.B. (Female) (P),32.0772413,72.661707,Female,Punjab,0,3,0,1423
-46,Government Boys Elementry School Chak No.92/NB   (Male) (P),32.0772413,72.661737,Male,Punjab,2,0,960,0
-47,(18) Government Boys Middle School Chak No.92/NB   (Male) (P),32.0772413,72.661767,Male,Punjab,2,0,1079,0
-48,Government Boys Elementry    School Chak No.92/NB(Female) (P),32.0772413,72.661797,Female,Punjab,0,3,0,1598
-27,Government Boys Higher Secondary School Chak No.104 N.B. (Male) (P),32.0772413,72.661827,Male,Punjab,2,0,1130,0
-51,Government Girls Elementry School Chak No.109/NB (Combined) (P),32.0772413,72.661857,Combined,Punjab,2,1,754,598
-52,(22) Government Girls Elementry School Chak No.109/NB (Combined) (P),32.0772413,72.661887,Combined,Punjab,2,1,675,505
-56,Government Boys Primary School Chak No.85 N.B. (Male) (T),32.0772413,72.661917,Male,Punjab,4,0,1727,0
-57,Government Girls Community Model School Chak No.85 N.B. (Female)  (T),32.0772413,72.661947,Female,Punjab,0,3,0,1371
-58,Government Girls High School Chak No.90 N.B. (East) (Male) (P),32.0772413,72.661977,Male,Punjab,4,0,1938,0
-59,Government Girls High School Chak No.90 N.B. (West  (Female) (P),32.0772413,72.662007,Female,Punjab,0,3,0,1494
-60,Govt.Boys Elementary School Chak No.95 N.B.(Male) (T),32.0772413,72.662037,Male,Punjab,3,0,1602,0
-61,(29) Govt.Boys Elementary School Chak No.95 N.B.(Female) (T),32.0772413,72.662067,Female,Punjab,0,3,0,1217
-28,Government Girls  Primary School Chak No.104 N.B. (Female) (P),32.0772413,72.662097,Female,Punjab,0,2,0,901
-62,Govt.Girls Elementary School ChakNo.105/N.B.(Combined)  (T),32.0772413,72.662127,Combined,Punjab,2,2,963,736
-63,Government Boys Elementary  School Chak No.94 N.B. (Male) (P),32.0772413,72.662157,Male,Punjab,3,0,1505,0
-64,Government Girls Primary School Chak No.94 N.B. (Female ) (P),32.0772413,72.662187,Female,Punjab,0,2,0,1247
-65,Government Boys Elementary School Chak No.91 N.B. (Male) (T),32.0772413,72.662217,Male,Punjab,4,0,2130,0
-66,Government Girls High School Chak No.91 N.B. (Female) (T),32.0772413,72.662247,Female,Punjab,0,4,0,1773
-67,Government Boys High School- Kolowal (Male)(P),32.0772413,72.662277,Male,Punjab,2,0,1155,0
-68,(35) Government Boys High School- Kolowal (Female)(P),32.0772413,72.662307,Female,Punjab,0,2,0,852
-69,(36) Government Girls Primary School Chak No.189 N.B.(Female)(T),32.0772413,72.662337,Female,Punjab,0,2,0,891
-70,Government Girls Primary School Chak No.189 N.B.(Male)(T),32.0772413,72.662367,Male,Punjab,2,0,1122,0
-71,Government Boys Elementary School Chak No.63 N.B. (Combined) (T),32.0772413,72.662397,Combined,Punjab,1,1,622,516
-77,Government Boys Primary School Salarwala (Combined)(T),32.0772413,72.662427,Combined,Punjab,1,1,484,398
-83,Government Boys High  School Chak No.188 N.B.(Combined)  (P),32.0772413,72.662457,Combined,Punjab,1,1,497,392
-31,Government Boys Elementary School Chak No.108/N.B.  (Male) (T),32.0772413,72.662487,Male,Punjab,2,0,1106,0
-32,(6) Government Boys Elementary School Chak No.108/N.B.  (Female) (T),32.0772413,72.662517,Female,Punjab,0,2,0,874
-33,Government Boys Primary School  Chak No.67 A.N.B (Combined) (T),32.0772413,72.662547,Combined,Punjab,1,1,437,383
-34,Government Boys Elementary School Chak No.67 N.B. (Bhucheranwala) (Combined)(T),32.0772413,72.662577,Combined,Punjab,2,2,1089,942
-35,Government Boys Primary School Chak No.68 N.B. (Combined) (T),32.0772413,72.662607,Combined,Punjab,1,1,420,320
-24,(305) Government Girls Primary School Chak No.5 Rakh Dhareema/Mangla Dam  (T)(Female),32.1907,72.58275,Female,Punjab,0,2,0,998
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 310 - GOVERNMENT BOYS MOEDL MIDDLE SCHOOL CHAK NO.165 NB  (COMB)  (T),31.598096540462436,72.24191451783655,Combined,Punjab,1,1,631,491
+ 312 - GOVERNMENT BOYS  HIGH SCHOOL CHAK .162/164 NB (MALE) (T),31.605501154684248,72.25840187279515,Male,Punjab,3,0,1343,0
+ 313 - GOVERNMENT BOYS HIGH SCHOOL CHAK .162/164 NB (FEMALE) (T),31.605541625957063,72.25841747802956,Female,Punjab,0,2,0,1130
+ 308 - GOVERNMENT BOYS PRIMARY SCHOOL No 2- CHAK NO.163 NB (MALE) (T),31.60599783118731,72.24928861488002,Male,Punjab,3,0,1400,0
+ 309 - GOVERNMENTGIRLS HIGH SCHOOL - CHAK NO.163 NB (FEMALE) (T),31.607214634369807,72.24602899850757,Female,Punjab,0,2,0,1070
+ 311 - GOVERNMENT BOYS ELEMENTARY SCHOOL CHAK .160/N.B (COMB)  (T),31.625569820649698,72.28894064205377,Combined,Punjab,2,1,821,619
+ 307 - GOVERNMENT GIRLS ELEMENTARY SCHOOL - CHAK NO.161 NB (FEMALE) (T),31.63550959647124,72.2719683022406,Female,Punjab,0,2,0,990
+ 306 - GOVERNMENT BOYS PRIMARY SCHOOL - CHAK NO.161 NB (MALE) (T),31.636527737554708,72.27378477817254,Male,Punjab,3,0,1353,0
+ 285 - GOVERNMENT BOYS  HIGHER SECONDARY  SCHOOL        CHAK NO.157 NB (COMB) (P),31.64950131457545,72.32700799194048,Male,Punjab,3,0,1275,0
+ 286 - (15) GOVERNMENT BOYS  HIGHER SECONDARY  SCHOOL        CHAK NO.157 NB (COMB) (P),31.64950131457545,72.3270379919405,Female,Punjab,0,2,0,1084
+ 284 - GOVERNMENT BOYS  HIGHER SECONDARY   SCHOOL        CHAK NO.157 NB  (COMB) (P),31.64954602065771,72.32702950321796,Combined,Punjab,2,1,839,593
+ 328 - GOVERNMENTBOYS  PRIMARY SCHOOL- CHAK NO.174 NB   (COMB)  (T),31.65090833544784,72.34653527770882,Combined,Punjab,1,1,476,348
+ 287 - GOVERNMENT BOYS PRIMARY SCHOOL- CHAK NO.158  NB (COMB) (T),31.657737242209944,72.29402732834848,Combined,Punjab,1,1,315,246
+ 288 - GOVERNMENT GIRLS  MIDDLE  SCHOOL- CHAK NO.159  NB (COMB) (P),31.657737242209944,72.2940573283485,Combined,Punjab,2,1,874,645
+ 295 - (23) GOVERNMENT GIRLS ELEMENTARY SCHOOL 155 NB (Female),31.66651,72.32273,Female,Punjab,0,2,0,941
+ 294 - GOVERNMENT BOYS PRIMARY SCHOOL- CHAK NO.155  NB  (Male)  (T),31.66716070511502,72.32216543533464,Male,Punjab,2,0,1174,0
+ 293 - GOVERNMENT BOYS PRIMARY SCHOOL- CHAK NO.155  NB  (COMB)  (T),31.66719951171171,72.32215412094627,Combined,Punjab,2,1,787,573
+ 292 - GOVERNMENT BOYS ELEMENTARY SCHOOL- CHAK NO.154  NB  (COMB)  (T),31.67865642146479,72.331609256932,Combined,Punjab,2,2,892,721
+ 296 - GOVERNMENT BOYS HIGH SCHOOL- CHAK NO.156 NB  (COMB)  (T),31.68044448128515,72.30342556370452,Combined,Punjab,2,2,914,759
+ 326 - GOVERNMENT GIRLS  PRIMARY SCHOOL- CHAK NO.153 NB  (COMB)  (T),31.690850412339355,72.34055829742532,Combined,Punjab,1,1,499,365
+ 327 - GOVERNMENTBOYS  PRIMARY SCHOOL-2 CHAK NO.173 NB (T) *Combined),31.691806901535145,72.39275709680147,Combined,Punjab,1,1,484,368
+ 325 - GOVERNMENT BOYS  PRIMARY SCHOOL- CHAK NO.170/172  NB  (COMB)  (T),31.69653378631567,72.40965281604252,Combined,Punjab,2,1,761,568
+ 305 - GOVERNMENT BOYS ELEMENTARY SCHOOL CHAK NO.169 NB  (COMB)  (T),31.69715444064663,72.44239308703274,Combined,Punjab,2,2,1133,889
+ 315 - GOVERNMENT  B0YS PRIMARY SCHOOL CHAK NO.151 NB SAMURANWALA (MAKHANWALA)  (COMB)  (T),31.707377393060888,72.36963713023111,Combined,Punjab,1,1,452,311
+ 324 - GOVERNMENT GIRLS COMMUNITY MODEL ELEMENTARY SCHOOL CHAK NO.173/NB SOBHAGA  (COMB)  (T),31.712397140815366,72.39725553627444,Combined,Punjab,2,2,974,793
+ 314 - GOVERNMENT  B0YS ELEMENTARY SCHOOL CHAK NO.151 NB (KALYARANWALA)  (COMB)  (T),31.71494492744914,72.37609468841912,Combined,Punjab,1,1,648,471
+ 302 - GOVERNMENT BOYS HIGH SCHOOL- CHAK NO.168/171 NB (MALE) (P),31.71717309104883,72.44092443439271,Male,Punjab,2,0,1171,0
+ 303 - (30) GOVERNMENT BOYS HIGH SCHOOL- CHAK NO.168/171 NB (MALE) (P),31.71717309104883,72.4409544343927,Male,Punjab,2,0,914,0
+ 317 - GOVOT. BOYS HIGH  SCHOOL CHAK NO.152 NB (MALE) (P),31.717357336649904,72.35437383227915,Male,Punjab,3,0,1241,0
+ 318 - GOVERNMENT BOYS HIGH  SCHOOL CHAK NO.152 NB (FEMALE) (P),31.717357336649904,72.3544038322791,Female,Punjab,0,2,0,947
+ 304 - `Govt. Girls Elementary School Chak No. .168/171 NB  NB (FEMALE) (P),31.717610884428055,72.4413389792957,Female,Punjab,0,3,0,1655
+ 316 - GOVERNMENT GIRLS HIGH SCHOOL CHAK NO.152 NB  (COMB)  (T),31.7193002277562,72.35146613522832,Combined,Punjab,1,1,589,443
+ 291 - GOVERNMENT BOYS PRIMARY SCHOOL- CHAK NO.139/140 NB  (COMB)  (T),31.73373530074921,72.39927004574459,Combined,Punjab,1,1,452,372
+ 322 - GOVERNMENT GILRS MIDDLE SCHOOL- CHAK NO.137/138 (MALE) (P),31.736727769140067,72.42915282492993,Male,Punjab,2,0,935,0
+ 323 - GOVERNMENT BOYS PRIMARY  SCHOOL- CHAK NO.137/138 (FEMALE)  (T),31.739732514239748,72.4300277133967,Female,Punjab,0,2,0,744
+ 320 - (46) GOVERNMENT BOYS PRIMARY SCHOOL CHAK NO 133 NB (Female),31.77723,72.48611,Female,Punjab,0,2,0,968
+ 210 - Government Girls Primary School Chak No.126/NB(Male) (T),31.802507455502994,73.32889613290244,Male,Punjab,3,0,1436,0
+ 211 - Government Girls Primary School Chak No.126/NB(Female) (T),31.802507455502994,73.3289261329024,Female,Punjab,0,2,0,1180
+ 213 - Government Girls High School Chak No.135/SB (East) (Male) (P),31.802507455502994,73.3289561329024,Male,Punjab,4,0,1762,0
+ 214 - Government Girls High School Chak No.135/SB (West) (Female) (P),31.802507455502994,73.3289861329024,Female,Punjab,0,3,0,1338
+ 224 - Govt. Boys Primary School Chak No.50/SB (T) (Combined),31.802507455502994,73.3290161329024,Combined,Punjab,2,1,758,613
+ 225 - Govt. Boys Middle School Chak No.61/SB (Combined) (P),31.802507455502994,73.3290461329024,Combined,Punjab,2,1,684,541
+ 226 - Govt. Girls Elementary School Chak No.62/SB (Combined)(T),31.802507455502994,73.3290761329024,Combined,Punjab,1,1,541,451
+ 227 - Government Boys High School Chak No.63/SB (Combined) (P),31.802507455502994,73.3291061329024,Combined,Punjab,2,2,926,805
+ 228 - (260) Govt. Boys Elementary School Chak No.64/SB (Combined) (T),31.802507455502994,73.3291361329024,Combined,Punjab,1,1,602,470
+ 229 - Govt. Boys Elementary School Chak No.64/SB (Combined) (T),31.802507455502994,73.3291661329024,Combined,Punjab,1,1,564,495
+ 230 - Govt. Boys Primary School Chak No.60/SB (Combined)(T),31.802507455502994,73.3291961329024,Combined,Punjab,1,1,608,510
+ 231 - Govt. Girls High School Chak No.60/SB (Combined)(P),31.802507455502994,73.3292261329024,Combined,Punjab,2,1,771,589
+ 232 - Govt. Boys Primary School Chak No.49/SB(Combined) (T),31.802507455502994,73.3292561329024,Combined,Punjab,2,1,726,579
+ 242 - Govt. Boys High School Chak No.120/SB. (Combined) (T),31.802507455502994,73.3292861329024,Combined,Punjab,2,2,1097,827
+ 243 - Government Girls High School Chak No.120/SB.(Combined)(P),31.802507455502994,73.3293161329024,Combined,Punjab,2,2,1114,816
+ 244 - Govt.Girls Primary School Chak No.115-ASB (Combined) (T),31.802507455502994,73.3293461329024,Combined,Punjab,1,1,481,371
+ 245 - Govt. Boys Elementary School Chak No.119/SB(Combined) (T),31.802507455502994,73.3293761329024,Combined,Punjab,2,2,1056,778
+ 273 - GOVERNMENT GIRLS COMMUNITY MODEL ELEMENTRY  SCHOOL- CHAK NO.127  NB  (FEMALE) (P),31.835947640936592,72.53192648174416,Female,Punjab,0,3,0,1354
+ 272 - GOVERNMENT GIRLS MIDDLE  SCHOOL- CHAK NO.127  NB  (MALE) (P),31.83598015286101,72.53191145715249,Male,Punjab,3,0,1452,0
+ 126 - Govt. Girls High School Chak No.59 S.B.(Combined) (P),31.85225234694702,72.74232293114058,Combined,Punjab,2,2,870,716
+ 132 - Government Boys Elementry School Chak Jodh(Combined)  (P),31.853947731128844,72.95121479423393,Combined,Punjab,2,2,1015,876
+ 138 - Govt. Boys Primary School Chak 56 a/SB (Combined)(T),31.854853312528817,72.81833029351274,Combined,Punjab,1,1,358,308
+ 122 - Government Girls High School Chak NO.58 S.B. Dogranwala East (Male) (P),31.85550407463801,72.77252166686348,Male,Punjab,2,0,1132,0
+ 123 - Government Girls HighSchool Chak NO.58 S.B. Dogranwala West (Female) (P),31.855531044202085,72.77247916594128,Female,Punjab,0,2,0,819
+ 125 - Government Boys Primary School Chak No.58  S.B. (QasabWala) (WEST) (Female) (T),31.856107469401525,72.77350704028984,Female,Punjab,0,2,0,1099
+ 124 - Government Boys Primary School Chak No.58  S.B. (QasabWala) (EAST) (Male) (T),31.856154455187877,72.77347355271509,Male,Punjab,3,0,1242,0
+ 136 - Government Girls High School Chak No.55 S.B(Combined) (P).,31.86249624213408,72.83458366162841,Combined,Punjab,2,2,1094,859
+ 139 - Govt. Girls Primary School Chak 57 S.B.(Combined)  (T),31.863169060938016,72.8011059744411,Combined,Punjab,1,1,566,437
+ 121 - Govt Girls Primary School. Chak No.47 SB (Combined)(T),31.863278129013082,72.74888192627458,Combined,Punjab,1,1,377,270
+ 137 - Govt. Girls Elementry School Chak No.56 S.B.(Combined)  (P),31.875768510635538,72.83316636912812,Combined,Punjab,2,1,666,495
+ 91 - Government Girls Higher Secondary School Chak No.46 S.B. EAST(Female) (P),31.877819751549286,72.77379448660386,Female,Punjab,0,3,0,1343
+ 93 - Government Girls Higher Secondary School Chak No.46 S.B. . West (Female) (P),31.877832005492493,72.77381516383444,Female,Punjab,0,3,0,1270
+ 130 - Government Girls High School Chak No.54  S.B.  West (Female) (P),31.879302822834255,72.89320546776264,Female,Punjab,0,2,0,753
+ 129 - Government Girls High School Chak No.54  S.B. East (Male) (P),31.87931098368655,72.89323222506904,Male,Punjab,2,0,986,0
+ 92 - Government Boys Higher Secondary School Chak No.46 S.B. West (Male) (P),31.879461340463855,72.7765098869638,Male,Punjab,3,0,1575,0
+ 90 - Government Boys Higher Secondary School Chak No.46 S.B. EAST(Male) (P),31.879493106022355,72.77653462206723,Male,Punjab,3,0,1654,0
+ 127 - Government Boys High School Chak No.54 S.B.(Combined)  (P),31.8815434315449,72.89147243039041,Combined,Punjab,1,1,507,407
+ 128 - Government Boys High School Chak No.54 S.B.(Combined)  (T),31.88158434431085,72.8914039506815,Combined,Punjab,2,2,845,673
+ 97 - Govt. Boys  High  School Chak No.44/S.B.   (EAST)  (Combined)  (P),31.882387576787018,72.81897412779836,Combined,Punjab,2,2,914,816
+ 98 - Govt.Boys High School Chak No.44S.B.(West)     (Combined) (P),31.882387576787018,72.8190041277984,Combined,Punjab,1,1,534,452
+ 95 - Government Girls High School No.2 Chak No.115 S.B. (Female ) (T),31.88329175527199,72.75326876863834,Female,Punjab,0,3,0,1211
+ 94 - Government Boys Primary School Chak No.115 S.B. (Male) (T),31.883957763246524,72.74943356041811,Male,Punjab,4,0,1684,0
+ 134 - Government Community Model School Chak No.53 S.B. East (Male) (P),31.884988930903084,72.92988495238367,Male,Punjab,3,0,1433,0
+ 135 - Government Community Model School Chak No.53 S.B. West (Female) (P),31.884988930903084,72.9299149523837,Female,Punjab,0,2,0,1200
+ 99 - Government Girls Primary School Colony Mubark Pura Chak No.45  S.B.(Combined)(T),31.88716027406754,72.77621822496457,Combined,Punjab,1,1,578,396
+ 133 - Govt. Girls Elementry School Chak No.53 S.B.(Combined)  (P),31.8878,72.9303,Combined,Punjab,1,1,538,374
+ 96 - Government Girls Elementry School Chak No.43 S.B. (Combined)  (P),31.894028447113797,72.84742153817008,Combined,Punjab,2,2,1004,768
+ 100 - Government Boys  High School Chak No.45 S.B. (EAST) (Combined) (P),31.89501115758181,72.8013831452136,Combined,Punjab,2,2,858,722
+ 101 - (64) Government Boys  High School Chak No.45 S.B. (EAST) (Combined) (P),31.89501115758181,72.8014131452136,Combined,Punjab,1,1,409,346
+ 102 - Govt. Boys  High School Chak No.45S.B. (West)    (Combined (P),31.89501115758181,72.8014431452136,Combined,Punjab,2,1,790,608
+ 103 - Govt.Girls High School Chak No.45S.B.(West)        (Combined) (T),31.896040254284745,72.79914727089128,Combined,Punjab,2,1,677,517
+ 131 - Government Boys Elementry School Chak No.52 S.B. (Combined)  (P),31.89917,72.9101,Combined,Punjab,1,1,547,427
+ 161 - Government Boys High School Chak No 42 S.B.East (Male) (P),31.90207017608887,72.87599749794161,Male,Punjab,4,0,1893,0
+ 162 - Government Boys High School Chak No 42 S.B.West (Male) (P),31.902074460883785,72.87603225755018,Male,Punjab,1,0,631,0
+ 163 - Government Girls  Higher Secondary  School Chak No 42  S.B.East (Female) (P),31.904947580270886,72.87162833014733,Female,Punjab,0,3,0,1540
+ 164 - Government Girls  Higher Secondary  School Chak No 42 S.B.West  (Female) (P),31.904947580270886,72.8716583301473,Female,Punjab,0,1,0,467
+ 117 - Govt.Girls High School chak No.113 S.B. (EAST) (Male) (P),31.907688549283836,72.71037140572562,Male,Punjab,4,0,1873,0
+ 118 - Govt. Girls High School chak No.113 S.B. (West) (Female) (P),31.907728742898723,72.71041687611782,Female,Punjab,0,3,0,1444
+ 120 - Govt. Girls Model Primary School Chak No.116 S.B.(Combined) (T),31.908752589785372,72.6862763270144,Combined,Punjab,1,1,603,488
+ 116 - Govt. Girls  Primary School Chak No.114 S.B.(Combined)  (T),31.90883129844849,72.73399421426959,Combined,Punjab,2,2,938,729
+ 168 - Government Girls High School Chak No.41 S.B. West (Female) (P),31.90919221875118,72.84027203359994,Female,Punjab,0,2,0,830
+ 167 - Government Girls High School Chak No.41 S.B. East (male) (P),31.911668504198392,72.83811026167966,Male,Punjab,2,0,993,0
+ 166 - Govt.Girls High  School Chak No 37 S.B.(Combined) (P),31.922260777964926,72.86273930052103,Combined,Punjab,2,2,1034,900
+ 111 - Govt. Boys High School Chak No.111 S.B. (Male) (P),31.922939892994417,72.73063507831874,Male,Punjab,3,0,1279,0
+ 112 - (73) Govt. Boys High School Chak No.111 S.B. (Male) (P),31.922939892994417,72.7306650783187,Male,Punjab,2,0,1027,0
+ 165 - Govt. Boys Elementary School Chak No 37 S.B.(Combined) (P),31.923849544098925,72.86070785077712,Combined,Punjab,1,1,438,381
+ 113 - Govt.Girls Elementry  School Chak No.111 S.B. (Female)   (P),31.923944941032413,72.72904491699647,Female,Punjab,0,4,0,1695
+ 159 - Government Boys High School Chak No 40 S.B. East (Male) (P),31.927840683945455,72.82508267500995,Male,Punjab,3,0,1251,0
+ 160 - Government Boys High School Chak No 40 S.B.West (Female) (P),31.927862507453707,72.82508496211898,Female,Punjab,0,2,0,1081
+ 119 - Govt.Girls High School Chak No.112S.B.(Combined)  (P),31.933958851192372,72.69170589419006,Combined,Punjab,2,2,991,862
+ 157 - Govt. Boys Elementry School Chak NO.39 S.B. (Male)  (T),31.93551119595942,72.81324750318849,Male,Punjab,3,0,1282,0
+ 158 - Government Girls Primary School Chak NO.39 S.B. (Female)  (T),31.935571525268497,72.81329860260513,Female,Punjab,0,2,0,1093
+ 184 - Government Girls  High School Chak NO.142 S.B.  Female (P),31.945477231163768,72.65878026453498,Female,Punjab,0,3,0,1368
+ 153 - Government Boys High School Chak No.36 S.B.(Combined) (P),31.946635592471644,72.84793089311113,Combined,Punjab,2,1,715,615
+ 182 - Govt. Boys Elementry School Chak NO.142 S.B East (Combined) (P),31.947543708984647,72.66090165506792,Combined,Punjab,1,1,459,362
+ 183 - Government Boys Elementry School Chak NO.142 S.B. west (Male)  (P),31.94756587375416,72.66088126025673,Male,Punjab,4,0,1701,0
+ 152 - Govt. Girls High School Chak No.36 S.B. West (Combined)  (T),31.947953409891568,72.84283794141287,Combined,Punjab,2,2,893,755
+ 151 - Govt.Girls High School Chak No.36S.B. East(Combined) (P),31.947979267254404,72.84283072230355,Combined,Punjab,1,1,555,456
+ 154 - Govt.Girls Elementry School Chak NO.98 S.B.(Combined)(P),31.96242109915562,72.81731265806147,Combined,Punjab,2,2,1169,962
+ 142 - Govt. Girls Elementry School Chak NO.97 S.B.(Combined) (P),31.980962628267108,72.78919134968892,Combined,Punjab,1,1,633,521
+ 181 - Govt.Girls High School Chak NO.108 S.B. (Combined)(P),31.983275734466975,72.68805914882459,Combined,Punjab,2,2,1163,891
+ 155 - Govt. Girls High School Chak No 90S.B. East (Combined)(P),31.989600387961918,72.83470900268289,Combined,Punjab,2,2,952,884
+ 156 - Govt. Girls High School Chak No 90S.B. West (Combined) (P),31.989600387961918,72.8347390026829,Combined,Punjab,1,1,408,351
+ 173 - Govet. Girls High School Chak No.109 S.B.  ( Male) (P),31.990334960974455,72.66528062394364,Male,Punjab,4,0,1975,0
+ 174 - Govt. Boys  Higher Secondary School Chak No.109 S.B.   (Female) (P),31.990391044924475,72.6677847467912,Female,Punjab,0,3,0,1636
+ 146 - Govt. Girls Elementry School Chak No 94 S.B.(Combined) (P),31.99040038825299,72.81893798618366,Combined,Punjab,2,1,678,546
+ 180 - Govt. Girls High School Chak NO.104 S.B.  West (Female) (P),31.998460446040102,72.69982616236318,Female,Punjab,0,2,0,1071
+ 179 - Government Girls High School Chak NO.104 S.B. East (Male)  (P),31.9984607321497,72.6998371030083,Male,Punjab,3,0,1425,0
+ 177 - Govt.Boys High School Chak NO.104 S.B.(Combined)(T),32.00060070377327,72.69646096234318,Combined,Punjab,1,1,481,357
+ 178 - (159) Govt.Boys High School Chak NO.104 S.B.(Combined)(T),32.00060070377327,72.6964909623432,Combined,Punjab,2,2,813,674
+ 140 - Government Boys High School Chak NO.95 S.B.(Combined) (P),32.00211299276308,72.78180267345272,Combined,Punjab,2,2,819,716
+ 145 - Govt. Girls Elementry School Chak No 92 S.B.(Combined)  (T),32.01082256239269,72.80270049030847,Combined,Punjab,2,1,809,613
+ 143 - Government Girls High School Chak No.89 S.B.(Combined)  (P),32.01133124329087,72.82982484568866,Combined,Punjab,2,2,891,763
+ 185 - Government Boys High School Chak No.88 N.B. East Male (P),32.011908888735,72.64948323346863,Male,Punjab,4,0,1805,0
+ 186 - Government Boys High School Chak No.88 N.B. West  Female (P),32.011908888735,72.6495132334686,Female,Punjab,0,3,0,1551
+ 144 - Govt.Boys Primary School Chak No.89 S.B.(Combined) (T),32.01327731674969,72.8294044063961,Combined,Punjab,1,1,601,496
+ 141 - Govt. Girls Elementry School Chak NO.96 S.B.(Combined)  (P),32.018933379238646,72.7648253057365,Combined,Punjab,2,2,1001,862
+ 190 - (170) Govt. Girls Primary School Chak No.50 N.B. Female  (P),32.04384,72.70676,Female,Punjab,0,3,0,1190
+ 37 - Government Boys Primary School Chak No102 N.B. Male  (T),32.0556866,72.6330416,Male,Punjab,3,0,1508,0
+ 38 - Government Girls  High School Chak No102 N.B. Female (P),32.0556866,72.6330716,Female,Punjab,0,3,0,1254
+ 39 - Government Girls Elementry School Chak No.106 N.B. (Combined) (P),32.0556866,72.6331016,Combined,Punjab,2,2,822,692
+ 40 - Government Boys Elementry School Chak No.89 N.B. (Male) (P),32.0556866,72.6331316,Male,Punjab,4,0,1897,0
+ 54 - Govt.Girls Community Model School ChakNo.110/NB. (Male)  (T),32.0556866,72.6331616,Male,Punjab,2,0,1106,0
+ 55 - (24) Govt.Girls Community Model School ChakNo.110/NB. (Female)  (T),32.0556866,72.6331916,Female,Punjab,0,2,0,883
+ 29 - Government Boys  Model Primary School  Chak No.103 N.B. (Male) (T),32.0556866,72.6332216,Male,Punjab,3,0,1234,0
+ 84 - Government Boys High School Chak No.101 N.B. (Male) (P),32.0556866,72.6332516,Male,Punjab,4,0,2308,0
+ 30 - Government Girls Primary School  Chak No.103 N.B. (Female) (T),32.0556866,72.6332816,Female,Punjab,0,2,0,1047
+ 85 - Government Girls  High School Chak No.101 N.B. (Female ) (P),32.0556866,72.6333116,Female,Punjab,0,4,0,1984
+ 86 - Govt.GirlsPrimarySchool Chak No.97 N.B.(Combined)  (T),32.0556866,72.6333416,Combined,Punjab,2,2,895,766
+ 87 - Government Girls High School Chak No.96 N.B.(Male)  (P),32.0556866,72.6333716,Male,Punjab,3,0,1400,0
+ 88 - (52) Government Girls High School Chak No.96 N.B.(Female)  (P),32.0556866,72.6334016,Female,Punjab,0,2,0,1079
+ 89 - Govt.Boys Elementary School Chak No.96 N.B.(Combined)  (P),32.0556866,72.6334316,Combined,Punjab,1,1,268,159
+ 49 - Government Boys Elementry School Bahaik Maken(East)(Combined)  (P),32.0742027,72.6496718,Combined,Punjab,2,2,995,803
+ 50 - Government Boys Elementry School Bahaik Maken (Combined) (West) (P),32.0742027,72.6497018,Combined,Punjab,1,1,532,436
+ 197 - Government Girls Primary School Chak No.130/NB (Male) (T),32.0742027,72.6497318,Male,Punjab,4,0,1690,0
+ 198 - Government Boys Primary School Chak No.130/NB(Female) (T),32.0742027,72.6497618,Female,Punjab,0,3,0,1317
+ 199 - Government Girls Primary School(English Medium) Chak No.138/SB (Combined) (Aslam Colony) (T),32.0742027,72.6497918,Combined,Punjab,2,2,880,666
+ 200 - O/O Union Council Chak No.138/SB (Combined) (T),32.0742027,72.6498218,Combined,Punjab,2,2,959,769
+ 201 - Government Degree College for Women- Sillanwali.(Combined) (T),32.0742027,72.6498518,Combined,Punjab,2,2,1091,798
+ 202 - Govt. Girls Middle School Chak No.140/SB (Combined)(P),32.0742027,72.6498818,Combined,Punjab,2,1,717,561
+ 53 - Govt.Girls PrimarySchool  Chak No.112 N.B.(Combined) (T),32.0742027,72.6499118,Combined,Punjab,2,2,971,783
+ 203 - Govt. Girls Primary School Chak No.141/SB (Combined) (T),32.0742027,72.6499418,Combined,Punjab,1,1,661,530
+ 204 - Govt.Boys Primary School Chak No.132/NB(Combined) (T),32.0742027,72.6499718,Combined,Punjab,2,1,762,594
+ 205 - Government Girls High School Chak No.122/NB (East) (Male) (T),32.0742027,72.6500018,Male,Punjab,3,0,1340,0
+ 206 - Government Girls High School Chak No.122/NB(West)  (Female) (T),32.0742027,72.6500318,Female,Punjab,0,2,0,1133
+ 207 - Govt. Girls High School Chak No.121/NB (Combined)(T),32.0742027,72.6500618,Combined,Punjab,2,2,892,769
+ 208 - Government Boys Primry School Chak No.134/SB(Male) (T),32.0742027,72.6500918,Male,Punjab,2,0,1160,0
+ 209 - Government Girls Primry School Chak No.134/SB(Female) (T),32.0742027,72.6501218,Female,Punjab,0,2,0,915
+ 212 - Govt.Girls Elementary School Chak No.120/NB (Combined) (P),32.0742027,72.6501518,Combined,Punjab,2,1,822,673
+ 215 - Govt.Boys Primary School Chak No.137/SB (Combined) (T),32.0742027,72.6501818,Combined,Punjab,2,2,935,828
+ 216 - Government Boys Primary School Chak No.139/SB(Male) (T),32.0742027,72.6502118,Male,Punjab,3,0,1636,0
+ 217 - Government Girls Primary School Chak No.139/SB(Female) (T),32.0742027,72.6502418,Female,Punjab,0,3,0,1422
+ 218 - Govt .Boys High School Chak No.132/SB(East) (Male) (T),32.0742027,72.6502718,Male,Punjab,3,0,1581,0
+ 219 - Government Boys High School Chak No.132/SB(West) (Female) (P),32.0742027,72.6503018,Female,Punjab,0,3,0,1257
+ 220 - Government Boys Elementary School Chak No.136/SB(Male) (T),32.0742027,72.6503318,Male,Punjab,3,0,1249,0
+ 221 - Government Girls  Elementary School Chak No.136/SB(Female) (T),32.0742027,72.6503618,Female,Punjab,0,2,0,1106
+ 222 - Govt.Boys High School Chak No.133/SB(East) (Male) (P),32.0742027,72.6503918,Male,Punjab,4,0,1656,0
+ 223 - Govt. Boys High School Chak No.133/SB(West) (Female) (P),32.0742027,72.6504218,Female,Punjab,0,3,0,1395
+ 234 - Government Boys Higher Secondary School Chak No.126/SB(East) (Male) (P),32.0742027,72.6504518,Male,Punjab,3,0,1528,0
+ 235 - Government Boys Higher Secondary School Chak No.126/SB(West) (Female) (P),32.0742027,72.6504818,Female,Punjab,0,2,0,1153
+ 236 - Govt. Boys Elementary School Chak No.128/SB(Combined)(T),32.0742027,72.6505118,Combined,Punjab,2,1,727,520
+ 237 - Govt.Girls Elementary School Chak No.128/SB(Combined) (T),32.0742027,72.6505418,Combined,Punjab,1,1,540,356
+ 238 - Govt. Boys Elementary School Chak No.130/SB.(Combined) (T),32.0742027,72.6505718,Combined,Punjab,1,1,511,449
+ 239 - (269) Govt. Boys Elementary School Chak No.130/SB.(Combined) (T),32.0742027,72.6506018,Combined,Punjab,1,1,621,522
+ 240 - Government Boys High School Chak No.48/SB (Combined) (P),32.0742027,72.6506318,Combined,Punjab,2,1,662,533
+ 241 - Government Girls High School Chak No.48/SB (Combined)(P),32.0742027,72.6506618,Combined,Punjab,2,1,693,604
+ 246 - Government Boys Higher Secondary School Chak No.118/SB(East) (Male) (P),32.0742027,72.6506918,Male,Punjab,4,0,1948,0
+ 247 - Government Boys Higher Secondary School Chak No.118/SB(West) (Female) (P),32.0742027,72.6507218,Female,Punjab,0,3,0,1413
+ 248 - Government Girls High School Chak No.122/SB(East) (Male) (P),32.0742027,72.6507518,Male,Punjab,4,0,1757,0
+ 249 - Government Girls High School Chak No.122/SB(West) (Female) (P),32.0742027,72.6507818,Female,Punjab,0,3,0,1393
+ 250 - Government Boys High School Chak No.125/SB(East) Male) (P),32.0742027,72.6508118,Male,Punjab,3,0,1583,0
+ 251 - Government Boys High School Chak No.125/SB(West) (Female) (P),32.0742027,72.6508418,Female,Punjab,0,2,0,1157
+ 252 - Government Girls High  School Chak No.117/S.B. (East)( Male) (T),32.0742027,72.6508718,Male,Punjab,3,0,1275,0
+ 253 - Government Girls High  School Chak No.117/S.B. (West) (Female) (T),32.0742027,72.6509018,Female,Punjab,0,2,0,1106
+ 254 - Govt. Boys High School Chak No.123/SB (Combined) (T),32.0742027,72.6509318,Combined,Punjab,2,1,750,611
+ 255 - Government Boys Primary School Chak No.124/SB(Male) (T),32.0742027,72.6509618,Male,Punjab,3,0,1287,0
+ 256 - Government Girls Elementary School Chak No.124/SB(Female) (T),32.0742027,72.6509918,Female,Punjab,0,2,0,1009
+ 257 - Govt. Boys Primary School Chak No.129/SB(Combined) (T),32.0742027,72.6510218,Combined,Punjab,2,2,874,663
+ 258 - Govt. Girls High School Chak No.129/SB (Combined) (T),32.0742027,72.6510518,Combined,Punjab,1,1,430,349
+ 259 - Govt Girls Elementary School Chak No.131/SB (Combined)(P),32.0742027,72.6510818,Combined,Punjab,2,2,1153,844
+ 260 - Government Girls Higher Secondry School Chak No.127/SB (East)(Combined)(T),32.0742027,72.6511118,Combined,Punjab,2,2,993,801
+ 261 - Govt.Girls Higher Secndry School ChakNo.127/SB (West) (Combined) (T),32.0742027,72.6511418,Combined,Punjab,2,2,941,656
+ 262 - Government Girls High School Chak No.107/NB (Combined) (P),32.0742027,72.6511718,Combined,Punjab,2,2,979,823
+ 263 - Government Boys Primary School Chak No.111/NB (Combined)(T),32.0742027,72.6512018,Combined,Punjab,2,2,869,721
+ 264 - Government Boys High School Chak No.121/SB (Combined)(P),32.0742027,72.6512318,Combined,Punjab,2,2,896,726
+ 265 - (294) Government Boys High School Chak No.121/SB (Combined)(P),32.0742027,72.6512618,Combined,Punjab,1,1,440,358
+ 266 - Government Boys High School Chak No.113/NB(East) (Male) (P),32.0742027,72.6512918,Male,Punjab,2,0,1119,0
+ 267 - Government Boys High School Chak No.113/NB(West) (Female) (P),32.0742027,72.6513218,Female,Punjab,0,2,0,959
+ 268 - Government Girls High School Chak No.114/NB (Combined) (T),32.0742027,72.6513518,Combined,Punjab,2,2,962,820
+ 269 - Government Girls Elementary School Chak No.115/NB (Combined) (T),32.0742027,72.6513818,Combined,Punjab,2,2,885,739
+ 72 - Government Boys Primary School Chak N0.81 N.B. Malwana (Male) (T),32.0742027,72.6514118,Male,Punjab,3,0,1113,0
+ 73 - Government Boys Primary School Chak No.81 N.B. (Female) (T),32.0742027,72.6514418,Female,Punjab,0,2,0,875
+ 74 - Government Boys Higher Secondary School Chak No.82 N.B.(Male)  (P),32.0742027,72.6514718,Male,Punjab,2,0,1210,0
+ 75 - (40) Government Boys Higher Secondary School Chak No.82 N.B.(Female)  (P),32.0742027,72.6515018,Female,Punjab,0,2,0,1001
+ 76 - Govt.Girls Elementary School Chak No.82 N.B.(Combined)  (T),32.0742027,72.6515318,Combined,Punjab,1,1,337,236
+ 78 - Govt. Boys Elementary School Chak No.93 N.B. Male (T),32.0742027,72.6515618,Male,Punjab,4,0,1944,0
+ 79 - Govt. Girls Elementary School Chak No.93 N.B. Female (T),32.0742027,72.6515918,Female,Punjab,0,3,0,1573
+ 80 - Govt. Boys Primary School chak No.83/ NB (Combined) (T),32.0742027,72.6516218,Combined,Punjab,2,2,911,728
+ 81 - Govt. Girls Elementry School Chak No.190 N.B.(Combined)  (T),32.0742027,72.6516518,Combined,Punjab,2,2,992,785
+ 82 - Government Girls  Elementary School Chak No.190 N.B. Tarkota. (Combined) (T),32.0742027,72.6516818,Combined,Punjab,1,1,630,521
+ 147 - Govt. Girls High School Chak No100 S.B. East (Male) (P),32.07607941139094,72.66580542644803,Male,Punjab,3,0,1327,0
+ 148 - Government Girls High School Chak No100 S.B. East (Female)  (P),32.07607941139094,72.665835426448,Female,Punjab,0,2,0,1088
+ 149 - Govt. Boys High School Chak No.101 S.B.(Combined) (P),32.07607941139094,72.665865426448,Combined,Punjab,2,1,774,619
+ 150 - Government Girls High School Chak No102 S.B. (P)(Combined),32.07607941139094,72.665895426448,Combined,Punjab,2,2,943,797
+ 169 - Govt. Girls High School Chak No.98 N.B. East (Combined) (P),32.07607941139094,72.665925426448,Combined,Punjab,2,2,1021,845
+ 170 - Govt. Girls High School Chak No.98 N.B. West(Combined) (P),32.07607941139094,72.665955426448,Combined,Punjab,2,2,903,755
+ 171 - Government Boys High School Chak No.99 N.B.(Male)  (P),32.07607941139094,72.665985426448,Male,Punjab,3,0,1340,0
+ 172 - (154) Government Boys High School Chak No.99 N.B.(Female)  (P),32.07607941139094,72.666015426448,Female,Punjab,0,2,0,1058
+ 175 - Govt. Girls Elementry School Chak NO.100 N.B.  East (Male) (P),32.07607941139094,72.666045426448,Male,Punjab,3,0,1273,0
+ 176 - Govt.Girls Elementry School Chak NO.100 N.B.  West  (Female)  (T),32.07607941139094,72.666075426448,Female,Punjab,0,2,0,1012
+ 187 - Government Girls High School Chak No.50 N.B. East (Male-I)  (P),32.07607941139094,72.666105426448,Male,Punjab,3,0,1566,0
+ 188 - Government Girls High School Chak No.50 N.B. West (Male-II)  (P),32.07607941139094,72.666135426448,Male,Punjab,3,0,1182,0
+ 189 - Govt. Boys Primary School Chak No.50 N.B. Female  (P),32.07607941139094,72.666165426448,Female,Punjab,0,2,0,1088
+ 191 - Govt. Girls Elementry School Chak No.51 N.B.(Combined)  (P),32.07607941139094,72.666195426448,Combined,Punjab,2,2,806,711
+ 192 - Govt. Boys Primary School Chak No.99 S.B.(Combined) (T),32.07607941139094,72.666225426448,Combined,Punjab,2,2,849,684
+ 193 - Govt. Girls High School Chak No103 S.B.(Combined)  (T),32.07607941139094,72.666255426448,Combined,Punjab,2,2,949,770
+ 194 - Govt.Boys Elementary School Chak No.103 S.B.(Combined)  (T),32.07607941139094,72.666285426448,Combined,Punjab,1,1,506,390
+ 195 - Govt. Boys Primary School No 2 Asianwala Near B.H.U (Male) (T),32.07607941139094,72.666315426448,Male,Punjab,2,0,1103,0
+ 104 - Govt.Girls Higher Secondary School Chak No.105/S.B.(EAST)  (Combined) (P),32.07607941139094,72.666345426448,Combined,Punjab,1,1,616,578
+ 105 - Govt. Girls Higher Secondary School Chak No.105 S.B. (West ) (Combined) (P),32.07607941139094,72.666375426448,Combined,Punjab,1,1,632,532
+ 106 - Govt. Girls Elementry School Chak No.106/S.B.(Combined) (P),32.07607941139094,72.666405426448,Combined,Punjab,2,2,939,775
+ 107 - Govt.Girls High School Chak No.107/S.B. (East)(Combined)  (P),32.07607941139094,72.666435426448,Combined,Punjab,1,1,649,556
+ 108 - Government Girls High School Chak No.107 S.B.(Combined)  (West) (P),32.07607941139094,72.666465426448,Combined,Punjab,1,1,547,446
+ 109 - (71) Government Girls High School Chak No.107 S.B.(Combined)  (West) (P),32.07607941139094,72.666495426448,Combined,Punjab,2,1,798,599
+ 110 - Govt. Girls High School Chak No.107S.B.(North)(Combined) (P),32.07607941139094,72.666525426448,Combined,Punjab,2,2,908,727
+ 114 - Govt. Girls Elementry School Chak No.110S.B.(Combined)  (T),32.07607941139094,72.666555426448,Combined,Punjab,2,2,856,751
+ 115 - Govt. Boys Primary School Chak No.110 S.B. Ahli Rawan (Combined)  (P),32.07607941139094,72.666585426448,Combined,Punjab,1,1,576,468
+ 280 - GOVERNMENT GIRLS PRIMARY SCHOOL- CHAK NO.134  NB (COMB) (T),32.0762796,72.6600204,Combined,Punjab,2,1,816,646
+ 281 - GOVERNMENT BOYS HIGH  SCHOOL- CHAK  142  NB (COMB) (P),32.0762796,72.6600504,Combined,Punjab,2,2,1137,845
+ 282 - GOVERNMENT BOYS ELEMENTARY  SCHOOL- CHAK 166/167 NB (MALE)  (T),32.0762796,72.6600804,Male,Punjab,3,0,1233,0
+ 283 - GOVERNMENT GIRLS  PRIMARY SCHOOL- CHAK  166/167 NB (FEMALE)  (T),32.0762796,72.6601104,Female,Punjab,0,2,0,958
+ 299 - GOVERNMENT GIRLS ELEMENTARY SCHOOL-  CHAK NO.143 NB (COMB)  (T),32.0762796,72.6601404,Combined,Punjab,2,2,883,678
+ 278 - GOVERNMENT GIRLS ELEMENTARY SCHOOL- CHAK NO.141  NB (COMB) (T),32.0762796,72.6601704,Combined,Punjab,2,2,1015,803
+ 279 - GOVERNMENT BOYS ELEMENTARY SCHOOL- CHAK NO.131  NB  (COMB) (T),32.0762796,72.6602004,Combined,Punjab,2,2,991,766
+ 329 - GOVERNMENT GIRLS  HIGH SCHOOL- NISHATABAD/CHNANAN PURA SILLANWALI (MALE) (T),32.07632062814441,72.66015159811019,Male,Punjab,3,0,1241,0
+ 330 - VETNERY HOSPITAL- NISHATABAD SILLANWALI (FEMALE) (T),32.07632062814441,72.6601815981102,Female,Punjab,0,2,0,926
+ 331 - GOVERNMENT BOYS PRIMARY SCHOOL NO 4- ZAFAR ABAD-SILLANWALI (MALE) (T),32.07632062814441,72.6602115981102,Male,Punjab,4,0,1805,0
+ 332 - DEPUTY EDUCATION OFFICER -SILLANWALI (FEMALE) (T),32.07632062814441,72.6602415981102,Female,Punjab,0,3,0,1571
+ 333 - GOVERNMENT GIRLS HIGH SCHOOL- SILLANWALI (MALE) (P),32.07632062814441,72.6602715981102,Male,Punjab,3,0,1482,0
+ 334 - GOVERNMENT BOYS PRIMARY  SCHOOL- NO.1 SILLANWALI (FEMALE) (P),32.07632062814441,72.6603015981102,Female,Punjab,0,3,0,1274
+ 335 - GOVERNMENT BOYS PRIMARY SCHOOL- ISLAM NAGAR SILLANWALI (MALE) (T),32.07632062814441,72.6603315981102,Male,Punjab,4,0,1731,0
+ 336 - GOVERNMENT GIRLS  PRIMARY SCHOOL- ISLAM NAGAR SILLANWALI (FEMALE) (T),32.07632062814441,72.6603615981102,Female,Punjab,0,3,0,1418
+ 337 - GOVERNMENT BOYS DEGREE COLLEGE SILLANWALI (MALE) (P),32.07632062814441,72.6603915981102,Male,Punjab,2,0,1101,0
+ 338 - (63) GOVERNMENT BOYS DEGREE COLLEGE SILLANWALI (MALE) (P),32.07632062814441,72.6604215981102,Male,Punjab,2,0,983,0
+ 339 - GOVERNMENT BOYS DEGREE COLLEGE SILLANWALI (FEMALE) (P),32.07632062814441,72.6604515981102,Female,Punjab,0,3,0,1680
+ 340 - Municipal Administration Hall Sillanwali (MALE) (P),32.07632062814441,72.6604815981102,Male,Punjab,3,0,1535,0
+ 341 - Municipal Administration Hall Sillanwali (FEMALE) (P),32.07632062814441,72.6605115981102,Female,Punjab,0,3,0,1283
+ 342 - GOVERNMENT BOYS HIGH SCHOOL NO.1 SILLANWALI (MALE) (P),32.07632062814441,72.6605415981102,Male,Punjab,3,0,1318,0
+ 343 - GOVERNMENTBOYS  HIGH SCHOOL NO.1 SILLANWALI (FEMALE) (P),32.07632062814441,72.6605715981102,Female,Punjab,0,2,0,1109
+ 2 - Government Boys Elementary School Chak No.53 N.B.  (Male)  (P),32.076594919655825,72.65878769524572,Male,Punjab,3,0,1373,0
+ 3 - Government Boys Elementary School Chak No.53 N.B. (Female ) (P),32.076594919655825,72.6588176952457,Female,Punjab,0,2,0,1123
+ 4 - Government Boys Primary School Chak No.52 N.B.  (T)(Combined),32.076594919655825,72.6588476952457,Combined,Punjab,2,2,991,795
+ 5 - Government Boys High  School Chak No.52 A/NB (East) (P)(Combined),32.076594919655825,72.6588776952457,Combined,Punjab,2,2,901,740
+ 6 - Government Boys High  School Chak No.52 A/NB (West) (P)(Combined),32.076594919655825,72.6589076952457,Combined,Punjab,2,2,1284,1130
+ 7 - Government Girls  High  School Chak NO.52 A/NB (P)(Combined),32.076594919655825,72.6589376952457,Combined,Punjab,1,1,597,478
+ 10 - Government Boys Primary School Chak NO.54 N.B.  (T)(Combined),32.076594919655825,72.6589676952457,Combined,Punjab,1,1,655,532
+ 8 - Government Boys High School Chak No.55 N.B.  (Male)  (P),32.076594919655825,72.6589976952457,Male,Punjab,3,0,1233,0
+ 9 - Government Boys High School Chak No.55 N.B. (Female) (P),32.076594919655825,72.6590276952457,Female,Punjab,0,2,0,982
+ 11 - (293) Government Girls Community Model School 54 NB (Combine),32.076594919655825,72.6590576952457,Combined,Punjab,1,1,578,482
+ 12 - Government Boys Elementry  School Chak NO.66 N.B.  (Combined)  (P),32.076594919655825,72.6590876952457,Combined,Punjab,2,2,694,636
+ 13 - Government Boys Elementry School Chak NO.66 N.B. (Female ) (T),32.076594919655825,72.6591176952457,Female,Punjab,0,2,0,1288
+ 14 - Government Girls Elementry  School Chak No.66 N.B.  (T)(Combined),32.076594919655825,72.6591476952457,Combined,Punjab,1,1,572,500
+ 15 - Government Boys Elementary  School Chak No.69 N.B.  (T)(Combined),32.076594919655825,72.6591776952457,Combined,Punjab,2,1,726,557
+ 16 - Government Boys Elementary School Chak No.74 N.B. East  (P)(Combined),32.076594919655825,72.6592076952457,Combined,Punjab,1,1,433,385
+ 17 - Government Boys  Elementary  School Chak No.74 N.B.West (P)(Combined),32.076594919655825,72.6592376952457,Combined,Punjab,2,2,853,681
+ 18 - Government Boys Elementary School Chak No.75 N.B.  (T)(Combined),32.076594919655825,72.6592676952457,Combined,Punjab,2,2,1121,966
+ 19 - Government Boys Primary School Chak No.1 Rakh Dhareema  (T)(Combined),32.076594919655825,72.6592976952457,Combined,Punjab,1,1,639,486
+ 20 - Government Boys Primary School Chak No.2 Rakh Dhareema  (T)(Combined),32.076594919655825,72.6593276952457,Combined,Punjab,2,2,1004,850
+ 21 - Government Boys Primary School Chak No 3  Rakh Dhareema  (T)(Combined),32.076594919655825,72.6593576952457,Combined,Punjab,1,1,484,336
+ 22 - Government Boys Primary School Chak No.4 Rakh Dhareema (T)(Combined),32.076594919655825,72.6593876952457,Combined,Punjab,1,1,375,292
+ 23 - Government Boys Primary School Chak No.5 Rakh Dhareema/ Mangla Dam  (T)(Male),32.076594919655825,72.6594176952457,Male,Punjab,3,0,1256,0
+ 1 - Government Vaterinary Hospital- Jhal Chakian (Male),32.076594919655825,72.6594476952457,Male,Punjab,3,0,1521,0
+ 270 - GOVERNMENT GIRLS ELEMENTARY SCHOOL- CHAK NO.129 NB (MALE) (T),32.076594919655825,72.6594776952457,Male,Punjab,3,0,1216,0
+ 271 - (1) GOVERNMENT GIRLS ELEMENTARY SCHOOL- CHAK NO.129 NB (COMB) (T),32.076594919655825,72.6595076952457,Female,Punjab,0,2,0,1119
+ 289 - GOVERNMENTGIRLS  HIGH SCHOOL CHAK NO.135 NB (MALE) (T),32.076594919655825,72.6595376952457,Male,Punjab,3,0,1479,0
+ 290 - GOVERNMENT GIRLS HIGH SCHOOL CHAK NO.135 NB (FEMALE) (T),32.076594919655825,72.6595676952457,Female,Punjab,0,2,0,1214
+ 297 - GOVERNMENT BOYS HIGH SCHOOL- CHAK NO.147/148 NB (MALE) (P),32.076594919655825,72.6595976952457,Male,Punjab,3,0,1599,0
+ 298 - GOVERNMENT BOYS HIGH SCHOOL- CHAK NO.147/148 NB (FEMALE) (P),32.076594919655825,72.6596276952457,Female,Punjab,0,2,0,1259
+ 300 - GOVERNMENT GIRLS ELEMENTARY SCHOOL-  CHAK NO.146 NB  (COMB)  (P),32.076594919655825,72.6596576952457,Combined,Punjab,1,1,521,430
+ 301 - GOVERNMENT GIRLS PRIMARY SCHOOL-  CHAK .149/150 NB  (COMB)  (T),32.076594919655825,72.6596876952457,Combined,Punjab,2,1,771,598
+ 274 - GOVERNMENT GIRLS HIGH SCHOOL- CHAK NO.125 NB (MALE)  (T),32.076594919655825,72.6597176952457,Male,Punjab,3,0,1432,0
+ 275 - GOVERNMENT GIRLS HIGH SCHOOL- CHAK NO.125 NB (FEMALE) (T),32.076594919655825,72.6597476952457,Female,Punjab,0,2,0,1211
+ 319 - GOVERNMENT GIRLS  PRIMARY SCHOOL- CHAK NO.133 NB  (Male)  (T),32.076594919655825,72.6597776952457,Male,Punjab,3,0,1240,0
+ 321 - GOVERNMENT BOYS MIDDLE SCHOOL- CHAK NO.136 NB  (COMB)  (P),32.076594919655825,72.6598076952457,Combined,Punjab,2,1,773,575
+ 276 - GOVERNMENT GIRLS PRIMARY SCHOOL- CHAK NO.128 NB (COMB) (T),32.076594919655825,72.6598376952457,Combined,Punjab,2,2,993,861
+ 277 - GOVERNMENT GIRLS ELEMENTARY SCHOOL- CHAK 144/145  NB  (COMB) (T),32.076594919655825,72.6598676952457,Combined,Punjab,2,2,1012,794
+ 25 - Government Girls Model Primary School Chak No.104 ANB (Male)(T),32.0772413,72.661497,Male,Punjab,3,0,1358,0
+ 26 - (1) Government Girls Model Primary School Chak No.104 ANB (Female)(T),32.0772413,72.661527,Female,Punjab,0,2,0,1159
+ 36 - Government Boys Elementary School Chak No.187 N.B. (Combined) (T),32.0772413,72.661557,Combined,Punjab,1,1,499,404
+ 41 - Government Girls Elementry School Chak No.89 N.B. (Female) (P),32.0772413,72.661587,Female,Punjab,0,3,0,1622
+ 42 - Government Boys High School Chak No.84 N.B. (Male) (P),32.0772413,72.661617,Male,Punjab,2,0,1152,0
+ 43 - (16) Government Boys High School Chak No.84 N.B. (Male) (P),32.0772413,72.661647,Male,Punjab,3,0,1393,0
+ 44 - (17) Government Girls High School Chak No.84 N.B. (Female) (P),32.0772413,72.661677,Female,Punjab,0,2,0,691
+ 45 - Government Girls High School Chak No.84 N.B. (Female) (P),32.0772413,72.661707,Female,Punjab,0,3,0,1423
+ 46 - Government Boys Elementry School Chak No.92/NB   (Male) (P),32.0772413,72.661737,Male,Punjab,2,0,960,0
+ 47 - (18) Government Boys Middle School Chak No.92/NB   (Male) (P),32.0772413,72.661767,Male,Punjab,2,0,1079,0
+ 48 - Government Boys Elementry    School Chak No.92/NB(Female) (P),32.0772413,72.661797,Female,Punjab,0,3,0,1598
+ 27 - Government Boys Higher Secondary School Chak No.104 N.B. (Male) (P),32.0772413,72.661827,Male,Punjab,2,0,1130,0
+ 51 - Government Girls Elementry School Chak No.109/NB (Combined) (P),32.0772413,72.661857,Combined,Punjab,2,1,754,598
+ 52 - (22) Government Girls Elementry School Chak No.109/NB (Combined) (P),32.0772413,72.661887,Combined,Punjab,2,1,675,505
+ 56 - Government Boys Primary School Chak No.85 N.B. (Male) (T),32.0772413,72.661917,Male,Punjab,4,0,1727,0
+ 57 - Government Girls Community Model School Chak No.85 N.B. (Female)  (T),32.0772413,72.661947,Female,Punjab,0,3,0,1371
+ 58 - Government Girls High School Chak No.90 N.B. (East) (Male) (P),32.0772413,72.661977,Male,Punjab,4,0,1938,0
+ 59 - Government Girls High School Chak No.90 N.B. (West  (Female) (P),32.0772413,72.662007,Female,Punjab,0,3,0,1494
+ 60 - Govt.Boys Elementary School Chak No.95 N.B.(Male) (T),32.0772413,72.662037,Male,Punjab,3,0,1602,0
+ 61 - (29) Govt.Boys Elementary School Chak No.95 N.B.(Female) (T),32.0772413,72.662067,Female,Punjab,0,3,0,1217
+ 28 - Government Girls  Primary School Chak No.104 N.B. (Female) (P),32.0772413,72.662097,Female,Punjab,0,2,0,901
+ 62 - Govt.Girls Elementary School ChakNo.105/N.B.(Combined)  (T),32.0772413,72.662127,Combined,Punjab,2,2,963,736
+ 63 - Government Boys Elementary  School Chak No.94 N.B. (Male) (P),32.0772413,72.662157,Male,Punjab,3,0,1505,0
+ 64 - Government Girls Primary School Chak No.94 N.B. (Female ) (P),32.0772413,72.662187,Female,Punjab,0,2,0,1247
+ 65 - Government Boys Elementary School Chak No.91 N.B. (Male) (T),32.0772413,72.662217,Male,Punjab,4,0,2130,0
+ 66 - Government Girls High School Chak No.91 N.B. (Female) (T),32.0772413,72.662247,Female,Punjab,0,4,0,1773
+ 67 - Government Boys High School- Kolowal (Male)(P),32.0772413,72.662277,Male,Punjab,2,0,1155,0
+ 68 - (35) Government Boys High School- Kolowal (Female)(P),32.0772413,72.662307,Female,Punjab,0,2,0,852
+ 69 - (36) Government Girls Primary School Chak No.189 N.B.(Female)(T),32.0772413,72.662337,Female,Punjab,0,2,0,891
+ 70 - Government Girls Primary School Chak No.189 N.B.(Male)(T),32.0772413,72.662367,Male,Punjab,2,0,1122,0
+ 71 - Government Boys Elementary School Chak No.63 N.B. (Combined) (T),32.0772413,72.662397,Combined,Punjab,1,1,622,516
+ 77 - Government Boys Primary School Salarwala (Combined)(T),32.0772413,72.662427,Combined,Punjab,1,1,484,398
+ 83 - Government Boys High  School Chak No.188 N.B.(Combined)  (P),32.0772413,72.662457,Combined,Punjab,1,1,497,392
+ 31 - Government Boys Elementary School Chak No.108/N.B.  (Male) (T),32.0772413,72.662487,Male,Punjab,2,0,1106,0
+ 32 - (6) Government Boys Elementary School Chak No.108/N.B.  (Female) (T),32.0772413,72.662517,Female,Punjab,0,2,0,874
+ 33 - Government Boys Primary School  Chak No.67 A.N.B (Combined) (T),32.0772413,72.662547,Combined,Punjab,1,1,437,383
+ 34 - Government Boys Elementary School Chak No.67 N.B. (Bhucheranwala) (Combined)(T),32.0772413,72.662577,Combined,Punjab,2,2,1089,942
+ 35 - Government Boys Primary School Chak No.68 N.B. (Combined) (T),32.0772413,72.662607,Combined,Punjab,1,1,420,320
+ 24 - (305) Government Girls Primary School Chak No.5 Rakh Dhareema/Mangla Dam  (T)(Female),32.1907,72.58275,Female,Punjab,0,2,0,998

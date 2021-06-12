@@ -1,494 +1,494 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-1,Basic Health Unit Chak 531 TDA,30.0592734,71.1901781,Combined,Punjab,1,1,694,447
-10,Government Girls Primary School Chak 628 TDA,30.0592734,71.1902081,Combined,Punjab,1,1,579,442
-2,Government Girls Elementry School Chak 533 TDA,30.0592734,71.1902381,Combined,Punjab,1,1,664,463
-100,Government Girls High School Basti Pattal KotAddu Mustaqil Sharqi,30.0592734,71.1902681,Combined,Punjab,1,1,384,310
-3,Government Girls Primary School Chak 536 TDA,30.0592734,71.1902981,Combined,Punjab,1,1,455,302
-101,Government Girls High School Basti Pattal KotAddu Mustaqil Sharqi,30.0592734,71.1903281,Combined,Punjab,2,1,869,694
-4,Government boys Elementry school Zubair Abad Chak 617 TDA,30.0592734,71.1903581,Combined,Punjab,2,1,1007,675
-104,Government Boys Primary School Chak Rodi,30.0592734,71.1903881,Combined,Punjab,1,1,776,567
-5,Government Model Primary School Chak 619 TDA,30.0592734,71.1904181,Combined,Punjab,1,1,623,474
-105,Government Boys Primary School Basti Pattal Kot Addu (Female),30.0592734,71.1904481,Female,Punjab,0,2,0,773
-6,Government Boys Primary School Mumtaz Wala Chak 624 TDA,30.0592734,71.1904781,Combined,Punjab,2,1,950,686
-106,Government Boys Primary School Chak 153 ML (Waloo Wala),30.0592734,71.1905081,Combined,Punjab,2,1,821,669
-7,Government Boys Primary School  Chak 620 TDA,30.0592734,71.1905381,Combined,Punjab,1,1,766,511
-107,Goverment Boys Primary School Chak 526 TDA,30.0592734,71.1905681,Combined,Punjab,1,1,547,474
-8,Government Boys Primary School 578/B Chak 622 TDA,30.0592734,71.1905981,Combined,Punjab,1,1,757,446
-108,Government Boys English Medium School Chak 528 TDA,30.0592734,71.1906281,Combined,Punjab,1,1,724,558
-9,Government Boys Elementry School Chak 626 TDA,30.0592734,71.1906581,Combined,Punjab,1,1,629,414
-10,Government Girls Primary School Chak 628 TDA,30.0592734,71.1906881,Combined,Punjab,1,1,579,442
-102,Government Boys Primary School Sultan Wala,30.0592734,71.1907181,Female,Punjab,0,2,0,890
-109,Government Boys Elementary School Chak 530 TDA,30.0592734,71.1907481,Combined,Punjab,1,1,795,627
-197,Government Boys High School Sheikh Umer,30.0592734,71.1907781,Combined,Punjab,2,1,904,721
-103,Government Boys Primary School Basti Pattal Kot Addu (Male),30.0592734,71.1908081,Male,Punjab,2,0,934,0
-11,Government Girls Community Model School Chak 633 TDA,30.0592734,71.1908381,Combined,Punjab,2,1,928,659
-110,Govt Maktab School Ghulam Hussain Ghaoon Wala,30.0592734,71.1908681,Combined,Punjab,2,1,825,688
-14,Government Model Primary School Chak 541 TDA,30.0592734,71.1908981,Combined,Punjab,1,1,822,545
-113,Government Boys Primary School Chak 151 ML,30.0592734,71.1909281,Combined,Punjab,2,1,853,632
-17,Government Model Primary School Chak 543 TDA,30.0592734,71.1909581,Combined,Punjab,1,1,538,389
-114,Government Boys Elementary  School Chak 521 TDA,30.0592734,71.1909881,Combined,Punjab,2,1,837,628
-18,Government Girls Primary School Chak 544/TDA,30.0592734,71.1910181,Combined,Punjab,1,1,352,259
-115,Government Girls Elementary School Chak 146 ML (Male),30.0592734,71.1910481,Male,Punjab,2,0,968,0
-19,Government High School Chak 550/TDA,30.0592734,71.1910781,Combined,Punjab,1,1,415,356
-118,Government Boys Primary School Chak 149 ML (Male),30.0592734,71.1911081,Male,Punjab,2,0,1031,0
-22,Government Girls Primary School Chak 546 TDA,30.0592734,71.1911381,Combined,Punjab,1,1,710,448
-12,Government Girls Primary School Chak 537/TDA,30.0592734,71.1911681,Combined,Punjab,1,1,656,464
-24,Government Girls Primary School Chak 559 TDA,30.0592734,71.1911981,Combined,Punjab,2,1,841,490
-121,Government  Boys Primary School Chak 143 ML,30.0592734,71.1912281,Combined,Punjab,2,1,830,569
-26,Government Girls Primary School Chak 649 TDA,30.0592734,71.1912581,Combined,Punjab,1,1,489,411
-122,Government Boys Elementary School Habib Wala-Chak 145 ML,30.0592734,71.1912881,Combined,Punjab,1,1,670,475
-27,Government Boys High School Ghulam Hussain Wala,30.0592734,71.1913181,Combined,Punjab,1,1,478,391
-127,Government Model Primary School Chak 512 TDA,30.0592734,71.1913481,Combined,Punjab,1,1,699,549
-32,Government Boys Primary School Surmay Dani,30.0592734,71.1913781,Combined,Punjab,2,1,914,594
-133,Government Boys High School Chak 518 TDA (Male),30.0592734,71.1914081,Male,Punjab,2,0,1003,0
-39,Government Model Primary School Chak 582 TDA,30.0592734,71.1914381,Combined,Punjab,1,1,496,362
-134,Government Girls High School Chak 518 TDA,30.0592734,71.1914681,Combined,Punjab,1,1,677,564
-40,Government Boys Primary School Chak 583 TDA,30.0592734,71.1914981,Combined,Punjab,1,1,738,558
-251,Government Girls Primary School Gaji Wala (Male),30.0592734,71.1915281,Male,Punjab,2,0,955,0
-65,Government Boys Primary School More Wala,30.0592734,71.1915581,Combined,Punjab,1,1,408,363
-253,Government Girls Primary School Gaji Wala (Male),30.0592734,71.1915881,Male,Punjab,2,0,770,0
-67,Government Boys Primary School Lombar Wala,30.0592734,71.1916181,Combined,Punjab,1,1,491,435
-161,Government Boys Primary School Tarandin Wala,30.0592734,71.1916481,Combined,Punjab,1,1,529,376
-243,Govt. Boys High School Kot Addu New Block Western Side (Male),30.0592734,71.1916781,Male,Punjab,2,0,1646,0
-174,Government Boys Elementary School Hussain Wala (Male),30.0592734,71.1917081,Male,Punjab,2,0,1289,0
-255,Government Girls High School Mochi Wala (Female),30.0592734,71.1917381,Female,Punjab,0,2,0,861
-176,Government Boys Elementary School Hussain Wala (Female),30.0592734,71.1917681,Female,Punjab,0,3,0,1037
-257,Government Girls High School Mochi Wala (Male),30.0592734,71.1917981,Male,Punjab,2,0,1072,0
-175,Government Boys Primary School Fazil Wala,30.0592734,71.1918281,Combined,Punjab,1,1,880,654
-256,Government Girls High School Mochi Wala (Male),30.0592734,71.1918581,Male,Punjab,2,0,891,0
-104,Government Boys Primary School Chak Rodi,30.0592734,71.1918881,Combined,Punjab,1,1,776,567
-192,Government Boys Primary School Akhtar Wala (Male),30.0592734,71.1919181,Male,Punjab,2,0,1222,0
-178,Government boys School Pirhar Gharbi,30.0661289,71.1919023,Combined,Punjab,1,1,765,644
-259,Government Primary  School  Basti Malook Building No.2 (Male),30.0661289,71.1919323,Male,Punjab,2,0,1812,0
-188,Government Boys Primary School Hala (Male),30.0661289,71.1919623,Male,Punjab,2,0,1551,0
-268,Government High School No. 2 Kot Adu (Male),30.0661289,71.1919923,Male,Punjab,2,0,1400,0
-189,Government Boys Primary School Hala (Female),30.0661289,71.1920223,Female,Punjab,0,3,0,1257
-269,Government Special Education Kot Addu (Female),30.0661289,71.1920523,Female,Punjab,0,2,0,822
-192,Government Boys Primary School Akhtar Wala (Male),30.0661289,71.1920823,Male,Punjab,2,0,1222,0
-271,Government Boys High School No. 1 kot addu Old Building (Male),30.0661289,71.1921123,Male,Punjab,2,0,1227,0
-194,Government Boys Primary School Manhan,30.0661289,71.1921423,Combined,Punjab,2,1,880,733
-273,Government Boys High School No. 1 Old Building (Female),30.0661289,71.1921723,Female,Punjab,0,2,0,992
-195,Government Girls Elementary School Manhan (Male),30.0661289,71.1922023,Male,Punjab,2,0,1478,0
-274,Deputy District Agriculture Office Kot Addu (Female),30.0661289,71.1922323,Female,Punjab,0,3,0,1226
-196,Government Girls Elementary School Manhan (Female),30.0661289,71.1922623,Female,Punjab,0,3,0,1239
-275,Government Girls Elementry School Double Shift Kot addu (Female),30.0661289,71.1922923,Female,Punjab,0,2,0,1153
-197,Government Boys High School Sheikh Umer,30.0661289,71.1923223,Combined,Punjab,2,1,904,721
-276,Government Girls Primary School Jogi Wala (Male),30.0661289,71.1923523,Male,Punjab,2,0,1216,0
-198,Government Boys Primary School Usman Rid,30.0661289,71.1923823,Combined,Punjab,1,1,603,525
-277,Government Girls Collage Kot Adu (Female),30.0661289,71.1924123,Female,Punjab,0,3,0,1248
-179,Government Girls Primary School Pirhar Gharbi,30.0661289,71.1924423,Combined,Punjab,1,1,654,486
-26,Government Girls Primary School Chak 649 TDA,30.0661289,71.1924723,Combined,Punjab,1,1,489,411
-180,Government Boys Primary School Rahmoo Wali,30.0661289,71.1925023,Combined,Punjab,1,1,685,574
-260,Government Girls Primary School Hussain Wala (Male),30.0661289,71.1925323,Male,Punjab,3,0,2315,0
-181,Government Boys Primary School Peeran Wala (Male),30.0661289,71.1925623,Male,Punjab,2,0,1036,0
-261,Government Girls Primary School Hussain Wala (Female),30.0661289,71.1925923,Female,Punjab,0,4,0,1925
-183,Government Boys Primary School Peeran Wala (Female),30.0661289,71.1926223,Female,Punjab,0,2,0,885
-263,Government Boys Primary School Shehzaday Wala (Male),30.0661289,71.1926523,Male,Punjab,2,0,806,0
-182,Government Primary School Lashari Wala,30.0661289,71.1926823,Combined,Punjab,1,1,882,665
-262,Government Boys Primary School Shehzaday Wala (Female),30.0661289,71.1927123,Female,Punjab,0,2,0,623
-184,Government Boys Middle School Pirhar Gharbi (Male),30.0661289,71.1927423,Male,Punjab,2,0,1158,0
-264,Government Primary  School  Basti Malook Building No.1 (Female),30.0661289,71.1927723,Female,Punjab,0,4,0,1888
-187,Government Boys Primary School Hala,30.0661289,71.1928023,Combined,Punjab,1,1,730,611
-267,Government Boys High School No. 2 Kot Adu (Female),30.0661289,71.1928323,Female,Punjab,0,4,0,1204
-199,Government Boys Primary School Arain Wala (Male),30.0670476,71.1826859,Male,Punjab,2,0,1639,0
-278,Government Girls Primary School Kory Khan (Male),30.0670476,71.1827159,Male,Punjab,2,0,1268,0
-200,Government Boys Primary School Arain Wala (Female),30.0670476,71.1827459,Female,Punjab,0,3,0,1273
-279,Government Girls Primary School Kalar Wala (Female),30.0670476,71.1827759,Female,Punjab,0,2,0,945
-201,Government High School Shadi Khan Munda (Male),30.0670476,71.1828059,Male,Punjab,2,0,1460,0
-28,Government Boys Primary School Chak 652 TDA,30.0670476,71.1828359,Combined,Punjab,1,1,635,536
-202,Government Boys High School Shadi Khan Munda (Female),30.0670476,71.1828659,Female,Punjab,0,3,0,1159
-280,Government Girls Primary School Mithoo Wala (Male),30.0670476,71.1828959,Male,Punjab,2,0,1139,0
-203,Government boys High School Shadi Khan Munda,30.0670476,71.1829259,Combined,Punjab,2,2,845,659
-281,Government Girls Elementry School Marri Wala (Female),30.0670476,71.1829559,Female,Punjab,0,2,0,709
-119,Government Boys Elementry School Habib Wala Chak 145 ML,30.0712798,71.1931434,Combined,Punjab,2,1,886,651
-23,Government Girls Primary School Chak 634 TDA,30.0712798,71.1931734,Combined,Punjab,2,1,911,526
-120,Government Boys Primary School Chak 149 ML (Female),30.0712798,71.1932034,Female,Punjab,0,2,0,825
-25,Government Girls Primary School Chak 641 TDA,30.0712798,71.1932334,Combined,Punjab,2,1,842,591
-185,Government Boys Middle School Pirhar Gharbi,30.42031,70.91246,Combined,Punjab,2,1,815,661
-265,Government Boys Millat Elementry School Kot Addu (Male),30.42031,70.91249,Male,Punjab,2,0,742,0
-186,Government Boys Middle School Pirhar Gharbi (Female),30.42031,70.91252,Female,Punjab,0,2,0,1058
-266,Government Boys Millat Elementry School Kot Addu (Male),30.42031,70.91255,Male,Punjab,2,0,1736,0
-249,Government Girls Primary School Gharhi Canal Colony Kot Addu (Female),30.449519267058776,70.96347515229465,Female,Punjab,0,3,0,1440
-63,Government Boys Maktab School Kingri Wala,30.449519267058776,70.9635051522946,Combined,Punjab,1,1,214,157
-247,Government Girls Primary School Gharhi Canal Colony Kot Addu (Female),30.4495335965606,70.96352218337415,Female,Punjab,0,3,0,1309
-61,Government Maktab School Malik Wala,30.4495335965606,70.9635521833741,Combined,Punjab,1,1,677,553
-162,Government  Boys Primary School Khirki (Male),30.451013533448712,70.94073266419002,Male,Punjab,2,0,1177,0
-244,Government Boys Primary School Tibba Sultan Pura (Female),30.451013533448712,70.94076266419,Female,Punjab,0,3,0,1431
-145,Government Boys Primary School Loon Wala,30.453159923008517,70.8848762530795,Combined,Punjab,1,1,200,156
-229,Government Girls Primary School Ara (Female),30.453159923008517,70.8849062530795,Female,Punjab,0,4,0,1689
-264,Government Primary  School  Basti Malook Building No.1 (Female),30.45505908,70.97693851,Female,Punjab,0,4,0,1888
-77,Government Boys Primary School Shah Wala,30.45505908,70.97696851,Combined,Punjab,1,1,557,449
-258,Government Primary  School Arif  Abad  (Female) Present Basti Malook Building No.1 (Female),30.45506217009842,70.97691285203344,Female,Punjab,0,3,0,1515
-71,Government Girls Primary school Khand Wala,30.45506217009842,70.9769428520334,Combined,Punjab,1,1,654,540
-259,Government Primary  School  Basti Malook Building No.2 (Male),30.45506217009842,70.9769728520334,Male,Punjab,2,0,1812,0
-72,Government Girls Primary School Nanu Wala                                 (Male),30.45506217009842,70.9770028520334,Male,Punjab,2,0,1038,0
-248,Canal Colony Office Kot Addu (Male),30.456914892220826,70.9655214153941,Male,Punjab,3,0,1487,0
-62,Government Boys Primary School Bangla Hinjrai,30.456914892220826,70.9655514153941,Combined,Punjab,1,1,393,273
-260,Government Girls Primary School Hussain Wala (Male),30.46036597041873,70.9709382300453,Male,Punjab,3,0,2315,0
-73,Government Girls Primary School Saleh Wala,30.46036597041873,70.9709682300453,Combined,Punjab,1,1,399,310
-261,Government Girls Primary School Hussain Wala (Female),30.46036597041873,70.9709982300453,Female,Punjab,0,4,0,1925
-74,Government Girls Primary School Sultan Wala (Female),30.46036597041873,70.9710282300453,Female,Punjab,0,2,0,812
-108,Government Boys English Medium School Chak 528 TDA,30.46155431545325,71.03162274050386,Combined,Punjab,1,1,724,558
-196,Government Girls Elementary School Manhan (Female),30.46155431545325,71.0316527405039,Female,Punjab,0,3,0,1239
-254,Government Girls High School Mochi Wala (Female),30.461970440306732,70.96569971787724,Female,Punjab,0,2,0,782
-68,Government Boys Elementary School Abbas Wala,30.461970440306732,70.9657297178772,Combined,Punjab,1,1,612,564
-255,Government Girls High School Mochi Wala (Female),30.461970440306732,70.9657597178772,Female,Punjab,0,2,0,861
-69,Government Boys Primary School Jadeed Bahadur Wala,30.461970440306732,70.9657897178772,Combined,Punjab,2,1,814,705
-256,Government Girls High School Mochi Wala (Male),30.461970440306732,70.9658197178772,Male,Punjab,2,0,891,0
-7,Government Boys Primary School  Chak 620 TDA,30.461970440306732,70.9658497178772,Combined,Punjab,1,1,766,511
-257,Government Girls High School Mochi Wala (Male),30.461970440306732,70.9658797178772,Male,Punjab,2,0,1072,0
-70,Government Girls Primary School Kulachi Wala,30.461970440306732,70.9659097178772,Combined,Punjab,1,1,529,394
-252,Government Boys High School Kot Addu (Male),30.463784831504913,70.96558664020178,Male,Punjab,3,0,1710,0
-66,Government Boys High School Yaray Wala,30.463784831504913,70.9656166402018,Combined,Punjab,2,2,856,700
-243,Govt. Boys High School Kot Addu New Block Western Side (Male),30.463794361812486,70.96530336043118,Male,Punjab,2,0,1646,0
-58,Government Boys High School Yaray Wala,30.463794361812486,70.9653333604312,Combined,Punjab,1,1,755,550
-250,Government Boys High School Kot Adu (Female),30.463794361812486,70.9653633604312,Female,Punjab,0,3,0,1503
-64,Government Boys Primary School More Wala,30.463794361812486,70.9653933604312,Combined,Punjab,1,1,671,523
-244,Government Boys Primary School Tibba Sultan Pura (Female),30.465165879980837,70.95827495374418,Female,Punjab,0,3,0,1431
-59,Government Girls Primary School Nazar Pura (Female),30.465165879980837,70.9583049537442,Female,Punjab,0,2,0,739
-242,Government Boys Primary School Tibba Sultan Pura (Female),30.465213140398824,70.95823576188009,Female,Punjab,0,2,0,954
-57,Government Girls Primary School Nazar Pura (Male),30.465213140398824,70.9582657618801,Male,Punjab,2,0,883,0
-282,Government Boys Primary School Mitho Wala (Male),30.46676086,70.97613506,Male,Punjab,2,0,877,0
-93,Government Boys Primary School Hasaam Wala (Male),30.46676086,70.97616506,Male,Punjab,2,0,1361,0
-287,Government Girls Primary School Moti Wala (Female),30.46676086,70.97619506,Female,Punjab,0,2,0,1472
-98,Government Girls Elementary School Nazeer Wala,30.46676086,70.97622506,Combined,Punjab,2,1,901,680
-288,Government Girls Primary School Moti Wala (Male),30.46676934,70.976143,Male,Punjab,2,0,1682,0
-99,Government Boys Primary School Mehran Wala (Male)- Present Name Girls P/S Kanjoo Wala,30.46676934,70.976173,Male,Punjab,2,0,1147,0
-267,Government Boys High School No. 2 Kot Adu (Female),30.46739019545487,70.96651656412683,Female,Punjab,0,4,0,1204
-8,Government Boys Primary School 578/B Chak 622 TDA,30.46739019545487,70.9665465641268,Combined,Punjab,1,1,757,446
-268,Government High School No. 2 Kot Adu (Male),30.46739019545487,70.9665765641268,Male,Punjab,2,0,1400,0
-80,Government Boys Primary School Sheikhu Wala,30.46739019545487,70.9666065641268,Combined,Punjab,1,1,348,268
-272,Dy. District Agriculture Office Kot Adu (Male),30.468099756844175,70.97643096488721,Male,Punjab,2,0,1579,0
-84,Government Boys High School Saleh Wala,30.468099756844175,70.9764609648872,Combined,Punjab,1,1,736,584
-158,Government Boys Primary School Aslam Khan Wala (Male),30.46827708860177,70.91513039290396,Male,Punjab,2,0,929,0
-240,Government Boys High School Kot Adu No.1 New Building (Female),30.46827708860177,70.915160392904,Female,Punjab,0,2,0,992
-165,Government Girls Primary School Dost Ali Wala (Male),30.468658618515235,70.93427010405898,Male,Punjab,2,0,1439,0
-247,Government Girls Primary School Gharhi Canal Colony Kot Addu (Female),30.468658618515235,70.934300104059,Female,Punjab,0,3,0,1309
-167,Government Primary School Dost Ali Wala (Female),30.468658618515235,70.934330104059,Female,Punjab,0,3,0,1234
-249,Government Girls Primary School Gharhi Canal Colony Kot Addu (Female),30.468658618515235,70.934360104059,Female,Punjab,0,3,0,1440
-241,Government Boys High School No. 1 Kot Adu New Building (Male),30.46868405851999,70.95433629051176,Male,Punjab,2,0,1126,0
-56,Government Girls High School Ehsan Pur,30.46868405851999,70.9543662905118,Female,Punjab,0,2,0,822
-240,Government Boys High School Kot Adu No.1 New Building (Female),30.468689989857875,70.95433209213387,Female,Punjab,0,2,0,992
-55,Government Boys Primary School Seed Farm,30.468689989857875,70.9543620921339,Combined,Punjab,2,1,1045,796
-269,Government Special Education Kot Addu (Female),30.469811240733264,70.97175027957417,Female,Punjab,0,2,0,822
-81,Government Boys Middle School Haider Ghazi (Male),30.469811240733264,70.9717802795742,Male,Punjab,2,0,972,0
-270,Government Special Education Kot Addu (Male),30.469811240733264,70.9718102795742,Male,Punjab,2,0,1063,0
-82,Government Girls Primary School Khursheed Abad,30.469811240733264,70.9718402795742,Combined,Punjab,2,1,858,719
-276,Government Girls Primary School Jogi Wala (Male),30.46991591,70.96453576,Male,Punjab,2,0,1216,0
-88,Government Boys Primary School Nishan Wala,30.46991591,70.96456576,Combined,Punjab,2,1,550,428
-163,Government Boys Primary School Baryar Abbad (Male),30.470228120672317,70.92715700600894,Male,Punjab,2,0,994,0
-245,Government Boys High School No.1 Kot Addu New Building (Female),30.470228120672317,70.9271870060089,Female,Punjab,0,3,0,1299
-166,Government Boys Primary School Beryar Abbad (Female),30.470228120672317,70.9272170060089,Female,Punjab,0,1,0,778
-248,Canal Colony Office Kot Addu (Male),30.470228120672317,70.9272470060089,Male,Punjab,3,0,1487,0
-168,Government Girls Primay School Faqeero  Arain wala (Male),30.47023861838986,70.94448346431054,Male,Punjab,2,0,1110,0
-25,Government Girls Primary School Chak 641 TDA,30.47023861838986,70.9445134643105,Combined,Punjab,2,1,842,591
-171,Government Girls Primay School Faqeero Arain wala (Female),30.47023861838986,70.9445434643105,Female,Punjab,0,2,0,852
-252,Government Boys High School Kot Addu (Male),30.47023861838986,70.9445734643105,Male,Punjab,3,0,1710,0
-265,Government Boys Millat Elementry School Kot Addu (Male),30.4706048850335,70.98341963012106,Male,Punjab,2,0,742,0
-78,Government Boys Primary School Abdullah Wala,30.4706048850335,70.9834496301211,Combined,Punjab,1,1,687,527
-266,Government Boys Millat Elementry School Kot Addu (Male),30.4706048850335,70.9834796301211,Male,Punjab,2,0,1736,0
-79,Government Boys Primary School Sheikhu Wala,30.4706048850335,70.9835096301211,Combined,Punjab,1,1,561,426
-275,Government Girls Elementry School Double Shift Kot addu (Female),30.4708102,70.96528407,Female,Punjab,0,2,0,1153
-87,Government Boys Middle School Abdul Rehman Wala,30.4708102,70.96531407,Combined,Punjab,1,1,693,507
-245,Government Boys High School No.1 Kot Addu New Building (Female),30.47095935446436,70.9668189192311,Female,Punjab,0,3,0,1299
-6,Government Boys Primary School Mumtaz Wala Chak 624 TDA,30.47095935446436,70.9668489192311,Combined,Punjab,2,1,950,686
-246,Government Boys High School No.1 Kot Addu (Male),30.47095935446436,70.9668789192311,Male,Punjab,3,0,1455,0
-60,Government Maktab School Qureshi Wala,30.47095935446436,70.9669089192311,Combined,Punjab,1,1,646,513
-271,Government Boys High School No. 1 kot addu Old Building (Male),30.471036731711145,70.96692869023204,Male,Punjab,2,0,1227,0
-83,Government Boys Middle School Haider Ghazi (Female),30.471036731711145,70.966958690232,Female,Punjab,0,2,0,757
-273,Government Boys High School No. 1 Old Building (Female),30.471036731711145,70.966988690232,Female,Punjab,0,2,0,992
-85,Government Boys High School Saleh Wala,30.471036731711145,70.967018690232,Combined,Punjab,1,1,442,357
-277,Government Girls Collage Kot Adu (Female),30.47418921,70.97428083,Female,Punjab,0,3,0,1248
-89,Government Boys Primay School Janoon Mustaqil,30.47418921,70.97431083,Combined,Punjab,1,1,523,386
-151,Government Boys Primary School Rasheed Khan Wala (Male),30.475008469245466,70.8979182228216,Male,Punjab,2,0,1159,0
-234,Government Boys Primary School Dadray Wala (Female),30.475008469245466,70.8979482228216,Female,Punjab,0,2,0,1047
-154,Government Boys Primary School Rasheed Khan Wala (Female),30.475008469245466,70.8979782228216,Female,Punjab,0,2,0,859
-237,Government Girls Primary School Nooray Wala (Male),30.475008469245466,70.8980082228216,Male,Punjab,2,0,937,0
-239,Government Girls Primary School Tajamul Wala (Male),30.476407537872873,70.95389055538288,Male,Punjab,3,0,1196,0
-54,Government Girls High School Ehsan Pur (Male),30.476407537872873,70.9539205553829,Male,Punjab,2,0,951,0
-156,Government Boys Primary School Sanjrani Wala (Male),30.47862135069029,70.89168463783525,Male,Punjab,2,0,1403,0
-239,Government Girls Primary School Tajamul Wala (Male),30.47862135069029,70.8917146378353,Male,Punjab,3,0,1196,0
-157,Government Boys Primary School Sanjrani Wala (Female),30.478630084684447,70.89171713257963,Female,Punjab,0,2,0,1039
-24,Government Girls Primary School Chak 559 TDA,30.478630084684447,70.8917471325796,Combined,Punjab,2,1,841,490
-262,Government Boys Primary School Shehzaday Wala (Female),30.4795903974277,70.99024508713417,Female,Punjab,0,2,0,623
-75,Government Girls Primary School Chani Wala,30.4795903974277,70.9902750871342,Combined,Punjab,1,1,404,322
-263,Government Boys Primary School Shehzaday Wala (Male),30.4795903974277,70.9903050871342,Male,Punjab,2,0,806,0
-76,Government Girls Middle School Tibba Qazian,30.4795903974277,70.9903350871342,Combined,Punjab,1,1,407,351
-238,Government Boys Primary School Ahmad Kot Wala (Female),30.48060713107759,70.94106138848836,Female,Punjab,0,2,0,794
-53,Government Girls High School Ehsan Pur,30.48060713107759,70.9410913884884,Combined,Punjab,1,1,570,478
-112,Government Boys Elementary School Noor Shah- Chak 525 TDA,30.482162271476874,71.07607738049954,Combined,Punjab,2,1,842,619
-2,Government Girls Elementry School Chak 533 TDA,30.482162271476874,71.0761073804995,Combined,Punjab,1,1,664,463
-177,Government Boys Elementary School Noor Shah- Chak 525 TDA,30.482162271476874,71.0761373804995,Combined,Punjab,1,1,471,413
-258,Government Primary  School Arif  Abad  (Female) Present Basti Malook Building No.1 (Female),30.482162271476874,71.0761673804995,Female,Punjab,0,3,0,1515
-280,Government Girls Primary School Mithoo Wala (Male),30.48253165,70.96996802,Male,Punjab,2,0,1139,0
-91,Government Boys Middle School Shah Wala,30.48253165,70.96999802,Combined,Punjab,1,1,519,388
-190,Govt Girls primary school Mohib Wala,30.483823182609097,70.92654856805241,Combined,Punjab,1,1,619,432
-98,Government Girls Elementary School Nazeer Wala,30.483823182609097,70.9265785680524,Combined,Punjab,2,1,901,680
-281,Government Girls Elementry School Marri Wala (Female),30.48456471,70.96496137,Female,Punjab,0,2,0,709
-92,Government Boys Primary School Janoon Mustaqil,30.48456471,70.96499137,Combined,Punjab,2,1,806,659
-279,Government Girls Primary School Kalar Wala (Female),30.48473954,70.97828446,Female,Punjab,0,2,0,945
-90,Government Boys Middle School Shah Wala,30.48473954,70.97831446,Combined,Punjab,1,1,423,307
-144,Government Boys Primary School Faqeer Wali (Male),30.492676504586935,70.82843992901735,Male,Punjab,2,0,1085,0
-228,Government Girls High School Daira Din Panah (Male),30.492676504586935,70.8284699290173,Male,Punjab,4,0,1882,0
-146,Government Boys Primary School Faqeer Wali (Female),30.492676504586935,70.8284999290174,Female,Punjab,0,2,0,836
-23,Government Girls Primary School Chak 634 TDA,30.492676504586935,70.8285299290174,Combined,Punjab,2,1,911,526
-150,Government Girls Primary School Kacha Patal (Female),30.493223530118758,70.90462745747838,Female,Punjab,0,2,0,1465
-233,Government Boys Primary School Guftar Abad,30.493223530118758,70.9046574574784,Combined,Punjab,1,1,578,451
-106,Government Boys Primary School Chak 153 ML (Waloo Wala),30.494140858299104,71.02398745561828,Combined,Punjab,2,1,821,669
-194,Government Boys Primary School Manhan,30.494140858299104,71.0240174556183,Combined,Punjab,2,1,880,733
-152,Government Boys Primary School Chandan Wala (Male),30.49699201433281,70.89246894476979,Male,Punjab,1,0,666,0
-235,Government Boys Primary School Guftar Abad,30.49699201433281,70.8924989447698,Combined,Punjab,1,1,715,607
-153,Government Boys Primary School Chandan Wala (Male),30.49699201433281,70.8925289447698,Male,Punjab,2,0,1128,0
-236,Government Boys Primary School Samadari Jadeed,30.49699201433281,70.8925589447698,Combined,Punjab,2,1,830,671
-155,Government Girls Primary School Chandan Wala (Female),30.49699201433281,70.8925889447698,Female,Punjab,0,2,0,1478
-238,Government Boys Primary School Ahmad Kot Wala (Female),30.49699201433281,70.8926189447698,Female,Punjab,0,2,0,794
-111,Government Boys Primary School Chak 522 TDA,30.502551242265973,71.05834037654574,Combined,Punjab,1,1,750,602
-199,Government Boys Primary School Arain Wala (Male),30.502551242265973,71.0583703765457,Male,Punjab,2,0,1639,0
-191,Govt Girls primary school Mohib Wala,30.504123890647545,70.94126228091133,Combined,Punjab,1,1,366,362
-99,Government Boys Primary School Mehran Wala (Male)- Present Name Girls P/S Kanjoo Wala,30.504123890647545,70.9412922809113,Male,Punjab,2,0,1147,0
-19,Government High School Chak 550/TDA,30.505846346987962,70.92202775153073,Combined,Punjab,1,1,415,356
-97,Government Boys Primary School Bahadur Wala,30.505846346987962,70.9220577515307,Combined,Punjab,1,1,582,388
-100,Government Girls High School Basti Pattal KotAddu Mustaqil Sharqi,30.510745395004957,70.9617302964615,Combined,Punjab,1,1,384,310
-144,Government Boys Primary School Faqeer Wali (Male),30.510745395004957,70.9617602964615,Male,Punjab,2,0,1085,0
-101,Government Girls High School Basti Pattal KotAddu Mustaqil Sharqi,30.510745395004957,70.9617902964615,Combined,Punjab,2,1,869,694
-145,Government Boys Primary School Loon Wala,30.510745395004957,70.9618202964615,Combined,Punjab,1,1,200,156
-105,Government Boys Primary School Basti Pattal Kot Addu (Female),30.51078405631162,70.96854655727562,Female,Punjab,0,2,0,773
-193,Govt Girls Primary School Sadhari (Female),30.51078405631162,70.9685765572756,Female,Punjab,0,2,0,1019
-103,Government Boys Primary School Basti Pattal Kot Addu (Male),30.51078405631162,70.9686065572756,Male,Punjab,2,0,934,0
-147,Government Boys Primary School Matwani Wala Gharbi,30.51078405631162,70.9686365572756,Combined,Punjab,1,1,595,479
-147,Government Boys Primary School Matwani Wala Gharbi,30.51304857164879,70.85859213263086,Combined,Punjab,1,1,595,479
-230,Government Girls High School Daira Din Panah (Male),30.51304857164879,70.8586221326309,Male,Punjab,4,0,1557,0
-130,Government Boys Primary School Dhengin Wala,30.51390921468074,71.10856259346806,Combined,Punjab,1,1,481,419
-215,Government Boys Middle School Chowk Sarwar Shaheed (Female),30.51390921468074,71.1085925934681,Female,Punjab,0,3,0,1174
-141,Government Boys Primary School Dhengin Wala,30.51390921468074,71.1086225934681,Combined,Punjab,1,1,732,601
-225,Government Girls High School Daira Din Panah (Female),30.51390921468074,71.1086525934681,Female,Punjab,0,3,0,1258
-113,Government Boys Primary School Chak 151 ML,30.519183692630058,71.03823819889834,Combined,Punjab,2,1,853,632
-20,Government Primary School Chak 564/TDA,30.519183692630058,71.0382681988983,Combined,Punjab,2,1,938,701
-186,Government Boys Middle School Pirhar Gharbi (Female),30.51949,70.94396,Female,Punjab,0,2,0,1058
-93,Government Boys Primary School Hasaam Wala (Male),30.51949,70.94399,Male,Punjab,2,0,1361,0
-143,Government Boys Primary School Chak 523 TDA,30.519501110567326,71.07987978224045,Combined,Punjab,1,1,344,265
-227,Government Girls Elementry School Tibba Qazian (Female),30.519501110567326,71.0799097822404,Female,Punjab,0,1,0,526
-187,Government Boys Primary School Hala,30.519584624605006,70.94401379043933,Combined,Punjab,1,1,730,611
-94,Government Boys Primary School Hassam Wala (Male),30.519584624605006,70.9440437904393,Male,Punjab,2,0,986,0
-114,Government Boys Elementary  School Chak 521 TDA,30.53070361109372,71.0589803035684,Combined,Punjab,2,1,837,628
-200,Government Boys Primary School Arain Wala (Female),30.53070361109372,71.0590103035684,Female,Punjab,0,3,0,1273
-185,Government Boys Middle School Pirhar Gharbi,30.539776580033088,70.92900446121777,Combined,Punjab,2,1,815,661
-92,Government Boys Primary School Janoon Mustaqil,30.539776580033088,70.9290344612178,Combined,Punjab,2,1,806,659
-182,Government Primary School Lashari Wala,30.53994,70.92896,Combined,Punjab,1,1,882,665
-89,Government Boys Primay School Janoon Mustaqil,30.53994,70.92899,Combined,Punjab,1,1,523,386
-142,Government Boys Primary School Chak 520 TDA,30.540938192743347,71.08019241479066,Combined,Punjab,1,1,780,587
-226,Government Girls Elementry School Tibba Qazian (Male),30.540938192743347,71.0802224147907,Male,Punjab,1,0,573,0
-236,Government Boys Primary School Samadari Jadeed,30.54810033295161,70.95477705340039,Combined,Punjab,2,1,830,671
-51,Government Girls High School Ehsan Pur,30.54810033295161,70.9548070534004,Combined,Punjab,1,1,713,587
-140,Government Boys Primary School Chak 580 TDA,30.549221900318198,71.11496354129478,Combined,Punjab,1,1,677,486
-224,Government Girls High School Daira Din Panah (Male),30.549221900318198,71.1149935412948,Male,Punjab,2,0,1411,0
-233,Government Boys Primary School Guftar Abad,30.549595285427802,70.9373442145048,Combined,Punjab,1,1,578,451
-49,Government Boys Primary School Marha,30.549595285427802,70.9373742145048,Combined,Punjab,1,1,741,563
-235,Government Boys Primary School Guftar Abad,30.549595285427802,70.9374042145048,Combined,Punjab,1,1,715,607
-50,Government Boys High School Ehsan Pur (Female),30.549595285427802,70.9374342145048,Female,Punjab,0,2,0,925
-175,Government Boys Primary School Fazil Wala,30.55621005412748,70.97200021473043,Combined,Punjab,1,1,880,654
-81,Government Boys Middle School Haider Ghazi (Male),30.55621005412748,70.9720302147304,Male,Punjab,2,0,972,0
-177,Government Boys Elementary School Noor Shah- Chak 525 TDA,30.55621005412748,70.9720602147304,Combined,Punjab,1,1,471,413
-83,Government Boys Middle School Haider Ghazi (Female),30.55621005412748,70.9720902147304,Female,Punjab,0,2,0,757
-176,Government Boys Elementary School Hussain Wala (Female),30.55744754297711,70.9845923587564,Female,Punjab,0,3,0,1037
-82,Government Girls Primary School Khursheed Abad,30.55744754297711,70.9846223587564,Combined,Punjab,2,1,858,719
-130,Government Boys Primary School Dhengin Wala,30.55877156588738,71.20231148633789,Combined,Punjab,1,1,481,419
-36,Government  Girls Middle School Chak 573 TDA,30.55877156588738,71.2023414863379,Combined,Punjab,1,1,779,528
-118,Government Boys Primary School Chak 149 ML (Male),30.559837913891663,71.02399239851036,Male,Punjab,2,0,1031,0
-204,Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.559837913891663,71.0240223985104,Male,Punjab,2,0,771,0
-120,Government Boys Primary School Chak 149 ML (Female),30.559837913891663,71.0240523985104,Female,Punjab,0,2,0,825
-206,Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.559837913891663,71.0240823985104,Male,Punjab,2,0,994,0
-116,Government Model Primary School Chak 147 ML,30.55986679938738,71.05860832282555,Combined,Punjab,1,1,572,497
-202,Government Boys High School Shadi Khan Munda (Female),30.55986679938738,71.0586383228255,Female,Punjab,0,3,0,1159
-139,Government Girls Primary School Chak 577 TDA,30.56536245472461,71.13320803116139,Combined,Punjab,1,1,751,541
-223,Union Council Office Patal Munda (Present Union Council Aziz Abad),30.56536245472461,71.1332380311614,Female,Punjab,0,3,0,1176
-131,Government Girls High School Chak 142 ML (Female),30.568356370338307,71.16715436361308,Female,Punjab,0,1,0,749
-37,Government Boys Primary School Chak 575  TDA,30.568356370338307,71.1671843636131,Combined,Punjab,1,1,735,525
-231,Government Boys Middle School Daira Din Panah (Female),30.570998332568507,70.9379697682388,Female,Punjab,0,3,0,1321
-47,Government Boys  Primary School Khadim Wali,30.570998332568507,70.9379997682388,Combined,Punjab,1,1,504,391
-136,Government Boys Primary School Chak 519 TDA (Male),30.573154618793794,71.07980687144313,Male,Punjab,2,0,1165,0
-220,Cannal Rest House Chowk Sarwar Shaheed (Male),30.573154618793794,71.0798368714431,Male,Punjab,2,0,1216,0
-137,Government Boys Primary School Chak 519 TDA,30.573154618793794,71.0798668714431,Combined,Punjab,1,1,367,216
-221,Government Girls Degree College Chowk Sarwar Shaheed (Male),30.573154618793794,71.0798968714431,Male,Punjab,2,0,1633,0
-138,Government Boys Primary School Chak 519 TDA (Female),30.573154618793794,71.0799268714431,Female,Punjab,0,2,0,870
-222,Cannal Rest House Chowk Sarwar Shaheed (Female),30.573154618793794,71.0799568714431,Female,Punjab,0,4,0,2077
-173,Government Boys Primary School Lohar Wala (Female),30.57434761514673,70.99374571613147,Female,Punjab,0,2,0,1054
-79,Government Boys Primary School Sheikhu Wala,30.57434761514673,70.9937757161315,Combined,Punjab,1,1,561,426
-174,Government Boys Elementary School Hussain Wala (Male),30.57434761514673,70.9938057161315,Male,Punjab,2,0,1289,0
-80,Government Boys Primary School Sheikhu Wala,30.57434761514673,70.9938357161315,Combined,Punjab,1,1,348,268
-168,Government Girls Primay School Faqeero  Arain wala (Male),30.57617385065232,70.9088060400486,Male,Punjab,2,0,1110,0
-73,Government Girls Primary School Saleh Wala,30.57617385065232,70.9088360400486,Combined,Punjab,1,1,399,310
-132,Government Boys Primary School Chak 517 TDA,30.57654636743481,71.14951455889204,Combined,Punjab,1,1,628,412
-38,Basic Health Unit Chak 576 TDA,30.57654636743481,71.149544558892,Combined,Punjab,1,1,522,350
-179,Government Girls Primary School Pirhar Gharbi,30.57724,70.89879,Combined,Punjab,1,1,654,486
-85,Government Boys High School Saleh Wala,30.57724,70.89882,Combined,Punjab,1,1,442,357
-18,Government Girls Primary School Chak 544/TDA,30.57724,70.89885,Combined,Punjab,1,1,352,259
-86,Government Boys High School Saleh Wala,30.57724,70.89888,Combined,Punjab,1,1,689,549
-133,Government Boys High School Chak 518 TDA (Male),30.577520415265983,71.05843578943832,Male,Punjab,2,0,1003,0
-218,Government Girls Higher Secondary School Chowk Sarwar Shaheed (Male),30.577520415265983,71.0584657894383,Male,Punjab,2,0,1098,0
-135,Government Boys High School Chak 518 TDA (Female),30.577520415265983,71.0584957894383,Female,Punjab,0,1,0,753
-22,Government Girls Primary School Chak 546 TDA,30.577520415265983,71.0585257894383,Combined,Punjab,1,1,710,448
-178,Government boys School Pirhar Gharbi,30.577851171546687,70.89870856080024,Combined,Punjab,1,1,765,644
-84,Government Boys High School Saleh Wala,30.577851171546687,70.8987385608002,Combined,Punjab,1,1,736,584
-223,Union Council Office Patal Munda (Present Union Council Aziz Abad),30.5782759,71.2379082,Female,Punjab,0,3,0,1176
-4,Government boys Elementry school Zubair Abad Chak 617 TDA,30.5782759,71.2379382,Combined,Punjab,2,1,1007,675
-134,Government Girls High School Chak 518 TDA,30.5804857670292,71.05613501036433,Combined,Punjab,1,1,677,564
-219,Cannal Rest House Chowk Sarwar Shaheed (Male),30.5804857670292,71.0561650103643,Male,Punjab,2,0,1271,0
-204,Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.5807797,71.2316055,Male,Punjab,2,0,771,0
-282,Government Boys Primary School Mitho Wala (Male),30.5807797,71.2316355,Male,Punjab,2,0,877,0
-205,Government Boys Higher Secondary School Chowk Sarwar Shaheed.,30.5807797,71.2316655,Male,Punjab,1,0,330,0
-283,Government Girls Primary School Bhatta Atta Muhammad (Female),30.5807797,71.2316955,Female,Punjab,0,1,0,713
-206,Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.5807797,71.2317255,Male,Punjab,2,0,994,0
-284,Government Girls Primary School Bhatta Atta Muhammad (Female),30.5807797,71.2317555,Female,Punjab,0,1,0,821
-207,Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.5807797,71.2317855,Male,Punjab,2,0,1176,0
-285,Government Girls Primary School Bhatta Atta Muhammad (Male) centere no 2,30.5807797,71.2318155,Male,Punjab,2,0,961,0
-208,Government Boys Higher Secondary School Chowk Sarwar Shaheed,30.5807797,71.2318455,Female,Punjab,0,2,0,781
-286,Government Girls Primary School Bhatta Atta Muhammad Centre No. 1 (Male),30.5807797,71.2318755,Male,Punjab,2,0,982,0
-209,Government Boys Higher Secondary School Chowk Sarwar Shaheed (Female),30.5807797,71.2319055,Female,Punjab,0,2,0,851
-287,Government Girls Primary School Moti Wala (Female),30.5807797,71.2319355,Female,Punjab,0,2,0,1472
-210,Government Boys Higher Secondary School Chowk Sarwar Shaheed (Female),30.5807797,71.2319655,Female,Punjab,0,2,0,958
-288,Government Girls Primary School Moti Wala (Male),30.5807797,71.2319955,Male,Punjab,2,0,1682,0
-171,Government Girls Primay School Faqeero Arain wala (Female),30.58090509100798,70.96259592355317,Female,Punjab,0,2,0,852
-77,Government Boys Primary School Shah Wala,30.58090509100798,70.9626259235532,Combined,Punjab,1,1,557,449
-213,Canal Rest House Chowk Sarwar Shaheed (Male),30.5814322,71.2352253,Male,Punjab,2,0,1474,0
-30,Government Boys Primary School Chak 558 TDA,30.5814322,71.2352553,Combined,Punjab,1,1,611,479
-219,Cannal Rest House Chowk Sarwar Shaheed (Male),30.5814322,71.2352853,Male,Punjab,2,0,1271,0
-36,Government  Girls Middle School Chak 573 TDA,30.5814322,71.2353153,Combined,Punjab,1,1,779,528
-220,Cannal Rest House Chowk Sarwar Shaheed (Male),30.5814322,71.2353453,Male,Punjab,2,0,1216,0
-37,Government Boys Primary School Chak 575  TDA,30.5814322,71.2353753,Combined,Punjab,1,1,735,525
-222,Cannal Rest House Chowk Sarwar Shaheed (Female),30.5814322,71.2354053,Female,Punjab,0,4,0,2077
-39,Government Model Primary School Chak 582 TDA,30.5814322,71.2354353,Combined,Punjab,1,1,496,362
-167,Government Primary School Dost Ali Wala (Female),30.58188401900544,70.95784199401555,Female,Punjab,0,3,0,1234
-72,Government Girls Primary School Nanu Wala                                 (Male),30.58188401900544,70.9578719940155,Male,Punjab,2,0,1038,0
-128,Government Boys Primary School Khajjar Wala- Chak 516 TDA (Female),30.582074250030928,71.18807134935825,Female,Punjab,0,1,0,718
-33,Government Boys Primary School Chak 566 TDA (Male),30.582074250030928,71.1881013493582,Male,Punjab,2,0,1076,0
-13,Government Girls Primary School Chak 538/TDA,30.582074250030928,71.1881313493583,Combined,Punjab,1,1,886,622
-35,Government Girls Community Model School Chak 566 TDA (Female),30.582074250030928,71.1881613493583,Female,Punjab,0,2,0,834
-216,Government Girls Higher Secondary School Chowk Sarwer Shaheed (Female),30.58238,71.2375369,Female,Punjab,0,3,0,1408
-33,Government Boys Primary School Chak 566 TDA (Male),30.58238,71.2375669,Male,Punjab,2,0,1076,0
-217,Government Girls Higher Secondary School Chowk Sarwar Shaheed (Male),30.58238,71.2375969,Male,Punjab,1,0,700,0
-34,Government Boys Primary School Dirkhan Wala Chak 567 TDA,30.58238,71.2376269,Combined,Punjab,1,1,592,418
-218,Government Girls Higher Secondary School Chowk Sarwar Shaheed (Male),30.58238,71.2376569,Male,Punjab,2,0,1098,0
-35,Government Girls Community Model School Chak 566 TDA (Female),30.58238,71.2376869,Female,Punjab,0,2,0,834
-211,Government Boys Middle School Chowk Sarwer Shaheed,30.5827328,71.2387435,Male,Punjab,2,0,985,0
-29,Government Boys Primary School  Bagh Wala Chak 556 TDA,30.5827328,71.2387735,Combined,Punjab,1,1,331,257
-212,Government Boys Middle School Chowk Sarwer Shaheed (Male),30.5827328,71.2388035,Male,Punjab,2,0,904,0
-3,Government Girls Primary School Chak 536 TDA,30.5827328,71.2388335,Combined,Punjab,1,1,455,302
-214,Government Boys Middle School Chowk Sarwar Shaheed (Female),30.5827328,71.2388635,Female,Punjab,0,3,0,1507
-31,Government Boys Primary School Chak 561 TDA,30.5827328,71.2388935,Combined,Punjab,2,1,968,684
-215,Government Boys Middle School Chowk Sarwar Shaheed (Female),30.5827328,71.2389235,Female,Punjab,0,3,0,1174
-32,Government Boys Primary School Surmay Dani,30.5827328,71.2389535,Combined,Punjab,2,1,914,594
-170,Government Boys Primary School Lohar Wala (Male),30.583985934255235,70.93327738763699,Male,Punjab,2,0,1331,0
-76,Government Girls Middle School Tibba Qazian,30.583985934255235,70.933307387637,Combined,Punjab,1,1,407,351
-129,Government Girls High School Chak 142 ML (Male),30.586379474820482,71.21024801589512,Male,Punjab,2,0,924,0
-34,Government Boys Primary School Dirkhan Wala Chak 567 TDA,30.586379474820482,71.2102780158951,Combined,Punjab,1,1,592,418
-115,Government Girls Elementary School Chak 146 ML (Male),30.590004052294212,71.02985917504645,Male,Punjab,2,0,968,0
-201,Government High School Shadi Khan Munda (Male),30.590004052294212,71.0298891750464,Male,Punjab,2,0,1460,0
-117,Government Girls Elementary School Chak 146 ML (Female),30.590004052294212,71.0299191750465,Female,Punjab,0,1,0,691
-203,Government boys High School Shadi Khan Munda,30.590004052294212,71.0299491750465,Combined,Punjab,2,2,845,659
-116,Government Model Primary School Chak 147 ML,30.591599192135824,71.13944700801918,Combined,Punjab,1,1,572,497
-20,Government Primary School Chak 564/TDA,30.591599192135824,71.1394770080192,Combined,Punjab,2,1,938,701
-166,Government Boys Primary School Beryar Abbad (Female),30.593674659053217,70.96550913699097,Female,Punjab,0,1,0,778
-71,Government Girls Primary school Khand Wala,30.593674659053217,70.965539136991,Combined,Punjab,1,1,654,540
-17,Government Model Primary School Chak 543 TDA,30.59429347201182,70.93828991054208,Combined,Punjab,1,1,538,389
-75,Government Girls Primary School Chani Wala,30.59429347201182,70.9383199105421,Combined,Punjab,1,1,404,322
-172,Government Boys Primary School Lohar Wala (Female),30.594908653198726,70.99066617979227,Female,Punjab,0,1,0,544
-78,Government Boys Primary School Abdullah Wala,30.594908653198726,70.9906961797923,Combined,Punjab,1,1,687,527
-132,Government Boys Primary School Chak 517 TDA,30.596457500245123,71.07454768542048,Combined,Punjab,1,1,628,412
-217,Government Girls Higher Secondary School Chowk Sarwar Shaheed (Male),30.596457500245123,71.0745776854205,Male,Punjab,1,0,700,0
-126,Government Boys Primary School Khajjar Wala- Chak 516 TDA (Male),30.600370306468843,71.05867723648089,Male,Punjab,2,0,914,0
-211,Government Boys Middle School Chowk Sarwer Shaheed,30.600370306468843,71.0587072364809,Male,Punjab,2,0,985,0
-128,Government Boys Primary School Khajjar Wala- Chak 516 TDA (Female),30.600370306468843,71.0587372364809,Female,Punjab,0,1,0,718
-213,Canal Rest House Chowk Sarwar Shaheed (Male),30.600370306468843,71.0587672364809,Male,Punjab,2,0,1474,0
-154,Government Boys Primary School Rasheed Khan Wala (Female),30.606366557068682,70.92766754595026,Female,Punjab,0,2,0,859
-58,Government Boys High School Yaray Wala,30.606366557068682,70.9276975459503,Combined,Punjab,1,1,755,550
-161,Government Boys Primary School Tarandin Wala,30.60639844171312,70.92765543362518,Combined,Punjab,1,1,529,376
-66,Government Boys High School Yaray Wala,30.60639844171312,70.9276854336252,Combined,Punjab,2,2,856,700
-126,Government Boys Primary School Khajjar Wala- Chak 516 TDA (Male),30.606808304397532,71.20979530629371,Male,Punjab,2,0,914,0
-31,Government Boys Primary School Chak 561 TDA,30.606808304397532,71.2098253062937,Combined,Punjab,2,1,968,684
-163,Government Boys Primary School Baryar Abbad (Male),30.607329549650693,70.89626713675025,Male,Punjab,2,0,994,0
-68,Government Boys Elementary School Abbas Wala,30.607329549650693,70.8962971367502,Combined,Punjab,1,1,612,564
-158,Government Boys Primary School Aslam Khan Wala (Male),30.60855753033037,70.95643705756416,Male,Punjab,2,0,929,0
-62,Government Boys Primary School Bangla Hinjrai,30.60855753033037,70.9564670575642,Combined,Punjab,1,1,393,273
-121,Government  Boys Primary School Chak 143 ML,30.609857137862058,71.02749799540125,Combined,Punjab,2,1,830,569
-207,Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.609857137862058,71.0275279954012,Male,Punjab,2,0,1176,0
-162,Government  Boys Primary School Khirki (Male),30.613899293069665,70.91198405636436,Male,Punjab,2,0,1177,0
-67,Government Boys Primary School Lombar Wala,30.613899293069665,70.9120140563644,Combined,Punjab,1,1,491,435
-117,Government Girls Elementary School Chak 146 ML (Female),30.614144644127784,71.16319557054463,Female,Punjab,0,1,0,691
-21,Government Boys Elementry School Chak 555/TDA,30.614144644127784,71.1632255705446,Combined,Punjab,1,1,705,521
-156,Government Boys Primary School Sanjrani Wala (Male),30.614667143346175,70.93551739169628,Male,Punjab,2,0,1403,0
-60,Government Maktab School Qureshi Wala,30.614667143346175,70.9355473916963,Combined,Punjab,1,1,646,513
-16,Government Girls Primary School Chak 553 TDA,30.615408416235343,70.98094568662196,Combined,Punjab,1,1,261,166
-64,Government Boys Primary School More Wala,30.615408416235343,70.980975686622,Combined,Punjab,1,1,671,523
-160,Government Girls Primary School Shah Jamal (Female),30.615408416235343,70.981005686622,Female,Punjab,0,1,0,745
-65,Government Boys Primary School More Wala,30.615408416235343,70.981035686622,Combined,Punjab,1,1,408,363
-159,Government Boys Primary School Usman Khan Wala,30.620187302650642,70.98331397308957,Combined,Punjab,1,1,672,527
-63,Government Boys Maktab School Kingri Wala,30.620187302650642,70.9833439730896,Combined,Punjab,1,1,214,157
-129,Government Girls High School Chak 142 ML (Male),30.62150268180042,71.0765167635318,Male,Punjab,2,0,924,0
-214,Government Boys Middle School Chowk Sarwar Shaheed (Female),30.62150268180042,71.0765467635318,Female,Punjab,0,3,0,1507
-131,Government Girls High School Chak 142 ML (Female),30.62150268180042,71.0765767635318,Female,Punjab,0,1,0,749
-216,Government Girls Higher Secondary School Chowk Sarwer Shaheed (Female),30.62150268180042,71.0766067635318,Female,Punjab,0,3,0,1408
-165,Government Girls Primary School Dost Ali Wala (Male),30.62220624609555,70.91765321307587,Male,Punjab,2,0,1439,0
-70,Government Girls Primary School Kulachi Wala,30.62220624609555,70.9176832130759,Combined,Punjab,1,1,529,394
-125,Government Model Primary School Chak 116 ML (Female),30.622753624304316,71.20487461290126,Female,Punjab,0,2,0,963
-30,Government Boys Primary School Chak 558 TDA,30.622753624304316,71.2049046129013,Combined,Punjab,1,1,611,479
-169,Government Boys Primary School Lohar Wala (Male),30.62338195083839,71.15300425181823,Male,Punjab,1,0,742,0
-250,Government Boys High School Kot Adu (Female),30.62338195083839,71.1530342518182,Female,Punjab,0,3,0,1503
-172,Government Boys Primary School Lohar Wala (Female),30.623413024259825,71.15305613025797,Female,Punjab,0,1,0,544
-253,Government Girls Primary School Gaji Wala (Male),30.623413024259825,71.153086130258,Male,Punjab,2,0,770,0
-164,Government  Boys Primary School Baseera (Female),30.625064423101964,70.91694242969179,Female,Punjab,0,2,0,1025
-69,Government Boys Primary School Jadeed Bahadur Wala,30.625064423101964,70.9169724296918,Combined,Punjab,2,1,814,705
-136,Government Boys Primary School Chak 519 TDA (Male),30.625606327532388,70.87573728263817,Male,Punjab,2,0,1165,0
-42,Government Boys Primary School Khadim Wali,30.625606327532388,70.8757672826382,Combined,Punjab,1,1,386,322
-140,Government Boys Primary School Chak 580 TDA,30.62562031139119,70.87566754105451,Combined,Punjab,1,1,677,486
-47,Government Boys  Primary School Khadim Wali,30.62562031139119,70.8756975410545,Combined,Punjab,1,1,504,391
-124,Government Boys Primary School Chak 515 TDA,30.627356429795878,71.17698792810793,Combined,Punjab,2,1,852,595
-29,Government Boys Primary School  Bagh Wala Chak 556 TDA,30.627356429795878,71.1770179281079,Combined,Punjab,1,1,331,257
-124,Government Boys Primary School Chak 515 TDA,30.627869012066178,71.06041612495558,Combined,Punjab,2,1,852,595
-21,Government Boys Elementry School Chak 555/TDA,30.627869012066178,71.0604461249556,Combined,Punjab,1,1,705,521
-157,Government Boys Primary School Sanjrani Wala (Female),30.62846515912169,70.9478971414222,Female,Punjab,0,2,0,1039
-61,Government Maktab School Malik Wala,30.62846515912169,70.9479271414222,Combined,Punjab,1,1,677,553
-123,Government Model Primary School Chak 116 ML (Male),30.6304,71.06362,Male,Punjab,2,0,1299,0
-209,Government Boys Higher Secondary School Chowk Sarwar Shaheed (Female),30.6304,71.06365,Female,Punjab,0,2,0,851
-125,Government Model Primary School Chak 116 ML (Female),30.6304,71.06368,Female,Punjab,0,2,0,963
-210,Government Boys Higher Secondary School Chowk Sarwar Shaheed (Female),30.6304,71.06371,Female,Punjab,0,2,0,958
-153,Government Boys Primary School Chandan Wala (Male),30.63930140363352,70.96114495682828,Male,Punjab,2,0,1128,0
-57,Government Girls Primary School Nazar Pura (Male),30.63930140363352,70.9611749568283,Male,Punjab,2,0,883,0
-155,Government Girls Primary School Chandan Wala (Female),30.63930140363352,70.9612049568283,Female,Punjab,0,2,0,1478
-59,Government Girls Primary School Nazar Pura (Female),30.63930140363352,70.9612349568283,Female,Punjab,0,2,0,739
-127,Government Model Primary School Chak 512 TDA,30.6417519601067,71.12520584976633,Combined,Punjab,1,1,699,549
-212,Government Boys Middle School Chowk Sarwer Shaheed (Male),30.6417519601067,71.1252358497663,Male,Punjab,2,0,904,0
-112,Government Boys Elementary School Noor Shah- Chak 525 TDA,30.64452,71.15852,Combined,Punjab,2,1,842,619
-16,Government Girls Primary School Chak 553 TDA,30.64452,71.15855,Combined,Punjab,1,1,261,166
-151,Government Boys Primary School Rasheed Khan Wala (Male),30.6459158914906,70.97531557572533,Male,Punjab,2,0,1159,0
-55,Government Boys Primary School Seed Farm,30.6459158914906,70.9753455757253,Combined,Punjab,2,1,1045,796
-142,Government Boys Primary School Chak 520 TDA,30.646034525945574,70.92670751025362,Combined,Punjab,1,1,780,587
-49,Government Boys Primary School Marha,30.646034525945574,70.9267375102536,Combined,Punjab,1,1,741,563
-15,Government Model Primary School Chak 514 TDA,30.646183041967657,70.9529866046921,Combined,Punjab,1,1,790,582
-53,Government Girls High School Ehsan Pur,30.646183041967657,70.9530166046921,Combined,Punjab,1,1,570,478
-152,Government Boys Primary School Chandan Wala (Male),30.646183995950082,70.9529632509033,Male,Punjab,1,0,666,0
-56,Government Girls High School Ehsan Pur,30.646183995950082,70.9529932509033,Female,Punjab,0,2,0,822
-148,Government High School Tounsa Beraj (Male),30.646193453604624,70.9530152196473,Male,Punjab,2,0,817,0
-51,Government Girls High School Ehsan Pur,30.646193453604624,70.9530452196473,Combined,Punjab,1,1,713,587
-143,Government Boys Primary School Chak 523 TDA,30.647187995438678,70.95472855537183,Combined,Punjab,1,1,344,265
-50,Government Boys High School Ehsan Pur (Female),30.647187995438678,70.9547585553718,Female,Punjab,0,2,0,925
-150,Government Girls Primary School Kacha Patal (Female),30.647187995438678,70.9547885553718,Female,Punjab,0,2,0,1465
-54,Government Girls High School Ehsan Pur (Male),30.647187995438678,70.9548185553718,Male,Punjab,2,0,951,0
-141,Government Boys Primary School Dhengin Wala,30.647231658967407,70.95468279764144,Combined,Punjab,1,1,732,601
-48,Government Boys High School Ehsan Pur (Male),30.647231658967407,70.9547127976414,Male,Punjab,2,0,1205,0
-149,Government High School Tounsa Beraj (Male),30.647231658967407,70.9547427976414,Male,Punjab,2,0,1098,0
-52,Government Boys High School Ehsan Pur,30.647231658967407,70.9547727976414,Combined,Punjab,1,1,604,498
-135,Government Boys High School Chak 518 TDA (Female),30.653828217720335,70.86669900290786,Female,Punjab,0,1,0,753
-41,Government Boys Primary School Yakail Wala,30.653828217720335,70.8667290029079,Combined,Punjab,2,1,885,741
-137,Government Boys Primary School Chak 519 TDA,30.654686854260035,70.90501871966906,Combined,Punjab,1,1,367,216
-43,Government Boys Primary School Bhaidain Wali  (Male),30.654686854260035,70.9050487196691,Male,Punjab,2,0,907,0
-138,Government Boys Primary School Chak 519 TDA (Female),30.654686854260035,70.9050787196691,Female,Punjab,0,2,0,870
-44,Government Girls Elementary School Bhaidain Wali,30.654686854260035,70.9051087196691,Combined,Punjab,1,1,433,384
-139,Government Girls Primary School Chak 577 TDA,30.654686854260035,70.9051387196691,Combined,Punjab,1,1,751,541
-45,Government Girls Elementary School Bhaidain Wali (Female),30.654686854260035,70.9051687196691,Female,Punjab,0,1,0,741
-14,Government Model Primary School Chak 541 TDA,30.654686854260035,70.9051987196691,Combined,Punjab,1,1,822,545
-46,Government Girls Elementary School Bhaidain Wali,30.654686854260035,70.9052287196691,Combined,Punjab,1,1,440,403
-119,Government Boys Elementry School Habib Wala Chak 145 ML,30.77764441255776,70.93031097414669,Combined,Punjab,2,1,886,651
-205,Government Boys Higher Secondary School Chowk Sarwar Shaheed.,30.77764441255776,70.9303409741467,Male,Punjab,1,0,330,0
-122,Government Boys Elementary School Habib Wala-Chak 145 ML,30.77764441255776,70.9303709741467,Combined,Punjab,1,1,670,475
-208,Government Boys Higher Secondary School Chowk Sarwar Shaheed,30.77764441255776,70.9304009741467,Female,Punjab,0,2,0,781
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 1 - Basic Health Unit Chak 531 TDA,30.0592734,71.1901781,Combined,Punjab,1,1,694,447
+ 10 - Government Girls Primary School Chak 628 TDA,30.0592734,71.1902081,Combined,Punjab,1,1,579,442
+ 2 - Government Girls Elementry School Chak 533 TDA,30.0592734,71.1902381,Combined,Punjab,1,1,664,463
+ 100 - Government Girls High School Basti Pattal KotAddu Mustaqil Sharqi,30.0592734,71.1902681,Combined,Punjab,1,1,384,310
+ 3 - Government Girls Primary School Chak 536 TDA,30.0592734,71.1902981,Combined,Punjab,1,1,455,302
+ 101 - Government Girls High School Basti Pattal KotAddu Mustaqil Sharqi,30.0592734,71.1903281,Combined,Punjab,2,1,869,694
+ 4 - Government boys Elementry school Zubair Abad Chak 617 TDA,30.0592734,71.1903581,Combined,Punjab,2,1,1007,675
+ 104 - Government Boys Primary School Chak Rodi,30.0592734,71.1903881,Combined,Punjab,1,1,776,567
+ 5 - Government Model Primary School Chak 619 TDA,30.0592734,71.1904181,Combined,Punjab,1,1,623,474
+ 105 - Government Boys Primary School Basti Pattal Kot Addu (Female),30.0592734,71.1904481,Female,Punjab,0,2,0,773
+ 6 - Government Boys Primary School Mumtaz Wala Chak 624 TDA,30.0592734,71.1904781,Combined,Punjab,2,1,950,686
+ 106 - Government Boys Primary School Chak 153 ML (Waloo Wala),30.0592734,71.1905081,Combined,Punjab,2,1,821,669
+ 7 - Government Boys Primary School  Chak 620 TDA,30.0592734,71.1905381,Combined,Punjab,1,1,766,511
+ 107 - Goverment Boys Primary School Chak 526 TDA,30.0592734,71.1905681,Combined,Punjab,1,1,547,474
+ 8 - Government Boys Primary School 578/B Chak 622 TDA,30.0592734,71.1905981,Combined,Punjab,1,1,757,446
+ 108 - Government Boys English Medium School Chak 528 TDA,30.0592734,71.1906281,Combined,Punjab,1,1,724,558
+ 9 - Government Boys Elementry School Chak 626 TDA,30.0592734,71.1906581,Combined,Punjab,1,1,629,414
+ 10 - Government Girls Primary School Chak 628 TDA,30.0592734,71.1906881,Combined,Punjab,1,1,579,442
+ 102 - Government Boys Primary School Sultan Wala,30.0592734,71.1907181,Female,Punjab,0,2,0,890
+ 109 - Government Boys Elementary School Chak 530 TDA,30.0592734,71.1907481,Combined,Punjab,1,1,795,627
+ 197 - Government Boys High School Sheikh Umer,30.0592734,71.1907781,Combined,Punjab,2,1,904,721
+ 103 - Government Boys Primary School Basti Pattal Kot Addu (Male),30.0592734,71.1908081,Male,Punjab,2,0,934,0
+ 11 - Government Girls Community Model School Chak 633 TDA,30.0592734,71.1908381,Combined,Punjab,2,1,928,659
+ 110 - Govt Maktab School Ghulam Hussain Ghaoon Wala,30.0592734,71.1908681,Combined,Punjab,2,1,825,688
+ 14 - Government Model Primary School Chak 541 TDA,30.0592734,71.1908981,Combined,Punjab,1,1,822,545
+ 113 - Government Boys Primary School Chak 151 ML,30.0592734,71.1909281,Combined,Punjab,2,1,853,632
+ 17 - Government Model Primary School Chak 543 TDA,30.0592734,71.1909581,Combined,Punjab,1,1,538,389
+ 114 - Government Boys Elementary  School Chak 521 TDA,30.0592734,71.1909881,Combined,Punjab,2,1,837,628
+ 18 - Government Girls Primary School Chak 544/TDA,30.0592734,71.1910181,Combined,Punjab,1,1,352,259
+ 115 - Government Girls Elementary School Chak 146 ML (Male),30.0592734,71.1910481,Male,Punjab,2,0,968,0
+ 19 - Government High School Chak 550/TDA,30.0592734,71.1910781,Combined,Punjab,1,1,415,356
+ 118 - Government Boys Primary School Chak 149 ML (Male),30.0592734,71.1911081,Male,Punjab,2,0,1031,0
+ 22 - Government Girls Primary School Chak 546 TDA,30.0592734,71.1911381,Combined,Punjab,1,1,710,448
+ 12 - Government Girls Primary School Chak 537/TDA,30.0592734,71.1911681,Combined,Punjab,1,1,656,464
+ 24 - Government Girls Primary School Chak 559 TDA,30.0592734,71.1911981,Combined,Punjab,2,1,841,490
+ 121 - Government  Boys Primary School Chak 143 ML,30.0592734,71.1912281,Combined,Punjab,2,1,830,569
+ 26 - Government Girls Primary School Chak 649 TDA,30.0592734,71.1912581,Combined,Punjab,1,1,489,411
+ 122 - Government Boys Elementary School Habib Wala-Chak 145 ML,30.0592734,71.1912881,Combined,Punjab,1,1,670,475
+ 27 - Government Boys High School Ghulam Hussain Wala,30.0592734,71.1913181,Combined,Punjab,1,1,478,391
+ 127 - Government Model Primary School Chak 512 TDA,30.0592734,71.1913481,Combined,Punjab,1,1,699,549
+ 32 - Government Boys Primary School Surmay Dani,30.0592734,71.1913781,Combined,Punjab,2,1,914,594
+ 133 - Government Boys High School Chak 518 TDA (Male),30.0592734,71.1914081,Male,Punjab,2,0,1003,0
+ 39 - Government Model Primary School Chak 582 TDA,30.0592734,71.1914381,Combined,Punjab,1,1,496,362
+ 134 - Government Girls High School Chak 518 TDA,30.0592734,71.1914681,Combined,Punjab,1,1,677,564
+ 40 - Government Boys Primary School Chak 583 TDA,30.0592734,71.1914981,Combined,Punjab,1,1,738,558
+ 251 - Government Girls Primary School Gaji Wala (Male),30.0592734,71.1915281,Male,Punjab,2,0,955,0
+ 65 - Government Boys Primary School More Wala,30.0592734,71.1915581,Combined,Punjab,1,1,408,363
+ 253 - Government Girls Primary School Gaji Wala (Male),30.0592734,71.1915881,Male,Punjab,2,0,770,0
+ 67 - Government Boys Primary School Lombar Wala,30.0592734,71.1916181,Combined,Punjab,1,1,491,435
+ 161 - Government Boys Primary School Tarandin Wala,30.0592734,71.1916481,Combined,Punjab,1,1,529,376
+ 243 - Govt. Boys High School Kot Addu New Block Western Side (Male),30.0592734,71.1916781,Male,Punjab,2,0,1646,0
+ 174 - Government Boys Elementary School Hussain Wala (Male),30.0592734,71.1917081,Male,Punjab,2,0,1289,0
+ 255 - Government Girls High School Mochi Wala (Female),30.0592734,71.1917381,Female,Punjab,0,2,0,861
+ 176 - Government Boys Elementary School Hussain Wala (Female),30.0592734,71.1917681,Female,Punjab,0,3,0,1037
+ 257 - Government Girls High School Mochi Wala (Male),30.0592734,71.1917981,Male,Punjab,2,0,1072,0
+ 175 - Government Boys Primary School Fazil Wala,30.0592734,71.1918281,Combined,Punjab,1,1,880,654
+ 256 - Government Girls High School Mochi Wala (Male),30.0592734,71.1918581,Male,Punjab,2,0,891,0
+ 104 - Government Boys Primary School Chak Rodi,30.0592734,71.1918881,Combined,Punjab,1,1,776,567
+ 192 - Government Boys Primary School Akhtar Wala (Male),30.0592734,71.1919181,Male,Punjab,2,0,1222,0
+ 178 - Government boys School Pirhar Gharbi,30.0661289,71.1919023,Combined,Punjab,1,1,765,644
+ 259 - Government Primary  School  Basti Malook Building No.2 (Male),30.0661289,71.1919323,Male,Punjab,2,0,1812,0
+ 188 - Government Boys Primary School Hala (Male),30.0661289,71.1919623,Male,Punjab,2,0,1551,0
+ 268 - Government High School No. 2 Kot Adu (Male),30.0661289,71.1919923,Male,Punjab,2,0,1400,0
+ 189 - Government Boys Primary School Hala (Female),30.0661289,71.1920223,Female,Punjab,0,3,0,1257
+ 269 - Government Special Education Kot Addu (Female),30.0661289,71.1920523,Female,Punjab,0,2,0,822
+ 192 - Government Boys Primary School Akhtar Wala (Male),30.0661289,71.1920823,Male,Punjab,2,0,1222,0
+ 271 - Government Boys High School No. 1 kot addu Old Building (Male),30.0661289,71.1921123,Male,Punjab,2,0,1227,0
+ 194 - Government Boys Primary School Manhan,30.0661289,71.1921423,Combined,Punjab,2,1,880,733
+ 273 - Government Boys High School No. 1 Old Building (Female),30.0661289,71.1921723,Female,Punjab,0,2,0,992
+ 195 - Government Girls Elementary School Manhan (Male),30.0661289,71.1922023,Male,Punjab,2,0,1478,0
+ 274 - Deputy District Agriculture Office Kot Addu (Female),30.0661289,71.1922323,Female,Punjab,0,3,0,1226
+ 196 - Government Girls Elementary School Manhan (Female),30.0661289,71.1922623,Female,Punjab,0,3,0,1239
+ 275 - Government Girls Elementry School Double Shift Kot addu (Female),30.0661289,71.1922923,Female,Punjab,0,2,0,1153
+ 197 - Government Boys High School Sheikh Umer,30.0661289,71.1923223,Combined,Punjab,2,1,904,721
+ 276 - Government Girls Primary School Jogi Wala (Male),30.0661289,71.1923523,Male,Punjab,2,0,1216,0
+ 198 - Government Boys Primary School Usman Rid,30.0661289,71.1923823,Combined,Punjab,1,1,603,525
+ 277 - Government Girls Collage Kot Adu (Female),30.0661289,71.1924123,Female,Punjab,0,3,0,1248
+ 179 - Government Girls Primary School Pirhar Gharbi,30.0661289,71.1924423,Combined,Punjab,1,1,654,486
+ 26 - Government Girls Primary School Chak 649 TDA,30.0661289,71.1924723,Combined,Punjab,1,1,489,411
+ 180 - Government Boys Primary School Rahmoo Wali,30.0661289,71.1925023,Combined,Punjab,1,1,685,574
+ 260 - Government Girls Primary School Hussain Wala (Male),30.0661289,71.1925323,Male,Punjab,3,0,2315,0
+ 181 - Government Boys Primary School Peeran Wala (Male),30.0661289,71.1925623,Male,Punjab,2,0,1036,0
+ 261 - Government Girls Primary School Hussain Wala (Female),30.0661289,71.1925923,Female,Punjab,0,4,0,1925
+ 183 - Government Boys Primary School Peeran Wala (Female),30.0661289,71.1926223,Female,Punjab,0,2,0,885
+ 263 - Government Boys Primary School Shehzaday Wala (Male),30.0661289,71.1926523,Male,Punjab,2,0,806,0
+ 182 - Government Primary School Lashari Wala,30.0661289,71.1926823,Combined,Punjab,1,1,882,665
+ 262 - Government Boys Primary School Shehzaday Wala (Female),30.0661289,71.1927123,Female,Punjab,0,2,0,623
+ 184 - Government Boys Middle School Pirhar Gharbi (Male),30.0661289,71.1927423,Male,Punjab,2,0,1158,0
+ 264 - Government Primary  School  Basti Malook Building No.1 (Female),30.0661289,71.1927723,Female,Punjab,0,4,0,1888
+ 187 - Government Boys Primary School Hala,30.0661289,71.1928023,Combined,Punjab,1,1,730,611
+ 267 - Government Boys High School No. 2 Kot Adu (Female),30.0661289,71.1928323,Female,Punjab,0,4,0,1204
+ 199 - Government Boys Primary School Arain Wala (Male),30.0670476,71.1826859,Male,Punjab,2,0,1639,0
+ 278 - Government Girls Primary School Kory Khan (Male),30.0670476,71.1827159,Male,Punjab,2,0,1268,0
+ 200 - Government Boys Primary School Arain Wala (Female),30.0670476,71.1827459,Female,Punjab,0,3,0,1273
+ 279 - Government Girls Primary School Kalar Wala (Female),30.0670476,71.1827759,Female,Punjab,0,2,0,945
+ 201 - Government High School Shadi Khan Munda (Male),30.0670476,71.1828059,Male,Punjab,2,0,1460,0
+ 28 - Government Boys Primary School Chak 652 TDA,30.0670476,71.1828359,Combined,Punjab,1,1,635,536
+ 202 - Government Boys High School Shadi Khan Munda (Female),30.0670476,71.1828659,Female,Punjab,0,3,0,1159
+ 280 - Government Girls Primary School Mithoo Wala (Male),30.0670476,71.1828959,Male,Punjab,2,0,1139,0
+ 203 - Government boys High School Shadi Khan Munda,30.0670476,71.1829259,Combined,Punjab,2,2,845,659
+ 281 - Government Girls Elementry School Marri Wala (Female),30.0670476,71.1829559,Female,Punjab,0,2,0,709
+ 119 - Government Boys Elementry School Habib Wala Chak 145 ML,30.0712798,71.1931434,Combined,Punjab,2,1,886,651
+ 23 - Government Girls Primary School Chak 634 TDA,30.0712798,71.1931734,Combined,Punjab,2,1,911,526
+ 120 - Government Boys Primary School Chak 149 ML (Female),30.0712798,71.1932034,Female,Punjab,0,2,0,825
+ 25 - Government Girls Primary School Chak 641 TDA,30.0712798,71.1932334,Combined,Punjab,2,1,842,591
+ 185 - Government Boys Middle School Pirhar Gharbi,30.42031,70.91246,Combined,Punjab,2,1,815,661
+ 265 - Government Boys Millat Elementry School Kot Addu (Male),30.42031,70.91249,Male,Punjab,2,0,742,0
+ 186 - Government Boys Middle School Pirhar Gharbi (Female),30.42031,70.91252,Female,Punjab,0,2,0,1058
+ 266 - Government Boys Millat Elementry School Kot Addu (Male),30.42031,70.91255,Male,Punjab,2,0,1736,0
+ 249 - Government Girls Primary School Gharhi Canal Colony Kot Addu (Female),30.449519267058776,70.96347515229465,Female,Punjab,0,3,0,1440
+ 63 - Government Boys Maktab School Kingri Wala,30.449519267058776,70.9635051522946,Combined,Punjab,1,1,214,157
+ 247 - Government Girls Primary School Gharhi Canal Colony Kot Addu (Female),30.4495335965606,70.96352218337415,Female,Punjab,0,3,0,1309
+ 61 - Government Maktab School Malik Wala,30.4495335965606,70.9635521833741,Combined,Punjab,1,1,677,553
+ 162 - Government  Boys Primary School Khirki (Male),30.451013533448712,70.94073266419002,Male,Punjab,2,0,1177,0
+ 244 - Government Boys Primary School Tibba Sultan Pura (Female),30.451013533448712,70.94076266419,Female,Punjab,0,3,0,1431
+ 145 - Government Boys Primary School Loon Wala,30.453159923008517,70.8848762530795,Combined,Punjab,1,1,200,156
+ 229 - Government Girls Primary School Ara (Female),30.453159923008517,70.8849062530795,Female,Punjab,0,4,0,1689
+ 264 - Government Primary  School  Basti Malook Building No.1 (Female),30.45505908,70.97693851,Female,Punjab,0,4,0,1888
+ 77 - Government Boys Primary School Shah Wala,30.45505908,70.97696851,Combined,Punjab,1,1,557,449
+ 258 - Government Primary  School Arif  Abad  (Female) Present Basti Malook Building No.1 (Female),30.45506217009842,70.97691285203344,Female,Punjab,0,3,0,1515
+ 71 - Government Girls Primary school Khand Wala,30.45506217009842,70.9769428520334,Combined,Punjab,1,1,654,540
+ 259 - Government Primary  School  Basti Malook Building No.2 (Male),30.45506217009842,70.9769728520334,Male,Punjab,2,0,1812,0
+ 72 - Government Girls Primary School Nanu Wala                                 (Male),30.45506217009842,70.9770028520334,Male,Punjab,2,0,1038,0
+ 248 - Canal Colony Office Kot Addu (Male),30.456914892220826,70.9655214153941,Male,Punjab,3,0,1487,0
+ 62 - Government Boys Primary School Bangla Hinjrai,30.456914892220826,70.9655514153941,Combined,Punjab,1,1,393,273
+ 260 - Government Girls Primary School Hussain Wala (Male),30.46036597041873,70.9709382300453,Male,Punjab,3,0,2315,0
+ 73 - Government Girls Primary School Saleh Wala,30.46036597041873,70.9709682300453,Combined,Punjab,1,1,399,310
+ 261 - Government Girls Primary School Hussain Wala (Female),30.46036597041873,70.9709982300453,Female,Punjab,0,4,0,1925
+ 74 - Government Girls Primary School Sultan Wala (Female),30.46036597041873,70.9710282300453,Female,Punjab,0,2,0,812
+ 108 - Government Boys English Medium School Chak 528 TDA,30.46155431545325,71.03162274050386,Combined,Punjab,1,1,724,558
+ 196 - Government Girls Elementary School Manhan (Female),30.46155431545325,71.0316527405039,Female,Punjab,0,3,0,1239
+ 254 - Government Girls High School Mochi Wala (Female),30.461970440306732,70.96569971787724,Female,Punjab,0,2,0,782
+ 68 - Government Boys Elementary School Abbas Wala,30.461970440306732,70.9657297178772,Combined,Punjab,1,1,612,564
+ 255 - Government Girls High School Mochi Wala (Female),30.461970440306732,70.9657597178772,Female,Punjab,0,2,0,861
+ 69 - Government Boys Primary School Jadeed Bahadur Wala,30.461970440306732,70.9657897178772,Combined,Punjab,2,1,814,705
+ 256 - Government Girls High School Mochi Wala (Male),30.461970440306732,70.9658197178772,Male,Punjab,2,0,891,0
+ 7 - Government Boys Primary School  Chak 620 TDA,30.461970440306732,70.9658497178772,Combined,Punjab,1,1,766,511
+ 257 - Government Girls High School Mochi Wala (Male),30.461970440306732,70.9658797178772,Male,Punjab,2,0,1072,0
+ 70 - Government Girls Primary School Kulachi Wala,30.461970440306732,70.9659097178772,Combined,Punjab,1,1,529,394
+ 252 - Government Boys High School Kot Addu (Male),30.463784831504913,70.96558664020178,Male,Punjab,3,0,1710,0
+ 66 - Government Boys High School Yaray Wala,30.463784831504913,70.9656166402018,Combined,Punjab,2,2,856,700
+ 243 - Govt. Boys High School Kot Addu New Block Western Side (Male),30.463794361812486,70.96530336043118,Male,Punjab,2,0,1646,0
+ 58 - Government Boys High School Yaray Wala,30.463794361812486,70.9653333604312,Combined,Punjab,1,1,755,550
+ 250 - Government Boys High School Kot Adu (Female),30.463794361812486,70.9653633604312,Female,Punjab,0,3,0,1503
+ 64 - Government Boys Primary School More Wala,30.463794361812486,70.9653933604312,Combined,Punjab,1,1,671,523
+ 244 - Government Boys Primary School Tibba Sultan Pura (Female),30.465165879980837,70.95827495374418,Female,Punjab,0,3,0,1431
+ 59 - Government Girls Primary School Nazar Pura (Female),30.465165879980837,70.9583049537442,Female,Punjab,0,2,0,739
+ 242 - Government Boys Primary School Tibba Sultan Pura (Female),30.465213140398824,70.95823576188009,Female,Punjab,0,2,0,954
+ 57 - Government Girls Primary School Nazar Pura (Male),30.465213140398824,70.9582657618801,Male,Punjab,2,0,883,0
+ 282 - Government Boys Primary School Mitho Wala (Male),30.46676086,70.97613506,Male,Punjab,2,0,877,0
+ 93 - Government Boys Primary School Hasaam Wala (Male),30.46676086,70.97616506,Male,Punjab,2,0,1361,0
+ 287 - Government Girls Primary School Moti Wala (Female),30.46676086,70.97619506,Female,Punjab,0,2,0,1472
+ 98 - Government Girls Elementary School Nazeer Wala,30.46676086,70.97622506,Combined,Punjab,2,1,901,680
+ 288 - Government Girls Primary School Moti Wala (Male),30.46676934,70.976143,Male,Punjab,2,0,1682,0
+ 99 - Government Boys Primary School Mehran Wala (Male)- Present Name Girls P/S Kanjoo Wala,30.46676934,70.976173,Male,Punjab,2,0,1147,0
+ 267 - Government Boys High School No. 2 Kot Adu (Female),30.46739019545487,70.96651656412683,Female,Punjab,0,4,0,1204
+ 8 - Government Boys Primary School 578/B Chak 622 TDA,30.46739019545487,70.9665465641268,Combined,Punjab,1,1,757,446
+ 268 - Government High School No. 2 Kot Adu (Male),30.46739019545487,70.9665765641268,Male,Punjab,2,0,1400,0
+ 80 - Government Boys Primary School Sheikhu Wala,30.46739019545487,70.9666065641268,Combined,Punjab,1,1,348,268
+ 272 - Dy. District Agriculture Office Kot Adu (Male),30.468099756844175,70.97643096488721,Male,Punjab,2,0,1579,0
+ 84 - Government Boys High School Saleh Wala,30.468099756844175,70.9764609648872,Combined,Punjab,1,1,736,584
+ 158 - Government Boys Primary School Aslam Khan Wala (Male),30.46827708860177,70.91513039290396,Male,Punjab,2,0,929,0
+ 240 - Government Boys High School Kot Adu No.1 New Building (Female),30.46827708860177,70.915160392904,Female,Punjab,0,2,0,992
+ 165 - Government Girls Primary School Dost Ali Wala (Male),30.468658618515235,70.93427010405898,Male,Punjab,2,0,1439,0
+ 247 - Government Girls Primary School Gharhi Canal Colony Kot Addu (Female),30.468658618515235,70.934300104059,Female,Punjab,0,3,0,1309
+ 167 - Government Primary School Dost Ali Wala (Female),30.468658618515235,70.934330104059,Female,Punjab,0,3,0,1234
+ 249 - Government Girls Primary School Gharhi Canal Colony Kot Addu (Female),30.468658618515235,70.934360104059,Female,Punjab,0,3,0,1440
+ 241 - Government Boys High School No. 1 Kot Adu New Building (Male),30.46868405851999,70.95433629051176,Male,Punjab,2,0,1126,0
+ 56 - Government Girls High School Ehsan Pur,30.46868405851999,70.9543662905118,Female,Punjab,0,2,0,822
+ 240 - Government Boys High School Kot Adu No.1 New Building (Female),30.468689989857875,70.95433209213387,Female,Punjab,0,2,0,992
+ 55 - Government Boys Primary School Seed Farm,30.468689989857875,70.9543620921339,Combined,Punjab,2,1,1045,796
+ 269 - Government Special Education Kot Addu (Female),30.469811240733264,70.97175027957417,Female,Punjab,0,2,0,822
+ 81 - Government Boys Middle School Haider Ghazi (Male),30.469811240733264,70.9717802795742,Male,Punjab,2,0,972,0
+ 270 - Government Special Education Kot Addu (Male),30.469811240733264,70.9718102795742,Male,Punjab,2,0,1063,0
+ 82 - Government Girls Primary School Khursheed Abad,30.469811240733264,70.9718402795742,Combined,Punjab,2,1,858,719
+ 276 - Government Girls Primary School Jogi Wala (Male),30.46991591,70.96453576,Male,Punjab,2,0,1216,0
+ 88 - Government Boys Primary School Nishan Wala,30.46991591,70.96456576,Combined,Punjab,2,1,550,428
+ 163 - Government Boys Primary School Baryar Abbad (Male),30.470228120672317,70.92715700600894,Male,Punjab,2,0,994,0
+ 245 - Government Boys High School No.1 Kot Addu New Building (Female),30.470228120672317,70.9271870060089,Female,Punjab,0,3,0,1299
+ 166 - Government Boys Primary School Beryar Abbad (Female),30.470228120672317,70.9272170060089,Female,Punjab,0,1,0,778
+ 248 - Canal Colony Office Kot Addu (Male),30.470228120672317,70.9272470060089,Male,Punjab,3,0,1487,0
+ 168 - Government Girls Primay School Faqeero  Arain wala (Male),30.47023861838986,70.94448346431054,Male,Punjab,2,0,1110,0
+ 25 - Government Girls Primary School Chak 641 TDA,30.47023861838986,70.9445134643105,Combined,Punjab,2,1,842,591
+ 171 - Government Girls Primay School Faqeero Arain wala (Female),30.47023861838986,70.9445434643105,Female,Punjab,0,2,0,852
+ 252 - Government Boys High School Kot Addu (Male),30.47023861838986,70.9445734643105,Male,Punjab,3,0,1710,0
+ 265 - Government Boys Millat Elementry School Kot Addu (Male),30.4706048850335,70.98341963012106,Male,Punjab,2,0,742,0
+ 78 - Government Boys Primary School Abdullah Wala,30.4706048850335,70.9834496301211,Combined,Punjab,1,1,687,527
+ 266 - Government Boys Millat Elementry School Kot Addu (Male),30.4706048850335,70.9834796301211,Male,Punjab,2,0,1736,0
+ 79 - Government Boys Primary School Sheikhu Wala,30.4706048850335,70.9835096301211,Combined,Punjab,1,1,561,426
+ 275 - Government Girls Elementry School Double Shift Kot addu (Female),30.4708102,70.96528407,Female,Punjab,0,2,0,1153
+ 87 - Government Boys Middle School Abdul Rehman Wala,30.4708102,70.96531407,Combined,Punjab,1,1,693,507
+ 245 - Government Boys High School No.1 Kot Addu New Building (Female),30.47095935446436,70.9668189192311,Female,Punjab,0,3,0,1299
+ 6 - Government Boys Primary School Mumtaz Wala Chak 624 TDA,30.47095935446436,70.9668489192311,Combined,Punjab,2,1,950,686
+ 246 - Government Boys High School No.1 Kot Addu (Male),30.47095935446436,70.9668789192311,Male,Punjab,3,0,1455,0
+ 60 - Government Maktab School Qureshi Wala,30.47095935446436,70.9669089192311,Combined,Punjab,1,1,646,513
+ 271 - Government Boys High School No. 1 kot addu Old Building (Male),30.471036731711145,70.96692869023204,Male,Punjab,2,0,1227,0
+ 83 - Government Boys Middle School Haider Ghazi (Female),30.471036731711145,70.966958690232,Female,Punjab,0,2,0,757
+ 273 - Government Boys High School No. 1 Old Building (Female),30.471036731711145,70.966988690232,Female,Punjab,0,2,0,992
+ 85 - Government Boys High School Saleh Wala,30.471036731711145,70.967018690232,Combined,Punjab,1,1,442,357
+ 277 - Government Girls Collage Kot Adu (Female),30.47418921,70.97428083,Female,Punjab,0,3,0,1248
+ 89 - Government Boys Primay School Janoon Mustaqil,30.47418921,70.97431083,Combined,Punjab,1,1,523,386
+ 151 - Government Boys Primary School Rasheed Khan Wala (Male),30.475008469245466,70.8979182228216,Male,Punjab,2,0,1159,0
+ 234 - Government Boys Primary School Dadray Wala (Female),30.475008469245466,70.8979482228216,Female,Punjab,0,2,0,1047
+ 154 - Government Boys Primary School Rasheed Khan Wala (Female),30.475008469245466,70.8979782228216,Female,Punjab,0,2,0,859
+ 237 - Government Girls Primary School Nooray Wala (Male),30.475008469245466,70.8980082228216,Male,Punjab,2,0,937,0
+ 239 - Government Girls Primary School Tajamul Wala (Male),30.476407537872873,70.95389055538288,Male,Punjab,3,0,1196,0
+ 54 - Government Girls High School Ehsan Pur (Male),30.476407537872873,70.9539205553829,Male,Punjab,2,0,951,0
+ 156 - Government Boys Primary School Sanjrani Wala (Male),30.47862135069029,70.89168463783525,Male,Punjab,2,0,1403,0
+ 239 - Government Girls Primary School Tajamul Wala (Male),30.47862135069029,70.8917146378353,Male,Punjab,3,0,1196,0
+ 157 - Government Boys Primary School Sanjrani Wala (Female),30.478630084684447,70.89171713257963,Female,Punjab,0,2,0,1039
+ 24 - Government Girls Primary School Chak 559 TDA,30.478630084684447,70.8917471325796,Combined,Punjab,2,1,841,490
+ 262 - Government Boys Primary School Shehzaday Wala (Female),30.4795903974277,70.99024508713417,Female,Punjab,0,2,0,623
+ 75 - Government Girls Primary School Chani Wala,30.4795903974277,70.9902750871342,Combined,Punjab,1,1,404,322
+ 263 - Government Boys Primary School Shehzaday Wala (Male),30.4795903974277,70.9903050871342,Male,Punjab,2,0,806,0
+ 76 - Government Girls Middle School Tibba Qazian,30.4795903974277,70.9903350871342,Combined,Punjab,1,1,407,351
+ 238 - Government Boys Primary School Ahmad Kot Wala (Female),30.48060713107759,70.94106138848836,Female,Punjab,0,2,0,794
+ 53 - Government Girls High School Ehsan Pur,30.48060713107759,70.9410913884884,Combined,Punjab,1,1,570,478
+ 112 - Government Boys Elementary School Noor Shah- Chak 525 TDA,30.482162271476874,71.07607738049954,Combined,Punjab,2,1,842,619
+ 2 - Government Girls Elementry School Chak 533 TDA,30.482162271476874,71.0761073804995,Combined,Punjab,1,1,664,463
+ 177 - Government Boys Elementary School Noor Shah- Chak 525 TDA,30.482162271476874,71.0761373804995,Combined,Punjab,1,1,471,413
+ 258 - Government Primary  School Arif  Abad  (Female) Present Basti Malook Building No.1 (Female),30.482162271476874,71.0761673804995,Female,Punjab,0,3,0,1515
+ 280 - Government Girls Primary School Mithoo Wala (Male),30.48253165,70.96996802,Male,Punjab,2,0,1139,0
+ 91 - Government Boys Middle School Shah Wala,30.48253165,70.96999802,Combined,Punjab,1,1,519,388
+ 190 - Govt Girls primary school Mohib Wala,30.483823182609097,70.92654856805241,Combined,Punjab,1,1,619,432
+ 98 - Government Girls Elementary School Nazeer Wala,30.483823182609097,70.9265785680524,Combined,Punjab,2,1,901,680
+ 281 - Government Girls Elementry School Marri Wala (Female),30.48456471,70.96496137,Female,Punjab,0,2,0,709
+ 92 - Government Boys Primary School Janoon Mustaqil,30.48456471,70.96499137,Combined,Punjab,2,1,806,659
+ 279 - Government Girls Primary School Kalar Wala (Female),30.48473954,70.97828446,Female,Punjab,0,2,0,945
+ 90 - Government Boys Middle School Shah Wala,30.48473954,70.97831446,Combined,Punjab,1,1,423,307
+ 144 - Government Boys Primary School Faqeer Wali (Male),30.492676504586935,70.82843992901735,Male,Punjab,2,0,1085,0
+ 228 - Government Girls High School Daira Din Panah (Male),30.492676504586935,70.8284699290173,Male,Punjab,4,0,1882,0
+ 146 - Government Boys Primary School Faqeer Wali (Female),30.492676504586935,70.8284999290174,Female,Punjab,0,2,0,836
+ 23 - Government Girls Primary School Chak 634 TDA,30.492676504586935,70.8285299290174,Combined,Punjab,2,1,911,526
+ 150 - Government Girls Primary School Kacha Patal (Female),30.493223530118758,70.90462745747838,Female,Punjab,0,2,0,1465
+ 233 - Government Boys Primary School Guftar Abad,30.493223530118758,70.9046574574784,Combined,Punjab,1,1,578,451
+ 106 - Government Boys Primary School Chak 153 ML (Waloo Wala),30.494140858299104,71.02398745561828,Combined,Punjab,2,1,821,669
+ 194 - Government Boys Primary School Manhan,30.494140858299104,71.0240174556183,Combined,Punjab,2,1,880,733
+ 152 - Government Boys Primary School Chandan Wala (Male),30.49699201433281,70.89246894476979,Male,Punjab,1,0,666,0
+ 235 - Government Boys Primary School Guftar Abad,30.49699201433281,70.8924989447698,Combined,Punjab,1,1,715,607
+ 153 - Government Boys Primary School Chandan Wala (Male),30.49699201433281,70.8925289447698,Male,Punjab,2,0,1128,0
+ 236 - Government Boys Primary School Samadari Jadeed,30.49699201433281,70.8925589447698,Combined,Punjab,2,1,830,671
+ 155 - Government Girls Primary School Chandan Wala (Female),30.49699201433281,70.8925889447698,Female,Punjab,0,2,0,1478
+ 238 - Government Boys Primary School Ahmad Kot Wala (Female),30.49699201433281,70.8926189447698,Female,Punjab,0,2,0,794
+ 111 - Government Boys Primary School Chak 522 TDA,30.502551242265973,71.05834037654574,Combined,Punjab,1,1,750,602
+ 199 - Government Boys Primary School Arain Wala (Male),30.502551242265973,71.0583703765457,Male,Punjab,2,0,1639,0
+ 191 - Govt Girls primary school Mohib Wala,30.504123890647545,70.94126228091133,Combined,Punjab,1,1,366,362
+ 99 - Government Boys Primary School Mehran Wala (Male)- Present Name Girls P/S Kanjoo Wala,30.504123890647545,70.9412922809113,Male,Punjab,2,0,1147,0
+ 19 - Government High School Chak 550/TDA,30.505846346987962,70.92202775153073,Combined,Punjab,1,1,415,356
+ 97 - Government Boys Primary School Bahadur Wala,30.505846346987962,70.9220577515307,Combined,Punjab,1,1,582,388
+ 100 - Government Girls High School Basti Pattal KotAddu Mustaqil Sharqi,30.510745395004957,70.9617302964615,Combined,Punjab,1,1,384,310
+ 144 - Government Boys Primary School Faqeer Wali (Male),30.510745395004957,70.9617602964615,Male,Punjab,2,0,1085,0
+ 101 - Government Girls High School Basti Pattal KotAddu Mustaqil Sharqi,30.510745395004957,70.9617902964615,Combined,Punjab,2,1,869,694
+ 145 - Government Boys Primary School Loon Wala,30.510745395004957,70.9618202964615,Combined,Punjab,1,1,200,156
+ 105 - Government Boys Primary School Basti Pattal Kot Addu (Female),30.51078405631162,70.96854655727562,Female,Punjab,0,2,0,773
+ 193 - Govt Girls Primary School Sadhari (Female),30.51078405631162,70.9685765572756,Female,Punjab,0,2,0,1019
+ 103 - Government Boys Primary School Basti Pattal Kot Addu (Male),30.51078405631162,70.9686065572756,Male,Punjab,2,0,934,0
+ 147 - Government Boys Primary School Matwani Wala Gharbi,30.51078405631162,70.9686365572756,Combined,Punjab,1,1,595,479
+ 147 - Government Boys Primary School Matwani Wala Gharbi,30.51304857164879,70.85859213263086,Combined,Punjab,1,1,595,479
+ 230 - Government Girls High School Daira Din Panah (Male),30.51304857164879,70.8586221326309,Male,Punjab,4,0,1557,0
+ 130 - Government Boys Primary School Dhengin Wala,30.51390921468074,71.10856259346806,Combined,Punjab,1,1,481,419
+ 215 - Government Boys Middle School Chowk Sarwar Shaheed (Female),30.51390921468074,71.1085925934681,Female,Punjab,0,3,0,1174
+ 141 - Government Boys Primary School Dhengin Wala,30.51390921468074,71.1086225934681,Combined,Punjab,1,1,732,601
+ 225 - Government Girls High School Daira Din Panah (Female),30.51390921468074,71.1086525934681,Female,Punjab,0,3,0,1258
+ 113 - Government Boys Primary School Chak 151 ML,30.519183692630058,71.03823819889834,Combined,Punjab,2,1,853,632
+ 20 - Government Primary School Chak 564/TDA,30.519183692630058,71.0382681988983,Combined,Punjab,2,1,938,701
+ 186 - Government Boys Middle School Pirhar Gharbi (Female),30.51949,70.94396,Female,Punjab,0,2,0,1058
+ 93 - Government Boys Primary School Hasaam Wala (Male),30.51949,70.94399,Male,Punjab,2,0,1361,0
+ 143 - Government Boys Primary School Chak 523 TDA,30.519501110567326,71.07987978224045,Combined,Punjab,1,1,344,265
+ 227 - Government Girls Elementry School Tibba Qazian (Female),30.519501110567326,71.0799097822404,Female,Punjab,0,1,0,526
+ 187 - Government Boys Primary School Hala,30.519584624605006,70.94401379043933,Combined,Punjab,1,1,730,611
+ 94 - Government Boys Primary School Hassam Wala (Male),30.519584624605006,70.9440437904393,Male,Punjab,2,0,986,0
+ 114 - Government Boys Elementary  School Chak 521 TDA,30.53070361109372,71.0589803035684,Combined,Punjab,2,1,837,628
+ 200 - Government Boys Primary School Arain Wala (Female),30.53070361109372,71.0590103035684,Female,Punjab,0,3,0,1273
+ 185 - Government Boys Middle School Pirhar Gharbi,30.539776580033088,70.92900446121777,Combined,Punjab,2,1,815,661
+ 92 - Government Boys Primary School Janoon Mustaqil,30.539776580033088,70.9290344612178,Combined,Punjab,2,1,806,659
+ 182 - Government Primary School Lashari Wala,30.53994,70.92896,Combined,Punjab,1,1,882,665
+ 89 - Government Boys Primay School Janoon Mustaqil,30.53994,70.92899,Combined,Punjab,1,1,523,386
+ 142 - Government Boys Primary School Chak 520 TDA,30.540938192743347,71.08019241479066,Combined,Punjab,1,1,780,587
+ 226 - Government Girls Elementry School Tibba Qazian (Male),30.540938192743347,71.0802224147907,Male,Punjab,1,0,573,0
+ 236 - Government Boys Primary School Samadari Jadeed,30.54810033295161,70.95477705340039,Combined,Punjab,2,1,830,671
+ 51 - Government Girls High School Ehsan Pur,30.54810033295161,70.9548070534004,Combined,Punjab,1,1,713,587
+ 140 - Government Boys Primary School Chak 580 TDA,30.549221900318198,71.11496354129478,Combined,Punjab,1,1,677,486
+ 224 - Government Girls High School Daira Din Panah (Male),30.549221900318198,71.1149935412948,Male,Punjab,2,0,1411,0
+ 233 - Government Boys Primary School Guftar Abad,30.549595285427802,70.9373442145048,Combined,Punjab,1,1,578,451
+ 49 - Government Boys Primary School Marha,30.549595285427802,70.9373742145048,Combined,Punjab,1,1,741,563
+ 235 - Government Boys Primary School Guftar Abad,30.549595285427802,70.9374042145048,Combined,Punjab,1,1,715,607
+ 50 - Government Boys High School Ehsan Pur (Female),30.549595285427802,70.9374342145048,Female,Punjab,0,2,0,925
+ 175 - Government Boys Primary School Fazil Wala,30.55621005412748,70.97200021473043,Combined,Punjab,1,1,880,654
+ 81 - Government Boys Middle School Haider Ghazi (Male),30.55621005412748,70.9720302147304,Male,Punjab,2,0,972,0
+ 177 - Government Boys Elementary School Noor Shah- Chak 525 TDA,30.55621005412748,70.9720602147304,Combined,Punjab,1,1,471,413
+ 83 - Government Boys Middle School Haider Ghazi (Female),30.55621005412748,70.9720902147304,Female,Punjab,0,2,0,757
+ 176 - Government Boys Elementary School Hussain Wala (Female),30.55744754297711,70.9845923587564,Female,Punjab,0,3,0,1037
+ 82 - Government Girls Primary School Khursheed Abad,30.55744754297711,70.9846223587564,Combined,Punjab,2,1,858,719
+ 130 - Government Boys Primary School Dhengin Wala,30.55877156588738,71.20231148633789,Combined,Punjab,1,1,481,419
+ 36 - Government  Girls Middle School Chak 573 TDA,30.55877156588738,71.2023414863379,Combined,Punjab,1,1,779,528
+ 118 - Government Boys Primary School Chak 149 ML (Male),30.559837913891663,71.02399239851036,Male,Punjab,2,0,1031,0
+ 204 - Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.559837913891663,71.0240223985104,Male,Punjab,2,0,771,0
+ 120 - Government Boys Primary School Chak 149 ML (Female),30.559837913891663,71.0240523985104,Female,Punjab,0,2,0,825
+ 206 - Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.559837913891663,71.0240823985104,Male,Punjab,2,0,994,0
+ 116 - Government Model Primary School Chak 147 ML,30.55986679938738,71.05860832282555,Combined,Punjab,1,1,572,497
+ 202 - Government Boys High School Shadi Khan Munda (Female),30.55986679938738,71.0586383228255,Female,Punjab,0,3,0,1159
+ 139 - Government Girls Primary School Chak 577 TDA,30.56536245472461,71.13320803116139,Combined,Punjab,1,1,751,541
+ 223 - Union Council Office Patal Munda (Present Union Council Aziz Abad),30.56536245472461,71.1332380311614,Female,Punjab,0,3,0,1176
+ 131 - Government Girls High School Chak 142 ML (Female),30.568356370338307,71.16715436361308,Female,Punjab,0,1,0,749
+ 37 - Government Boys Primary School Chak 575  TDA,30.568356370338307,71.1671843636131,Combined,Punjab,1,1,735,525
+ 231 - Government Boys Middle School Daira Din Panah (Female),30.570998332568507,70.9379697682388,Female,Punjab,0,3,0,1321
+ 47 - Government Boys  Primary School Khadim Wali,30.570998332568507,70.9379997682388,Combined,Punjab,1,1,504,391
+ 136 - Government Boys Primary School Chak 519 TDA (Male),30.573154618793794,71.07980687144313,Male,Punjab,2,0,1165,0
+ 220 - Cannal Rest House Chowk Sarwar Shaheed (Male),30.573154618793794,71.0798368714431,Male,Punjab,2,0,1216,0
+ 137 - Government Boys Primary School Chak 519 TDA,30.573154618793794,71.0798668714431,Combined,Punjab,1,1,367,216
+ 221 - Government Girls Degree College Chowk Sarwar Shaheed (Male),30.573154618793794,71.0798968714431,Male,Punjab,2,0,1633,0
+ 138 - Government Boys Primary School Chak 519 TDA (Female),30.573154618793794,71.0799268714431,Female,Punjab,0,2,0,870
+ 222 - Cannal Rest House Chowk Sarwar Shaheed (Female),30.573154618793794,71.0799568714431,Female,Punjab,0,4,0,2077
+ 173 - Government Boys Primary School Lohar Wala (Female),30.57434761514673,70.99374571613147,Female,Punjab,0,2,0,1054
+ 79 - Government Boys Primary School Sheikhu Wala,30.57434761514673,70.9937757161315,Combined,Punjab,1,1,561,426
+ 174 - Government Boys Elementary School Hussain Wala (Male),30.57434761514673,70.9938057161315,Male,Punjab,2,0,1289,0
+ 80 - Government Boys Primary School Sheikhu Wala,30.57434761514673,70.9938357161315,Combined,Punjab,1,1,348,268
+ 168 - Government Girls Primay School Faqeero  Arain wala (Male),30.57617385065232,70.9088060400486,Male,Punjab,2,0,1110,0
+ 73 - Government Girls Primary School Saleh Wala,30.57617385065232,70.9088360400486,Combined,Punjab,1,1,399,310
+ 132 - Government Boys Primary School Chak 517 TDA,30.57654636743481,71.14951455889204,Combined,Punjab,1,1,628,412
+ 38 - Basic Health Unit Chak 576 TDA,30.57654636743481,71.149544558892,Combined,Punjab,1,1,522,350
+ 179 - Government Girls Primary School Pirhar Gharbi,30.57724,70.89879,Combined,Punjab,1,1,654,486
+ 85 - Government Boys High School Saleh Wala,30.57724,70.89882,Combined,Punjab,1,1,442,357
+ 18 - Government Girls Primary School Chak 544/TDA,30.57724,70.89885,Combined,Punjab,1,1,352,259
+ 86 - Government Boys High School Saleh Wala,30.57724,70.89888,Combined,Punjab,1,1,689,549
+ 133 - Government Boys High School Chak 518 TDA (Male),30.577520415265983,71.05843578943832,Male,Punjab,2,0,1003,0
+ 218 - Government Girls Higher Secondary School Chowk Sarwar Shaheed (Male),30.577520415265983,71.0584657894383,Male,Punjab,2,0,1098,0
+ 135 - Government Boys High School Chak 518 TDA (Female),30.577520415265983,71.0584957894383,Female,Punjab,0,1,0,753
+ 22 - Government Girls Primary School Chak 546 TDA,30.577520415265983,71.0585257894383,Combined,Punjab,1,1,710,448
+ 178 - Government boys School Pirhar Gharbi,30.577851171546687,70.89870856080024,Combined,Punjab,1,1,765,644
+ 84 - Government Boys High School Saleh Wala,30.577851171546687,70.8987385608002,Combined,Punjab,1,1,736,584
+ 223 - Union Council Office Patal Munda (Present Union Council Aziz Abad),30.5782759,71.2379082,Female,Punjab,0,3,0,1176
+ 4 - Government boys Elementry school Zubair Abad Chak 617 TDA,30.5782759,71.2379382,Combined,Punjab,2,1,1007,675
+ 134 - Government Girls High School Chak 518 TDA,30.5804857670292,71.05613501036433,Combined,Punjab,1,1,677,564
+ 219 - Cannal Rest House Chowk Sarwar Shaheed (Male),30.5804857670292,71.0561650103643,Male,Punjab,2,0,1271,0
+ 204 - Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.5807797,71.2316055,Male,Punjab,2,0,771,0
+ 282 - Government Boys Primary School Mitho Wala (Male),30.5807797,71.2316355,Male,Punjab,2,0,877,0
+ 205 - Government Boys Higher Secondary School Chowk Sarwar Shaheed.,30.5807797,71.2316655,Male,Punjab,1,0,330,0
+ 283 - Government Girls Primary School Bhatta Atta Muhammad (Female),30.5807797,71.2316955,Female,Punjab,0,1,0,713
+ 206 - Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.5807797,71.2317255,Male,Punjab,2,0,994,0
+ 284 - Government Girls Primary School Bhatta Atta Muhammad (Female),30.5807797,71.2317555,Female,Punjab,0,1,0,821
+ 207 - Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.5807797,71.2317855,Male,Punjab,2,0,1176,0
+ 285 - Government Girls Primary School Bhatta Atta Muhammad (Male) centere no 2,30.5807797,71.2318155,Male,Punjab,2,0,961,0
+ 208 - Government Boys Higher Secondary School Chowk Sarwar Shaheed,30.5807797,71.2318455,Female,Punjab,0,2,0,781
+ 286 - Government Girls Primary School Bhatta Atta Muhammad Centre No. 1 (Male),30.5807797,71.2318755,Male,Punjab,2,0,982,0
+ 209 - Government Boys Higher Secondary School Chowk Sarwar Shaheed (Female),30.5807797,71.2319055,Female,Punjab,0,2,0,851
+ 287 - Government Girls Primary School Moti Wala (Female),30.5807797,71.2319355,Female,Punjab,0,2,0,1472
+ 210 - Government Boys Higher Secondary School Chowk Sarwar Shaheed (Female),30.5807797,71.2319655,Female,Punjab,0,2,0,958
+ 288 - Government Girls Primary School Moti Wala (Male),30.5807797,71.2319955,Male,Punjab,2,0,1682,0
+ 171 - Government Girls Primay School Faqeero Arain wala (Female),30.58090509100798,70.96259592355317,Female,Punjab,0,2,0,852
+ 77 - Government Boys Primary School Shah Wala,30.58090509100798,70.9626259235532,Combined,Punjab,1,1,557,449
+ 213 - Canal Rest House Chowk Sarwar Shaheed (Male),30.5814322,71.2352253,Male,Punjab,2,0,1474,0
+ 30 - Government Boys Primary School Chak 558 TDA,30.5814322,71.2352553,Combined,Punjab,1,1,611,479
+ 219 - Cannal Rest House Chowk Sarwar Shaheed (Male),30.5814322,71.2352853,Male,Punjab,2,0,1271,0
+ 36 - Government  Girls Middle School Chak 573 TDA,30.5814322,71.2353153,Combined,Punjab,1,1,779,528
+ 220 - Cannal Rest House Chowk Sarwar Shaheed (Male),30.5814322,71.2353453,Male,Punjab,2,0,1216,0
+ 37 - Government Boys Primary School Chak 575  TDA,30.5814322,71.2353753,Combined,Punjab,1,1,735,525
+ 222 - Cannal Rest House Chowk Sarwar Shaheed (Female),30.5814322,71.2354053,Female,Punjab,0,4,0,2077
+ 39 - Government Model Primary School Chak 582 TDA,30.5814322,71.2354353,Combined,Punjab,1,1,496,362
+ 167 - Government Primary School Dost Ali Wala (Female),30.58188401900544,70.95784199401555,Female,Punjab,0,3,0,1234
+ 72 - Government Girls Primary School Nanu Wala                                 (Male),30.58188401900544,70.9578719940155,Male,Punjab,2,0,1038,0
+ 128 - Government Boys Primary School Khajjar Wala- Chak 516 TDA (Female),30.582074250030928,71.18807134935825,Female,Punjab,0,1,0,718
+ 33 - Government Boys Primary School Chak 566 TDA (Male),30.582074250030928,71.1881013493582,Male,Punjab,2,0,1076,0
+ 13 - Government Girls Primary School Chak 538/TDA,30.582074250030928,71.1881313493583,Combined,Punjab,1,1,886,622
+ 35 - Government Girls Community Model School Chak 566 TDA (Female),30.582074250030928,71.1881613493583,Female,Punjab,0,2,0,834
+ 216 - Government Girls Higher Secondary School Chowk Sarwer Shaheed (Female),30.58238,71.2375369,Female,Punjab,0,3,0,1408
+ 33 - Government Boys Primary School Chak 566 TDA (Male),30.58238,71.2375669,Male,Punjab,2,0,1076,0
+ 217 - Government Girls Higher Secondary School Chowk Sarwar Shaheed (Male),30.58238,71.2375969,Male,Punjab,1,0,700,0
+ 34 - Government Boys Primary School Dirkhan Wala Chak 567 TDA,30.58238,71.2376269,Combined,Punjab,1,1,592,418
+ 218 - Government Girls Higher Secondary School Chowk Sarwar Shaheed (Male),30.58238,71.2376569,Male,Punjab,2,0,1098,0
+ 35 - Government Girls Community Model School Chak 566 TDA (Female),30.58238,71.2376869,Female,Punjab,0,2,0,834
+ 211 - Government Boys Middle School Chowk Sarwer Shaheed,30.5827328,71.2387435,Male,Punjab,2,0,985,0
+ 29 - Government Boys Primary School  Bagh Wala Chak 556 TDA,30.5827328,71.2387735,Combined,Punjab,1,1,331,257
+ 212 - Government Boys Middle School Chowk Sarwer Shaheed (Male),30.5827328,71.2388035,Male,Punjab,2,0,904,0
+ 3 - Government Girls Primary School Chak 536 TDA,30.5827328,71.2388335,Combined,Punjab,1,1,455,302
+ 214 - Government Boys Middle School Chowk Sarwar Shaheed (Female),30.5827328,71.2388635,Female,Punjab,0,3,0,1507
+ 31 - Government Boys Primary School Chak 561 TDA,30.5827328,71.2388935,Combined,Punjab,2,1,968,684
+ 215 - Government Boys Middle School Chowk Sarwar Shaheed (Female),30.5827328,71.2389235,Female,Punjab,0,3,0,1174
+ 32 - Government Boys Primary School Surmay Dani,30.5827328,71.2389535,Combined,Punjab,2,1,914,594
+ 170 - Government Boys Primary School Lohar Wala (Male),30.583985934255235,70.93327738763699,Male,Punjab,2,0,1331,0
+ 76 - Government Girls Middle School Tibba Qazian,30.583985934255235,70.933307387637,Combined,Punjab,1,1,407,351
+ 129 - Government Girls High School Chak 142 ML (Male),30.586379474820482,71.21024801589512,Male,Punjab,2,0,924,0
+ 34 - Government Boys Primary School Dirkhan Wala Chak 567 TDA,30.586379474820482,71.2102780158951,Combined,Punjab,1,1,592,418
+ 115 - Government Girls Elementary School Chak 146 ML (Male),30.590004052294212,71.02985917504645,Male,Punjab,2,0,968,0
+ 201 - Government High School Shadi Khan Munda (Male),30.590004052294212,71.0298891750464,Male,Punjab,2,0,1460,0
+ 117 - Government Girls Elementary School Chak 146 ML (Female),30.590004052294212,71.0299191750465,Female,Punjab,0,1,0,691
+ 203 - Government boys High School Shadi Khan Munda,30.590004052294212,71.0299491750465,Combined,Punjab,2,2,845,659
+ 116 - Government Model Primary School Chak 147 ML,30.591599192135824,71.13944700801918,Combined,Punjab,1,1,572,497
+ 20 - Government Primary School Chak 564/TDA,30.591599192135824,71.1394770080192,Combined,Punjab,2,1,938,701
+ 166 - Government Boys Primary School Beryar Abbad (Female),30.593674659053217,70.96550913699097,Female,Punjab,0,1,0,778
+ 71 - Government Girls Primary school Khand Wala,30.593674659053217,70.965539136991,Combined,Punjab,1,1,654,540
+ 17 - Government Model Primary School Chak 543 TDA,30.59429347201182,70.93828991054208,Combined,Punjab,1,1,538,389
+ 75 - Government Girls Primary School Chani Wala,30.59429347201182,70.9383199105421,Combined,Punjab,1,1,404,322
+ 172 - Government Boys Primary School Lohar Wala (Female),30.594908653198726,70.99066617979227,Female,Punjab,0,1,0,544
+ 78 - Government Boys Primary School Abdullah Wala,30.594908653198726,70.9906961797923,Combined,Punjab,1,1,687,527
+ 132 - Government Boys Primary School Chak 517 TDA,30.596457500245123,71.07454768542048,Combined,Punjab,1,1,628,412
+ 217 - Government Girls Higher Secondary School Chowk Sarwar Shaheed (Male),30.596457500245123,71.0745776854205,Male,Punjab,1,0,700,0
+ 126 - Government Boys Primary School Khajjar Wala- Chak 516 TDA (Male),30.600370306468843,71.05867723648089,Male,Punjab,2,0,914,0
+ 211 - Government Boys Middle School Chowk Sarwer Shaheed,30.600370306468843,71.0587072364809,Male,Punjab,2,0,985,0
+ 128 - Government Boys Primary School Khajjar Wala- Chak 516 TDA (Female),30.600370306468843,71.0587372364809,Female,Punjab,0,1,0,718
+ 213 - Canal Rest House Chowk Sarwar Shaheed (Male),30.600370306468843,71.0587672364809,Male,Punjab,2,0,1474,0
+ 154 - Government Boys Primary School Rasheed Khan Wala (Female),30.606366557068682,70.92766754595026,Female,Punjab,0,2,0,859
+ 58 - Government Boys High School Yaray Wala,30.606366557068682,70.9276975459503,Combined,Punjab,1,1,755,550
+ 161 - Government Boys Primary School Tarandin Wala,30.60639844171312,70.92765543362518,Combined,Punjab,1,1,529,376
+ 66 - Government Boys High School Yaray Wala,30.60639844171312,70.9276854336252,Combined,Punjab,2,2,856,700
+ 126 - Government Boys Primary School Khajjar Wala- Chak 516 TDA (Male),30.606808304397532,71.20979530629371,Male,Punjab,2,0,914,0
+ 31 - Government Boys Primary School Chak 561 TDA,30.606808304397532,71.2098253062937,Combined,Punjab,2,1,968,684
+ 163 - Government Boys Primary School Baryar Abbad (Male),30.607329549650693,70.89626713675025,Male,Punjab,2,0,994,0
+ 68 - Government Boys Elementary School Abbas Wala,30.607329549650693,70.8962971367502,Combined,Punjab,1,1,612,564
+ 158 - Government Boys Primary School Aslam Khan Wala (Male),30.60855753033037,70.95643705756416,Male,Punjab,2,0,929,0
+ 62 - Government Boys Primary School Bangla Hinjrai,30.60855753033037,70.9564670575642,Combined,Punjab,1,1,393,273
+ 121 - Government  Boys Primary School Chak 143 ML,30.609857137862058,71.02749799540125,Combined,Punjab,2,1,830,569
+ 207 - Government Boys Higher Secondary School Chowk Sarwar Shaheed (Male),30.609857137862058,71.0275279954012,Male,Punjab,2,0,1176,0
+ 162 - Government  Boys Primary School Khirki (Male),30.613899293069665,70.91198405636436,Male,Punjab,2,0,1177,0
+ 67 - Government Boys Primary School Lombar Wala,30.613899293069665,70.9120140563644,Combined,Punjab,1,1,491,435
+ 117 - Government Girls Elementary School Chak 146 ML (Female),30.614144644127784,71.16319557054463,Female,Punjab,0,1,0,691
+ 21 - Government Boys Elementry School Chak 555/TDA,30.614144644127784,71.1632255705446,Combined,Punjab,1,1,705,521
+ 156 - Government Boys Primary School Sanjrani Wala (Male),30.614667143346175,70.93551739169628,Male,Punjab,2,0,1403,0
+ 60 - Government Maktab School Qureshi Wala,30.614667143346175,70.9355473916963,Combined,Punjab,1,1,646,513
+ 16 - Government Girls Primary School Chak 553 TDA,30.615408416235343,70.98094568662196,Combined,Punjab,1,1,261,166
+ 64 - Government Boys Primary School More Wala,30.615408416235343,70.980975686622,Combined,Punjab,1,1,671,523
+ 160 - Government Girls Primary School Shah Jamal (Female),30.615408416235343,70.981005686622,Female,Punjab,0,1,0,745
+ 65 - Government Boys Primary School More Wala,30.615408416235343,70.981035686622,Combined,Punjab,1,1,408,363
+ 159 - Government Boys Primary School Usman Khan Wala,30.620187302650642,70.98331397308957,Combined,Punjab,1,1,672,527
+ 63 - Government Boys Maktab School Kingri Wala,30.620187302650642,70.9833439730896,Combined,Punjab,1,1,214,157
+ 129 - Government Girls High School Chak 142 ML (Male),30.62150268180042,71.0765167635318,Male,Punjab,2,0,924,0
+ 214 - Government Boys Middle School Chowk Sarwar Shaheed (Female),30.62150268180042,71.0765467635318,Female,Punjab,0,3,0,1507
+ 131 - Government Girls High School Chak 142 ML (Female),30.62150268180042,71.0765767635318,Female,Punjab,0,1,0,749
+ 216 - Government Girls Higher Secondary School Chowk Sarwer Shaheed (Female),30.62150268180042,71.0766067635318,Female,Punjab,0,3,0,1408
+ 165 - Government Girls Primary School Dost Ali Wala (Male),30.62220624609555,70.91765321307587,Male,Punjab,2,0,1439,0
+ 70 - Government Girls Primary School Kulachi Wala,30.62220624609555,70.9176832130759,Combined,Punjab,1,1,529,394
+ 125 - Government Model Primary School Chak 116 ML (Female),30.622753624304316,71.20487461290126,Female,Punjab,0,2,0,963
+ 30 - Government Boys Primary School Chak 558 TDA,30.622753624304316,71.2049046129013,Combined,Punjab,1,1,611,479
+ 169 - Government Boys Primary School Lohar Wala (Male),30.62338195083839,71.15300425181823,Male,Punjab,1,0,742,0
+ 250 - Government Boys High School Kot Adu (Female),30.62338195083839,71.1530342518182,Female,Punjab,0,3,0,1503
+ 172 - Government Boys Primary School Lohar Wala (Female),30.623413024259825,71.15305613025797,Female,Punjab,0,1,0,544
+ 253 - Government Girls Primary School Gaji Wala (Male),30.623413024259825,71.153086130258,Male,Punjab,2,0,770,0
+ 164 - Government  Boys Primary School Baseera (Female),30.625064423101964,70.91694242969179,Female,Punjab,0,2,0,1025
+ 69 - Government Boys Primary School Jadeed Bahadur Wala,30.625064423101964,70.9169724296918,Combined,Punjab,2,1,814,705
+ 136 - Government Boys Primary School Chak 519 TDA (Male),30.625606327532388,70.87573728263817,Male,Punjab,2,0,1165,0
+ 42 - Government Boys Primary School Khadim Wali,30.625606327532388,70.8757672826382,Combined,Punjab,1,1,386,322
+ 140 - Government Boys Primary School Chak 580 TDA,30.62562031139119,70.87566754105451,Combined,Punjab,1,1,677,486
+ 47 - Government Boys  Primary School Khadim Wali,30.62562031139119,70.8756975410545,Combined,Punjab,1,1,504,391
+ 124 - Government Boys Primary School Chak 515 TDA,30.627356429795878,71.17698792810793,Combined,Punjab,2,1,852,595
+ 29 - Government Boys Primary School  Bagh Wala Chak 556 TDA,30.627356429795878,71.1770179281079,Combined,Punjab,1,1,331,257
+ 124 - Government Boys Primary School Chak 515 TDA,30.627869012066178,71.06041612495558,Combined,Punjab,2,1,852,595
+ 21 - Government Boys Elementry School Chak 555/TDA,30.627869012066178,71.0604461249556,Combined,Punjab,1,1,705,521
+ 157 - Government Boys Primary School Sanjrani Wala (Female),30.62846515912169,70.9478971414222,Female,Punjab,0,2,0,1039
+ 61 - Government Maktab School Malik Wala,30.62846515912169,70.9479271414222,Combined,Punjab,1,1,677,553
+ 123 - Government Model Primary School Chak 116 ML (Male),30.6304,71.06362,Male,Punjab,2,0,1299,0
+ 209 - Government Boys Higher Secondary School Chowk Sarwar Shaheed (Female),30.6304,71.06365,Female,Punjab,0,2,0,851
+ 125 - Government Model Primary School Chak 116 ML (Female),30.6304,71.06368,Female,Punjab,0,2,0,963
+ 210 - Government Boys Higher Secondary School Chowk Sarwar Shaheed (Female),30.6304,71.06371,Female,Punjab,0,2,0,958
+ 153 - Government Boys Primary School Chandan Wala (Male),30.63930140363352,70.96114495682828,Male,Punjab,2,0,1128,0
+ 57 - Government Girls Primary School Nazar Pura (Male),30.63930140363352,70.9611749568283,Male,Punjab,2,0,883,0
+ 155 - Government Girls Primary School Chandan Wala (Female),30.63930140363352,70.9612049568283,Female,Punjab,0,2,0,1478
+ 59 - Government Girls Primary School Nazar Pura (Female),30.63930140363352,70.9612349568283,Female,Punjab,0,2,0,739
+ 127 - Government Model Primary School Chak 512 TDA,30.6417519601067,71.12520584976633,Combined,Punjab,1,1,699,549
+ 212 - Government Boys Middle School Chowk Sarwer Shaheed (Male),30.6417519601067,71.1252358497663,Male,Punjab,2,0,904,0
+ 112 - Government Boys Elementary School Noor Shah- Chak 525 TDA,30.64452,71.15852,Combined,Punjab,2,1,842,619
+ 16 - Government Girls Primary School Chak 553 TDA,30.64452,71.15855,Combined,Punjab,1,1,261,166
+ 151 - Government Boys Primary School Rasheed Khan Wala (Male),30.6459158914906,70.97531557572533,Male,Punjab,2,0,1159,0
+ 55 - Government Boys Primary School Seed Farm,30.6459158914906,70.9753455757253,Combined,Punjab,2,1,1045,796
+ 142 - Government Boys Primary School Chak 520 TDA,30.646034525945574,70.92670751025362,Combined,Punjab,1,1,780,587
+ 49 - Government Boys Primary School Marha,30.646034525945574,70.9267375102536,Combined,Punjab,1,1,741,563
+ 15 - Government Model Primary School Chak 514 TDA,30.646183041967657,70.9529866046921,Combined,Punjab,1,1,790,582
+ 53 - Government Girls High School Ehsan Pur,30.646183041967657,70.9530166046921,Combined,Punjab,1,1,570,478
+ 152 - Government Boys Primary School Chandan Wala (Male),30.646183995950082,70.9529632509033,Male,Punjab,1,0,666,0
+ 56 - Government Girls High School Ehsan Pur,30.646183995950082,70.9529932509033,Female,Punjab,0,2,0,822
+ 148 - Government High School Tounsa Beraj (Male),30.646193453604624,70.9530152196473,Male,Punjab,2,0,817,0
+ 51 - Government Girls High School Ehsan Pur,30.646193453604624,70.9530452196473,Combined,Punjab,1,1,713,587
+ 143 - Government Boys Primary School Chak 523 TDA,30.647187995438678,70.95472855537183,Combined,Punjab,1,1,344,265
+ 50 - Government Boys High School Ehsan Pur (Female),30.647187995438678,70.9547585553718,Female,Punjab,0,2,0,925
+ 150 - Government Girls Primary School Kacha Patal (Female),30.647187995438678,70.9547885553718,Female,Punjab,0,2,0,1465
+ 54 - Government Girls High School Ehsan Pur (Male),30.647187995438678,70.9548185553718,Male,Punjab,2,0,951,0
+ 141 - Government Boys Primary School Dhengin Wala,30.647231658967407,70.95468279764144,Combined,Punjab,1,1,732,601
+ 48 - Government Boys High School Ehsan Pur (Male),30.647231658967407,70.9547127976414,Male,Punjab,2,0,1205,0
+ 149 - Government High School Tounsa Beraj (Male),30.647231658967407,70.9547427976414,Male,Punjab,2,0,1098,0
+ 52 - Government Boys High School Ehsan Pur,30.647231658967407,70.9547727976414,Combined,Punjab,1,1,604,498
+ 135 - Government Boys High School Chak 518 TDA (Female),30.653828217720335,70.86669900290786,Female,Punjab,0,1,0,753
+ 41 - Government Boys Primary School Yakail Wala,30.653828217720335,70.8667290029079,Combined,Punjab,2,1,885,741
+ 137 - Government Boys Primary School Chak 519 TDA,30.654686854260035,70.90501871966906,Combined,Punjab,1,1,367,216
+ 43 - Government Boys Primary School Bhaidain Wali  (Male),30.654686854260035,70.9050487196691,Male,Punjab,2,0,907,0
+ 138 - Government Boys Primary School Chak 519 TDA (Female),30.654686854260035,70.9050787196691,Female,Punjab,0,2,0,870
+ 44 - Government Girls Elementary School Bhaidain Wali,30.654686854260035,70.9051087196691,Combined,Punjab,1,1,433,384
+ 139 - Government Girls Primary School Chak 577 TDA,30.654686854260035,70.9051387196691,Combined,Punjab,1,1,751,541
+ 45 - Government Girls Elementary School Bhaidain Wali (Female),30.654686854260035,70.9051687196691,Female,Punjab,0,1,0,741
+ 14 - Government Model Primary School Chak 541 TDA,30.654686854260035,70.9051987196691,Combined,Punjab,1,1,822,545
+ 46 - Government Girls Elementary School Bhaidain Wali,30.654686854260035,70.9052287196691,Combined,Punjab,1,1,440,403
+ 119 - Government Boys Elementry School Habib Wala Chak 145 ML,30.77764441255776,70.93031097414669,Combined,Punjab,2,1,886,651
+ 205 - Government Boys Higher Secondary School Chowk Sarwar Shaheed.,30.77764441255776,70.9303409741467,Male,Punjab,1,0,330,0
+ 122 - Government Boys Elementary School Habib Wala-Chak 145 ML,30.77764441255776,70.9303709741467,Combined,Punjab,1,1,670,475
+ 208 - Government Boys Higher Secondary School Chowk Sarwar Shaheed,30.77764441255776,70.9304009741467,Female,Punjab,0,2,0,781

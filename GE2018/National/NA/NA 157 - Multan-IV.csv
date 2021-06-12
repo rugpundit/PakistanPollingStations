@@ -1,32 +1,32 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-57,Govt. Girls Priamary School Jungli Jaswant Singh Peer Colony No.2,30.104056534273322,71.5020983393015,Female,Punjab,0,3,0,1449
-8,Govt. Girl Primary School Dera Muhammadi No.2,30.122273129493585,71.50511871759645,Combined,Punjab,2,2,1231,1129
-7,Govt. Boys Elementary School Fazal Model Factory,30.12841,71.49043,Combined,Punjab,2,2,1325,1080
-42,Govt. Boys Primary School Samo Rana,30.131476572943093,71.4624660511245,Combined,Punjab,2,2,995,908
-41,Govt. Primary School Samo Rana,30.131599471970002,71.46261484478057,Combined,Punjab,2,2,1143,993
-9,Govt. Girls Elementary School Gilani Town Ram kali,30.14603265939621,71.50108491229936,Combined,Punjab,2,2,850,696
-21,Govt. Girls Middle School Dera Budho Malik,30.147224928627207,71.49486580278466,Combined,Punjab,2,1,746,590
-4,Govt. Girls Middle School Dera Budhu Malik,30.147224928627207,71.4948958027847,Combined,Punjab,2,1,717,627
-43,Govt. Teacher Training College Rangeel Pur,30.152425200561943,71.45820507875199,Combined,Punjab,2,2,1190,1062
-17,Govt. Boys Elementary School Basti Aehal pur,30.153707823125977,71.50879840225613,Male,Punjab,3,0,1559,0
-18,Govt. Boys Elementary School Basti Aehal Pur,30.153707823125977,71.5088284022561,Female,Punjab,0,2,0,1254
-24,Govt. Girls Primary School Chah Bootay Wala Seetal Maari,30.17661,71.52521,Female,Punjab,0,4,0,2064
-23,Govt. Girls Primary School Chah Bootay Wala Seetal Mari,30.176627437484182,71.52503131403864,Male,Punjab,2,0,1219,0
-28,129 Govt. Girls Primary School Chah Bootay Wala Seetal Maari,30.176627437484182,71.5250613140386,Male,Punjab,3,0,1402,0
-1,Govt. Boys Middle School Bhakkal Bhir,30.1947399,71.514111,Combined,Punjab,2,2,1073,914
-2,Govt. Boys Primary School Habiba Siaal,30.1947399,71.514141,Combined,Punjab,2,1,766,643
-3,Govt. Boys Primary School Habiba Siaal Multan,30.1947399,71.514171,Combined,Punjab,1,1,624,534
-22,Govt. Boys Elementary School Fazal Model Factory,30.1947399,71.514201,Combined,Punjab,2,1,787,635
-6,Govt. Boys Elementary School Fazal Model Factory,30.1947399,71.514231,Combined,Punjab,2,2,793,664
-10,Govt. Boys Primary School Kayan Pur,30.1947399,71.514261,Combined,Punjab,2,2,1214,996
-11,Govt. Boys Primary School Kayan Pur,30.1947399,71.514291,Combined,Punjab,1,1,428,386
-12,Govt. Boys Primary School Kayan Pur,30.1947399,71.514321,Combined,Punjab,2,2,884,766
-13,Govt. Boys Primary School Kayan Pur,30.1947399,71.514351,Combined,Punjab,1,1,314,196
-14,Union Council Office Kayyan Pur,30.1947399,71.514381,Combined,Punjab,2,2,966,834
-15,Union Council Office Kayan Pur,30.1947399,71.514411,Combined,Punjab,2,2,1140,845
-20,Govt. Boys High School Sameja Abad,30.19724843537557,71.52664199101629,Combined,Punjab,1,1,167,139
-5,Govt. Girls Middle School Dera Budhu (Dera Muhammadi),30.21698,71.47826,Combined,Punjab,2,2,1054,907
-35,Govt. Boys Higher Secondary School Bhaini,30.2184179,71.4671578,Combined,Punjab,2,2,781,671
-36,Govt. Higher Secondary School Bhaini,30.2184179,71.4671878,Combined,Punjab,2,2,1109,954
-37,Govt. Higher Secondary School Bhaini,30.2184179,71.4672178,Combined,Punjab,2,2,1038,732
-16,Govt. Boys Higher Secondary School Bhaini,30.2184179,71.4672478,Combined,Punjab,2,2,1065,851
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 57 - Govt. Girls Priamary School Jungli Jaswant Singh Peer Colony No.2,30.104056534273322,71.5020983393015,Female,Punjab,0,3,0,1449
+ 8 - Govt. Girl Primary School Dera Muhammadi No.2,30.122273129493585,71.50511871759645,Combined,Punjab,2,2,1231,1129
+ 7 - Govt. Boys Elementary School Fazal Model Factory,30.12841,71.49043,Combined,Punjab,2,2,1325,1080
+ 42 - Govt. Boys Primary School Samo Rana,30.131476572943093,71.4624660511245,Combined,Punjab,2,2,995,908
+ 41 - Govt. Primary School Samo Rana,30.131599471970002,71.46261484478057,Combined,Punjab,2,2,1143,993
+ 9 - Govt. Girls Elementary School Gilani Town Ram kali,30.14603265939621,71.50108491229936,Combined,Punjab,2,2,850,696
+ 21 - Govt. Girls Middle School Dera Budho Malik,30.147224928627207,71.49486580278466,Combined,Punjab,2,1,746,590
+ 4 - Govt. Girls Middle School Dera Budhu Malik,30.147224928627207,71.4948958027847,Combined,Punjab,2,1,717,627
+ 43 - Govt. Teacher Training College Rangeel Pur,30.152425200561943,71.45820507875199,Combined,Punjab,2,2,1190,1062
+ 17 - Govt. Boys Elementary School Basti Aehal pur,30.153707823125977,71.50879840225613,Male,Punjab,3,0,1559,0
+ 18 - Govt. Boys Elementary School Basti Aehal Pur,30.153707823125977,71.5088284022561,Female,Punjab,0,2,0,1254
+ 24 - Govt. Girls Primary School Chah Bootay Wala Seetal Maari,30.17661,71.52521,Female,Punjab,0,4,0,2064
+ 23 - Govt. Girls Primary School Chah Bootay Wala Seetal Mari,30.176627437484182,71.52503131403864,Male,Punjab,2,0,1219,0
+ 28 - 129 Govt. Girls Primary School Chah Bootay Wala Seetal Maari,30.176627437484182,71.5250613140386,Male,Punjab,3,0,1402,0
+ 1 - Govt. Boys Middle School Bhakkal Bhir,30.1947399,71.514111,Combined,Punjab,2,2,1073,914
+ 2 - Govt. Boys Primary School Habiba Siaal,30.1947399,71.514141,Combined,Punjab,2,1,766,643
+ 3 - Govt. Boys Primary School Habiba Siaal Multan,30.1947399,71.514171,Combined,Punjab,1,1,624,534
+ 22 - Govt. Boys Elementary School Fazal Model Factory,30.1947399,71.514201,Combined,Punjab,2,1,787,635
+ 6 - Govt. Boys Elementary School Fazal Model Factory,30.1947399,71.514231,Combined,Punjab,2,2,793,664
+ 10 - Govt. Boys Primary School Kayan Pur,30.1947399,71.514261,Combined,Punjab,2,2,1214,996
+ 11 - Govt. Boys Primary School Kayan Pur,30.1947399,71.514291,Combined,Punjab,1,1,428,386
+ 12 - Govt. Boys Primary School Kayan Pur,30.1947399,71.514321,Combined,Punjab,2,2,884,766
+ 13 - Govt. Boys Primary School Kayan Pur,30.1947399,71.514351,Combined,Punjab,1,1,314,196
+ 14 - Union Council Office Kayyan Pur,30.1947399,71.514381,Combined,Punjab,2,2,966,834
+ 15 - Union Council Office Kayan Pur,30.1947399,71.514411,Combined,Punjab,2,2,1140,845
+ 20 - Govt. Boys High School Sameja Abad,30.19724843537557,71.52664199101629,Combined,Punjab,1,1,167,139
+ 5 - Govt. Girls Middle School Dera Budhu (Dera Muhammadi),30.21698,71.47826,Combined,Punjab,2,2,1054,907
+ 35 - Govt. Boys Higher Secondary School Bhaini,30.2184179,71.4671578,Combined,Punjab,2,2,781,671
+ 36 - Govt. Higher Secondary School Bhaini,30.2184179,71.4671878,Combined,Punjab,2,2,1109,954
+ 37 - Govt. Higher Secondary School Bhaini,30.2184179,71.4672178,Combined,Punjab,2,2,1038,732
+ 16 - Govt. Boys Higher Secondary School Bhaini,30.2184179,71.4672478,Combined,Punjab,2,2,1065,851

@@ -1,234 +1,234 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-6,Govt Boys Primary School- Bodial (Combined)(P),33.40326,72.95842,Combined,Punjab,1,1,472,366
-7,Govt. Girls Elementary School- Bodial (Combined)(P),33.4111,72.95639,Combined,Punjab,1,1,656,572
-35,Govt Girls Primery School- Mandwal (combined)(P),33.42124574014539,72.85602746841822,Combined,Punjab,1,1,515,408
-32,Govt.Boys High School- Chahan (Male)(P),33.42407173545868,72.87865446723184,Male,Punjab,3,0,1347,0
-33,Govt.Boys High School- Chahan (Female)(P),33.42407173545868,72.8786844672318,Female,Punjab,0,2,0,1216
-5,Govt boys High School- Dhallah (combined)(P),33.42643,72.95787,Combined,Punjab,2,2,802,739
-34,Govt.Girls Primery School- Dhoke Chahh- Chahan (combined)(P),33.46515965481979,72.84230664671034,Combined,Punjab,1,1,417,363
-31,Govt. Girls Middle School- Maira Khenger (combined)(P),33.46935075822765,72.92317324539141,Combined,Punjab,2,2,935,859
-1,Govt Boys High School- Adyala (Combined),33.47041,73.01414,Combined,Punjab,2,2,1106,954
-2,Govt Boys High School- Adyala (Combined)(P),33.47041,73.01417,Combined,Punjab,2,2,920,804
-3,Govt Boys Primery School- Khasala (combined)(P),33.47041,73.0142,Combined,Punjab,2,1,800,675
-30,Govt. Elementary School- Maira Kalan (combined)(P),33.48147727998961,72.93089756058184,Combined,Punjab,2,2,945,826
-4,Govt. Girls Primary School- Khasala Khurd (combined)(P),33.49186,73.07982,Combined,Punjab,1,1,682,578
-27,Govt. Boys Primary School- Raja Hassu Khan (combined)(P),33.49696,72.9693,Combined,Punjab,2,1,752,597
-28,Basic Health Unit Kolian Pur (combined)(P),33.5099572481234,72.95080235128576,Combined,Punjab,1,1,194,164
-29,Basic Health Unit Kolian Pur (combined)(P),33.5099572481234,72.9508323512858,Combined,Punjab,1,1,496,381
-8,Govt Girls primery School- Banda Nagial (combined)(P),33.53049,73.00382,Combined,Punjab,2,2,967,825
-25,Qandeel Elecmentry School- Ranyal (combined)(P),33.53664,72.97636,Combined,Punjab,2,1,811,664
-22,Govt. Boys Elementary School- Ranyal (Male)(P),33.5381,72.97661,Male,Punjab,3,0,1802,0
-23,Govt. Boys Elementary School- Ranyal (Female)(P),33.5381,72.97664,Female,Punjab,0,1,0,685
-24,Govt. Boys Elementary School- Ranyal (Female)(P),33.5381,72.97667,Female,Punjab,0,2,0,908
-26,Union Council Office Ranyal (combined)(P),33.53903,72.98189,Combined,Punjab,1,1,704,572
-10,Basic Health Unit- Hayal Dhamial (combined)(P),33.54189,73.01376,Combined,Punjab,2,2,953,882
-9,Basic Health Unit- Hayal Dhamial (combined)(P),33.54189,73.01379,Combined,Punjab,2,2,1050,856
-18,Govt.Girls Middle School- Thalian (Male)(P),33.54218,72.90921,Male,Punjab,2,0,940,0
-19,Govt.Girls Middle School- Thalian (Female)(P),33.54218,72.90924,Female,Punjab,0,2,0,811
-20,Govt Boys Primery School- Ghariba (combined)(P),33.545616999861416,72.92605116245595,Combined,Punjab,1,1,683,541
-13,Govt. Girls Primary School Pind Ranjah (combined)(P),33.56686,72.85703,Combined,Punjab,2,2,741,718
-21,Govt. Girls Primary School- Kot Kolian- (Comb) (P),33.56876,72.92356,Combined,Punjab,1,1,363,282
-12,Govt. Girls High School- Bajnial (combined)(P),33.57438,72.88914,Combined,Punjab,2,2,866,842
-11,Govt. Boys Primary School- Mohri Khatran (combined)(P),33.57719,72.82776,Combined,Punjab,1,1,448,452
-14,Govt. High School- Pind Nasrullah (Male)(P),33.60172,72.87241,Male,Punjab,2,0,717,0
-15,Govt. High School- Pind Nasrullah (Male)(P),33.60172,72.87244,Male,Punjab,2,0,1182,0
-16,Govt. High School- Pind Nasrullah (Female)(P),33.60172,72.87247,Female,Punjab,0,1,0,664
-17,Govt. High School- Pind Nasrullah (Female)(P),33.60172,72.8725,Female,Punjab,0,2,0,1096
-83,Govt Boys Primary School Mohra Murado  (male)(P),33.6378,73.08033,Male,Punjab,1,0,466,0
-42,Govt  Model Primary School-Najaf Ali Shah(New) Dhoke Wajjan (Female)(P),33.6378,73.08055,Female,Punjab,0,2,0,1012
-43,Govt  Model Primary School-Najaf Ali Shah(New) Dhoke Wajjan (Female)(P),33.6378,73.08058,Female,Punjab,0,2,0,1071
-100,Govt. Degree  College- Mohallah Pari Taxila  (Male)(P),33.6378,73.08061,Male,Punjab,1,0,400,0
-102,Govt. Degree College- Mohallah Pari- Taxila- (Female) (P),33.6378,73.08064,Female,Punjab,0,3,0,1628
-135,Govt Boys Primary School Kolian. (combined)(P),33.6378,73.08067,Combined,Punjab,2,2,998,862
-163,Govt Boys Primary School- Malikabad Old Building (Female)(T),33.6378,73.0807,Female,Punjab,0,1,0,203
-98,Muncipal Committee Model Girls High School-Taxila. (Male)(P),33.6378,73.08073,Male,Punjab,2,0,1071,0
-40,Govt Model Primary School- Dhoke Wajjan (Male)(P),33.72223919754662,72.81346772315726,Male,Punjab,2,0,1052,0
-41,Govt Model Primary School- Dhoke Wajjan (Male)(P),33.72223919754662,72.8134977231573,Male,Punjab,2,0,1186,0
-36,Govt Girls High School Wahdat Colony-Taxila (Male)(P).,33.724678144659244,72.80390495435212,Male,Punjab,2,0,797,0
-37,Govt Girls High School Wahdat Colony-Taxila (Male)(P).,33.724678144659244,72.8039349543521,Male,Punjab,1,0,524,0
-38,Govt Girls High School Wahdat Colony- Taxila (Female)(P).,33.724678144659244,72.8039649543521,Female,Punjab,0,1,0,738
-39,Govt Girls High School Wahdat Colony- Taxila (Female)(P).,33.724678144659244,72.8039949543521,Female,Punjab,0,1,0,486
-63,Wahdat Public School- New Wahdat Town- (Comb) (P),33.724942333022675,72.80097875450265,Combined,Punjab,1,1,569,499
-162,Govt Boys Primary School Malikabad New Building (Male)(P),33.72971,72.77779,Male,Punjab,1,0,240,0
-165,Govt Boys Primary School- Malikabad New Building (Female)(P),33.72971,72.77782,Female,Punjab,0,3,0,1450
-62,Govt Girls Primary School- Pind Gondal- (combined)(P),33.73083444232015,72.7915166347725,Combined,Punjab,2,2,1113,911
-89,Govt Girls Primary School Sarai Kala- (Female)(P),33.73428,72.79697,Female,Punjab,0,1,0,523
-90,Govt Girls Primary School Sarai Kala- (Female)(P),33.73428,72.797,Female,Punjab,0,2,0,1193
-50,Govt. High School- HIT Taxila Cantt (Male) (P),33.73434495200546,72.83055188117211,Male,Punjab,1,0,642,0
-51,Govt. High School- HIT Taxila Cantt (Female) (P),33.73434495200546,72.8305818811721,Female,Punjab,0,1,0,550
-45,Govt. High School- HIT Taxila Cantt (Male) (P),33.734430105535736,72.83057511050448,Male,Punjab,1,0,615,0
-46,Govt High School HIT Taxila (Female)(P).,33.734430105535736,72.8306051105045,Female,Punjab,0,1,0,577
-49,Govt Boys Primary Karam Wal School- Taxila (Comb) (T),33.73455094768454,72.8413051520295,Combined,Punjab,2,2,1171,1005
-316,Govt. Girls Primary School- Jhugian near Grid Station Thatha Khalil Road- Jamilabad (Female) (T),33.7346,72.78681,Female,Punjab,0,3,0,1452
-317,Royal King Adward School System Thatha Khalil Road- near Grid Station Jamilabad (Female) (T),33.73521,72.78814,Female,Punjab,0,1,0,587
-172,Computer Center Jamilabad- Taxila (Female)(P).,33.735244310152545,72.78766856134108,Female,Punjab,0,2,0,1076
-47,F.G Public High School Taxila (Male)(P).,33.73679693988234,72.82693529029342,Male,Punjab,2,0,997,0
-48,F.G Public High School Taxila (Female)(P),33.73679693988234,72.8269652902934,Female,Punjab,0,2,0,914
-171,Govt Boys Primary School Jamilabad-Taxila (Male)(P).,33.73702561940627,72.79025659360968,Male,Punjab,1,0,1126,0
-94,Govt Boys Primary School Jamilabad-Taxila (Male)(P).,33.73706,72.79034,Male,Punjab,1,0,584,0
-103,Govt High School Taxila (Chowk Sarai Kala) (Male) (P),33.73772,72.80056,Male,Punjab,1,0,541,0
-104,Govt High School Taxila (Chowk Sarai Kala) (Male) (P),33.73772,72.80059,Male,Punjab,2,0,1164,0
-105,Govt High School Taxila (Chowk Sarai Kala) (Female) (P),33.73772,72.80062,Female,Punjab,0,2,0,1273
-99,Muncipal Committee Model Girls High School-Taxila. (Female)(P),33.73838,72.80927,Female,Punjab,0,2,0,922
-164,Roman Public School Malikabad. (Male)(T),33.73935,72.77829,Male,Punjab,3,0,1804,0
-95,Govt Taleem-Ul-Quran High School- Taxila- Faisal Shaheed Road- Taxila- (Male) (P),33.74035,72.80249,Male,Punjab,1,0,552,0
-96,Govt Taleem-Ul-Quran High School- Taxila- Faisal Shaheed Road- Taxila- (Male) (P),33.74041,72.80314,Male,Punjab,2,0,975,0
-97,Govt Taleem-Ul-Quran High School- Taxila- Faisal Shaheed Road- Taxila- (Female) (P) Sher,33.74041,72.80317,Female,Punjab,0,2,0,1346
-307,Punjab Public Secondary School- Gulbarg Colony-(Male)(T),33.74079,72.78275,Male,Punjab,3,0,1503,0
-308,Punjab Public Secondary School- Gulbarg Colony-(Female)(T),33.74121,72.78267,Female,Punjab,0,2,0,1355
-221,POF Mashal College Gulistan Colony Wah Cantt. (Female)(P),33.74169802278577,72.79258775386566,Female,Punjab,0,2,0,1178
-222,POF Mashal College Gulistan Colony Wah Cantt. (Female)(P),33.74169802278577,72.7926177538657,Female,Punjab,0,2,0,837
-101,Govt. Degree  College- Mohallah Pari Taxila  (Male)(P),33.743,72.80373,Male,Punjab,3,0,1559,0
-219,Nasheman POF School  Gulistan Colony- Wah Cantt (Male)(P),33.74379248217116,72.78982250064765,Male,Punjab,2,0,1244,0
-220,Nasheman POF School  Gulistan Colony- Wah Cantt (Male)(P),33.74379248217116,72.7898525006476,Male,Punjab,2,0,820,0
-107,Vaterenty Hospital Taxila. (Female)(T),33.7441576569829,72.80355236813544,Female,Punjab,0,3,0,1332
-106,Vaterenty Hospital Taxila. (Male)(T),33.7441576569829,72.8035823681354,Male,Punjab,3,0,1408,0
-303,Dawn Public High School gate No.2- Shahidabad (Male)(T),33.74501,72.77295,Male,Punjab,2,0,1410,0
-304,Dawn Public High School gate No.2- Shahidabad (Male)(T),33.74501,72.77298,Male,Punjab,2,0,1138,0
-305,Dawn Public High School gate No.2 Shahidabad (Female)(T),33.74501,72.77301,Female,Punjab,0,2,0,1279
-306,Dawn Public High School gate No.2- Shahidabad (Female)(T),33.74501,72.77304,Female,Punjab,0,2,0,995
-302,Al-Qalam Ideal School- Mohabbat Abad Wah Cantt (Female) (P),33.74511,72.76884,Female,Punjab,0,2,0,1060
-301,Ghazali School of Excellence- Mohabbat Abad Wah Cantt  (Male) (P),33.74568,72.76801,Male,Punjab,2,0,1145,0
-125,Project Manager Officer Taxila (Male)(P),33.74580737342876,72.81598036450256,Male,Punjab,2,0,917,0
-126,Project Manager Officer Taxila (Male)(P),33.7459,72.81609,Male,Punjab,1,0,616,0
-127,Project Manager Officer Taxila (Female)(P),33.7459,72.81612,Female,Punjab,0,2,0,1340
-311,F.D Chaudhry Girls H/School (Girls Campus) Nawababad- Wah Cantt- (Female) (T),33.74631,72.77842,Female,Punjab,0,4,0,2068
-310,F.D Chaudhry Boys H/School ( Boys Campus)-Nawababad- Wah Cantt- (Male) (T),33.74695,72.77637,Male,Punjab,1,0,572,0
-309,F.D Chaudhry Boys H/School ( Boys Campus)-Nawababad- Wah Cantt- (Male) (T),33.74704,72.77621,Male,Punjab,3,0,1593,0
-112,Govt Primary School Railway Road Taxila. (Male)(P),33.74717781691319,72.81093928841165,Male,Punjab,2,0,1052,0
-113,Govt Primary School Railway Road Taxila. (Female)(P),33.74717781691319,72.8109692884116,Female,Punjab,0,2,0,1002
-114,Govt Girls High School Taxila (Male)(P),33.74742151986693,72.80995951826,Male,Punjab,2,0,1267,0
-115,Govt Girls High School Taxila- (Female)(P),33.74742151986693,72.80998951826,Female,Punjab,0,2,0,1168
-108,Govt  Girl high school Taxila  (Male)(P).,33.74746,72.81007,Male,Punjab,2,0,1062,0
-118,Govt Boys Primary School Railway Road Taxila. (Female)(P),33.74749,72.81059,Female,Punjab,0,2,0,1135
-312,CB Public School & College for Girls- Nawababad Wah Cantt (Male)(P),33.74777,72.78335,Male,Punjab,2,0,1075,0
-313,CB Public School & College for Girls- Nawababad Wah Cantt (Female)(P),33.74777,72.78338,Female,Punjab,0,2,0,1026
-224,Govt. Primary School- Banni Mohallah- Taxila- (Female) (P),33.7491813137181,72.8005483610773,Female,Punjab,0,3,0,1471
-110,Muncipal Liabrary Taxila (Female)(P),33.74942671670034,72.804996892228,Female,Punjab,0,2,0,1014
-111,Muncipal Liabrary Taxila (Female)(P),33.74942671670034,72.805026892228,Female,Punjab,0,2,0,970
-109,Govt Taleem-ul-Quran Primary School- Main Bazar- Taxila  (Male)(P).,33.7499041158615,72.80861253235389,Male,Punjab,2,0,1138,0
-299,FG Junior Public School No.6 Wah Cantt (Male)(P),33.75003,72.77255,Male,Punjab,3,0,1620,0
-300,FG Junior Public School No.6 Wah Cantt (Female)(P),33.75003,72.77258,Female,Punjab,0,3,0,1499
-119,Govt Boys Primary School- Mohra Shah Wali- Taxila (Male)(T),33.75021,72.81419,Male,Punjab,2,0,809,0
-120,Govt Boys Primary School Mohra Shah Wali- Taxila (Female)(T),33.75021,72.81422,Female,Punjab,0,2,0,744
-223,Science public School Near Community Hall Taxila- (Male) (P) Head Teacher 0316-5241621,33.75073793526131,72.80502003925335,Male,Punjab,3,0,1511,0
-179,F.G Public Middle School No.12 Wah Cantt (Male) (P),33.7515,72.77364,Male,Punjab,2,0,1345,0
-180,F.G Public Middle School No.12- Wah Cantt (Female) (P),33.7515,72.77367,Female,Punjab,0,2,0,1261
-185,FG Boys High School No.3- Wah Cantt  (Female)(P),33.75172,72.77236,Female,Punjab,0,1,0,380
-186,FG Boys Public High School No.3- Wah Cantt  (Female)(P),33.75172,72.77239,Female,Punjab,0,1,0,694
-225,Allama Iqbal High School- Mohallah Farooq-e-Azam- Taxila (Male) (P),33.751769566759236,72.80494663751222,Male,Punjab,3,0,1787,0
-226,Allama Iqbal High School- Mohallah Farooq-e-Azam- Taxila (Male) (P),33.751769566759236,72.8049766375122,Male,Punjab,2,0,897,0
-227,Allama Iqbal High School- Mohallah Farooq-e-Azam- Taxila (Female) (P),33.751769566759236,72.8050066375122,Female,Punjab,0,3,0,1498
-228,Allama Iqbal High School- Mohallah Farooq-e-Azam- Taxila (Female) (P),33.751769566759236,72.8050366375122,Female,Punjab,0,2,0,770
-181,FG Boys Public High School No.3- Wah Cantt (Male)(P),33.75191,72.7719,Male,Punjab,2,0,931,0
-182,FG Boys Public High School No.3 Wah Cantt (Female)(P).,33.75191,72.77193,Female,Punjab,0,2,0,861
-183,FG Boys Public High School No.3- Wah Cantt (Male)(P),33.75191,72.77196,Male,Punjab,1,0,454,0
-184,FG Boys Public High School No.3- Wah Cantt (Male)(P),33.75191,72.77199,Male,Punjab,2,0,729,0
-116,Ghandara School Mohallah Makran Taxila. (Male)(T),33.75279,72.80953,Male,Punjab,2,0,914,0
-117,Ghandara School Mohallah Makran Taxila. (Male)(T),33.75279,72.80956,Male,Punjab,1,0,352,0
-287,Govt Elementary School Loasar Sharfoo.(Male)(P),33.75394,72.74957,Male,Punjab,3,0,2014,0
-288,Govt. Boys Elementary School- Losar Sharfoo- (Male) (P),33.75394,72.7496,Male,Punjab,2,0,1220,0
-289,Govt. Boys Elementary School- Losar Sharfoo- (Male) (P),33.75394,72.74963,Male,Punjab,2,0,1283,0
-297,Anjuman-e-Islamia  School Wah Cantt (Male)(P).,33.75540851409967,72.7669923941771,Male,Punjab,2,0,1053,0
-173,Sir Syed School campus No.7- 25 Area- Wah Cantt (Male)(P),33.75595,72.78227,Male,Punjab,2,0,1005,0
-174,Sir Syed School campus No.7- 25 Area- Wah Cantt (female)(P),33.75595,72.7823,Female,Punjab,0,2,0,955
-290,Govt Girls Elementary School GT Road Loasar Sharfoo Wah Cantt.(Female)(P),33.75684,72.75151,Female,Punjab,0,3,0,1956
-291,Govt. Girls Elementary School- Losar Sharfoo- (Female)(P),33.75684,72.75154,Female,Punjab,0,2,0,1105
-292,Govt. Girls Elementary School- Losar Sharfoo- (Female)(P),33.75684,72.75157,Female,Punjab,0,2,0,1210
-293,City Model School- New City Phase-1- Street No.6- 7- (Male) (T),33.75711,72.75738,Male,Punjab,3,0,1487,0
-294,City Model School- New City Phase-1- Street No.6 & 7 (Female) (T),33.75711,72.75741,Female,Punjab,0,2,0,1351
-189,Govt Degree College For Women- Wah Cantt- (Male)(P),33.758227975580624,72.76110745247998,Male,Punjab,2,0,1114,0
-283,The SEPAL Schools International- Main GT Road Wah Model Town Phase-I Wah Cantt (Male)(T),33.75863,72.73737,Male,Punjab,1,0,693,0
-284,The SEPAL International- Main GT Road Wah Model Town Phase-I Wah Cantt (Female)(T),33.75863,72.7374,Female,Punjab,0,1,0,620
-129,Convent Public School New Model Town Taxila (Female)(T),33.75887842185976,72.81275959849255,Female,Punjab,0,2,0,1217
-128,Barani  Public Girls Sec. School Taxila- ( (Male)(T),33.75932,72.81248,Male,Punjab,2,0,1377,0
-121,Govt Boys Elementry School Gangoo Bahadur Taxila. (Male)(P),33.75983,72.82132,Male,Punjab,2,0,1059,0
-281,Wise School & Collage Wah Model Town Phase-I (Male)(T),33.76157,72.73159,Male,Punjab,4,0,2320,0
-192,FG Girls  Public High School No.6 Wah Cantt       (Female)(P),33.7626,72.76889,Female,Punjab,0,2,0,833
-191,FG Boys Public High School No.1 Wah Cantt (Male)(P).,33.76325,72.76767,Male,Punjab,2,0,872,0
-157,Govt Boys Primary School Mustafa Dhoke Mochian. (combined)(P),33.76445,72.70979,Combined,Punjab,1,1,641,483
-282,Govt Boys Primary School- Khan Abad- Wah Cantt.(Female)(P),33.76448,72.73228,Female,Punjab,0,3,0,2072
-285,Aamir Academy- Risatabad-  Wah Cantt (Male)(T),33.76488,72.74455,Male,Punjab,2,0,987,0
-295,Faran international Riasat Abad- near graveyard (Male) (T),33.76489,72.7448,Male,Punjab,3,0,1440,0
-296,Faran International School Riasat Abad near graveyard (Female)(P),33.76489,72.74483,Female,Punjab,0,2,0,1360
-286,Student Care School System- Risatabad- Wah Cantt (Female)(T),33.76676,72.74143,Female,Punjab,0,2,0,894
-199,FG Boys Public High School No.4  Wah Cantt (Male)(P),33.76686,72.75186,Male,Punjab,1,0,490,0
-200,FG Boys Public High School No.4  Wah Cantt (Male)(P),33.76686,72.75189,Male,Punjab,2,0,1106,0
-84,Govt Boys Primary School Mohra Murado  (female)(P),33.76705,72.86036,Female,Punjab,0,1,0,367
-213,FG Girls Public High School No 2 Wah Cantt (Male)(P),33.76825,72.75396,Male,Punjab,3,0,1608,0
-214,FG Girls Public High School No 2 Wah Cantt (Female)(P),33.76825,72.75399,Female,Punjab,0,2,0,874
-273,POF Science Degree College Officer Colony Wah Cantt (Male)(T),33.77408,72.72754,Male,Punjab,2,0,885,0
-271,POF Science Degree College Officer Colony Wah Cantt (Male)(T),33.77408,72.72757,Male,Punjab,2,0,1066,0
-269,POF Science Degree College Officer Colony Wah Cantt (Male)(T),33.77432,72.72823,Male,Punjab,2,0,1345,0
-270,CB Girls Public School & College- Officer Colony Wah Cantt (Female)(P),33.7783,72.73179,Female,Punjab,0,2,0,1319
-272,CB Girls Public School & College- Officer Colony Wah Cantt (Female)(P),33.7783,72.73182,Female,Punjab,0,2,0,1089
-229,Govt Primary School- Sukhoo- Taxila (Male)(P),33.778484285863236,72.79039000519333,Male,Punjab,2,0,1352,0
-230,Govt. Primary School Sukhoo- Taxila- (Female)(P),33.778484285863236,72.7904200051933,Female,Punjab,0,2,0,1190
-279,Saint Paul High School Boys Campus  Lala Rukh Wah Cantt (Male)(P),33.77866,72.71914,Male,Punjab,3,0,1620,0
-278,FG Public Boys High School No.2 Lala Rukh Wah Cantt (Female)(P),33.78191,72.72493,Female,Punjab,0,2,0,1047
-280,FG Public Boys High School No.2 Lala Rukh Wah Cantt (Female)(P),33.78191,72.72496,Female,Punjab,0,3,0,1544
-257,Jinnah Hall Public High School Asif Abad- (Male)(T),33.7827,72.71552,Male,Punjab,3,0,1727,0
-259,Jinnah Hall Public High School(Admin Block) Asif Abad- (Female)(T),33.7827,72.71555,Female,Punjab,0,3,0,1503
-260,Beacon Home Public School- Asif Abad (Female)(T),33.78347,72.71772,Female,Punjab,0,3,0,1844
-262,Beacon Home Public School Asif  Abad- (Female)(P),33.78347,72.71775,Female,Punjab,0,3,0,1775
-258,Govt Girls Primary Gattia Asif Abad- (Male)(P),33.78385,72.71493,Male,Punjab,4,0,2115,0
-277,CB Dispensary Lala Rukh Wah Cantt (Male)(P),33.78434,72.72923,Male,Punjab,2,0,1034,0
-274,FG Public Girls High School No.7 Wah Cantt. (Female)(P),33.78441,72.72155,Female,Punjab,0,2,0,835
-275,FG Public Girls High School No.7 Wah Cantt. (Male)(P),33.78441,72.72158,Male,Punjab,2,0,1367,0
-276,FG Public Girls High School No 7 Wah Cantt. (Female)(P),33.78441,72.72161,Female,Punjab,0,3,0,1446
-268,FG Public Girls High School No 7- Wah Cantt Basti (Female)(T),33.78441,72.72164,Female,Punjab,0,4,0,2483
-265,CB Public School & College for Boys Lala Rukh Wah Cantt (Male)(P),33.78566,72.72107,Male,Punjab,4,0,2172,0
-266,CB Public School & College for Boys  Lala Rukh Wah Cantt (Male)(P),33.78566,72.7211,Male,Punjab,4,0,2569,0
-267,CB Public School & College for Boys  Lala Rukh Wah Cantt (Female)(P),33.78566,72.72113,Female,Punjab,0,3,0,2060
-261,Punjab College GT Road- Munir Abad- (Male)(T),33.78709,72.7199,Male,Punjab,4,0,2118,0
-263,Govt Elementary School  Ahmed Nagar Near Gattia- (Male)(P),33.78754,72.71386,Male,Punjab,4,0,2229,0
-72,Govt. TEVTA College HMC Road Taxila (Male)(P),33.78965,72.81624,Male,Punjab,4,0,2035,0
-240,Saint Pal High School- Gulshan Colony- Wah Cantt- (Female)(T),33.7903108184596,72.73198463248636,Female,Punjab,0,2,0,1422
-264,Al-Muslim Public School Ahmed Nagar / Munirabad Main Muslim Street- (Female)(T,33.79118,72.71544,Female,Punjab,0,3,0,2020
-239,New ERA School- Gulshan Colony- Wah Cantt- (Male)(T),33.7915979803999,72.73457212238564,Male,Punjab,2,0,1469,0
-243,Sir Syed Scholar School & College- Lala Zar- Wah Cantt- (Male) (T),33.79213,72.7213,Male,Punjab,2,0,1143,0
-244,Sir Syed Scholar School & College- Lala Zar- Wah Cantt- (Male) (T),33.79213,72.72133,Male,Punjab,2,0,1145,0
-245,Sir Syed Scholar School & College- Lala Zar Wah Cantt (Female)(T),33.79213,72.72136,Female,Punjab,0,2,0,1142
-246,Sir Syed Scholar School & College- Lala Zar Wah Cantt (Female)(T),33.79213,72.72139,Female,Punjab,0,2,0,1169
-131,Govt Primary School- Sammu- (combined)(P),33.79225,72.78484,Combined,Punjab,1,1,681,575
-77,Govt. High School- Usman Khattar- (Male) (P),33.79386,72.82805,Male,Punjab,2,0,807,0
-78,Govt. High School Usman Khattar- (Female)(P),33.79386,72.82808,Female,Punjab,0,1,0,703
-217,Sir Syed High School & College Campus-4- 27 Area  Wah Cantt (Female)(P),33.79528,72.74922,Female,Punjab,0,2,0,976
-218,Sir Syed High School & College Campus 4- 27 Area  Wah Cantt (Female)(P),33.79528,72.74925,Female,Punjab,0,2,0,1318
-231,FG Boys Public School No.5 Wah Cantt (Male)(P),33.79575,72.74748,Male,Punjab,1,0,474,0
-233,FG Boys Public High School No.5 Wah Cantt (Male)(P),33.79575,72.74751,Male,Punjab,1,0,577,0
-215,FG Boys Public High School No.5 Wah Cantt (Male)(P),33.79581,72.74747,Male,Punjab,2,0,1076,0
-216,FG Boys High School No.5 Wah Cantt (Male)(P),33.79581,72.7475,Male,Punjab,2,0,1355,0
-242,Govt Elementary School Bhabra- Wah Cantt- (Female)(T),33.796453359123106,72.72742950344072,Female,Punjab,0,3,0,1540
-149,Govt Girls High School Wah Village  (Female)(P).,33.79808,72.69208,Female,Punjab,0,3,0,1489
-130,Govt Boys Elementary School Gohdu. (combined)(P),33.79824,72.79898,Combined,Punjab,2,2,1022,956
-132,Govt Boys High School Ghari Afghanan (Male)(P),33.79861,72.78008,Male,Punjab,2,0,1021,0
-134,Govt Boys High School Ghari Afghanan (Male)(P),33.79861,72.78011,Male,Punjab,2,0,1057,0
-148,Govt Boys High School Wah Village  (Male)(P),33.79876,72.70063,Male,Punjab,3,0,1666,0
-255,Govt  Boys Primary School- Pind Kamal Bannia (Male)(P),33.80222,72.74,Male,Punjab,2,0,1240,0
-256,Govt Girls Primary School- Pind Kamala Bannia (Female)(P),33.80222,72.74003,Female,Punjab,0,4,0,2555
-254,Govt  Boys Primary School- Pind Kamal Bannia (Male)(P),33.80222,72.74006,Male,Punjab,3,0,1514,0
-133,Govt Girls High School- Ghari Afghanan (Female)(P),33.80274,72.78568,Female,Punjab,0,3,0,1876
-235,Govt Boys Elementary School Budho (Male)(P),33.80457923835487,72.76862395913655,Male,Punjab,2,0,834,0
-236,Govt Boys Elementary School Budho (Male)(P),33.80457923835487,72.7686539591365,Male,Punjab,3,0,1522,0
-138,Govt Boys Primary School Malpur. (combined)(P),33.8048,72.77525,Combined,Punjab,2,2,771,728
-150,Union Council Office Wah Village (combined)(P).,33.80502,72.70242,Combined,Punjab,1,1,542,458
-152,Wah Grammar School Qadar Town .(Male)(P),33.80525,72.70395,Male,Punjab,3,0,1349,0
-153,Wah Grammar School Qadar Town .(Male)(P),33.80525,72.70398,Male,Punjab,2,0,919,0
-154,Govt Girls Primary School Dhoke  Jhatla. (Female)(P),33.80627,72.70716,Female,Punjab,0,4,0,2062
-252,Govt. Elementry School- Dhoke Kokara- (Male) (P),33.80683,72.72385,Male,Punjab,3,0,1647,0
-253,Govt. Elementry School- Dhoke Kokara- (Female) (P),33.80683,72.72388,Female,Punjab,0,2,0,1370
-251,Govt. Elementary School- Hussain Abad- (Female) (P),33.81412,72.73878,Female,Punjab,0,2,0,826
-250,Govt. Elementary School- Hussain Abad- (Male) (P),33.81412,72.73881,Male,Punjab,2,0,953,0
-249,Muslim Public School -Muslim Abad  (Comb) (T),33.82016,72.73474,Combined,Punjab,2,1,790,664
-137,Govt Girls Primary School Bajjar- (Female) (P),33.82207,72.77705,Female,Punjab,0,2,0,901
-136,Govt Boys Primary School- Bajjar- (Male) (P),33.82293,72.77591,Male,Punjab,2,0,1038,0
-139,Govt Boys Primary School Bhoti Pind.(Male)(P),33.82881954296759,72.74706073261518,Male,Punjab,3,0,1743,0
-140,Govt Girls Elementary School Bhoti Pind. (Female) (P),33.8290619229055,72.74720820422625,Female,Punjab,0,3,0,1531
-145,Govt. Boys Primary School- Mohra Nasroo- (Male) (P),33.833558128087205,72.72617411219647,Male,Punjab,2,0,754,0
-146,Govt. Boys Primary School- Mohra Nasroo- (Female) (P),33.833558128087205,72.7262041121965,Female,Punjab,0,1,0,658
-143,Govt Boys Primary School Lab Village  (Male)(P),33.85201610435253,72.75365937413402,Male,Punjab,3,0,1308,0
-144,Govt Girls Middle School Lab Village (Female)(P),33.85405985602492,72.75387152144013,Female,Punjab,0,2,0,1090
-141,Govt Boys High School Lab Thuthoo. (Male)(P),33.85549805149021,72.74036225837769,Male,Punjab,2,0,1095,0
-142,Basic Health Unit- Lab thuthoo (Female)(T),33.855915983898115,72.74104016493705,Female,Punjab,0,2,0,966
-147,Govt Boys Primary School Nikoo (Comb)(P).,33.8645,72.69308,Combined,Punjab,1,1,477,396
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 6 - Govt Boys Primary School- Bodial (Combined)(P),33.40326,72.95842,Combined,Punjab,1,1,472,366
+ 7 - Govt. Girls Elementary School- Bodial (Combined)(P),33.4111,72.95639,Combined,Punjab,1,1,656,572
+ 35 - Govt Girls Primery School- Mandwal (combined)(P),33.42124574014539,72.85602746841822,Combined,Punjab,1,1,515,408
+ 32 - Govt.Boys High School- Chahan (Male)(P),33.42407173545868,72.87865446723184,Male,Punjab,3,0,1347,0
+ 33 - Govt.Boys High School- Chahan (Female)(P),33.42407173545868,72.8786844672318,Female,Punjab,0,2,0,1216
+ 5 - Govt boys High School- Dhallah (combined)(P),33.42643,72.95787,Combined,Punjab,2,2,802,739
+ 34 - Govt.Girls Primery School- Dhoke Chahh- Chahan (combined)(P),33.46515965481979,72.84230664671034,Combined,Punjab,1,1,417,363
+ 31 - Govt. Girls Middle School- Maira Khenger (combined)(P),33.46935075822765,72.92317324539141,Combined,Punjab,2,2,935,859
+ 1 - Govt Boys High School- Adyala (Combined),33.47041,73.01414,Combined,Punjab,2,2,1106,954
+ 2 - Govt Boys High School- Adyala (Combined)(P),33.47041,73.01417,Combined,Punjab,2,2,920,804
+ 3 - Govt Boys Primery School- Khasala (combined)(P),33.47041,73.0142,Combined,Punjab,2,1,800,675
+ 30 - Govt. Elementary School- Maira Kalan (combined)(P),33.48147727998961,72.93089756058184,Combined,Punjab,2,2,945,826
+ 4 - Govt. Girls Primary School- Khasala Khurd (combined)(P),33.49186,73.07982,Combined,Punjab,1,1,682,578
+ 27 - Govt. Boys Primary School- Raja Hassu Khan (combined)(P),33.49696,72.9693,Combined,Punjab,2,1,752,597
+ 28 - Basic Health Unit Kolian Pur (combined)(P),33.5099572481234,72.95080235128576,Combined,Punjab,1,1,194,164
+ 29 - Basic Health Unit Kolian Pur (combined)(P),33.5099572481234,72.9508323512858,Combined,Punjab,1,1,496,381
+ 8 - Govt Girls primery School- Banda Nagial (combined)(P),33.53049,73.00382,Combined,Punjab,2,2,967,825
+ 25 - Qandeel Elecmentry School- Ranyal (combined)(P),33.53664,72.97636,Combined,Punjab,2,1,811,664
+ 22 - Govt. Boys Elementary School- Ranyal (Male)(P),33.5381,72.97661,Male,Punjab,3,0,1802,0
+ 23 - Govt. Boys Elementary School- Ranyal (Female)(P),33.5381,72.97664,Female,Punjab,0,1,0,685
+ 24 - Govt. Boys Elementary School- Ranyal (Female)(P),33.5381,72.97667,Female,Punjab,0,2,0,908
+ 26 - Union Council Office Ranyal (combined)(P),33.53903,72.98189,Combined,Punjab,1,1,704,572
+ 10 - Basic Health Unit- Hayal Dhamial (combined)(P),33.54189,73.01376,Combined,Punjab,2,2,953,882
+ 9 - Basic Health Unit- Hayal Dhamial (combined)(P),33.54189,73.01379,Combined,Punjab,2,2,1050,856
+ 18 - Govt.Girls Middle School- Thalian (Male)(P),33.54218,72.90921,Male,Punjab,2,0,940,0
+ 19 - Govt.Girls Middle School- Thalian (Female)(P),33.54218,72.90924,Female,Punjab,0,2,0,811
+ 20 - Govt Boys Primery School- Ghariba (combined)(P),33.545616999861416,72.92605116245595,Combined,Punjab,1,1,683,541
+ 13 - Govt. Girls Primary School Pind Ranjah (combined)(P),33.56686,72.85703,Combined,Punjab,2,2,741,718
+ 21 - Govt. Girls Primary School- Kot Kolian- (Comb) (P),33.56876,72.92356,Combined,Punjab,1,1,363,282
+ 12 - Govt. Girls High School- Bajnial (combined)(P),33.57438,72.88914,Combined,Punjab,2,2,866,842
+ 11 - Govt. Boys Primary School- Mohri Khatran (combined)(P),33.57719,72.82776,Combined,Punjab,1,1,448,452
+ 14 - Govt. High School- Pind Nasrullah (Male)(P),33.60172,72.87241,Male,Punjab,2,0,717,0
+ 15 - Govt. High School- Pind Nasrullah (Male)(P),33.60172,72.87244,Male,Punjab,2,0,1182,0
+ 16 - Govt. High School- Pind Nasrullah (Female)(P),33.60172,72.87247,Female,Punjab,0,1,0,664
+ 17 - Govt. High School- Pind Nasrullah (Female)(P),33.60172,72.8725,Female,Punjab,0,2,0,1096
+ 83 - Govt Boys Primary School Mohra Murado  (male)(P),33.6378,73.08033,Male,Punjab,1,0,466,0
+ 42 - Govt  Model Primary School-Najaf Ali Shah(New) Dhoke Wajjan (Female)(P),33.6378,73.08055,Female,Punjab,0,2,0,1012
+ 43 - Govt  Model Primary School-Najaf Ali Shah(New) Dhoke Wajjan (Female)(P),33.6378,73.08058,Female,Punjab,0,2,0,1071
+ 100 - Govt. Degree  College- Mohallah Pari Taxila  (Male)(P),33.6378,73.08061,Male,Punjab,1,0,400,0
+ 102 - Govt. Degree College- Mohallah Pari- Taxila- (Female) (P),33.6378,73.08064,Female,Punjab,0,3,0,1628
+ 135 - Govt Boys Primary School Kolian. (combined)(P),33.6378,73.08067,Combined,Punjab,2,2,998,862
+ 163 - Govt Boys Primary School- Malikabad Old Building (Female)(T),33.6378,73.0807,Female,Punjab,0,1,0,203
+ 98 - Muncipal Committee Model Girls High School-Taxila. (Male)(P),33.6378,73.08073,Male,Punjab,2,0,1071,0
+ 40 - Govt Model Primary School- Dhoke Wajjan (Male)(P),33.72223919754662,72.81346772315726,Male,Punjab,2,0,1052,0
+ 41 - Govt Model Primary School- Dhoke Wajjan (Male)(P),33.72223919754662,72.8134977231573,Male,Punjab,2,0,1186,0
+ 36 - Govt Girls High School Wahdat Colony-Taxila (Male)(P).,33.724678144659244,72.80390495435212,Male,Punjab,2,0,797,0
+ 37 - Govt Girls High School Wahdat Colony-Taxila (Male)(P).,33.724678144659244,72.8039349543521,Male,Punjab,1,0,524,0
+ 38 - Govt Girls High School Wahdat Colony- Taxila (Female)(P).,33.724678144659244,72.8039649543521,Female,Punjab,0,1,0,738
+ 39 - Govt Girls High School Wahdat Colony- Taxila (Female)(P).,33.724678144659244,72.8039949543521,Female,Punjab,0,1,0,486
+ 63 - Wahdat Public School- New Wahdat Town- (Comb) (P),33.724942333022675,72.80097875450265,Combined,Punjab,1,1,569,499
+ 162 - Govt Boys Primary School Malikabad New Building (Male)(P),33.72971,72.77779,Male,Punjab,1,0,240,0
+ 165 - Govt Boys Primary School- Malikabad New Building (Female)(P),33.72971,72.77782,Female,Punjab,0,3,0,1450
+ 62 - Govt Girls Primary School- Pind Gondal- (combined)(P),33.73083444232015,72.7915166347725,Combined,Punjab,2,2,1113,911
+ 89 - Govt Girls Primary School Sarai Kala- (Female)(P),33.73428,72.79697,Female,Punjab,0,1,0,523
+ 90 - Govt Girls Primary School Sarai Kala- (Female)(P),33.73428,72.797,Female,Punjab,0,2,0,1193
+ 50 - Govt. High School- HIT Taxila Cantt (Male) (P),33.73434495200546,72.83055188117211,Male,Punjab,1,0,642,0
+ 51 - Govt. High School- HIT Taxila Cantt (Female) (P),33.73434495200546,72.8305818811721,Female,Punjab,0,1,0,550
+ 45 - Govt. High School- HIT Taxila Cantt (Male) (P),33.734430105535736,72.83057511050448,Male,Punjab,1,0,615,0
+ 46 - Govt High School HIT Taxila (Female)(P).,33.734430105535736,72.8306051105045,Female,Punjab,0,1,0,577
+ 49 - Govt Boys Primary Karam Wal School- Taxila (Comb) (T),33.73455094768454,72.8413051520295,Combined,Punjab,2,2,1171,1005
+ 316 - Govt. Girls Primary School- Jhugian near Grid Station Thatha Khalil Road- Jamilabad (Female) (T),33.7346,72.78681,Female,Punjab,0,3,0,1452
+ 317 - Royal King Adward School System Thatha Khalil Road- near Grid Station Jamilabad (Female) (T),33.73521,72.78814,Female,Punjab,0,1,0,587
+ 172 - Computer Center Jamilabad- Taxila (Female)(P).,33.735244310152545,72.78766856134108,Female,Punjab,0,2,0,1076
+ 47 - F.G Public High School Taxila (Male)(P).,33.73679693988234,72.82693529029342,Male,Punjab,2,0,997,0
+ 48 - F.G Public High School Taxila (Female)(P),33.73679693988234,72.8269652902934,Female,Punjab,0,2,0,914
+ 171 - Govt Boys Primary School Jamilabad-Taxila (Male)(P).,33.73702561940627,72.79025659360968,Male,Punjab,1,0,1126,0
+ 94 - Govt Boys Primary School Jamilabad-Taxila (Male)(P).,33.73706,72.79034,Male,Punjab,1,0,584,0
+ 103 - Govt High School Taxila (Chowk Sarai Kala) (Male) (P),33.73772,72.80056,Male,Punjab,1,0,541,0
+ 104 - Govt High School Taxila (Chowk Sarai Kala) (Male) (P),33.73772,72.80059,Male,Punjab,2,0,1164,0
+ 105 - Govt High School Taxila (Chowk Sarai Kala) (Female) (P),33.73772,72.80062,Female,Punjab,0,2,0,1273
+ 99 - Muncipal Committee Model Girls High School-Taxila. (Female)(P),33.73838,72.80927,Female,Punjab,0,2,0,922
+ 164 - Roman Public School Malikabad. (Male)(T),33.73935,72.77829,Male,Punjab,3,0,1804,0
+ 95 - Govt Taleem-Ul-Quran High School- Taxila- Faisal Shaheed Road- Taxila- (Male) (P),33.74035,72.80249,Male,Punjab,1,0,552,0
+ 96 - Govt Taleem-Ul-Quran High School- Taxila- Faisal Shaheed Road- Taxila- (Male) (P),33.74041,72.80314,Male,Punjab,2,0,975,0
+ 97 - Govt Taleem-Ul-Quran High School- Taxila- Faisal Shaheed Road- Taxila- (Female) (P) Sher,33.74041,72.80317,Female,Punjab,0,2,0,1346
+ 307 - Punjab Public Secondary School- Gulbarg Colony-(Male)(T),33.74079,72.78275,Male,Punjab,3,0,1503,0
+ 308 - Punjab Public Secondary School- Gulbarg Colony-(Female)(T),33.74121,72.78267,Female,Punjab,0,2,0,1355
+ 221 - POF Mashal College Gulistan Colony Wah Cantt. (Female)(P),33.74169802278577,72.79258775386566,Female,Punjab,0,2,0,1178
+ 222 - POF Mashal College Gulistan Colony Wah Cantt. (Female)(P),33.74169802278577,72.7926177538657,Female,Punjab,0,2,0,837
+ 101 - Govt. Degree  College- Mohallah Pari Taxila  (Male)(P),33.743,72.80373,Male,Punjab,3,0,1559,0
+ 219 - Nasheman POF School  Gulistan Colony- Wah Cantt (Male)(P),33.74379248217116,72.78982250064765,Male,Punjab,2,0,1244,0
+ 220 - Nasheman POF School  Gulistan Colony- Wah Cantt (Male)(P),33.74379248217116,72.7898525006476,Male,Punjab,2,0,820,0
+ 107 - Vaterenty Hospital Taxila. (Female)(T),33.7441576569829,72.80355236813544,Female,Punjab,0,3,0,1332
+ 106 - Vaterenty Hospital Taxila. (Male)(T),33.7441576569829,72.8035823681354,Male,Punjab,3,0,1408,0
+ 303 - Dawn Public High School gate No.2- Shahidabad (Male)(T),33.74501,72.77295,Male,Punjab,2,0,1410,0
+ 304 - Dawn Public High School gate No.2- Shahidabad (Male)(T),33.74501,72.77298,Male,Punjab,2,0,1138,0
+ 305 - Dawn Public High School gate No.2 Shahidabad (Female)(T),33.74501,72.77301,Female,Punjab,0,2,0,1279
+ 306 - Dawn Public High School gate No.2- Shahidabad (Female)(T),33.74501,72.77304,Female,Punjab,0,2,0,995
+ 302 - Al-Qalam Ideal School- Mohabbat Abad Wah Cantt (Female) (P),33.74511,72.76884,Female,Punjab,0,2,0,1060
+ 301 - Ghazali School of Excellence- Mohabbat Abad Wah Cantt  (Male) (P),33.74568,72.76801,Male,Punjab,2,0,1145,0
+ 125 - Project Manager Officer Taxila (Male)(P),33.74580737342876,72.81598036450256,Male,Punjab,2,0,917,0
+ 126 - Project Manager Officer Taxila (Male)(P),33.7459,72.81609,Male,Punjab,1,0,616,0
+ 127 - Project Manager Officer Taxila (Female)(P),33.7459,72.81612,Female,Punjab,0,2,0,1340
+ 311 - F.D Chaudhry Girls H/School (Girls Campus) Nawababad- Wah Cantt- (Female) (T),33.74631,72.77842,Female,Punjab,0,4,0,2068
+ 310 - F.D Chaudhry Boys H/School ( Boys Campus)-Nawababad- Wah Cantt- (Male) (T),33.74695,72.77637,Male,Punjab,1,0,572,0
+ 309 - F.D Chaudhry Boys H/School ( Boys Campus)-Nawababad- Wah Cantt- (Male) (T),33.74704,72.77621,Male,Punjab,3,0,1593,0
+ 112 - Govt Primary School Railway Road Taxila. (Male)(P),33.74717781691319,72.81093928841165,Male,Punjab,2,0,1052,0
+ 113 - Govt Primary School Railway Road Taxila. (Female)(P),33.74717781691319,72.8109692884116,Female,Punjab,0,2,0,1002
+ 114 - Govt Girls High School Taxila (Male)(P),33.74742151986693,72.80995951826,Male,Punjab,2,0,1267,0
+ 115 - Govt Girls High School Taxila- (Female)(P),33.74742151986693,72.80998951826,Female,Punjab,0,2,0,1168
+ 108 - Govt  Girl high school Taxila  (Male)(P).,33.74746,72.81007,Male,Punjab,2,0,1062,0
+ 118 - Govt Boys Primary School Railway Road Taxila. (Female)(P),33.74749,72.81059,Female,Punjab,0,2,0,1135
+ 312 - CB Public School & College for Girls- Nawababad Wah Cantt (Male)(P),33.74777,72.78335,Male,Punjab,2,0,1075,0
+ 313 - CB Public School & College for Girls- Nawababad Wah Cantt (Female)(P),33.74777,72.78338,Female,Punjab,0,2,0,1026
+ 224 - Govt. Primary School- Banni Mohallah- Taxila- (Female) (P),33.7491813137181,72.8005483610773,Female,Punjab,0,3,0,1471
+ 110 - Muncipal Liabrary Taxila (Female)(P),33.74942671670034,72.804996892228,Female,Punjab,0,2,0,1014
+ 111 - Muncipal Liabrary Taxila (Female)(P),33.74942671670034,72.805026892228,Female,Punjab,0,2,0,970
+ 109 - Govt Taleem-ul-Quran Primary School- Main Bazar- Taxila  (Male)(P).,33.7499041158615,72.80861253235389,Male,Punjab,2,0,1138,0
+ 299 - FG Junior Public School No.6 Wah Cantt (Male)(P),33.75003,72.77255,Male,Punjab,3,0,1620,0
+ 300 - FG Junior Public School No.6 Wah Cantt (Female)(P),33.75003,72.77258,Female,Punjab,0,3,0,1499
+ 119 - Govt Boys Primary School- Mohra Shah Wali- Taxila (Male)(T),33.75021,72.81419,Male,Punjab,2,0,809,0
+ 120 - Govt Boys Primary School Mohra Shah Wali- Taxila (Female)(T),33.75021,72.81422,Female,Punjab,0,2,0,744
+ 223 - Science public School Near Community Hall Taxila- (Male) (P) Head Teacher 0316-5241621,33.75073793526131,72.80502003925335,Male,Punjab,3,0,1511,0
+ 179 - F.G Public Middle School No.12 Wah Cantt (Male) (P),33.7515,72.77364,Male,Punjab,2,0,1345,0
+ 180 - F.G Public Middle School No.12- Wah Cantt (Female) (P),33.7515,72.77367,Female,Punjab,0,2,0,1261
+ 185 - FG Boys High School No.3- Wah Cantt  (Female)(P),33.75172,72.77236,Female,Punjab,0,1,0,380
+ 186 - FG Boys Public High School No.3- Wah Cantt  (Female)(P),33.75172,72.77239,Female,Punjab,0,1,0,694
+ 225 - Allama Iqbal High School- Mohallah Farooq-e-Azam- Taxila (Male) (P),33.751769566759236,72.80494663751222,Male,Punjab,3,0,1787,0
+ 226 - Allama Iqbal High School- Mohallah Farooq-e-Azam- Taxila (Male) (P),33.751769566759236,72.8049766375122,Male,Punjab,2,0,897,0
+ 227 - Allama Iqbal High School- Mohallah Farooq-e-Azam- Taxila (Female) (P),33.751769566759236,72.8050066375122,Female,Punjab,0,3,0,1498
+ 228 - Allama Iqbal High School- Mohallah Farooq-e-Azam- Taxila (Female) (P),33.751769566759236,72.8050366375122,Female,Punjab,0,2,0,770
+ 181 - FG Boys Public High School No.3- Wah Cantt (Male)(P),33.75191,72.7719,Male,Punjab,2,0,931,0
+ 182 - FG Boys Public High School No.3 Wah Cantt (Female)(P).,33.75191,72.77193,Female,Punjab,0,2,0,861
+ 183 - FG Boys Public High School No.3- Wah Cantt (Male)(P),33.75191,72.77196,Male,Punjab,1,0,454,0
+ 184 - FG Boys Public High School No.3- Wah Cantt (Male)(P),33.75191,72.77199,Male,Punjab,2,0,729,0
+ 116 - Ghandara School Mohallah Makran Taxila. (Male)(T),33.75279,72.80953,Male,Punjab,2,0,914,0
+ 117 - Ghandara School Mohallah Makran Taxila. (Male)(T),33.75279,72.80956,Male,Punjab,1,0,352,0
+ 287 - Govt Elementary School Loasar Sharfoo.(Male)(P),33.75394,72.74957,Male,Punjab,3,0,2014,0
+ 288 - Govt. Boys Elementary School- Losar Sharfoo- (Male) (P),33.75394,72.7496,Male,Punjab,2,0,1220,0
+ 289 - Govt. Boys Elementary School- Losar Sharfoo- (Male) (P),33.75394,72.74963,Male,Punjab,2,0,1283,0
+ 297 - Anjuman-e-Islamia  School Wah Cantt (Male)(P).,33.75540851409967,72.7669923941771,Male,Punjab,2,0,1053,0
+ 173 - Sir Syed School campus No.7- 25 Area- Wah Cantt (Male)(P),33.75595,72.78227,Male,Punjab,2,0,1005,0
+ 174 - Sir Syed School campus No.7- 25 Area- Wah Cantt (female)(P),33.75595,72.7823,Female,Punjab,0,2,0,955
+ 290 - Govt Girls Elementary School GT Road Loasar Sharfoo Wah Cantt.(Female)(P),33.75684,72.75151,Female,Punjab,0,3,0,1956
+ 291 - Govt. Girls Elementary School- Losar Sharfoo- (Female)(P),33.75684,72.75154,Female,Punjab,0,2,0,1105
+ 292 - Govt. Girls Elementary School- Losar Sharfoo- (Female)(P),33.75684,72.75157,Female,Punjab,0,2,0,1210
+ 293 - City Model School- New City Phase-1- Street No.6- 7- (Male) (T),33.75711,72.75738,Male,Punjab,3,0,1487,0
+ 294 - City Model School- New City Phase-1- Street No.6 & 7 (Female) (T),33.75711,72.75741,Female,Punjab,0,2,0,1351
+ 189 - Govt Degree College For Women- Wah Cantt- (Male)(P),33.758227975580624,72.76110745247998,Male,Punjab,2,0,1114,0
+ 283 - The SEPAL Schools International- Main GT Road Wah Model Town Phase-I Wah Cantt (Male)(T),33.75863,72.73737,Male,Punjab,1,0,693,0
+ 284 - The SEPAL International- Main GT Road Wah Model Town Phase-I Wah Cantt (Female)(T),33.75863,72.7374,Female,Punjab,0,1,0,620
+ 129 - Convent Public School New Model Town Taxila (Female)(T),33.75887842185976,72.81275959849255,Female,Punjab,0,2,0,1217
+ 128 - Barani  Public Girls Sec. School Taxila- ( (Male)(T),33.75932,72.81248,Male,Punjab,2,0,1377,0
+ 121 - Govt Boys Elementry School Gangoo Bahadur Taxila. (Male)(P),33.75983,72.82132,Male,Punjab,2,0,1059,0
+ 281 - Wise School & Collage Wah Model Town Phase-I (Male)(T),33.76157,72.73159,Male,Punjab,4,0,2320,0
+ 192 - FG Girls  Public High School No.6 Wah Cantt       (Female)(P),33.7626,72.76889,Female,Punjab,0,2,0,833
+ 191 - FG Boys Public High School No.1 Wah Cantt (Male)(P).,33.76325,72.76767,Male,Punjab,2,0,872,0
+ 157 - Govt Boys Primary School Mustafa Dhoke Mochian. (combined)(P),33.76445,72.70979,Combined,Punjab,1,1,641,483
+ 282 - Govt Boys Primary School- Khan Abad- Wah Cantt.(Female)(P),33.76448,72.73228,Female,Punjab,0,3,0,2072
+ 285 - Aamir Academy- Risatabad-  Wah Cantt (Male)(T),33.76488,72.74455,Male,Punjab,2,0,987,0
+ 295 - Faran international Riasat Abad- near graveyard (Male) (T),33.76489,72.7448,Male,Punjab,3,0,1440,0
+ 296 - Faran International School Riasat Abad near graveyard (Female)(P),33.76489,72.74483,Female,Punjab,0,2,0,1360
+ 286 - Student Care School System- Risatabad- Wah Cantt (Female)(T),33.76676,72.74143,Female,Punjab,0,2,0,894
+ 199 - FG Boys Public High School No.4  Wah Cantt (Male)(P),33.76686,72.75186,Male,Punjab,1,0,490,0
+ 200 - FG Boys Public High School No.4  Wah Cantt (Male)(P),33.76686,72.75189,Male,Punjab,2,0,1106,0
+ 84 - Govt Boys Primary School Mohra Murado  (female)(P),33.76705,72.86036,Female,Punjab,0,1,0,367
+ 213 - FG Girls Public High School No 2 Wah Cantt (Male)(P),33.76825,72.75396,Male,Punjab,3,0,1608,0
+ 214 - FG Girls Public High School No 2 Wah Cantt (Female)(P),33.76825,72.75399,Female,Punjab,0,2,0,874
+ 273 - POF Science Degree College Officer Colony Wah Cantt (Male)(T),33.77408,72.72754,Male,Punjab,2,0,885,0
+ 271 - POF Science Degree College Officer Colony Wah Cantt (Male)(T),33.77408,72.72757,Male,Punjab,2,0,1066,0
+ 269 - POF Science Degree College Officer Colony Wah Cantt (Male)(T),33.77432,72.72823,Male,Punjab,2,0,1345,0
+ 270 - CB Girls Public School & College- Officer Colony Wah Cantt (Female)(P),33.7783,72.73179,Female,Punjab,0,2,0,1319
+ 272 - CB Girls Public School & College- Officer Colony Wah Cantt (Female)(P),33.7783,72.73182,Female,Punjab,0,2,0,1089
+ 229 - Govt Primary School- Sukhoo- Taxila (Male)(P),33.778484285863236,72.79039000519333,Male,Punjab,2,0,1352,0
+ 230 - Govt. Primary School Sukhoo- Taxila- (Female)(P),33.778484285863236,72.7904200051933,Female,Punjab,0,2,0,1190
+ 279 - Saint Paul High School Boys Campus  Lala Rukh Wah Cantt (Male)(P),33.77866,72.71914,Male,Punjab,3,0,1620,0
+ 278 - FG Public Boys High School No.2 Lala Rukh Wah Cantt (Female)(P),33.78191,72.72493,Female,Punjab,0,2,0,1047
+ 280 - FG Public Boys High School No.2 Lala Rukh Wah Cantt (Female)(P),33.78191,72.72496,Female,Punjab,0,3,0,1544
+ 257 - Jinnah Hall Public High School Asif Abad- (Male)(T),33.7827,72.71552,Male,Punjab,3,0,1727,0
+ 259 - Jinnah Hall Public High School(Admin Block) Asif Abad- (Female)(T),33.7827,72.71555,Female,Punjab,0,3,0,1503
+ 260 - Beacon Home Public School- Asif Abad (Female)(T),33.78347,72.71772,Female,Punjab,0,3,0,1844
+ 262 - Beacon Home Public School Asif  Abad- (Female)(P),33.78347,72.71775,Female,Punjab,0,3,0,1775
+ 258 - Govt Girls Primary Gattia Asif Abad- (Male)(P),33.78385,72.71493,Male,Punjab,4,0,2115,0
+ 277 - CB Dispensary Lala Rukh Wah Cantt (Male)(P),33.78434,72.72923,Male,Punjab,2,0,1034,0
+ 274 - FG Public Girls High School No.7 Wah Cantt. (Female)(P),33.78441,72.72155,Female,Punjab,0,2,0,835
+ 275 - FG Public Girls High School No.7 Wah Cantt. (Male)(P),33.78441,72.72158,Male,Punjab,2,0,1367,0
+ 276 - FG Public Girls High School No 7 Wah Cantt. (Female)(P),33.78441,72.72161,Female,Punjab,0,3,0,1446
+ 268 - FG Public Girls High School No 7- Wah Cantt Basti (Female)(T),33.78441,72.72164,Female,Punjab,0,4,0,2483
+ 265 - CB Public School & College for Boys Lala Rukh Wah Cantt (Male)(P),33.78566,72.72107,Male,Punjab,4,0,2172,0
+ 266 - CB Public School & College for Boys  Lala Rukh Wah Cantt (Male)(P),33.78566,72.7211,Male,Punjab,4,0,2569,0
+ 267 - CB Public School & College for Boys  Lala Rukh Wah Cantt (Female)(P),33.78566,72.72113,Female,Punjab,0,3,0,2060
+ 261 - Punjab College GT Road- Munir Abad- (Male)(T),33.78709,72.7199,Male,Punjab,4,0,2118,0
+ 263 - Govt Elementary School  Ahmed Nagar Near Gattia- (Male)(P),33.78754,72.71386,Male,Punjab,4,0,2229,0
+ 72 - Govt. TEVTA College HMC Road Taxila (Male)(P),33.78965,72.81624,Male,Punjab,4,0,2035,0
+ 240 - Saint Pal High School- Gulshan Colony- Wah Cantt- (Female)(T),33.7903108184596,72.73198463248636,Female,Punjab,0,2,0,1422
+ 264 - Al-Muslim Public School Ahmed Nagar / Munirabad Main Muslim Street- (Female)(T,33.79118,72.71544,Female,Punjab,0,3,0,2020
+ 239 - New ERA School- Gulshan Colony- Wah Cantt- (Male)(T),33.7915979803999,72.73457212238564,Male,Punjab,2,0,1469,0
+ 243 - Sir Syed Scholar School & College- Lala Zar- Wah Cantt- (Male) (T),33.79213,72.7213,Male,Punjab,2,0,1143,0
+ 244 - Sir Syed Scholar School & College- Lala Zar- Wah Cantt- (Male) (T),33.79213,72.72133,Male,Punjab,2,0,1145,0
+ 245 - Sir Syed Scholar School & College- Lala Zar Wah Cantt (Female)(T),33.79213,72.72136,Female,Punjab,0,2,0,1142
+ 246 - Sir Syed Scholar School & College- Lala Zar Wah Cantt (Female)(T),33.79213,72.72139,Female,Punjab,0,2,0,1169
+ 131 - Govt Primary School- Sammu- (combined)(P),33.79225,72.78484,Combined,Punjab,1,1,681,575
+ 77 - Govt. High School- Usman Khattar- (Male) (P),33.79386,72.82805,Male,Punjab,2,0,807,0
+ 78 - Govt. High School Usman Khattar- (Female)(P),33.79386,72.82808,Female,Punjab,0,1,0,703
+ 217 - Sir Syed High School & College Campus-4- 27 Area  Wah Cantt (Female)(P),33.79528,72.74922,Female,Punjab,0,2,0,976
+ 218 - Sir Syed High School & College Campus 4- 27 Area  Wah Cantt (Female)(P),33.79528,72.74925,Female,Punjab,0,2,0,1318
+ 231 - FG Boys Public School No.5 Wah Cantt (Male)(P),33.79575,72.74748,Male,Punjab,1,0,474,0
+ 233 - FG Boys Public High School No.5 Wah Cantt (Male)(P),33.79575,72.74751,Male,Punjab,1,0,577,0
+ 215 - FG Boys Public High School No.5 Wah Cantt (Male)(P),33.79581,72.74747,Male,Punjab,2,0,1076,0
+ 216 - FG Boys High School No.5 Wah Cantt (Male)(P),33.79581,72.7475,Male,Punjab,2,0,1355,0
+ 242 - Govt Elementary School Bhabra- Wah Cantt- (Female)(T),33.796453359123106,72.72742950344072,Female,Punjab,0,3,0,1540
+ 149 - Govt Girls High School Wah Village  (Female)(P).,33.79808,72.69208,Female,Punjab,0,3,0,1489
+ 130 - Govt Boys Elementary School Gohdu. (combined)(P),33.79824,72.79898,Combined,Punjab,2,2,1022,956
+ 132 - Govt Boys High School Ghari Afghanan (Male)(P),33.79861,72.78008,Male,Punjab,2,0,1021,0
+ 134 - Govt Boys High School Ghari Afghanan (Male)(P),33.79861,72.78011,Male,Punjab,2,0,1057,0
+ 148 - Govt Boys High School Wah Village  (Male)(P),33.79876,72.70063,Male,Punjab,3,0,1666,0
+ 255 - Govt  Boys Primary School- Pind Kamal Bannia (Male)(P),33.80222,72.74,Male,Punjab,2,0,1240,0
+ 256 - Govt Girls Primary School- Pind Kamala Bannia (Female)(P),33.80222,72.74003,Female,Punjab,0,4,0,2555
+ 254 - Govt  Boys Primary School- Pind Kamal Bannia (Male)(P),33.80222,72.74006,Male,Punjab,3,0,1514,0
+ 133 - Govt Girls High School- Ghari Afghanan (Female)(P),33.80274,72.78568,Female,Punjab,0,3,0,1876
+ 235 - Govt Boys Elementary School Budho (Male)(P),33.80457923835487,72.76862395913655,Male,Punjab,2,0,834,0
+ 236 - Govt Boys Elementary School Budho (Male)(P),33.80457923835487,72.7686539591365,Male,Punjab,3,0,1522,0
+ 138 - Govt Boys Primary School Malpur. (combined)(P),33.8048,72.77525,Combined,Punjab,2,2,771,728
+ 150 - Union Council Office Wah Village (combined)(P).,33.80502,72.70242,Combined,Punjab,1,1,542,458
+ 152 - Wah Grammar School Qadar Town .(Male)(P),33.80525,72.70395,Male,Punjab,3,0,1349,0
+ 153 - Wah Grammar School Qadar Town .(Male)(P),33.80525,72.70398,Male,Punjab,2,0,919,0
+ 154 - Govt Girls Primary School Dhoke  Jhatla. (Female)(P),33.80627,72.70716,Female,Punjab,0,4,0,2062
+ 252 - Govt. Elementry School- Dhoke Kokara- (Male) (P),33.80683,72.72385,Male,Punjab,3,0,1647,0
+ 253 - Govt. Elementry School- Dhoke Kokara- (Female) (P),33.80683,72.72388,Female,Punjab,0,2,0,1370
+ 251 - Govt. Elementary School- Hussain Abad- (Female) (P),33.81412,72.73878,Female,Punjab,0,2,0,826
+ 250 - Govt. Elementary School- Hussain Abad- (Male) (P),33.81412,72.73881,Male,Punjab,2,0,953,0
+ 249 - Muslim Public School -Muslim Abad  (Comb) (T),33.82016,72.73474,Combined,Punjab,2,1,790,664
+ 137 - Govt Girls Primary School Bajjar- (Female) (P),33.82207,72.77705,Female,Punjab,0,2,0,901
+ 136 - Govt Boys Primary School- Bajjar- (Male) (P),33.82293,72.77591,Male,Punjab,2,0,1038,0
+ 139 - Govt Boys Primary School Bhoti Pind.(Male)(P),33.82881954296759,72.74706073261518,Male,Punjab,3,0,1743,0
+ 140 - Govt Girls Elementary School Bhoti Pind. (Female) (P),33.8290619229055,72.74720820422625,Female,Punjab,0,3,0,1531
+ 145 - Govt. Boys Primary School- Mohra Nasroo- (Male) (P),33.833558128087205,72.72617411219647,Male,Punjab,2,0,754,0
+ 146 - Govt. Boys Primary School- Mohra Nasroo- (Female) (P),33.833558128087205,72.7262041121965,Female,Punjab,0,1,0,658
+ 143 - Govt Boys Primary School Lab Village  (Male)(P),33.85201610435253,72.75365937413402,Male,Punjab,3,0,1308,0
+ 144 - Govt Girls Middle School Lab Village (Female)(P),33.85405985602492,72.75387152144013,Female,Punjab,0,2,0,1090
+ 141 - Govt Boys High School Lab Thuthoo. (Male)(P),33.85549805149021,72.74036225837769,Male,Punjab,2,0,1095,0
+ 142 - Basic Health Unit- Lab thuthoo (Female)(T),33.855915983898115,72.74104016493705,Female,Punjab,0,2,0,966
+ 147 - Govt Boys Primary School Nikoo (Comb)(P).,33.8645,72.69308,Combined,Punjab,1,1,477,396
