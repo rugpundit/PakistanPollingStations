@@ -1,9 +1,9 @@
-PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
- 116 - GPS for Boys Sheikh Abad No. 1 (Male) PS-1,34.0035,71.59232,Male,KPK,4,0,2185,0
- 117 - GPS for Boys Sheikh Abad No. 1 (Male) PS-2,34.0035,71.59235,Male,KPK,4,0,1384,0
- 232 - GGPS Beri Bagh- Zahid Abad (Female),34.00441,71.58873,Female,KPK,0,2,0,783
- 97 - Govt. City Girls Degree College Gul Bahar (Male) PS-3,34.01231,71.59544,Male,KPK,4,0,2334,0
- 4 - GGPS Sarbaland Pura (Female) PS-1,34.0201,71.61133,Female,KPK,0,4,0,1347
- 13 - GPS Latif Abad (Female),34.03621,71.58855,Female,KPK,0,4,0,1882
- 14 - GPS No.2- Ghari Baloch- Peshawar (Male),34.04452,71.5928,Male,KPK,4,0,1713,0
- 15 - Gvot. Primary School  Qazi Kali  (Female),34.04699,71.5863,Female,KPK,0,4,0,2155
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+116,GPS for Boys Sheikh Abad No. 1 (Male) PS-1,34.0035,71.59232,Male,KPK,4,0,2185,0
+117,GPS for Boys Sheikh Abad No. 1 (Male) PS-2,34.0035,71.59235,Male,KPK,4,0,1384,0
+232,GGPS Beri Bagh- Zahid Abad (Female),34.00441,71.58873,Female,KPK,0,2,0,783
+97,Govt. City Girls Degree College Gul Bahar (Male) PS-3,34.01231,71.59544,Male,KPK,4,0,2334,0
+4,GGPS Sarbaland Pura (Female) PS-1,34.0201,71.61133,Female,KPK,0,4,0,1347
+13,GPS Latif Abad (Female),34.03621,71.58855,Female,KPK,0,4,0,1882
+14,GPS No.2- Ghari Baloch- Peshawar (Male),34.04452,71.5928,Male,KPK,4,0,1713,0
+15,Gvot. Primary School  Qazi Kali  (Female),34.04699,71.5863,Female,KPK,0,4,0,2155

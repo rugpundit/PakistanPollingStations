@@ -1,324 +1,324 @@
-PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
- 22 - The Gardian School West Service Road New Shakrial (Male),33.63956,73.10809,Male,Islamabad,4,0,1156,0
- 23 - The Gardian School West Service Road New Shakrial (Female),33.63956,73.10812,Female,Islamabad,0,3,0,832
- 24 - The Gardian School West Service Road New Shakrial (Male),33.63956,73.10815,Male,Islamabad,4,0,1183,0
- 25 - The Gardian School West Service Road New Shakrial (Female),33.63956,73.10818,Female,Islamabad,0,3,0,927
- 20 - Haider Amin Shaheed Model School for Boys (I-X)- Khanna Nai Abadi (Male),33.6429536,73.1107314,Male,Islamabad,3,0,899,0
- 21 - Haider Amin Shaheed Model School for Boys (I-X)- Khanna Nai Abadi(Female),33.6429536,73.1107614,Female,Islamabad,0,3,0,698
- 19 - Islamabad Model School for Girls  (I-X) New Shakrial   (Female),33.6432003,73.1132463,Female,Islamabad,0,2,0,426
- 16 - Islamabad Model School for Girls   (I-X) New Shakrial (Male),33.6432003,73.1132763,Male,Islamabad,4,0,1150,0
- 17 - Islamabad Model School for Girls   (I-X) New Shakrial (Female),33.6432003,73.1133063,Female,Islamabad,0,3,0,838
- 18 - Islamabad Model School for Girls  (I-X) New Shakrial   (Male),33.6432003,73.1133363,Male,Islamabad,2,0,581,0
- 26 - Islamabad Model School for Boys  (I-X) Khana New Abdi- (Male),33.64393,73.1112,Male,Islamabad,4,0,1304,0
- 27 - Islamabad Model School for Boys  (I-X) Khana New Abdi- (Female),33.64393,73.11123,Female,Islamabad,0,2,0,960
- 28 - Islamabad Model School for Boys  (I-X) Khana New Abdi- (Male),33.64393,73.11126,Male,Islamabad,3,0,691,0
- 29 - Islamabad Model School for Boys  (I-X) Khana New Abdi-(Female),33.64393,73.11129,Female,Islamabad,0,3,0,551
- 320 - Islamabad Model School  (I-V) No-2  I-9/1 (Male),33.6521,73.05315,Male,Islamabad,4,0,1155,0
- 321 - Islamabad Model School  (I-V) No-2  I-9/1 (Female),33.6521,73.05318,Female,Islamabad,0,4,0,1102
- 322 - Islamabad Model School- (I-V)- No-2- I-9/1- (Male),33.6521,73.05321,Male,Islamabad,2,0,575,0
- 323 - Islamabad Model School- (I-V)- No-2- I-9/1- (Female),33.6521,73.05324,Female,Islamabad,0,2,0,578
- 324 - Islamabad Model College For Girls (VI-XII)   I-9/1 (Male),33.65273,73.05284,Male,Islamabad,4,0,1230,0
- 325 - Islamabad Model College For Girls (VI-XII)   I-9/1 (Female),33.65273,73.05287,Female,Islamabad,0,4,0,1055
- 14 - Usama Tahir Shaheed Model College for Boys (I-XII)- Jaba Tali (Male),33.6529158,73.1380953,Male,Islamabad,4,0,1377,0
- 15 - Usama Tahir Shaheed Model College for Boys (I-XII)- Jaba Tali (Female),33.6529158,73.1381253,Female,Islamabad,0,3,0,1228
- 13 - Al-Uswa Model School New Sohan (Female),33.65401,73.11061,Female,Islamabad,0,2,0,736
- 10 - Islamabad Model School for Girls  (I-VIII) Sohan  (Female),33.6546982,73.1116528,Female,Islamabad,0,1,0,421
- 7 - Islamabad Model School for Girls  (I-VIII) Sohan  (Male),33.6546982,73.1116828,Male,Islamabad,4,0,987,0
- 8 - Islamabad Model School for Girls  (I-VIII) Sohan  (Female),33.6546982,73.1117128,Female,Islamabad,0,3,0,844
- 9 - Islamabad Model School for Girls  (I-VIII) Sohan  (Male),33.6546982,73.1117428,Male,Islamabad,3,0,1520,0
- 5 - Yaseen Shaheed Model School for Boys (I-V)- Sohan- (Male),33.6549411,73.0967863,Male,Islamabad,4,0,1434,0
- 6 - Yaseen Shaheed Model School for Boys (I-V)- Sohan (Female),33.6549411,73.0968163,Female,Islamabad,0,4,0,1224
- 312 - Usama Bin Tariq Shaheed Model School for Boys (VI-X)- I-9/4- No.1 (Male),33.6560728,73.063125,Male,Islamabad,4,0,1192,0
- 313 - Usama Bin Tariq Shaheed Model School for Boys (VI-X)- I-9/4- No.1 (Female),33.6560728,73.063155,Female,Islamabad,0,4,0,1115
- 316 - Islamabad Model School For Girls (VI-X)  I-9/4 (Combined),33.65639,73.06068,Combined,Islamabad,2,2,412,370
- 11 - Al-Raza Public School Sohan (Male),33.65663,73.10892,Male,Islamabad,4,0,1259,0
- 12 - Al-Raza Public School Sohan (Female),33.65663,73.10895,Female,Islamabad,0,3,0,947
- 317 - Islamabad Model School No.1  (I-V)   I-9/4 (Male),33.657289,73.0649259,Male,Islamabad,4,0,1151,0
- 318 - Islamabad Model School No.1  (I-V)   I-9/4 (Female),33.657289,73.0649559,Female,Islamabad,0,4,0,1031
- 319 - Islamabad Model School No.1  (I-V)   I-9/4 (Combined),33.657289,73.0649859,Combined,Islamabad,2,2,447,412
- 314 - Maher Ali Azam Shaheed Model School for Boys (VI-X)- I-9/4- No.2 (Male),33.65776,73.06151,Male,Islamabad,3,0,895,0
- 315 - Maher Ali Azam Shaheed Model School for Boys (VI-X)- I-9/4- No.2 (Female),33.65776,73.06154,Female,Islamabad,0,3,0,771
- 301 - Yasirullah Shaheed Model School for Boys (I-VIII)- I-8/1  (Combined),33.65924,73.07103,Combined,Islamabad,1,1,347,297
- 1 - The Message School Sohan Islamabad   (Male),33.6600521,73.0984786,Male,Islamabad,4,0,1186,0
- 2 - The Message School Sohan Islamabad  (Female),33.6600521,73.0985086,Female,Islamabad,0,3,0,923
- 3 - The Message School Sohan Islamabad   (Male),33.6600521,73.0985386,Male,Islamabad,2,0,554,0
- 4 - The Message School Sohan Islamabad  (Female),33.6600521,73.0985686,Female,Islamabad,0,2,0,477
- 302 - Islamabad Model College  for Girls  I-8/4 (Male),33.6618235,73.0690276,Male,Islamabad,3,0,867,0
- 303 - Islamabad Model College  for Girls  I-8/4 (Female),33.6618235,73.0690576,Female,Islamabad,0,3,0,748
- 304 - Islamabad Model College  for Girls  I-8/4 (Male),33.6618235,73.0690876,Male,Islamabad,4,0,980,0
- 305 - Islamabad Model College  for Girls  I-8/4 (Female,33.6618235,73.0691176,Female,Islamabad,0,4,0,1030
- 308 - Islamabad Model School  for Girls (VI-X) I-8/1 (Male),33.66307,73.07083,Male,Islamabad,3,0,821,0
- 309 - Islamabad Model School  for Girls (VI-X) I-8/1 (Female),33.66307,73.07086,Female,Islamabad,0,3,0,715
- 310 - Islamabad Model School  for Girls (VI-X) I-8/1 (Male),33.66307,73.07089,Male,Islamabad,4,0,1352,0
- 311 - Islamabad Model School  for Girls (VI-X) I-8/1 (Female),33.66307,73.07092,Female,Islamabad,0,4,0,1301
- 293 - Islamabad Model College for Girls I-8/2 - (Male),33.66556,73.06831,Male,Islamabad,4,0,1106,0
- 294 - Islamabad Model College for Girls I-8/2 - (Female),33.66556,73.06834,Female,Islamabad,0,4,0,1066
- 295 - Islamabad Model College for Girls I-8/2 - (Male),33.66556,73.06837,Male,Islamabad,2,0,611,0
- 296 - Islamabad Model College for Girls I-8/2 - (Female),33.66556,73.0684,Female,Islamabad,0,2,0,705
- 165 - Islamabad Model School for Girls(I-X) Rawal Town (Male),33.6670443,73.1056388,Male,Islamabad,4,0,968,0
- 166 - Islamabad Model School for Girls  (I-X) Rawal Town (Female),33.6670443,73.1056688,Female,Islamabad,0,3,0,863
- 167 - Islamabad Model School for Girls (I-X) Rawal Town (Male),33.6670443,73.1056988,Male,Islamabad,4,0,1134,0
- 168 - Islamabad Model School for Girls (I-X) Rawal Town (Female),33.6670443,73.1057288,Female,Islamabad,0,4,0,1027
- 160 - Islamabad Model College for Girls Margalla Town.(Male),33.6700633,73.105685,Male,Islamabad,4,0,1418,0
- 161 - Islamabad Model College for Girls Margalla Town.(Female),33.6700633,73.105715,Female,Islamabad,0,4,0,1219
- 162 - Islamabad Model College for Girls Margalla Town.(Combined),33.6700633,73.105745,Combined,Islamabad,2,2,852,812
- 297 - Islamabad Model College for Boys I-8/3 (Male),33.67188,73.07408,Male,Islamabad,4,0,1235,0
- 298 - Islamabad Model College for Boys I-8/3 (Female),33.67188,73.07411,Female,Islamabad,0,4,0,1216
- 299 - Islamabad Model College for Boys I-8/3 (Male),33.67188,73.07414,Male,Islamabad,4,0,1194,0
- 300 - Islamabad Model College for Boys I-8/3 (Female),33.67188,73.07417,Female,Islamabad,0,4,0,1176
- 87 - Fahad Ahmed Shaheed Model School College For Boys- Chakshahzad  (Male),33.67969,73.14201,Male,Islamabad,3,0,986,0
- 88 - Fahad Ahmed Shaheed Model School College For Boys- Chakshahzad  (Male),33.67969,73.14204,Male,Islamabad,3,0,986,0
- 89 - Fahad Ahmed Shaheed Model School College For Boys-Chakshahzad  (Female),33.67969,73.14207,Female,Islamabad,0,3,0,924
- 90 - Fahad Ahmed Shaheed Model School College For Boys-Chakshahzad  (Female),33.67969,73.1421,Female,Islamabad,0,3,0,925
- 91 - Fahad Ahmed Shaheed Model School College For Boys-Chakshahzad  (Female),33.67969,73.14213,Male,Islamabad,3,0,969,0
- 92 - Fahad Ahmed Shaheed Model School College For Boys-Chakshahzad  (Female),33.67969,73.14216,Female,Islamabad,0,3,0,838
- 281 - Islamabad Model School (I-V) No 10- G-9/1 (Male),33.6797,73.02977,Male,Islamabad,4,0,1158,0
- 282 - Islamabad Model School (I-V) No 10- G-9/1 (Female),33.6797,73.0298,Female,Islamabad,0,3,0,1100
- 283 - Islamabad Model School (I-V)  No 10- G-9/1 (Male),33.6797,73.02983,Male,Islamabad,3,0,733,0
- 284 - Islamabad Model School (I-V) l No 10- G-9/1 (Female,33.6797,73.02986,Female,Islamabad,0,3,0,688
- 291 - Islamabad Model School- (I-V)- AIOU- Colony H-8 (Male),33.68123,73.05309,Male,Islamabad,3,0,693,0
- 292 - Islamabad Model School- (I-V)- AIOU- Colony H-8 (Female),33.68123,73.05312,Female,Islamabad,0,2,0,491
- 274 - Islamabad Model School  (I-V)  No.1 G-9/4 (Male),33.68413,73.03856,Male,Islamabad,3,0,845,0
- 275 - Islamabad Model School  (I-V)  No.1 G-9/4 (Female),33.68413,73.03859,Female,Islamabad,0,3,0,878
- 276 - Islamabad Model School  (I-V)  No.1 G-9/4 (Combined),33.68413,73.03862,Combined,Islamabad,2,2,486,426
- 285 - Islamabad Model School (I-V) No.3 G-9/2 (Male),33.68413,73.03865,Male,Islamabad,4,0,1085,0
- 286 - Islamabad Model School (I-V) No.3 G-9/2 (Female,33.68413,73.03868,Female,Islamabad,0,3,0,931
- 287 - Islamabad Model School (I-V) No.3 G-9/2 (Male),33.68413,73.03871,Male,Islamabad,4,0,1125,0
- 288 - Islamabad Model School (I-V) No.3 G-9/2 (Female),33.68413,73.03874,Female,Islamabad,0,4,0,979
- 277 - Islamabad Model School  for Girls (I-X)  G-9/1 (Male),33.68534,73.03151,Male,Islamabad,3,0,785,0
- 278 - Islamabad Model School  for Girls (I-X)  G-9/1 (Female),33.68534,73.03154,Female,Islamabad,0,3,0,801
- 279 - Islamabad Model School  for Girls (I-X)  G-9/1 (Male),33.68534,73.03157,Male,Islamabad,4,0,1141,0
- 280 - Islamabad Model School  for Girls (I-X)  G-9/1 (Female),33.68534,73.0316,Female,Islamabad,0,4,0,1078
- 269 - Adnan Hussain Shaheed Model School for Boys (VI-XII)- G-9/4  (Male),33.6885,73.03756,Male,Islamabad,4,0,1104,0
- 270 - Adnan Hussain Shaheed Model School for Boys (VI-XII)- G-9/4  (female),33.6885,73.03759,Female,Islamabad,0,4,0,1045
- 251 - Islamabad Model School  (I-V) No.3 G-8/1 (Male),33.68885,73.04938,Male,Islamabad,4,0,1277,0
- 252 - Islamabad Model School  (I-V) No.3 G-8/1 (Female),33.68885,73.04941,Female,Islamabad,0,4,0,1109
- 289 - Islamabad Model College for Girls (VI-XII)  G-9/2 (Male),33.68889,73.02595,Male,Islamabad,3,0,928,0
- 290 - Islamabad Model College for Girls (VI-XII)  G-9/2 (Female),33.68889,73.02598,Female,Islamabad,0,3,0,725
- 253 - Islamabad Model School  (I-V) No.4 G-9/2 (Male),33.68949,73.02448,Male,Islamabad,4,0,1144,0
- 254 - Islamabad Model School  (I-V) No.4 G-9/2 (Female),33.68949,73.02451,Female,Islamabad,0,4,0,996
- 255 - Islamabad Model School  (I-V) No.4 G-9/2 (Male),33.68949,73.02454,Male,Islamabad,3,0,906,0
- 256 - Islamabad Model School  (I-V) No.4 G-9/2 (Female),33.68949,73.02457,Female,Islamabad,0,3,0,833
- 249 - Islamabad Model School  (I-V) No.2 G-8/1 (Male),33.68956,73.04542,Male,Islamabad,4,0,1044,0
- 250 - Islamabad Model School  (I-V) No.2 G-8/1 (Female),33.68956,73.04545,Female,Islamabad,0,3,0,922
- 234 - Islamabad Model School   (I-V)  No.1 G-8/2 (Male),33.68956,73.04543,Male,Islamabad,3,0,810,0
- 235 - Islamabad Model School   (I-V)  No.1 G-8/2 (Female),33.68956,73.04546,Female,Islamabad,0,3,0,795
- 163 - Office of the Inspector Electronic Rawal Dam(Combined),33.69043,73.11768,Combined,Islamabad,2,1,438,354
- 245 - Shamowail Tariq Shaheed ModelSchool for Boys (VI-X)- G-8/1 (Male),33.69076,73.04736,Male,Islamabad,3,0,650,0
- 246 - Shamowail Tariq Shaheed Model School for Boys (VI-X)- G-8/1  (Female),33.69076,73.04739,Female,Islamabad,0,2,0,480
- 247 - Shamowail Tariq Shaheed Model School for Boys (VI-X)- G-8/1 (Male),33.69076,73.04742,Male,Islamabad,3,0,942,0
- 248 - Shamowail Tariq Shaheed Model School for Boys (VI-X)- G-8/1 (Female),33.69076,73.04745,Female,Islamabad,0,3,0,816
- 263 - Islamabad Model School for Girls (VI-X)  G-9/3 (Male),33.69081,73.03742,Male,Islamabad,3,0,886,0
- 264 - Islamabad Model School for Girls (VI-X)  G-9/3 (Female),33.69081,73.03745,Female,Islamabad,0,3,0,625
- 265 - Islamabad Model School for Girls (VI-X)  G-9/3 (Male),33.69081,73.03748,Male,Islamabad,4,0,1105,0
- 266 - Islamabad Model School for Girls (VI-X)  G-9/3 (Female),33.69081,73.03751,Female,Islamabad,0,4,0,1079
- 261 - Islamabad Model School (I-V) No.1 G-9/2(Male),33.69086,73.02737,Male,Islamabad,4,0,1055,0
- 262 - Islamabad Model School (I-V) No.1 G-9/2(Female),33.69086,73.0274,Female,Islamabad,0,4,0,979
- 164 - Waseem Iqbal Shaheed Model School for Boys (VI-X)- Rawal Dam (Combined),33.69119,73.11591,Combined,Islamabad,1,1,174,153
- 257 - Islamabad Model School (I-V) No.2 G-9/2 (Male),33.69127,73.03407,Male,Islamabad,4,0,1010,0
- 258 - Islamabad Model School (I-V) No.2 G-9/2 (Female),33.69127,73.0341,Female,Islamabad,0,3,0,829
- 259 - Islamabad Model School (I-V) No.2 G-9/2 (Male),33.69127,73.03413,Male,Islamabad,3,0,704,0
- 260 - Islamabad Model School (I-V) No.2 G-9/2 (Female),33.69127,73.03416,Female,Islamabad,0,2,0,577
- 267 - Islamabad Model School  (I-V)  No.2 G-9/3 (Male),33.69127,73.03419,Male,Islamabad,4,0,1203,0
- 268 - Islamabad Model School  (I-V)  No.2 G-9/3 (Female),33.69127,73.03422,Female,Islamabad,0,4,0,1159
- 241 - Islamabad Model School.for Girls (I-VIII)- G-8/4-( Male),33.69416,73.05882,Male,Islamabad,3,0,704,0
- 242 - Islamabad Model School.for Girls (I-VIII)- G-8/4- (Female),33.69416,73.05885,Female,Islamabad,0,3,0,647
- 230 - Islamabad Model School  for Girls (VI-X)  G-8/2 (Male),33.6954,73.04591,Male,Islamabad,4,0,1045,0
- 231 - Islamabad Model School  for Girls (VI-X)  G-8/2 (Female),33.6954,73.04594,Female,Islamabad,0,3,0,955
- 232 - Islamabad Model School  for Girls (VI-X)  G-8/2 (Male),33.6954,73.04597,Male,Islamabad,3,0,798,0
- 233 - Islamabad Model School  for Girls (VI-X)  G-8/2 (Female),33.6954,73.046,Female,Islamabad,0,3,0,774
- 239 - Islamabad Model College for Girls (VI-XII) G-8/4 (Male),33.69567,73.05738,Male,Islamabad,4,0,1220,0
- 240 - Islamabad Model College for Girls (VI-XII) G-8/4 (Female),33.69567,73.05741,Female,Islamabad,0,3,0,902
- 237 - Islamabad Model School  (I-V)  No.1 G-8/4 (Male),33.69728,73.05968,Male,Islamabad,4,0,1231,0
- 238 - Islamabad Model School  (I-V)  No.1 G-8/4 (Female),33.69728,73.05971,Female,Islamabad,0,3,0,1016
- 226 - Islamabad Model School  for Girls (VI-X)  G-7/1 (Male),33.70213,73.07029,Male,Islamabad,4,0,1371,0
- 227 - Islamabad Model School  for Girls (VI-X)  G-7/1 (Female),33.70213,73.07032,Female,Islamabad,0,4,0,1115
- 228 - Islamabad Model School  for Girls (VI-X)  G-7/1 (Male),33.70213,73.07035,Male,Islamabad,4,0,1498,0
- 229 - Islamabad Model School  for Girls (VI-X)  G-7/1 (Female),33.70213,73.07038,Female,Islamabad,0,4,0,1292
- 236 - School of Nursing PIMS- G-8/3- (Combined),33.70378,73.04905,Combined,Islamabad,2,2,587,483
- 199 - Islamabad Model School (I-V) No.2 G-7/2  (Male),33.7040735,73.06271,Male,Islamabad,3,0,1032,0
- 200 - Islamabad Model School (I-V) No.2 G-7/2 (Female),33.7040735,73.06274,Female,Islamabad,0,3,0,881
- 201 - Islamabad Model School (I-V) No.2 G-7/2 (Combined),33.7040735,73.06277,Combined,Islamabad,2,1,384,321
- 243 - Academy for Educational Planning Management G-8/1 (Male),33.70437,73.03917,Male,Islamabad,4,0,1086,0
- 244 - Academy for Educational Planning Management G-8/1 (Female),33.70437,73.0392,Female,Islamabad,0,3,0,968
- 218 - Tanveer Hussain Shaheed Model College for Boys (VI-XII)- G-7/4  (Male),33.704724715353144,73.07290759527021,Male,Islamabad,3,0,781,0
- 219 - Tanveer Hussain Shaheed Model College for Boys (VI-XII)- G-7/4  (Female),33.704724715353144,73.0729375952702,Female,Islamabad,0,2,0,625
- 204 - Islamabad Model School for Girls (VI-X)  G-7/2 (Combined),33.7059,73.06377,Combined,Islamabad,2,1,423,312
- 190 - Islamabad Model School  (I-V)-   G-6/1-1- (Male),33.70710333333333,73.08195333333333,Male,Islamabad,3,0,671,0
- 191 - Islambad Model  School (I-V) G-6/1-1  (Female),33.70710333333333,73.0819833333333,Female,Islamabad,0,2,0,595
- 195 - Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2 (Male),33.70802816486411,73.0590614330042,Male,Islamabad,4,0,1006,0
- 196 - Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2 (Female),33.70802816486411,73.0590914330042,Female,Islamabad,0,3,0,948
- 197 - Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2 (Male),33.70802816486411,73.0591214330042,Male,Islamabad,3,0,895,0
- 198 - Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2  (Female),33.70802816486411,73.0591514330042,Female,Islamabad,0,2,0,830
- 205 - Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2 (Male),33.70802816486411,73.0591814330042,Male,Islamabad,3,0,1028,0
- 206 - Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2 (Female),33.70802816486411,73.0592114330042,Female,Islamabad,0,3,0,928
- 213 - Khushnood Zeb Shaheed Model School for Boys (VI-X)- G-7/3-1 (Male),33.70885372652193,73.07107230414229,Male,Islamabad,4,0,1236,0
- 214 - Khushnood Zeb Shaheed Model School for Boys (VI-X)- G-7/3-1 (Female),33.70885372652193,73.0711023041423,Female,Islamabad,0,4,0,1049
- 215 - Khushnood Zeb Shaheed Model School for Boys (VI-X)- G-7/3-1  (Combined),33.70885372652193,73.0711323041423,Combined,Islamabad,2,2,746,627
- 222 - Islamabad Model School  (I-V)  G-7/4 (Male),33.70896,73.07471,Male,Islamabad,4,0,996,0
- 223 - Islamabad Model School  (I-V)  G-7/4 (Female),33.70896,73.07474,Female,Islamabad,0,3,0,886
- 224 - Islamabad Model School  (I-V)  G-7/4 (Male),33.70896,73.07477,Male,Islamabad,4,0,1169,0
- 225 - Islamabad Model School  (I-V)  G-7/4 (Female),33.70896,73.0748,Female,Islamabad,0,3,0,894
- 192 - Islamabad Model School- (I-V)  G-6/1-4-  (Male),33.709195,73.08630333333333,Male,Islamabad,4,0,976,0
- 193 - Islamabad Model School- (I-V)  G-6/1-4- (Female),33.709195,73.0863333333333,Female,Islamabad,0,3,0,804
- 194 - Islamabad Model School- (I-V)  G-6/1-4-  (Combined),33.709195,73.0863633333333,Combined,Islamabad,2,2,625,587
- 210 - Islamabad Model School for Girls (I-VIII)  G-7/3-2 (Female),33.709885838140835,73.06627861142644,Female,Islamabad,0,2,0,627
- 207 - Islamabad Model School for Girls (I-VIII)  G-7/3-2 (Male),33.70994544458075,73.06622829186067,Male,Islamabad,4,0,1118,0
- 209 - Islamabad Model School for Girls (I-VIII)  G-7/3-2 (Male),33.70994544458075,73.0662582918607,Male,Islamabad,3,0,772,0
- 208 - Islamabad Model School for Girls (I-VIII)  G-7/3-2 (Female),33.70997976455133,73.06625312544045,Female,Islamabad,0,4,0,1104
- 182 - Islamabd  Model School  (I-V) G-6/1-2 -( Male,33.71008666666667,73.08037166666666,Male,Islamabad,4,0,1151,0
- 183 - Islamabd  Model School     (I-V).G-6/1-2 - (Female),33.71008666666667,73.0804016666667,Female,Islamabad,0,4,0,1022
- 184 - Islamabd  Model School     (I-V).G-6/1-2 - (Combined),33.71008666666667,73.0804316666667,Combined,Islamabad,2,2,573,517
- 189 - Islamabad Model College for  Girls - G-6/1-4 - (Female),33.71012333333333,73.08463666666667,Female,Islamabad,0,3,0,941
- 188 - Islamabad Model College for  Girls-   G-6/1-4 (Male),33.71012333333333,73.0846666666667,Male,Islamabad,4,0,1044,0
- 169 - Ali Abbas Shaheed Model College for Boys (VI-XII)- G-6/2(Male),33.71071833333333,73.07837500000001,Male,Islamabad,4,0,1144,0
- 170 - Ali Abbas Shaheed Model College for Boys (VI-XII)- G-6/2(Female),33.71071833333333,73.078405,Female,Islamabad,0,4,0,1022
- 171 - Ali Abbas Shaheed Model School for Boys (VI-XII)- G-6/2 (Male),33.71071833333333,73.078435,Male,Islamabad,3,0,922,0
- 172 - Ali Abbas Shaheed Model School for Boys (VI-XII)- G-6/2 (Female),33.71071833333333,73.078465,Female,Islamabad,0,3,0,904
- 216 - Islamabad Model School  for Girls (I-VIII)  G-7/3-4 (Male),33.71142,73.07323,Male,Islamabad,4,0,1252,0
- 217 - Islamabad Model School  for Girls (I-VIII)  G-7/3-4 (Female),33.71142,73.07326,Female,Islamabad,0,4,0,1142
- 124 - Islamabad Model School for Girls (I-VIII) F-7/1 (Male),33.7116869,73.0393426,Male,Islamabad,4,0,1092,0
- 125 - Islamabad Model School for Girls (I-VIII) F-7/1 (Female),33.7116869,73.0393726,Female,Islamabad,0,4,0,1171
- 108 - Islamabad Model School for Girls- Talhar    (I-X) (Female),33.7117406,73.0783423,Female,Islamabad,0,4,0,1066
- 128 - Islamabad Model College for Girls No.2 (Post Graduate) F-7/4 (Male),33.7124715,73.0737721,Male,Islamabad,4,0,1339,0
- 129 - Islamabad Model College for Girls No.2 (Post Graduate) F-7/4 (Female),33.7124715,73.0738021,Female,Islamabad,0,4,0,1175
- 185 - Islamabad  Model School for Girls   (VI - X) - G-6/1-3-,33.7129,73.08541333333332,Male,Islamabad,4,0,1189,0
- 186 - Islamabad  Model School for Girls   (VI - X) - G-6/1-3 - (Female),33.7129,73.0854433333333,Female,Islamabad,0,4,0,1113
- 187 - Islamabad  Model School for Girls   (VI - X) - G-6/1-3- (Combined),33.7129,73.0854733333333,Combined,Islamabad,2,2,547,495
- 202 - Islamabad Model School (I-V) No-1- G-7/2- (Male),33.71333,73.07137,Male,Islamabad,4,0,1215,0
- 203 - Islamabad Model School (I-V) No-1- G-7/2- (Female),33.71333,73.0714,Female,Islamabad,0,3,0,1051
- 211 - Islamabad Model School  (I-V)  G-7/3-3 (Male),33.71333,73.07143,Male,Islamabad,4,0,1120,0
- 212 - Islamabad Model School  (I-V)  G-7/3-3 (Female),33.71333,73.07146,Female,Islamabad,0,4,0,995
- 176 - Islamabd Model School for Girls ( I-VIII)              G-6/2- (Male),33.71481333333334,73.07685666666666,Male,Islamabad,4,0,1013,0
- 177 - Islamabd Model School for Girls ( I-VIII) G-6/2- (Female),33.71481333333334,73.0768866666667,Female,Islamabad,0,3,0,912
- 178 - Islamabad College for Boys- G-6/3   ( Male),33.71647166666666,73.09442833333333,Male,Islamabad,4,0,1263,0
- 179 - Islamabad  College for Boys- G-6/3-   (Female),33.71647166666666,73.0944583333333,Female,Islamabad,0,4,0,1260
- 180 - Mohsin Murtaza Shaheed Model School for Boys (VI-X)- G-6/4  ( Male),33.71647166666666,73.0944883333333,Male,Islamabad,4,0,1186,0
- 181 - Mohsin Murtaza Shaheed Model School for Boys (VI-X)- G-6/4 ( Female),33.71647166666666,73.0945183333333,Female,Islamabad,0,4,0,1146
- 126 - Islamabad Model College for Girls No.1 (Post Graduate) F-7/4 (Male),33.716544,73.0697276,Male,Islamabad,3,0,766,0
- 127 - Islamabad Model College for Girls No.1 (Post Graduate) F-7/4 (Female),33.716544,73.0697576,Female,Islamabad,0,3,0,656
- 173 - Islamabad Model School for Girlsl-(VI-X)   G-6/2. (Male),33.71671666666667,73.08264666666668,Male,Islamabad,3,0,743,0
- 174 - Islamabad Model School for Girlsl-(VI-X) G-6/2. (Female),33.71671666666667,73.0826766666667,Female,Islamabad,0,3,0,680
- 175 - Islamabad Model School for Girlsl-(VI-X) G-6/2. (Combined),33.71671666666667,73.0827066666667,Combined,Islamabad,2,2,717,619
- 111 - Islambad Model school ( I -V)     F-6/4.(Male),33.717355,73.07863333333333,Male,Islamabad,4,0,1272,0
- 112 - Islambad Model school ( I -V)   F-6/4.(Female),33.717355,73.0786633333333,Female,Islamabad,0,4,0,1150
- 122 - Islamabad Model School  (I-V)- F-6/4. (Male),33.717355,73.0786933333333,Male,Islamabad,2,0,451,0
- 123 - Islamabad Model School  (I-V)- F-6/4. (Female),33.717355,73.0787233333333,Female,Islamabad,0,2,0,390
- 130 - Islamabad Model College  for Boys  F-7/3 (Male),33.7212348,73.0679359,Male,Islamabad,4,0,1136,0
- 131 - Islamabad Model College  for Boys  F-7/3 (Female),33.7212348,73.0679659,Female,Islamabad,0,4,0,1144
- 132 - Islamabad Model College  for Girls (Post Graduate)  F-7/2 (Male),33.7212348,73.0679959,Male,Islamabad,3,0,813,0
- 133 - Islamabad Model College  for Girls (Post Graduate)  F-7/2 (Female),33.7212348,73.0680259,Female,Islamabad,0,3,0,807
- 118 - Islamabad Model School  (I-V)- F-6/1. (Male),33.72437,73.07315,Male,Islamabad,4,0,1052,0
- 119 - Islamabad Model School  (I-V)- F-6/1. (Female),33.72437,73.07318,Female,Islamabad,0,3,0,997
- 63 - Islamabad Model School for Boys (I-VIII) Dhoke Jerrrani (Male),33.7259,73.17173,Male,Islamabad,3,0,766,0
- 64 - Islamabad Model School for Boys (I-VIII) Dhoke Jerrrani (Female),33.7259,73.17176,Female,Islamabad,0,3,0,693
- 65 - Islamabad Model School for Boys (I-VIII) Dhoke Jerrrani (Combined),33.7259,73.17179,Combined,Islamabad,2,2,640,534
- 120 - Islamabad Model School For Girls (VI-X)- F-6/1. (Male),33.726683333333334,73.07771833333332,Male,Islamabad,4,0,1043,0
- 121 - Islamabad Model School For Girls (VI-X)-   F-6/1. (Female),33.726683333333334,73.0777483333333,Female,Islamabad,0,4,0,987
- 158 - Basit Ali Shaheed Model School for Boys (I-VIII)- Malpur (Male),33.7280732,73.1424546,Male,Islamabad,3,0,763,0
- 159 - Basit Ali Shaheed Model School for Boys (I-VIII)- Malpur (Female),33.7280732,73.1424846,Female,Islamabad,0,3,0,685
- 113 - Islamabad Model College for Girls- Street No 25-  F-6/2. (Male),33.72905,73.06606,Male,Islamabad,3,0,722,0
- 114 - Islamabad Model College for Girls- Street No 25- F-6/2. (female),33.72905,73.06609,Female,Islamabad,0,3,0,725
- 149 - Islamabad Model School for Girls G-5- (Male),33.72919,73.11404,Male,Islamabad,3,0,774,0
- 150 - Islamabad Model School for Girls G-5- (Female),33.72919,73.11407,Female,Islamabad,0,3,0,673
- 271 - Islamabad Model School for Girls (VI-X)  G-9/4 (Male),33.72939,73.09315,Male,Islamabad,3,0,915,0
- 272 - Islamabad Model School for Girls (VI-X)  G-9/4 (Female),33.72939,73.09318,Female,Islamabad,0,3,0,872
- 273 - Islamabad Model School for Girls (VI-X)  G-9/4 (Combined),33.72939,73.09321,Combined,Islamabad,2,2,465,442
- 156 - Islamabad Model College for Girls Malpur  (Male),33.7298387,73.1469462,Male,Islamabad,3,0,887,0
- 157 - Islamabad Model College for Girls Malpur  (Female),33.7298387,73.1469762,Female,Islamabad,0,3,0,894
- 115 - Nangial Tariq Shaheed ModelSchool for Boys (VI-X)- F-6/2- No. 8. (Male),33.72996666666666,73.07011333333334,Male,Islamabad,4,0,1402,0
- 116 - Nangial Tariq Shaheed ModelSchool for Boys (VI-X)- F-6/2- No. 8 (Female),33.72996666666666,73.0701433333333,Female,Islamabad,0,4,0,1155
- 117 - Nangial Tariq Shaheed ModelSchool for Boys (VI-X)- F-6/2- No. 8. (Combined),33.72996666666666,73.0701733333333,Combined,Islamabad,1,1,151,153
- 154 - Islamabad Model School (I-VIII) Mara Malpur (Male),33.73077,73.14179,Male,Islamabad,3,0,777,0
- 155 - Islamabad Model School (I-VIII) Mara Malpur (Female),33.73077,73.14182,Female,Islamabad,0,3,0,711
- 46 - Islamabad Model School for Girls (I-V) Nain Sukh (Male,33.73167,73.17927,Male,Islamabad,4,0,1044,0
- 47 - Islamabad Model School for Girls (I-V) Nain Sukh (Female),33.73167,73.1793,Female,Islamabad,0,3,0,861
- 93 - Islamabad Model School for Boys (I-V) Athal (Male),33.7336555,73.2107366,Male,Islamabad,4,0,1132,0
- 94 - Islamabad Model School for Boys (I-V) Athal (Female),33.7336555,73.2107666,Female,Islamabad,0,4,0,1009
- 66 - Islamabad Model School for Girls (I-VIII) Mohra Noor (Male),33.7338096,73.2118427,Male,Islamabad,4,0,1316,0
- 67 - Islamabad Model School for Girls(I-VIII) Mohra Noor (Female),33.7338096,73.2118727,Female,Islamabad,0,4,0,1142
- 68 - Azhar Naseer Shaheed Model School for Boys (I-VIII)- Mohra Noor   (Male,33.7338096,73.2119027,Male,Islamabad,3,0,848,0
- 69 - Azhar Naseer Shaheed Model School for Boys (I-VIII)- Mohra Noor   (Female,33.7338096,73.2119327,Female,Islamabad,0,2,0,679
- 70 - Azhar Naseer Shaheed Model School for Boys (I-VIII)- Mohra Noor  (Male),33.7338096,73.2119627,Male,Islamabad,4,0,1094,0
- 71 - Azhar Naseer Shaheed Model School for Boys (I-VIII)- Mohra Noor   (Female,33.7338096,73.2119927,Female,Islamabad,0,3,0,966
- 138 - Usmania Community Technical Model School Muslim Colony-  (Male),33.73444,73.10787499999999,Male,Islamabad,4,0,1045,0
- 139 - Usmania Community Technical Model School Muslim Colony- (Female),33.73444,73.107905,Female,Islamabad,0,3,0,915
- 140 - Usmania Community Technical Model School Muslim Colony- (Combined),33.73444,73.107935,Combined,Islamabad,2,2,576,429
- 306 - Umair Arshad Shaheed Model School for Boys (VI-X)- I-8/4  (Male),33.73503,73.15425,Male,Islamabad,4,0,1163,0
- 307 - Umair Arshad Shaheed Model School for Boys (VI-X)- I-8/4  (Female),33.73503,73.15428,Female,Islamabad,0,3,0,921
- 109 - Islambad Model school ( I -V)   F-6/3.(Male),33.735675,73.07894,Male,Islamabad,3,0,687,0
- 110 - Islambad Model school ( I -V)  F-6/3.(Female,33.735675,73.07897,Female,Islamabad,0,3,0,655
- 48 - Union Council Office near  Patwar Khana  Bhara Kau- (Male),33.73649833333333,73.18974,Male,Islamabad,4,0,1165,0
- 49 - Union Council Office near  Patwar Khana  Bhara Kau- (Female),33.73649833333333,73.18977,Female,Islamabad,0,4,0,975
- 42 - Sohail Aslam Shaheed ModelSchool  for Boys (I-X)- Bhara Kau (Male),33.737485,73.17402333333332,Male,Islamabad,3,0,727,0
- 43 - Sohail Aslam Shaheed Model School for Boys (I-X)- Bhara Kau (Female),33.737485,73.1740533333333,Female,Islamabad,0,2,0,614
- 44 - Sohail Aslam Shaheed ModelSchool  for Boys (I-X)- Bhara Kau (Male),33.737485,73.1740833333333,Male,Islamabad,3,0,920,0
- 45 - Sohail Aslam Shaheed Model School for Boys (I-X)- Bhara Kau (Female),33.737485,73.1741133333333,Female,Islamabad,0,3,0,812
- 36 - Begum Saleem Kiyani IMCB  Bhara Khau Islamabad (Male),33.737545,73.18837166666667,Male,Islamabad,4,0,1255,0
- 37 - Begum Saleem Kiyani IMCB  Bhara Khau Islamabad (Female),33.737545,73.1884016666667,Female,Islamabad,0,4,0,1070
- 38 - Patwar Khana-  Bhara Kahu (Male),33.737808333333334,73.18596,Male,Islamabad,4,0,1363,0
- 39 - Patwar Khana- Bhara Khu- Female,33.737808333333334,73.18599,Female,Islamabad,0,4,0,1123
- 40 - Patwar Khana-  Bhara Kahu (Male),33.737808333333334,73.18602,Male,Islamabad,4,0,1209,0
- 41 - Patwar Khana- Bhara Khu- Female,33.737808333333334,73.18605,Female,Islamabad,0,3,0,974
- 75 - Islamabad Model School for Girls (I-V) Shahpur (Male),33.7384784,73.2015195,Male,Islamabad,4,0,1087,0
- 76 - Islamabad Model School for Girls (I-V) Shahpur (Female),33.7384784,73.2015495,Female,Islamabad,0,4,0,1039
- 100 - Islamabad Model School for Girls (I-X) Saidpur (Male),33.74035,73.06789,Male,Islamabad,3,0,913,0
- 101 - Islamabad Model School for Girls (I-X) Saidpur (Female),33.74035,73.06792,Female,Islamabad,0,3,0,790
- 102 - Islamabad Model School for Girls (I-X) Saidpur (Combined),33.74035,73.06795,Combined,Islamabad,2,2,467,454
- 145 - Rizwan Sarir Shaheed Model School for Boys (VI-X)- Noor Pur Shahan  (Male),33.74153666666667,73.1166,Male,Islamabad,4,0,1093,0
- 146 - Rizwan Sarir Shaheed Model School for Boys (VI-X)- Noor Pur Shahan (Female),33.74153666666667,73.11663,Female,Islamabad,0,4,0,953
- 147 - Rizwan Sarir Shaheed Model School for Boys (VI-X)- Noor Pur Shahan  (Male),33.74153666666667,73.11666,Male,Islamabad,3,0,829,0
- 148 - Rizwan Sarir Shaheed Model School for Boys (VI-X)- Noor Pur Shahan (Female),33.74153666666667,73.11669,Female,Islamabad,0,3,0,650
- 141 - Islambad Model School for Girls- (V I-X) Noorpur Shahan (Male),33.74153666666667,73.11672,Male,Islamabad,4,0,1279,0
- 142 - Islambad Model School for Girls- (V I-X) Noorpur Shahan (Female),33.74153666666667,73.11675,Female,Islamabad,0,3,0,1010
- 79 - Shahzad Ejaz Shaheed Model School for Boys (I-X)- Phulgran  (Male),33.7438347,73.2107366,Male,Islamabad,4,0,947,0
- 80 - Shahzad Ejaz Shaheed Model School for Boys (I-X)- Phulgran  (Female),33.7438347,73.2107666,Female,Islamabad,0,3,0,816
- 81 - Shahzad Ejaz Shaheed Model School for Boys (I-X)- Phulgran  (Male),33.7438347,73.2107966,Male,Islamabad,4,0,996,0
- 82 - Shahzad Ejaz Shaheed Model School for Boys (I-X)- Phulgran  (Female),33.7438347,73.2108266,Female,Islamabad,0,4,0,939
- 98 - Museum(X Mandar- SaidPur-) (Male),33.74466,73.06831,Male,Islamabad,4,0,1072,0
- 99 - Museum(X Mandar- SaidPur-) (Female),33.74466,73.06834,Female,Islamabad,0,4,0,980
- 32 - Educator School (Pvt) (Male),33.74533,73.18952,Male,Islamabad,2,0,523,0
- 33 - Educator School (Pvt) (Female),33.74533,73.18955,Female,Islamabad,0,2,0,453
- 34 - Educator School (Pvt) (Male),33.74533,73.18958,Male,Islamabad,3,0,955,0
- 35 - Educator School (Pvt) (Female),33.74533,73.18961,Female,Islamabad,0,3,0,833
- 61 - Scholar Public School (Pvt)- Kot Hathial (Male),33.74621,73.19112,Male,Islamabad,3,0,828,0
- 62 - Scholar Public School (Pvt)- Kot Hathial (Female),33.74621,73.19115,Female,Islamabad,0,2,0,688
- 143 - Imran Ali Shaheed Model School for Boys (I-V)- Noorpur Shahan (Male),33.74622,73.10672333333333,Male,Islamabad,3,0,815,0
- 144 - Imran Ali Shaheed Model School for Boys (I-V)- Noorpur Shahan (Female),33.74622,73.1067533333333,Female,Islamabad,0,3,0,706
- 153 - Islamabad Model school for  Boys (I-V)- Noorpur Shahan. (Combined),33.74622,73.1067833333333,Combined,Islamabad,1,1,252,178
- 151 - Islamabad Model School for  Girls (I-X )- University Colony. (Male),33.74625833333334,73.12761666666667,Male,Islamabad,4,0,1328,0
- 152 - Islamabad Model School for  Girls (I-X )- University Colony. (Female),33.74625833333334,73.1276466666667,Female,Islamabad,0,4,0,1180
- 136 - Sultan Model School (Pvt)- Mohalla Haveli Noor Pur Shahan (Male),33.74669,73.10942,Male,Islamabad,4,0,1322,0
- 135 - The EFA School System Near Masjid Husnain Karimain Noor Pur Shahan(Female),33.74693,73.10933,Female,Islamabad,0,2,0,633
- 137 - The EFA School System Near Masjid Husnain Karimain Noor Pur Shahan (Female),33.74693,73.10936,Female,Islamabad,0,4,0,1139
- 134 - Asif Public School PVT- (Male),33.74715,73.11006,Male,Islamabad,3,0,744,0
- 83 - Islamabad Model School for Girls  (I-X) Phulgran (Male),33.7481877,73.2160105,Male,Islamabad,3,0,791,0
- 84 - Islamabad Model School for Girls  (I-X) Phulgran (Female),33.7481877,73.2160405,Female,Islamabad,0,3,0,735
- 85 - Islamabdad Model School for Girls(I-X)-Phulgran (Male),33.7481877,73.2160705,Male,Islamabad,4,0,1172,0
- 86 - Islamabdad Model School for Girls(I-X)-Phulgran (Female),33.7481877,73.2161005,Female,Islamabad,0,4,0,1005
- 50 - Islamabad Model School for Girls (I-VIII) Kot Hathial    (Male),33.74935666666667,73.168655,Male,Islamabad,4,0,1142,0
- 51 - Islamabad Model School for Girls (I-VIII) Kot Hathial -Female,33.74935666666667,73.168685,Female,Islamabad,0,3,0,951
- 52 - Islamabad Model School for Girls (I-VIII) Kot Hathial    (Male),33.74935666666667,73.168715,Male,Islamabad,4,0,1044,0
- 53 - Islamabad Model School for Girls (I-VIII) Kot Hathial -Female,33.74935666666667,73.168745,Female,Islamabad,0,3,0,920
- 30 - Yasir Iqbal Shaheed Model School for Boys (I-VIII)- Kot Hathial (Nai Abadi) (Male),33.75034,73.17992666666667,Male,Islamabad,3,0,970,0
- 31 - Yasir Iqbal Shaheed Model School for Boys (I-VIII)- Kot Hathial (Nai Abadi) (Female),33.75034,73.1799566666667,Female,Islamabad,0,3,0,885
- 58 - Muhammad Waqar Shaheed Model School for Boys (I-V)- Kot Hathial- Qaziabad (Male),33.75114,73.18948,Male,Islamabad,4,0,1532,0
- 59 - Muhammad Waqar Shaheed Model School for Boys (I-V)- Kot Hathial- Qaziabad (Female),33.75114,73.18951,Female,Islamabad,0,4,0,1237
- 60 - Muhammad Waqar Shaheed Model School for Boys (I-V)- Kot Hathial- Qaziabad (Combined),33.75114,73.18954,Combined,Islamabad,2,2,457,378
- 54 - Islamabad Model School for Boys- (I-V)- New Mangyal (Male),33.75569,73.18064,Male,Islamabad,3,0,904,0
- 55 - Islamabad Model School for Boys- (I-V)- New Mangyal (Female),33.75569,73.18067,Female,Islamabad,0,3,0,858
- 56 - Islamabad Model School for Boys- (I-V)- New Mangyal (Male),33.75569,73.1807,Male,Islamabad,4,0,1546,0
- 57 - Islamabad Model School for Boys- (I-V)- New Mangyal (Female),33.75569,73.18073,Female,Islamabad,0,4,0,1191
- 77 - Islamabad Model School for Boys (I-VIII) Satra Meel (Male),33.765205,73.22020166666667,Male,Islamabad,4,0,1361,0
- 78 - Islamabad Model School for Boys (I-VIII) Satra Meel (Female),33.765205,73.2202316666667,Female,Islamabad,0,4,0,1128
- 107 - Daud Shaheed Model School for Boys (I-X)- Talhar (Male),33.76629,73.05777,Male,Islamabad,4,0,1124,0
- 72 - Islamabad Model School for Girls (I-VIII) Mandla (Combined),33.76643,73.17518,Combined,Islamabad,2,2,513,465
- 96 - Islamabad Model School for Girls (I-VIII) Bobri (Male),33.76848,73.25777,Male,Islamabad,3,0,825,0
- 97 - Islamabad Model School for Girls (I-VIII) Bobri (Female),33.76848,73.2578,Female,Islamabad,0,3,0,678
- 103 - Islamabad Model School for Boys Gokina (Male),33.77372,73.07465,Male,Islamabad,3,0,727,0
- 104 - Islamabad Model School for Boys Gokina (Female),33.77372,73.07468,Female,Islamabad,0,3,0,700
- 105 - Islamabad Model School for Girls (I-X) Gokina (Male,33.7753,73.07623,Male,Islamabad,3,0,802,0
- 106 - Islamabad Model School for Girls (I-X) Gokina (Female),33.7753,73.07626,Female,Islamabad,0,3,0,741
- 95 - Adil Shehzad Shaheed Model School for Boys (I-X)- Chattar (COMBINED),33.776215,73.24736833333333,Combined,Islamabad,2,2,562,490
- 73 - Islamabad Model School for Boys (I-X) Shadara (Male),33.78161,73.1729,Male,Islamabad,4,0,1075,0
- 74 - Islamabad Model School for Boys (I-X) Shadara (Female),33.78161,73.17293,Female,Islamabad,0,4,0,993
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+22,The Gardian School West Service Road New Shakrial (Male),33.63956,73.10809,Male,Islamabad,4,0,1156,0
+23,The Gardian School West Service Road New Shakrial (Female),33.63956,73.10812,Female,Islamabad,0,3,0,832
+24,The Gardian School West Service Road New Shakrial (Male),33.63956,73.10815,Male,Islamabad,4,0,1183,0
+25,The Gardian School West Service Road New Shakrial (Female),33.63956,73.10818,Female,Islamabad,0,3,0,927
+20,Haider Amin Shaheed Model School for Boys (I-X)- Khanna Nai Abadi (Male),33.6429536,73.1107314,Male,Islamabad,3,0,899,0
+21,Haider Amin Shaheed Model School for Boys (I-X)- Khanna Nai Abadi(Female),33.6429536,73.1107614,Female,Islamabad,0,3,0,698
+19,Islamabad Model School for Girls  (I-X) New Shakrial   (Female),33.6432003,73.1132463,Female,Islamabad,0,2,0,426
+16,Islamabad Model School for Girls   (I-X) New Shakrial (Male),33.6432003,73.1132763,Male,Islamabad,4,0,1150,0
+17,Islamabad Model School for Girls   (I-X) New Shakrial (Female),33.6432003,73.1133063,Female,Islamabad,0,3,0,838
+18,Islamabad Model School for Girls  (I-X) New Shakrial   (Male),33.6432003,73.1133363,Male,Islamabad,2,0,581,0
+26,Islamabad Model School for Boys  (I-X) Khana New Abdi- (Male),33.64393,73.1112,Male,Islamabad,4,0,1304,0
+27,Islamabad Model School for Boys  (I-X) Khana New Abdi- (Female),33.64393,73.11123,Female,Islamabad,0,2,0,960
+28,Islamabad Model School for Boys  (I-X) Khana New Abdi- (Male),33.64393,73.11126,Male,Islamabad,3,0,691,0
+29,Islamabad Model School for Boys  (I-X) Khana New Abdi-(Female),33.64393,73.11129,Female,Islamabad,0,3,0,551
+320,Islamabad Model School  (I-V) No-2  I-9/1 (Male),33.6521,73.05315,Male,Islamabad,4,0,1155,0
+321,Islamabad Model School  (I-V) No-2  I-9/1 (Female),33.6521,73.05318,Female,Islamabad,0,4,0,1102
+322,Islamabad Model School- (I-V)- No-2- I-9/1- (Male),33.6521,73.05321,Male,Islamabad,2,0,575,0
+323,Islamabad Model School- (I-V)- No-2- I-9/1- (Female),33.6521,73.05324,Female,Islamabad,0,2,0,578
+324,Islamabad Model College For Girls (VI-XII)   I-9/1 (Male),33.65273,73.05284,Male,Islamabad,4,0,1230,0
+325,Islamabad Model College For Girls (VI-XII)   I-9/1 (Female),33.65273,73.05287,Female,Islamabad,0,4,0,1055
+14,Usama Tahir Shaheed Model College for Boys (I-XII)- Jaba Tali (Male),33.6529158,73.1380953,Male,Islamabad,4,0,1377,0
+15,Usama Tahir Shaheed Model College for Boys (I-XII)- Jaba Tali (Female),33.6529158,73.1381253,Female,Islamabad,0,3,0,1228
+13,Al-Uswa Model School New Sohan (Female),33.65401,73.11061,Female,Islamabad,0,2,0,736
+10,Islamabad Model School for Girls  (I-VIII) Sohan  (Female),33.6546982,73.1116528,Female,Islamabad,0,1,0,421
+7,Islamabad Model School for Girls  (I-VIII) Sohan  (Male),33.6546982,73.1116828,Male,Islamabad,4,0,987,0
+8,Islamabad Model School for Girls  (I-VIII) Sohan  (Female),33.6546982,73.1117128,Female,Islamabad,0,3,0,844
+9,Islamabad Model School for Girls  (I-VIII) Sohan  (Male),33.6546982,73.1117428,Male,Islamabad,3,0,1520,0
+5,Yaseen Shaheed Model School for Boys (I-V)- Sohan- (Male),33.6549411,73.0967863,Male,Islamabad,4,0,1434,0
+6,Yaseen Shaheed Model School for Boys (I-V)- Sohan (Female),33.6549411,73.0968163,Female,Islamabad,0,4,0,1224
+312,Usama Bin Tariq Shaheed Model School for Boys (VI-X)- I-9/4- No.1 (Male),33.6560728,73.063125,Male,Islamabad,4,0,1192,0
+313,Usama Bin Tariq Shaheed Model School for Boys (VI-X)- I-9/4- No.1 (Female),33.6560728,73.063155,Female,Islamabad,0,4,0,1115
+316,Islamabad Model School For Girls (VI-X)  I-9/4 (Combined),33.65639,73.06068,Combined,Islamabad,2,2,412,370
+11,Al-Raza Public School Sohan (Male),33.65663,73.10892,Male,Islamabad,4,0,1259,0
+12,Al-Raza Public School Sohan (Female),33.65663,73.10895,Female,Islamabad,0,3,0,947
+317,Islamabad Model School No.1  (I-V)   I-9/4 (Male),33.657289,73.0649259,Male,Islamabad,4,0,1151,0
+318,Islamabad Model School No.1  (I-V)   I-9/4 (Female),33.657289,73.0649559,Female,Islamabad,0,4,0,1031
+319,Islamabad Model School No.1  (I-V)   I-9/4 (Combined),33.657289,73.0649859,Combined,Islamabad,2,2,447,412
+314,Maher Ali Azam Shaheed Model School for Boys (VI-X)- I-9/4- No.2 (Male),33.65776,73.06151,Male,Islamabad,3,0,895,0
+315,Maher Ali Azam Shaheed Model School for Boys (VI-X)- I-9/4- No.2 (Female),33.65776,73.06154,Female,Islamabad,0,3,0,771
+301,Yasirullah Shaheed Model School for Boys (I-VIII)- I-8/1  (Combined),33.65924,73.07103,Combined,Islamabad,1,1,347,297
+1,The Message School Sohan Islamabad   (Male),33.6600521,73.0984786,Male,Islamabad,4,0,1186,0
+2,The Message School Sohan Islamabad  (Female),33.6600521,73.0985086,Female,Islamabad,0,3,0,923
+3,The Message School Sohan Islamabad   (Male),33.6600521,73.0985386,Male,Islamabad,2,0,554,0
+4,The Message School Sohan Islamabad  (Female),33.6600521,73.0985686,Female,Islamabad,0,2,0,477
+302,Islamabad Model College  for Girls  I-8/4 (Male),33.6618235,73.0690276,Male,Islamabad,3,0,867,0
+303,Islamabad Model College  for Girls  I-8/4 (Female),33.6618235,73.0690576,Female,Islamabad,0,3,0,748
+304,Islamabad Model College  for Girls  I-8/4 (Male),33.6618235,73.0690876,Male,Islamabad,4,0,980,0
+305,Islamabad Model College  for Girls  I-8/4 (Female,33.6618235,73.0691176,Female,Islamabad,0,4,0,1030
+308,Islamabad Model School  for Girls (VI-X) I-8/1 (Male),33.66307,73.07083,Male,Islamabad,3,0,821,0
+309,Islamabad Model School  for Girls (VI-X) I-8/1 (Female),33.66307,73.07086,Female,Islamabad,0,3,0,715
+310,Islamabad Model School  for Girls (VI-X) I-8/1 (Male),33.66307,73.07089,Male,Islamabad,4,0,1352,0
+311,Islamabad Model School  for Girls (VI-X) I-8/1 (Female),33.66307,73.07092,Female,Islamabad,0,4,0,1301
+293,Islamabad Model College for Girls I-8/2 - (Male),33.66556,73.06831,Male,Islamabad,4,0,1106,0
+294,Islamabad Model College for Girls I-8/2 - (Female),33.66556,73.06834,Female,Islamabad,0,4,0,1066
+295,Islamabad Model College for Girls I-8/2 - (Male),33.66556,73.06837,Male,Islamabad,2,0,611,0
+296,Islamabad Model College for Girls I-8/2 - (Female),33.66556,73.0684,Female,Islamabad,0,2,0,705
+165,Islamabad Model School for Girls(I-X) Rawal Town (Male),33.6670443,73.1056388,Male,Islamabad,4,0,968,0
+166,Islamabad Model School for Girls  (I-X) Rawal Town (Female),33.6670443,73.1056688,Female,Islamabad,0,3,0,863
+167,Islamabad Model School for Girls (I-X) Rawal Town (Male),33.6670443,73.1056988,Male,Islamabad,4,0,1134,0
+168,Islamabad Model School for Girls (I-X) Rawal Town (Female),33.6670443,73.1057288,Female,Islamabad,0,4,0,1027
+160,Islamabad Model College for Girls Margalla Town.(Male),33.6700633,73.105685,Male,Islamabad,4,0,1418,0
+161,Islamabad Model College for Girls Margalla Town.(Female),33.6700633,73.105715,Female,Islamabad,0,4,0,1219
+162,Islamabad Model College for Girls Margalla Town.(Combined),33.6700633,73.105745,Combined,Islamabad,2,2,852,812
+297,Islamabad Model College for Boys I-8/3 (Male),33.67188,73.07408,Male,Islamabad,4,0,1235,0
+298,Islamabad Model College for Boys I-8/3 (Female),33.67188,73.07411,Female,Islamabad,0,4,0,1216
+299,Islamabad Model College for Boys I-8/3 (Male),33.67188,73.07414,Male,Islamabad,4,0,1194,0
+300,Islamabad Model College for Boys I-8/3 (Female),33.67188,73.07417,Female,Islamabad,0,4,0,1176
+87,Fahad Ahmed Shaheed Model School College For Boys- Chakshahzad  (Male),33.67969,73.14201,Male,Islamabad,3,0,986,0
+88,Fahad Ahmed Shaheed Model School College For Boys- Chakshahzad  (Male),33.67969,73.14204,Male,Islamabad,3,0,986,0
+89,Fahad Ahmed Shaheed Model School College For Boys-Chakshahzad  (Female),33.67969,73.14207,Female,Islamabad,0,3,0,924
+90,Fahad Ahmed Shaheed Model School College For Boys-Chakshahzad  (Female),33.67969,73.1421,Female,Islamabad,0,3,0,925
+91,Fahad Ahmed Shaheed Model School College For Boys-Chakshahzad  (Female),33.67969,73.14213,Male,Islamabad,3,0,969,0
+92,Fahad Ahmed Shaheed Model School College For Boys-Chakshahzad  (Female),33.67969,73.14216,Female,Islamabad,0,3,0,838
+281,Islamabad Model School (I-V) No 10- G-9/1 (Male),33.6797,73.02977,Male,Islamabad,4,0,1158,0
+282,Islamabad Model School (I-V) No 10- G-9/1 (Female),33.6797,73.0298,Female,Islamabad,0,3,0,1100
+283,Islamabad Model School (I-V)  No 10- G-9/1 (Male),33.6797,73.02983,Male,Islamabad,3,0,733,0
+284,Islamabad Model School (I-V) l No 10- G-9/1 (Female,33.6797,73.02986,Female,Islamabad,0,3,0,688
+291,Islamabad Model School- (I-V)- AIOU- Colony H-8 (Male),33.68123,73.05309,Male,Islamabad,3,0,693,0
+292,Islamabad Model School- (I-V)- AIOU- Colony H-8 (Female),33.68123,73.05312,Female,Islamabad,0,2,0,491
+274,Islamabad Model School  (I-V)  No.1 G-9/4 (Male),33.68413,73.03856,Male,Islamabad,3,0,845,0
+275,Islamabad Model School  (I-V)  No.1 G-9/4 (Female),33.68413,73.03859,Female,Islamabad,0,3,0,878
+276,Islamabad Model School  (I-V)  No.1 G-9/4 (Combined),33.68413,73.03862,Combined,Islamabad,2,2,486,426
+285,Islamabad Model School (I-V) No.3 G-9/2 (Male),33.68413,73.03865,Male,Islamabad,4,0,1085,0
+286,Islamabad Model School (I-V) No.3 G-9/2 (Female,33.68413,73.03868,Female,Islamabad,0,3,0,931
+287,Islamabad Model School (I-V) No.3 G-9/2 (Male),33.68413,73.03871,Male,Islamabad,4,0,1125,0
+288,Islamabad Model School (I-V) No.3 G-9/2 (Female),33.68413,73.03874,Female,Islamabad,0,4,0,979
+277,Islamabad Model School  for Girls (I-X)  G-9/1 (Male),33.68534,73.03151,Male,Islamabad,3,0,785,0
+278,Islamabad Model School  for Girls (I-X)  G-9/1 (Female),33.68534,73.03154,Female,Islamabad,0,3,0,801
+279,Islamabad Model School  for Girls (I-X)  G-9/1 (Male),33.68534,73.03157,Male,Islamabad,4,0,1141,0
+280,Islamabad Model School  for Girls (I-X)  G-9/1 (Female),33.68534,73.0316,Female,Islamabad,0,4,0,1078
+269,Adnan Hussain Shaheed Model School for Boys (VI-XII)- G-9/4  (Male),33.6885,73.03756,Male,Islamabad,4,0,1104,0
+270,Adnan Hussain Shaheed Model School for Boys (VI-XII)- G-9/4  (female),33.6885,73.03759,Female,Islamabad,0,4,0,1045
+251,Islamabad Model School  (I-V) No.3 G-8/1 (Male),33.68885,73.04938,Male,Islamabad,4,0,1277,0
+252,Islamabad Model School  (I-V) No.3 G-8/1 (Female),33.68885,73.04941,Female,Islamabad,0,4,0,1109
+289,Islamabad Model College for Girls (VI-XII)  G-9/2 (Male),33.68889,73.02595,Male,Islamabad,3,0,928,0
+290,Islamabad Model College for Girls (VI-XII)  G-9/2 (Female),33.68889,73.02598,Female,Islamabad,0,3,0,725
+253,Islamabad Model School  (I-V) No.4 G-9/2 (Male),33.68949,73.02448,Male,Islamabad,4,0,1144,0
+254,Islamabad Model School  (I-V) No.4 G-9/2 (Female),33.68949,73.02451,Female,Islamabad,0,4,0,996
+255,Islamabad Model School  (I-V) No.4 G-9/2 (Male),33.68949,73.02454,Male,Islamabad,3,0,906,0
+256,Islamabad Model School  (I-V) No.4 G-9/2 (Female),33.68949,73.02457,Female,Islamabad,0,3,0,833
+249,Islamabad Model School  (I-V) No.2 G-8/1 (Male),33.68956,73.04542,Male,Islamabad,4,0,1044,0
+250,Islamabad Model School  (I-V) No.2 G-8/1 (Female),33.68956,73.04545,Female,Islamabad,0,3,0,922
+234,Islamabad Model School   (I-V)  No.1 G-8/2 (Male),33.68956,73.04543,Male,Islamabad,3,0,810,0
+235,Islamabad Model School   (I-V)  No.1 G-8/2 (Female),33.68956,73.04546,Female,Islamabad,0,3,0,795
+163,Office of the Inspector Electronic Rawal Dam(Combined),33.69043,73.11768,Combined,Islamabad,2,1,438,354
+245,Shamowail Tariq Shaheed ModelSchool for Boys (VI-X)- G-8/1 (Male),33.69076,73.04736,Male,Islamabad,3,0,650,0
+246,Shamowail Tariq Shaheed Model School for Boys (VI-X)- G-8/1  (Female),33.69076,73.04739,Female,Islamabad,0,2,0,480
+247,Shamowail Tariq Shaheed Model School for Boys (VI-X)- G-8/1 (Male),33.69076,73.04742,Male,Islamabad,3,0,942,0
+248,Shamowail Tariq Shaheed Model School for Boys (VI-X)- G-8/1 (Female),33.69076,73.04745,Female,Islamabad,0,3,0,816
+263,Islamabad Model School for Girls (VI-X)  G-9/3 (Male),33.69081,73.03742,Male,Islamabad,3,0,886,0
+264,Islamabad Model School for Girls (VI-X)  G-9/3 (Female),33.69081,73.03745,Female,Islamabad,0,3,0,625
+265,Islamabad Model School for Girls (VI-X)  G-9/3 (Male),33.69081,73.03748,Male,Islamabad,4,0,1105,0
+266,Islamabad Model School for Girls (VI-X)  G-9/3 (Female),33.69081,73.03751,Female,Islamabad,0,4,0,1079
+261,Islamabad Model School (I-V) No.1 G-9/2(Male),33.69086,73.02737,Male,Islamabad,4,0,1055,0
+262,Islamabad Model School (I-V) No.1 G-9/2(Female),33.69086,73.0274,Female,Islamabad,0,4,0,979
+164,Waseem Iqbal Shaheed Model School for Boys (VI-X)- Rawal Dam (Combined),33.69119,73.11591,Combined,Islamabad,1,1,174,153
+257,Islamabad Model School (I-V) No.2 G-9/2 (Male),33.69127,73.03407,Male,Islamabad,4,0,1010,0
+258,Islamabad Model School (I-V) No.2 G-9/2 (Female),33.69127,73.0341,Female,Islamabad,0,3,0,829
+259,Islamabad Model School (I-V) No.2 G-9/2 (Male),33.69127,73.03413,Male,Islamabad,3,0,704,0
+260,Islamabad Model School (I-V) No.2 G-9/2 (Female),33.69127,73.03416,Female,Islamabad,0,2,0,577
+267,Islamabad Model School  (I-V)  No.2 G-9/3 (Male),33.69127,73.03419,Male,Islamabad,4,0,1203,0
+268,Islamabad Model School  (I-V)  No.2 G-9/3 (Female),33.69127,73.03422,Female,Islamabad,0,4,0,1159
+241,Islamabad Model School.for Girls (I-VIII)- G-8/4-( Male),33.69416,73.05882,Male,Islamabad,3,0,704,0
+242,Islamabad Model School.for Girls (I-VIII)- G-8/4- (Female),33.69416,73.05885,Female,Islamabad,0,3,0,647
+230,Islamabad Model School  for Girls (VI-X)  G-8/2 (Male),33.6954,73.04591,Male,Islamabad,4,0,1045,0
+231,Islamabad Model School  for Girls (VI-X)  G-8/2 (Female),33.6954,73.04594,Female,Islamabad,0,3,0,955
+232,Islamabad Model School  for Girls (VI-X)  G-8/2 (Male),33.6954,73.04597,Male,Islamabad,3,0,798,0
+233,Islamabad Model School  for Girls (VI-X)  G-8/2 (Female),33.6954,73.046,Female,Islamabad,0,3,0,774
+239,Islamabad Model College for Girls (VI-XII) G-8/4 (Male),33.69567,73.05738,Male,Islamabad,4,0,1220,0
+240,Islamabad Model College for Girls (VI-XII) G-8/4 (Female),33.69567,73.05741,Female,Islamabad,0,3,0,902
+237,Islamabad Model School  (I-V)  No.1 G-8/4 (Male),33.69728,73.05968,Male,Islamabad,4,0,1231,0
+238,Islamabad Model School  (I-V)  No.1 G-8/4 (Female),33.69728,73.05971,Female,Islamabad,0,3,0,1016
+226,Islamabad Model School  for Girls (VI-X)  G-7/1 (Male),33.70213,73.07029,Male,Islamabad,4,0,1371,0
+227,Islamabad Model School  for Girls (VI-X)  G-7/1 (Female),33.70213,73.07032,Female,Islamabad,0,4,0,1115
+228,Islamabad Model School  for Girls (VI-X)  G-7/1 (Male),33.70213,73.07035,Male,Islamabad,4,0,1498,0
+229,Islamabad Model School  for Girls (VI-X)  G-7/1 (Female),33.70213,73.07038,Female,Islamabad,0,4,0,1292
+236,School of Nursing PIMS- G-8/3- (Combined),33.70378,73.04905,Combined,Islamabad,2,2,587,483
+199,Islamabad Model School (I-V) No.2 G-7/2  (Male),33.7040735,73.06271,Male,Islamabad,3,0,1032,0
+200,Islamabad Model School (I-V) No.2 G-7/2 (Female),33.7040735,73.06274,Female,Islamabad,0,3,0,881
+201,Islamabad Model School (I-V) No.2 G-7/2 (Combined),33.7040735,73.06277,Combined,Islamabad,2,1,384,321
+243,Academy for Educational Planning Management G-8/1 (Male),33.70437,73.03917,Male,Islamabad,4,0,1086,0
+244,Academy for Educational Planning Management G-8/1 (Female),33.70437,73.0392,Female,Islamabad,0,3,0,968
+218,Tanveer Hussain Shaheed Model College for Boys (VI-XII)- G-7/4  (Male),33.704724715353144,73.07290759527021,Male,Islamabad,3,0,781,0
+219,Tanveer Hussain Shaheed Model College for Boys (VI-XII)- G-7/4  (Female),33.704724715353144,73.0729375952702,Female,Islamabad,0,2,0,625
+204,Islamabad Model School for Girls (VI-X)  G-7/2 (Combined),33.7059,73.06377,Combined,Islamabad,2,1,423,312
+190,Islamabad Model School  (I-V)-   G-6/1-1- (Male),33.70710333333333,73.08195333333333,Male,Islamabad,3,0,671,0
+191,Islambad Model  School (I-V) G-6/1-1  (Female),33.70710333333333,73.0819833333333,Female,Islamabad,0,2,0,595
+195,Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2 (Male),33.70802816486411,73.0590614330042,Male,Islamabad,4,0,1006,0
+196,Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2 (Female),33.70802816486411,73.0590914330042,Female,Islamabad,0,3,0,948
+197,Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2 (Male),33.70802816486411,73.0591214330042,Male,Islamabad,3,0,895,0
+198,Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2  (Female),33.70802816486411,73.0591514330042,Female,Islamabad,0,2,0,830
+205,Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2 (Male),33.70802816486411,73.0591814330042,Male,Islamabad,3,0,1028,0
+206,Shaifq ur Rehman Shaheed Model College for Boys (VI-XIII)- G-7/2 (Female),33.70802816486411,73.0592114330042,Female,Islamabad,0,3,0,928
+213,Khushnood Zeb Shaheed Model School for Boys (VI-X)- G-7/3-1 (Male),33.70885372652193,73.07107230414229,Male,Islamabad,4,0,1236,0
+214,Khushnood Zeb Shaheed Model School for Boys (VI-X)- G-7/3-1 (Female),33.70885372652193,73.0711023041423,Female,Islamabad,0,4,0,1049
+215,Khushnood Zeb Shaheed Model School for Boys (VI-X)- G-7/3-1  (Combined),33.70885372652193,73.0711323041423,Combined,Islamabad,2,2,746,627
+222,Islamabad Model School  (I-V)  G-7/4 (Male),33.70896,73.07471,Male,Islamabad,4,0,996,0
+223,Islamabad Model School  (I-V)  G-7/4 (Female),33.70896,73.07474,Female,Islamabad,0,3,0,886
+224,Islamabad Model School  (I-V)  G-7/4 (Male),33.70896,73.07477,Male,Islamabad,4,0,1169,0
+225,Islamabad Model School  (I-V)  G-7/4 (Female),33.70896,73.0748,Female,Islamabad,0,3,0,894
+192,Islamabad Model School- (I-V)  G-6/1-4-  (Male),33.709195,73.08630333333333,Male,Islamabad,4,0,976,0
+193,Islamabad Model School- (I-V)  G-6/1-4- (Female),33.709195,73.0863333333333,Female,Islamabad,0,3,0,804
+194,Islamabad Model School- (I-V)  G-6/1-4-  (Combined),33.709195,73.0863633333333,Combined,Islamabad,2,2,625,587
+210,Islamabad Model School for Girls (I-VIII)  G-7/3-2 (Female),33.709885838140835,73.06627861142644,Female,Islamabad,0,2,0,627
+207,Islamabad Model School for Girls (I-VIII)  G-7/3-2 (Male),33.70994544458075,73.06622829186067,Male,Islamabad,4,0,1118,0
+209,Islamabad Model School for Girls (I-VIII)  G-7/3-2 (Male),33.70994544458075,73.0662582918607,Male,Islamabad,3,0,772,0
+208,Islamabad Model School for Girls (I-VIII)  G-7/3-2 (Female),33.70997976455133,73.06625312544045,Female,Islamabad,0,4,0,1104
+182,Islamabd  Model School  (I-V) G-6/1-2 -( Male,33.71008666666667,73.08037166666666,Male,Islamabad,4,0,1151,0
+183,Islamabd  Model School     (I-V).G-6/1-2 - (Female),33.71008666666667,73.0804016666667,Female,Islamabad,0,4,0,1022
+184,Islamabd  Model School     (I-V).G-6/1-2 - (Combined),33.71008666666667,73.0804316666667,Combined,Islamabad,2,2,573,517
+189,Islamabad Model College for  Girls - G-6/1-4 - (Female),33.71012333333333,73.08463666666667,Female,Islamabad,0,3,0,941
+188,Islamabad Model College for  Girls-   G-6/1-4 (Male),33.71012333333333,73.0846666666667,Male,Islamabad,4,0,1044,0
+169,Ali Abbas Shaheed Model College for Boys (VI-XII)- G-6/2(Male),33.71071833333333,73.07837500000001,Male,Islamabad,4,0,1144,0
+170,Ali Abbas Shaheed Model College for Boys (VI-XII)- G-6/2(Female),33.71071833333333,73.078405,Female,Islamabad,0,4,0,1022
+171,Ali Abbas Shaheed Model School for Boys (VI-XII)- G-6/2 (Male),33.71071833333333,73.078435,Male,Islamabad,3,0,922,0
+172,Ali Abbas Shaheed Model School for Boys (VI-XII)- G-6/2 (Female),33.71071833333333,73.078465,Female,Islamabad,0,3,0,904
+216,Islamabad Model School  for Girls (I-VIII)  G-7/3-4 (Male),33.71142,73.07323,Male,Islamabad,4,0,1252,0
+217,Islamabad Model School  for Girls (I-VIII)  G-7/3-4 (Female),33.71142,73.07326,Female,Islamabad,0,4,0,1142
+124,Islamabad Model School for Girls (I-VIII) F-7/1 (Male),33.7116869,73.0393426,Male,Islamabad,4,0,1092,0
+125,Islamabad Model School for Girls (I-VIII) F-7/1 (Female),33.7116869,73.0393726,Female,Islamabad,0,4,0,1171
+108,Islamabad Model School for Girls- Talhar    (I-X) (Female),33.7117406,73.0783423,Female,Islamabad,0,4,0,1066
+128,Islamabad Model College for Girls No.2 (Post Graduate) F-7/4 (Male),33.7124715,73.0737721,Male,Islamabad,4,0,1339,0
+129,Islamabad Model College for Girls No.2 (Post Graduate) F-7/4 (Female),33.7124715,73.0738021,Female,Islamabad,0,4,0,1175
+185,Islamabad  Model School for Girls   (VI - X) - G-6/1-3-,33.7129,73.08541333333332,Male,Islamabad,4,0,1189,0
+186,Islamabad  Model School for Girls   (VI - X) - G-6/1-3 - (Female),33.7129,73.0854433333333,Female,Islamabad,0,4,0,1113
+187,Islamabad  Model School for Girls   (VI - X) - G-6/1-3- (Combined),33.7129,73.0854733333333,Combined,Islamabad,2,2,547,495
+202,Islamabad Model School (I-V) No-1- G-7/2- (Male),33.71333,73.07137,Male,Islamabad,4,0,1215,0
+203,Islamabad Model School (I-V) No-1- G-7/2- (Female),33.71333,73.0714,Female,Islamabad,0,3,0,1051
+211,Islamabad Model School  (I-V)  G-7/3-3 (Male),33.71333,73.07143,Male,Islamabad,4,0,1120,0
+212,Islamabad Model School  (I-V)  G-7/3-3 (Female),33.71333,73.07146,Female,Islamabad,0,4,0,995
+176,Islamabd Model School for Girls ( I-VIII)              G-6/2- (Male),33.71481333333334,73.07685666666666,Male,Islamabad,4,0,1013,0
+177,Islamabd Model School for Girls ( I-VIII) G-6/2- (Female),33.71481333333334,73.0768866666667,Female,Islamabad,0,3,0,912
+178,Islamabad College for Boys- G-6/3   ( Male),33.71647166666666,73.09442833333333,Male,Islamabad,4,0,1263,0
+179,Islamabad  College for Boys- G-6/3-   (Female),33.71647166666666,73.0944583333333,Female,Islamabad,0,4,0,1260
+180,Mohsin Murtaza Shaheed Model School for Boys (VI-X)- G-6/4  ( Male),33.71647166666666,73.0944883333333,Male,Islamabad,4,0,1186,0
+181,Mohsin Murtaza Shaheed Model School for Boys (VI-X)- G-6/4 ( Female),33.71647166666666,73.0945183333333,Female,Islamabad,0,4,0,1146
+126,Islamabad Model College for Girls No.1 (Post Graduate) F-7/4 (Male),33.716544,73.0697276,Male,Islamabad,3,0,766,0
+127,Islamabad Model College for Girls No.1 (Post Graduate) F-7/4 (Female),33.716544,73.0697576,Female,Islamabad,0,3,0,656
+173,Islamabad Model School for Girlsl-(VI-X)   G-6/2. (Male),33.71671666666667,73.08264666666668,Male,Islamabad,3,0,743,0
+174,Islamabad Model School for Girlsl-(VI-X) G-6/2. (Female),33.71671666666667,73.0826766666667,Female,Islamabad,0,3,0,680
+175,Islamabad Model School for Girlsl-(VI-X) G-6/2. (Combined),33.71671666666667,73.0827066666667,Combined,Islamabad,2,2,717,619
+111,Islambad Model school ( I -V)     F-6/4.(Male),33.717355,73.07863333333333,Male,Islamabad,4,0,1272,0
+112,Islambad Model school ( I -V)   F-6/4.(Female),33.717355,73.0786633333333,Female,Islamabad,0,4,0,1150
+122,Islamabad Model School  (I-V)- F-6/4. (Male),33.717355,73.0786933333333,Male,Islamabad,2,0,451,0
+123,Islamabad Model School  (I-V)- F-6/4. (Female),33.717355,73.0787233333333,Female,Islamabad,0,2,0,390
+130,Islamabad Model College  for Boys  F-7/3 (Male),33.7212348,73.0679359,Male,Islamabad,4,0,1136,0
+131,Islamabad Model College  for Boys  F-7/3 (Female),33.7212348,73.0679659,Female,Islamabad,0,4,0,1144
+132,Islamabad Model College  for Girls (Post Graduate)  F-7/2 (Male),33.7212348,73.0679959,Male,Islamabad,3,0,813,0
+133,Islamabad Model College  for Girls (Post Graduate)  F-7/2 (Female),33.7212348,73.0680259,Female,Islamabad,0,3,0,807
+118,Islamabad Model School  (I-V)- F-6/1. (Male),33.72437,73.07315,Male,Islamabad,4,0,1052,0
+119,Islamabad Model School  (I-V)- F-6/1. (Female),33.72437,73.07318,Female,Islamabad,0,3,0,997
+63,Islamabad Model School for Boys (I-VIII) Dhoke Jerrrani (Male),33.7259,73.17173,Male,Islamabad,3,0,766,0
+64,Islamabad Model School for Boys (I-VIII) Dhoke Jerrrani (Female),33.7259,73.17176,Female,Islamabad,0,3,0,693
+65,Islamabad Model School for Boys (I-VIII) Dhoke Jerrrani (Combined),33.7259,73.17179,Combined,Islamabad,2,2,640,534
+120,Islamabad Model School For Girls (VI-X)- F-6/1. (Male),33.726683333333334,73.07771833333332,Male,Islamabad,4,0,1043,0
+121,Islamabad Model School For Girls (VI-X)-   F-6/1. (Female),33.726683333333334,73.0777483333333,Female,Islamabad,0,4,0,987
+158,Basit Ali Shaheed Model School for Boys (I-VIII)- Malpur (Male),33.7280732,73.1424546,Male,Islamabad,3,0,763,0
+159,Basit Ali Shaheed Model School for Boys (I-VIII)- Malpur (Female),33.7280732,73.1424846,Female,Islamabad,0,3,0,685
+113,Islamabad Model College for Girls- Street No 25-  F-6/2. (Male),33.72905,73.06606,Male,Islamabad,3,0,722,0
+114,Islamabad Model College for Girls- Street No 25- F-6/2. (female),33.72905,73.06609,Female,Islamabad,0,3,0,725
+149,Islamabad Model School for Girls G-5- (Male),33.72919,73.11404,Male,Islamabad,3,0,774,0
+150,Islamabad Model School for Girls G-5- (Female),33.72919,73.11407,Female,Islamabad,0,3,0,673
+271,Islamabad Model School for Girls (VI-X)  G-9/4 (Male),33.72939,73.09315,Male,Islamabad,3,0,915,0
+272,Islamabad Model School for Girls (VI-X)  G-9/4 (Female),33.72939,73.09318,Female,Islamabad,0,3,0,872
+273,Islamabad Model School for Girls (VI-X)  G-9/4 (Combined),33.72939,73.09321,Combined,Islamabad,2,2,465,442
+156,Islamabad Model College for Girls Malpur  (Male),33.7298387,73.1469462,Male,Islamabad,3,0,887,0
+157,Islamabad Model College for Girls Malpur  (Female),33.7298387,73.1469762,Female,Islamabad,0,3,0,894
+115,Nangial Tariq Shaheed ModelSchool for Boys (VI-X)- F-6/2- No. 8. (Male),33.72996666666666,73.07011333333334,Male,Islamabad,4,0,1402,0
+116,Nangial Tariq Shaheed ModelSchool for Boys (VI-X)- F-6/2- No. 8 (Female),33.72996666666666,73.0701433333333,Female,Islamabad,0,4,0,1155
+117,Nangial Tariq Shaheed ModelSchool for Boys (VI-X)- F-6/2- No. 8. (Combined),33.72996666666666,73.0701733333333,Combined,Islamabad,1,1,151,153
+154,Islamabad Model School (I-VIII) Mara Malpur (Male),33.73077,73.14179,Male,Islamabad,3,0,777,0
+155,Islamabad Model School (I-VIII) Mara Malpur (Female),33.73077,73.14182,Female,Islamabad,0,3,0,711
+46,Islamabad Model School for Girls (I-V) Nain Sukh (Male,33.73167,73.17927,Male,Islamabad,4,0,1044,0
+47,Islamabad Model School for Girls (I-V) Nain Sukh (Female),33.73167,73.1793,Female,Islamabad,0,3,0,861
+93,Islamabad Model School for Boys (I-V) Athal (Male),33.7336555,73.2107366,Male,Islamabad,4,0,1132,0
+94,Islamabad Model School for Boys (I-V) Athal (Female),33.7336555,73.2107666,Female,Islamabad,0,4,0,1009
+66,Islamabad Model School for Girls (I-VIII) Mohra Noor (Male),33.7338096,73.2118427,Male,Islamabad,4,0,1316,0
+67,Islamabad Model School for Girls(I-VIII) Mohra Noor (Female),33.7338096,73.2118727,Female,Islamabad,0,4,0,1142
+68,Azhar Naseer Shaheed Model School for Boys (I-VIII)- Mohra Noor   (Male,33.7338096,73.2119027,Male,Islamabad,3,0,848,0
+69,Azhar Naseer Shaheed Model School for Boys (I-VIII)- Mohra Noor   (Female,33.7338096,73.2119327,Female,Islamabad,0,2,0,679
+70,Azhar Naseer Shaheed Model School for Boys (I-VIII)- Mohra Noor  (Male),33.7338096,73.2119627,Male,Islamabad,4,0,1094,0
+71,Azhar Naseer Shaheed Model School for Boys (I-VIII)- Mohra Noor   (Female,33.7338096,73.2119927,Female,Islamabad,0,3,0,966
+138,Usmania Community Technical Model School Muslim Colony-  (Male),33.73444,73.10787499999999,Male,Islamabad,4,0,1045,0
+139,Usmania Community Technical Model School Muslim Colony- (Female),33.73444,73.107905,Female,Islamabad,0,3,0,915
+140,Usmania Community Technical Model School Muslim Colony- (Combined),33.73444,73.107935,Combined,Islamabad,2,2,576,429
+306,Umair Arshad Shaheed Model School for Boys (VI-X)- I-8/4  (Male),33.73503,73.15425,Male,Islamabad,4,0,1163,0
+307,Umair Arshad Shaheed Model School for Boys (VI-X)- I-8/4  (Female),33.73503,73.15428,Female,Islamabad,0,3,0,921
+109,Islambad Model school ( I -V)   F-6/3.(Male),33.735675,73.07894,Male,Islamabad,3,0,687,0
+110,Islambad Model school ( I -V)  F-6/3.(Female,33.735675,73.07897,Female,Islamabad,0,3,0,655
+48,Union Council Office near  Patwar Khana  Bhara Kau- (Male),33.73649833333333,73.18974,Male,Islamabad,4,0,1165,0
+49,Union Council Office near  Patwar Khana  Bhara Kau- (Female),33.73649833333333,73.18977,Female,Islamabad,0,4,0,975
+42,Sohail Aslam Shaheed ModelSchool  for Boys (I-X)- Bhara Kau (Male),33.737485,73.17402333333332,Male,Islamabad,3,0,727,0
+43,Sohail Aslam Shaheed Model School for Boys (I-X)- Bhara Kau (Female),33.737485,73.1740533333333,Female,Islamabad,0,2,0,614
+44,Sohail Aslam Shaheed ModelSchool  for Boys (I-X)- Bhara Kau (Male),33.737485,73.1740833333333,Male,Islamabad,3,0,920,0
+45,Sohail Aslam Shaheed Model School for Boys (I-X)- Bhara Kau (Female),33.737485,73.1741133333333,Female,Islamabad,0,3,0,812
+36,Begum Saleem Kiyani IMCB  Bhara Khau Islamabad (Male),33.737545,73.18837166666667,Male,Islamabad,4,0,1255,0
+37,Begum Saleem Kiyani IMCB  Bhara Khau Islamabad (Female),33.737545,73.1884016666667,Female,Islamabad,0,4,0,1070
+38,Patwar Khana-  Bhara Kahu (Male),33.737808333333334,73.18596,Male,Islamabad,4,0,1363,0
+39,Patwar Khana- Bhara Khu- Female,33.737808333333334,73.18599,Female,Islamabad,0,4,0,1123
+40,Patwar Khana-  Bhara Kahu (Male),33.737808333333334,73.18602,Male,Islamabad,4,0,1209,0
+41,Patwar Khana- Bhara Khu- Female,33.737808333333334,73.18605,Female,Islamabad,0,3,0,974
+75,Islamabad Model School for Girls (I-V) Shahpur (Male),33.7384784,73.2015195,Male,Islamabad,4,0,1087,0
+76,Islamabad Model School for Girls (I-V) Shahpur (Female),33.7384784,73.2015495,Female,Islamabad,0,4,0,1039
+100,Islamabad Model School for Girls (I-X) Saidpur (Male),33.74035,73.06789,Male,Islamabad,3,0,913,0
+101,Islamabad Model School for Girls (I-X) Saidpur (Female),33.74035,73.06792,Female,Islamabad,0,3,0,790
+102,Islamabad Model School for Girls (I-X) Saidpur (Combined),33.74035,73.06795,Combined,Islamabad,2,2,467,454
+145,Rizwan Sarir Shaheed Model School for Boys (VI-X)- Noor Pur Shahan  (Male),33.74153666666667,73.1166,Male,Islamabad,4,0,1093,0
+146,Rizwan Sarir Shaheed Model School for Boys (VI-X)- Noor Pur Shahan (Female),33.74153666666667,73.11663,Female,Islamabad,0,4,0,953
+147,Rizwan Sarir Shaheed Model School for Boys (VI-X)- Noor Pur Shahan  (Male),33.74153666666667,73.11666,Male,Islamabad,3,0,829,0
+148,Rizwan Sarir Shaheed Model School for Boys (VI-X)- Noor Pur Shahan (Female),33.74153666666667,73.11669,Female,Islamabad,0,3,0,650
+141,Islambad Model School for Girls- (V I-X) Noorpur Shahan (Male),33.74153666666667,73.11672,Male,Islamabad,4,0,1279,0
+142,Islambad Model School for Girls- (V I-X) Noorpur Shahan (Female),33.74153666666667,73.11675,Female,Islamabad,0,3,0,1010
+79,Shahzad Ejaz Shaheed Model School for Boys (I-X)- Phulgran  (Male),33.7438347,73.2107366,Male,Islamabad,4,0,947,0
+80,Shahzad Ejaz Shaheed Model School for Boys (I-X)- Phulgran  (Female),33.7438347,73.2107666,Female,Islamabad,0,3,0,816
+81,Shahzad Ejaz Shaheed Model School for Boys (I-X)- Phulgran  (Male),33.7438347,73.2107966,Male,Islamabad,4,0,996,0
+82,Shahzad Ejaz Shaheed Model School for Boys (I-X)- Phulgran  (Female),33.7438347,73.2108266,Female,Islamabad,0,4,0,939
+98,Museum(X Mandar- SaidPur-) (Male),33.74466,73.06831,Male,Islamabad,4,0,1072,0
+99,Museum(X Mandar- SaidPur-) (Female),33.74466,73.06834,Female,Islamabad,0,4,0,980
+32,Educator School (Pvt) (Male),33.74533,73.18952,Male,Islamabad,2,0,523,0
+33,Educator School (Pvt) (Female),33.74533,73.18955,Female,Islamabad,0,2,0,453
+34,Educator School (Pvt) (Male),33.74533,73.18958,Male,Islamabad,3,0,955,0
+35,Educator School (Pvt) (Female),33.74533,73.18961,Female,Islamabad,0,3,0,833
+61,Scholar Public School (Pvt)- Kot Hathial (Male),33.74621,73.19112,Male,Islamabad,3,0,828,0
+62,Scholar Public School (Pvt)- Kot Hathial (Female),33.74621,73.19115,Female,Islamabad,0,2,0,688
+143,Imran Ali Shaheed Model School for Boys (I-V)- Noorpur Shahan (Male),33.74622,73.10672333333333,Male,Islamabad,3,0,815,0
+144,Imran Ali Shaheed Model School for Boys (I-V)- Noorpur Shahan (Female),33.74622,73.1067533333333,Female,Islamabad,0,3,0,706
+153,Islamabad Model school for  Boys (I-V)- Noorpur Shahan. (Combined),33.74622,73.1067833333333,Combined,Islamabad,1,1,252,178
+151,Islamabad Model School for  Girls (I-X )- University Colony. (Male),33.74625833333334,73.12761666666667,Male,Islamabad,4,0,1328,0
+152,Islamabad Model School for  Girls (I-X )- University Colony. (Female),33.74625833333334,73.1276466666667,Female,Islamabad,0,4,0,1180
+136,Sultan Model School (Pvt)- Mohalla Haveli Noor Pur Shahan (Male),33.74669,73.10942,Male,Islamabad,4,0,1322,0
+135,The EFA School System Near Masjid Husnain Karimain Noor Pur Shahan(Female),33.74693,73.10933,Female,Islamabad,0,2,0,633
+137,The EFA School System Near Masjid Husnain Karimain Noor Pur Shahan (Female),33.74693,73.10936,Female,Islamabad,0,4,0,1139
+134,Asif Public School PVT- (Male),33.74715,73.11006,Male,Islamabad,3,0,744,0
+83,Islamabad Model School for Girls  (I-X) Phulgran (Male),33.7481877,73.2160105,Male,Islamabad,3,0,791,0
+84,Islamabad Model School for Girls  (I-X) Phulgran (Female),33.7481877,73.2160405,Female,Islamabad,0,3,0,735
+85,Islamabdad Model School for Girls(I-X)-Phulgran (Male),33.7481877,73.2160705,Male,Islamabad,4,0,1172,0
+86,Islamabdad Model School for Girls(I-X)-Phulgran (Female),33.7481877,73.2161005,Female,Islamabad,0,4,0,1005
+50,Islamabad Model School for Girls (I-VIII) Kot Hathial    (Male),33.74935666666667,73.168655,Male,Islamabad,4,0,1142,0
+51,Islamabad Model School for Girls (I-VIII) Kot Hathial -Female,33.74935666666667,73.168685,Female,Islamabad,0,3,0,951
+52,Islamabad Model School for Girls (I-VIII) Kot Hathial    (Male),33.74935666666667,73.168715,Male,Islamabad,4,0,1044,0
+53,Islamabad Model School for Girls (I-VIII) Kot Hathial -Female,33.74935666666667,73.168745,Female,Islamabad,0,3,0,920
+30,Yasir Iqbal Shaheed Model School for Boys (I-VIII)- Kot Hathial (Nai Abadi) (Male),33.75034,73.17992666666667,Male,Islamabad,3,0,970,0
+31,Yasir Iqbal Shaheed Model School for Boys (I-VIII)- Kot Hathial (Nai Abadi) (Female),33.75034,73.1799566666667,Female,Islamabad,0,3,0,885
+58,Muhammad Waqar Shaheed Model School for Boys (I-V)- Kot Hathial- Qaziabad (Male),33.75114,73.18948,Male,Islamabad,4,0,1532,0
+59,Muhammad Waqar Shaheed Model School for Boys (I-V)- Kot Hathial- Qaziabad (Female),33.75114,73.18951,Female,Islamabad,0,4,0,1237
+60,Muhammad Waqar Shaheed Model School for Boys (I-V)- Kot Hathial- Qaziabad (Combined),33.75114,73.18954,Combined,Islamabad,2,2,457,378
+54,Islamabad Model School for Boys- (I-V)- New Mangyal (Male),33.75569,73.18064,Male,Islamabad,3,0,904,0
+55,Islamabad Model School for Boys- (I-V)- New Mangyal (Female),33.75569,73.18067,Female,Islamabad,0,3,0,858
+56,Islamabad Model School for Boys- (I-V)- New Mangyal (Male),33.75569,73.1807,Male,Islamabad,4,0,1546,0
+57,Islamabad Model School for Boys- (I-V)- New Mangyal (Female),33.75569,73.18073,Female,Islamabad,0,4,0,1191
+77,Islamabad Model School for Boys (I-VIII) Satra Meel (Male),33.765205,73.22020166666667,Male,Islamabad,4,0,1361,0
+78,Islamabad Model School for Boys (I-VIII) Satra Meel (Female),33.765205,73.2202316666667,Female,Islamabad,0,4,0,1128
+107,Daud Shaheed Model School for Boys (I-X)- Talhar (Male),33.76629,73.05777,Male,Islamabad,4,0,1124,0
+72,Islamabad Model School for Girls (I-VIII) Mandla (Combined),33.76643,73.17518,Combined,Islamabad,2,2,513,465
+96,Islamabad Model School for Girls (I-VIII) Bobri (Male),33.76848,73.25777,Male,Islamabad,3,0,825,0
+97,Islamabad Model School for Girls (I-VIII) Bobri (Female),33.76848,73.2578,Female,Islamabad,0,3,0,678
+103,Islamabad Model School for Boys Gokina (Male),33.77372,73.07465,Male,Islamabad,3,0,727,0
+104,Islamabad Model School for Boys Gokina (Female),33.77372,73.07468,Female,Islamabad,0,3,0,700
+105,Islamabad Model School for Girls (I-X) Gokina (Male,33.7753,73.07623,Male,Islamabad,3,0,802,0
+106,Islamabad Model School for Girls (I-X) Gokina (Female),33.7753,73.07626,Female,Islamabad,0,3,0,741
+95,Adil Shehzad Shaheed Model School for Boys (I-X)- Chattar (COMBINED),33.776215,73.24736833333333,Combined,Islamabad,2,2,562,490
+73,Islamabad Model School for Boys (I-X) Shadara (Male),33.78161,73.1729,Male,Islamabad,4,0,1075,0
+74,Islamabad Model School for Boys (I-X) Shadara (Female),33.78161,73.17293,Female,Islamabad,0,4,0,993
