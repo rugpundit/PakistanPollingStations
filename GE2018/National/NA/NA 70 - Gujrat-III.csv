@@ -1,122 +1,122 @@
-PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
- 84 - Boys Primary School Bijeran  presently used as dera  (Combined),32.5914012,74.04929,Combined,Punjab,1,1,444,360
- 86 - Govt Girls Primary School - Chak Purana (Combined),32.5914012,74.04932,Combined,Punjab,1,1,475,426
- 87 - Boys Primary School Chak Sikandar No. 30  (Male),32.5914012,74.04935,Male,Punjab,2,0,1303,0
- 88 - Boys Primary School Chak Sikandar No. 30 (Female),32.5914012,74.04938,Female,Punjab,0,2,0,1172
- 47 - Govt Boys High  School- Khawaspur  (Combined),32.5924815,74.0496572,Combined,Punjab,2,1,857,682
- 48 - Girls E/S School- Khawas pur (Combined),32.5924815,74.0496872,Combined,Punjab,1,1,701,627
- 49 - Girl HSS Nindo wal  (Combined),32.5924815,74.0497172,Combined,Punjab,2,2,1069,793
- 50 - Govt. Boys H/S School- Nindowal  (Combined),32.5924815,74.0497472,Combined,Punjab,2,1,871,729
- 51 - Boys Elementary School- Hanj (Primary Level) (Combined),32.5924815,74.0497772,Combined,Punjab,2,1,858,786
- 52 - Boys Elementary School Hanj- (Middle Level) (Combined),32.5924815,74.0498072,Combined,Punjab,2,2,1121,910
- 54 - Govt Model Primary School Losar (Combined),32.5924815,74.0498372,Combined,Punjab,2,1,774,604
- 67 - Govt Model Primary School Gill (Combined),32.5924815,74.0498672,Combined,Punjab,2,1,823,615
- 115 - Govt Model Primary School Bhola (Combined),32.5935682,74.0713194,Combined,Punjab,1,1,656,509
- 116 - Govt. Model Primary School Umer Chak  (Combined),32.5935682,74.0713494,Combined,Punjab,1,1,637,556
- 118 - Govt Model Primary School Dhalla (Combined),32.5935682,74.0713794,Combined,Punjab,2,1,729,593
- 119 - Boys E/S Rajjadi (New Building) (Combined),32.5935682,74.0714094,Combined,Punjab,2,2,1042,825
- 59 - Govt Boys Primary School Kulewal Syedan (Combined),32.5935682,74.0714394,Combined,Punjab,2,1,790,634
- 63 - Govt Model  Primary School Kotli Shah Jahani (Combined),32.5935682,74.0714694,Combined,Punjab,1,1,580,449
- 64 - Govt Model  Primary School Chak Murtaza (Combined),32.5935682,74.0714994,Combined,Punjab,2,1,916,750
- 68 - Govt Boys Elementary School Miana Chak (Combined),32.5935682,74.0715294,Combined,Punjab,2,2,1315,1046
- 69 - Govt Model Primary School Qazi Imam shah (Combined),32.5935682,74.0715594,Combined,Punjab,2,2,973,853
- 70 - Govt Model  Primary School Mirdah (Combined),32.5935682,74.0715894,Combined,Punjab,1,1,606,548
- 71 - Govt Girls  Primary School  Tulla  (Combined),32.5935682,74.0716194,Combined,Punjab,1,1,537,460
- 72 - Girl Community Model School Shah Jahanian (Combined),32.5935682,74.0716494,Combined,Punjab,1,1,597,563
- 75 - Govt Model Primary School Ali Chak (Male),32.5935682,74.0716794,Male,Punjab,2,0,1473,0
- 76 - Govt. Model Primary School- Maken (Combined),32.5935682,74.0717094,Combined,Punjab,1,1,421,335
- 77 - Govt. Model  Primary School- Aakia  (Combined),32.5935682,74.0717394,Combined,Punjab,1,1,364,266
- 89 - Boys E/S School - Kotla Qasim Khan (Combined),32.5935682,74.0717694,Combined,Punjab,2,1,803,654
- 90 - Govt. Girls P/S Kotla Sarang Khan  (Combined),32.5935682,74.0717994,Combined,Punjab,2,1,737,582
- 91 - Boys Middle School- Kotla Sarang Khan (Combined),32.5935682,74.0718294,Combined,Punjab,2,1,798,615
- 92 - Govt. Girls High School Kotla Qasim Khan  (Combined),32.5935682,74.0718594,Combined,Punjab,2,1,874,763
- 93 - Girls Middle School Paswal (Combined),32.5935682,74.0718894,Combined,Punjab,2,1,872,761
- 95 - Girls Community Model  School Channu Bhoja (Combined),32.5935682,74.0719194,Combined,Punjab,2,1,911,735
- 96 - Govt Model  Primary School Jalal Din (Combined),32.5935682,74.0719494,Combined,Punjab,1,1,563,439
- 97 - Govt. Girls  P/S Siprai (Combined),32.5935682,74.0719794,Combined,Punjab,1,1,500,427
- 98 - Boys High School Thikrian (Primary Portion) (Male),32.5935682,74.0720094,Male,Punjab,3,0,1853,0
- 99 - Boys High School Thikrian (Primary Portion) (Female),32.5935682,74.0720394,Female,Punjab,0,2,0,1030
- 100 - Govt. Girls P/S Thikrian (Combined),32.5935682,74.0720694,Combined,Punjab,2,1,735,603
- 101 - Boys High School Thikrian (High  Portion) (Female),32.5935682,74.0720994,Female,Punjab,0,2,0,1209
- 102 - Boys High School Thikrian (High  Portion)  (Male),32.5935682,74.0721294,Male,Punjab,2,0,768,0
- 17 - M.C. Girls Primary School No. 6- Gali Mehr Singh- Lalamusa   (Combined),32.5942823,74.0423135,Combined,Punjab,2,1,742,632
- 19 - Municipal Sir Syed Junior Model School- Lalamusa  (Female),32.5942823,74.0423435,Female,Punjab,0,2,0,1427
- 20 - Pakistan High School- Lalamusa  (Male),32.5942823,74.0423735,Male,Punjab,2,0,1495,0
- 21 - Pakistan High School- Lalamusa  (Male),32.5942823,74.0424035,Male,Punjab,2,0,951,0
- 22 - Pakistan High School- Lalamusa (Female),32.5942823,74.0424335,Female,Punjab,0,2,0,1454
- 23 - Govt. E/S Tanki Mohallah Lala Musa (Male),32.5942823,74.0424635,Male,Punjab,3,0,1553,0
- 24 - Govt. E/S Tanki Mohallah Lala Musa (Female),32.5942823,74.0424935,Female,Punjab,0,3,0,1998
- 29 - MC Girls P/S No. 6 Gali Mehar Singh lala Musa  (Combined),32.5942823,74.0425235,Combined,Punjab,1,1,547,465
- 34 - Sir Syed Girls H/S Lala Musa-  (Female),32.5942823,74.0425535,Female,Punjab,0,2,0,1161
- 35 - Sir Syed Girls H/S Lala Musa-  (Male),32.5942823,74.0425835,Male,Punjab,2,0,1197,0
- 36 - Sir Syed Girls H/S Lala Musa-  (Male),32.5942823,74.0426135,Male,Punjab,2,0,1023,0
- 37 - Municipal Committee Office- Lalamusa  (Female),32.5942823,74.0426435,Female,Punjab,0,2,0,960
- 38 - M.C Boys Primary School- Eid Gah- Lalamusa  (Female),32.5942823,74.0426735,Female,Punjab,0,2,0,1080
- 348 - Govt. High School Thatha Pour  (Male),32.59583,73.92472,Male,Punjab,2,0,1197,0
- 136 - Govt Model Primary School  Borra Banth  (Combined),32.5959123,73.9248568,Combined,Punjab,1,1,376,268
- 113 - Girls Primary School Shah Sarmast (Combined),32.6032204,74.0448838,Combined,Punjab,2,1,1031,782
- 114 - Govt Boys Elementary School  Saida Barahim  (Combined),32.6032204,74.0449138,Combined,Punjab,2,1,684,574
- 117 - Govt Girls Community Model  School Chak Dina (Combined),32.6032204,74.0449438,Combined,Punjab,2,1,732,594
- 94 - Govt Model Primary School Sukh Chainan (Combined),32.6032204,74.0449738,Combined,Punjab,2,1,867,691
- 103 - Boys Primary School Badu Kalas  (Male),32.6032204,74.0450038,Male,Punjab,3,0,1629,0
- 104 - Boys Primary School Badu Kalas (Female),32.6032204,74.0450338,Female,Punjab,0,3,0,1368
- 105 - Girls E/S  School Badu Kalas  (Combined),32.6032204,74.0450638,Combined,Punjab,2,2,1035,908
- 106 - Govt Model Primary School Chak Sikandar No. 53 (Combined),32.6032204,74.0450938,Combined,Punjab,1,1,486,399
- 107 - Girls Community Model School Chak Sarwani (Combined),32.6032204,74.0451238,Combined,Punjab,1,1,411,316
- 108 - Govt. Model Primary School (Boys Portion)  Chak Sakindar No.53 (Combined),32.6032204,74.0451538,Combined,Punjab,1,1,587,443
- 109 - Boys High School Ganja (Primary Portion) (Combined),32.6032204,74.0451838,Combined,Punjab,2,2,1111,911
- 110 - Boys High School Ganja- (High Portion) (Combined),32.6032204,74.0452138,Combined,Punjab,2,1,732,620
- 111 - Girls M/.S Jattria Kalan (Combined),32.6032204,74.0452438,Combined,Punjab,2,2,946,782
- 112 - Girls Primary School Jattria Khurd (Combined),32.6032204,74.0452738,Combined,Punjab,2,1,715,578
- 292 - Govt. Boys P/S Sagar Dhariwal (Combined),32.60861,73.84722,Combined,Punjab,1,1,490,384
- 257 - Boys Primary School Dhal Bangash (Combined),32.625,73.89027,Combined,Punjab,2,1,876,648
- 291 - Boys Primary School Topa Adam (Combined),32.625,73.8903,Combined,Punjab,2,1,814,602
- 278 - Boys Primary School Gumti (Combined),32.62694,73.78445,Combined,Punjab,2,2,1130,857
- 305 - Boys High School Amra Kalan (Combined),32.64417,73.71778,Combined,Punjab,1,1,676,507
- 306 - Boys High School Amra Kalan (Combined),32.64417,73.71781,Combined,Punjab,2,2,1041,811
- 307 - Boys High School Amra Kalan (Combined),32.64417,73.71784,Combined,Punjab,1,1,517,424
- 283 - Boys Primary School Dhakkar (Combined),32.64972,73.72889,Combined,Punjab,2,2,1012,893
- 60 - Boys Primary School Dhinda (Combined),32.666601,73.9688611,Combined,Punjab,1,1,539,469
- 61 - Govt Girls Primary School  Bosal Sharif  (Combined),32.666601,73.9688911,Combined,Punjab,1,1,509,347
- 62 - Govt Model  Primary School Mandir (Combined),32.666601,73.9689211,Combined,Punjab,1,1,657,545
- 65 - Govt Model Primary School Chohan Kalan (Combined),32.666601,73.9689511,Combined,Punjab,2,1,691,548
- 308 - Girls H/S Amra  Amra Kalan (Male),32.66722,73.66361,Male,Punjab,2,0,1251,0
- 309 - Girls H/S Amra  Amra Kalan (Female),32.66722,73.66364,Female,Punjab,0,2,0,1053
- 231 - Govt. Girls Community Model School Ghurko (Combined),32.66945,73.83389,Combined,Punjab,2,2,1334,1189
- 78 - Girls High School Panjan Kasana (Combined),32.6719474,73.7222257,Combined,Punjab,2,1,744,691
- 79 - Govt. Girls Primary School  Choudo (Combined),32.6719474,73.7222557,Combined,Punjab,1,1,610,510
- 80 - Girls High School Panjan Kasana (Combined),32.6719474,73.7222857,Combined,Punjab,2,1,1000,881
- 81 - Boys Primary School Dehar (Combined),32.6719474,73.7223157,Combined,Punjab,2,1,673,555
- 82 - Boys Primary School Dehar (Combined),32.6719474,73.7223457,Combined,Punjab,2,1,636,520
- 83 - Govt Boys Elementary School Hail (Combined),32.6719474,73.7223757,Combined,Punjab,2,2,1304,1033
- 85 - Girls Primary School Hakla (Combined),32.6719474,73.7224057,Combined,Punjab,2,1,705,605
- 58 - Girls Primary School Chakori Sher Ghazi (Combined),32.6876837,73.9614685,Combined,Punjab,2,1,1030,844
- 66 - Girls Primary School Verowal  (Combined),32.6876837,73.9614985,Combined,Punjab,2,1,902,829
- 7 - Girls Primary School- Old Lalamusa  (Male),32.6896615,73.961147,Male,Punjab,3,0,2282,0
- 6 - Govt. Boys E/S Behari lala Musa  (Female),32.69222,73.95861,Female,Punjab,0,3,0,1934
- 1 - Govt M.B.Girls High School Lalamusa  (Male),32.6963333,73.9553153,Male,Punjab,3,0,1695,0
- 2 - Govt M.B.Girls High School Lalamusa  (Female),32.6963333,73.9553453,Female,Punjab,0,3,0,1524
- 9 - Govt M.B.Girls High School Lalamusa  (Female),32.6963333,73.9553753,Female,Punjab,0,4,0,2815
- 18 - Hostal ID Janjua Girls College- Jamia Masjid Mohallah  (Male),32.6963333,73.9554053,Male,Punjab,3,0,1712,0
- 25 - Rural Health Center- Lalamusa (Male),32.6963333,73.9554353,Male,Punjab,3,0,1990,0
- 26 - Rural Health Center- Lalamusa (Female),32.6963333,73.9554653,Female,Punjab,0,3,0,2414
- 30 - Civil Hospital Camping Ground (Female),32.6963333,73.9554953,Female,Punjab,0,3,0,1826
- 31 - Railway Hospital- Lalamusa  (Male),32.6963333,73.9555253,Male,Punjab,3,0,1867,0
- 27 - Ghousia High School- Lalamusa  (Male),32.6968807,73.961147,Male,Punjab,2,0,1306,0
- 28 - Ghousia High School- Lalamusa  (Female),32.6968807,73.961177,Female,Punjab,0,2,0,1114
- 8 - Ghousia High School- Lalamusa  (Male),32.6968807,73.961207,Male,Punjab,4,0,2632,0
- 13 - Govt. College for Elementary Teacher(W) Lala Musa  (Female),32.697864,73.9607796,Female,Punjab,0,2,0,1439
- 15 - Govt. College for Elementary Teacher(W) Lala Musa  (Female),32.697864,73.9608096,Female,Punjab,0,3,0,628
- 16 - M.C Girls Primary School- No. 7- Qasba Lalamusa  (Male),32.6981922,73.9659224,Male,Punjab,2,0,1382,0
- 3 - I.D Girls Degree College- Lalamusa  (Male),32.6988644,73.9546265,Male,Punjab,2,0,1250,0
- 4 - I.D Girls Degree College- Lalamusa  (Female),32.6988644,73.9546565,Female,Punjab,0,3,0,1190
- 5 - I.D Girls Degree College- Lalamusa  (Female),32.6988644,73.9546865,Female,Punjab,0,3,0,1558
- 41 - Govt. College for Elementary Teacher(W) Lala Musa  (Female),32.7013975,73.9615143,Female,Punjab,0,3,0,1860
- 14 - Boys P/S Gurdwara Lala Musa  (Male),32.7031595,73.961871,Male,Punjab,3,0,2314,0
- 11 - Model High School- Primary Portion- Lalamusa  (Combined),32.7040568,73.9631215,Combined,Punjab,2,1,871,777
- 10 - Model High School- Primary Portion- Lalamusa  (Male),32.7040568,73.9631515,Male,Punjab,2,0,1217,0
- 12 - Model High School- Primary Portion- Lalamusa  (Male),32.7040568,73.9631815,Male,Punjab,2,0,1183,0
- 40 - Model H/S Lala Musa (Male),32.7067609,73.9578408,Male,Punjab,2,0,971,0
- 225 - Govt. Girls High School Mirza Tahir (Combined),32.73528,73.78223,Combined,Punjab,2,1,880,733
- 202 - Govt. Girls Primary School Nagrian (Combined),32.73833,73.76972,Combined,Punjab,1,1,372,309
- 196 - Boys Primary School Kolian Habib (Combined),32.76361,73.79806,Combined,Punjab,2,1,749,642
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+84,Boys Primary School Bijeran  presently used as dera  (Combined),32.5914012,74.04929,Combined,Punjab,1,1,444,360
+86,Govt Girls Primary School - Chak Purana (Combined),32.5914012,74.04932,Combined,Punjab,1,1,475,426
+87,Boys Primary School Chak Sikandar No. 30  (Male),32.5914012,74.04935,Male,Punjab,2,0,1303,0
+88,Boys Primary School Chak Sikandar No. 30 (Female),32.5914012,74.04938,Female,Punjab,0,2,0,1172
+47,Govt Boys High  School- Khawaspur  (Combined),32.5924815,74.0496572,Combined,Punjab,2,1,857,682
+48,Girls E/S School- Khawas pur (Combined),32.5924815,74.0496872,Combined,Punjab,1,1,701,627
+49,Girl HSS Nindo wal  (Combined),32.5924815,74.0497172,Combined,Punjab,2,2,1069,793
+50,Govt. Boys H/S School- Nindowal  (Combined),32.5924815,74.0497472,Combined,Punjab,2,1,871,729
+51,Boys Elementary School- Hanj (Primary Level) (Combined),32.5924815,74.0497772,Combined,Punjab,2,1,858,786
+52,Boys Elementary School Hanj- (Middle Level) (Combined),32.5924815,74.0498072,Combined,Punjab,2,2,1121,910
+54,Govt Model Primary School Losar (Combined),32.5924815,74.0498372,Combined,Punjab,2,1,774,604
+67,Govt Model Primary School Gill (Combined),32.5924815,74.0498672,Combined,Punjab,2,1,823,615
+115,Govt Model Primary School Bhola (Combined),32.5935682,74.0713194,Combined,Punjab,1,1,656,509
+116,Govt. Model Primary School Umer Chak  (Combined),32.5935682,74.0713494,Combined,Punjab,1,1,637,556
+118,Govt Model Primary School Dhalla (Combined),32.5935682,74.0713794,Combined,Punjab,2,1,729,593
+119,Boys E/S Rajjadi (New Building) (Combined),32.5935682,74.0714094,Combined,Punjab,2,2,1042,825
+59,Govt Boys Primary School Kulewal Syedan (Combined),32.5935682,74.0714394,Combined,Punjab,2,1,790,634
+63,Govt Model  Primary School Kotli Shah Jahani (Combined),32.5935682,74.0714694,Combined,Punjab,1,1,580,449
+64,Govt Model  Primary School Chak Murtaza (Combined),32.5935682,74.0714994,Combined,Punjab,2,1,916,750
+68,Govt Boys Elementary School Miana Chak (Combined),32.5935682,74.0715294,Combined,Punjab,2,2,1315,1046
+69,Govt Model Primary School Qazi Imam shah (Combined),32.5935682,74.0715594,Combined,Punjab,2,2,973,853
+70,Govt Model  Primary School Mirdah (Combined),32.5935682,74.0715894,Combined,Punjab,1,1,606,548
+71,Govt Girls  Primary School  Tulla  (Combined),32.5935682,74.0716194,Combined,Punjab,1,1,537,460
+72,Girl Community Model School Shah Jahanian (Combined),32.5935682,74.0716494,Combined,Punjab,1,1,597,563
+75,Govt Model Primary School Ali Chak (Male),32.5935682,74.0716794,Male,Punjab,2,0,1473,0
+76,Govt. Model Primary School- Maken (Combined),32.5935682,74.0717094,Combined,Punjab,1,1,421,335
+77,Govt. Model  Primary School- Aakia  (Combined),32.5935682,74.0717394,Combined,Punjab,1,1,364,266
+89,Boys E/S School - Kotla Qasim Khan (Combined),32.5935682,74.0717694,Combined,Punjab,2,1,803,654
+90,Govt. Girls P/S Kotla Sarang Khan  (Combined),32.5935682,74.0717994,Combined,Punjab,2,1,737,582
+91,Boys Middle School- Kotla Sarang Khan (Combined),32.5935682,74.0718294,Combined,Punjab,2,1,798,615
+92,Govt. Girls High School Kotla Qasim Khan  (Combined),32.5935682,74.0718594,Combined,Punjab,2,1,874,763
+93,Girls Middle School Paswal (Combined),32.5935682,74.0718894,Combined,Punjab,2,1,872,761
+95,Girls Community Model  School Channu Bhoja (Combined),32.5935682,74.0719194,Combined,Punjab,2,1,911,735
+96,Govt Model  Primary School Jalal Din (Combined),32.5935682,74.0719494,Combined,Punjab,1,1,563,439
+97,Govt. Girls  P/S Siprai (Combined),32.5935682,74.0719794,Combined,Punjab,1,1,500,427
+98,Boys High School Thikrian (Primary Portion) (Male),32.5935682,74.0720094,Male,Punjab,3,0,1853,0
+99,Boys High School Thikrian (Primary Portion) (Female),32.5935682,74.0720394,Female,Punjab,0,2,0,1030
+100,Govt. Girls P/S Thikrian (Combined),32.5935682,74.0720694,Combined,Punjab,2,1,735,603
+101,Boys High School Thikrian (High  Portion) (Female),32.5935682,74.0720994,Female,Punjab,0,2,0,1209
+102,Boys High School Thikrian (High  Portion)  (Male),32.5935682,74.0721294,Male,Punjab,2,0,768,0
+17,M.C. Girls Primary School No. 6- Gali Mehr Singh- Lalamusa   (Combined),32.5942823,74.0423135,Combined,Punjab,2,1,742,632
+19,Municipal Sir Syed Junior Model School- Lalamusa  (Female),32.5942823,74.0423435,Female,Punjab,0,2,0,1427
+20,Pakistan High School- Lalamusa  (Male),32.5942823,74.0423735,Male,Punjab,2,0,1495,0
+21,Pakistan High School- Lalamusa  (Male),32.5942823,74.0424035,Male,Punjab,2,0,951,0
+22,Pakistan High School- Lalamusa (Female),32.5942823,74.0424335,Female,Punjab,0,2,0,1454
+23,Govt. E/S Tanki Mohallah Lala Musa (Male),32.5942823,74.0424635,Male,Punjab,3,0,1553,0
+24,Govt. E/S Tanki Mohallah Lala Musa (Female),32.5942823,74.0424935,Female,Punjab,0,3,0,1998
+29,MC Girls P/S No. 6 Gali Mehar Singh lala Musa  (Combined),32.5942823,74.0425235,Combined,Punjab,1,1,547,465
+34,Sir Syed Girls H/S Lala Musa-  (Female),32.5942823,74.0425535,Female,Punjab,0,2,0,1161
+35,Sir Syed Girls H/S Lala Musa-  (Male),32.5942823,74.0425835,Male,Punjab,2,0,1197,0
+36,Sir Syed Girls H/S Lala Musa-  (Male),32.5942823,74.0426135,Male,Punjab,2,0,1023,0
+37,Municipal Committee Office- Lalamusa  (Female),32.5942823,74.0426435,Female,Punjab,0,2,0,960
+38,M.C Boys Primary School- Eid Gah- Lalamusa  (Female),32.5942823,74.0426735,Female,Punjab,0,2,0,1080
+348,Govt. High School Thatha Pour  (Male),32.59583,73.92472,Male,Punjab,2,0,1197,0
+136,Govt Model Primary School  Borra Banth  (Combined),32.5959123,73.9248568,Combined,Punjab,1,1,376,268
+113,Girls Primary School Shah Sarmast (Combined),32.6032204,74.0448838,Combined,Punjab,2,1,1031,782
+114,Govt Boys Elementary School  Saida Barahim  (Combined),32.6032204,74.0449138,Combined,Punjab,2,1,684,574
+117,Govt Girls Community Model  School Chak Dina (Combined),32.6032204,74.0449438,Combined,Punjab,2,1,732,594
+94,Govt Model Primary School Sukh Chainan (Combined),32.6032204,74.0449738,Combined,Punjab,2,1,867,691
+103,Boys Primary School Badu Kalas  (Male),32.6032204,74.0450038,Male,Punjab,3,0,1629,0
+104,Boys Primary School Badu Kalas (Female),32.6032204,74.0450338,Female,Punjab,0,3,0,1368
+105,Girls E/S  School Badu Kalas  (Combined),32.6032204,74.0450638,Combined,Punjab,2,2,1035,908
+106,Govt Model Primary School Chak Sikandar No. 53 (Combined),32.6032204,74.0450938,Combined,Punjab,1,1,486,399
+107,Girls Community Model School Chak Sarwani (Combined),32.6032204,74.0451238,Combined,Punjab,1,1,411,316
+108,Govt. Model Primary School (Boys Portion)  Chak Sakindar No.53 (Combined),32.6032204,74.0451538,Combined,Punjab,1,1,587,443
+109,Boys High School Ganja (Primary Portion) (Combined),32.6032204,74.0451838,Combined,Punjab,2,2,1111,911
+110,Boys High School Ganja- (High Portion) (Combined),32.6032204,74.0452138,Combined,Punjab,2,1,732,620
+111,Girls M/.S Jattria Kalan (Combined),32.6032204,74.0452438,Combined,Punjab,2,2,946,782
+112,Girls Primary School Jattria Khurd (Combined),32.6032204,74.0452738,Combined,Punjab,2,1,715,578
+292,Govt. Boys P/S Sagar Dhariwal (Combined),32.60861,73.84722,Combined,Punjab,1,1,490,384
+257,Boys Primary School Dhal Bangash (Combined),32.625,73.89027,Combined,Punjab,2,1,876,648
+291,Boys Primary School Topa Adam (Combined),32.625,73.8903,Combined,Punjab,2,1,814,602
+278,Boys Primary School Gumti (Combined),32.62694,73.78445,Combined,Punjab,2,2,1130,857
+305,Boys High School Amra Kalan (Combined),32.64417,73.71778,Combined,Punjab,1,1,676,507
+306,Boys High School Amra Kalan (Combined),32.64417,73.71781,Combined,Punjab,2,2,1041,811
+307,Boys High School Amra Kalan (Combined),32.64417,73.71784,Combined,Punjab,1,1,517,424
+283,Boys Primary School Dhakkar (Combined),32.64972,73.72889,Combined,Punjab,2,2,1012,893
+60,Boys Primary School Dhinda (Combined),32.666601,73.9688611,Combined,Punjab,1,1,539,469
+61,Govt Girls Primary School  Bosal Sharif  (Combined),32.666601,73.9688911,Combined,Punjab,1,1,509,347
+62,Govt Model  Primary School Mandir (Combined),32.666601,73.9689211,Combined,Punjab,1,1,657,545
+65,Govt Model Primary School Chohan Kalan (Combined),32.666601,73.9689511,Combined,Punjab,2,1,691,548
+308,Girls H/S Amra  Amra Kalan (Male),32.66722,73.66361,Male,Punjab,2,0,1251,0
+309,Girls H/S Amra  Amra Kalan (Female),32.66722,73.66364,Female,Punjab,0,2,0,1053
+231,Govt. Girls Community Model School Ghurko (Combined),32.66945,73.83389,Combined,Punjab,2,2,1334,1189
+78,Girls High School Panjan Kasana (Combined),32.6719474,73.7222257,Combined,Punjab,2,1,744,691
+79,Govt. Girls Primary School  Choudo (Combined),32.6719474,73.7222557,Combined,Punjab,1,1,610,510
+80,Girls High School Panjan Kasana (Combined),32.6719474,73.7222857,Combined,Punjab,2,1,1000,881
+81,Boys Primary School Dehar (Combined),32.6719474,73.7223157,Combined,Punjab,2,1,673,555
+82,Boys Primary School Dehar (Combined),32.6719474,73.7223457,Combined,Punjab,2,1,636,520
+83,Govt Boys Elementary School Hail (Combined),32.6719474,73.7223757,Combined,Punjab,2,2,1304,1033
+85,Girls Primary School Hakla (Combined),32.6719474,73.7224057,Combined,Punjab,2,1,705,605
+58,Girls Primary School Chakori Sher Ghazi (Combined),32.6876837,73.9614685,Combined,Punjab,2,1,1030,844
+66,Girls Primary School Verowal  (Combined),32.6876837,73.9614985,Combined,Punjab,2,1,902,829
+7,Girls Primary School- Old Lalamusa  (Male),32.6896615,73.961147,Male,Punjab,3,0,2282,0
+6,Govt. Boys E/S Behari lala Musa  (Female),32.69222,73.95861,Female,Punjab,0,3,0,1934
+1,Govt M.B.Girls High School Lalamusa  (Male),32.6963333,73.9553153,Male,Punjab,3,0,1695,0
+2,Govt M.B.Girls High School Lalamusa  (Female),32.6963333,73.9553453,Female,Punjab,0,3,0,1524
+9,Govt M.B.Girls High School Lalamusa  (Female),32.6963333,73.9553753,Female,Punjab,0,4,0,2815
+18,Hostal ID Janjua Girls College- Jamia Masjid Mohallah  (Male),32.6963333,73.9554053,Male,Punjab,3,0,1712,0
+25,Rural Health Center- Lalamusa (Male),32.6963333,73.9554353,Male,Punjab,3,0,1990,0
+26,Rural Health Center- Lalamusa (Female),32.6963333,73.9554653,Female,Punjab,0,3,0,2414
+30,Civil Hospital Camping Ground (Female),32.6963333,73.9554953,Female,Punjab,0,3,0,1826
+31,Railway Hospital- Lalamusa  (Male),32.6963333,73.9555253,Male,Punjab,3,0,1867,0
+27,Ghousia High School- Lalamusa  (Male),32.6968807,73.961147,Male,Punjab,2,0,1306,0
+28,Ghousia High School- Lalamusa  (Female),32.6968807,73.961177,Female,Punjab,0,2,0,1114
+8,Ghousia High School- Lalamusa  (Male),32.6968807,73.961207,Male,Punjab,4,0,2632,0
+13,Govt. College for Elementary Teacher(W) Lala Musa  (Female),32.697864,73.9607796,Female,Punjab,0,2,0,1439
+15,Govt. College for Elementary Teacher(W) Lala Musa  (Female),32.697864,73.9608096,Female,Punjab,0,3,0,628
+16,M.C Girls Primary School- No. 7- Qasba Lalamusa  (Male),32.6981922,73.9659224,Male,Punjab,2,0,1382,0
+3,I.D Girls Degree College- Lalamusa  (Male),32.6988644,73.9546265,Male,Punjab,2,0,1250,0
+4,I.D Girls Degree College- Lalamusa  (Female),32.6988644,73.9546565,Female,Punjab,0,3,0,1190
+5,I.D Girls Degree College- Lalamusa  (Female),32.6988644,73.9546865,Female,Punjab,0,3,0,1558
+41,Govt. College for Elementary Teacher(W) Lala Musa  (Female),32.7013975,73.9615143,Female,Punjab,0,3,0,1860
+14,Boys P/S Gurdwara Lala Musa  (Male),32.7031595,73.961871,Male,Punjab,3,0,2314,0
+11,Model High School- Primary Portion- Lalamusa  (Combined),32.7040568,73.9631215,Combined,Punjab,2,1,871,777
+10,Model High School- Primary Portion- Lalamusa  (Male),32.7040568,73.9631515,Male,Punjab,2,0,1217,0
+12,Model High School- Primary Portion- Lalamusa  (Male),32.7040568,73.9631815,Male,Punjab,2,0,1183,0
+40,Model H/S Lala Musa (Male),32.7067609,73.9578408,Male,Punjab,2,0,971,0
+225,Govt. Girls High School Mirza Tahir (Combined),32.73528,73.78223,Combined,Punjab,2,1,880,733
+202,Govt. Girls Primary School Nagrian (Combined),32.73833,73.76972,Combined,Punjab,1,1,372,309
+196,Boys Primary School Kolian Habib (Combined),32.76361,73.79806,Combined,Punjab,2,1,749,642

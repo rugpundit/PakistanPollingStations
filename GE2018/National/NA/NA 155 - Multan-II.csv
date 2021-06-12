@@ -1,8 +1,8 @@
-PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
- 356 - Government Girls High School- Haram Gate,30.19120622,71.46711312,Female,Punjab,0,2,0,869
- 359 - Government Girls Islamia High School- Haram Gate,30.19120622,71.46714312,Female,Punjab,0,2,0,909
- 360 - Government Girls Islamia High School- Haram Gate,30.19120622,71.46717312,Female,Punjab,0,2,0,813
- 354 - Government Girls Iqbal High School- Hussain Agahi (Higher Secondary Portion),30.19612554,71.47526277,Female,Punjab,0,2,0,753
- 355 - Government Primary School- Jamia Talim-o-Tarbiat- Androon Bohar Gate,30.2181298,71.4662331,Male,Punjab,2,0,991,0
- 357 - Government MC Primary School- Mohallah Hakiman,30.2181298,71.4662631,Male,Punjab,2,0,1082,0
- 358 - Government MC Primary School- Mohallah Hakiman,30.2181298,71.4662931,Male,Punjab,2,0,981,0
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+356,Government Girls High School- Haram Gate,30.19120622,71.46711312,Female,Punjab,0,2,0,869
+359,Government Girls Islamia High School- Haram Gate,30.19120622,71.46714312,Female,Punjab,0,2,0,909
+360,Government Girls Islamia High School- Haram Gate,30.19120622,71.46717312,Female,Punjab,0,2,0,813
+354,Government Girls Iqbal High School- Hussain Agahi (Higher Secondary Portion),30.19612554,71.47526277,Female,Punjab,0,2,0,753
+355,Government Primary School- Jamia Talim-o-Tarbiat- Androon Bohar Gate,30.2181298,71.4662331,Male,Punjab,2,0,991,0
+357,Government MC Primary School- Mohallah Hakiman,30.2181298,71.4662631,Male,Punjab,2,0,1082,0
+358,Government MC Primary School- Mohallah Hakiman,30.2181298,71.4662931,Male,Punjab,2,0,981,0

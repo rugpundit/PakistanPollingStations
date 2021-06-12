@@ -1,256 +1,256 @@
-PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
- 318 - Government Boys Primary School Ali Khan Laghari-   (Male),25.214313839926966,68.79596250307601,Male,Sindh,2,0,956,0
- 279 - Government Boys Primary School Haji Hazoori-      (Combined),25.2310769002011,68.85088929674066,Combined,Sindh,1,1,348,341
- 285 - Health Center  Mevo Kurkaly-    (Female),25.2366212452386,68.86793433319019,Female,Sindh,0,3,0,1247
- 317 - Government Boys Primary School Amir Bux Laghari-   (Combined),25.2398,68.80386,Combined,Sindh,2,2,936,723
- 286 - Government Boys Primry School Noor Muhammad Noodani-      (Combined),25.257690845762607,68.89528791327774,Combined,Sindh,2,2,385,284
- 280 - Government Boys Primary School Ismail Khaskheli-      (Combined),25.261964838032025,68.82535594180851,Combined,Sindh,1,1,525,476
- 277 - Government Boys Primary School Rawat Leghari-   (Male),25.26274290433663,68.83128101565907,Male,Sindh,3,0,1258,0
- 278 - Government Middle School Rawat Leghari-   (Female),25.262890248196992,68.8309140024793,Female,Sindh,0,2,0,1246
- 315 - Government Middle School Naseer Khan Laghari-   (Female),25.273008002237432,68.77621667208965,Female,Sindh,0,4,0,1210
- 314 - Government Boys Primary School Naseer Khan Laghari-   (Male),25.27326234885811,68.77594210587364,Male,Sindh,4,0,1366,0
- 316 - Government Middle School Shaheed Benazir abad @ Naseer Khan Laghari-    (Combined),25.27675,68.78316,Combined,Sindh,1,1,280,270
- 282 - Government Boys Primary School Bahadur Jalbani-       (Female),25.288010352843663,68.85594235967709,Female,Sindh,0,2,0,1170
- 281 - Government Boys Primary School Bahadur Jalbani-      (Male),25.288438804055502,68.85360978914038,Male,Sindh,2,0,1268,0
- 313 - Government Boys Primary School Karim Bux Mallah-   (Combined),25.289946769693806,68.76777748110828,Combined,Sindh,2,1,700,526
- 311 - Government Boys Primary School Ismail Mehrani-   (Male),25.290573056977777,68.66154749514902,Male,Sindh,2,0,941,0
- 312 - Improvised Government Boys Primary School Ismail Mehrani-     (Female),25.2906134303752,68.66156323787477,Female,Sindh,0,2,0,855
- 225 - Government High School Sanjar Chang-    (Male),25.29214396117616,68.90684668130336,Male,Sindh,4,0,1864,0
- 283 - Government Boys Primary School Dalailabad-     (Combined),25.29239413473517,68.86357304278492,Combined,Sindh,1,1,469,505
- 226 - Government Girls Primary School Sanjar Chang-   (Female),25.29444040863751,68.90912914221767,Female,Sindh,0,4,0,1477
- 228 - Government Boys Primary School Bashirabad-      (Combined),25.29475053295489,68.89217417181126,Combined,Sindh,2,2,775,646
- 246 - Government Girls Primary School Main Sindhi Chamber-           (Female),25.2948715318372,68.81155870324693,Female,Sindh,0,4,0,1114
- 248 - Government High School Chamber-  (Female),25.295042454588753,68.81178096978876,Female,Sindh,0,4,0,1366
- 244 - Government High School Chamber-   (Female),25.295046250443775,68.81169842056195,Female,Sindh,0,4,0,961
- 247 - Government High School Chamber-   (Male),25.297304030673054,68.81165179825601,Male,Sindh,4,0,1590,0
- 245 - Government High School Chamber-    (Male),25.29733548490463,68.81168759479357,Male,Sindh,4,0,1252,0
- 243 - Government High School Chamber-     (Male),25.297390370692582,68.81169903039321,Male,Sindh,4,0,1179,0
- 230 - Government Boys Primary School Ghulam  Muhammad Noondani-      (Combined),25.302624774661112,68.9550447791621,Combined,Sindh,2,2,627,572
- 309 - Government Boys Primary School Bachal Pitafi-   (Male),25.304264735967227,68.66692744799005,Male,Sindh,3,0,894,0
- 310 - Government Middle School Bachal Pitafi-    (Female),25.304267410095306,68.66696302502432,Female,Sindh,0,4,0,955
- 229 - Government Boys Primary School Sher Muhammad Noondani-      (Combined),25.305199008959963,68.95167635089162,Combined,Sindh,2,2,330,299
- 227 - Government Boys Primary School Sobho Rind-     (Combined),25.3063,68.8743,Combined,Sindh,2,2,451,430
- 275 - Government Boys Primary School Dodo Rind-    (Male),25.30975385510829,68.84502994152933,Male,Sindh,3,0,1253,0
- 276 - Government Boys Primary School Dodo Rind-    (Female),25.309785598734894,68.84504182429365,Female,Sindh,0,2,0,1037
- 304 - Government Boys Primary School Dad Khan jarwar-    (Combined),25.315583696543836,68.71987131462231,Combined,Sindh,1,1,673,497
- 231 - Government Boys Primary School Saleh Arisar-  (Combined),25.318108592910757,68.86662731569636,Combined,Sindh,2,2,685,576
- 305 - Government Boys Primary School Mir Khan Thoro-     (Combined),25.31967221391718,68.6806664741353,Combined,Sindh,2,2,656,549
- 235 - Government Boys Primary School Manthar Otho-   (Combined),25.321605317632702,68.94498970454836,Combined,Sindh,2,2,752,603
- 274 - Government Boys Primary School Miandad Rind?     (Combined),25.325835533852796,68.827366915568,Combined,Sindh,1,1,442,400
- 271 - Government Boys Primary School Chudhry Hanif @Hafizabad-   (Combined),25.330940547537544,68.79491058465898,Combined,Sindh,2,2,553,474
- 269 - Government Boys Primary School Dalel Lanjwani-   (Combined),25.332150254827635,68.8049502518038,Combined,Sindh,1,1,552,531
- 306 - Government Boys Primary School Mureed Lund-   (Male),25.334418726017677,68.7507759572979,Male,Sindh,4,0,1339,0
- 307 - Government Middle School Mureed Lund-  (Female),25.334451099087,68.75101295830423,Female,Sindh,0,2,0,1130
- 270 - Government Boys Primary School Muhammad Hassan Dal-   (Combined),25.337515348139267,68.81275102357918,Combined,Sindh,2,2,399,384
- 272 - Government Boys Primary School Balich Laghari-    (Combined),25.33861,68.7607,Combined,Sindh,2,2,598,423
- 308 - Government Boys Primary School Gul Hassan Lund-      (Combined),25.33931,68.74798,Combined,Sindh,2,2,760,682
- 232 - Government Boys Primary School Saindad Deshak-  (Combined),25.3431547606561,68.89543427719538,Combined,Sindh,2,2,569,506
- 233 - Government Boys Primary School Sachay Dino Panhwar-       (Combined),25.349680302193388,68.9077299398713,Combined,Sindh,2,2,655,527
- 234 - Government Boys Primary School Dhoro Bhai Khan-   (Combined),25.35132379519543,68.95252729178654,Combined,Sindh,2,2,474,388
- 273 - Government Boys Primary School Manak Lanjwani-   (Combined),25.352624954861355,68.8277323111866,Combined,Sindh,1,1,513,404
- 255 - Government Boys Primary School Ghulam Hussain Khokhar-   (Cmbined),25.35334,68.65602,Combined,Sindh,1,1,600,503
- 301 - Government Boys Primary School Saleh Bhambaro-     (Combined),25.354568801309718,68.74975394322922,Combined,Sindh,2,2,744,747
- 290 - Sindh education Foundation School Ahmed Khan Lashari-   (Female),25.355235641405965,68.74931423745795,Female,Sindh,0,2,0,1219
- 299 - Government Boys Primary School Saleh Bhanbhro-  (Combined),25.356147234874634,68.78768374460712,Combined,Sindh,1,1,321,294
- 303 - Government High School Masoo Bozdar-   (Female),25.35619,68.78768,Female,Sindh,0,2,0,980
- 298 - Government Boys Primary School Muhammad Ali Parhiyar-   (Combined),25.36375193199631,68.72853315194284,Combined,Sindh,2,2,598,508
- 216 - Government Community Center Haji Usman Otho-    (Combined),25.364971602917365,68.84432176751511,Combined,Sindh,2,2,610,540
- 215 - Government Boys Primary School Haji Usman Otho-      (Combined),25.365490971102574,68.84415201482702,Combined,Sindh,2,2,600,452
- 300 - Government Boys Primary School Ghulam Hussain Laghari-   (Combined),25.36858578530543,68.74547304073769,Combined,Sindh,2,2,540,486
- 294 - Government Girls Primary School Khan Muhammad Bozdar-     (Female),25.375454063639374,68.77636903067936,Female,Sindh,0,3,0,1647
- 293 - Government Boys Primary School Khan Muhammad Bozdar-  (Male),25.376007087624487,68.77922897322432,Male,Sindh,4,0,1829,0
- 214 - Government Middle School Allan Khan Laghari-  (Combined),25.3763136964313,68.88056000040415,Combined,Sindh,2,2,835,659
- 221 - Government Boys Primary School Yousif Laghari-   (Combined),25.386559579032177,68.94731601842831,Combined,Sindh,2,2,611,500
- 222 - Government Boys Primary School Yousif Laghari-   (Combined),25.3865863479329,68.94730456694332,Combined,Sindh,2,2,382,301
- 292 - Government Boys Primary School Chattan Arisar-   (Female),25.390209149864358,68.78134445063425,Female,Sindh,0,2,0,701
- 291 - Government Middle School  Chattan Arisar-   (Male),25.39033851074138,68.78131793080807,Male,Sindh,2,0,766,0
- 268 - Government Boys Primary School Ismail Halepoto-   (Combined),25.3924,68.70663,Combined,Sindh,1,1,265,248
- 223 - Government Boys Primary School Darya Khan Mari-  (Combined),25.397439818065596,68.96430033135631,Combined,Sindh,2,2,710,646
- 213 - Government Boys Primary School Punhoo senharo-  (Combined),25.39866871671093,68.82356162692092,Combined,Sindh,2,2,432,379
- 295 - Community Girls School Kaouro Khan Daidano-    (Combined),25.39956347498463,68.7195702672922,Combined,Sindh,2,2,851,744
- 296 - Government Boys Primary School Molvi Muhammad Umer Daidano-   (Male),25.4067785549003,68.73762057048374,Male,Sindh,4,0,1376,0
- 297 - Government Boys Primary School Molvi Muhammad Umer Daidano-   (Female),25.406784938728197,68.7376212943403,Female,Sindh,0,3,0,1154
- 212 - Government High School Shadyoon Walhar-  (Combined),25.410590677625954,68.87182106459184,Combined,Sindh,2,2,377,358
- 224 - Government Boys Primary School Manthar Thebo-  (Combined),25.41148902621852,68.93356472515556,Combined,Sindh,2,2,397,390
- 69 - Government High School                  Dhingano Bozdar-       (Male)   (2),25.42118,68.65827,Male,Sindh,3,0,800,0
- 70 - Government Girls Primary School Dhingano Bozdar-     (Female)     (1),25.42618,68.65594,Female,Sindh,0,3,0,798
- 211 - Union Council Office Began Jarwar-  (Combined),25.42659010409806,68.83768425358147,Combined,Sindh,2,2,293,260
- 73 - Government Girls Primary School Golo Halepota (Female),25.426810950160117,68.75702901323201,Female,Sindh,0,2,0,813
- 265 - Government Boys Primary School Haji Khan Kaloi-    (Combined),25.42805,68.64135,Combined,Sindh,1,1,286,292
- 210 - Government Boys Primary School Began Jarwar-   (Combined),25.428644206897523,68.84114576353271,Female,Sindh,0,4,672,684
- 76 - Government  Boys Primary  School Muhram Sanjrani- (Male),25.4306,68.69404,Male,Sindh,1,0,470,0
- 208 - Government High School Mubarak Jarwar-  (Male),25.43173093885516,68.83684268604352,Male,Sindh,4,0,1004,0
- 209 - Government High School Mubarak Jarwar-  (Female),25.431730938857832,68.83684268604064,Female,Sindh,0,4,0,898
- 78 - Government  Boys Primary School  Bachal Kolachi- (Combined),25.43726083168825,68.71249289172219,Combined,Sindh,1,1,313,317
- 77 - Basic Health Unit- Muhram Sanjrani- (Female),25.43893,68.71334,Female,Sindh,0,1,0,529
- 157 - Government Boys Primary School Khair Muhammad Mangrio-  (Combiend),25.43956565069398,68.7165087797099,Combined,Sindh,2,2,452,390
- 74 - Government  Boys Primary  School Haji Ahmed Colony-  (Combined),25.441273868031242,68.72567990751276,Combined,Sindh,2,2,837,812
- 200 - Government Boys Primary School Mohsan Dago-   Combined ),25.4426402874373,68.91350710775853,Combined,Sindh,2,2,685,568
- 154 - Government Boys Primary School Shah Latif Colony-   (Combined),25.443428609552694,68.71596388945284,Combined,Sindh,2,2,468,352
- 171 - Government Boys Primary School Ashfaque Town- (Combined),25.44708430541472,68.72747222918989,Combined,Sindh,2,2,1012,731
- 75 - Government Boys Primary School Mehro  Keryio-   (combined),25.44844699557777,68.697343965268,Combined,Sindh,2,1,866,790
- 162 - Government Boys Primary School Ghazi Kalroo-  (Combined),25.448697864684284,68.71513583487864,Combined,Sindh,2,2,730,627
- 156 - Government Boys Primary School  Mujahid Colony-  (Female),25.450497472406536,68.7203126666415,Female,Sindh,0,2,0,1126
- 155 - Government Benazeer Community Centre Mujahid Colony-  (Male),25.450863987687136,68.71881502859583,Male,Sindh,2,0,1249,0
- 160 - Improvised Government Boys Primary School Khowaja Ajmair Colony-   (Male),25.45092944451032,68.71304345142798,Male,Sindh,4,0,939,0
- 151 - Government Boys Primary School Ajmer Colony-     (Combined),25.450960237523194,68.71302798724824,Combined,Sindh,2,2,788,647
- 152 - Government  Benazeer Community Centre Mujahid  Colony-    (Male),25.45099617999129,68.71880075438571,Male,Sindh,4,0,1757,0
- 161 - Government Boys Primary School Khowaja Ajmair Colony-  (Female),25.45125829168326,68.713060533319,Female,Sindh,0,3,0,792
- 159 - Government Boys Primary School Gharebabad-  (Female),25.45176834340613,68.71640204809812,Female,Sindh,0,4,0,1154
- 153 - Government Boys Primary School Amanullah Shah Colony-     (Female),25.451958728697715,68.72246784357164,Female,Sindh,0,4,0,1440
- 149 - Government Boys Primary School Chambar Naka-1-      (Male),25.45351662089489,68.71543190479814,Male,Sindh,2,0,918,0
- 150 - Government Boys Primary School Chambar Naka-1-      (Female),25.453528816882372,68.7153880876407,Female,Sindh,0,2,0,786
- 158 - Government Boys Primary School Akram Colony-  (Male),25.45366865257976,68.71734037249179,Male,Sindh,4,0,1434,0
- 147 - Government Boys Primary School Madina Colony-   (Male),25.45785045556641,68.71591237138537,Male,Sindh,4,0,1955,0
- 148 - Government Boys Primary School Madina Colony-   (Female),25.45785113633678,68.71586943747563,Female,Sindh,0,4,0,1540
- 167 - Government Boys Primary School Latifia-    (Male),25.45790113586249,68.72245242984013,Male,Sindh,4,0,1950,0
- 168 - Government Boys Primary School Latifia- (Female),25.457905354650624,68.72243916540839,Female,Sindh,0,4,0,1740
- 169 - Town Hall-    (Male),25.458346168924535,68.72287819849414,Male,Sindh,4,0,1030,0
- 163 - Government Boys Primary School Mir Shah Muhammad-     (Male),25.458849503848317,68.72591621808252,Male,Sindh,4,0,1572,0
- 165 - Government Boys Primary School Ward B-   (Male),25.459522236716317,68.7226549842592,Male,Sindh,4,0,1106,0
- 166 - Government Boys Primary School Ward B-  (Female),25.459522236716317,68.7226849842592,Female,Sindh,0,3,0,941
- 146 - Government Provincilized High School-  (Female),25.45999,68.70897,Female,Sindh,0,4,0,957
- 145 - Government Provincilized High School-  (Male),25.460110127845457,68.70902902966323,Male,Sindh,4,0,1335,0
- 144 - Government Provincialized High School-  (Combined),25.460121508764253,68.70901554275021,Female,Sindh,0,4,202,147
- 141 - Government Boys Primary School Memon Muhalla-  (Female),25.460138815533924,68.720703585479,Female,Sindh,0,4,0,1109
- 143 - Government High School- Dar-ul-Uloom- (Female),25.46030733990728,68.71528499656888,Female,Sindh,0,4,0,898
- 142 - Government Boys Primary School Dar-ul-Uloom-   (Male),25.460334342525705,68.71529763565547,Male,Sindh,4,0,1040,0
- 140 - Coumunity Center Rahib Para-   (Male),25.460488905633746,68.71841498676407,Male,Sindh,4,0,1154,0
- 194 - Government Boys Primary School Haji Muhammad Paleh       (Combined),25.460901915804087,68.88492134713773,Combined,Sindh,2,2,659,596
- 164 - Government Girls Primary School Mir Shah Muhammad-  (Female),25.461527723388482,68.72520468007657,Female,Sindh,0,3,0,1203
- 139 - Government Boys Primary School Main Sindhi-  (Female),25.46154260628066,68.71808641815343,Female,Sindh,0,4,0,1489
- 138 - Government Boys Primary School Main Sindhi-    (Male),25.461557628564645,68.7180589502129,Male,Sindh,4,0,1714,0
- 136 - Old  Highway Office-  (Male),25.4620894599474,68.70837463663,Male,Sindh,4,0,1479,0
- 137 - Old  Highway Office-  (Female),25.4620894599474,68.70840463663,Female,Sindh,0,4,0,1160
- 114 - Government Girls Higher Secondary School-   (Male),25.46290437535366,68.71653474243547,Male,Sindh,4,0,1513,0
- 115 - Government Girls Higher Secondary School-   (Female ),25.46290447620223,68.71651628872647,Female,Sindh,0,4,0,1335
- 113 - Government Boys Primary School Main Urdu Near TMA office-  (Combined),25.463805409146048,68.72252100917751,Combined,Sindh,2,2,1217,987
- 170 - TMA office-  (Female),25.46387367889931,68.72250786524057,Female,Sindh,0,3,0,833
- 119 - Vetenary Hospital Near Post Office-  (Female),25.464503172879873,68.72268159941365,Female,Sindh,0,3,0,1307
- 121 - SDO-II HESCO-   (Female),25.465334239173206,68.7179719494247,Female,Sindh,0,3,0,1070
- 116 - Agriculture Office-  ( Male),25.465516511702734,68.72088967821296,Male,Sindh,3,0,624,0
- 111 - Government Boys Primary School Ghulam Muhammad Uner- (Male),25.46570378556295,68.72653340236073,Male,Sindh,2,0,815,0
- 117 - Government Boys Primary School Liaquat-    (Female),25.46571025206645,68.7213414990682,Female,Sindh,0,3,0,556
- 120 - SDO-I HESCO-  (Male),25.465919431390535,68.71761863255668,Male,Sindh,4,0,1215,0
- 112 - Government Boys Primary School Ghulam Muhammad Uner- (Female),25.466142116600846,68.72681509108394,Female,Sindh,0,2,0,699
- 118 - Public Health Office- (Male),25.467020674017782,68.72429473727249,Male,Sindh,4,0,1377,0
- 183 - Government Boys Primary School.Qaim Lashari -    (Combined),25.46748,68.6372,Combined,Sindh,2,2,299,227
- 99 - Government Boys Primary School Hyder Jarwar-   (Female ),25.4675,68.69232,,,Sindh,0,0,0,778
- 110 - Government Boys Primary School Prem Nagar- (New Building)-  (Female),25.467686229305002,68.7223232873555,Female,Sindh,0,3,0,1181
- 108 - Government S.M High School-  (Male),25.467770158237325,68.72422251652911,Male,Sindh,2,0,701,0
- 109 - Government S.M High School-    (Male),25.46794,68.72412,Male,Sindh,2,0,684,0
- 130 - Governement Girls Primary School Shahbaz Colony-   (combined),25.467970899358242,68.71846033821264,Combined,Sindh,2,2,758,603
- 107 - Government Boys Primary School Old Building Prem Nagar   (Combined),25.46865,68.72301,Combined,Sindh,2,2,228,213
- 100 - Government Boys Primary School Allah Bux Arbab-  (combined),25.46865971066904,68.7284689837077,Combined,Sindh,2,2,882,736
- 106 - Government Food  Godaown-   (Combined),25.46865971066904,68.7284989837077,Combined,Sindh,2,2,396,392
- 128 - Government Boys Primary School Zardari Colony-    (Combined),25.470437890163538,68.7203221742185,Combined,Sindh,2,2,721,599
- 129 - Government Boys Primary School New Madina Colony Tando Allahyar-  (Combined),25.47059075264537,68.72102005447357,Combined,Sindh,2,2,556,470
- 132 - Government S.M College?   (Female),25.471846197426895,68.70275398050717,Female,Sindh,0,4,0,900
- 133 - Government S.M College-    (Male),25.471846197426895,68.7027839805072,Male,Sindh,3,0,1033,0
- 134 - Government S.M College-    (Male),25.471878956273045,68.70276083363807,Male,Sindh,4,0,1127,0
- 131 - Government S.M College?  (Male),25.471904708325717,68.70275642113484,Male,Sindh,4,0,1101,0
- 135 - Government S.M College-   (Female),25.47192666012868,68.70272852324707,Female,Sindh,0,4,0,1696
- 193 - Government Boys Primary School Peeroz Hakro (Combined),25.473554574084535,68.88978527495493,Combined,Sindh,2,2,728,687
- 192 - Government Girls Primary School Peroz Hakro-    (Female),25.47376734014681,68.89065037257384,Female,Sindh,0,4,0,944
- 127 - Irrigation Office- (Female),25.47454971539702,68.71945093039696,Female,Sindh,0,2,0,826
- 126 - Irrigation Office- (Male),25.474556052800903,68.71946844243577,Male,Sindh,4,0,1053,0
- 205 - Government Boys Primary School Ghulam Haider Sirewal-  (Female),25.475883296050213,68.78445568236302,Female,Sindh,0,4,0,744
- 123 - Works & Service Office-      (Male),25.477105061805656,68.71874147129756,Male,Sindh,4,0,1103,0
- 122 - Works & Service Office-      (Male),25.477130565266386,68.71873156149488,Male,Sindh,2,0,984,0
- 125 - SDM Office Tando Allahyar-  (Female),25.477166605427655,68.71961869125406,Female,Sindh,0,2,0,875
- 124 - SDM Office Tando Allahyar-  (Female),25.477193200392673,68.71964164860965,Female,Sindh,0,2,0,818
- 97 - Government Boys Primary School Khair Muhammad Jarwar-  (Female),25.484395969031578,68.67725111679385,Female,Sindh,0,4,0,1070
- 101 - Government Boys Primary School Baqa Dahri-   (Combined),25.484395969031578,68.6772811167939,Combined,Sindh,2,2,468,397
- 102 - Government Boys Primary School Tharo Laghari-      (Male),25.484395969031578,68.6773111167939,Male,Sindh,4,0,1417,0
- 103 - Government Middle School Tharo Laghari- (Female),25.484395969031578,68.6773411167939,Female,Sindh,0,4,0,1179
- 203 - Government Boys Primary School Kamaro Station-  (Combined),25.48518,68.8002,Female,Sindh,0,3,836,714
- 96 - Government High School Khair Muhammad Jarwar-  (Male),25.485345384507408,68.67795767724397,Male,Sindh,4,0,1255,0
- 95 - Government Boys Primary School Saleh Halepoto-   (Combined),25.48664731136151,68.67665212169,Combined,Sindh,2,2,817,825
- 65 - Government Boys Primary School Jalal Thebo  (Combined),25.49206295919636,68.73115985958503,Combined,Sindh,1,1,638,572
- 94 - Government Boys Primary School Fazal Muhammad Talpur-  (Combined),25.494386747816392,68.66170301231477,Combined,Sindh,2,1,619,534
- 56 - Government Boys Primary School Muhammad Hashim Dars-       (Combined),25.49852,68.77007,Combined,Sindh,2,1,496,233
- 55 - Government Boys Primary School Ditto Kalroo-  (Female),25.502270935800418,68.79070666175073,Female,Sindh,0,4,0,2059
- 54 - Government Middle School Ditto Kalroo-  (Male),25.504419699029416,68.79537985417336,Male,Sindh,4,0,1978,0
- 89 - Government Boys Primary School Dhoro Lakhmir-   (Combined),25.50625,68.69215,Combined,Sindh,2,2,618,530
- 63 - Government Girls Middle School Shah Pur-   (Female),25.51493465361198,68.71137141663193,Female,Sindh,0,4,0,1277
- 64 - Government Boys Primary School Shah Pur-   (Combined),25.51519,68.71129,Combined,Sindh,2,2,451,407
- 62 - Government Boys Primary School Shah Pur-   (Male),25.515215150842984,68.71143711429954,Male,Sindh,4,0,1302,0
- 177 - Government High School Mouj Khan Muhajir-   (Combined),25.51532022999756,68.65585605191178,Combined,Sindh,2,2,586,483
- 187 - Government Boys Primary School Sultanabad-2-    (Male),25.51573,68.8462,Male,Sindh,4,0,1404,0
- 172 - Government High School Nasarpur-  (Male),25.517071068334737,68.61880982267603,Male,Sindh,4,0,2148,0
- 174 - Government Boys Main Primery School-  (Male),25.517131285108448,68.61759957073595,Male,Sindh,4,0,1788,0
- 173 - Government High School Nasarpur-  (Female),25.518618968264033,68.61894713911144,Female,Sindh,0,4,0,1740
- 88 - Government Boys Primary School Anwar khan Nizamani- (Combined),25.522724126576325,68.66815396158977,Combined,Sindh,1,1,471,358
- 176 - Government Intermediate College Nasarpur-  (Combined),25.523393878669943,68.6196188419792,Combined,Sindh,2,2,642,576
- 82 - Government High School Tando Soomro     (Male),25.530430875127294,68.68077663065571,Male,Sindh,4,0,1134,0
- 83 - Government High School Tando Soomro     (Male),25.53321,68.68034,Male,Sindh,3,0,792,0
- 85 - Government Girls Primary School Tando Soomro   ( Female),25.53368,68.67944,Female,Sindh,0,2,0,647
- 84 - Government Boys Primary School Tando Soomro   ( Female),25.534195020479622,68.68029332750314,Female,Sindh,0,3,0,1014
- 57 - Government Boys Primary School Bus Stop Tando Soomro-   (Male),25.53462285985101,68.70821204866459,Male,Sindh,2,0,616,0
- 52 - Government Boys Primary School Shahbaig Lund-  (Female),25.53673452636813,68.8102692555981,Female,Sindh,0,4,0,718
- 53 - TMA office  Piyaro  Lund-  (combined),25.53674468858213,68.81022818622306,Combined,Sindh,2,2,617,536
- 58 - Government Boys Primary School Khabar Chacchar-   (Female),25.53830060417629,68.71566250914411,Female,Sindh,0,2,0,599
- 60 - Government Boys Primary School Dost Muhammad Saand-   (Combined),25.54044952622805,68.74080008285449,Combined,Sindh,1,1,740,562
- 51 - Government Boys Primary School Shahbaig Lund-  (Male),25.54361,68.79591,Male,Sindh,4,0,800,0
- 238 - Government High School Abdul Karim Dars-  (Female),25.544743424332147,68.84803239464344,Female,Sindh,0,3,0,1214
- 237 - Government High School Abdul Karim Dars-  (Male),25.54478428575957,68.84802682178633,Male,Sindh,3,0,1431,0
- 239 - Government Middle School Abdul Karim-   (Combined),25.54493236790801,68.8480869207642,Combined,Sindh,2,2,527,397
- 25 - Government Boys Primary School Ramzan Mirbahar-    (Combined),25.548213068224715,68.76868022638419,Combined,Sindh,2,2,887,812
- 59 - Government Boys Primary School Allah Warrayo Mirjat-  (Combined),25.549958616509024,68.71161626385167,Combined,Sindh,2,2,796,695
- 27 - Government Girls Middle School Payro  Lund- (Female),25.55342349453447,68.79927089312204,Female,Sindh,0,4,0,1009
- 26 - Government High School Piyaro Lund- (Male),25.55618814601551,68.79962788591591,Male,Sindh,4,0,1134,0
- 29 - BHU  Hospital Piaro Lund   (Female),25.55841,68.802,Female,Sindh,0,2,0,918
- 28 - Government Vetenary Hospital Piaro Lund-   (Male),25.558535734455756,68.8025941920806,Male,Sindh,4,0,1096,0
- 61 - Government Boys Primary School Allahyar Keerio-  (Combined),25.559905944414076,68.75475629187073,Combined,Sindh,1,1,363,343
- 236 - Government Boys Primary School Mevo Khaskheli-     (Combined),25.559983780399758,68.84802022527059,Combined,Sindh,2,2,683,610
- 87 - Government Boys Primary School Bahar Mirjat-   ( Female),25.568267549414166,68.68091826822541,Female,Sindh,0,4,0,2007
- 79 - Government Boys Primary School Doulat Khan Mirjat-   (Combined),25.569109952916627,68.66532553104452,Combined,Sindh,1,1,433,366
- 86 - Government High School Bahar Mirjat         (Male),25.56924287112505,68.68175555750545,Male,Sindh,4,0,2310,0
- 49 - Government High School Shahnawaz Muhajir-   (Male),25.571106120600056,68.71358974620412,Male,Sindh,4,0,1323,0
- 47 - Government Boys Primary School Kevro Lund         (Combined),25.57298097806901,68.73119412856967,Combined,Sindh,2,2,726,657
- 50 - Government High School Shahnawaz Muhajir-     (Female),25.57432,68.7138,Female,Sindh,0,4,0,891
- 81 - Government Boys Primary School Deputy Abdul Haq?   (Female),25.57613,68.66025,Female,Sindh,0,2,0,864
- 80 - Government Boys Primary School Deputy Abdul Haq? (Male),25.576790875922594,68.66047897738942,Male,Sindh,2,0,946,0
- 22 - Government Boys Primary School Meyoun Yar Muhammad    (Combined),25.581973929386916,68.76602346189333,Combined,Sindh,2,2,710,587
- 48 - Government Boys Primary School Sobharo Thebo-   (Combined),25.582286630226182,68.75228383162327,Combined,Sindh,2,2,414,406
- 21 - Government Boys Primary School Wahanyal Thebo                      (Combined),25.5832614551245,68.78028619056096,Combined,Sindh,2,2,665,621
- 40 - Government Middle School Dasori-   (Combined),25.58761,68.74824,Combined,Sindh,2,2,971,700
- 46 - Government Middle School Usman Shah Ji  Huri-    (Combined),25.59032843681482,68.69412783356228,Combined,Sindh,2,2,742,657
- 23 - Government Boys Primary School kot Soomar-      (Male),25.590334562139994,68.82901218511051,Male,Sindh,4,0,1220,0
- 24 - Government Boys Primary School Kot Soomar      (Female),25.590382437769016,68.82904364485829,Female,Sindh,0,3,0,978
- 242 - Government Boys Primary School Chandi Ram-  (Combined),25.590801088719545,68.8877080063459,Combined,Sindh,1,1,690,564
- 43 - Government Middle School Allah Rakhiyio Pathan-  (Combined),25.592119958502167,68.72345978652218,Combined,Sindh,2,2,741,618
- 240 - Government Boys Primary School Allah Ditto Babar-   (Male),25.59741290944716,68.85181661159366,Male,Sindh,3,0,1332,0
- 241 - Government Boys Primary School Allah Ditto Babar-  (Female),25.597416905797285,68.85182829865691,Female,Sindh,0,3,0,1086
- 44 - Government High School Ali Sher Muhajir-     (Combined),25.60193985323,68.72321097652524,Combined,Sindh,2,2,799,535
- 45 - Government Boys Primary School Sajan Solangi-    (Combined),25.609899941775076,68.709041688053,Combined,Sindh,2,2,488,447
- 33 - Government Boys Primary School Umer Saand    (Combined),25.614648231568204,68.70012840725907,Combined,Sindh,2,2,1162,946
- 35 - Government Boys Primary School Loung Baladi-  (Combined),25.614744799808868,68.67085374460746,Combined,Sindh,2,2,513,449
- 41 - Government Boys Primary School Mal Khan Thebo-    (Male),25.628651978521766,68.7155695548629,Male,Sindh,2,0,921,0
- 42 - Government Boys Primary School Mal Khan Thebo-    (Female),25.628651978521766,68.7155995548629,Female,Sindh,0,2,0,825
- 30 - Government Boys Primary School Piyar Ali Khaskheli     (Combined),25.629618943651316,68.8910743191793,Combined,Sindh,2,2,537,501
- 19 - Government Boys Middle School Kot Mir Ghulam Muhammad Talpur    (Combined),25.635695552389386,68.81053427554609,Combined,Sindh,2,2,629,651
- 34 - Government Boys Primary School Murad  Baloch-        (Combined),25.637023853203036,68.67527750112141,Combined,Sindh,2,2,635,485
- 31 - Government  Boys Primary School Gul Muhammad  Pali   (Combined),25.640877079317317,68.70685058380637,Combined,Sindh,2,2,580,503
- 6 - Government High School Jhando Mari-  (Male),25.64443780639378,68.90943543160466,Male,Sindh,4,0,1142,0
- 7 - Government Boys Primary School Jhando Mari-  (Female),25.64464790603741,68.90926292295799,Female,Sindh,0,4,0,977
- 17 - Government Boys Primary School Old Mirabad-   (Male),25.649471783894455,68.7883275875276,Male,Sindh,4,0,1594,0
- 18 - Government Middle School Old Mirabad    (Female),25.649850762755353,68.78840034172333,Female,Sindh,0,4,0,1373
- 20 - Government Boys Primary School Dost Muhammad Dars    (Combined),25.65081074566572,68.80995332320143,Combined,Sindh,2,2,780,625
- 36 - Government Boys Primary School Mitho Mirjat-  (Male),25.651263063448372,68.6983715802997,Male,Sindh,2,0,844,0
- 32 - Government Boys Primary School Ghulam Nabi Shah        (Combined),25.662567528576897,68.75588272742439,Combined,Sindh,2,2,492,392
- 8 - Government Boys Primary School Zardari Farm-   (Combined),25.672576724340505,68.8443731248359,Combined,Sindh,2,2,364,286
- 9 - Government Boys Primary School Saleh Khaskheli-   (Combined),25.676114658157186,68.80446096068134,Combined,Sindh,2,2,832,668
- 15 - Government Boys Primary School Pir Jurial  Shah ji Mari   (Male),25.681977067073063,68.74443955368453,Male,Sindh,4,0,1021,0
- 16 - Government Girls Primary School Pir Jurial  Shah ji Mari-  (Old Building)  (Female),25.68416846411856,68.743158894903,Female,Sindh,0,4,0,1020
- 11 - Government Girls Lower Secondary School Mashaikh Hoti   (Female),25.684455428825693,68.7749270741824,Female,Sindh,0,4,0,1411
- 10 - Government Boys Primary School Mashaekh Hoti-        (Male),25.68445822115119,68.77286607916783,Male,Sindh,4,0,1489,0
- 5 - Government Boys Primary School Bilawal Mari-   (Combined),25.685907660427233,68.88079466795311,Combined,Sindh,2,2,384,303
- 38 - Government Boys Primary School Bachal Shah-  (Combined),25.68877665291241,68.68995136191633,Combined,Sindh,2,2,767,584
- 2 - Government Boys Primary School Morio Sand-    (Male),25.689711326880015,68.7542971300242,Male,Sindh,4,0,986,0
- 3 - Government Boys Primary School Morio Sand-     (Female),25.689711326880015,68.7543271300242,Female,Sindh,0,2,0,993
- 12 - Government Middle School Syed Abdul Ghafoor Shah   (Combined),25.70790265667324,68.73707389077958,Combined,Sindh,2,2,596,506
- 14 - Government Boys Primary School Panah Shah   (Female),25.709757871560978,68.70347553234352,Female,Sindh,0,4,0,1223
- 13 - Government Middle School Syed Panah Shah (Male),25.712018684534005,68.70436622861357,Male,Sindh,4,0,1352,0
- 1 - Government Boys Primary School Lal Khan Lashari-    (Combined),25.717924334430496,68.77452949413723,Combined,Sindh,2,2,791,615
- 4 - Government Middle School Jurio Magsi-   (Combined),25.72881741111454,68.79264381615415,Combined,Sindh,2,2,462,341
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+318,Government Boys Primary School Ali Khan Laghari-   (Male),25.214313839926966,68.79596250307601,Male,Sindh,2,0,956,0
+279,Government Boys Primary School Haji Hazoori-      (Combined),25.2310769002011,68.85088929674066,Combined,Sindh,1,1,348,341
+285,Health Center  Mevo Kurkaly-    (Female),25.2366212452386,68.86793433319019,Female,Sindh,0,3,0,1247
+317,Government Boys Primary School Amir Bux Laghari-   (Combined),25.2398,68.80386,Combined,Sindh,2,2,936,723
+286,Government Boys Primry School Noor Muhammad Noodani-      (Combined),25.257690845762607,68.89528791327774,Combined,Sindh,2,2,385,284
+280,Government Boys Primary School Ismail Khaskheli-      (Combined),25.261964838032025,68.82535594180851,Combined,Sindh,1,1,525,476
+277,Government Boys Primary School Rawat Leghari-   (Male),25.26274290433663,68.83128101565907,Male,Sindh,3,0,1258,0
+278,Government Middle School Rawat Leghari-   (Female),25.262890248196992,68.8309140024793,Female,Sindh,0,2,0,1246
+315,Government Middle School Naseer Khan Laghari-   (Female),25.273008002237432,68.77621667208965,Female,Sindh,0,4,0,1210
+314,Government Boys Primary School Naseer Khan Laghari-   (Male),25.27326234885811,68.77594210587364,Male,Sindh,4,0,1366,0
+316,Government Middle School Shaheed Benazir abad @ Naseer Khan Laghari-    (Combined),25.27675,68.78316,Combined,Sindh,1,1,280,270
+282,Government Boys Primary School Bahadur Jalbani-       (Female),25.288010352843663,68.85594235967709,Female,Sindh,0,2,0,1170
+281,Government Boys Primary School Bahadur Jalbani-      (Male),25.288438804055502,68.85360978914038,Male,Sindh,2,0,1268,0
+313,Government Boys Primary School Karim Bux Mallah-   (Combined),25.289946769693806,68.76777748110828,Combined,Sindh,2,1,700,526
+311,Government Boys Primary School Ismail Mehrani-   (Male),25.290573056977777,68.66154749514902,Male,Sindh,2,0,941,0
+312,Improvised Government Boys Primary School Ismail Mehrani-     (Female),25.2906134303752,68.66156323787477,Female,Sindh,0,2,0,855
+225,Government High School Sanjar Chang-    (Male),25.29214396117616,68.90684668130336,Male,Sindh,4,0,1864,0
+283,Government Boys Primary School Dalailabad-     (Combined),25.29239413473517,68.86357304278492,Combined,Sindh,1,1,469,505
+226,Government Girls Primary School Sanjar Chang-   (Female),25.29444040863751,68.90912914221767,Female,Sindh,0,4,0,1477
+228,Government Boys Primary School Bashirabad-      (Combined),25.29475053295489,68.89217417181126,Combined,Sindh,2,2,775,646
+246,Government Girls Primary School Main Sindhi Chamber-           (Female),25.2948715318372,68.81155870324693,Female,Sindh,0,4,0,1114
+248,Government High School Chamber-  (Female),25.295042454588753,68.81178096978876,Female,Sindh,0,4,0,1366
+244,Government High School Chamber-   (Female),25.295046250443775,68.81169842056195,Female,Sindh,0,4,0,961
+247,Government High School Chamber-   (Male),25.297304030673054,68.81165179825601,Male,Sindh,4,0,1590,0
+245,Government High School Chamber-    (Male),25.29733548490463,68.81168759479357,Male,Sindh,4,0,1252,0
+243,Government High School Chamber-     (Male),25.297390370692582,68.81169903039321,Male,Sindh,4,0,1179,0
+230,Government Boys Primary School Ghulam  Muhammad Noondani-      (Combined),25.302624774661112,68.9550447791621,Combined,Sindh,2,2,627,572
+309,Government Boys Primary School Bachal Pitafi-   (Male),25.304264735967227,68.66692744799005,Male,Sindh,3,0,894,0
+310,Government Middle School Bachal Pitafi-    (Female),25.304267410095306,68.66696302502432,Female,Sindh,0,4,0,955
+229,Government Boys Primary School Sher Muhammad Noondani-      (Combined),25.305199008959963,68.95167635089162,Combined,Sindh,2,2,330,299
+227,Government Boys Primary School Sobho Rind-     (Combined),25.3063,68.8743,Combined,Sindh,2,2,451,430
+275,Government Boys Primary School Dodo Rind-    (Male),25.30975385510829,68.84502994152933,Male,Sindh,3,0,1253,0
+276,Government Boys Primary School Dodo Rind-    (Female),25.309785598734894,68.84504182429365,Female,Sindh,0,2,0,1037
+304,Government Boys Primary School Dad Khan jarwar-    (Combined),25.315583696543836,68.71987131462231,Combined,Sindh,1,1,673,497
+231,Government Boys Primary School Saleh Arisar-  (Combined),25.318108592910757,68.86662731569636,Combined,Sindh,2,2,685,576
+305,Government Boys Primary School Mir Khan Thoro-     (Combined),25.31967221391718,68.6806664741353,Combined,Sindh,2,2,656,549
+235,Government Boys Primary School Manthar Otho-   (Combined),25.321605317632702,68.94498970454836,Combined,Sindh,2,2,752,603
+274,Government Boys Primary School Miandad Rind?     (Combined),25.325835533852796,68.827366915568,Combined,Sindh,1,1,442,400
+271,Government Boys Primary School Chudhry Hanif @Hafizabad-   (Combined),25.330940547537544,68.79491058465898,Combined,Sindh,2,2,553,474
+269,Government Boys Primary School Dalel Lanjwani-   (Combined),25.332150254827635,68.8049502518038,Combined,Sindh,1,1,552,531
+306,Government Boys Primary School Mureed Lund-   (Male),25.334418726017677,68.7507759572979,Male,Sindh,4,0,1339,0
+307,Government Middle School Mureed Lund-  (Female),25.334451099087,68.75101295830423,Female,Sindh,0,2,0,1130
+270,Government Boys Primary School Muhammad Hassan Dal-   (Combined),25.337515348139267,68.81275102357918,Combined,Sindh,2,2,399,384
+272,Government Boys Primary School Balich Laghari-    (Combined),25.33861,68.7607,Combined,Sindh,2,2,598,423
+308,Government Boys Primary School Gul Hassan Lund-      (Combined),25.33931,68.74798,Combined,Sindh,2,2,760,682
+232,Government Boys Primary School Saindad Deshak-  (Combined),25.3431547606561,68.89543427719538,Combined,Sindh,2,2,569,506
+233,Government Boys Primary School Sachay Dino Panhwar-       (Combined),25.349680302193388,68.9077299398713,Combined,Sindh,2,2,655,527
+234,Government Boys Primary School Dhoro Bhai Khan-   (Combined),25.35132379519543,68.95252729178654,Combined,Sindh,2,2,474,388
+273,Government Boys Primary School Manak Lanjwani-   (Combined),25.352624954861355,68.8277323111866,Combined,Sindh,1,1,513,404
+255,Government Boys Primary School Ghulam Hussain Khokhar-   (Cmbined),25.35334,68.65602,Combined,Sindh,1,1,600,503
+301,Government Boys Primary School Saleh Bhambaro-     (Combined),25.354568801309718,68.74975394322922,Combined,Sindh,2,2,744,747
+290,Sindh education Foundation School Ahmed Khan Lashari-   (Female),25.355235641405965,68.74931423745795,Female,Sindh,0,2,0,1219
+299,Government Boys Primary School Saleh Bhanbhro-  (Combined),25.356147234874634,68.78768374460712,Combined,Sindh,1,1,321,294
+303,Government High School Masoo Bozdar-   (Female),25.35619,68.78768,Female,Sindh,0,2,0,980
+298,Government Boys Primary School Muhammad Ali Parhiyar-   (Combined),25.36375193199631,68.72853315194284,Combined,Sindh,2,2,598,508
+216,Government Community Center Haji Usman Otho-    (Combined),25.364971602917365,68.84432176751511,Combined,Sindh,2,2,610,540
+215,Government Boys Primary School Haji Usman Otho-      (Combined),25.365490971102574,68.84415201482702,Combined,Sindh,2,2,600,452
+300,Government Boys Primary School Ghulam Hussain Laghari-   (Combined),25.36858578530543,68.74547304073769,Combined,Sindh,2,2,540,486
+294,Government Girls Primary School Khan Muhammad Bozdar-     (Female),25.375454063639374,68.77636903067936,Female,Sindh,0,3,0,1647
+293,Government Boys Primary School Khan Muhammad Bozdar-  (Male),25.376007087624487,68.77922897322432,Male,Sindh,4,0,1829,0
+214,Government Middle School Allan Khan Laghari-  (Combined),25.3763136964313,68.88056000040415,Combined,Sindh,2,2,835,659
+221,Government Boys Primary School Yousif Laghari-   (Combined),25.386559579032177,68.94731601842831,Combined,Sindh,2,2,611,500
+222,Government Boys Primary School Yousif Laghari-   (Combined),25.3865863479329,68.94730456694332,Combined,Sindh,2,2,382,301
+292,Government Boys Primary School Chattan Arisar-   (Female),25.390209149864358,68.78134445063425,Female,Sindh,0,2,0,701
+291,Government Middle School  Chattan Arisar-   (Male),25.39033851074138,68.78131793080807,Male,Sindh,2,0,766,0
+268,Government Boys Primary School Ismail Halepoto-   (Combined),25.3924,68.70663,Combined,Sindh,1,1,265,248
+223,Government Boys Primary School Darya Khan Mari-  (Combined),25.397439818065596,68.96430033135631,Combined,Sindh,2,2,710,646
+213,Government Boys Primary School Punhoo senharo-  (Combined),25.39866871671093,68.82356162692092,Combined,Sindh,2,2,432,379
+295,Community Girls School Kaouro Khan Daidano-    (Combined),25.39956347498463,68.7195702672922,Combined,Sindh,2,2,851,744
+296,Government Boys Primary School Molvi Muhammad Umer Daidano-   (Male),25.4067785549003,68.73762057048374,Male,Sindh,4,0,1376,0
+297,Government Boys Primary School Molvi Muhammad Umer Daidano-   (Female),25.406784938728197,68.7376212943403,Female,Sindh,0,3,0,1154
+212,Government High School Shadyoon Walhar-  (Combined),25.410590677625954,68.87182106459184,Combined,Sindh,2,2,377,358
+224,Government Boys Primary School Manthar Thebo-  (Combined),25.41148902621852,68.93356472515556,Combined,Sindh,2,2,397,390
+69,Government High School                  Dhingano Bozdar-       (Male)   (2),25.42118,68.65827,Male,Sindh,3,0,800,0
+70,Government Girls Primary School Dhingano Bozdar-     (Female)     (1),25.42618,68.65594,Female,Sindh,0,3,0,798
+211,Union Council Office Began Jarwar-  (Combined),25.42659010409806,68.83768425358147,Combined,Sindh,2,2,293,260
+73,Government Girls Primary School Golo Halepota (Female),25.426810950160117,68.75702901323201,Female,Sindh,0,2,0,813
+265,Government Boys Primary School Haji Khan Kaloi-    (Combined),25.42805,68.64135,Combined,Sindh,1,1,286,292
+210,Government Boys Primary School Began Jarwar-   (Combined),25.428644206897523,68.84114576353271,Female,Sindh,0,4,672,684
+76,Government  Boys Primary  School Muhram Sanjrani- (Male),25.4306,68.69404,Male,Sindh,1,0,470,0
+208,Government High School Mubarak Jarwar-  (Male),25.43173093885516,68.83684268604352,Male,Sindh,4,0,1004,0
+209,Government High School Mubarak Jarwar-  (Female),25.431730938857832,68.83684268604064,Female,Sindh,0,4,0,898
+78,Government  Boys Primary School  Bachal Kolachi- (Combined),25.43726083168825,68.71249289172219,Combined,Sindh,1,1,313,317
+77,Basic Health Unit- Muhram Sanjrani- (Female),25.43893,68.71334,Female,Sindh,0,1,0,529
+157,Government Boys Primary School Khair Muhammad Mangrio-  (Combiend),25.43956565069398,68.7165087797099,Combined,Sindh,2,2,452,390
+74,Government  Boys Primary  School Haji Ahmed Colony-  (Combined),25.441273868031242,68.72567990751276,Combined,Sindh,2,2,837,812
+200,Government Boys Primary School Mohsan Dago-   Combined ),25.4426402874373,68.91350710775853,Combined,Sindh,2,2,685,568
+154,Government Boys Primary School Shah Latif Colony-   (Combined),25.443428609552694,68.71596388945284,Combined,Sindh,2,2,468,352
+171,Government Boys Primary School Ashfaque Town- (Combined),25.44708430541472,68.72747222918989,Combined,Sindh,2,2,1012,731
+75,Government Boys Primary School Mehro  Keryio-   (combined),25.44844699557777,68.697343965268,Combined,Sindh,2,1,866,790
+162,Government Boys Primary School Ghazi Kalroo-  (Combined),25.448697864684284,68.71513583487864,Combined,Sindh,2,2,730,627
+156,Government Boys Primary School  Mujahid Colony-  (Female),25.450497472406536,68.7203126666415,Female,Sindh,0,2,0,1126
+155,Government Benazeer Community Centre Mujahid Colony-  (Male),25.450863987687136,68.71881502859583,Male,Sindh,2,0,1249,0
+160,Improvised Government Boys Primary School Khowaja Ajmair Colony-   (Male),25.45092944451032,68.71304345142798,Male,Sindh,4,0,939,0
+151,Government Boys Primary School Ajmer Colony-     (Combined),25.450960237523194,68.71302798724824,Combined,Sindh,2,2,788,647
+152,Government  Benazeer Community Centre Mujahid  Colony-    (Male),25.45099617999129,68.71880075438571,Male,Sindh,4,0,1757,0
+161,Government Boys Primary School Khowaja Ajmair Colony-  (Female),25.45125829168326,68.713060533319,Female,Sindh,0,3,0,792
+159,Government Boys Primary School Gharebabad-  (Female),25.45176834340613,68.71640204809812,Female,Sindh,0,4,0,1154
+153,Government Boys Primary School Amanullah Shah Colony-     (Female),25.451958728697715,68.72246784357164,Female,Sindh,0,4,0,1440
+149,Government Boys Primary School Chambar Naka-1-      (Male),25.45351662089489,68.71543190479814,Male,Sindh,2,0,918,0
+150,Government Boys Primary School Chambar Naka-1-      (Female),25.453528816882372,68.7153880876407,Female,Sindh,0,2,0,786
+158,Government Boys Primary School Akram Colony-  (Male),25.45366865257976,68.71734037249179,Male,Sindh,4,0,1434,0
+147,Government Boys Primary School Madina Colony-   (Male),25.45785045556641,68.71591237138537,Male,Sindh,4,0,1955,0
+148,Government Boys Primary School Madina Colony-   (Female),25.45785113633678,68.71586943747563,Female,Sindh,0,4,0,1540
+167,Government Boys Primary School Latifia-    (Male),25.45790113586249,68.72245242984013,Male,Sindh,4,0,1950,0
+168,Government Boys Primary School Latifia- (Female),25.457905354650624,68.72243916540839,Female,Sindh,0,4,0,1740
+169,Town Hall-    (Male),25.458346168924535,68.72287819849414,Male,Sindh,4,0,1030,0
+163,Government Boys Primary School Mir Shah Muhammad-     (Male),25.458849503848317,68.72591621808252,Male,Sindh,4,0,1572,0
+165,Government Boys Primary School Ward B-   (Male),25.459522236716317,68.7226549842592,Male,Sindh,4,0,1106,0
+166,Government Boys Primary School Ward B-  (Female),25.459522236716317,68.7226849842592,Female,Sindh,0,3,0,941
+146,Government Provincilized High School-  (Female),25.45999,68.70897,Female,Sindh,0,4,0,957
+145,Government Provincilized High School-  (Male),25.460110127845457,68.70902902966323,Male,Sindh,4,0,1335,0
+144,Government Provincialized High School-  (Combined),25.460121508764253,68.70901554275021,Female,Sindh,0,4,202,147
+141,Government Boys Primary School Memon Muhalla-  (Female),25.460138815533924,68.720703585479,Female,Sindh,0,4,0,1109
+143,Government High School- Dar-ul-Uloom- (Female),25.46030733990728,68.71528499656888,Female,Sindh,0,4,0,898
+142,Government Boys Primary School Dar-ul-Uloom-   (Male),25.460334342525705,68.71529763565547,Male,Sindh,4,0,1040,0
+140,Coumunity Center Rahib Para-   (Male),25.460488905633746,68.71841498676407,Male,Sindh,4,0,1154,0
+194,Government Boys Primary School Haji Muhammad Paleh       (Combined),25.460901915804087,68.88492134713773,Combined,Sindh,2,2,659,596
+164,Government Girls Primary School Mir Shah Muhammad-  (Female),25.461527723388482,68.72520468007657,Female,Sindh,0,3,0,1203
+139,Government Boys Primary School Main Sindhi-  (Female),25.46154260628066,68.71808641815343,Female,Sindh,0,4,0,1489
+138,Government Boys Primary School Main Sindhi-    (Male),25.461557628564645,68.7180589502129,Male,Sindh,4,0,1714,0
+136,Old  Highway Office-  (Male),25.4620894599474,68.70837463663,Male,Sindh,4,0,1479,0
+137,Old  Highway Office-  (Female),25.4620894599474,68.70840463663,Female,Sindh,0,4,0,1160
+114,Government Girls Higher Secondary School-   (Male),25.46290437535366,68.71653474243547,Male,Sindh,4,0,1513,0
+115,Government Girls Higher Secondary School-   (Female ),25.46290447620223,68.71651628872647,Female,Sindh,0,4,0,1335
+113,Government Boys Primary School Main Urdu Near TMA office-  (Combined),25.463805409146048,68.72252100917751,Combined,Sindh,2,2,1217,987
+170,TMA office-  (Female),25.46387367889931,68.72250786524057,Female,Sindh,0,3,0,833
+119,Vetenary Hospital Near Post Office-  (Female),25.464503172879873,68.72268159941365,Female,Sindh,0,3,0,1307
+121,SDO-II HESCO-   (Female),25.465334239173206,68.7179719494247,Female,Sindh,0,3,0,1070
+116,Agriculture Office-  ( Male),25.465516511702734,68.72088967821296,Male,Sindh,3,0,624,0
+111,Government Boys Primary School Ghulam Muhammad Uner- (Male),25.46570378556295,68.72653340236073,Male,Sindh,2,0,815,0
+117,Government Boys Primary School Liaquat-    (Female),25.46571025206645,68.7213414990682,Female,Sindh,0,3,0,556
+120,SDO-I HESCO-  (Male),25.465919431390535,68.71761863255668,Male,Sindh,4,0,1215,0
+112,Government Boys Primary School Ghulam Muhammad Uner- (Female),25.466142116600846,68.72681509108394,Female,Sindh,0,2,0,699
+118,Public Health Office- (Male),25.467020674017782,68.72429473727249,Male,Sindh,4,0,1377,0
+183,Government Boys Primary School.Qaim Lashari -    (Combined),25.46748,68.6372,Combined,Sindh,2,2,299,227
+99,Government Boys Primary School Hyder Jarwar-   (Female ),25.4675,68.69232,,,Sindh,0,0,0,778
+110,Government Boys Primary School Prem Nagar- (New Building)-  (Female),25.467686229305002,68.7223232873555,Female,Sindh,0,3,0,1181
+108,Government S.M High School-  (Male),25.467770158237325,68.72422251652911,Male,Sindh,2,0,701,0
+109,Government S.M High School-    (Male),25.46794,68.72412,Male,Sindh,2,0,684,0
+130,Governement Girls Primary School Shahbaz Colony-   (combined),25.467970899358242,68.71846033821264,Combined,Sindh,2,2,758,603
+107,Government Boys Primary School Old Building Prem Nagar   (Combined),25.46865,68.72301,Combined,Sindh,2,2,228,213
+100,Government Boys Primary School Allah Bux Arbab-  (combined),25.46865971066904,68.7284689837077,Combined,Sindh,2,2,882,736
+106,Government Food  Godaown-   (Combined),25.46865971066904,68.7284989837077,Combined,Sindh,2,2,396,392
+128,Government Boys Primary School Zardari Colony-    (Combined),25.470437890163538,68.7203221742185,Combined,Sindh,2,2,721,599
+129,Government Boys Primary School New Madina Colony Tando Allahyar-  (Combined),25.47059075264537,68.72102005447357,Combined,Sindh,2,2,556,470
+132,Government S.M College?   (Female),25.471846197426895,68.70275398050717,Female,Sindh,0,4,0,900
+133,Government S.M College-    (Male),25.471846197426895,68.7027839805072,Male,Sindh,3,0,1033,0
+134,Government S.M College-    (Male),25.471878956273045,68.70276083363807,Male,Sindh,4,0,1127,0
+131,Government S.M College?  (Male),25.471904708325717,68.70275642113484,Male,Sindh,4,0,1101,0
+135,Government S.M College-   (Female),25.47192666012868,68.70272852324707,Female,Sindh,0,4,0,1696
+193,Government Boys Primary School Peeroz Hakro (Combined),25.473554574084535,68.88978527495493,Combined,Sindh,2,2,728,687
+192,Government Girls Primary School Peroz Hakro-    (Female),25.47376734014681,68.89065037257384,Female,Sindh,0,4,0,944
+127,Irrigation Office- (Female),25.47454971539702,68.71945093039696,Female,Sindh,0,2,0,826
+126,Irrigation Office- (Male),25.474556052800903,68.71946844243577,Male,Sindh,4,0,1053,0
+205,Government Boys Primary School Ghulam Haider Sirewal-  (Female),25.475883296050213,68.78445568236302,Female,Sindh,0,4,0,744
+123,Works & Service Office-      (Male),25.477105061805656,68.71874147129756,Male,Sindh,4,0,1103,0
+122,Works & Service Office-      (Male),25.477130565266386,68.71873156149488,Male,Sindh,2,0,984,0
+125,SDM Office Tando Allahyar-  (Female),25.477166605427655,68.71961869125406,Female,Sindh,0,2,0,875
+124,SDM Office Tando Allahyar-  (Female),25.477193200392673,68.71964164860965,Female,Sindh,0,2,0,818
+97,Government Boys Primary School Khair Muhammad Jarwar-  (Female),25.484395969031578,68.67725111679385,Female,Sindh,0,4,0,1070
+101,Government Boys Primary School Baqa Dahri-   (Combined),25.484395969031578,68.6772811167939,Combined,Sindh,2,2,468,397
+102,Government Boys Primary School Tharo Laghari-      (Male),25.484395969031578,68.6773111167939,Male,Sindh,4,0,1417,0
+103,Government Middle School Tharo Laghari- (Female),25.484395969031578,68.6773411167939,Female,Sindh,0,4,0,1179
+203,Government Boys Primary School Kamaro Station-  (Combined),25.48518,68.8002,Female,Sindh,0,3,836,714
+96,Government High School Khair Muhammad Jarwar-  (Male),25.485345384507408,68.67795767724397,Male,Sindh,4,0,1255,0
+95,Government Boys Primary School Saleh Halepoto-   (Combined),25.48664731136151,68.67665212169,Combined,Sindh,2,2,817,825
+65,Government Boys Primary School Jalal Thebo  (Combined),25.49206295919636,68.73115985958503,Combined,Sindh,1,1,638,572
+94,Government Boys Primary School Fazal Muhammad Talpur-  (Combined),25.494386747816392,68.66170301231477,Combined,Sindh,2,1,619,534
+56,Government Boys Primary School Muhammad Hashim Dars-       (Combined),25.49852,68.77007,Combined,Sindh,2,1,496,233
+55,Government Boys Primary School Ditto Kalroo-  (Female),25.502270935800418,68.79070666175073,Female,Sindh,0,4,0,2059
+54,Government Middle School Ditto Kalroo-  (Male),25.504419699029416,68.79537985417336,Male,Sindh,4,0,1978,0
+89,Government Boys Primary School Dhoro Lakhmir-   (Combined),25.50625,68.69215,Combined,Sindh,2,2,618,530
+63,Government Girls Middle School Shah Pur-   (Female),25.51493465361198,68.71137141663193,Female,Sindh,0,4,0,1277
+64,Government Boys Primary School Shah Pur-   (Combined),25.51519,68.71129,Combined,Sindh,2,2,451,407
+62,Government Boys Primary School Shah Pur-   (Male),25.515215150842984,68.71143711429954,Male,Sindh,4,0,1302,0
+177,Government High School Mouj Khan Muhajir-   (Combined),25.51532022999756,68.65585605191178,Combined,Sindh,2,2,586,483
+187,Government Boys Primary School Sultanabad-2-    (Male),25.51573,68.8462,Male,Sindh,4,0,1404,0
+172,Government High School Nasarpur-  (Male),25.517071068334737,68.61880982267603,Male,Sindh,4,0,2148,0
+174,Government Boys Main Primery School-  (Male),25.517131285108448,68.61759957073595,Male,Sindh,4,0,1788,0
+173,Government High School Nasarpur-  (Female),25.518618968264033,68.61894713911144,Female,Sindh,0,4,0,1740
+88,Government Boys Primary School Anwar khan Nizamani- (Combined),25.522724126576325,68.66815396158977,Combined,Sindh,1,1,471,358
+176,Government Intermediate College Nasarpur-  (Combined),25.523393878669943,68.6196188419792,Combined,Sindh,2,2,642,576
+82,Government High School Tando Soomro     (Male),25.530430875127294,68.68077663065571,Male,Sindh,4,0,1134,0
+83,Government High School Tando Soomro     (Male),25.53321,68.68034,Male,Sindh,3,0,792,0
+85,Government Girls Primary School Tando Soomro   ( Female),25.53368,68.67944,Female,Sindh,0,2,0,647
+84,Government Boys Primary School Tando Soomro   ( Female),25.534195020479622,68.68029332750314,Female,Sindh,0,3,0,1014
+57,Government Boys Primary School Bus Stop Tando Soomro-   (Male),25.53462285985101,68.70821204866459,Male,Sindh,2,0,616,0
+52,Government Boys Primary School Shahbaig Lund-  (Female),25.53673452636813,68.8102692555981,Female,Sindh,0,4,0,718
+53,TMA office  Piyaro  Lund-  (combined),25.53674468858213,68.81022818622306,Combined,Sindh,2,2,617,536
+58,Government Boys Primary School Khabar Chacchar-   (Female),25.53830060417629,68.71566250914411,Female,Sindh,0,2,0,599
+60,Government Boys Primary School Dost Muhammad Saand-   (Combined),25.54044952622805,68.74080008285449,Combined,Sindh,1,1,740,562
+51,Government Boys Primary School Shahbaig Lund-  (Male),25.54361,68.79591,Male,Sindh,4,0,800,0
+238,Government High School Abdul Karim Dars-  (Female),25.544743424332147,68.84803239464344,Female,Sindh,0,3,0,1214
+237,Government High School Abdul Karim Dars-  (Male),25.54478428575957,68.84802682178633,Male,Sindh,3,0,1431,0
+239,Government Middle School Abdul Karim-   (Combined),25.54493236790801,68.8480869207642,Combined,Sindh,2,2,527,397
+25,Government Boys Primary School Ramzan Mirbahar-    (Combined),25.548213068224715,68.76868022638419,Combined,Sindh,2,2,887,812
+59,Government Boys Primary School Allah Warrayo Mirjat-  (Combined),25.549958616509024,68.71161626385167,Combined,Sindh,2,2,796,695
+27,Government Girls Middle School Payro  Lund- (Female),25.55342349453447,68.79927089312204,Female,Sindh,0,4,0,1009
+26,Government High School Piyaro Lund- (Male),25.55618814601551,68.79962788591591,Male,Sindh,4,0,1134,0
+29,BHU  Hospital Piaro Lund   (Female),25.55841,68.802,Female,Sindh,0,2,0,918
+28,Government Vetenary Hospital Piaro Lund-   (Male),25.558535734455756,68.8025941920806,Male,Sindh,4,0,1096,0
+61,Government Boys Primary School Allahyar Keerio-  (Combined),25.559905944414076,68.75475629187073,Combined,Sindh,1,1,363,343
+236,Government Boys Primary School Mevo Khaskheli-     (Combined),25.559983780399758,68.84802022527059,Combined,Sindh,2,2,683,610
+87,Government Boys Primary School Bahar Mirjat-   ( Female),25.568267549414166,68.68091826822541,Female,Sindh,0,4,0,2007
+79,Government Boys Primary School Doulat Khan Mirjat-   (Combined),25.569109952916627,68.66532553104452,Combined,Sindh,1,1,433,366
+86,Government High School Bahar Mirjat         (Male),25.56924287112505,68.68175555750545,Male,Sindh,4,0,2310,0
+49,Government High School Shahnawaz Muhajir-   (Male),25.571106120600056,68.71358974620412,Male,Sindh,4,0,1323,0
+47,Government Boys Primary School Kevro Lund         (Combined),25.57298097806901,68.73119412856967,Combined,Sindh,2,2,726,657
+50,Government High School Shahnawaz Muhajir-     (Female),25.57432,68.7138,Female,Sindh,0,4,0,891
+81,Government Boys Primary School Deputy Abdul Haq?   (Female),25.57613,68.66025,Female,Sindh,0,2,0,864
+80,Government Boys Primary School Deputy Abdul Haq? (Male),25.576790875922594,68.66047897738942,Male,Sindh,2,0,946,0
+22,Government Boys Primary School Meyoun Yar Muhammad    (Combined),25.581973929386916,68.76602346189333,Combined,Sindh,2,2,710,587
+48,Government Boys Primary School Sobharo Thebo-   (Combined),25.582286630226182,68.75228383162327,Combined,Sindh,2,2,414,406
+21,Government Boys Primary School Wahanyal Thebo                      (Combined),25.5832614551245,68.78028619056096,Combined,Sindh,2,2,665,621
+40,Government Middle School Dasori-   (Combined),25.58761,68.74824,Combined,Sindh,2,2,971,700
+46,Government Middle School Usman Shah Ji  Huri-    (Combined),25.59032843681482,68.69412783356228,Combined,Sindh,2,2,742,657
+23,Government Boys Primary School kot Soomar-      (Male),25.590334562139994,68.82901218511051,Male,Sindh,4,0,1220,0
+24,Government Boys Primary School Kot Soomar      (Female),25.590382437769016,68.82904364485829,Female,Sindh,0,3,0,978
+242,Government Boys Primary School Chandi Ram-  (Combined),25.590801088719545,68.8877080063459,Combined,Sindh,1,1,690,564
+43,Government Middle School Allah Rakhiyio Pathan-  (Combined),25.592119958502167,68.72345978652218,Combined,Sindh,2,2,741,618
+240,Government Boys Primary School Allah Ditto Babar-   (Male),25.59741290944716,68.85181661159366,Male,Sindh,3,0,1332,0
+241,Government Boys Primary School Allah Ditto Babar-  (Female),25.597416905797285,68.85182829865691,Female,Sindh,0,3,0,1086
+44,Government High School Ali Sher Muhajir-     (Combined),25.60193985323,68.72321097652524,Combined,Sindh,2,2,799,535
+45,Government Boys Primary School Sajan Solangi-    (Combined),25.609899941775076,68.709041688053,Combined,Sindh,2,2,488,447
+33,Government Boys Primary School Umer Saand    (Combined),25.614648231568204,68.70012840725907,Combined,Sindh,2,2,1162,946
+35,Government Boys Primary School Loung Baladi-  (Combined),25.614744799808868,68.67085374460746,Combined,Sindh,2,2,513,449
+41,Government Boys Primary School Mal Khan Thebo-    (Male),25.628651978521766,68.7155695548629,Male,Sindh,2,0,921,0
+42,Government Boys Primary School Mal Khan Thebo-    (Female),25.628651978521766,68.7155995548629,Female,Sindh,0,2,0,825
+30,Government Boys Primary School Piyar Ali Khaskheli     (Combined),25.629618943651316,68.8910743191793,Combined,Sindh,2,2,537,501
+19,Government Boys Middle School Kot Mir Ghulam Muhammad Talpur    (Combined),25.635695552389386,68.81053427554609,Combined,Sindh,2,2,629,651
+34,Government Boys Primary School Murad  Baloch-        (Combined),25.637023853203036,68.67527750112141,Combined,Sindh,2,2,635,485
+31,Government  Boys Primary School Gul Muhammad  Pali   (Combined),25.640877079317317,68.70685058380637,Combined,Sindh,2,2,580,503
+6,Government High School Jhando Mari-  (Male),25.64443780639378,68.90943543160466,Male,Sindh,4,0,1142,0
+7,Government Boys Primary School Jhando Mari-  (Female),25.64464790603741,68.90926292295799,Female,Sindh,0,4,0,977
+17,Government Boys Primary School Old Mirabad-   (Male),25.649471783894455,68.7883275875276,Male,Sindh,4,0,1594,0
+18,Government Middle School Old Mirabad    (Female),25.649850762755353,68.78840034172333,Female,Sindh,0,4,0,1373
+20,Government Boys Primary School Dost Muhammad Dars    (Combined),25.65081074566572,68.80995332320143,Combined,Sindh,2,2,780,625
+36,Government Boys Primary School Mitho Mirjat-  (Male),25.651263063448372,68.6983715802997,Male,Sindh,2,0,844,0
+32,Government Boys Primary School Ghulam Nabi Shah        (Combined),25.662567528576897,68.75588272742439,Combined,Sindh,2,2,492,392
+8,Government Boys Primary School Zardari Farm-   (Combined),25.672576724340505,68.8443731248359,Combined,Sindh,2,2,364,286
+9,Government Boys Primary School Saleh Khaskheli-   (Combined),25.676114658157186,68.80446096068134,Combined,Sindh,2,2,832,668
+15,Government Boys Primary School Pir Jurial  Shah ji Mari   (Male),25.681977067073063,68.74443955368453,Male,Sindh,4,0,1021,0
+16,Government Girls Primary School Pir Jurial  Shah ji Mari-  (Old Building)  (Female),25.68416846411856,68.743158894903,Female,Sindh,0,4,0,1020
+11,Government Girls Lower Secondary School Mashaikh Hoti   (Female),25.684455428825693,68.7749270741824,Female,Sindh,0,4,0,1411
+10,Government Boys Primary School Mashaekh Hoti-        (Male),25.68445822115119,68.77286607916783,Male,Sindh,4,0,1489,0
+5,Government Boys Primary School Bilawal Mari-   (Combined),25.685907660427233,68.88079466795311,Combined,Sindh,2,2,384,303
+38,Government Boys Primary School Bachal Shah-  (Combined),25.68877665291241,68.68995136191633,Combined,Sindh,2,2,767,584
+2,Government Boys Primary School Morio Sand-    (Male),25.689711326880015,68.7542971300242,Male,Sindh,4,0,986,0
+3,Government Boys Primary School Morio Sand-     (Female),25.689711326880015,68.7543271300242,Female,Sindh,0,2,0,993
+12,Government Middle School Syed Abdul Ghafoor Shah   (Combined),25.70790265667324,68.73707389077958,Combined,Sindh,2,2,596,506
+14,Government Boys Primary School Panah Shah   (Female),25.709757871560978,68.70347553234352,Female,Sindh,0,4,0,1223
+13,Government Middle School Syed Panah Shah (Male),25.712018684534005,68.70436622861357,Male,Sindh,4,0,1352,0
+1,Government Boys Primary School Lal Khan Lashari-    (Combined),25.717924334430496,68.77452949413723,Combined,Sindh,2,2,791,615
+4,Government Middle School Jurio Magsi-   (Combined),25.72881741111454,68.79264381615415,Combined,Sindh,2,2,462,341

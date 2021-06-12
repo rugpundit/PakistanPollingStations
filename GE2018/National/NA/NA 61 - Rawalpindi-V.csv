@@ -1,7 +1,7 @@
-PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
- 5 - Govt Khadija Umer Inter Colllage for Women Aziz Abab (Mughal Abad) (Male)(P),33.58835,73.03728,Male,Punjab,3,0,1122,0
- 3 - Station School No.1- 265-A near R.A. Bazar- Police Station Sher Khan Road (Male)(P).,33.59078,73.0453,Male,Punjab,1,0,606,0
- 4 - Station School No.1- 265-A near R.A. Bazar- Police Station Sher Khan Road (Female)(P).,33.59078,73.04533,Female,Punjab,0,1,0,610
- 1 - FG. Girls High School Azizabad Abid Majeed- Road (Male)(P).,33.59353,73.03683,Male,Punjab,1,0,361,0
- 2 - FG Girls High School Abid Majeed Road (Female)(P).,33.59353,73.03686,Female,Punjab,0,1,0,320
- 6 - FG Girls High School Abid Mjaeed Road (Female)(P).,33.59353,73.03689,Female,Punjab,0,3,0,1029
+StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+5,Govt Khadija Umer Inter Colllage for Women Aziz Abab (Mughal Abad) (Male)(P),33.58835,73.03728,Male,Punjab,3,0,1122,0
+3,Station School No.1- 265-A near R.A. Bazar- Police Station Sher Khan Road (Male)(P).,33.59078,73.0453,Male,Punjab,1,0,606,0
+4,Station School No.1- 265-A near R.A. Bazar- Police Station Sher Khan Road (Female)(P).,33.59078,73.04533,Female,Punjab,0,1,0,610
+1,FG. Girls High School Azizabad Abid Majeed- Road (Male)(P).,33.59353,73.03683,Male,Punjab,1,0,361,0
+2,FG Girls High School Abid Majeed Road (Female)(P).,33.59353,73.03686,Female,Punjab,0,1,0,320
+6,FG Girls High School Abid Mjaeed Road (Female)(P).,33.59353,73.03689,Female,Punjab,0,3,0,1029
