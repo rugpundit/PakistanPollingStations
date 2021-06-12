@@ -1,85 +1,85 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-244,Boys Primay School Sarsar Thokh (combined),30.42213963,70.26061565,Combined,Punjab,1,1,282,223
-242,Boys Middle School Gatta Raikh (combined),30.43556495,70.31870453,Combined,Punjab,1,1,259,199
-243,Girls Primay School Phughlu (combined),30.46341814,70.2889973,Combined,Punjab,1,1,670,559
-245,Boys Primay School Thul Marsar (combined),30.48013157,70.27863207,Combined,Punjab,1,1,639,605
-241,Boys Primary School Azghnani Bun (combined),30.48885556,70.33106987,Combined,Punjab,1,1,386,349
-240,Boys Middle School Theekar (combined),30.52075221,70.31417083,Combined,Punjab,1,1,528,454
-248,Boys Primary School Dhagaywar(combined),30.62438611,70.36514529,Combined,Punjab,1,1,348,302
-133,Boys Primary School- Rodo Gharbi (Combined),30.71458258,70.4478191,Combined,Punjab,1,1,455,302
-131,Boys High School- Birot Mandwani (Combined),30.76874457,70.49812533,Combined,Punjab,2,1,879,603
-132,Boys Primary School-  Mandwani (Combined),30.78200909,70.49549463,Combined,Punjab,2,1,793,518
-126,Boys Primary School- Kamawal (Combined),30.78958934,70.35849086,Combined,Punjab,1,1,536,259
-128,Boys Middle School- Kohar Janubi (Combined) Part-(I),30.80146106,70.48407702,Combined,Punjab,1,1,523,410
-129,Boys Middle School- Kohar Janubi (Combined) Part-II,30.80146106,70.48410702,Combined,Punjab,1,1,533,378
-104,Boys High School- Kot Qaisrani (Combined) =  Part(II),30.80614416,70.55082588,Combined,Punjab,2,1,786,638
-105,Girls High School- Kot Qaisrani (Combined)  Part(I),30.80614416,70.55085588,Combined,Punjab,1,1,627,500
-106,Girls High School- Kot Qaisrani (Combined) Part(II),30.80614416,70.55088588,Combined,Punjab,2,1,744,541
-130,Boys Primary School- Gorrah (Combined),30.81097838,70.39679651,Combined,Punjab,1,1,627,267
-127,Boys High School- Phugla (Combined),30.82537603,70.28029759,Combined,Punjab,2,1,792,536
-125,Boys Primary School- Nala Gharbi (Combined),30.85420247,70.29792239,Combined,Punjab,1,1,542,372
-107,Girls middle  School Shergarh (Combined),30.88789474,70.76591648,Combined,Punjab,1,1,671,459
-120,Boys Primary School- Bajal (Combined),30.90561178,70.27406233,Combined,Punjab,1,1,653,422
-115,Boys Primary School- Laree (Combined),30.95160247,70.27876378,Combined,Punjab,1,1,477,268
-123,Boys High School- Bathi (Combined),30.96222148,70.44935518,Combined,Punjab,1,1,574,394
-124,Boys Primary School- Bathi (Combined),30.96236027,70.44902525,Combined,Punjab,1,1,627,497
-119,Boys Middle School- Shamtala (Combined),30.96371518,70.36551193,Combined,Punjab,1,1,484,268
-118,Boys Primary School- Dahmani (Combined),30.9764306,70.45545434,Combined,Punjab,1,1,455,262
-67,Girls High School Tibi Qaisarani (Combined),31.00146,70.67203,Combined,Punjab,2,2,998,791
-117,Boys Middle  School- Sarfragh (Combined),31.01853489,70.31050844,Combined,Punjab,1,1,532,361
-116,Boys Primary School- Chhukay Zam (Combined),31.01907224,70.26797981,Combined,Punjab,1,1,311,205
-72,Boys Primary School Litiri Janubi (Combined),31.02065303,70.68499801,Combined,Punjab,1,1,625,474
-46,Boys Middle School Basti Azeem (Combined),31.0443,70.72658,Combined,Punjab,2,2,1027,748
-45,Boys  Primary School Batla (Combined),31.04535,70.52094,Combined,Punjab,1,1,465,299
-42,Boys Primary School Litra (Combined),31.04688,70.48817,Combined,Punjab,2,2,1097,825
-43,Boys Primary School Farooqabad  Litra (Combined),31.04693,70.48268,Combined,Punjab,2,2,1006,765
-48,Boys Middle School Chatrii (Combined),31.05067,70.54827,Combined,Punjab,1,1,523,397
-44,Boys High School Litra (Combined),31.05425,70.48289,Combined,Punjab,1,1,635,465
-54,Boys Middle School Marrah(Basti Shikhani) (Combined)  Part (I),31.05912,70.71975,Combined,Punjab,2,1,901,695
-55,Boys Middle School Marrah(Basti Shikhani) (Combined)    Part  (II),31.05912,70.71978,Combined,Punjab,1,1,708,540
-64,Girls Primary School Fateh Khan,31.05912,70.71981,Combined,Punjab,1,1,580,497
-122,Boys High School- Mithwan (Combined),31.07511634,70.43574759,Combined,Punjab,1,1,646,574
-39,Girls Primary School Babi (Combined),31.07639714,70.68134041,Combined,Punjab,1,1,590,510
-47,Boys Middle School Durkanii (Combined),31.08257,70.55859,Combined,Punjab,2,2,1129,832
-121,Boys Primary School- Bajha (Combined),31.10107103,70.42733918,Combined,Punjab,1,1,664,522
-63,Boys High School Nutkani (Combined)     Part  (II),31.105687,70.70669289,Combined,Punjab,2,1,721,651
-62,Boys High School Nutkani (Combined) Part  (I),31.10569,70.70669,Combined,Punjab,1,1,357,287
-59,Boys Primary School Nutkani (Combined),31.11047,70.70374,Combined,Punjab,2,2,1003,821
-60,Girls High School Nutkani (Combined)   Part (I),31.11105,70.6979,Combined,Punjab,1,1,669,524
-61,Girls High School Nutkani (Combined) Part  (II),31.11105,70.69793,Combined,Punjab,2,2,887,779
-30,Boys High School Vehova (Combined) Part (I),31.12670468,70.51058466,Combined,Punjab,2,1,937,650
-31,Boys High School Vehova (Combined) Part (II),31.12671443,70.51061558,Combined,Punjab,2,1,716,586
-32,Boys High School VEHOVA    Part (III)   (Combined),31.12671443,70.51064558,Combined,Punjab,2,2,1193,789
-29,Project Manager Office Vehova  (Combined),31.13069197,70.50569637,Combined,Punjab,2,2,954,766
-28,Union Council Office Vahova (Combined),31.13078515,70.50547564,Combined,Punjab,1,1,687,555
-27,Boys Middle School  Vehova  (Combined),31.13528763,70.51082427,Combined,Punjab,2,2,1132,968
-25,Girls Primary School Drabhi Vahova (Combined),31.14328568,70.51350302,Combined,Punjab,2,1,909,698
-58,Girls Primary School Hassan Abad(Larra) (Combined),31.15425,70.70836,Combined,Punjab,2,1,934,654
-113,Boys Primary School- Jindwanga (Combined),31.15437888,70.35048084,Combined,Punjab,1,1,579,342
-33,Boys Middle School Binda (Combined),31.16258062,70.43614833,Combined,Punjab,2,1,839,478
-21,Boys Primary School Mandhrain (Combined),31.16373,70.52915,Combined,Punjab,2,1,912,666
-26,Girls Primary School Dagar Wali (Combined),31.16413938,70.48314438,Combined,Punjab,2,2,913,706
-114,Boys Primary School- Lazdan (Combined),31.18654649,70.26462862,Combined,Punjab,1,1,529,347
-20,Girls High School Kotani (Combined),31.18931,70.48457,Combined,Punjab,2,2,1285,913
-19,Boys High School Kotani (Combined),31.1906,70.47766,Combined,Punjab,2,1,703,462
-16,Girls High School Mithey Wali Part (II)  (Combined),31.19803,70.52266,Combined,Punjab,1,1,554,466
-17,Boys High School Mithey Wali Part (I) Combined,31.19803,70.52269,Combined,Punjab,1,1,553,431
-18,Boys High School Mithey Wali Part (II)   (Combined),31.19803,70.52272,Combined,Punjab,2,1,709,582
-15,Girls High School Mithey Wali  Part (I) (Combined),31.20206,70.52408,Combined,Punjab,2,1,695,517
-56,Boys Middle School Gadi Shumali (Combined),31.20604,70.71733,Combined,Punjab,2,1,813,662
-4,Boys Middle School Marah  (Combined),31.23468,70.42982,Combined,Punjab,2,1,786,538
-49,Boys Middle School Kaloo Wala (Combined)  Part (I),31.24325,70.72092,Combined,Punjab,1,1,650,439
-50,Boys Middle School Kaloo Wala (Combined)    Part (II),31.24325,70.72095,Combined,Punjab,2,1,754,479
-10,Boys Primary School Ganjay Wali (Combined),31.24425,70.5462,Combined,Punjab,2,2,1186,724
-2,Boys Middle School Bhuch (Combined),31.24519,70.5284,Combined,Punjab,1,1,441,289
-264,Boys High School Katchi Wanga (Combined),31.24641,70.49007,Combined,Punjab,2,1,708,600
-6,Boys High School Lakhani (Combined),31.24993,70.46015,Combined,Punjab,2,2,1050,843
-14,Boys Primary School Chooni  (Combined),31.26361,70.67852,Combined,Punjab,2,1,939,660
-34,Boys High School Trimin,31.26625,70.68562,Combined,Punjab,2,2,1355,1017
-36,Boys Primary School Bukhara (Combined),31.27024,70.73074,Combined,Punjab,1,1,370,276
-35,Basic Health Centre Trimin (Combined),31.27084,70.68963,Combined,Punjab,2,2,1260,928
-3,Boys Primary School Shadi Wala (Combined),31.27245,70.50342,Combined,Punjab,1,1,638,386
-5,Boys Primary School Jarwar  (Combined),31.27249,70.45815,Combined,Punjab,1,1,553,349
-7,Boys High  School Wajjan (COMBINED) PART(I),31.30037,70.52814,Male,Punjab,3,0,1870,0
-8,Boys High  School Wajjan (COMBINED) PART(II),31.30037,70.52817,Female,Punjab,0,3,0,1481
-9,Boys High  School Wajjan (COMBINED) PART( III),31.30037,70.5282,Combined,Punjab,2,2,1219,775
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 244 - Boys Primay School Sarsar Thokh (combined),30.42213963,70.26061565,Combined,Punjab,1,1,282,223
+ 242 - Boys Middle School Gatta Raikh (combined),30.43556495,70.31870453,Combined,Punjab,1,1,259,199
+ 243 - Girls Primay School Phughlu (combined),30.46341814,70.2889973,Combined,Punjab,1,1,670,559
+ 245 - Boys Primay School Thul Marsar (combined),30.48013157,70.27863207,Combined,Punjab,1,1,639,605
+ 241 - Boys Primary School Azghnani Bun (combined),30.48885556,70.33106987,Combined,Punjab,1,1,386,349
+ 240 - Boys Middle School Theekar (combined),30.52075221,70.31417083,Combined,Punjab,1,1,528,454
+ 248 - Boys Primary School Dhagaywar(combined),30.62438611,70.36514529,Combined,Punjab,1,1,348,302
+ 133 - Boys Primary School- Rodo Gharbi (Combined),30.71458258,70.4478191,Combined,Punjab,1,1,455,302
+ 131 - Boys High School- Birot Mandwani (Combined),30.76874457,70.49812533,Combined,Punjab,2,1,879,603
+ 132 - Boys Primary School-  Mandwani (Combined),30.78200909,70.49549463,Combined,Punjab,2,1,793,518
+ 126 - Boys Primary School- Kamawal (Combined),30.78958934,70.35849086,Combined,Punjab,1,1,536,259
+ 128 - Boys Middle School- Kohar Janubi (Combined) Part-(I),30.80146106,70.48407702,Combined,Punjab,1,1,523,410
+ 129 - Boys Middle School- Kohar Janubi (Combined) Part-II,30.80146106,70.48410702,Combined,Punjab,1,1,533,378
+ 104 - Boys High School- Kot Qaisrani (Combined) =  Part(II),30.80614416,70.55082588,Combined,Punjab,2,1,786,638
+ 105 - Girls High School- Kot Qaisrani (Combined)  Part(I),30.80614416,70.55085588,Combined,Punjab,1,1,627,500
+ 106 - Girls High School- Kot Qaisrani (Combined) Part(II),30.80614416,70.55088588,Combined,Punjab,2,1,744,541
+ 130 - Boys Primary School- Gorrah (Combined),30.81097838,70.39679651,Combined,Punjab,1,1,627,267
+ 127 - Boys High School- Phugla (Combined),30.82537603,70.28029759,Combined,Punjab,2,1,792,536
+ 125 - Boys Primary School- Nala Gharbi (Combined),30.85420247,70.29792239,Combined,Punjab,1,1,542,372
+ 107 - Girls middle  School Shergarh (Combined),30.88789474,70.76591648,Combined,Punjab,1,1,671,459
+ 120 - Boys Primary School- Bajal (Combined),30.90561178,70.27406233,Combined,Punjab,1,1,653,422
+ 115 - Boys Primary School- Laree (Combined),30.95160247,70.27876378,Combined,Punjab,1,1,477,268
+ 123 - Boys High School- Bathi (Combined),30.96222148,70.44935518,Combined,Punjab,1,1,574,394
+ 124 - Boys Primary School- Bathi (Combined),30.96236027,70.44902525,Combined,Punjab,1,1,627,497
+ 119 - Boys Middle School- Shamtala (Combined),30.96371518,70.36551193,Combined,Punjab,1,1,484,268
+ 118 - Boys Primary School- Dahmani (Combined),30.9764306,70.45545434,Combined,Punjab,1,1,455,262
+ 67 - Girls High School Tibi Qaisarani (Combined),31.00146,70.67203,Combined,Punjab,2,2,998,791
+ 117 - Boys Middle  School- Sarfragh (Combined),31.01853489,70.31050844,Combined,Punjab,1,1,532,361
+ 116 - Boys Primary School- Chhukay Zam (Combined),31.01907224,70.26797981,Combined,Punjab,1,1,311,205
+ 72 - Boys Primary School Litiri Janubi (Combined),31.02065303,70.68499801,Combined,Punjab,1,1,625,474
+ 46 - Boys Middle School Basti Azeem (Combined),31.0443,70.72658,Combined,Punjab,2,2,1027,748
+ 45 - Boys  Primary School Batla (Combined),31.04535,70.52094,Combined,Punjab,1,1,465,299
+ 42 - Boys Primary School Litra (Combined),31.04688,70.48817,Combined,Punjab,2,2,1097,825
+ 43 - Boys Primary School Farooqabad  Litra (Combined),31.04693,70.48268,Combined,Punjab,2,2,1006,765
+ 48 - Boys Middle School Chatrii (Combined),31.05067,70.54827,Combined,Punjab,1,1,523,397
+ 44 - Boys High School Litra (Combined),31.05425,70.48289,Combined,Punjab,1,1,635,465
+ 54 - Boys Middle School Marrah(Basti Shikhani) (Combined)  Part (I),31.05912,70.71975,Combined,Punjab,2,1,901,695
+ 55 - Boys Middle School Marrah(Basti Shikhani) (Combined)    Part  (II),31.05912,70.71978,Combined,Punjab,1,1,708,540
+ 64 - Girls Primary School Fateh Khan,31.05912,70.71981,Combined,Punjab,1,1,580,497
+ 122 - Boys High School- Mithwan (Combined),31.07511634,70.43574759,Combined,Punjab,1,1,646,574
+ 39 - Girls Primary School Babi (Combined),31.07639714,70.68134041,Combined,Punjab,1,1,590,510
+ 47 - Boys Middle School Durkanii (Combined),31.08257,70.55859,Combined,Punjab,2,2,1129,832
+ 121 - Boys Primary School- Bajha (Combined),31.10107103,70.42733918,Combined,Punjab,1,1,664,522
+ 63 - Boys High School Nutkani (Combined)     Part  (II),31.105687,70.70669289,Combined,Punjab,2,1,721,651
+ 62 - Boys High School Nutkani (Combined) Part  (I),31.10569,70.70669,Combined,Punjab,1,1,357,287
+ 59 - Boys Primary School Nutkani (Combined),31.11047,70.70374,Combined,Punjab,2,2,1003,821
+ 60 - Girls High School Nutkani (Combined)   Part (I),31.11105,70.6979,Combined,Punjab,1,1,669,524
+ 61 - Girls High School Nutkani (Combined) Part  (II),31.11105,70.69793,Combined,Punjab,2,2,887,779
+ 30 - Boys High School Vehova (Combined) Part (I),31.12670468,70.51058466,Combined,Punjab,2,1,937,650
+ 31 - Boys High School Vehova (Combined) Part (II),31.12671443,70.51061558,Combined,Punjab,2,1,716,586
+ 32 - Boys High School VEHOVA    Part (III)   (Combined),31.12671443,70.51064558,Combined,Punjab,2,2,1193,789
+ 29 - Project Manager Office Vehova  (Combined),31.13069197,70.50569637,Combined,Punjab,2,2,954,766
+ 28 - Union Council Office Vahova (Combined),31.13078515,70.50547564,Combined,Punjab,1,1,687,555
+ 27 - Boys Middle School  Vehova  (Combined),31.13528763,70.51082427,Combined,Punjab,2,2,1132,968
+ 25 - Girls Primary School Drabhi Vahova (Combined),31.14328568,70.51350302,Combined,Punjab,2,1,909,698
+ 58 - Girls Primary School Hassan Abad(Larra) (Combined),31.15425,70.70836,Combined,Punjab,2,1,934,654
+ 113 - Boys Primary School- Jindwanga (Combined),31.15437888,70.35048084,Combined,Punjab,1,1,579,342
+ 33 - Boys Middle School Binda (Combined),31.16258062,70.43614833,Combined,Punjab,2,1,839,478
+ 21 - Boys Primary School Mandhrain (Combined),31.16373,70.52915,Combined,Punjab,2,1,912,666
+ 26 - Girls Primary School Dagar Wali (Combined),31.16413938,70.48314438,Combined,Punjab,2,2,913,706
+ 114 - Boys Primary School- Lazdan (Combined),31.18654649,70.26462862,Combined,Punjab,1,1,529,347
+ 20 - Girls High School Kotani (Combined),31.18931,70.48457,Combined,Punjab,2,2,1285,913
+ 19 - Boys High School Kotani (Combined),31.1906,70.47766,Combined,Punjab,2,1,703,462
+ 16 - Girls High School Mithey Wali Part (II)  (Combined),31.19803,70.52266,Combined,Punjab,1,1,554,466
+ 17 - Boys High School Mithey Wali Part (I) Combined,31.19803,70.52269,Combined,Punjab,1,1,553,431
+ 18 - Boys High School Mithey Wali Part (II)   (Combined),31.19803,70.52272,Combined,Punjab,2,1,709,582
+ 15 - Girls High School Mithey Wali  Part (I) (Combined),31.20206,70.52408,Combined,Punjab,2,1,695,517
+ 56 - Boys Middle School Gadi Shumali (Combined),31.20604,70.71733,Combined,Punjab,2,1,813,662
+ 4 - Boys Middle School Marah  (Combined),31.23468,70.42982,Combined,Punjab,2,1,786,538
+ 49 - Boys Middle School Kaloo Wala (Combined)  Part (I),31.24325,70.72092,Combined,Punjab,1,1,650,439
+ 50 - Boys Middle School Kaloo Wala (Combined)    Part (II),31.24325,70.72095,Combined,Punjab,2,1,754,479
+ 10 - Boys Primary School Ganjay Wali (Combined),31.24425,70.5462,Combined,Punjab,2,2,1186,724
+ 2 - Boys Middle School Bhuch (Combined),31.24519,70.5284,Combined,Punjab,1,1,441,289
+ 264 - Boys High School Katchi Wanga (Combined),31.24641,70.49007,Combined,Punjab,2,1,708,600
+ 6 - Boys High School Lakhani (Combined),31.24993,70.46015,Combined,Punjab,2,2,1050,843
+ 14 - Boys Primary School Chooni  (Combined),31.26361,70.67852,Combined,Punjab,2,1,939,660
+ 34 - Boys High School Trimin,31.26625,70.68562,Combined,Punjab,2,2,1355,1017
+ 36 - Boys Primary School Bukhara (Combined),31.27024,70.73074,Combined,Punjab,1,1,370,276
+ 35 - Basic Health Centre Trimin (Combined),31.27084,70.68963,Combined,Punjab,2,2,1260,928
+ 3 - Boys Primary School Shadi Wala (Combined),31.27245,70.50342,Combined,Punjab,1,1,638,386
+ 5 - Boys Primary School Jarwar  (Combined),31.27249,70.45815,Combined,Punjab,1,1,553,349
+ 7 - Boys High  School Wajjan (COMBINED) PART(I),31.30037,70.52814,Male,Punjab,3,0,1870,0
+ 8 - Boys High  School Wajjan (COMBINED) PART(II),31.30037,70.52817,Female,Punjab,0,3,0,1481
+ 9 - Boys High  School Wajjan (COMBINED) PART( III),31.30037,70.5282,Combined,Punjab,2,2,1219,775

@@ -1,305 +1,305 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-216,216. Government Boys Primery School- Bal Sheikhupura (Male) (P)*,0.2323,0.2323,Male,Punjab,3,0,1369,0
-272,272. Office Live Stock (Hospital ) Premery Centre- Jewon Pura Khurd (Male),29.32687,74.02795,Male,Punjab,3,0,1274,0
-273,273. Office Live Stock (Hospital ) Premery Centre- Jewon Pura Khurd (Male),29.32687,74.02798,Male,Punjab,3,0,949,0
-310,310. Government Boys Primary School Nawab Kot*  (Combined),31.56697,73.84842,Combined,Punjab,2,1,688,480
-309,309. Government Boys High School Mehmowali.*  (Combined),31.57937,73.88221,Combined,Punjab,2,1,825,609
-308,308. Government Girls Elementary School- Mahmun Wali.  (Combined),31.58057,73.8765,Combined,Punjab,2,1,680,494
-305,305. Government Primary School- Tharrian.  (Combined),31.58704,73.91013,Combined,Punjab,1,1,533,349
-209,209. Social Security Dispensary (Upper Story- Near Milk Pak Lahor Road- Sheikhupura. (Male). (T)**,31.60155,74.3252,Male,Punjab,2,0,1174,0
-210,210. Social Security Dispensary (Upper Story- Near Milk Pak Lahor Road- Sheikhupura (Male). (T)**,31.60155,74.32523,Male,Punjab,2,0,1230,0
-211,211. Social Security Dispensary (Ground Story)- Near Milk Pak Lahor Road- Sheikhupura (Female). (T)**,31.60155,74.32526,Female,Punjab,0,4,0,1848
-214,214. Social Security Dispensary - Near Milk Pak Lahor Road- Sheikhupura (Male). (T)**,31.60155,74.32529,Male,Punjab,4,0,1728,0
-301,301. Government Girls Middle School - Nawan Kot*  (Combined),31.60252,73.87344,Combined,Punjab,2,2,1075,837
-279,279. Government Boys High School- Nawan Kot* (Female),31.60473,73.87154,Female,Punjab,0,3,0,1480
-300,300. Government Boys High School Nawan Kot* (Male),31.60473,73.87157,Male,Punjab,4,0,1778,0
-108,108. Muncipal Committee-Girls High School- Akbar Bazar(Male) (P)*,31.60958916986885,74.3048637701799,Male,Punjab,2,0,1031,0
-109,109. Muncipal Committee Girls High School- Akbar Bazar Sheikhupura (Female) (P)*,31.60958916986885,74.3048937701799,Female,Punjab,0,2,0,820
-112,112. Government MC Model Girls High School- Allama Iqbal Park-Sheikhupura  (Male),31.60958916986885,74.3049237701799,Male,Punjab,2,0,1129,0
-113,113. Government MC Model Girls High School- Allama Iqbal Park-Sheikhupura (Female),31.60958916986885,74.3049537701799,Female,Punjab,0,2,0,1015
-118,118. Muncipal Committee Girls Primery School Israr Colony Sheikhupura (Female) (P)*,31.60958916986885,74.3049837701799,Female,Punjab,0,4,0,1728
-120,120. Muncipal Committee Girls Primery School Israr Colony Sheikhupura (Female) (P)*,31.60958916986885,74.3050137701799,Female,Punjab,0,2,0,1426
-124,124. Government MC Elementry School- Iqbal Park- Sheikhupura.  (Male),31.60958916986885,74.3050437701799,Male,Punjab,2,0,1137,0
-125,125. Government MC Elementary School- Iqbal Park- Sheikhupura. (Female),31.60958916986885,74.3050737701799,Female,Punjab,0,2,0,947
-142,142. Sanat Zar Near Stadium Park- Sheikhupura (Male) (P)*,31.60958916986885,74.3051037701799,Male,Punjab,4,0,1597,0
-143,143. Sanat Zar Near Stadium Park- Sheikhupura (Female) (P)*,31.60958916986885,74.3051337701799,Female,Punjab,0,3,0,1363
-145,145. Office of the Chairman- District Bait-ul-Maal Committee- Sheikhupura. (Female),31.60958916986885,74.3051637701799,Female,Punjab,0,3,0,1410
-151,151. Janaz Gah in Boher Wala Qabiristan Sheikhupura (Female) (T)**,31.60958916986885,74.3051937701799,Female,Punjab,0,2,0,1278
-161,161. Government Post Graduate College for Women-Sheikhupura (Female) (P)*,31.60958916986885,74.3052237701799,Female,Punjab,0,4,0,1903
-166,166. Social Security Hospital- Faisalabad Road- Sheikhupura. (Female),31.60958916986885,74.3052537701799,Female,Punjab,0,4,0,2014
-168,168. Government MC Girls Primary School- Mohalla Araianwala- Sheikhupura. (Male),31.60958916986885,74.3052837701799,Male,Punjab,4,0,1933,0
-53,53. Government Vocational Institue-Sheikhupura (Male) (P)*,31.60958916986885,74.3053137701799,Male,Punjab,2,0,1247,0
-54,54. Government Vocational Institue-Sheikhupura (Female) (P)*,31.60958916986885,74.3053437701799,Female,Punjab,0,2,0,936
-55,55. Muncipal Committee Boys Primery School- Sharif Colony Sheikhupura (Male) (P)*,31.60958916986885,74.3053737701799,Male,Punjab,4,0,2023,0
-56,56. Government MC Boys Primary School Sharif Colony- Sheikhupura (Female),31.60958916986885,74.3054037701799,Female,Punjab,0,4,0,1729
-61,61. Office of Deputy Collector (Apar Chinab) Canal Division- Sheikhupura (Male),31.60958916986885,74.3054337701799,Male,Punjab,3,0,1341,0
-313,313. Government Boys Middle School Tibi Hambo Chak NO. 578*  (Combined),31.61956,73.85493,Combined,Punjab,1,1,701,478
-311,311. Government Girls High School- Tibi Hambo (Primary Portion)  (Combined),31.61963,73.85386,Combined,Punjab,2,2,724,488
-312,312. Government Girls High School- Tibi Hambo (Primary Portion)  (Combined),31.61963,73.85389,Combined,Punjab,1,1,487,341
-307,307. Basic Health Unit- Bhikhi*  (Combined),31.6205,73.90874,Combined,Punjab,2,1,988,683
-280,280. Government Boys High School- (Jinnah Block) Bhikhi* (Female),31.62449,73.91241,Female,Punjab,0,2,0,927
-306,306. Government Boys High School- ( Iqbal Block) Bhikhi* (Male),31.62449,73.91244,Male,Punjab,2,0,1311,0
-302,302. Government Girls High School- Bhikhi*  (Combined),31.62654,73.91435,Combined,Punjab,2,1,979,602
-303,303. Government Girls Primary School- Bhikhi* (Male),31.62654,73.91438,Male,Punjab,4,0,1515,0
-304,304. Government Girls Inter College- Bhikhi (165)  (Female),31.627,73.91328,Female,Punjab,0,2,0,936
-298,298. Government Boys Primary School- Baryaranwala* (Combined),31.63234,73.93143,Combined,Punjab,2,2,888,672
-314,314. Government Girls Elementary School- Thatha Tarrarran. (Female),31.63688,73.85044,Female,Punjab,0,2,0,996
-316,316. Government Primary School- Hambo Tararran. (Male),31.63726,73.85141,Male,Punjab,3,0,1267,0
-299,299. Government Primary School- Islam pura- Bhikhi.  (Combined),31.6376,73.88739,Combined,Punjab,2,1,854,584
-297,297. Government Boys Primary School- Dhoke Wali*  (Combined),31.64015,73.90136,Combined,Punjab,2,1,702,506
-296,296. Government Girls Elementary School- Chah Chandu.  (Combined),31.64151,73.92133,Combined,Punjab,1,1,772,589
-286,286. Government Girls High School- (old building) Kharianwala .*  (Male),31.65352,73.93287,Male,Punjab,3,0,1540,0
-287,287. Government Girls High School- Kharianwala (old building).*  (Female),31.65352,73.9329,Female,Punjab,0,2,0,1075
-282,282. Government Boys High School-Kharianwala*  (Combined),31.65359,73.93209,Combined,Punjab,2,2,1037,679
-283,283. Government Boys High school Kharianwala (Male),31.65359,73.93212,Male,Punjab,3,0,1256,0
-284,284. Government Boys High school Kharianwala (Female),31.65359,73.93215,Female,Punjab,0,2,0,850
-285,285. Government Boys High school Kharianwala*  (Combined),31.65359,73.93218,Combined,Punjab,2,2,1069,755
-289,289. Government Boys Primary School- Longowal (Male )*,31.6582,73.8959,Male,Punjab,3,0,1437,0
-281,281. Rural Health Centre Kharianwala*  (Combined),31.65833,73.93418,Combined,Punjab,2,2,1118,642
-290,290. Government Girls Community Model School- Longowal (Female),31.65953,73.8916,Female,Punjab,0,2,0,1079
-288,288. Government Primary School Dhari Gujjran*  (Combined),31.66443,73.93433,Combined,Punjab,2,1,904,340
-295,295. Government Girls Primary School- Ayya Virkan*  (Combined),31.66942,73.9787,Combined,Punjab,1,1,527,418
-291,291. Government Boys Primary School- Kudlathi*  (Combined),31.67461,73.95984,Combined,Punjab,2,2,909,682
-317,317. Government Boys Primary School- Kudlathi. (224)  (Combined),31.67461,73.95987,Combined,Punjab,2,2,948,683
-292,292. Government Girls High School- Lalu Phuman*  (Combined),31.6779,73.95263,Combined,Punjab,2,2,748,645
-293,293. Government Girls High school- Lalu Phauman*  (Combined),31.6779,73.95266,Combined,Punjab,2,2,810,706
-294,294. Government Girls High School- Lalu Phuman  (Combined),31.6779,73.95269,Combined,Punjab,1,1,635,455
-275,275. Government Boys Primary School- Dera Fakhar Din* (Combined),31.68015,73.91699,Combined,Punjab,1,1,580,450
-277,277. Government Boys Primary School Pir Kot*  (Combined),31.68215,73.99837,Combined,Punjab,1,1,638,449
-217,217. Government Girls Primery School- Bal Sheikhupura (Female) (P)*,31.6829,74.06703,Female,Punjab,0,2,0,1030
-245,245. Government Girls Primery School Dera Rohiwala (Female) (P)*,31.68344,73.89445,Female,Punjab,0,2,0,998
-215,215. Government Boys Primery School- Zaffarabad Sheikhupura(Female) (P)*,31.68443,74.05763,Female,Punjab,0,3,0,1285
-263,263. Government Girls Middle School- Jewanpura Kalan* (Combined),31.68695,73.97826,Combined,Punjab,1,1,557,454
-264,264. Government Girls Middle School- Jewanpura Kalan*  (Combined),31.68695,73.97829,Combined,Punjab,1,1,692,544
-246,246. Government Primery School- Dera Rohiwala. (Male),31.68765,73.89507,Male,Punjab,3,0,1421,0
-274,274. Government Girls Primary school- Jewanpura Khurd* (Female),31.69151,73.9856,Female,Punjab,0,2,0,1038
-266,266. Government Boys Middle School- Jewanpura Khurd*  (Combined),31.69188,73.98325,Combined,Punjab,2,2,864,640
-271,271. Union Council office Jewanpura Khurd (Combined),31.69288,73.984,Combined,Punjab,2,2,1058,720
-265,265. Government Girls Primary School Dera Rajputan*  (Combined),31.69304,73.96523,Combined,Punjab,1,1,632,459
-278,278. Government Boys Primary School Rakh Damun Ana*  (Combined),31.69364,73.94481,Combined,Punjab,2,1,720,543
-22,22. Government Boys Primery School- Bhatti Dhillowan  (Combined)  (P)*,31.694080012217356,74.07527668028098,Combined,Punjab,1,1,298,280
-212,212. Government Boys Primery School- Bhatti Dhillwan Sheikhupura (Male) (P)*,31.69418,74.07466,Male,Punjab,3,0,1362,0
-213,213. Government Boys Primery School- Bhatti Dhillwan Sheikhupura (Female) (P)*,31.69418,74.07469,Female,Punjab,0,2,0,959
-267,267. Sharaf ud Din Goheer Girls High School- Moh.Mohsin Abad  (Male),31.69614,73.98621,Male,Punjab,3,0,1306,0
-268,268. Sharaf ud Din Goheer Girls High School- Moh.Mohsin Abad (Female),31.69614,73.98624,Female,Punjab,0,4,0,1538
-167,167. Muncipal Committee Primery School- Khokhar town-Sheikhupura (Male) (P)*,31.69752108993826,73.9787481497093,Male,Punjab,4,0,2136,0
-164,164. New Salater House Hanif Park- Sheikhupura ( Male) (T)**,31.697928121406218,73.99119780299232,Male,Punjab,3,0,1376,0
-165,165. New Salater House Hanif Park- Sheikhupura ( Male) (T)**,31.697928121406218,73.9912278029923,Male,Punjab,2,0,1230,0
-206,206. Dispensary Social Security opp.Toyo Nasic Glass Factory- Lahore road- Sheikhupura . (Male). (T)**,31.69857,74.03169,Male,Punjab,4,0,1438,0
-207,207. Dispensary Social Security opp.Toyo Nasic Glass Factory- Lahore road- Sheikhupura . (Male). (T)**,31.69857,74.03172,Male,Punjab,3,0,1214,0
-208,208. Dispensary Social Security opp.Toyo Nasic Glass Factory- Lahore road- Sheikhupura. (Female). (T)**,31.69857,74.03175,Female,Punjab,0,3,0,1988
-154,154. Muncipal Committee Girls Primery School- Moh.Rasool Pura- Near Tubewel- Sheikhupura (Male) (P)*,31.69876690619496,73.97436300301986,Male,Punjab,4,0,1680,0
-155,155. Muncipal Committee Girls Primery School- Moh.Rasool Pura- Near Tubewel- Sheikhupura (Female) (P)*,31.69876690619496,73.9743930030199,Female,Punjab,0,4,0,1867
-156,156. Government Tubewell No.24- Street No.3 Mohallah Rasool Pura- Sheikhupura (Male),31.699184618568957,73.97015421904004,Male,Punjab,4,0,1419,0
-157,157.Dawn Public School- Ghang Road- Sheikhupura. (Combined),31.699224675348947,73.97011642958634,Combined,Punjab,2,1,577,524
-158,158. Government Tubewell No.24- Street No.3- Mohallah Rashool Pura- Sheikhupura  (Female),31.699224675348947,73.9701464295863,Female,Punjab,0,4,0,1206
-204,204. Government MC Boys Primery School- Pir Bahar Shah- Sheikhupura. (Male),31.70006,74.00794,Male,Punjab,4,0,1919,0
-205,205. Government MC Boys Primery School- Pir Bahar Shah- Sheikhupura. (Female),31.70006,74.00797,Female,Punjab,0,2,0,1382
-201,201. Government Girls Primery School- Kot Saleem-Lahore road- Sheikhupura.  (Female),31.70052,74.03104,Female,Punjab,0,2,0,929
-162,162. Muncipal CommitteeGirls Primery School- Arrianwala Sheikhupura (Male) (P)*,31.7010508289025,73.98859318918457,Male,Punjab,4,0,2168,0
-121,121. Muncipal Committee Girls Primery School- Arrianwala Sheikhupura (Male) (P)*,31.701077475713976,73.98858695096395,Male,Punjab,2,0,858,0
-122,122. Muncipal Committee Girls Primery School- Arrianwala (Male) (P)*,31.701077475713976,73.9886169509639,Male,Punjab,2,0,1178,0
-123,123. Muncipal Committee Boys Primery School- Arrianwala Sheikhupura (Female) (P)*,31.701077475713976,73.988646950964,Female,Punjab,0,3,0,1545
-169,169. Muncipal Committee Boys Primery School- Arrianwala Sheikhupura (Female) (P)*,31.70137524773617,73.98868027541096,Female,Punjab,0,3,0,1438
-170,170. Muncipal Committee Boys Primery School- Arrianwala Sheikhupura (Female) (P)*,31.70137524773617,73.988710275411,Female,Punjab,0,3,0,1630
-163,163. Muncipal Committee Boys Primery School- Arrianwala Sheikhupura (Female) (P)*,31.70137819132022,73.98865914677731,Female,Punjab,0,3,0,1640
-140,140. Muncipal Committee Girls Primery School- Moh. Churighran-Sheikhupura (Male) (P)*,31.702357861142072,73.98064717506576,Male,Punjab,4,0,1738,0
-141,141. Government MC Model Girls School- Mohallah Churrigran-Sheikhupura. (Female),31.702357861142072,73.9806771750658,Female,Punjab,0,3,0,1439
-193,193. Office of the Deputy Director Housing & Town Planing- Sub-Region Sheikhupura- Lahore road Sheikhupura. (Male),31.70251,74.0223,Male,Punjab,4,0,1646,0
-194,194. Office of the Deputy Director Housing & Physical Planing Lahore road Sheikhupura (Female) (P)*,31.70251,74.02233,Female,Punjab,0,3,0,1382
-24,24. Government Girls High School- Chechoke Mallian  (Combined),31.703725246519706,74.07623467857626,Combined,Punjab,2,2,941,771
-23,23. Government Boys Primery School- Chechoke Mallian (Combined)  (P)*,31.70401155229773,74.07652866870558,Combined,Punjab,2,2,1167,897
-244,244. Government Girls High School Ghang (Combined)  (P)*,31.70497,73.90738,Combined,Punjab,1,1,672,481
-189,189. Government Boys Elemernty School- Housing Colony- Sheikhupura (Male) (P)*,31.70502,74.02029,Male,Punjab,4,0,2095,0
-191,191. Government Boys Elemernty School- Housing Colony- Sheikhupura (Male) (P)*,31.70502,74.02032,Male,Punjab,4,0,2003,0
-242,242. Government High School Ghang.  (Combined),31.70533,73.90781,Combined,Punjab,2,2,1077,867
-243,243. Government High School Ghang.  (Combined),31.70533,73.90784,Combined,Punjab,2,2,901,734
-198,198. Office of the XEN Building Department Lahore road- Sheikhupura (Male) (P)*,31.70563,74.00973,Male,Punjab,4,0,1983,0
-199,199. Office of the XEN Building Department Lahore road- Sheikhupura (Female) (P)*,31.70563,74.00976,Female,Punjab,0,2,0,1356
-192,192. Government Girls High School- Housing Colony. Sheikhupura. (Female),31.70564,74.02102,Female,Punjab,0,3,0,1855
-190,190. Government Girls School- Housing Colony. Sheikhupura (Female) (P)*,31.70564,74.02105,Female,Punjab,0,4,0,1633
-195,195. Office of the XEN High Way Department Lahore Road- Sheikhupura (Male) (P)*,31.70607,74.00983,Male,Punjab,4,0,1351,0
-196,196. Office of the XEN High Way Department Lahore Road- Sheikhupura (Male) (P)*,31.70607,74.00986,Male,Punjab,4,0,1259,0
-200,200. Office of the Suprentendent post Office Near High Way Office- Lahore Road- Sheikhupura (Male) (P)*,31.70638,74.0094,Male,Punjab,2,0,1146,0
-202,202. Office Divisional Superintendent Postal Services- Near Highway Lahore Road- Qila Sheikhupura (Male),31.70638,74.00943,Male,Punjab,3,0,1573,0
-203,203. Office Divisional Superintendent Postal Services- Near Highway Lahore Road- Qila Sheikhupura  (Female),31.70638,74.00946,Female,Punjab,0,2,0,1242
-276,276. Government Boys Primary School Chumber*  (Combined),31.7068,73.91534,Combined,Punjab,1,1,630,397
-173,173. Muncipal Committee Girls Primery School- Pir Bahar shah-Sheikhupura (Female) (P)*,31.70716552418597,74.0003002853231,Female,Punjab,0,4,0,2010
-149,149. Office of Exective District Officer- (Community Development)- Sheikhupura (Female). (P)*,31.70723935814614,73.97700676459296,Female,Punjab,0,3,0,1354
-159,159. Office of the District Education Officer- Elementry for Woman- Sheikhupura (Male) (P)*,31.70754395537988,73.97786432428522,Male,Punjab,3,0,1328,0
-160,160. Office of the District Education Officer- Elementry for Woman- Sheikhupura (Male) (P)*,31.70754395537988,73.9778943242852,Male,Punjab,2,0,898,0
-114,114. Government Khadija-Tul-Kubra Girls High School- Sheikhupura. (Male),31.707707686786822,73.98074122570391,Male,Punjab,4,0,1692,0
-115,115. Government Khadija-Tul-Kubra Girls High School- Sheikhupura. (Female),31.707707686786822,73.9807712257039,Female,Punjab,0,3,0,1412
-146,146. Government Post Graduate College for Women-Sheikhupura (Male) (P)*,31.70858029494235,73.97356545492025,Male,Punjab,4,0,1916,0
-147,147. Government Post Graduate College for Women-Sheikhupura (Female) (P)*,31.70858029494235,73.9735954549202,Female,Punjab,0,2,0,1209
-153,153. Government Post Graduate College for Women-Sheikhupura (Female) (P)*,31.70860807175533,73.97371928307815,Female,Punjab,0,3,0,1667
-57,57. Government Girls Post Graduate College- Sheikhupura ( Male) (P)*,31.7086181368898,73.97348712350058,Male,Punjab,2,0,1221,0
-58,58. Government Girls Post Graduate College- SKP ( Female) (P)*,31.7086181368898,73.9735171235006,Female,Punjab,0,2,0,1097
-174,174. Office of the Aqaf Near pir Bahar Shah- Sheikhupura (Male) (P)*,31.708829069641276,73.99946260888176,Male,Punjab,4,0,1763,0
-152,152. Office of the District Education Officer- Secondary- Sheikhupura (Male) (P)*,31.708919234769176,73.97654078594165,Male,Punjab,4,0,2024,0
-148,148. Office of the District Education Officer- Secondary- Sheikhupura (Male) (P)*,31.70895053493347,73.97656806513483,Male,Punjab,4,0,1497,0
-179,179. Medical Centre Social Security Faisal Abad Road Sheikhupura ( Female ) (T)**,31.70921394251198,73.99541242190153,Female,Punjab,0,4,0,1881
-30,30. Basic Health Unit Sahoke Mallian  (Combined),31.709290150007853,74.067679438142,Combined,Punjab,1,1,427,296
-144,144. Office of Chief Executive Officer( District Education Authority) Sheikhupura. (Male),31.709312292403673,73.97703576273108,Male,Punjab,4,0,1517,0
-27,27. Government Boys High School- Sahoke Mallian (Combined) (P)*,31.709587820696058,74.06759322711271,Combined,Punjab,2,1,887,569
-28,28. Government Boys High School- Sahoke Mallian (Combined) (P)*,31.709587820696058,74.0676232271127,Combined,Punjab,2,1,864,604
-29,29. Government Boys High School- Sahoke Mallian  (Combined)  (P)*,31.709587820696058,74.0676532271127,Combined,Punjab,2,1,1107,824
-116,116. Government Boys Liaqat High School- Sheikhupura (Male) (P)*,31.709977135446202,73.98828833556904,Male,Punjab,2,0,1153,0
-117,117. Government Boys Liaqat High School- Sheikhupura (Male) (P)*,31.709977135446202,73.988318335569,Male,Punjab,2,0,1079,0
-175,175. Government Girls Degree College- Pir Bahar Shah- Sheikhupura (Female) (P)*,31.70998590634613,73.99918214092163,Female,Punjab,0,3,0,1378
-119,119. Government Boys Liaqat High School- Sheikhupura (Male) (P)*,31.70998742106355,73.98827675847544,Male,Punjab,4,0,1783,0
-126,126. Government Liaqat High School- Sheikhupura.(Male) (P)*,31.70998876733633,73.98826170490837,Male,Punjab,4,0,1692,0
-127,127. Government Liaqat High School- Sheikhupura.(Female) (P)*,31.70998876733633,73.9882917049084,Female,Punjab,0,2,0,1323
-171,171. Government Girls Degree College- Pir Bahar Shah- Sheikhupura (Male) (P)*,31.710039263116986,73.9992341132361,Male,Punjab,4,0,1751,0
-172,172. Government Girls Degree College- Pir Bahar Shah- Sheikhupura (Male) (P)*,31.710039263116986,73.9992641132361,Male,Punjab,2,0,1158,0
-177,177. Government Girls Degree College- Pir Bahar Shah- Sheikhupura (Female) (P)*,31.710040765097464,73.99921387225848,Female,Punjab,0,3,0,1593
-178,178. Government Girls Degree College- Pir Bahar Shah-Sheikhupura (Male) (P)*,31.710040765097464,73.9992438722585,Male,Punjab,4,0,1795,0
-20,20. Government Girls Primary School- Burj Wala (Qila Ameer Singh)   (Male),31.710153833504986,74.02794173805302,Male,Punjab,3,0,1439,0
-21,21. Government Boys Primery School- Qilla Ameer Sing (Female) (P)*,31.710153836626755,74.02239469339247,Female,Punjab,0,2,0,964
-110,110. Government Furqan Shaheed High School- Sheikhupura.  (Male),31.71065075786108,73.97727344925497,Male,Punjab,3,0,1397,0
-111,111. Government Furqan Shaheed High School- Sheikhupura. (Female),31.71065075786108,73.977303449255,Female,Punjab,0,2,0,1217
-25,25. Government Girls Primery School- Chak Sathian (Combined) (P)*,31.71091077359795,74.08250198701826,Combined,Punjab,2,2,577,494
-26,26. Government Girls Primery School- Chak Sathian  (Combined) (P)*,31.71091077359795,74.0825319870183,Combined,Punjab,2,2,734,631
-176,176. Office Live Stock training Centre Lahore Road Sheikhupura (Male ) (P)*,31.711674612164952,73.99771879687556,Male,Punjab,4,0,1936,0
-134,134. Government Islamia High School- Sheikhupura.(Male) (P)*,31.711684315137468,73.98932846405386,Male,Punjab,4,0,1503,0
-186,186. Office Live Stock Training Centre Hostal Lahore Road- Sheikhupura (Female) (P)*,31.711788857945525,73.99750686615248,Female,Punjab,0,3,0,1443
-187,187. Live Stock training Centre Hostel- Sheikhupura (Male) (P)*,31.71179418210069,73.99752205563695,Male,Punjab,3,0,1572,0
-188,188. Office of Additional Director Live Stock- Sheikhupura (Female),31.71179418210069,73.9975520556369,Female,Punjab,0,2,0,1177
-183,183. Office of the District Officer Live Stock- Sheikhupura (Male) (P)*,31.711802992783934,73.99754041030415,Male,Punjab,2,0,1170,0
-185,185. Diagnostic Lab & DD- Live Stock- Sheikhupura ( Male) (T)**,31.711803659007472,73.99752431422846,Male,Punjab,4,0,1903,0
-180,180. Office of Deputy District Officer Live Stock- Sheikhupura (Male) (P)*,31.711816614824123,73.99751231208059,Male,Punjab,2,0,876,0
-181,181. Office of Deputy District Officer Live Stock- Sheikhupura (Male) (P)*,31.711816614824123,73.9975423120806,Male,Punjab,2,0,1208,0
-107,107. Government MC Girls Primery School- Ashraf Park- Near Amam Bargha- Sheikhupura  (Female),31.71220783013927,73.98509285863844,Female,Punjab,0,2,0,632
-106,106. Government MC Girls Primery School- Ashraf Park- Near Amam Bargha- Sheikhupura  (Male),31.71220783013927,73.9851228586384,Male,Punjab,2,0,734,0
-132,132. Muncipal Committee Jinnah Model Boys School- Old City Sheikhupura (Male) (P)*,31.71248955425517,73.99169166078948,Male,Punjab,4,0,1861,0
-133,133. Muncipal Committee Jinnah Model Boys School- Old City Sheikhupura (Female) (P)*,31.71248955425517,73.9917216607895,Female,Punjab,0,3,0,1527
-59,59. Government Boys Tariq High School- Sheikhupura. (Male) (P)*,31.712510751045375,73.9696780426482,Male,Punjab,2,0,1029,0
-60,60. Government Boys Tariq High School- Sheikhupura. (Female) (P)*,31.712510751045375,73.9697080426482,Female,Punjab,0,2,0,1011
-315,315. Government Primary School- Dhoop Sari- Chak No.578- Sheikhuprua  (Combined),31.71266,73.58006,Combined,Punjab,1,1,366,254
-135,135. Government MC Girls Middle School- Old City- Sheikhupura (Female),31.71273883688581,73.99137858423649,Female,Punjab,0,2,0,1268
-93,93. Muncipal Committee-Boys Primery School-Moh. Roshin Pura-Sheikhupura (Male) (P)*,31.712763768165573,74.00185011468633,Male,Punjab,3,0,1440,0
-184,184. Muncipal Committee Boys Primery School- Moh. Roshin Pura Sheikhupura (Female) (P)*,31.712794452088744,74.00196925012179,Female,Punjab,0,2,0,984
-103,103. Government Hajra Sharif Shaheed Girls High School- Mohallah Hanjranwan Wala- Sheikhupura  (Male),31.712988506614842,73.99257106603388,Male,Punjab,4,0,1315,0
-104,104. Government Hajra Sharif Shaheed Girls High School- Mohallah Hanjranwan Wala- Sheikhupura  (Male),31.712988506614842,73.9926010660339,Male,Punjab,2,0,854,0
-128,128. Government Hajra Sharif Shaheed Girls High School- Hunjranwanwala Sheikhupura. (Male),31.713047050060627,73.99255075816068,Male,Punjab,3,0,1484,0
-129,129. Government Hajra Sharif Shaheed Girls High School- Hunjranwanwala Sheikhupura.  (Female),31.713047050060627,73.9925807581607,Female,Punjab,0,2,0,1205
-130,130. Government Hajra Sharif Shaheed Girls High School- Hunjranwanwala Sheikhupura. (Male),31.713047050060627,73.9926107581607,Male,Punjab,2,0,1026,0
-131,131. Government Hajra Sharif Shaheed Girls High School- Hunjranwanwala Sheikhupura. (Female),31.713047050060627,73.9926407581607,Female,Punjab,0,2,0,899
-94,94. Muncipal Committee Girls Premery School- Rehmat Colony- SKP.(Female) (P)*,31.714417783894916,73.9986015040279,Female,Punjab,0,2,0,1100
-182,182. Muncipal Committee Girls Primery School- Rehmat Colony- Sheikhupura (Female) (P)*,31.71446257632907,73.99887861064892,Female,Punjab,0,4,0,1688
-31,31. Government Girls Community Middle School- Sahoke Mallian  (Combined)  (P)*,31.714872973362173,74.0598744644591,Combined,Punjab,1,1,635,441
-137,137. District Ladies Health Center- Dosehra Ground- Sheikhupura  (Female),31.7157430271316,73.98799473269578,Female,Punjab,0,2,0,1057
-62,62. Deputy Collector Office (Apar Chinab) Canal Division- Sheikhupura (Female),31.715867659600484,73.96681641586315,Female,Punjab,0,2,0,1092
-136,136. Muncipal Committee Boys Primery School- Gali Virkan old City Sheikhupura (Male) (P)*,31.716048942340908,73.98814749600928,Male,Punjab,2,0,1233,0
-138,138. Government College of Commerce- Doshera Ground- Sheikhupura. (Male),31.716133013829218,73.98726920418082,Male,Punjab,2,0,982,0
-139,139. Government College of Commerce- Doshera Ground- Sheikhupura. (Female),31.716133013829218,73.9872992041808,Female,Punjab,0,2,0,804
-51,51. Office Depty Director- Anti Corruption- Sheikhupura. ( Male) (P)*,31.717810437536752,73.9667556166182,Male,Punjab,3,0,1343,0
-52,52. Office Depty Director- Anti Corruption- Sheikhupura. ( Female) (P)*,31.717810437536752,73.9667856166182,Female,Punjab,0,2,0,1051
-90,90. Muncipal Committee- Girls Primery School- Moh. Sharif Pura (Ram Garah) Sheikhupura (Male) (P)*,31.71823472913571,73.99240697463085,Male,Punjab,3,0,1399,0
-91,91. Muncipal Committee- Girls Primery School- Moh. Sharif Pura (Ram Garah) (Male) (P)*,31.71823472913571,73.9924369746308,Male,Punjab,2,0,1175,0
-92,92. Muncipal Committee- Girls Primery School- Moh. Sharif Pura (Ram Garah) Sheikhupura (Female) (P)*,31.71823472913571,73.9924669746309,Female,Punjab,0,4,0,1864
-47,47. Government Girls MC Elementary School- Noor Ul Ameen colony- Sheikhupura (Male),31.71872062303104,73.96987650612718,Male,Punjab,4,0,1881,0
-48,48. Government Girls MC Elementary School- Noor Ul Ameen colony- Sheikhupura (Female),31.71872062303104,73.9699065061272,Female,Punjab,0,3,0,1530
-87,87. Office of the Auqaf Near Fish Farm- Jandiala Road- Sheikhupura (Male) (P)*,31.719099921916456,73.98618706862028,Male,Punjab,3,0,1400,0
-88,88. Office of the Auqaf Near Fish Farm- Jandiala Road- Sheikhupura (Female) (P)*,31.719099921916456,73.9862170686203,Female,Punjab,0,2,0,1131
-89,89. Office of the Auqaf Near Fish Farm- Jandiala Road- Sheikhupura (Female) (P)*,31.719099921916456,73.9862470686203,Female,Punjab,0,2,0,1108
-67,67. Government Boys Primery School- Mujahid Nagar Sheikhupura (Male) (P)*,31.71912520889354,73.98256262556686,Male,Punjab,2,0,738,0
-68,68. Government Boys Primery School- Mujahid Nagar Sheikhupura (Female) (P)*,31.71912520889354,73.9825926255669,Female,Punjab,0,1,0,590
-97,97. Government MC Boys Primary School- Mohallah Sharif Pura- Sheikhupura  (Female),31.71925743766456,73.99561381040677,Female,Punjab,0,4,0,1962
-98,98. Muncipal Committee- Boys Primery School Moh. Sharif Pura (Ramgarah)- Sheikhupura (Male) (P)*,31.71925743766456,73.9956438104068,Male,Punjab,2,0,1357,0
-99,99. Muncipal Committee- Boys Primery School Moh. Sharif Pura (Ramgarah)- Sheikhupura (Male) (P)*,31.71925743766456,73.9956738104068,Male,Punjab,3,0,1670,0
-84,84. Muncipal Committee- Dispensary No.2 ( Noor Pura Fish Farm ) Talib Town- Sheikhupura (Male) (P)*,31.720306916899865,73.98559620466037,Male,Punjab,2,0,1196,0
-105,105. Government Boys Primery School- Moh.Sharif Pura (Ram Garah ) Sheikhupura ( Female) (P)*,31.720359845690655,73.99410991086947,Female,Punjab,0,3,0,1643
-85,85. Muncipal Committee- Girls Premery School- (Noor Pura Fish Farm )Talib Town- Sheikhupura (Female) (P)*,31.72036596288876,73.98542293001948,Female,Punjab,0,4,0,1714
-86,86. Muncipal Committee- Girls Premery School- (Noor Pura Fish Farm ) Talib Town-Sheikhupura (Male) (P)*,31.72036596288876,73.9854529300195,Male,Punjab,3,0,1438,0
-16,16. Government Boys Elementry School- Mandiala Virkan (Combined) (P)*,31.72040975826397,74.01630205996307,Combined,Punjab,2,2,1262,806
-95,95. Government Girls MC Elementary School- Sheesh Mehal- Ghareeb Abad- Sheikhupura (Male),31.72043102095323,73.99935314109506,Male,Punjab,3,0,1679,0
-96,96. Government Girls MC Elementary School- Sheesh Mehal- Ghareeb Abad- Sheikhupura (Female),31.72043102095323,73.9993831410951,Female,Punjab,0,2,0,1246
-77,77. Government Girls Primery School- Moh.Rasool Nagar Sheikhupura (Female) (P)*,31.720476230343174,73.97167446879281,Female,Punjab,0,2,0,1388
-69,69. Government Comprehensive Higher Secondary School- Sheikhupura (Male),31.72063363820795,73.97447178180106,Male,Punjab,2,0,1110,0
-70,70. Government Comprehensive Higher Secondary School- Sheikhupura (Male),31.72063363820795,73.9745017818011,Male,Punjab,2,0,1103,0
-71,71. Government Comprehensive Higher Secondary School- Sheikhupura (Female),31.72063363820795,73.9745317818011,Female,Punjab,0,3,0,1636
-72,72. Government Comprehensive Higher Secondary School (Inter Block)- Sheikhupura (Male),31.72063363820795,73.9745617818011,Male,Punjab,4,0,2169,0
-73,73. Government Comprehensive Higher Secondary School (Inter Block)- Sheikhupura (Male),31.72063363820795,73.9745917818011,Male,Punjab,2,0,800,0
-74,74. Government Comprehensive Higher Secondary School (Inter Block)- Sheikhupura  (Female),31.72063363820795,73.9746217818011,Female,Punjab,0,2,0,1093
-75,75. Government Comprehensive Higher Secondary School (Inter Block)- Sheikhupura  (Female),31.72063363820795,73.9746517818011,Female,Punjab,0,3,0,1285
-76,76. Government Comprehensive Higher Secondary School- Sheikhupura (Male),31.72063363820795,73.9746817818011,Male,Punjab,4,0,1615,0
-64,64. Government Shafique Girls Primary School- Mohallah Muhammad Pura- Jandiala Road- Sheikhupura (Female),31.722330527984745,73.9766183502369,Female,Punjab,0,2,0,992
-66,66. Government Shafique Girls Primary School- Mohallah Muhammad Pura- Jandiala Road- Sheikhupura.  (Female),31.722330527984745,73.9766483502369,Female,Punjab,0,3,0,1414
-259,259. Government Girls Community Model School- Gazi Minara- Sheikhupura. (Male),31.72265,73.93416,Male,Punjab,2,0,902,0
-260,260. Government Girls Community Model School- Gazi Minara- Sheikhupura. (Male),31.72265,73.93419,Male,Punjab,2,0,1054,0
-261,261. Government Girls Community Model School- Gazi Minara- Sheikhupura. (Female),31.72265,73.93422,Female,Punjab,0,3,0,1420
-257,257. Government Boys High School Gazi Minara (Combined)  (P)*,31.72309,73.93372,Combined,Punjab,1,1,501,475
-258,258. Government Boys High School Gazi Minara  (Combined)  (P)*,31.72309,73.93375,Combined,Punjab,1,1,644,432
-256,256. Government Boys High School Gazi Minara  (Combined)  (P)*,31.72309,73.93378,Combined,Punjab,2,1,760,552
-49,49. Government Girls Elementary School- Farooq Nagar Sheikhupura (Male),31.723598741939963,73.96471131651506,Male,Punjab,4,0,1909,0
-50,50. Government Girls Elementary School- Farooq Nagar Sheikhupura (Female),31.723598741939963,73.9647413165151,Female,Punjab,0,3,0,1522
-81,81. Muncipal Committee- Girls High School- Jandiala Road- Sheikhupura(Male) (P)*,31.724021007173164,73.98116071065564,Male,Punjab,3,0,1551,0
-82,82. Muncipal Committee- Girls High School- Jandiala Road- Sheikhupura(Female) (P)*,31.724021007173164,73.9811907106556,Female,Punjab,0,2,0,1226
-83,83. Muncipal Committee- Girls High School- Jandiala Road- Sheikhupura(Male) (P)*,31.724021007173164,73.9812207106556,Male,Punjab,2,0,1058,0
-78,78. Muncipal Committee- Boys High School- Jandiala Road- Sheikhupura (Male) (P)*,31.724718314434906,73.97983542878005,Male,Punjab,4,0,1806,0
-79,79. Muncipal Committee- Boys High School- Jandiala Road- Sheikhupura (Male) (P)*,31.724718314434906,73.97986542878,Male,Punjab,2,0,1138,0
-80,80. Muncipal Committee- Boys High School- Jandiala Road- Sheikhupura (Female) (P)*,31.724718314434906,73.9798954287801,Female,Punjab,0,4,0,1935
-100,100. Muncipal Committee- Girls Elementry School- Gareeb Abad Sheikhupura (Male) (P)*,31.724947479865843,74.00223100685943,Male,Punjab,2,0,1570,0
-101,101. Muncipal Committee- Girls Elementry School- Gareeb Abad Sheikhupura (Male) (P)*,31.724947479865843,74.0022610068594,Male,Punjab,2,0,1093,0
-102,102. Muncipal Committee- Girls Elementry School- Gareeb Abad Sheikhupura (Female) (P)*,31.724947479865843,74.0022910068594,Female,Punjab,0,4,0,2075
-63,63. Muncipal Committee Boys Elementry School- Qadir Abad Sheikhupura (Male) (P)*,31.726402995461914,73.97302096899857,Male,Punjab,3,0,1405,0
-65,65. Muncipal Committee Boys Elementry School- Qadir Abad Sheikhupura (Male) (P)*,31.726402995461914,73.9730509689986,Male,Punjab,4,0,1787,0
-248,248. Government Primery School- Machikey.  (Combined),31.72959,73.91057,Combined,Punjab,1,1,623,472
-249,249. Government Primery School- Machikey.  (Combined),31.72959,73.9106,Combined,Punjab,1,1,645,461
-255,255. Government Girls Elementary School Ranikey Minara. (Female),31.72959,73.91063,Female,Punjab,0,3,0,1441
-13,13. Government Boys High School- Kot Ranjeet(Male) (P)*,31.734651642610658,74.00527663423036,Male,Punjab,4,0,1895,0
-14,14. Government Boys High School- Kot Ranjeet(Male) (P)*,31.734651642610658,74.0053066342304,Male,Punjab,3,0,1453,0
-15,15. Government Boys High School- Kot Ranjeet(Male) (P)*,31.73474737190278,74.00557542179477,Male,Punjab,3,0,1410,0
-38,38. Government Girls Primery School- Miraj Pura (Female) (P)*,31.735247477590164,73.97674441591926,Female,Punjab,0,3,0,1264
-39,39. Government Girls Primery School- Miraj Pura (Female) (P)*,31.735247477590164,73.9767744159193,Female,Punjab,0,4,0,2066
-45,45. Government Girls Primery School- Chak Dhanat Pura (Combined),31.736571557872544,73.88730121138843,Combined,Punjab,2,1,768,486
-46,46. Government Girls Primery School- Chak Dhanat Pura  (Combined),31.736571557872544,73.8873312113884,Combined,Punjab,1,1,581,366
-247,247. Government Primery School- Rakh Machikey.  (Combined),31.7374,73.90296,Combined,Punjab,1,1,603,489
-35,35. Government Girls High School- Bhadhroo Minara (Male). (P)*,31.73785673769435,73.96681577801232,Male,Punjab,2,0,1080,0
-36,36. Government Girls High School- Bhadhroo Minara (Male). (P)*,31.73785673769435,73.9668457780123,Male,Punjab,4,0,2946,0
-37,37. Government Girls High School- Bhadhroo Minara (Male). (P)*,31.73785673769435,73.9668757780123,Male,Punjab,3,0,974,0
-11,11. Government High School (Primery Campus)- Kot Ranjeet  (Female),31.73851043142246,74.00437863601809,Female,Punjab,0,3,0,1420
-12,12. Government High School (Primery Campus) Kot Ranjeet (Female),31.73851043142246,74.0044086360181,Female,Punjab,0,4,0,1805
-253,253. Basic Health Unit-Ranikey Minara (Male ) (P)*,31.73984,73.93886,Male,Punjab,2,0,1038,0
-254,254. Basic Health Unit-Ranikey Minara (Male ) (P)*,31.73984,73.93889,Male,Punjab,2,0,1012,0
-40,40. Government Elementary School- Jhamkey (Male),31.742928107523174,73.86453428857999,Male,Punjab,3,0,1416,0
-41,41. Government Elementary School- Jhamkey (Female),31.742928107523174,73.86456428858,Female,Punjab,0,2,0,900
-42,42. Government Elementary School- Jhamkey (Combined),31.742928107523174,73.86459428858,Combined,Punjab,2,1,841,616
-6,6. Government Girls Primery School- Khokhar ke Mallian  (Combined),31.745280787885424,74.05330083025171,Combined,Punjab,1,1,536,328
-34,34. Government Elementary School- Chappa Minara (Female),31.74565658349137,73.97264595075995,Female,Punjab,0,3,0,1616
-43,43. Government Girls High School- Jhamkey (Combined),31.74569874188861,73.87143509357333,Combined,Punjab,2,2,979,720
-44,44. Government Girls High School- Jhamkey (Combined),31.74569874188861,73.8714650935733,Combined,Punjab,2,1,870,628
-32,32. Government Girls Primery School- Chappa Minara (Male) (T)**,31.748348300048036,73.97584067199686,Male,Punjab,2,0,1306,0
-33,33. Government Girls Primery School- Chappa Minara (Male) (T)**,31.748348300048036,73.9758706719969,Male,Punjab,2,0,1101,0
-17,17. Government Boys Primery School- Qayampur  (Combined) (P)*,31.74862479489741,74.03975538766711,Combined,Punjab,1,1,558,392
-7,7. Govt.Elementry School- Mojoke Mallian  (Combined) (P)*,31.749262417673766,74.07086288786964,Combined,Punjab,2,1,823,581
-8,8. Government Elementry School- Mojoke Mallian (Combined)  (P)*,31.749262417673766,74.0708928878696,Combined,Punjab,1,1,431,257
-262,262. Government Girls Elementary School Kurlke Minara (Primary Section)  (Combined),31.75966,73.94324,Combined,Punjab,2,1,920,559
-19,19. Government Girls Elementary School- Dheer Da Dogran (Combined),31.768893727937186,74.02494768620839,Combined,Punjab,2,1,704,436
-18,18. Government Girls Elementary School- Dheer Da Dogran (Combined),31.768893727937186,74.0249776862084,Combined,Punjab,2,1,667,417
-4,4. Government Girls High School- Khair pur Mallian (Combined) (P)*,31.7693957232343,74.07614324084207,Combined,Punjab,2,2,1142,845
-3,3. Government Girls Community Model Elementary School- Mallian Kalan (Combined),31.771011052988257,74.06997864877579,Combined,Punjab,2,1,868,621
-1,1. Government Boys High School- Mallian Kalan (Combined) (P)*,31.77118359194642,74.0649527281248,Combined,Punjab,2,1,903,575
-2,2. Government Boys High School- Mallian Kalan (Combined) (P)*,31.77118359194642,74.0649827281248,Combined,Punjab,1,1,587,431
-231,231. Government Boys Primery School Mukta  (Combined)  (P)*,31.7715,73.93935,Combined,Punjab,2,2,1039,705
-241,241. Government Boys Primery School Thabal  (Combined)  (P)*,31.77637,73.99599,Combined,Punjab,2,2,1013,799
-237,237. Government Boys High School Mirza Virkan  (Combined) (P)*,31.78386,73.97768,Combined,Punjab,1,1,605,565
-238,238. Government Boys High School Mirza Virkan (Combined)  (P)*,31.78386,73.97771,Combined,Punjab,1,1,679,390
-239,239. Government Girls High School Mirza Virkan  (Combined) (P)*,31.78461,73.97532,Combined,Punjab,2,2,1034,720
-228,228. Government Primery School for Boys- Chak Shah Pur  (Combined)  (P)*,31.78671,73.93725,Combined,Punjab,2,1,634,474
-240,240. Government Girls Elementry School- Gopey Rai  (Combined)  (P)*,31.78965,73.99817,Combined,Punjab,2,1,770,538
-235,235. Government Boys Primery School Chacho key  (Combined)  (T)**,31.79296,74.02049,Combined,Punjab,2,1,854,624
-9,9. Government Boys Primery School- Bera Virkan  (Combined) (P)*,31.794216072054894,74.1011492045887,Combined,Punjab,1,1,693,448
-234,234. Government Girls Community Model School- Dera Ludhianian. (Combined),31.79745,74.03921,Combined,Punjab,2,1,859,555
-10,10. Government Boys Primery School- Pholo Deota   (Combined) (P)*,31.801751523944066,74.11228358621172,Combined,Punjab,2,1,762,446
-232,232. Government BoysHigh School Herdeve (Combined)  (P)*,31.80382,74.04523,Combined,Punjab,2,2,1232,888
-229,229. Government Boys Elementary School Ammonkey.  (Combined),31.80646,74.01537,Combined,Punjab,2,2,903,567
-230,230. Government Girls Elementary School Ammonkey.  (Combined),31.80757,74.01633,Combined,Punjab,2,2,886,618
-233,233. Government Girls High School Hardeve.  (Combined),31.81067,74.05173,Combined,Punjab,2,2,1035,804
-223,223. Government Girls High School Jandiala Sher Khan (Female). (P)*,31.81606,73.91846,Female,Punjab,0,3,0,1536
-218,218. Government Boys High School Jandiala Sher Khan (Male) (P)*,31.81919,73.92168,Male,Punjab,2,0,967,0
-219,219. Government Boys High School Jandiala Sher Khan (Male) (P)*,31.81919,73.92171,Male,Punjab,3,0,1404,0
-224,224. Government Boys High School Maddar (Combined) (P)*,31.82741,73.95731,Combined,Punjab,2,1,747,457
-225,225. Government Boys High School Maddar (Combined) (P)*,31.82741,73.95734,Combined,Punjab,2,1,789,504
-226,226. Government Girls Middle School Maddar  (Combined)  (P)*,31.829,73.95208,Combined,Punjab,2,1,820,528
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 216 - 216. Government Boys Primery School- Bal Sheikhupura (Male) (P)*,0.2323,0.2323,Male,Punjab,3,0,1369,0
+ 272 - 272. Office Live Stock (Hospital ) Premery Centre- Jewon Pura Khurd (Male),29.32687,74.02795,Male,Punjab,3,0,1274,0
+ 273 - 273. Office Live Stock (Hospital ) Premery Centre- Jewon Pura Khurd (Male),29.32687,74.02798,Male,Punjab,3,0,949,0
+ 310 - 310. Government Boys Primary School Nawab Kot*  (Combined),31.56697,73.84842,Combined,Punjab,2,1,688,480
+ 309 - 309. Government Boys High School Mehmowali.*  (Combined),31.57937,73.88221,Combined,Punjab,2,1,825,609
+ 308 - 308. Government Girls Elementary School- Mahmun Wali.  (Combined),31.58057,73.8765,Combined,Punjab,2,1,680,494
+ 305 - 305. Government Primary School- Tharrian.  (Combined),31.58704,73.91013,Combined,Punjab,1,1,533,349
+ 209 - 209. Social Security Dispensary (Upper Story- Near Milk Pak Lahor Road- Sheikhupura. (Male). (T)**,31.60155,74.3252,Male,Punjab,2,0,1174,0
+ 210 - 210. Social Security Dispensary (Upper Story- Near Milk Pak Lahor Road- Sheikhupura (Male). (T)**,31.60155,74.32523,Male,Punjab,2,0,1230,0
+ 211 - 211. Social Security Dispensary (Ground Story)- Near Milk Pak Lahor Road- Sheikhupura (Female). (T)**,31.60155,74.32526,Female,Punjab,0,4,0,1848
+ 214 - 214. Social Security Dispensary - Near Milk Pak Lahor Road- Sheikhupura (Male). (T)**,31.60155,74.32529,Male,Punjab,4,0,1728,0
+ 301 - 301. Government Girls Middle School - Nawan Kot*  (Combined),31.60252,73.87344,Combined,Punjab,2,2,1075,837
+ 279 - 279. Government Boys High School- Nawan Kot* (Female),31.60473,73.87154,Female,Punjab,0,3,0,1480
+ 300 - 300. Government Boys High School Nawan Kot* (Male),31.60473,73.87157,Male,Punjab,4,0,1778,0
+ 108 - 108. Muncipal Committee-Girls High School- Akbar Bazar(Male) (P)*,31.60958916986885,74.3048637701799,Male,Punjab,2,0,1031,0
+ 109 - 109. Muncipal Committee Girls High School- Akbar Bazar Sheikhupura (Female) (P)*,31.60958916986885,74.3048937701799,Female,Punjab,0,2,0,820
+ 112 - 112. Government MC Model Girls High School- Allama Iqbal Park-Sheikhupura  (Male),31.60958916986885,74.3049237701799,Male,Punjab,2,0,1129,0
+ 113 - 113. Government MC Model Girls High School- Allama Iqbal Park-Sheikhupura (Female),31.60958916986885,74.3049537701799,Female,Punjab,0,2,0,1015
+ 118 - 118. Muncipal Committee Girls Primery School Israr Colony Sheikhupura (Female) (P)*,31.60958916986885,74.3049837701799,Female,Punjab,0,4,0,1728
+ 120 - 120. Muncipal Committee Girls Primery School Israr Colony Sheikhupura (Female) (P)*,31.60958916986885,74.3050137701799,Female,Punjab,0,2,0,1426
+ 124 - 124. Government MC Elementry School- Iqbal Park- Sheikhupura.  (Male),31.60958916986885,74.3050437701799,Male,Punjab,2,0,1137,0
+ 125 - 125. Government MC Elementary School- Iqbal Park- Sheikhupura. (Female),31.60958916986885,74.3050737701799,Female,Punjab,0,2,0,947
+ 142 - 142. Sanat Zar Near Stadium Park- Sheikhupura (Male) (P)*,31.60958916986885,74.3051037701799,Male,Punjab,4,0,1597,0
+ 143 - 143. Sanat Zar Near Stadium Park- Sheikhupura (Female) (P)*,31.60958916986885,74.3051337701799,Female,Punjab,0,3,0,1363
+ 145 - 145. Office of the Chairman- District Bait-ul-Maal Committee- Sheikhupura. (Female),31.60958916986885,74.3051637701799,Female,Punjab,0,3,0,1410
+ 151 - 151. Janaz Gah in Boher Wala Qabiristan Sheikhupura (Female) (T)**,31.60958916986885,74.3051937701799,Female,Punjab,0,2,0,1278
+ 161 - 161. Government Post Graduate College for Women-Sheikhupura (Female) (P)*,31.60958916986885,74.3052237701799,Female,Punjab,0,4,0,1903
+ 166 - 166. Social Security Hospital- Faisalabad Road- Sheikhupura. (Female),31.60958916986885,74.3052537701799,Female,Punjab,0,4,0,2014
+ 168 - 168. Government MC Girls Primary School- Mohalla Araianwala- Sheikhupura. (Male),31.60958916986885,74.3052837701799,Male,Punjab,4,0,1933,0
+ 53 - 53. Government Vocational Institue-Sheikhupura (Male) (P)*,31.60958916986885,74.3053137701799,Male,Punjab,2,0,1247,0
+ 54 - 54. Government Vocational Institue-Sheikhupura (Female) (P)*,31.60958916986885,74.3053437701799,Female,Punjab,0,2,0,936
+ 55 - 55. Muncipal Committee Boys Primery School- Sharif Colony Sheikhupura (Male) (P)*,31.60958916986885,74.3053737701799,Male,Punjab,4,0,2023,0
+ 56 - 56. Government MC Boys Primary School Sharif Colony- Sheikhupura (Female),31.60958916986885,74.3054037701799,Female,Punjab,0,4,0,1729
+ 61 - 61. Office of Deputy Collector (Apar Chinab) Canal Division- Sheikhupura (Male),31.60958916986885,74.3054337701799,Male,Punjab,3,0,1341,0
+ 313 - 313. Government Boys Middle School Tibi Hambo Chak NO. 578*  (Combined),31.61956,73.85493,Combined,Punjab,1,1,701,478
+ 311 - 311. Government Girls High School- Tibi Hambo (Primary Portion)  (Combined),31.61963,73.85386,Combined,Punjab,2,2,724,488
+ 312 - 312. Government Girls High School- Tibi Hambo (Primary Portion)  (Combined),31.61963,73.85389,Combined,Punjab,1,1,487,341
+ 307 - 307. Basic Health Unit- Bhikhi*  (Combined),31.6205,73.90874,Combined,Punjab,2,1,988,683
+ 280 - 280. Government Boys High School- (Jinnah Block) Bhikhi* (Female),31.62449,73.91241,Female,Punjab,0,2,0,927
+ 306 - 306. Government Boys High School- ( Iqbal Block) Bhikhi* (Male),31.62449,73.91244,Male,Punjab,2,0,1311,0
+ 302 - 302. Government Girls High School- Bhikhi*  (Combined),31.62654,73.91435,Combined,Punjab,2,1,979,602
+ 303 - 303. Government Girls Primary School- Bhikhi* (Male),31.62654,73.91438,Male,Punjab,4,0,1515,0
+ 304 - 304. Government Girls Inter College- Bhikhi (165)  (Female),31.627,73.91328,Female,Punjab,0,2,0,936
+ 298 - 298. Government Boys Primary School- Baryaranwala* (Combined),31.63234,73.93143,Combined,Punjab,2,2,888,672
+ 314 - 314. Government Girls Elementary School- Thatha Tarrarran. (Female),31.63688,73.85044,Female,Punjab,0,2,0,996
+ 316 - 316. Government Primary School- Hambo Tararran. (Male),31.63726,73.85141,Male,Punjab,3,0,1267,0
+ 299 - 299. Government Primary School- Islam pura- Bhikhi.  (Combined),31.6376,73.88739,Combined,Punjab,2,1,854,584
+ 297 - 297. Government Boys Primary School- Dhoke Wali*  (Combined),31.64015,73.90136,Combined,Punjab,2,1,702,506
+ 296 - 296. Government Girls Elementary School- Chah Chandu.  (Combined),31.64151,73.92133,Combined,Punjab,1,1,772,589
+ 286 - 286. Government Girls High School- (old building) Kharianwala .*  (Male),31.65352,73.93287,Male,Punjab,3,0,1540,0
+ 287 - 287. Government Girls High School- Kharianwala (old building).*  (Female),31.65352,73.9329,Female,Punjab,0,2,0,1075
+ 282 - 282. Government Boys High School-Kharianwala*  (Combined),31.65359,73.93209,Combined,Punjab,2,2,1037,679
+ 283 - 283. Government Boys High school Kharianwala (Male),31.65359,73.93212,Male,Punjab,3,0,1256,0
+ 284 - 284. Government Boys High school Kharianwala (Female),31.65359,73.93215,Female,Punjab,0,2,0,850
+ 285 - 285. Government Boys High school Kharianwala*  (Combined),31.65359,73.93218,Combined,Punjab,2,2,1069,755
+ 289 - 289. Government Boys Primary School- Longowal (Male )*,31.6582,73.8959,Male,Punjab,3,0,1437,0
+ 281 - 281. Rural Health Centre Kharianwala*  (Combined),31.65833,73.93418,Combined,Punjab,2,2,1118,642
+ 290 - 290. Government Girls Community Model School- Longowal (Female),31.65953,73.8916,Female,Punjab,0,2,0,1079
+ 288 - 288. Government Primary School Dhari Gujjran*  (Combined),31.66443,73.93433,Combined,Punjab,2,1,904,340
+ 295 - 295. Government Girls Primary School- Ayya Virkan*  (Combined),31.66942,73.9787,Combined,Punjab,1,1,527,418
+ 291 - 291. Government Boys Primary School- Kudlathi*  (Combined),31.67461,73.95984,Combined,Punjab,2,2,909,682
+ 317 - 317. Government Boys Primary School- Kudlathi. (224)  (Combined),31.67461,73.95987,Combined,Punjab,2,2,948,683
+ 292 - 292. Government Girls High School- Lalu Phuman*  (Combined),31.6779,73.95263,Combined,Punjab,2,2,748,645
+ 293 - 293. Government Girls High school- Lalu Phauman*  (Combined),31.6779,73.95266,Combined,Punjab,2,2,810,706
+ 294 - 294. Government Girls High School- Lalu Phuman  (Combined),31.6779,73.95269,Combined,Punjab,1,1,635,455
+ 275 - 275. Government Boys Primary School- Dera Fakhar Din* (Combined),31.68015,73.91699,Combined,Punjab,1,1,580,450
+ 277 - 277. Government Boys Primary School Pir Kot*  (Combined),31.68215,73.99837,Combined,Punjab,1,1,638,449
+ 217 - 217. Government Girls Primery School- Bal Sheikhupura (Female) (P)*,31.6829,74.06703,Female,Punjab,0,2,0,1030
+ 245 - 245. Government Girls Primery School Dera Rohiwala (Female) (P)*,31.68344,73.89445,Female,Punjab,0,2,0,998
+ 215 - 215. Government Boys Primery School- Zaffarabad Sheikhupura(Female) (P)*,31.68443,74.05763,Female,Punjab,0,3,0,1285
+ 263 - 263. Government Girls Middle School- Jewanpura Kalan* (Combined),31.68695,73.97826,Combined,Punjab,1,1,557,454
+ 264 - 264. Government Girls Middle School- Jewanpura Kalan*  (Combined),31.68695,73.97829,Combined,Punjab,1,1,692,544
+ 246 - 246. Government Primery School- Dera Rohiwala. (Male),31.68765,73.89507,Male,Punjab,3,0,1421,0
+ 274 - 274. Government Girls Primary school- Jewanpura Khurd* (Female),31.69151,73.9856,Female,Punjab,0,2,0,1038
+ 266 - 266. Government Boys Middle School- Jewanpura Khurd*  (Combined),31.69188,73.98325,Combined,Punjab,2,2,864,640
+ 271 - 271. Union Council office Jewanpura Khurd (Combined),31.69288,73.984,Combined,Punjab,2,2,1058,720
+ 265 - 265. Government Girls Primary School Dera Rajputan*  (Combined),31.69304,73.96523,Combined,Punjab,1,1,632,459
+ 278 - 278. Government Boys Primary School Rakh Damun Ana*  (Combined),31.69364,73.94481,Combined,Punjab,2,1,720,543
+ 22 - 22. Government Boys Primery School- Bhatti Dhillowan  (Combined)  (P)*,31.694080012217356,74.07527668028098,Combined,Punjab,1,1,298,280
+ 212 - 212. Government Boys Primery School- Bhatti Dhillwan Sheikhupura (Male) (P)*,31.69418,74.07466,Male,Punjab,3,0,1362,0
+ 213 - 213. Government Boys Primery School- Bhatti Dhillwan Sheikhupura (Female) (P)*,31.69418,74.07469,Female,Punjab,0,2,0,959
+ 267 - 267. Sharaf ud Din Goheer Girls High School- Moh.Mohsin Abad  (Male),31.69614,73.98621,Male,Punjab,3,0,1306,0
+ 268 - 268. Sharaf ud Din Goheer Girls High School- Moh.Mohsin Abad (Female),31.69614,73.98624,Female,Punjab,0,4,0,1538
+ 167 - 167. Muncipal Committee Primery School- Khokhar town-Sheikhupura (Male) (P)*,31.69752108993826,73.9787481497093,Male,Punjab,4,0,2136,0
+ 164 - 164. New Salater House Hanif Park- Sheikhupura ( Male) (T)**,31.697928121406218,73.99119780299232,Male,Punjab,3,0,1376,0
+ 165 - 165. New Salater House Hanif Park- Sheikhupura ( Male) (T)**,31.697928121406218,73.9912278029923,Male,Punjab,2,0,1230,0
+ 206 - 206. Dispensary Social Security opp.Toyo Nasic Glass Factory- Lahore road- Sheikhupura . (Male). (T)**,31.69857,74.03169,Male,Punjab,4,0,1438,0
+ 207 - 207. Dispensary Social Security opp.Toyo Nasic Glass Factory- Lahore road- Sheikhupura . (Male). (T)**,31.69857,74.03172,Male,Punjab,3,0,1214,0
+ 208 - 208. Dispensary Social Security opp.Toyo Nasic Glass Factory- Lahore road- Sheikhupura. (Female). (T)**,31.69857,74.03175,Female,Punjab,0,3,0,1988
+ 154 - 154. Muncipal Committee Girls Primery School- Moh.Rasool Pura- Near Tubewel- Sheikhupura (Male) (P)*,31.69876690619496,73.97436300301986,Male,Punjab,4,0,1680,0
+ 155 - 155. Muncipal Committee Girls Primery School- Moh.Rasool Pura- Near Tubewel- Sheikhupura (Female) (P)*,31.69876690619496,73.9743930030199,Female,Punjab,0,4,0,1867
+ 156 - 156. Government Tubewell No.24- Street No.3 Mohallah Rasool Pura- Sheikhupura (Male),31.699184618568957,73.97015421904004,Male,Punjab,4,0,1419,0
+ 157 - 157.Dawn Public School- Ghang Road- Sheikhupura. (Combined),31.699224675348947,73.97011642958634,Combined,Punjab,2,1,577,524
+ 158 - 158. Government Tubewell No.24- Street No.3- Mohallah Rashool Pura- Sheikhupura  (Female),31.699224675348947,73.9701464295863,Female,Punjab,0,4,0,1206
+ 204 - 204. Government MC Boys Primery School- Pir Bahar Shah- Sheikhupura. (Male),31.70006,74.00794,Male,Punjab,4,0,1919,0
+ 205 - 205. Government MC Boys Primery School- Pir Bahar Shah- Sheikhupura. (Female),31.70006,74.00797,Female,Punjab,0,2,0,1382
+ 201 - 201. Government Girls Primery School- Kot Saleem-Lahore road- Sheikhupura.  (Female),31.70052,74.03104,Female,Punjab,0,2,0,929
+ 162 - 162. Muncipal CommitteeGirls Primery School- Arrianwala Sheikhupura (Male) (P)*,31.7010508289025,73.98859318918457,Male,Punjab,4,0,2168,0
+ 121 - 121. Muncipal Committee Girls Primery School- Arrianwala Sheikhupura (Male) (P)*,31.701077475713976,73.98858695096395,Male,Punjab,2,0,858,0
+ 122 - 122. Muncipal Committee Girls Primery School- Arrianwala (Male) (P)*,31.701077475713976,73.9886169509639,Male,Punjab,2,0,1178,0
+ 123 - 123. Muncipal Committee Boys Primery School- Arrianwala Sheikhupura (Female) (P)*,31.701077475713976,73.988646950964,Female,Punjab,0,3,0,1545
+ 169 - 169. Muncipal Committee Boys Primery School- Arrianwala Sheikhupura (Female) (P)*,31.70137524773617,73.98868027541096,Female,Punjab,0,3,0,1438
+ 170 - 170. Muncipal Committee Boys Primery School- Arrianwala Sheikhupura (Female) (P)*,31.70137524773617,73.988710275411,Female,Punjab,0,3,0,1630
+ 163 - 163. Muncipal Committee Boys Primery School- Arrianwala Sheikhupura (Female) (P)*,31.70137819132022,73.98865914677731,Female,Punjab,0,3,0,1640
+ 140 - 140. Muncipal Committee Girls Primery School- Moh. Churighran-Sheikhupura (Male) (P)*,31.702357861142072,73.98064717506576,Male,Punjab,4,0,1738,0
+ 141 - 141. Government MC Model Girls School- Mohallah Churrigran-Sheikhupura. (Female),31.702357861142072,73.9806771750658,Female,Punjab,0,3,0,1439
+ 193 - 193. Office of the Deputy Director Housing & Town Planing- Sub-Region Sheikhupura- Lahore road Sheikhupura. (Male),31.70251,74.0223,Male,Punjab,4,0,1646,0
+ 194 - 194. Office of the Deputy Director Housing & Physical Planing Lahore road Sheikhupura (Female) (P)*,31.70251,74.02233,Female,Punjab,0,3,0,1382
+ 24 - 24. Government Girls High School- Chechoke Mallian  (Combined),31.703725246519706,74.07623467857626,Combined,Punjab,2,2,941,771
+ 23 - 23. Government Boys Primery School- Chechoke Mallian (Combined)  (P)*,31.70401155229773,74.07652866870558,Combined,Punjab,2,2,1167,897
+ 244 - 244. Government Girls High School Ghang (Combined)  (P)*,31.70497,73.90738,Combined,Punjab,1,1,672,481
+ 189 - 189. Government Boys Elemernty School- Housing Colony- Sheikhupura (Male) (P)*,31.70502,74.02029,Male,Punjab,4,0,2095,0
+ 191 - 191. Government Boys Elemernty School- Housing Colony- Sheikhupura (Male) (P)*,31.70502,74.02032,Male,Punjab,4,0,2003,0
+ 242 - 242. Government High School Ghang.  (Combined),31.70533,73.90781,Combined,Punjab,2,2,1077,867
+ 243 - 243. Government High School Ghang.  (Combined),31.70533,73.90784,Combined,Punjab,2,2,901,734
+ 198 - 198. Office of the XEN Building Department Lahore road- Sheikhupura (Male) (P)*,31.70563,74.00973,Male,Punjab,4,0,1983,0
+ 199 - 199. Office of the XEN Building Department Lahore road- Sheikhupura (Female) (P)*,31.70563,74.00976,Female,Punjab,0,2,0,1356
+ 192 - 192. Government Girls High School- Housing Colony. Sheikhupura. (Female),31.70564,74.02102,Female,Punjab,0,3,0,1855
+ 190 - 190. Government Girls School- Housing Colony. Sheikhupura (Female) (P)*,31.70564,74.02105,Female,Punjab,0,4,0,1633
+ 195 - 195. Office of the XEN High Way Department Lahore Road- Sheikhupura (Male) (P)*,31.70607,74.00983,Male,Punjab,4,0,1351,0
+ 196 - 196. Office of the XEN High Way Department Lahore Road- Sheikhupura (Male) (P)*,31.70607,74.00986,Male,Punjab,4,0,1259,0
+ 200 - 200. Office of the Suprentendent post Office Near High Way Office- Lahore Road- Sheikhupura (Male) (P)*,31.70638,74.0094,Male,Punjab,2,0,1146,0
+ 202 - 202. Office Divisional Superintendent Postal Services- Near Highway Lahore Road- Qila Sheikhupura (Male),31.70638,74.00943,Male,Punjab,3,0,1573,0
+ 203 - 203. Office Divisional Superintendent Postal Services- Near Highway Lahore Road- Qila Sheikhupura  (Female),31.70638,74.00946,Female,Punjab,0,2,0,1242
+ 276 - 276. Government Boys Primary School Chumber*  (Combined),31.7068,73.91534,Combined,Punjab,1,1,630,397
+ 173 - 173. Muncipal Committee Girls Primery School- Pir Bahar shah-Sheikhupura (Female) (P)*,31.70716552418597,74.0003002853231,Female,Punjab,0,4,0,2010
+ 149 - 149. Office of Exective District Officer- (Community Development)- Sheikhupura (Female). (P)*,31.70723935814614,73.97700676459296,Female,Punjab,0,3,0,1354
+ 159 - 159. Office of the District Education Officer- Elementry for Woman- Sheikhupura (Male) (P)*,31.70754395537988,73.97786432428522,Male,Punjab,3,0,1328,0
+ 160 - 160. Office of the District Education Officer- Elementry for Woman- Sheikhupura (Male) (P)*,31.70754395537988,73.9778943242852,Male,Punjab,2,0,898,0
+ 114 - 114. Government Khadija-Tul-Kubra Girls High School- Sheikhupura. (Male),31.707707686786822,73.98074122570391,Male,Punjab,4,0,1692,0
+ 115 - 115. Government Khadija-Tul-Kubra Girls High School- Sheikhupura. (Female),31.707707686786822,73.9807712257039,Female,Punjab,0,3,0,1412
+ 146 - 146. Government Post Graduate College for Women-Sheikhupura (Male) (P)*,31.70858029494235,73.97356545492025,Male,Punjab,4,0,1916,0
+ 147 - 147. Government Post Graduate College for Women-Sheikhupura (Female) (P)*,31.70858029494235,73.9735954549202,Female,Punjab,0,2,0,1209
+ 153 - 153. Government Post Graduate College for Women-Sheikhupura (Female) (P)*,31.70860807175533,73.97371928307815,Female,Punjab,0,3,0,1667
+ 57 - 57. Government Girls Post Graduate College- Sheikhupura ( Male) (P)*,31.7086181368898,73.97348712350058,Male,Punjab,2,0,1221,0
+ 58 - 58. Government Girls Post Graduate College- SKP ( Female) (P)*,31.7086181368898,73.9735171235006,Female,Punjab,0,2,0,1097
+ 174 - 174. Office of the Aqaf Near pir Bahar Shah- Sheikhupura (Male) (P)*,31.708829069641276,73.99946260888176,Male,Punjab,4,0,1763,0
+ 152 - 152. Office of the District Education Officer- Secondary- Sheikhupura (Male) (P)*,31.708919234769176,73.97654078594165,Male,Punjab,4,0,2024,0
+ 148 - 148. Office of the District Education Officer- Secondary- Sheikhupura (Male) (P)*,31.70895053493347,73.97656806513483,Male,Punjab,4,0,1497,0
+ 179 - 179. Medical Centre Social Security Faisal Abad Road Sheikhupura ( Female ) (T)**,31.70921394251198,73.99541242190153,Female,Punjab,0,4,0,1881
+ 30 - 30. Basic Health Unit Sahoke Mallian  (Combined),31.709290150007853,74.067679438142,Combined,Punjab,1,1,427,296
+ 144 - 144. Office of Chief Executive Officer( District Education Authority) Sheikhupura. (Male),31.709312292403673,73.97703576273108,Male,Punjab,4,0,1517,0
+ 27 - 27. Government Boys High School- Sahoke Mallian (Combined) (P)*,31.709587820696058,74.06759322711271,Combined,Punjab,2,1,887,569
+ 28 - 28. Government Boys High School- Sahoke Mallian (Combined) (P)*,31.709587820696058,74.0676232271127,Combined,Punjab,2,1,864,604
+ 29 - 29. Government Boys High School- Sahoke Mallian  (Combined)  (P)*,31.709587820696058,74.0676532271127,Combined,Punjab,2,1,1107,824
+ 116 - 116. Government Boys Liaqat High School- Sheikhupura (Male) (P)*,31.709977135446202,73.98828833556904,Male,Punjab,2,0,1153,0
+ 117 - 117. Government Boys Liaqat High School- Sheikhupura (Male) (P)*,31.709977135446202,73.988318335569,Male,Punjab,2,0,1079,0
+ 175 - 175. Government Girls Degree College- Pir Bahar Shah- Sheikhupura (Female) (P)*,31.70998590634613,73.99918214092163,Female,Punjab,0,3,0,1378
+ 119 - 119. Government Boys Liaqat High School- Sheikhupura (Male) (P)*,31.70998742106355,73.98827675847544,Male,Punjab,4,0,1783,0
+ 126 - 126. Government Liaqat High School- Sheikhupura.(Male) (P)*,31.70998876733633,73.98826170490837,Male,Punjab,4,0,1692,0
+ 127 - 127. Government Liaqat High School- Sheikhupura.(Female) (P)*,31.70998876733633,73.9882917049084,Female,Punjab,0,2,0,1323
+ 171 - 171. Government Girls Degree College- Pir Bahar Shah- Sheikhupura (Male) (P)*,31.710039263116986,73.9992341132361,Male,Punjab,4,0,1751,0
+ 172 - 172. Government Girls Degree College- Pir Bahar Shah- Sheikhupura (Male) (P)*,31.710039263116986,73.9992641132361,Male,Punjab,2,0,1158,0
+ 177 - 177. Government Girls Degree College- Pir Bahar Shah- Sheikhupura (Female) (P)*,31.710040765097464,73.99921387225848,Female,Punjab,0,3,0,1593
+ 178 - 178. Government Girls Degree College- Pir Bahar Shah-Sheikhupura (Male) (P)*,31.710040765097464,73.9992438722585,Male,Punjab,4,0,1795,0
+ 20 - 20. Government Girls Primary School- Burj Wala (Qila Ameer Singh)   (Male),31.710153833504986,74.02794173805302,Male,Punjab,3,0,1439,0
+ 21 - 21. Government Boys Primery School- Qilla Ameer Sing (Female) (P)*,31.710153836626755,74.02239469339247,Female,Punjab,0,2,0,964
+ 110 - 110. Government Furqan Shaheed High School- Sheikhupura.  (Male),31.71065075786108,73.97727344925497,Male,Punjab,3,0,1397,0
+ 111 - 111. Government Furqan Shaheed High School- Sheikhupura. (Female),31.71065075786108,73.977303449255,Female,Punjab,0,2,0,1217
+ 25 - 25. Government Girls Primery School- Chak Sathian (Combined) (P)*,31.71091077359795,74.08250198701826,Combined,Punjab,2,2,577,494
+ 26 - 26. Government Girls Primery School- Chak Sathian  (Combined) (P)*,31.71091077359795,74.0825319870183,Combined,Punjab,2,2,734,631
+ 176 - 176. Office Live Stock training Centre Lahore Road Sheikhupura (Male ) (P)*,31.711674612164952,73.99771879687556,Male,Punjab,4,0,1936,0
+ 134 - 134. Government Islamia High School- Sheikhupura.(Male) (P)*,31.711684315137468,73.98932846405386,Male,Punjab,4,0,1503,0
+ 186 - 186. Office Live Stock Training Centre Hostal Lahore Road- Sheikhupura (Female) (P)*,31.711788857945525,73.99750686615248,Female,Punjab,0,3,0,1443
+ 187 - 187. Live Stock training Centre Hostel- Sheikhupura (Male) (P)*,31.71179418210069,73.99752205563695,Male,Punjab,3,0,1572,0
+ 188 - 188. Office of Additional Director Live Stock- Sheikhupura (Female),31.71179418210069,73.9975520556369,Female,Punjab,0,2,0,1177
+ 183 - 183. Office of the District Officer Live Stock- Sheikhupura (Male) (P)*,31.711802992783934,73.99754041030415,Male,Punjab,2,0,1170,0
+ 185 - 185. Diagnostic Lab & DD- Live Stock- Sheikhupura ( Male) (T)**,31.711803659007472,73.99752431422846,Male,Punjab,4,0,1903,0
+ 180 - 180. Office of Deputy District Officer Live Stock- Sheikhupura (Male) (P)*,31.711816614824123,73.99751231208059,Male,Punjab,2,0,876,0
+ 181 - 181. Office of Deputy District Officer Live Stock- Sheikhupura (Male) (P)*,31.711816614824123,73.9975423120806,Male,Punjab,2,0,1208,0
+ 107 - 107. Government MC Girls Primery School- Ashraf Park- Near Amam Bargha- Sheikhupura  (Female),31.71220783013927,73.98509285863844,Female,Punjab,0,2,0,632
+ 106 - 106. Government MC Girls Primery School- Ashraf Park- Near Amam Bargha- Sheikhupura  (Male),31.71220783013927,73.9851228586384,Male,Punjab,2,0,734,0
+ 132 - 132. Muncipal Committee Jinnah Model Boys School- Old City Sheikhupura (Male) (P)*,31.71248955425517,73.99169166078948,Male,Punjab,4,0,1861,0
+ 133 - 133. Muncipal Committee Jinnah Model Boys School- Old City Sheikhupura (Female) (P)*,31.71248955425517,73.9917216607895,Female,Punjab,0,3,0,1527
+ 59 - 59. Government Boys Tariq High School- Sheikhupura. (Male) (P)*,31.712510751045375,73.9696780426482,Male,Punjab,2,0,1029,0
+ 60 - 60. Government Boys Tariq High School- Sheikhupura. (Female) (P)*,31.712510751045375,73.9697080426482,Female,Punjab,0,2,0,1011
+ 315 - 315. Government Primary School- Dhoop Sari- Chak No.578- Sheikhuprua  (Combined),31.71266,73.58006,Combined,Punjab,1,1,366,254
+ 135 - 135. Government MC Girls Middle School- Old City- Sheikhupura (Female),31.71273883688581,73.99137858423649,Female,Punjab,0,2,0,1268
+ 93 - 93. Muncipal Committee-Boys Primery School-Moh. Roshin Pura-Sheikhupura (Male) (P)*,31.712763768165573,74.00185011468633,Male,Punjab,3,0,1440,0
+ 184 - 184. Muncipal Committee Boys Primery School- Moh. Roshin Pura Sheikhupura (Female) (P)*,31.712794452088744,74.00196925012179,Female,Punjab,0,2,0,984
+ 103 - 103. Government Hajra Sharif Shaheed Girls High School- Mohallah Hanjranwan Wala- Sheikhupura  (Male),31.712988506614842,73.99257106603388,Male,Punjab,4,0,1315,0
+ 104 - 104. Government Hajra Sharif Shaheed Girls High School- Mohallah Hanjranwan Wala- Sheikhupura  (Male),31.712988506614842,73.9926010660339,Male,Punjab,2,0,854,0
+ 128 - 128. Government Hajra Sharif Shaheed Girls High School- Hunjranwanwala Sheikhupura. (Male),31.713047050060627,73.99255075816068,Male,Punjab,3,0,1484,0
+ 129 - 129. Government Hajra Sharif Shaheed Girls High School- Hunjranwanwala Sheikhupura.  (Female),31.713047050060627,73.9925807581607,Female,Punjab,0,2,0,1205
+ 130 - 130. Government Hajra Sharif Shaheed Girls High School- Hunjranwanwala Sheikhupura. (Male),31.713047050060627,73.9926107581607,Male,Punjab,2,0,1026,0
+ 131 - 131. Government Hajra Sharif Shaheed Girls High School- Hunjranwanwala Sheikhupura. (Female),31.713047050060627,73.9926407581607,Female,Punjab,0,2,0,899
+ 94 - 94. Muncipal Committee Girls Premery School- Rehmat Colony- SKP.(Female) (P)*,31.714417783894916,73.9986015040279,Female,Punjab,0,2,0,1100
+ 182 - 182. Muncipal Committee Girls Primery School- Rehmat Colony- Sheikhupura (Female) (P)*,31.71446257632907,73.99887861064892,Female,Punjab,0,4,0,1688
+ 31 - 31. Government Girls Community Middle School- Sahoke Mallian  (Combined)  (P)*,31.714872973362173,74.0598744644591,Combined,Punjab,1,1,635,441
+ 137 - 137. District Ladies Health Center- Dosehra Ground- Sheikhupura  (Female),31.7157430271316,73.98799473269578,Female,Punjab,0,2,0,1057
+ 62 - 62. Deputy Collector Office (Apar Chinab) Canal Division- Sheikhupura (Female),31.715867659600484,73.96681641586315,Female,Punjab,0,2,0,1092
+ 136 - 136. Muncipal Committee Boys Primery School- Gali Virkan old City Sheikhupura (Male) (P)*,31.716048942340908,73.98814749600928,Male,Punjab,2,0,1233,0
+ 138 - 138. Government College of Commerce- Doshera Ground- Sheikhupura. (Male),31.716133013829218,73.98726920418082,Male,Punjab,2,0,982,0
+ 139 - 139. Government College of Commerce- Doshera Ground- Sheikhupura. (Female),31.716133013829218,73.9872992041808,Female,Punjab,0,2,0,804
+ 51 - 51. Office Depty Director- Anti Corruption- Sheikhupura. ( Male) (P)*,31.717810437536752,73.9667556166182,Male,Punjab,3,0,1343,0
+ 52 - 52. Office Depty Director- Anti Corruption- Sheikhupura. ( Female) (P)*,31.717810437536752,73.9667856166182,Female,Punjab,0,2,0,1051
+ 90 - 90. Muncipal Committee- Girls Primery School- Moh. Sharif Pura (Ram Garah) Sheikhupura (Male) (P)*,31.71823472913571,73.99240697463085,Male,Punjab,3,0,1399,0
+ 91 - 91. Muncipal Committee- Girls Primery School- Moh. Sharif Pura (Ram Garah) (Male) (P)*,31.71823472913571,73.9924369746308,Male,Punjab,2,0,1175,0
+ 92 - 92. Muncipal Committee- Girls Primery School- Moh. Sharif Pura (Ram Garah) Sheikhupura (Female) (P)*,31.71823472913571,73.9924669746309,Female,Punjab,0,4,0,1864
+ 47 - 47. Government Girls MC Elementary School- Noor Ul Ameen colony- Sheikhupura (Male),31.71872062303104,73.96987650612718,Male,Punjab,4,0,1881,0
+ 48 - 48. Government Girls MC Elementary School- Noor Ul Ameen colony- Sheikhupura (Female),31.71872062303104,73.9699065061272,Female,Punjab,0,3,0,1530
+ 87 - 87. Office of the Auqaf Near Fish Farm- Jandiala Road- Sheikhupura (Male) (P)*,31.719099921916456,73.98618706862028,Male,Punjab,3,0,1400,0
+ 88 - 88. Office of the Auqaf Near Fish Farm- Jandiala Road- Sheikhupura (Female) (P)*,31.719099921916456,73.9862170686203,Female,Punjab,0,2,0,1131
+ 89 - 89. Office of the Auqaf Near Fish Farm- Jandiala Road- Sheikhupura (Female) (P)*,31.719099921916456,73.9862470686203,Female,Punjab,0,2,0,1108
+ 67 - 67. Government Boys Primery School- Mujahid Nagar Sheikhupura (Male) (P)*,31.71912520889354,73.98256262556686,Male,Punjab,2,0,738,0
+ 68 - 68. Government Boys Primery School- Mujahid Nagar Sheikhupura (Female) (P)*,31.71912520889354,73.9825926255669,Female,Punjab,0,1,0,590
+ 97 - 97. Government MC Boys Primary School- Mohallah Sharif Pura- Sheikhupura  (Female),31.71925743766456,73.99561381040677,Female,Punjab,0,4,0,1962
+ 98 - 98. Muncipal Committee- Boys Primery School Moh. Sharif Pura (Ramgarah)- Sheikhupura (Male) (P)*,31.71925743766456,73.9956438104068,Male,Punjab,2,0,1357,0
+ 99 - 99. Muncipal Committee- Boys Primery School Moh. Sharif Pura (Ramgarah)- Sheikhupura (Male) (P)*,31.71925743766456,73.9956738104068,Male,Punjab,3,0,1670,0
+ 84 - 84. Muncipal Committee- Dispensary No.2 ( Noor Pura Fish Farm ) Talib Town- Sheikhupura (Male) (P)*,31.720306916899865,73.98559620466037,Male,Punjab,2,0,1196,0
+ 105 - 105. Government Boys Primery School- Moh.Sharif Pura (Ram Garah ) Sheikhupura ( Female) (P)*,31.720359845690655,73.99410991086947,Female,Punjab,0,3,0,1643
+ 85 - 85. Muncipal Committee- Girls Premery School- (Noor Pura Fish Farm )Talib Town- Sheikhupura (Female) (P)*,31.72036596288876,73.98542293001948,Female,Punjab,0,4,0,1714
+ 86 - 86. Muncipal Committee- Girls Premery School- (Noor Pura Fish Farm ) Talib Town-Sheikhupura (Male) (P)*,31.72036596288876,73.9854529300195,Male,Punjab,3,0,1438,0
+ 16 - 16. Government Boys Elementry School- Mandiala Virkan (Combined) (P)*,31.72040975826397,74.01630205996307,Combined,Punjab,2,2,1262,806
+ 95 - 95. Government Girls MC Elementary School- Sheesh Mehal- Ghareeb Abad- Sheikhupura (Male),31.72043102095323,73.99935314109506,Male,Punjab,3,0,1679,0
+ 96 - 96. Government Girls MC Elementary School- Sheesh Mehal- Ghareeb Abad- Sheikhupura (Female),31.72043102095323,73.9993831410951,Female,Punjab,0,2,0,1246
+ 77 - 77. Government Girls Primery School- Moh.Rasool Nagar Sheikhupura (Female) (P)*,31.720476230343174,73.97167446879281,Female,Punjab,0,2,0,1388
+ 69 - 69. Government Comprehensive Higher Secondary School- Sheikhupura (Male),31.72063363820795,73.97447178180106,Male,Punjab,2,0,1110,0
+ 70 - 70. Government Comprehensive Higher Secondary School- Sheikhupura (Male),31.72063363820795,73.9745017818011,Male,Punjab,2,0,1103,0
+ 71 - 71. Government Comprehensive Higher Secondary School- Sheikhupura (Female),31.72063363820795,73.9745317818011,Female,Punjab,0,3,0,1636
+ 72 - 72. Government Comprehensive Higher Secondary School (Inter Block)- Sheikhupura (Male),31.72063363820795,73.9745617818011,Male,Punjab,4,0,2169,0
+ 73 - 73. Government Comprehensive Higher Secondary School (Inter Block)- Sheikhupura (Male),31.72063363820795,73.9745917818011,Male,Punjab,2,0,800,0
+ 74 - 74. Government Comprehensive Higher Secondary School (Inter Block)- Sheikhupura  (Female),31.72063363820795,73.9746217818011,Female,Punjab,0,2,0,1093
+ 75 - 75. Government Comprehensive Higher Secondary School (Inter Block)- Sheikhupura  (Female),31.72063363820795,73.9746517818011,Female,Punjab,0,3,0,1285
+ 76 - 76. Government Comprehensive Higher Secondary School- Sheikhupura (Male),31.72063363820795,73.9746817818011,Male,Punjab,4,0,1615,0
+ 64 - 64. Government Shafique Girls Primary School- Mohallah Muhammad Pura- Jandiala Road- Sheikhupura (Female),31.722330527984745,73.9766183502369,Female,Punjab,0,2,0,992
+ 66 - 66. Government Shafique Girls Primary School- Mohallah Muhammad Pura- Jandiala Road- Sheikhupura.  (Female),31.722330527984745,73.9766483502369,Female,Punjab,0,3,0,1414
+ 259 - 259. Government Girls Community Model School- Gazi Minara- Sheikhupura. (Male),31.72265,73.93416,Male,Punjab,2,0,902,0
+ 260 - 260. Government Girls Community Model School- Gazi Minara- Sheikhupura. (Male),31.72265,73.93419,Male,Punjab,2,0,1054,0
+ 261 - 261. Government Girls Community Model School- Gazi Minara- Sheikhupura. (Female),31.72265,73.93422,Female,Punjab,0,3,0,1420
+ 257 - 257. Government Boys High School Gazi Minara (Combined)  (P)*,31.72309,73.93372,Combined,Punjab,1,1,501,475
+ 258 - 258. Government Boys High School Gazi Minara  (Combined)  (P)*,31.72309,73.93375,Combined,Punjab,1,1,644,432
+ 256 - 256. Government Boys High School Gazi Minara  (Combined)  (P)*,31.72309,73.93378,Combined,Punjab,2,1,760,552
+ 49 - 49. Government Girls Elementary School- Farooq Nagar Sheikhupura (Male),31.723598741939963,73.96471131651506,Male,Punjab,4,0,1909,0
+ 50 - 50. Government Girls Elementary School- Farooq Nagar Sheikhupura (Female),31.723598741939963,73.9647413165151,Female,Punjab,0,3,0,1522
+ 81 - 81. Muncipal Committee- Girls High School- Jandiala Road- Sheikhupura(Male) (P)*,31.724021007173164,73.98116071065564,Male,Punjab,3,0,1551,0
+ 82 - 82. Muncipal Committee- Girls High School- Jandiala Road- Sheikhupura(Female) (P)*,31.724021007173164,73.9811907106556,Female,Punjab,0,2,0,1226
+ 83 - 83. Muncipal Committee- Girls High School- Jandiala Road- Sheikhupura(Male) (P)*,31.724021007173164,73.9812207106556,Male,Punjab,2,0,1058,0
+ 78 - 78. Muncipal Committee- Boys High School- Jandiala Road- Sheikhupura (Male) (P)*,31.724718314434906,73.97983542878005,Male,Punjab,4,0,1806,0
+ 79 - 79. Muncipal Committee- Boys High School- Jandiala Road- Sheikhupura (Male) (P)*,31.724718314434906,73.97986542878,Male,Punjab,2,0,1138,0
+ 80 - 80. Muncipal Committee- Boys High School- Jandiala Road- Sheikhupura (Female) (P)*,31.724718314434906,73.9798954287801,Female,Punjab,0,4,0,1935
+ 100 - 100. Muncipal Committee- Girls Elementry School- Gareeb Abad Sheikhupura (Male) (P)*,31.724947479865843,74.00223100685943,Male,Punjab,2,0,1570,0
+ 101 - 101. Muncipal Committee- Girls Elementry School- Gareeb Abad Sheikhupura (Male) (P)*,31.724947479865843,74.0022610068594,Male,Punjab,2,0,1093,0
+ 102 - 102. Muncipal Committee- Girls Elementry School- Gareeb Abad Sheikhupura (Female) (P)*,31.724947479865843,74.0022910068594,Female,Punjab,0,4,0,2075
+ 63 - 63. Muncipal Committee Boys Elementry School- Qadir Abad Sheikhupura (Male) (P)*,31.726402995461914,73.97302096899857,Male,Punjab,3,0,1405,0
+ 65 - 65. Muncipal Committee Boys Elementry School- Qadir Abad Sheikhupura (Male) (P)*,31.726402995461914,73.9730509689986,Male,Punjab,4,0,1787,0
+ 248 - 248. Government Primery School- Machikey.  (Combined),31.72959,73.91057,Combined,Punjab,1,1,623,472
+ 249 - 249. Government Primery School- Machikey.  (Combined),31.72959,73.9106,Combined,Punjab,1,1,645,461
+ 255 - 255. Government Girls Elementary School Ranikey Minara. (Female),31.72959,73.91063,Female,Punjab,0,3,0,1441
+ 13 - 13. Government Boys High School- Kot Ranjeet(Male) (P)*,31.734651642610658,74.00527663423036,Male,Punjab,4,0,1895,0
+ 14 - 14. Government Boys High School- Kot Ranjeet(Male) (P)*,31.734651642610658,74.0053066342304,Male,Punjab,3,0,1453,0
+ 15 - 15. Government Boys High School- Kot Ranjeet(Male) (P)*,31.73474737190278,74.00557542179477,Male,Punjab,3,0,1410,0
+ 38 - 38. Government Girls Primery School- Miraj Pura (Female) (P)*,31.735247477590164,73.97674441591926,Female,Punjab,0,3,0,1264
+ 39 - 39. Government Girls Primery School- Miraj Pura (Female) (P)*,31.735247477590164,73.9767744159193,Female,Punjab,0,4,0,2066
+ 45 - 45. Government Girls Primery School- Chak Dhanat Pura (Combined),31.736571557872544,73.88730121138843,Combined,Punjab,2,1,768,486
+ 46 - 46. Government Girls Primery School- Chak Dhanat Pura  (Combined),31.736571557872544,73.8873312113884,Combined,Punjab,1,1,581,366
+ 247 - 247. Government Primery School- Rakh Machikey.  (Combined),31.7374,73.90296,Combined,Punjab,1,1,603,489
+ 35 - 35. Government Girls High School- Bhadhroo Minara (Male). (P)*,31.73785673769435,73.96681577801232,Male,Punjab,2,0,1080,0
+ 36 - 36. Government Girls High School- Bhadhroo Minara (Male). (P)*,31.73785673769435,73.9668457780123,Male,Punjab,4,0,2946,0
+ 37 - 37. Government Girls High School- Bhadhroo Minara (Male). (P)*,31.73785673769435,73.9668757780123,Male,Punjab,3,0,974,0
+ 11 - 11. Government High School (Primery Campus)- Kot Ranjeet  (Female),31.73851043142246,74.00437863601809,Female,Punjab,0,3,0,1420
+ 12 - 12. Government High School (Primery Campus) Kot Ranjeet (Female),31.73851043142246,74.0044086360181,Female,Punjab,0,4,0,1805
+ 253 - 253. Basic Health Unit-Ranikey Minara (Male ) (P)*,31.73984,73.93886,Male,Punjab,2,0,1038,0
+ 254 - 254. Basic Health Unit-Ranikey Minara (Male ) (P)*,31.73984,73.93889,Male,Punjab,2,0,1012,0
+ 40 - 40. Government Elementary School- Jhamkey (Male),31.742928107523174,73.86453428857999,Male,Punjab,3,0,1416,0
+ 41 - 41. Government Elementary School- Jhamkey (Female),31.742928107523174,73.86456428858,Female,Punjab,0,2,0,900
+ 42 - 42. Government Elementary School- Jhamkey (Combined),31.742928107523174,73.86459428858,Combined,Punjab,2,1,841,616
+ 6 - 6. Government Girls Primery School- Khokhar ke Mallian  (Combined),31.745280787885424,74.05330083025171,Combined,Punjab,1,1,536,328
+ 34 - 34. Government Elementary School- Chappa Minara (Female),31.74565658349137,73.97264595075995,Female,Punjab,0,3,0,1616
+ 43 - 43. Government Girls High School- Jhamkey (Combined),31.74569874188861,73.87143509357333,Combined,Punjab,2,2,979,720
+ 44 - 44. Government Girls High School- Jhamkey (Combined),31.74569874188861,73.8714650935733,Combined,Punjab,2,1,870,628
+ 32 - 32. Government Girls Primery School- Chappa Minara (Male) (T)**,31.748348300048036,73.97584067199686,Male,Punjab,2,0,1306,0
+ 33 - 33. Government Girls Primery School- Chappa Minara (Male) (T)**,31.748348300048036,73.9758706719969,Male,Punjab,2,0,1101,0
+ 17 - 17. Government Boys Primery School- Qayampur  (Combined) (P)*,31.74862479489741,74.03975538766711,Combined,Punjab,1,1,558,392
+ 7 - 7. Govt.Elementry School- Mojoke Mallian  (Combined) (P)*,31.749262417673766,74.07086288786964,Combined,Punjab,2,1,823,581
+ 8 - 8. Government Elementry School- Mojoke Mallian (Combined)  (P)*,31.749262417673766,74.0708928878696,Combined,Punjab,1,1,431,257
+ 262 - 262. Government Girls Elementary School Kurlke Minara (Primary Section)  (Combined),31.75966,73.94324,Combined,Punjab,2,1,920,559
+ 19 - 19. Government Girls Elementary School- Dheer Da Dogran (Combined),31.768893727937186,74.02494768620839,Combined,Punjab,2,1,704,436
+ 18 - 18. Government Girls Elementary School- Dheer Da Dogran (Combined),31.768893727937186,74.0249776862084,Combined,Punjab,2,1,667,417
+ 4 - 4. Government Girls High School- Khair pur Mallian (Combined) (P)*,31.7693957232343,74.07614324084207,Combined,Punjab,2,2,1142,845
+ 3 - 3. Government Girls Community Model Elementary School- Mallian Kalan (Combined),31.771011052988257,74.06997864877579,Combined,Punjab,2,1,868,621
+ 1 - 1. Government Boys High School- Mallian Kalan (Combined) (P)*,31.77118359194642,74.0649527281248,Combined,Punjab,2,1,903,575
+ 2 - 2. Government Boys High School- Mallian Kalan (Combined) (P)*,31.77118359194642,74.0649827281248,Combined,Punjab,1,1,587,431
+ 231 - 231. Government Boys Primery School Mukta  (Combined)  (P)*,31.7715,73.93935,Combined,Punjab,2,2,1039,705
+ 241 - 241. Government Boys Primery School Thabal  (Combined)  (P)*,31.77637,73.99599,Combined,Punjab,2,2,1013,799
+ 237 - 237. Government Boys High School Mirza Virkan  (Combined) (P)*,31.78386,73.97768,Combined,Punjab,1,1,605,565
+ 238 - 238. Government Boys High School Mirza Virkan (Combined)  (P)*,31.78386,73.97771,Combined,Punjab,1,1,679,390
+ 239 - 239. Government Girls High School Mirza Virkan  (Combined) (P)*,31.78461,73.97532,Combined,Punjab,2,2,1034,720
+ 228 - 228. Government Primery School for Boys- Chak Shah Pur  (Combined)  (P)*,31.78671,73.93725,Combined,Punjab,2,1,634,474
+ 240 - 240. Government Girls Elementry School- Gopey Rai  (Combined)  (P)*,31.78965,73.99817,Combined,Punjab,2,1,770,538
+ 235 - 235. Government Boys Primery School Chacho key  (Combined)  (T)**,31.79296,74.02049,Combined,Punjab,2,1,854,624
+ 9 - 9. Government Boys Primery School- Bera Virkan  (Combined) (P)*,31.794216072054894,74.1011492045887,Combined,Punjab,1,1,693,448
+ 234 - 234. Government Girls Community Model School- Dera Ludhianian. (Combined),31.79745,74.03921,Combined,Punjab,2,1,859,555
+ 10 - 10. Government Boys Primery School- Pholo Deota   (Combined) (P)*,31.801751523944066,74.11228358621172,Combined,Punjab,2,1,762,446
+ 232 - 232. Government BoysHigh School Herdeve (Combined)  (P)*,31.80382,74.04523,Combined,Punjab,2,2,1232,888
+ 229 - 229. Government Boys Elementary School Ammonkey.  (Combined),31.80646,74.01537,Combined,Punjab,2,2,903,567
+ 230 - 230. Government Girls Elementary School Ammonkey.  (Combined),31.80757,74.01633,Combined,Punjab,2,2,886,618
+ 233 - 233. Government Girls High School Hardeve.  (Combined),31.81067,74.05173,Combined,Punjab,2,2,1035,804
+ 223 - 223. Government Girls High School Jandiala Sher Khan (Female). (P)*,31.81606,73.91846,Female,Punjab,0,3,0,1536
+ 218 - 218. Government Boys High School Jandiala Sher Khan (Male) (P)*,31.81919,73.92168,Male,Punjab,2,0,967,0
+ 219 - 219. Government Boys High School Jandiala Sher Khan (Male) (P)*,31.81919,73.92171,Male,Punjab,3,0,1404,0
+ 224 - 224. Government Boys High School Maddar (Combined) (P)*,31.82741,73.95731,Combined,Punjab,2,1,747,457
+ 225 - 225. Government Boys High School Maddar (Combined) (P)*,31.82741,73.95734,Combined,Punjab,2,1,789,504
+ 226 - 226. Government Girls Middle School Maddar  (Combined)  (P)*,31.829,73.95208,Combined,Punjab,2,1,820,528

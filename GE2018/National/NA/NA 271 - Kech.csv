@@ -1,2 +1,2 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-3,Govt: Boys High School Bit (Male),26.31002,63.1563,Male,Balochistan,4,0,1762,0
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 3 - Govt: Boys High School Bit (Male),26.31002,63.1563,Male,Balochistan,4,0,1762,0

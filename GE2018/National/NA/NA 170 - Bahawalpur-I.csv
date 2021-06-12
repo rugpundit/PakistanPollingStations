@@ -1,240 +1,240 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-28,Govt. Primary School- Dera Masti- Bahawalpur (Male),29.32648,71.56556,Male,Punjab,3,0,1599,0
-30,Govt. Girls Community Model School Dera Masti (New Building) (Male),29.3265,71.56566,Male,Punjab,3,0,1832,0
-31,Govt. Girls Community Model School Dera Masti (Old Building) (Female),29.3265,71.56569,Female,Punjab,0,3,0,1472
-29,Govt. Primary School- Ghullam Muhammad Baloch- Markaz Dera Masti- Bahawalpur  (Female),29.33747,71.56926,Female,Punjab,0,3,0,1344
-5,Govt. Girls Primary School Basti Agha Pur (Combinedd),29.34618,71.61781,Combined,Punjab,2,2,1309,1114
-23,Office of Union Council No. 21- Basti Raman Bahawalpur (Female),29.34913,71.60777,Female,Punjab,0,4,0,1623
-22,Govt. Girls Elementary School- Raman (Male),29.3495,71.60749,Male,Punjab,4,0,1958,0
-119,Govt Elementary School Hote Wala Bahawalpur (Combined),29.35114,71.6423,Combined,Punjab,2,2,1109,996
-192,Govt. Girls Primary School- Chah Sheeren Wala- BWP (Combined),29.35882,71.62692,Combined,Punjab,1,1,362,297
-27,Govt. Model Primary School Peer Allah Ditta Shah (Combined),29.36383,71.53072,Combined,Punjab,2,2,944,747
-130,Govt. High School- Dera Izzat- BWP (Middle Portion) (Male),29.36591,71.65005,Male,Punjab,3,0,1536,0
-131,Govt. High School- Dera Izzat- BWP (Primary Portion) (Female),29.36591,71.65008,Female,Punjab,0,3,0,1283
-133,Govt High School- Dera Izzat- BWP (Primary Portion) (Female),29.36591,71.65011,Female,Punjab,0,3,0,1405
-230,Govt. Arabic Elementary School- Islami Colony- Street No. 3/4- Bahawalpur (Elementary Section) (Female),29.36644,71.69608,Female,Punjab,0,2,0,1061
-232,Govt. Arabic Elementary School- Islami Colony- Street No. 3/4- Bahawalpur (Elementary Section) (Female),29.36644,71.69611,Female,Punjab,0,3,0,1447
-116,Govt Primary School Chak No.8/BC Bahawalpur (Combined),29.36766,71.76821,Combined,Punjab,1,1,385,328
-233,Govt. Dar-ul-Atfal Male Apna Ghar- Opposite Islami Colony- Bahawalpur (Combined),29.36832,71.69923,Combined,Punjab,2,2,828,824
-235,Govt. Dar-ul-Atfal Male Apna Ghar- Opposite Islami Colony- Bahawalpur (Female),29.36832,71.69926,Female,Punjab,0,2,0,1136
-237,Govt. Dar-ul-Atfal Male Apna Ghar- Opposite Islami Colony- Bahawalpur (Female),29.36832,71.69929,Female,Punjab,0,1,0,665
-229,Govt. Girls High School- Islami Colony- Street No. 3/4 Bahawalpur (Male).,29.37031,71.69726,Male,Punjab,2,0,1211,0
-231,Govt. Girls High School- Islami Colony- Street No. 3/4 Bahawalpur  (Male).,29.37031,71.69729,Male,Punjab,3,0,1700,0
-24,Govt. Primary School Goth Gehna (Combined),29.37172,71.55891,Combined,Punjab,2,1,1081,882
-190,Office of Agricultural Engineering- Bahawalpur- Ahmedpur East Road near Zakhira (Male),29.37236,71.64185,Male,Punjab,3,0,1150,0
-193,Office of Agricultural Engineering- Bahawalpur- Ahmedpur East Road near Zakhira (Male),29.37236,71.64188,Male,Punjab,3,0,1401,0
-132,Govt. Primary School Mamoon Abad- BWP (Male),29.37246,71.64366,Male,Punjab,3,0,1676,0
-191,Govt. Model Primary School- Bhatta No.4- Ahmadpur Road- Bahawalpur (Female),29.37246,71.64369,Female,Punjab,0,3,0,929
-194,Govt. Model Primary School- Bhatta No.4- Bahawalpur (Female),29.37246,71.64372,Female,Punjab,0,2,0,1140
-126,Govt Elementary School- Malook Shah- BWP (Male),29.37399,71.67205,Male,Punjab,3,0,1541,0
-127,Govt Girls Primary School- Malook Shah- BWP (Female),29.37399,71.67208,Female,Punjab,0,3,0,1322
-128,Govt Elementary School- Malook Shah- BWP (Male),29.37399,71.67211,Male,Punjab,3,0,1313,0
-129,Govt Girls Primary School- Malook Shah- BWP (Female),29.37399,71.67214,Female,Punjab,0,2,0,992
-234,Govt. Primary School- Basti Banga- Islami Colony- Street No. 1- Opposite NBP- Bahawalpur (Male),29.37468,71.6936,Male,Punjab,3,0,1405,0
-236,Govt. Primary School- Basti Banga- Islami Colony- Street No. 1- Opposite NBP- Bahawalpur (Male),29.37468,71.69363,Male,Punjab,2,0,830,0
-32,Govt. High School- Fattu Wali (Front Side) (Male),29.37481,71.59963,Male,Punjab,4,0,2521,0
-33,Govt. High School- Fattu Wali (Back Side) (Female),29.37481,71.59966,Female,Punjab,0,4,0,1992
-34,Govt. Girls Primary School Maqbool Colony Bahawalpur- (Male),29.37563,71.71701,Male,Punjab,3,0,1312,0
-35,Govt. Girls Primary School Maqbool Colony Bahawalpur- (Female),29.37563,71.71704,Female,Punjab,0,2,0,1208
-118,Govt. Model Primary School- Chak No.10/BC Bahawalpur (Female),29.37879,71.72647,Female,Punjab,0,2,0,1664
-117,Govt. Model Primary School- Chak No.10/BC Bahawalpur (Girls Portion)  (Male),29.37929,71.72569,Male,Punjab,2,0,2134,0
-124,Sadiq Public School (Secondary Section) (Male),29.37946,71.65424,Male,Punjab,4,0,2802,0
-125,Sadiq Public School (High Section) (Female),29.37946,71.65427,Female,Punjab,0,4,0,2344
-212,Govt. Degree College for Women- Satellite Town- BWP (Male).,29.38063,71.71988,Male,Punjab,2,0,1077,0
-240,Govt. Degree College for Women- Satellite Town- Bahawalpur (Male).,29.38063,71.71991,Male,Punjab,3,0,1346,0
-209,Govt. Girls Elementary School- Chak No.9/BC (Female),29.38072,71.72522,Female,Punjab,0,3,0,1420
-208,Govt. English Medium Boys Primary School- Chak No.9/BC (Male),29.38077,71.72521,Male,Punjab,3,0,1558,0
-179,Govt. Girls Elementary School- Bhatta No.1- Ahmedpur East Road- BWP (Female).,29.381,71.65591,Female,Punjab,0,2,0,1465
-181,Govt. Girls Elementary School- Bhatta No.1- Ahmedpur East Road- BWP (Female).,29.381,71.65594,Female,Punjab,0,2,0,809
-183,Govt. Girls Elementary School- Bhatta No.1- Ahmedpur East Road- BWP (Female),29.381,71.65597,Female,Punjab,0,2,0,831
-180,Govt. Boys Primary School- Bhatta No.1- Ahmedpur East Road- BWP (Male),29.38108,71.65573,Male,Punjab,2,0,841,0
-182,Govt. Boys Primary School- Bhatta No.1- Ahmedpur East Road - BWP (Male),29.38108,71.65576,Male,Punjab,2,0,931,0
-168,F.G Public School No.1 Boys- Trust Colony- Bahawalpur (Male),29.3811,71.67255,Male,Punjab,3,0,1306,0
-213,Govt. Girls High School- Mohajir Colony- near Tanki wali gali No. 7- BWP (Middle Section) (Female),29.38152,71.7229,Female,Punjab,0,2,0,939
-214,Govt. Girls High School- Mohajir Colony- near Tanki wali gali No. 7- BWP (Primary Section)  (Male),29.38152,71.72293,Male,Punjab,4,0,1950,0
-215,Govt. Girls High School- Mohajir Colony- near Tanki wali gali No. 7- BWP (High Section) (Female),29.38152,71.72296,Female,Punjab,0,4,0,1753
-206,Govt. Elementary School- Islami Madrassah- Hamatian- Mailay Wali Gali- BWP (Male).,29.38238,71.7192,Male,Punjab,4,0,2073,0
-207,Govt. Elementary School- Islami Madrassah- Hamatian- Mailay Wali Gali- BWP (Female).,29.38238,71.71923,Female,Punjab,0,4,0,1913
-172,Regional Office Employees- Old Age Benefits Institution- Dubai Mahal Road- New Sadiq Colony- Bahawalpur (Male).,29.38259,71.66434,Male,Punjab,3,0,1506,0
-173,Regional Office Employees- Old Age Benefits Institution- Dubai Mahal Road- New Sadiq Colony- Bahawalpur (Female),29.38259,71.66437,Female,Punjab,0,2,0,1172
-174,Govt. Girls Degree College- Dubai Mahal Road- BWP (Intermediate Portion) (Eastern Side)  (Male),29.38259,71.6644,Male,Punjab,2,0,863,0
-175,Govt. Girls Degree College- Dubai Mahal Road- BWP  (Degree Portion) (Western Side) (Female),29.38259,71.66443,Female,Punjab,0,2,0,858
-176,Govt. Girls Degree College- Dubai Mahal Road- BWP (Intermediate Portion) (Eastern Side) (Male),29.38259,71.66446,Male,Punjab,3,0,1647,0
-177,Govt. Girls Degree College- Dubai Mahal Road- BWP (Degree Portion) (Western Side) (Female),29.38259,71.66449,Female,Punjab,0,3,0,1485
-178,Govt. Cantonment Board Dispensary No. 1- Bhatta No.1- Ahmedpur East Road- BWP (Male),29.38283,71.65879,Male,Punjab,3,0,1778,0
-134,F.G. College Opposite Muhammadia Colony- Bahawalpur (Combined),29.3831,71.6713,Combined,Punjab,2,2,1095,1028
-135,F.G. College Opposite Muhammadia Colony- Bahawalpur (Combined),29.3831,71.67133,Combined,Punjab,1,1,238,231
-170,Federal Govt. College for Boys- Noor Mahal Road- Bahawalpur (Male),29.3831,71.67136,Male,Punjab,3,0,1571,0
-171,Federal Govt. College for Boys- Noor Mahal Road- Bahawalpur  (Female).,29.3831,71.67139,Female,Punjab,0,3,0,1496
-68,Govt Vocational Institute (Right Portion)- Bahawalpur. (Male),29.38383,71.69267,Male,Punjab,2,0,894,0
-69,Govt Vocational Institute Bahawalpur (Left Portion)- . (Female),29.38383,71.6927,Female,Punjab,0,2,0,773
-242,Govt. College of Technology Baghdad Road- Satellite Town- BWP (Eastern Portion) (Male),29.38453,71.71115,Male,Punjab,3,0,1402,0
-246,Govt. College of Technology- Baghdad Road Satellite Town- BWP (Western Portion) (Male),29.38453,71.71118,Male,Punjab,3,0,1343,0
-154,Govt. MC Primary School- Medical Colony- BWP (Male),29.38465,71.68124,Male,Punjab,3,0,1674,0
-156,Govt. MC Primary School- Medical Colony- BWP (Male),29.38465,71.68127,Male,Punjab,2,0,915,0
-157,Govt. Girls Primary School- Quaid-e-Azam Medical College- BWP (Female),29.38465,71.6813,Female,Punjab,0,2,0,752
-216,Govt. Technical Training Institute- Bahawalpur (Left Portion) (Male),29.3854,71.70658,Male,Punjab,1,0,638,0
-217,Govt. Technical Training Institute- Bahawalpur (Right Portion) (Female),29.3854,71.70661,Female,Punjab,0,1,0,551
-218,Govt. Technical Training Institute- Bahawalpur (Left Portion) (Male),29.3854,71.70664,Male,Punjab,3,0,1510,0
-219,Govt. Technical Training Institute- Bahawalpur (Right Portion) (Female),29.3854,71.70667,Female,Punjab,0,2,0,1330
-220,Govt. Technical Training Institute- Bahawalpur (Left Portion) (Combined),29.3854,71.7067,Combined,Punjab,2,2,711,600
-36,Punjab Forest School- Baghdad Road (Right Portion) (Male),29.38554,71.70992,Male,Punjab,2,0,1242,0
-37,Punjab Forest School- Baghdad Road Bahawalpur (Left Portion) (Female),29.38554,71.70995,Female,Punjab,0,2,0,959
-155,Govt. Para Medical School- Medical Colony- B.V.H Bahawalpur (Female).,29.38584,71.68144,Female,Punjab,0,3,0,1458
-244,Govt. Shauhda-e-APS Memorial Higher Secondary School- Satellite Town- BWP (Male).,29.38586,71.70697,Male,Punjab,3,0,1283,0
-245,Govt. Shauhda-e-APS Memorial Higher Secondary School- Satellite Town- BWP (Female).,29.38586,71.707,Female,Punjab,0,3,0,1303
-222,Govt. Girls Elementary School- Medical Colony near Markazi Jamia Masjid (One Unit Colony) BWP (Female).,29.38591,71.6991,Female,Punjab,0,3,0,1659
-224,Govt. Girls Elementary School- Medical Colony near Markazi Jamia Masjid (One Unit Colony) BWP (Female).,29.38591,71.69913,Female,Punjab,0,2,0,1076
-227,Govt. College for Elementary Teachers/QAED- Opposite Shell Petrol Pump- Baghdad Road- Satellite Town- BWP  (Male),29.38617,71.70612,Male,Punjab,3,0,1608,0
-247,Govt. College for Elementary Teachers/ QAED- Opposite Shell Petrol Pump- Baghdad Road- Satellite Town- BWP  (Western Side) (Female).,29.38617,71.70615,Female,Punjab,0,3,0,1227
-223,Govt. Dispensary- One Unit Staff Colony- BWP (Male).,29.3864,71.70197,Male,Punjab,2,0,1070,0
-169,Govt Girls Primary School- Trust Colony- Bahawalpur (Female).,29.38667,71.67503,Female,Punjab,0,2,0,1162
-238,Govt. Girls Higher Secondary School- Saellite Town- Bahawalpur (Male).,29.38734,71.71024,Male,Punjab,4,0,2844,0
-226,Govt. Girls English Medium High School- Canal Colony near Kali Pulli- Bahawalpur (Female).,29.38758,71.69199,Female,Punjab,0,3,0,1828
-221,Office of Assistant Education Officer (AEO)- Male/Govt. Primary School- Quarter No. 34/1- One Unit Staff Colony- BWP (Male).,29.38763,71.70297,Male,Punjab,3,0,1796,0
-228,Dar-ul-Falah Social Welfare- Fouji Basti near Police Station- Baghdad-ul-Jadeed BWP (Female),29.38835,71.71314,Female,Punjab,0,3,0,1411
-203,Govt. Girls Primary School- Tibba Badar Sher No.2 near Wagon Stand Road- BWP (Female),29.3884,71.73289,Female,Punjab,0,3,0,1243
-205,Govt. Girls Primary School- Tibba Badar Sher No.2 near Wagon Stand Road- BWP (Female),29.3884,71.73292,Female,Punjab,0,2,0,956
-225,Govt. High School- Canal Colony near Kali Pulli- Bahawalpur (Male),29.38853,71.69196,Male,Punjab,4,0,2024,0
-243,Office of Union Council No.9- Satellite Town Extension- Bahawalpur (Female).,29.38854,71.7178,Female,Punjab,0,3,0,1322
-158,Office of Cantonment Board- near Chowk Fawara- BWP (Male),29.39008,71.66885,Male,Punjab,4,0,2328,0
-239,APWA Girls High School near Telephone Exchange Satellite Town- Bahawalpur (Female),29.39012,71.71096,Female,Punjab,0,4,0,2648
-202,Govt. Boys High School- Chah Suleman Shah near Al-Madina Masjid Tibba Badar Sher Road- BWP (Male),29.39018,71.72838,Male,Punjab,3,0,1560,0
-204,Govt. Boys High School- Chah Suleman Shah near Al-Madina Masjid Tibba Badar Sher Road- BWP (Male),29.39018,71.72841,Male,Punjab,2,0,1192,0
-20,Office of Union Council No. 20-Khanu Wali (Male),29.39025,71.62949,Male,Punjab,3,0,1788,0
-21,Govt. Arabic Primary School- Khanu Wali (Female),29.39028,71.62974,Female,Punjab,0,3,0,1452
-159,WAPDA Rest House- near Janaza Gah- Chowk Fawara- BWP (Female),29.39073,71.6704,Female,Punjab,0,4,0,1906
-210,Govt. Model English Medium Primary School- Awami Colony- Tibba Badar Sher- BWP near Open Ground (Male).,29.39097,71.72091,Male,Punjab,4,0,2413,0
-211,Govt. Model English Medium Primary School- Awami Colony- Tibba Badar Sher- BWP near Open Ground (Female),29.39097,71.72094,Female,Punjab,0,4,0,2076
-120,Govt. College for Elementary Teachers Training for women/QAED Model Town-A- BWP. (Male) (Left Portion),29.39122,71.66026,Male,Punjab,2,0,1041,0
-121,Govt. College for Elementary Teachers Training for women/QAED Model Town-A- BWP (Female) (Right Portion),29.39122,71.66029,Female,Punjab,0,2,0,1056
-92,Office XEN Provincial Building Division- Bahawalpur Near Sadar Pulli (Male),29.39153,71.6918,Male,Punjab,4,0,2061,0
-241,Govt. APWA Girls High School near Markazi Jamia Masjid- Satellite Town- Bahawalpur (Female),29.39181,71.71348,Female,Punjab,0,2,0,1169
-195,Govt. Sadiq College of Commerce- Cheema/ Choudhry Town- BWP (Male),29.39336,71.64448,Male,Punjab,2,0,1178,0
-196,Govt. Sadiq College of Commerce- Cheema/ Choudhry Town- BWP (Female),29.39336,71.64451,Female,Punjab,0,2,0,1026
-122,Govt Girls Model Higher Secondary School-  Model Town-A- BWP (High Section) (Male),29.39383,71.66313,Male,Punjab,2,0,1237,0
-123,Govt Girls Model Higher Secondary School-  Model Town-A- BWP  (Middle Section) (Female),29.39383,71.66316,Female,Punjab,0,2,0,1213
-150,Govt. Boys MC High School- Chah Fateh Khan- BWP (Male),29.39405,71.67928,Male,Punjab,4,0,2025,0
-151,Govt. Girls Higher Secondary School- Chah Fateh Khan- Bahawalpur (Female).,29.39422,71.67899,Female,Punjab,0,4,0,1888
-153,Govt. Girls Higher Secondary School- Chah Fateh Khan- Bahawalpur (Female).,29.39422,71.67902,Female,Punjab,0,3,0,1419
-149,Zanana Jubilee Hospital- Fateh Khan Bazar- Bahawalpur (Female) (South Portion).,29.39427,71.67747,Female,Punjab,0,4,0,1849
-152,Zanana Jubilee Hospital- Fateh Khan Bazar- Bahawalpur (Male),29.39427,71.6775,Male,Punjab,3,0,1702,0
-201,Govt. Girls Model Primary School- Tibba Badar Sher No.3 near Aqsa Masjid BWP (Female).,29.39453,71.73129,Female,Punjab,0,4,0,2096
-148,APWA High School- Farid Gate- Bahawalpur (Male),29.39515,71.6832,Male,Punjab,4,0,2150,0
-18,Govt Girls Junior Model High School near Habib Colony- Bahawalpur (Male),29.39557,71.65081,Male,Punjab,2,0,744,0
-19,Govt Girls Junior Model High School near Habib Colony- Bahawalpur (Female),29.39557,71.65084,Female,Punjab,0,2,0,668
-3,Office Additional Director Live Stock- Habib Colony- Bahawalpur (Male),29.39591,71.65168,Male,Punjab,3,0,1044,0
-4,Office Additional Director Live Stock (Training Center Back Side of Main Office) - Habib Colony- Gulberg Road Bahawalpur (Female),29.39591,71.65171,Female,Punjab,0,2,0,961
-71,Govt SE College Bahawalpur (Computer Section)-  (Female),29.39602,71.68974,Female,Punjab,0,2,0,1155
-146,Govt. Community Girls High School- Phattay Wali Gali- Machhli Bazar- Bahawalpur (Male).,29.39605,71.68012,Male,Punjab,2,0,767,0
-147,Govt Community Girls High School- Phattay Wali Gali- Machhli Bazar- Bahawalpur (Female),29.39605,71.68015,Female,Punjab,0,1,0,590
-160,University Public School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Male) (Right Portion),29.39663,71.67303,Male,Punjab,3,0,1785,0
-162,University Public School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Male) (Right Portion).,29.39663,71.67306,Male,Punjab,2,0,986,0
-163,University Public School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Female),29.39663,71.67309,Female,Punjab,0,2,0,845
-66,Govt. Sadiq Girls High School- Near Machli Talab- Bahawalpur. (Male),29.39666,71.69289,Male,Punjab,1,0,585,0
-67,Govt. Sadiq Girls High School- Near Machli Talab- Bahawalpur. (Female),29.39666,71.69292,Female,Punjab,0,1,0,507
-186,Govt. Abbasia Higher Secondary School- Model Town-A- BWP (Male).,29.39678,71.66029,Male,Punjab,3,0,1632,0
-187,Govt. Abbasia Higher Secondary School- Model Town-A- BWP (Female).,29.39678,71.66032,Female,Punjab,0,3,0,1454
-188,Govt. Abbasia Higher Secondary School- Model Town-A- BWP (Male).,29.39678,71.66035,Male,Punjab,2,0,785,0
-189,Govt. Abbasia Higher Secondary School- Model Town-A- BWP  (Female),29.39678,71.66038,Female,Punjab,0,2,0,739
-197,Govt. Boys Primary School- Tibba Badar Sher No.3 near Aqsa Masjid BWP (Male).,29.3971,71.73297,Male,Punjab,3,0,1534,0
-198,Govt. Boys Primary School- Tibba Badar Sher No.3 near Aqsa Masjid BWP (Female).,29.3971,71.733,Female,Punjab,0,3,0,1263
-199,Govt. Boys Primary School- Tibba Badar Sher No.3 near Aqsa Masjid BWP (Combined),29.3971,71.73303,Combined,Punjab,2,2,802,654
-200,Govt. Boys Primary School- Tibba Badar Sher No.3 near Aqsa Masjid BWP (Male).,29.3971,71.73306,Male,Punjab,4,0,2402,0
-161,Govt. MC Girls High School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Female) (Eastern Portion),29.3974,71.6729,Female,Punjab,0,3,0,1451
-164,Govt. MC Girls High School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Male) (Western Portion),29.3974,71.67293,Male,Punjab,3,0,1485,0
-165,Govt. MC Girls High School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Female) (Western Portion),29.3974,71.67296,Female,Punjab,0,2,0,1143
-248,Govt. Model Primary School- Basti Samlan- Mouza Qadir Bukhsh Channar- BWP (Combined),29.39817,71.72102,Combined,Punjab,1,1,545,448
-249,Govt. Model Primary School- Basti Samlan- Mouza Qadir Bukhsh Channar- BWP (Combined).,29.39817,71.72105,Combined,Punjab,1,1,389,342
-166,Govt. MC Haroonia High School- Mohallah Aam Khas Inside Bohar Gate- Bahawalpur (Male),29.39819,71.67049,Male,Punjab,4,0,2174,0
-167,Govt. MC Haroonia High School- Mohallah Aam Khas Inside Bohar Gate- Bahawalpur (Female).,29.39819,71.67052,Female,Punjab,0,3,0,1807
-93,Govt Boys Primary School- Basti Matma- Bahawalpur (Female),29.39822,71.70749,Female,Punjab,0,3,0,1734
-86,Workers Welfare High School Near PASSCO Godown Railway Crossing- Bahawalpur (Left Portion) (Male),29.39887,71.64851,Male,Punjab,4,0,2255,0
-87,Workers Welfare High School Near PASSCO Godown Railway Crossing- Bahawalpur (Right Portion) (Female),29.39887,71.64854,Female,Punjab,0,3,0,1753
-75,Govt. Sadiq Women University- Degree College Road- Bahawalpur (Female),29.399,71.69377,Female,Punjab,0,3,0,1428
-77,Govt. Sadiq Women University- Degree College Road- Bahawalpur (Female),29.399,71.6938,Female,Punjab,0,2,0,1183
-17,Government Staff Training College- Link Railway Road- Near Office of Deputy Registrar Cooperative Socieities Bahawalpur (Female),29.39983,71.64749,Female,Punjab,0,2,0,1076
-70,Office House Building Finance Corporation- Qasim Town- Bahawalpur (Male),29.40005,71.68839,Male,Punjab,2,0,1261,0
-74,Govt. Comprehensive High School Near Islamia University- Abbasia Campus Bahawalpur (Male),29.40019,71.69543,Male,Punjab,3,0,1597,0
-76,Govt. Comprehensive High School near Islamia University- Abbasia Campus Bahawalpur (Male).,29.40019,71.69546,Male,Punjab,2,0,1192,0
-7,Office Market Committee Ghalla Mandi- Model Town-B- Bahawalpur (Female).,29.40026,71.66327,Female,Punjab,0,2,0,918
-79,Govt. Girls Elementary School (English)- Goth Ghani- Bahawalpur. (Female),29.40038,71.63828,Female,Punjab,0,4,0,1770
-184,Office of Agriculture Crop Reporting Service- House No. 230/B- near Karbla Road- Model Town-B- Bahawalpur (Male),29.40039,71.66878,Male,Punjab,3,0,1821,0
-16,Government Regional Training Institute Cooperatiove Societies  (Male),29.40067,71.65238,Male,Punjab,2,0,1212,0
-185,Homeo Pathic College- Model Town-B- Bahawalpur  (Eastern Portion) (Female).,29.4009,71.66596,Female,Punjab,0,3,0,1681
-142,Govt Farabi Hostel Multani Gate- Bahawalpur (Male),29.40112,71.67562,Male,Punjab,4,0,1827,0
-143,Govt Farabi Hostel- Multani Gate- Bahawalpur (Female),29.40112,71.67565,Female,Punjab,0,3,0,1387
-144,Zilai (District) TB Clinic- near Thana Kotwali- Multani Gate- Bahawalpur (Male),29.40128,71.6758,Male,Punjab,2,0,1254,0
-145,Zilai (District) TB Clinic- near Thana Kotwali- Multani Gate- Bahawalpur (Female),29.40128,71.67583,Female,Punjab,0,2,0,1006
-139,Govt. Primary School- MC- Halqa No.2 near Thana Kotwali Multani Gate- Machhli Bazar- BWP (Female),29.40146,71.67602,Female,Punjab,0,3,0,1654
-140,Govt. Primary School- MC- Mohallah Makhdoompura- Tahli Wala- Bahawalpur (Male),29.4017,71.67992,Male,Punjab,4,0,2359,0
-141,Govt. Girls Primary School- MC- UC No. 1- Mohallah Tahli Wala- Bahawalpur (Female),29.40222,71.68161,Female,Punjab,0,4,0,2038
-94,Govt Boys High School- Sahlan- Bahawalpur. (Male),29.40242,71.71275,Male,Punjab,2,0,1141,0
-95,Govt Boys High School- Sahlan- Bahawalpur. (Female),29.40242,71.71278,Female,Punjab,0,2,0,961
-42,Pioneer High School For Girls- Near Royal Palace Marriage Hall Link Road- Shahdara- Bahawalpur  (Male),29.40246,71.65614,Male,Punjab,2,0,960,0
-1,Govt Tibbia College near Sabzi Mandi- Bahawalpur  (Academic Portion) (Male),29.40289,71.67443,Male,Punjab,3,0,1350,0
-2,Govt Tibbia College near Sabzi Mandi- Bahawalpur  (Hospital Portion) (Female),29.40289,71.67446,Female,Punjab,0,3,0,1133
-138,Govt Girls High School- Syed Imam Shah- Multani Gate- BWP (Male),29.40299,71.6744,Male,Punjab,4,0,1935,0
-81,Govt Girls Primary School- Balouch Colony- near Bholi Masjid Goth Bajan Bahawalpur (Female),29.40335,71.64774,Female,Punjab,0,3,0,1612
-6,Govt Tibbia College near Sabzi Mandi- Bahawalpur (Male).,29.40335,71.67593,Male,Punjab,2,0,1034,0
-40,Karkhana Zarai Allat Shahdra Road Bahawalpur (East Portion) (Male),29.40344,71.65855,Male,Punjab,4,0,2002,0
-41,Karkhana Zarai Allat Shahdra Road Bahawalpur (West Portion) (Female),29.40344,71.65858,Female,Punjab,0,3,0,1511
-136,Office of Director Live Stock- near Veterinary Hospital- Bahawalpur (Male),29.4035,71.67625,Male,Punjab,4,0,2250,0
-137,Govt Civil Veterinary Hospital- near Purani Sabzi Mandi-  Multani Gate- Bahawalpur (Female),29.40359,71.67593,Female,Punjab,0,4,0,1896
-15,SWEDE CARE PUBLIC SCHOOL link Shahdra Railway Road- Kachi Mohajir Colony Bahawalpur (Female),29.40365,71.65532,Female,Punjab,0,4,0,1967
-72,Office of Officer Incharge Cricket Ground   - Bahawalpur Stadium- Bahawalpur (Left Portion) (Male),29.40387,71.68349,Male,Punjab,3,0,1473,0
-73,Office of Officer Incharge Hockey Ground   Bahawalpur Stadium- Bahawalpur (Right Portion) (Female),29.40445,71.68571,Female,Punjab,0,3,0,1371
-78,Govt. Arabic Primary School- Mouza Goth Bajan Bahawalpur (Male),29.40479,71.64855,Male,Punjab,4,0,2089,0
-52,Iqra Schools Movement- Sabir Colony- Bahawalpur.  (Male) T*,29.405,71.65417,Male,Punjab,2,0,867,0
-90,Govt Boys Primary School- Akhtar Abad Bahawalpur (Male),29.40535,71.70126,Male,Punjab,3,0,1587,0
-48,Zikria Misali Science Secondary School- Near Bindra Pulli Bahawalpur (Male) T*,29.40553,71.66911,Male,Punjab,2,0,1185,0
-91,Govt Girls Primary School- Akhtar Abad Bahawalpur (Female),29.40596,71.70312,Female,Punjab,0,3,0,1321
-39,Quaid-e-Azam Public School- Link Railway Road- Kachi Mohajir Colony- Bahawalpur (Female) T*,29.40611,71.65972,Female,Punjab,0,2,0,1243
-80,Azhar Public School- Sub-Campus- Quaid-e-Azam Colony- Bahawalpur. (Male) T*,29.40619,71.65205,Male,Punjab,4,0,1990,0
-103,Govt Girls High School- Jhangi Wala Bahawalpur (Female),29.40625,71.75724,Female,Punjab,0,2,0,1263
-64,Govt Boys Primary School Central Jail- Bahawalpur (Male),29.40627,71.68787,Male,Punjab,3,0,1647,0
-43,Govt. MC Primary School- Basti Bani Garan- Kachi Mohajir Colony near Gulzar Masjid- Bahawalpur.  (Female),29.40667,71.65778,Female,Punjab,0,2,0,713
-14,Govt Girls Elementary School- Basti Shahdra near Jamia Masjid Bahawalpur (Male),29.40811,71.66314,Male,Punjab,4,0,2427,0
-98,Govt Boys Primary School- Basti Bhattian- Sahlan Road- Bahawalpur (Male),29.40854,71.69904,Male,Punjab,2,0,1247,0
-38,Govt. Primary School- MC Shahdara Model Town-B Near Jamia Masjid- Shahdra- Bahawalpur (Male),29.40861,71.66139,Male,Punjab,3,0,1558,0
-25,Govt. Primary School- Ghafoor Abad (Combined),29.40878,71.61101,Combined,Punjab,2,2,886,747
-61,Govt. Girls Primary School Basti Karna Bahawalpur (Female),29.40959,71.6842,Female,Punjab,0,3,0,1625
-104,Govt Girls Primary School- Baqirpur Bahawalpur (Combined),29.4096,71.68681,Combined,Punjab,2,2,1214,940
-115,Govt Girls Primary School- Basti Nawabpura Bahawalpur (Kasra Munjal) (Combined),29.4096,71.68684,Combined,Punjab,2,2,875,684
-56,Govt Boys Primary School- Javed Colony Bahawalpur (Male),29.41185,71.67641,Male,Punjab,4,0,2165,0
-60,Govt. Girls Primary School Bismillah Colony Bahawalpur (Male),29.41255,71.67636,Male,Punjab,4,0,1908,0
-62,Falahi Markaz Behbood e Abadi-  Jafri Town- Bahawalpur (Male) T*,29.41285,71.68629,Male,Punjab,3,0,1555,0
-50,Govt. Arabic Elementary School- Basti Bindra- Bahawalpur. (Male),29.41398,71.67207,Male,Punjab,3,0,1764,0
-51,Govt. Arabic Elementary School- Basti Bindra- Bahawalpur. (Female),29.41398,71.6721,Female,Punjab,0,3,0,1361
-44,Govt. Girls Eelementary School- Bindra- Bahawalpur. (Male),29.41432,71.67117,Male,Punjab,3,0,1865,0
-45,Govt Girls Elementary School- Bindra- Bahawalpur. (Female),29.41432,71.6712,Female,Punjab,0,3,0,1524
-49,Zikria Misali Science Secondary School- Near Bindra Pulli Bahawalpur (Female) T*,29.41477,71.67393,Female,Punjab,0,2,0,979
-99,Govt Girls Primary School Basti Haji Muhammad Iqbal Near Basti Kalian Bahawalpur (Female),29.41477,71.68866,Female,Punjab,0,2,0,1027
-63,Govt. Girls Primary School- Fareed Abad- Basti Ghous Bakhsh Bahawalpur(Female),29.41598,71.68235,Female,Punjab,0,2,0,1222
-100,Govt. Model Primary School Feroza- Judge Wala Pulli- Jhangi wala Bahawalpur (Male),29.4176,71.73754,Male,Punjab,2,0,1100,0
-101,Govt. Model Primary School Feroza- Judge Wala Pulli- Jhangi wala Bahawalpur (Female),29.4176,71.73757,Female,Punjab,0,2,0,939
-58,Govt Boys Elementary School- Basti Veeslan Bahawalpur (Male),29.42095,71.67075,Male,Punjab,3,0,1756,0
-59,Govt Boys Elementary School- Basti Veeslan Bahawalpur (Female),29.42095,71.67078,Female,Punjab,0,3,0,1425
-102,Govt Boys High School- Jhangi Wala Bahawalpur (Male),29.42257,71.75131,Male,Punjab,3,0,1453,0
-106,Govt. Girls Primary School Jhangi Wala- Opposite Union Council Jhanga Wali Bahawalpur (Combined),29.42257,71.75134,Combined,Punjab,2,2,1462,1189
-54,Weather Forecast Office- Nawaz Colony- Bahawalpur (Male),29.4242,71.66401,Male,Punjab,1,0,548,0
-97,Govt Girls Primary School Band Islampura- Bahawalpur (Female),29.4244,71.69003,Female,Punjab,0,2,0,1441
-105,Basic Health Unit- Jhangi Wala Bahawalpur (Combined),29.42571,71.77355,Combined,Punjab,2,2,905,820
-109,Govt Model Primary School Gudpur Basti Gudpur Bahawalpur (Combined),29.42571,71.77358,Combined,Punjab,2,2,395,327
-46,Punjab Small Industries Corporation- Regional Office- Bahawalpur (Male),29.42612,71.66357,Male,Punjab,2,0,1170,0
-47,Punjab Small Industries Corporation- Regional Office- Bahawalpur (Female),29.42612,71.6636,Female,Punjab,0,2,0,868
-83,Govt. Model Primary School- Basti Hurrian (Righ Side)- Bahawalpur (Female),29.42717,71.65269,Female,Punjab,0,3,0,1732
-55,Govt. Masjid Maktab School- Nadeemabad- Nawaz Colony- Bahawalpur (Female),29.42733,71.6538,Female,Punjab,0,1,0,472
-84,Govt. Girsl Primary School- Satluj Colony- Bahawalpur (Male),29.43129,71.66045,Male,Punjab,2,0,1323,0
-85,Masjid Maktab Primary School Nazir Abad Basti Labana- Bahawalpur (Female),29.43152,71.66396,Female,Punjab,0,2,0,1090
-110,Govt Boys High School- Mangwani Bahawalpur (High Section) (Male),29.43989,71.90322,Male,Punjab,2,0,2222,0
-111,Govt Boys High School- Mangwani Bahawalpur (Female),29.43989,71.90325,Female,Punjab,0,2,0,1759
-26,Govt. Boys Primary School- Basti Qadir Abad- (Combined),29.44102,71.65158,Combined,Punjab,2,2,737,575
-57,Govt. Girls Primary School- Nazir Abad Colony- Bahawalpur (Female),29.44102,71.65161,Female,Punjab,0,3,0,1742
-113,Govt Boys Middle School- Mari Qasim Shah Bahawalpur(Combined),29.44646,71.84138,Combined,Punjab,2,2,1198,923
-114,Govt Girls Middle School- Mari Qasim Shah Bahawalpur (Combined),29.44646,71.84141,Combined,Punjab,2,2,1129,885
-82,Principal Highway Rest House near Sutluj Bridge- Bahawalpur (Male),29.44957,71.64527,Male,Punjab,4,0,2115,0
-107,Govt Girls Middle School- Jhoke Shera Bahawalpur  (Combined),29.45464,71.72488,Combined,Punjab,1,1,545,483
-96,Govt Boys Elementary School- Baqirpur Bahawalpur (Middle Section) (Male),29.46532,71.64527,Male,Punjab,3,0,1903,0
-108,Govt Elementary School Miani Jhabail- Basti Miani Jhabail Bahawalpur (Combined),29.46824,71.64566,Combined,Punjab,2,2,800,743
-112,Govt High School Chawan Basti  Chawan Bahawalpur (Combined),29.51106,71.84509,Combined,Punjab,1,1,795,667
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 28 - Govt. Primary School- Dera Masti- Bahawalpur (Male),29.32648,71.56556,Male,Punjab,3,0,1599,0
+ 30 - Govt. Girls Community Model School Dera Masti (New Building) (Male),29.3265,71.56566,Male,Punjab,3,0,1832,0
+ 31 - Govt. Girls Community Model School Dera Masti (Old Building) (Female),29.3265,71.56569,Female,Punjab,0,3,0,1472
+ 29 - Govt. Primary School- Ghullam Muhammad Baloch- Markaz Dera Masti- Bahawalpur  (Female),29.33747,71.56926,Female,Punjab,0,3,0,1344
+ 5 - Govt. Girls Primary School Basti Agha Pur (Combinedd),29.34618,71.61781,Combined,Punjab,2,2,1309,1114
+ 23 - Office of Union Council No. 21- Basti Raman Bahawalpur (Female),29.34913,71.60777,Female,Punjab,0,4,0,1623
+ 22 - Govt. Girls Elementary School- Raman (Male),29.3495,71.60749,Male,Punjab,4,0,1958,0
+ 119 - Govt Elementary School Hote Wala Bahawalpur (Combined),29.35114,71.6423,Combined,Punjab,2,2,1109,996
+ 192 - Govt. Girls Primary School- Chah Sheeren Wala- BWP (Combined),29.35882,71.62692,Combined,Punjab,1,1,362,297
+ 27 - Govt. Model Primary School Peer Allah Ditta Shah (Combined),29.36383,71.53072,Combined,Punjab,2,2,944,747
+ 130 - Govt. High School- Dera Izzat- BWP (Middle Portion) (Male),29.36591,71.65005,Male,Punjab,3,0,1536,0
+ 131 - Govt. High School- Dera Izzat- BWP (Primary Portion) (Female),29.36591,71.65008,Female,Punjab,0,3,0,1283
+ 133 - Govt High School- Dera Izzat- BWP (Primary Portion) (Female),29.36591,71.65011,Female,Punjab,0,3,0,1405
+ 230 - Govt. Arabic Elementary School- Islami Colony- Street No. 3/4- Bahawalpur (Elementary Section) (Female),29.36644,71.69608,Female,Punjab,0,2,0,1061
+ 232 - Govt. Arabic Elementary School- Islami Colony- Street No. 3/4- Bahawalpur (Elementary Section) (Female),29.36644,71.69611,Female,Punjab,0,3,0,1447
+ 116 - Govt Primary School Chak No.8/BC Bahawalpur (Combined),29.36766,71.76821,Combined,Punjab,1,1,385,328
+ 233 - Govt. Dar-ul-Atfal Male Apna Ghar- Opposite Islami Colony- Bahawalpur (Combined),29.36832,71.69923,Combined,Punjab,2,2,828,824
+ 235 - Govt. Dar-ul-Atfal Male Apna Ghar- Opposite Islami Colony- Bahawalpur (Female),29.36832,71.69926,Female,Punjab,0,2,0,1136
+ 237 - Govt. Dar-ul-Atfal Male Apna Ghar- Opposite Islami Colony- Bahawalpur (Female),29.36832,71.69929,Female,Punjab,0,1,0,665
+ 229 - Govt. Girls High School- Islami Colony- Street No. 3/4 Bahawalpur (Male).,29.37031,71.69726,Male,Punjab,2,0,1211,0
+ 231 - Govt. Girls High School- Islami Colony- Street No. 3/4 Bahawalpur  (Male).,29.37031,71.69729,Male,Punjab,3,0,1700,0
+ 24 - Govt. Primary School Goth Gehna (Combined),29.37172,71.55891,Combined,Punjab,2,1,1081,882
+ 190 - Office of Agricultural Engineering- Bahawalpur- Ahmedpur East Road near Zakhira (Male),29.37236,71.64185,Male,Punjab,3,0,1150,0
+ 193 - Office of Agricultural Engineering- Bahawalpur- Ahmedpur East Road near Zakhira (Male),29.37236,71.64188,Male,Punjab,3,0,1401,0
+ 132 - Govt. Primary School Mamoon Abad- BWP (Male),29.37246,71.64366,Male,Punjab,3,0,1676,0
+ 191 - Govt. Model Primary School- Bhatta No.4- Ahmadpur Road- Bahawalpur (Female),29.37246,71.64369,Female,Punjab,0,3,0,929
+ 194 - Govt. Model Primary School- Bhatta No.4- Bahawalpur (Female),29.37246,71.64372,Female,Punjab,0,2,0,1140
+ 126 - Govt Elementary School- Malook Shah- BWP (Male),29.37399,71.67205,Male,Punjab,3,0,1541,0
+ 127 - Govt Girls Primary School- Malook Shah- BWP (Female),29.37399,71.67208,Female,Punjab,0,3,0,1322
+ 128 - Govt Elementary School- Malook Shah- BWP (Male),29.37399,71.67211,Male,Punjab,3,0,1313,0
+ 129 - Govt Girls Primary School- Malook Shah- BWP (Female),29.37399,71.67214,Female,Punjab,0,2,0,992
+ 234 - Govt. Primary School- Basti Banga- Islami Colony- Street No. 1- Opposite NBP- Bahawalpur (Male),29.37468,71.6936,Male,Punjab,3,0,1405,0
+ 236 - Govt. Primary School- Basti Banga- Islami Colony- Street No. 1- Opposite NBP- Bahawalpur (Male),29.37468,71.69363,Male,Punjab,2,0,830,0
+ 32 - Govt. High School- Fattu Wali (Front Side) (Male),29.37481,71.59963,Male,Punjab,4,0,2521,0
+ 33 - Govt. High School- Fattu Wali (Back Side) (Female),29.37481,71.59966,Female,Punjab,0,4,0,1992
+ 34 - Govt. Girls Primary School Maqbool Colony Bahawalpur- (Male),29.37563,71.71701,Male,Punjab,3,0,1312,0
+ 35 - Govt. Girls Primary School Maqbool Colony Bahawalpur- (Female),29.37563,71.71704,Female,Punjab,0,2,0,1208
+ 118 - Govt. Model Primary School- Chak No.10/BC Bahawalpur (Female),29.37879,71.72647,Female,Punjab,0,2,0,1664
+ 117 - Govt. Model Primary School- Chak No.10/BC Bahawalpur (Girls Portion)  (Male),29.37929,71.72569,Male,Punjab,2,0,2134,0
+ 124 - Sadiq Public School (Secondary Section) (Male),29.37946,71.65424,Male,Punjab,4,0,2802,0
+ 125 - Sadiq Public School (High Section) (Female),29.37946,71.65427,Female,Punjab,0,4,0,2344
+ 212 - Govt. Degree College for Women- Satellite Town- BWP (Male).,29.38063,71.71988,Male,Punjab,2,0,1077,0
+ 240 - Govt. Degree College for Women- Satellite Town- Bahawalpur (Male).,29.38063,71.71991,Male,Punjab,3,0,1346,0
+ 209 - Govt. Girls Elementary School- Chak No.9/BC (Female),29.38072,71.72522,Female,Punjab,0,3,0,1420
+ 208 - Govt. English Medium Boys Primary School- Chak No.9/BC (Male),29.38077,71.72521,Male,Punjab,3,0,1558,0
+ 179 - Govt. Girls Elementary School- Bhatta No.1- Ahmedpur East Road- BWP (Female).,29.381,71.65591,Female,Punjab,0,2,0,1465
+ 181 - Govt. Girls Elementary School- Bhatta No.1- Ahmedpur East Road- BWP (Female).,29.381,71.65594,Female,Punjab,0,2,0,809
+ 183 - Govt. Girls Elementary School- Bhatta No.1- Ahmedpur East Road- BWP (Female),29.381,71.65597,Female,Punjab,0,2,0,831
+ 180 - Govt. Boys Primary School- Bhatta No.1- Ahmedpur East Road- BWP (Male),29.38108,71.65573,Male,Punjab,2,0,841,0
+ 182 - Govt. Boys Primary School- Bhatta No.1- Ahmedpur East Road - BWP (Male),29.38108,71.65576,Male,Punjab,2,0,931,0
+ 168 - F.G Public School No.1 Boys- Trust Colony- Bahawalpur (Male),29.3811,71.67255,Male,Punjab,3,0,1306,0
+ 213 - Govt. Girls High School- Mohajir Colony- near Tanki wali gali No. 7- BWP (Middle Section) (Female),29.38152,71.7229,Female,Punjab,0,2,0,939
+ 214 - Govt. Girls High School- Mohajir Colony- near Tanki wali gali No. 7- BWP (Primary Section)  (Male),29.38152,71.72293,Male,Punjab,4,0,1950,0
+ 215 - Govt. Girls High School- Mohajir Colony- near Tanki wali gali No. 7- BWP (High Section) (Female),29.38152,71.72296,Female,Punjab,0,4,0,1753
+ 206 - Govt. Elementary School- Islami Madrassah- Hamatian- Mailay Wali Gali- BWP (Male).,29.38238,71.7192,Male,Punjab,4,0,2073,0
+ 207 - Govt. Elementary School- Islami Madrassah- Hamatian- Mailay Wali Gali- BWP (Female).,29.38238,71.71923,Female,Punjab,0,4,0,1913
+ 172 - Regional Office Employees- Old Age Benefits Institution- Dubai Mahal Road- New Sadiq Colony- Bahawalpur (Male).,29.38259,71.66434,Male,Punjab,3,0,1506,0
+ 173 - Regional Office Employees- Old Age Benefits Institution- Dubai Mahal Road- New Sadiq Colony- Bahawalpur (Female),29.38259,71.66437,Female,Punjab,0,2,0,1172
+ 174 - Govt. Girls Degree College- Dubai Mahal Road- BWP (Intermediate Portion) (Eastern Side)  (Male),29.38259,71.6644,Male,Punjab,2,0,863,0
+ 175 - Govt. Girls Degree College- Dubai Mahal Road- BWP  (Degree Portion) (Western Side) (Female),29.38259,71.66443,Female,Punjab,0,2,0,858
+ 176 - Govt. Girls Degree College- Dubai Mahal Road- BWP (Intermediate Portion) (Eastern Side) (Male),29.38259,71.66446,Male,Punjab,3,0,1647,0
+ 177 - Govt. Girls Degree College- Dubai Mahal Road- BWP (Degree Portion) (Western Side) (Female),29.38259,71.66449,Female,Punjab,0,3,0,1485
+ 178 - Govt. Cantonment Board Dispensary No. 1- Bhatta No.1- Ahmedpur East Road- BWP (Male),29.38283,71.65879,Male,Punjab,3,0,1778,0
+ 134 - F.G. College Opposite Muhammadia Colony- Bahawalpur (Combined),29.3831,71.6713,Combined,Punjab,2,2,1095,1028
+ 135 - F.G. College Opposite Muhammadia Colony- Bahawalpur (Combined),29.3831,71.67133,Combined,Punjab,1,1,238,231
+ 170 - Federal Govt. College for Boys- Noor Mahal Road- Bahawalpur (Male),29.3831,71.67136,Male,Punjab,3,0,1571,0
+ 171 - Federal Govt. College for Boys- Noor Mahal Road- Bahawalpur  (Female).,29.3831,71.67139,Female,Punjab,0,3,0,1496
+ 68 - Govt Vocational Institute (Right Portion)- Bahawalpur. (Male),29.38383,71.69267,Male,Punjab,2,0,894,0
+ 69 - Govt Vocational Institute Bahawalpur (Left Portion)- . (Female),29.38383,71.6927,Female,Punjab,0,2,0,773
+ 242 - Govt. College of Technology Baghdad Road- Satellite Town- BWP (Eastern Portion) (Male),29.38453,71.71115,Male,Punjab,3,0,1402,0
+ 246 - Govt. College of Technology- Baghdad Road Satellite Town- BWP (Western Portion) (Male),29.38453,71.71118,Male,Punjab,3,0,1343,0
+ 154 - Govt. MC Primary School- Medical Colony- BWP (Male),29.38465,71.68124,Male,Punjab,3,0,1674,0
+ 156 - Govt. MC Primary School- Medical Colony- BWP (Male),29.38465,71.68127,Male,Punjab,2,0,915,0
+ 157 - Govt. Girls Primary School- Quaid-e-Azam Medical College- BWP (Female),29.38465,71.6813,Female,Punjab,0,2,0,752
+ 216 - Govt. Technical Training Institute- Bahawalpur (Left Portion) (Male),29.3854,71.70658,Male,Punjab,1,0,638,0
+ 217 - Govt. Technical Training Institute- Bahawalpur (Right Portion) (Female),29.3854,71.70661,Female,Punjab,0,1,0,551
+ 218 - Govt. Technical Training Institute- Bahawalpur (Left Portion) (Male),29.3854,71.70664,Male,Punjab,3,0,1510,0
+ 219 - Govt. Technical Training Institute- Bahawalpur (Right Portion) (Female),29.3854,71.70667,Female,Punjab,0,2,0,1330
+ 220 - Govt. Technical Training Institute- Bahawalpur (Left Portion) (Combined),29.3854,71.7067,Combined,Punjab,2,2,711,600
+ 36 - Punjab Forest School- Baghdad Road (Right Portion) (Male),29.38554,71.70992,Male,Punjab,2,0,1242,0
+ 37 - Punjab Forest School- Baghdad Road Bahawalpur (Left Portion) (Female),29.38554,71.70995,Female,Punjab,0,2,0,959
+ 155 - Govt. Para Medical School- Medical Colony- B.V.H Bahawalpur (Female).,29.38584,71.68144,Female,Punjab,0,3,0,1458
+ 244 - Govt. Shauhda-e-APS Memorial Higher Secondary School- Satellite Town- BWP (Male).,29.38586,71.70697,Male,Punjab,3,0,1283,0
+ 245 - Govt. Shauhda-e-APS Memorial Higher Secondary School- Satellite Town- BWP (Female).,29.38586,71.707,Female,Punjab,0,3,0,1303
+ 222 - Govt. Girls Elementary School- Medical Colony near Markazi Jamia Masjid (One Unit Colony) BWP (Female).,29.38591,71.6991,Female,Punjab,0,3,0,1659
+ 224 - Govt. Girls Elementary School- Medical Colony near Markazi Jamia Masjid (One Unit Colony) BWP (Female).,29.38591,71.69913,Female,Punjab,0,2,0,1076
+ 227 - Govt. College for Elementary Teachers/QAED- Opposite Shell Petrol Pump- Baghdad Road- Satellite Town- BWP  (Male),29.38617,71.70612,Male,Punjab,3,0,1608,0
+ 247 - Govt. College for Elementary Teachers/ QAED- Opposite Shell Petrol Pump- Baghdad Road- Satellite Town- BWP  (Western Side) (Female).,29.38617,71.70615,Female,Punjab,0,3,0,1227
+ 223 - Govt. Dispensary- One Unit Staff Colony- BWP (Male).,29.3864,71.70197,Male,Punjab,2,0,1070,0
+ 169 - Govt Girls Primary School- Trust Colony- Bahawalpur (Female).,29.38667,71.67503,Female,Punjab,0,2,0,1162
+ 238 - Govt. Girls Higher Secondary School- Saellite Town- Bahawalpur (Male).,29.38734,71.71024,Male,Punjab,4,0,2844,0
+ 226 - Govt. Girls English Medium High School- Canal Colony near Kali Pulli- Bahawalpur (Female).,29.38758,71.69199,Female,Punjab,0,3,0,1828
+ 221 - Office of Assistant Education Officer (AEO)- Male/Govt. Primary School- Quarter No. 34/1- One Unit Staff Colony- BWP (Male).,29.38763,71.70297,Male,Punjab,3,0,1796,0
+ 228 - Dar-ul-Falah Social Welfare- Fouji Basti near Police Station- Baghdad-ul-Jadeed BWP (Female),29.38835,71.71314,Female,Punjab,0,3,0,1411
+ 203 - Govt. Girls Primary School- Tibba Badar Sher No.2 near Wagon Stand Road- BWP (Female),29.3884,71.73289,Female,Punjab,0,3,0,1243
+ 205 - Govt. Girls Primary School- Tibba Badar Sher No.2 near Wagon Stand Road- BWP (Female),29.3884,71.73292,Female,Punjab,0,2,0,956
+ 225 - Govt. High School- Canal Colony near Kali Pulli- Bahawalpur (Male),29.38853,71.69196,Male,Punjab,4,0,2024,0
+ 243 - Office of Union Council No.9- Satellite Town Extension- Bahawalpur (Female).,29.38854,71.7178,Female,Punjab,0,3,0,1322
+ 158 - Office of Cantonment Board- near Chowk Fawara- BWP (Male),29.39008,71.66885,Male,Punjab,4,0,2328,0
+ 239 - APWA Girls High School near Telephone Exchange Satellite Town- Bahawalpur (Female),29.39012,71.71096,Female,Punjab,0,4,0,2648
+ 202 - Govt. Boys High School- Chah Suleman Shah near Al-Madina Masjid Tibba Badar Sher Road- BWP (Male),29.39018,71.72838,Male,Punjab,3,0,1560,0
+ 204 - Govt. Boys High School- Chah Suleman Shah near Al-Madina Masjid Tibba Badar Sher Road- BWP (Male),29.39018,71.72841,Male,Punjab,2,0,1192,0
+ 20 - Office of Union Council No. 20-Khanu Wali (Male),29.39025,71.62949,Male,Punjab,3,0,1788,0
+ 21 - Govt. Arabic Primary School- Khanu Wali (Female),29.39028,71.62974,Female,Punjab,0,3,0,1452
+ 159 - WAPDA Rest House- near Janaza Gah- Chowk Fawara- BWP (Female),29.39073,71.6704,Female,Punjab,0,4,0,1906
+ 210 - Govt. Model English Medium Primary School- Awami Colony- Tibba Badar Sher- BWP near Open Ground (Male).,29.39097,71.72091,Male,Punjab,4,0,2413,0
+ 211 - Govt. Model English Medium Primary School- Awami Colony- Tibba Badar Sher- BWP near Open Ground (Female),29.39097,71.72094,Female,Punjab,0,4,0,2076
+ 120 - Govt. College for Elementary Teachers Training for women/QAED Model Town-A- BWP. (Male) (Left Portion),29.39122,71.66026,Male,Punjab,2,0,1041,0
+ 121 - Govt. College for Elementary Teachers Training for women/QAED Model Town-A- BWP (Female) (Right Portion),29.39122,71.66029,Female,Punjab,0,2,0,1056
+ 92 - Office XEN Provincial Building Division- Bahawalpur Near Sadar Pulli (Male),29.39153,71.6918,Male,Punjab,4,0,2061,0
+ 241 - Govt. APWA Girls High School near Markazi Jamia Masjid- Satellite Town- Bahawalpur (Female),29.39181,71.71348,Female,Punjab,0,2,0,1169
+ 195 - Govt. Sadiq College of Commerce- Cheema/ Choudhry Town- BWP (Male),29.39336,71.64448,Male,Punjab,2,0,1178,0
+ 196 - Govt. Sadiq College of Commerce- Cheema/ Choudhry Town- BWP (Female),29.39336,71.64451,Female,Punjab,0,2,0,1026
+ 122 - Govt Girls Model Higher Secondary School-  Model Town-A- BWP (High Section) (Male),29.39383,71.66313,Male,Punjab,2,0,1237,0
+ 123 - Govt Girls Model Higher Secondary School-  Model Town-A- BWP  (Middle Section) (Female),29.39383,71.66316,Female,Punjab,0,2,0,1213
+ 150 - Govt. Boys MC High School- Chah Fateh Khan- BWP (Male),29.39405,71.67928,Male,Punjab,4,0,2025,0
+ 151 - Govt. Girls Higher Secondary School- Chah Fateh Khan- Bahawalpur (Female).,29.39422,71.67899,Female,Punjab,0,4,0,1888
+ 153 - Govt. Girls Higher Secondary School- Chah Fateh Khan- Bahawalpur (Female).,29.39422,71.67902,Female,Punjab,0,3,0,1419
+ 149 - Zanana Jubilee Hospital- Fateh Khan Bazar- Bahawalpur (Female) (South Portion).,29.39427,71.67747,Female,Punjab,0,4,0,1849
+ 152 - Zanana Jubilee Hospital- Fateh Khan Bazar- Bahawalpur (Male),29.39427,71.6775,Male,Punjab,3,0,1702,0
+ 201 - Govt. Girls Model Primary School- Tibba Badar Sher No.3 near Aqsa Masjid BWP (Female).,29.39453,71.73129,Female,Punjab,0,4,0,2096
+ 148 - APWA High School- Farid Gate- Bahawalpur (Male),29.39515,71.6832,Male,Punjab,4,0,2150,0
+ 18 - Govt Girls Junior Model High School near Habib Colony- Bahawalpur (Male),29.39557,71.65081,Male,Punjab,2,0,744,0
+ 19 - Govt Girls Junior Model High School near Habib Colony- Bahawalpur (Female),29.39557,71.65084,Female,Punjab,0,2,0,668
+ 3 - Office Additional Director Live Stock- Habib Colony- Bahawalpur (Male),29.39591,71.65168,Male,Punjab,3,0,1044,0
+ 4 - Office Additional Director Live Stock (Training Center Back Side of Main Office) - Habib Colony- Gulberg Road Bahawalpur (Female),29.39591,71.65171,Female,Punjab,0,2,0,961
+ 71 - Govt SE College Bahawalpur (Computer Section)-  (Female),29.39602,71.68974,Female,Punjab,0,2,0,1155
+ 146 - Govt. Community Girls High School- Phattay Wali Gali- Machhli Bazar- Bahawalpur (Male).,29.39605,71.68012,Male,Punjab,2,0,767,0
+ 147 - Govt Community Girls High School- Phattay Wali Gali- Machhli Bazar- Bahawalpur (Female),29.39605,71.68015,Female,Punjab,0,1,0,590
+ 160 - University Public School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Male) (Right Portion),29.39663,71.67303,Male,Punjab,3,0,1785,0
+ 162 - University Public School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Male) (Right Portion).,29.39663,71.67306,Male,Punjab,2,0,986,0
+ 163 - University Public School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Female),29.39663,71.67309,Female,Punjab,0,2,0,845
+ 66 - Govt. Sadiq Girls High School- Near Machli Talab- Bahawalpur. (Male),29.39666,71.69289,Male,Punjab,1,0,585,0
+ 67 - Govt. Sadiq Girls High School- Near Machli Talab- Bahawalpur. (Female),29.39666,71.69292,Female,Punjab,0,1,0,507
+ 186 - Govt. Abbasia Higher Secondary School- Model Town-A- BWP (Male).,29.39678,71.66029,Male,Punjab,3,0,1632,0
+ 187 - Govt. Abbasia Higher Secondary School- Model Town-A- BWP (Female).,29.39678,71.66032,Female,Punjab,0,3,0,1454
+ 188 - Govt. Abbasia Higher Secondary School- Model Town-A- BWP (Male).,29.39678,71.66035,Male,Punjab,2,0,785,0
+ 189 - Govt. Abbasia Higher Secondary School- Model Town-A- BWP  (Female),29.39678,71.66038,Female,Punjab,0,2,0,739
+ 197 - Govt. Boys Primary School- Tibba Badar Sher No.3 near Aqsa Masjid BWP (Male).,29.3971,71.73297,Male,Punjab,3,0,1534,0
+ 198 - Govt. Boys Primary School- Tibba Badar Sher No.3 near Aqsa Masjid BWP (Female).,29.3971,71.733,Female,Punjab,0,3,0,1263
+ 199 - Govt. Boys Primary School- Tibba Badar Sher No.3 near Aqsa Masjid BWP (Combined),29.3971,71.73303,Combined,Punjab,2,2,802,654
+ 200 - Govt. Boys Primary School- Tibba Badar Sher No.3 near Aqsa Masjid BWP (Male).,29.3971,71.73306,Male,Punjab,4,0,2402,0
+ 161 - Govt. MC Girls High School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Female) (Eastern Portion),29.3974,71.6729,Female,Punjab,0,3,0,1451
+ 164 - Govt. MC Girls High School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Male) (Western Portion),29.3974,71.67293,Male,Punjab,3,0,1485,0
+ 165 - Govt. MC Girls High School- Purana Abbasia Road- Kajalpura- Gri Gunj Bazar- Bahawalpur (Female) (Western Portion),29.3974,71.67296,Female,Punjab,0,2,0,1143
+ 248 - Govt. Model Primary School- Basti Samlan- Mouza Qadir Bukhsh Channar- BWP (Combined),29.39817,71.72102,Combined,Punjab,1,1,545,448
+ 249 - Govt. Model Primary School- Basti Samlan- Mouza Qadir Bukhsh Channar- BWP (Combined).,29.39817,71.72105,Combined,Punjab,1,1,389,342
+ 166 - Govt. MC Haroonia High School- Mohallah Aam Khas Inside Bohar Gate- Bahawalpur (Male),29.39819,71.67049,Male,Punjab,4,0,2174,0
+ 167 - Govt. MC Haroonia High School- Mohallah Aam Khas Inside Bohar Gate- Bahawalpur (Female).,29.39819,71.67052,Female,Punjab,0,3,0,1807
+ 93 - Govt Boys Primary School- Basti Matma- Bahawalpur (Female),29.39822,71.70749,Female,Punjab,0,3,0,1734
+ 86 - Workers Welfare High School Near PASSCO Godown Railway Crossing- Bahawalpur (Left Portion) (Male),29.39887,71.64851,Male,Punjab,4,0,2255,0
+ 87 - Workers Welfare High School Near PASSCO Godown Railway Crossing- Bahawalpur (Right Portion) (Female),29.39887,71.64854,Female,Punjab,0,3,0,1753
+ 75 - Govt. Sadiq Women University- Degree College Road- Bahawalpur (Female),29.399,71.69377,Female,Punjab,0,3,0,1428
+ 77 - Govt. Sadiq Women University- Degree College Road- Bahawalpur (Female),29.399,71.6938,Female,Punjab,0,2,0,1183
+ 17 - Government Staff Training College- Link Railway Road- Near Office of Deputy Registrar Cooperative Socieities Bahawalpur (Female),29.39983,71.64749,Female,Punjab,0,2,0,1076
+ 70 - Office House Building Finance Corporation- Qasim Town- Bahawalpur (Male),29.40005,71.68839,Male,Punjab,2,0,1261,0
+ 74 - Govt. Comprehensive High School Near Islamia University- Abbasia Campus Bahawalpur (Male),29.40019,71.69543,Male,Punjab,3,0,1597,0
+ 76 - Govt. Comprehensive High School near Islamia University- Abbasia Campus Bahawalpur (Male).,29.40019,71.69546,Male,Punjab,2,0,1192,0
+ 7 - Office Market Committee Ghalla Mandi- Model Town-B- Bahawalpur (Female).,29.40026,71.66327,Female,Punjab,0,2,0,918
+ 79 - Govt. Girls Elementary School (English)- Goth Ghani- Bahawalpur. (Female),29.40038,71.63828,Female,Punjab,0,4,0,1770
+ 184 - Office of Agriculture Crop Reporting Service- House No. 230/B- near Karbla Road- Model Town-B- Bahawalpur (Male),29.40039,71.66878,Male,Punjab,3,0,1821,0
+ 16 - Government Regional Training Institute Cooperatiove Societies  (Male),29.40067,71.65238,Male,Punjab,2,0,1212,0
+ 185 - Homeo Pathic College- Model Town-B- Bahawalpur  (Eastern Portion) (Female).,29.4009,71.66596,Female,Punjab,0,3,0,1681
+ 142 - Govt Farabi Hostel Multani Gate- Bahawalpur (Male),29.40112,71.67562,Male,Punjab,4,0,1827,0
+ 143 - Govt Farabi Hostel- Multani Gate- Bahawalpur (Female),29.40112,71.67565,Female,Punjab,0,3,0,1387
+ 144 - Zilai (District) TB Clinic- near Thana Kotwali- Multani Gate- Bahawalpur (Male),29.40128,71.6758,Male,Punjab,2,0,1254,0
+ 145 - Zilai (District) TB Clinic- near Thana Kotwali- Multani Gate- Bahawalpur (Female),29.40128,71.67583,Female,Punjab,0,2,0,1006
+ 139 - Govt. Primary School- MC- Halqa No.2 near Thana Kotwali Multani Gate- Machhli Bazar- BWP (Female),29.40146,71.67602,Female,Punjab,0,3,0,1654
+ 140 - Govt. Primary School- MC- Mohallah Makhdoompura- Tahli Wala- Bahawalpur (Male),29.4017,71.67992,Male,Punjab,4,0,2359,0
+ 141 - Govt. Girls Primary School- MC- UC No. 1- Mohallah Tahli Wala- Bahawalpur (Female),29.40222,71.68161,Female,Punjab,0,4,0,2038
+ 94 - Govt Boys High School- Sahlan- Bahawalpur. (Male),29.40242,71.71275,Male,Punjab,2,0,1141,0
+ 95 - Govt Boys High School- Sahlan- Bahawalpur. (Female),29.40242,71.71278,Female,Punjab,0,2,0,961
+ 42 - Pioneer High School For Girls- Near Royal Palace Marriage Hall Link Road- Shahdara- Bahawalpur  (Male),29.40246,71.65614,Male,Punjab,2,0,960,0
+ 1 - Govt Tibbia College near Sabzi Mandi- Bahawalpur  (Academic Portion) (Male),29.40289,71.67443,Male,Punjab,3,0,1350,0
+ 2 - Govt Tibbia College near Sabzi Mandi- Bahawalpur  (Hospital Portion) (Female),29.40289,71.67446,Female,Punjab,0,3,0,1133
+ 138 - Govt Girls High School- Syed Imam Shah- Multani Gate- BWP (Male),29.40299,71.6744,Male,Punjab,4,0,1935,0
+ 81 - Govt Girls Primary School- Balouch Colony- near Bholi Masjid Goth Bajan Bahawalpur (Female),29.40335,71.64774,Female,Punjab,0,3,0,1612
+ 6 - Govt Tibbia College near Sabzi Mandi- Bahawalpur (Male).,29.40335,71.67593,Male,Punjab,2,0,1034,0
+ 40 - Karkhana Zarai Allat Shahdra Road Bahawalpur (East Portion) (Male),29.40344,71.65855,Male,Punjab,4,0,2002,0
+ 41 - Karkhana Zarai Allat Shahdra Road Bahawalpur (West Portion) (Female),29.40344,71.65858,Female,Punjab,0,3,0,1511
+ 136 - Office of Director Live Stock- near Veterinary Hospital- Bahawalpur (Male),29.4035,71.67625,Male,Punjab,4,0,2250,0
+ 137 - Govt Civil Veterinary Hospital- near Purani Sabzi Mandi-  Multani Gate- Bahawalpur (Female),29.40359,71.67593,Female,Punjab,0,4,0,1896
+ 15 - SWEDE CARE PUBLIC SCHOOL link Shahdra Railway Road- Kachi Mohajir Colony Bahawalpur (Female),29.40365,71.65532,Female,Punjab,0,4,0,1967
+ 72 - Office of Officer Incharge Cricket Ground   - Bahawalpur Stadium- Bahawalpur (Left Portion) (Male),29.40387,71.68349,Male,Punjab,3,0,1473,0
+ 73 - Office of Officer Incharge Hockey Ground   Bahawalpur Stadium- Bahawalpur (Right Portion) (Female),29.40445,71.68571,Female,Punjab,0,3,0,1371
+ 78 - Govt. Arabic Primary School- Mouza Goth Bajan Bahawalpur (Male),29.40479,71.64855,Male,Punjab,4,0,2089,0
+ 52 - Iqra Schools Movement- Sabir Colony- Bahawalpur.  (Male) T*,29.405,71.65417,Male,Punjab,2,0,867,0
+ 90 - Govt Boys Primary School- Akhtar Abad Bahawalpur (Male),29.40535,71.70126,Male,Punjab,3,0,1587,0
+ 48 - Zikria Misali Science Secondary School- Near Bindra Pulli Bahawalpur (Male) T*,29.40553,71.66911,Male,Punjab,2,0,1185,0
+ 91 - Govt Girls Primary School- Akhtar Abad Bahawalpur (Female),29.40596,71.70312,Female,Punjab,0,3,0,1321
+ 39 - Quaid-e-Azam Public School- Link Railway Road- Kachi Mohajir Colony- Bahawalpur (Female) T*,29.40611,71.65972,Female,Punjab,0,2,0,1243
+ 80 - Azhar Public School- Sub-Campus- Quaid-e-Azam Colony- Bahawalpur. (Male) T*,29.40619,71.65205,Male,Punjab,4,0,1990,0
+ 103 - Govt Girls High School- Jhangi Wala Bahawalpur (Female),29.40625,71.75724,Female,Punjab,0,2,0,1263
+ 64 - Govt Boys Primary School Central Jail- Bahawalpur (Male),29.40627,71.68787,Male,Punjab,3,0,1647,0
+ 43 - Govt. MC Primary School- Basti Bani Garan- Kachi Mohajir Colony near Gulzar Masjid- Bahawalpur.  (Female),29.40667,71.65778,Female,Punjab,0,2,0,713
+ 14 - Govt Girls Elementary School- Basti Shahdra near Jamia Masjid Bahawalpur (Male),29.40811,71.66314,Male,Punjab,4,0,2427,0
+ 98 - Govt Boys Primary School- Basti Bhattian- Sahlan Road- Bahawalpur (Male),29.40854,71.69904,Male,Punjab,2,0,1247,0
+ 38 - Govt. Primary School- MC Shahdara Model Town-B Near Jamia Masjid- Shahdra- Bahawalpur (Male),29.40861,71.66139,Male,Punjab,3,0,1558,0
+ 25 - Govt. Primary School- Ghafoor Abad (Combined),29.40878,71.61101,Combined,Punjab,2,2,886,747
+ 61 - Govt. Girls Primary School Basti Karna Bahawalpur (Female),29.40959,71.6842,Female,Punjab,0,3,0,1625
+ 104 - Govt Girls Primary School- Baqirpur Bahawalpur (Combined),29.4096,71.68681,Combined,Punjab,2,2,1214,940
+ 115 - Govt Girls Primary School- Basti Nawabpura Bahawalpur (Kasra Munjal) (Combined),29.4096,71.68684,Combined,Punjab,2,2,875,684
+ 56 - Govt Boys Primary School- Javed Colony Bahawalpur (Male),29.41185,71.67641,Male,Punjab,4,0,2165,0
+ 60 - Govt. Girls Primary School Bismillah Colony Bahawalpur (Male),29.41255,71.67636,Male,Punjab,4,0,1908,0
+ 62 - Falahi Markaz Behbood e Abadi-  Jafri Town- Bahawalpur (Male) T*,29.41285,71.68629,Male,Punjab,3,0,1555,0
+ 50 - Govt. Arabic Elementary School- Basti Bindra- Bahawalpur. (Male),29.41398,71.67207,Male,Punjab,3,0,1764,0
+ 51 - Govt. Arabic Elementary School- Basti Bindra- Bahawalpur. (Female),29.41398,71.6721,Female,Punjab,0,3,0,1361
+ 44 - Govt. Girls Eelementary School- Bindra- Bahawalpur. (Male),29.41432,71.67117,Male,Punjab,3,0,1865,0
+ 45 - Govt Girls Elementary School- Bindra- Bahawalpur. (Female),29.41432,71.6712,Female,Punjab,0,3,0,1524
+ 49 - Zikria Misali Science Secondary School- Near Bindra Pulli Bahawalpur (Female) T*,29.41477,71.67393,Female,Punjab,0,2,0,979
+ 99 - Govt Girls Primary School Basti Haji Muhammad Iqbal Near Basti Kalian Bahawalpur (Female),29.41477,71.68866,Female,Punjab,0,2,0,1027
+ 63 - Govt. Girls Primary School- Fareed Abad- Basti Ghous Bakhsh Bahawalpur(Female),29.41598,71.68235,Female,Punjab,0,2,0,1222
+ 100 - Govt. Model Primary School Feroza- Judge Wala Pulli- Jhangi wala Bahawalpur (Male),29.4176,71.73754,Male,Punjab,2,0,1100,0
+ 101 - Govt. Model Primary School Feroza- Judge Wala Pulli- Jhangi wala Bahawalpur (Female),29.4176,71.73757,Female,Punjab,0,2,0,939
+ 58 - Govt Boys Elementary School- Basti Veeslan Bahawalpur (Male),29.42095,71.67075,Male,Punjab,3,0,1756,0
+ 59 - Govt Boys Elementary School- Basti Veeslan Bahawalpur (Female),29.42095,71.67078,Female,Punjab,0,3,0,1425
+ 102 - Govt Boys High School- Jhangi Wala Bahawalpur (Male),29.42257,71.75131,Male,Punjab,3,0,1453,0
+ 106 - Govt. Girls Primary School Jhangi Wala- Opposite Union Council Jhanga Wali Bahawalpur (Combined),29.42257,71.75134,Combined,Punjab,2,2,1462,1189
+ 54 - Weather Forecast Office- Nawaz Colony- Bahawalpur (Male),29.4242,71.66401,Male,Punjab,1,0,548,0
+ 97 - Govt Girls Primary School Band Islampura- Bahawalpur (Female),29.4244,71.69003,Female,Punjab,0,2,0,1441
+ 105 - Basic Health Unit- Jhangi Wala Bahawalpur (Combined),29.42571,71.77355,Combined,Punjab,2,2,905,820
+ 109 - Govt Model Primary School Gudpur Basti Gudpur Bahawalpur (Combined),29.42571,71.77358,Combined,Punjab,2,2,395,327
+ 46 - Punjab Small Industries Corporation- Regional Office- Bahawalpur (Male),29.42612,71.66357,Male,Punjab,2,0,1170,0
+ 47 - Punjab Small Industries Corporation- Regional Office- Bahawalpur (Female),29.42612,71.6636,Female,Punjab,0,2,0,868
+ 83 - Govt. Model Primary School- Basti Hurrian (Righ Side)- Bahawalpur (Female),29.42717,71.65269,Female,Punjab,0,3,0,1732
+ 55 - Govt. Masjid Maktab School- Nadeemabad- Nawaz Colony- Bahawalpur (Female),29.42733,71.6538,Female,Punjab,0,1,0,472
+ 84 - Govt. Girsl Primary School- Satluj Colony- Bahawalpur (Male),29.43129,71.66045,Male,Punjab,2,0,1323,0
+ 85 - Masjid Maktab Primary School Nazir Abad Basti Labana- Bahawalpur (Female),29.43152,71.66396,Female,Punjab,0,2,0,1090
+ 110 - Govt Boys High School- Mangwani Bahawalpur (High Section) (Male),29.43989,71.90322,Male,Punjab,2,0,2222,0
+ 111 - Govt Boys High School- Mangwani Bahawalpur (Female),29.43989,71.90325,Female,Punjab,0,2,0,1759
+ 26 - Govt. Boys Primary School- Basti Qadir Abad- (Combined),29.44102,71.65158,Combined,Punjab,2,2,737,575
+ 57 - Govt. Girls Primary School- Nazir Abad Colony- Bahawalpur (Female),29.44102,71.65161,Female,Punjab,0,3,0,1742
+ 113 - Govt Boys Middle School- Mari Qasim Shah Bahawalpur(Combined),29.44646,71.84138,Combined,Punjab,2,2,1198,923
+ 114 - Govt Girls Middle School- Mari Qasim Shah Bahawalpur (Combined),29.44646,71.84141,Combined,Punjab,2,2,1129,885
+ 82 - Principal Highway Rest House near Sutluj Bridge- Bahawalpur (Male),29.44957,71.64527,Male,Punjab,4,0,2115,0
+ 107 - Govt Girls Middle School- Jhoke Shera Bahawalpur  (Combined),29.45464,71.72488,Combined,Punjab,1,1,545,483
+ 96 - Govt Boys Elementary School- Baqirpur Bahawalpur (Middle Section) (Male),29.46532,71.64527,Male,Punjab,3,0,1903,0
+ 108 - Govt Elementary School Miani Jhabail- Basti Miani Jhabail Bahawalpur (Combined),29.46824,71.64566,Combined,Punjab,2,2,800,743
+ 112 - Govt High School Chawan Basti  Chawan Bahawalpur (Combined),29.51106,71.84509,Combined,Punjab,1,1,795,667

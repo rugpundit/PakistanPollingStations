@@ -1,4 +1,4 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-1,Government Girls Higher Secondary School- Court Road- Nawab Shah (Male),26.24474885947624,68.4065245811344,Male,Sindh,3,0,892,0
-2,Government Girls Higher Secondary School- Court Road- Nawab Shah (Female),26.24474885947624,68.4065545811344,Female,Sindh,0,2,0,803
-3,Government Boys Primary School Ghulam Hyder Shah Colony Nawab Shah  (Male),26.254844406897643,68.39877843659917,Male,Sindh,3,0,1046,0
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 1 - Government Girls Higher Secondary School- Court Road- Nawab Shah (Male),26.24474885947624,68.4065245811344,Male,Sindh,3,0,892,0
+ 2 - Government Girls Higher Secondary School- Court Road- Nawab Shah (Female),26.24474885947624,68.4065545811344,Female,Sindh,0,2,0,803
+ 3 - Government Boys Primary School Ghulam Hyder Shah Colony Nawab Shah  (Male),26.254844406897643,68.39877843659917,Male,Sindh,3,0,1046,0

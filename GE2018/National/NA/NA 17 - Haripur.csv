@@ -1,596 +1,596 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-240,Rest House Nikray,33.77312972261589,72.86080845005277,Combined,KPK,2,1,538,437
-244,Govt Primary School- Jaulian (Female).,33.77409030582994,72.87483699109393,Female,KPK,0,3,0,920
-241,Govt Middle School- Jaulian (Male).,33.77422064118744,72.87536224059076,Male,KPK,3,0,1070,0
-242,Govt Middle School- Jaulian (Female).,33.77422064118744,72.8753922405908,Female,KPK,0,3,0,989
-243,Govt Primary School- Jaulian (Male).,33.7744834202867,72.87473046846335,Male,KPK,3,0,1086,0
-233,Govt Girls Primary School-Tofkian (Female),33.77488745537763,72.83754525381825,Female,KPK,0,4,0,1320
-234,Govt Primary School- Pind Gakhra (Male),33.7777795080888,72.84311224406959,Male,KPK,3,0,1045,0
-235,Govt Girls  Primary School- Pind Gakhra (Female),33.78099,72.84497,Female,KPK,0,3,0,882
-255,Govt High School- Bhera (Female).,33.78411761618721,72.87546638896634,Female,KPK,0,3,0,949
-254,Govt High School- Bhera(Male).,33.78427173109982,72.87546788059048,Male,KPK,3,0,1085,0
-260,Govt Primary School Choi,33.78778,72.94578,Combined,KPK,2,1,592,470
-256,Govt Girls Primary School- Tarnawa.,33.78784203921402,72.89648216956297,Combined,KPK,2,2,522,524
-258,Govt High School- Choi(Male).,33.788182699703626,72.94602259108753,Male,KPK,4,0,1207,0
-259,Govt High School- Choi (Female).,33.788182699703626,72.9460525910875,Female,KPK,0,3,0,1048
-308,Govt Girls Primary School- Kotla.,33.789356397989685,73.1021269333497,Combined,KPK,2,2,762,632
-257,Govt Primary School- Mohra Ghazan.,33.79119468300011,72.91863812364235,Combined,KPK,2,1,473,371
-237,Govt Girls Primary School- Sultanpur.,33.79249978255618,72.84707837157559,Combined,KPK,2,2,572,498
-303,Govt  Girls Primary School- Bharrary  (Muslaimabad)(Female),33.7932,73.05437,Female,KPK,0,2,0,760
-239,Govt Primary School- Mumrial. (Female),33.79458,72.89039,Female,KPK,0,3,0,924
-238,Govt Primary School- Mumrial.(Male),33.7945836103973,72.89038068701875,Male,KPK,3,0,1067,0
-289,Govt High School Najafpur (Female),33.79685,72.98176,Female,KPK,0,3,0,868
-288,Govt High School- Najifpur(Male),33.79693119480833,72.98190048918094,Male,KPK,3,0,975,0
-292,Govt Girls Primary School Najafpur (Female),33.80079,72.98324,Female,KPK,0,2,0,792
-246,Govt Girls Higher Secondary School- Khanpur,33.801728971143625,72.90661279710005,Combined,KPK,2,2,592,569
-249,Govt Girls Higher Secondary School- Khanpur (Female),33.80174374623621,72.90659889793345,Female,KPK,0,4,0,1864
-250,Govt Girls Higher Secondary School- Khanpur (Female),33.801820080202255,72.90659109939782,Female,KPK,0,3,0,894
-291,Govt Primary School-Najifpur (Male),33.80265431442134,72.98343095583239,Male,KPK,3,0,913,0
-247,Govt High School- Khanpur (Male),33.8039624321047,72.91395452122546,Male,KPK,4,0,1715,0
-248,Govt High School- Khanpur (Male),33.803971628739596,72.9139264205755,Male,KPK,4,0,1152,0
-305,Govt Primary School Narota,33.80698,73.07944,Combined,KPK,1,1,487,354
-290,Govt Primary School- Khoi Kaman,33.81181705081779,72.97813862832557,Combined,KPK,2,2,665,600
-261,Govt Middle School- Saradhana,33.81209002520182,72.96296857279593,Combined,KPK,2,2,707,547
-317,Govt Primary School- Makhnial.,33.81297811761529,73.13432648779633,Combined,KPK,2,2,736,534
-309,Govt Primary School- Sarbroot,33.81621011217958,73.03444809831676,Combined,KPK,2,2,863,684
-245,Govt Primary School- Darra Dada Shaheed,33.81772859709185,72.92072392714827,Combined,KPK,2,2,807,709
-307,Govt Primary School Pakshai,33.82091,73.092,Combined,KPK,1,1,471,357
-322,Govt High School- Kharian,33.821800098573625,73.1584666836153,Combined,KPK,2,2,720,569
-310,Govt Primary School- Beesban,33.822707493469395,73.06150999796354,Combined,KPK,2,2,609,528
-323,Govt Primary School- Haryala.,33.826932584074754,73.14846729984704,Combined,KPK,1,1,268,189
-253,Govt Primary School- Khoi Maira (Female).,33.82911809820932,72.9353882856732,Female,KPK,0,4,0,1369
-252,Govt Middle School- Khoi Maira (Male).,33.82919238122275,72.93531354160946,Male,KPK,4,0,1537,0
-269,Govt Girls Primary School- Suraj Gali,33.832341601187636,72.9091332706513,Combined,KPK,2,1,467,447
-311,Govt Primary School- Desra.,33.833738426535824,73.08099472812557,Combined,KPK,1,1,262,215
-325,Govt Middle School- Neelan Bhoto,33.83585822979136,73.19752200691934,Combined,KPK,2,2,978,740
-324,Govt Middle School- Jalees,33.83721694224835,73.17801398195786,Combined,KPK,2,2,622,502
-294,Govt Primary School Dartian (Female),33.83736,73.01186,Female,KPK,0,2,0,879
-265,Govt Middle School- Shadi,33.83748131412697,72.84825918337759,Combined,KPK,2,2,597,467
-264,Govt Primary School- Shadi,33.83748923833189,72.84822987612273,Combined,KPK,1,1,375,293
-266,Govt Priamry School Shadi,33.83751,72.8483,Combined,KPK,2,1,494,410
-268,Govt Primary School-Suraj Gali.,33.838038377705814,72.90107515763574,Combined,KPK,1,1,315,288
-262,Govt Primary School- Rani Wah.,33.83874625243524,72.88002837540427,Combined,KPK,2,2,779,669
-320,Govt Primary School Kohmal Bala,33.84041,73.14382,Combined,KPK,1,1,298,253
-319,Govt Middle School- Dana Ferozpur,33.840896009282574,73.17363189612703,Combined,KPK,2,2,694,544
-263,Govt Primary School- Nazarabad.,33.84106476798035,72.83097056885588,Combined,KPK,2,1,448,339
-267,Govt High School Pind Gujran.,33.84838148774796,72.89700483749924,Combined,KPK,2,2,656,652
-271,Govt Girls High School- Hattar,33.849247930321496,72.85387321362545,Combined,KPK,2,2,738,654
-312,Govt  Primary School- Sumbal,33.85068745290971,73.0982594866647,Combined,KPK,2,2,708,561
-287,Govt Middle School- Khoi Nara.,33.850936455508034,72.91638847758756,Combined,KPK,2,2,788,631
-318,Govt Primary School- Kohmal Payeen,33.85370872179562,73.14865883883179,Combined,KPK,2,2,797,685
-316,Govt Girls High School-Halli (Female),33.85375840327273,73.12443187880612,Female,KPK,0,4,0,1419
-270,Basic Health Unit- Hattar,33.8546646021355,72.85186274298778,Combined,KPK,2,2,882,626
-273,Govt High School- Hattar (female),33.85622308866102,72.85280993382389,Female,KPK,0,4,0,1353
-272,Govt High School- Hattar (Male),33.85623415938654,72.85278998798903,Male,KPK,4,0,1487,0
-274,Govt Primary School- Hattar,33.85633071031338,72.85284749592016,Combined,KPK,2,2,750,620
-321,Govt High School- Barkot,33.85663800072912,73.16660155624027,Combined,KPK,2,2,575,501
-315,Govt High School- Halli (Male),33.85733865355509,73.13542766903313,Male,KPK,4,0,1565,0
-285,Basic Health Unit- Khoi Nara. (Male),33.86198548956543,72.9150198910843,Male,KPK,3,0,952,0
-286,Basic Health Unit- Khoi Nara.(Female),33.862,72.91503,Female,KPK,0,3,0,872
-282,Govt Girls Primary School- Bandi Muneem.,33.867897770800425,72.93113095348745,Combined,KPK,2,1,594,541
-283,Govt Primary School- Bandi Muneem.,33.86837795583843,72.92931197295869,Combined,KPK,2,1,577,495
-277,Govt Higher Secondary School- Bareela.,33.86898612651432,72.9294999846787,Combined,KPK,2,1,628,565
-280,Govt Girls Higher Secondary School- Bandi Muneem.,33.86943010091109,72.92756445784407,Combined,KPK,2,2,658,571
-313,Govt Girls  Primary School Malhat,33.86944,73.13361,Combined,KPK,1,1,471,382
-335,Govt Middle School- Kohala Bala,33.86959077390953,73.18081804191013,Combined,KPK,2,2,878,735
-334,Govt Girls Pirmary School Darkot (Female),33.86961,73.17074,Female,KPK,0,2,0,798
-333,Govt Primary School- Darkot (Male),33.87014661788829,73.16342730037535,Male,KPK,3,0,979,0
-281,Govt Girls Primary School- Pind Muneem.,33.87197682129855,72.9009718604828,Combined,KPK,2,2,768,672
-284,Govt Girls Middle School- Pind Muneem.,33.87280545687037,72.89997023875203,Combined,KPK,1,1,417,344
-314,Govt Middle School Sairee,33.87753,73.11848,Combined,KPK,1,1,466,370
-278,Govt Middle School-Qutba Dhak. (Male),33.88214324802598,72.93856248865929,Male,KPK,3,0,961,0
-279,Govt Middle School-Qutba Dhak.(Female),33.88218,72.93853,Female,KPK,0,3,0,842
-331,Govt Primary School Nullah No. 1  (Female),33.8848,73.16011,Female,KPK,0,3,0,851
-348,Govt High School- Chajjian. (Female),33.88497,73.02783,Female,KPK,0,3,0,970
-454,Govt Primary School- Jhamrah.,33.887693535452634,72.62489323248943,Combined,KPK,2,1,559,454
-329,Govt Girls Primary School- Bandi Kiayla.,33.88820746897176,73.17893743179614,Combined,KPK,1,1,476,387
-330,Govt Middle School-Nullah (Male),33.89006411640535,73.15398192581456,Male,KPK,3,0,938,0
-456,Govt Primary School- Kala Katha.,33.890809016838574,72.68221060887842,Combined,KPK,1,1,417,352
-452,Govt High School- Jhamrah.,33.892637377304695,72.62566357619889,Combined,KPK,2,2,810,629
-400,Govt Primary School- Khidu Pinju.,33.893411101545645,72.90141674388623,Combined,KPK,2,1,652,551
-402,Govt Primary School- Bandi Gullu.,33.893452387685144,72.86577548985846,Combined,KPK,2,2,974,783
-332,Govt Primary School- Tial.,33.89417658578162,73.12757652024818,Combined,KPK,1,1,245,227
-457,Govt Girls Primary  School-Kohi Dara.,33.89572487787816,72.68433125187242,Combined,KPK,1,1,405,325
-394,Govt Primary School-Kali Tarar Sharki Bala.,33.89942968571108,72.93055201406462,Combined,KPK,1,1,245,220
-426,Govt  Primary School- Mottian.(Female),33.89983,72.79314,Female,KPK,0,2,0,773
-401,Govt Primary School- Kali Tarar Gharbi.,33.900018881346085,72.88483306508968,Combined,KPK,1,1,358,323
-425,Govt Girls Primary School- Mottian. (Male),33.900333771200664,72.79348862224599,Male,KPK,3,0,994,0
-326,Govt Primary School- Jabri,33.90297265549269,73.17137748373797,Combined,KPK,2,1,486,429
-327,Govt Girls High School- Jabri (Male),33.90526988550214,73.17548918684064,Male,KPK,3,0,896,0
-328,Govt Girsl High School - Jabri (Female),33.90528,73.17539,Female,KPK,0,2,0,828
-385,Govt English Medium Primary School- Galham.,33.9063046672349,72.96259492004069,Combined,KPK,2,2,766,654
-393,Govt Girls High School- Mang. (Female),33.90803588935852,72.91510373928693,Female,KPK,0,3,0,1054
-392,Govt Primary School- Mang. (Male),33.90807181595239,72.91510864717587,Male,KPK,4,0,1152,0
-459,Govt Middle School- Amgah.,33.908136540330105,72.7153358950122,Combined,KPK,2,1,496,460
-386,Govt Girls High School- Pind Kamal Khan. (Male),33.908748888406414,72.95545225575937,Male,KPK,3,0,1036,0
-387,Govt Girls High School- Pind Kamal Khan.(Female),33.90876,72.95533,Female,KPK,0,3,0,897
-423,Basic Health Unit- Dingi. (Female),33.90964012796929,72.79838804225379,Female,KPK,0,2,0,768
-424,Basic Health Unit- Dingi. (Female),33.90969,72.79834,Female,KPK,0,3,0,966
-421,Govt Higher Secondary School- Dingi. (Male),33.90972075112486,72.79817020927756,Male,KPK,3,0,934,0
-453,Govt Primary School- Chechian Rukar.,33.90972637382082,72.64884410933458,Combined,KPK,2,1,434,363
-422,Govt Higher Secondary School- Dingi. (Male),33.90985,72.79813,Male,KPK,3,0,1057,0
-416,Worker Welfare Board School- Labour Colony (Male),33.911266316698125,72.85919597219286,Male,KPK,4,0,1229,0
-417,Worker Welfare Board School- Labour Colony (Female),33.91131097256016,72.85912648175643,Female,KPK,0,3,0,977
-342,Govt Middle School- Gandhain  (Female),33.91136,73.09096,Female,KPK,0,2,0,760
-208,Govt Girls High School- Noordi. (Female),33.91263239819446,73.00078816266144,Female,KPK,0,2,0,806
-210,Govt Girls High School- Noordi. (Female),33.91311,73.00077,Female,KPK,0,3,0,915
-207,Govt High School- Noordi. (Male),33.914202612670046,72.99498804562833,Male,KPK,3,0,939,0
-209,Govt High School- Noordi. (Male),33.91457,72.99479,Male,KPK,3,0,1056,0
-389,Govt Girls Primary School- Bandi Seeraan.,33.914915556502216,72.95888632457864,Combined,KPK,2,2,802,681
-458,Govt Primary School- Tar Chatti.,33.91913194231247,72.69504500221197,Combined,KPK,2,1,532,365
-390,Govt Primary School- Rarra.,33.92214234616143,72.9663333489651,Combined,KPK,2,1,560,475
-205,Govt Girls High School- Chappara. (Male),33.92469518660511,73.02166498603916,Male,KPK,3,0,1083,0
-388,Govt Primary School- Bandi Seeraan.,33.924987872418505,72.95622150454604,Combined,KPK,2,1,536,492
-206,Govt Girls High School- Chappara.(Female),33.92501,73.02171,Female,KPK,0,3,0,941
-383,Govt Middle School- Chechian.,33.92563939027074,72.90744916424389,Combined,KPK,2,2,710,626
-427,Govt Girls Middle School- Dhedan. (Male),33.92859483043022,72.81044501207869,Male,KPK,4,0,1517,0
-428,Govt Girls Primary School- Dhedan. (Female),33.92867105881413,72.8102678289105,Female,KPK,0,4,0,1249
-398,Govt Primary School- Rajpur.,33.929118474685815,72.89808945492959,Combined,KPK,2,2,839,673
-384,Govt Girls Primary School- Sangian.,33.92968657479037,72.91402008439172,Combined,KPK,1,1,182,148
-415,Govt Primary School- Gunga  (Female),33.93102,72.8792,Female,KPK,0,3,0,895
-204,Govt Primary School- Sumbal Mohri.(Female),33.931184680534265,73.03133189828192,Female,KPK,0,4,0,1320
-395,Govt High School- Sirya.(Male),33.932743612691056,72.88697455954897,Male,KPK,3,0,954,0
-404,Govt  Higher Secondary School- Kot Najibullah (Male).,33.93279417315364,72.85780275381094,Male,KPK,4,0,1254,0
-405,Govt  Higher Secondary School- Kot Najibullah (Female).,33.93279417315364,72.8578327538109,Female,KPK,0,4,0,1159
-412,Govt  Girls Primary School No.1- Kot Najibullah (Female).,33.932868302563016,72.8543055722823,Female,KPK,0,3,0,919
-413,Govt  Girls Primary School No.1- Kot Najibullah (Female).,33.93291,72.85424,Female,KPK,0,2,0,676
-396,Govt High School- Sirya.(Male),33.93293,72.88681,Male,KPK,3,0,819,0
-403,Govt Girls Higher Secondary School- Kot Najibullah.,33.93294635836293,72.85457462544241,Combined,KPK,2,2,642,620
-406,Govt Girls Higher Secondary School- Kot Najibullah (Male).,33.93294635836293,72.8546046254424,Male,KPK,3,0,1100,0
-407,Govt Girls Higher Secondary School- Kot Najibullah (Female).,33.93294635836293,72.8546346254424,Female,KPK,0,3,0,1008
-411,Govt Primary School No.1- Kot Najibullah (Male).,33.93325,72.8579,Male,KPK,2,0,688,0
-410,Govt Primary School No.1- Kot Najibullah (Male).,33.933305938736446,72.8578599860339,Male,KPK,3,0,1003,0
-391,Govt Middle School Kahal Bala,33.93352554318644,72.97635342607398,Combined,KPK,1,1,303,276
-414,Govt Primary School- Kamala.  (Male),33.93383694307456,72.87157974738014,Male,KPK,3,0,1081,0
-227,Govt High School- Kahal. (Female),33.93390422492002,72.96016687232576,Female,KPK,0,4,0,1305
-226,Govt High School- Kahal. (Male),33.933927464338254,72.96016755317423,Male,KPK,4,0,1449,0
-382,Govt Middle School- Doyan Khushki.,33.93393095154233,72.92369795708868,Combined,KPK,2,2,732,687
-228,Govt Primary School- Pind Jamal Khan.,33.9343044638699,73.00459769944634,Combined,KPK,2,2,676,563
-397,Govt Girls Primary School- Sirya.(Female),33.93453033045693,72.88955205969536,Female,KPK,0,4,0,1580
-455,Govt Primary School- Baghdara.,33.93612300100823,72.69146980424777,Combined,KPK,2,1,576,434
-408,Govt Primary School No.2- Kot Najibullah (Male).,33.93804463729886,72.84861325478151,Male,KPK,4,0,1385,0
-409,Govt Girls Primary School No.2- Kot Najibullah (Female).,33.93829192577727,72.84825889637133,Female,KPK,0,4,0,1166
-229,Govt Primary School- Kamalpur.,33.93844163680204,72.99612575188586,Combined,KPK,2,1,471,446
-471,Govt Middle School-Thali Kot.,33.939325089412804,72.65004395181353,Combined,KPK,2,1,712,586
-375,Govt Primary School-Phula Gali.,33.940117248460595,73.09299588052286,Combined,KPK,2,2,811,647
-203,Govt Girls Primary School- Koka.(Male),33.940197128441866,73.0294987404143,Male,KPK,4,0,1549,0
-431,Govt Primary School- Mohri Pir Bakhsh.,33.94065288997467,72.79889651797716,Combined,KPK,1,1,515,438
-420,Govt Girls Primary School- Sarai Gadai.,33.94109820398095,72.82092061478511,Combined,KPK,2,1,600,503
-381,Govt Grils Primary School Bhutri (Female),33.94163,73.03876,Female,KPK,0,2,0,623
-419,Govt High School- Sarai Gadai.,33.941977733994264,72.81430379219857,Combined,KPK,2,1,663,597
-380,Govt Primary School- Bhutri (Male),33.9439909877549,73.04233435527588,Male,KPK,3,0,854,0
-231,Govt Girls Primary School- Mirpur. (Female),33.94451175505198,72.94952085046914,Female,KPK,0,4,0,1341
-230,Govt Primary School- Mirpur. (Male),33.94475987648319,72.9496069115584,Male,KPK,4,0,1457,0
-201,Govt Girls Middle School-Rehana.,33.94628320983258,73.0249847303341,Combined,KPK,2,2,885,736
-593,Govt Primary School-Gharian.,33.94774539925979,72.82478122727734,Combined,KPK,2,2,771,660
-418,Govt Girls Primary School- Nazimabad.,33.94886651684326,72.8158803795855,Combined,KPK,1,1,509,371
-429,Govt Girls High School- Chamba Pind.(Female),33.94962971117981,72.7806731301781,Female,KPK,0,2,0,771
-430,Govt Girls Primary School- Chamba  Pind. (Male),33.9496870719484,72.78087562835375,Male,KPK,2,0,826,0
-433,Govt Primary School- Mohri Malya,33.95201177590572,72.79907707508806,Combined,KPK,2,1,559,501
-379,Govt Primary School- Barthal.,33.95300510973682,73.03235630994682,Combined,KPK,1,1,361,283
-202,Govt Primary School- Chitri.,33.95646175343988,73.02627573936478,Combined,KPK,1,1,383,311
-175,Govt Primary School-Check Shah Muhammad.,33.957025741500296,72.9710127719027,Combined,KPK,1,1,353,271
-361,Govt Girls Primary School- Karwala (Female),33.95795073120416,73.1130029516527,Female,KPK,0,3,0,934
-575,Govt Girls High School- Kangra. (Male),33.95837762385584,72.88441704470168,Male,KPK,3,0,1008,0
-576,Govt Girls High School- Kangra. (Female),33.95838381915806,72.88440478533542,Female,KPK,0,3,0,853
-378,Govt Girls Primary School- Bandi Sher Khan.,33.95845433630766,73.06100630203025,Combined,KPK,2,2,639,517
-577,Govt High School-Kangra.,33.95857519457837,72.88758236587827,Combined,KPK,2,2,773,708
-578,Govt High School-Kangra.,33.95859191844275,72.8876322003897,Combined,KPK,2,2,725,607
-360,Govt Middle School- Karwala (Male),33.95870401198017,73.11560227722016,Male,KPK,3,0,1128,0
-579,Govt Primary School No.2- Kangra. (Male),33.95987627374069,72.88195357348296,Male,KPK,4,0,1370,0
-573,Govt Primary School- Ganiya.,33.9599219452859,72.86266048611357,Combined,KPK,2,1,589,504
-580,Govt Girls Community Middle School- Kangra Colony S-2 (Female).,33.9601321802668,72.88026089998965,Female,KPK,0,3,0,1159
-30,Govt Primary School No.2- Noor Colony.(Male),33.96048820689921,72.93572412831995,Male,KPK,3,0,971,0
-592,Govt Primary School-Koklian.,33.96088262253947,72.82298211220707,Combined,KPK,2,2,736,590
-192,Govt Primary School- Gheba.,33.960955287140926,73.02028521677767,Combined,KPK,2,2,829,640
-399,Govt Primary School- Jumaabad.,33.9615653406985,72.8978415280081,Combined,KPK,1,1,413,294
-376,Govt Girls Primary School- Ghari Sarian at Bajwala.,33.962576624451586,73.0703669597932,Combined,KPK,2,2,574,442
-432,Govt Primary School- Ladha,33.96472406218049,72.79684500420119,Combined,KPK,2,1,601,551
-574,Govt Primary School- Kangra Village.,33.96496016747653,72.88011917717265,Combined,KPK,2,2,1108,827
-377,Govt Middle School- Ghari Seerian.,33.965390110405224,73.07349217862615,Combined,KPK,2,2,901,684
-582,Govt Primary School- Baka Jabbi.(Male),33.966297565274324,72.83304558999686,Male,KPK,3,0,1068,0
-359,Govt Primary School- Ratta Bana.,33.9667632732179,73.08708342093293,Combined,KPK,2,1,398,283
-469,Govt High School- Kotehra.,33.96841952199357,72.66763532562591,Combined,KPK,2,2,719,607
-34,Govt Girls High School- T & T Colony.,33.968679486006465,72.92155076824903,Combined,KPK,2,2,671,620
-470,Govt Primary School- Kotehra.,33.96871855915816,72.66754497937858,Combined,KPK,2,2,816,664
-583,Govt Girls  Primary School- Baka Jabbi. (Female),33.96924,72.83421,Female,KPK,0,2,0,820
-171,Govt Primary School- Maira Ali Khan.,33.96926260895588,72.99101910247171,Combined,KPK,2,2,767,590
-33,Govt High School- T & T Colony.,33.96928957717475,72.92525326042686,Combined,KPK,2,2,654,686
-374,Govt Primary School- Dureshkheil.,33.9693082019906,73.07564475797275,Combined,KPK,2,2,731,670
-450,Govt Primary School- Shiekh Choor.,33.9703574668456,72.55629694368383,Combined,KPK,1,1,471,395
-568,Govt Primary School No.1- Panian.,33.97055033927921,72.85322423050245,Combined,KPK,2,2,589,526
-571,Govt Higher Secondary School- Panian.(Male),33.97279672389115,72.8551544440961,Male,KPK,4,0,1587,0
-31,Govt Girls Middle School Noor Colony. (Female),33.97288,72.91784,Female,KPK,0,2,0,838
-43,Govt Primary School- Noor Colony No.1.,33.97302845865542,72.91783550494657,Combined,KPK,2,2,476,431
-449,Govt Girls Primary School-  Dheri Naqarchian.,33.97323293283529,72.56488300128704,Combined,KPK,2,2,655,527
-35,Govt Girls Community Middle Model School- Street No.07 TIP. (Male),33.97379549145824,72.93327932128905,Male,KPK,4,0,1530,0
-37,Govt Girls Community Middle Model School- Street No.07 TIP. (Female),33.97381709906573,72.93329904257834,Female,KPK,0,4,0,1428
-38,Govt Girls Community Middle Model School- Street No.07 TIP. (Female),33.97381709906573,72.9333290425783,Female,KPK,0,4,0,1617
-36,Govt Girls Community Middle Model School- Street No.07 TIP. (Male),33.97387,72.93325,Male,KPK,4,0,1732,0
-448,Govt Girls Primary School- Mian Dheri.,33.97412433707598,72.56450319423575,Combined,KPK,2,2,777,641
-566,Govt Girls Higher Secondary School- Panian. (Female),33.974212018528675,72.85331946912922,Female,KPK,0,4,0,1389
-567,Govt Primary School No.2- Panian.,33.97522341776865,72.84961150173747,Combined,KPK,2,2,597,513
-40,Worker Folks Grammer School for Boys-II Senior Section- Labour Colony Haripur.(Male),33.97548,72.91869,Male,KPK,2,0,744,0
-42,Worker Folks Grammer School for Boys-II Junior Section- Labour Colony Haripur.(Female),33.97548,72.91872,Female,KPK,0,2,0,668
-569,Govt Primary School-Pharoo.,33.975747338777175,72.84214602331399,Combined,KPK,2,1,535,442
-25,Govt High School- Central Jail.,33.97617477990237,72.91754903032195,Combined,KPK,2,2,593,514
-26,Govt High School- Central Jail.,33.97622558953729,72.91758712556042,Combined,KPK,2,2,507,437
-351,Govt Higher Secondary School- Bagra (Female).,33.977167362084685,73.07682441170516,Female,KPK,0,3,0,1011
-350,Govt Higher Secondary School- Bagra (Male).,33.97718072304911,73.07682759356172,Male,KPK,4,0,1195,0
-451,Govt High School- Dheri Naqarchian.,33.977697928915994,72.5620594079438,Combined,KPK,2,2,695,538
-572,Govt Primary School- Abdullah Pur.,33.97773122692356,72.88834330293874,Combined,KPK,1,1,366,263
-358,Govt Girls Primary School- Shourag,33.97781314359669,73.09881462951316,Combined,KPK,2,1,658,493
-27,Govt Primary School- Central Jail.,33.978630146837986,72.92112448910402,Combined,KPK,2,2,741,632
-462,Govt Primary School-Chamiari.,33.97880091508689,72.72817973521057,Combined,KPK,2,2,686,548
-29,Govt Primary School- Roshanabad. (Female),33.97881,72.93308,Female,KPK,0,3,0,1003
-447,Govt Primary School- Aldo Jabee.,33.978893804351685,72.57833857403122,Combined,KPK,2,2,972,704
-177,Govt Girls Primary School- Muradabad (Female),33.97995,72.95406,Female,KPK,0,2,0,772
-460,Govt Primary School- Khairbara.(Male),33.980914338792076,72.69527363316922,Male,KPK,3,0,1024,0
-461,Govt Girls Middle School Khair bara (Female),33.98138,72.69569,Female,KPK,0,2,0,829
-172,Govt Primary School- Moonan. (Male),33.98216996595052,72.96458645596624,Male,KPK,3,0,855,0
-445,Govt Middle School- Qazipur. (Female),33.983532311621204,72.59302954396928,Female,KPK,0,4,0,1202
-446,Govt Primary School- Hassanpur.,33.983532311621204,72.5930595439693,Combined,KPK,2,2,858,707
-173,Govt Girls Primary School Moonan.(Female),33.98367,72.95838,Female,KPK,0,2,0,707
-183,Govt High School- Sarai Saleh.(Male),33.98463068416483,72.98637733709953,Male,KPK,3,0,895,0
-187,Govt High School- Sarai Saleh.,33.98465482076644,72.9863888313906,Combined,KPK,2,2,892,675
-169,Govt Primary School- Mohra- Ali Khan.(Male),33.98499358088847,72.9692421372896,Male,KPK,4,0,1461,0
-24,Govt Girls Primary School- Pathan Colony. (Female),33.98507282263584,72.92031501730028,Female,KPK,0,4,0,1188
-186,Govt Girls Primary School No.2- Sarai Saleh.(Female),33.98536,72.98734,Female,KPK,0,2,0,792
-189,Govt Primary  School Maqsood (Female),33.9854,73.03878,Female,KPK,0,3,0,857
-184,Govt High School- Sarai Saleh.(Female),33.98566,72.98643,Female,KPK,0,2,0,795
-185,Govt Girls Primary School No.2- Sarai Saleh.(Male),33.985729492765444,72.98750956887686,Male,KPK,3,0,996,0
-296,Govt Primary School- Kainthla,33.9861279,72.9110355,Combined,KPK,1,1,341,297
-297,Govt High School- Garamthoon,33.9861279,72.9110655,Combined,KPK,2,2,704,652
-298,Govt High School- Garamthoon,33.9861279,72.9110955,Combined,KPK,2,2,586,521
-301,Govt Middle School- Kot jandan,33.9861279,72.9111255,Combined,KPK,1,1,438,425
-180,Govt Primary School- Sarai Saleh.,33.98654064724237,72.9848607883256,Combined,KPK,2,2,611,522
-23,Govt Primary School- Jehangirabad- Darwesh No.2. (Male),33.98674639713836,72.92009810662636,Male,KPK,4,0,1473,0
-194,Govt Girls Primary School- Kalawan. (Female)(Mohra Maqsood),33.98677,73.01817,Female,KPK,0,2,0,697
-164,Govt Post Graduate College- Haripur. (Male),33.98680422572047,72.90267692604826,Male,KPK,2,0,1394,0
-46,Govt: Post Graduate College Haripur (Female),33.98685318214581,72.90277598570471,Female,KPK,0,3,0,834
-165,Govt Post Graduate College- Haripur. (Female),33.98685318214581,72.9028059857047,Female,KPK,0,4,0,1227
-181,Govt  Girls Primary School- Sarai Saleh.,33.9871277764163,72.98604049842076,Combined,KPK,2,2,673,637
-163,Govt Girls Primary School  Gehr Khan (Female),33.98772,72.95343,Female,KPK,0,3,0,877
-168,Govt Primary School- Darwesh (Moh: Khajuran).,33.98780318646717,72.92110925606464,Combined,KPK,2,2,705,608
-178,Basic Health Unit- Sarai Saleh (Male).,33.9883463151955,72.98134058881658,Male,KPK,4,0,1687,0
-179,Basic Health Unit- Sarai Saleh (Female).,33.98840747136569,72.98137998563165,Female,KPK,0,4,0,1486
-170,Govt Girls Primary School-  Ali Khan.(Female),33.98930621812217,72.96687284706026,Female,KPK,0,4,0,1200
-166,Govt High School- Darwesh. (Male),33.99041936598563,72.91136193534267,Male,KPK,3,0,846,0
-167,Govt High School- Darwesh. (Female),33.9904414841523,72.9113605346401,Female,KPK,0,2,0,760
-444,Govt Primary School- Qazipur. (Male),33.99072860903489,72.60772583377687,Male,KPK,3,0,1384,0
-586,Govt Girls High School- Kalu Pind.(Male),33.99092506318074,72.83261375576069,Male,KPK,3,0,1070,0
-587,Govt Girls High School- Kalu Pind. (Female),33.99102,72.83244,Female,KPK,0,3,0,893
-232,Govt Primary  School- Tofkian (Male),33.9927214,72.9176016,Male,KPK,4,0,1465,0
-251,Govt Primary School- Kharala (Sap).,33.9927214,72.9176316,Combined,KPK,1,1,246,181
-302,Govt Primary School- Bharrary( Male),33.9927214,72.9176616,Male,KPK,3,0,894,0
-304,Govt High School- Baghpur Dheri,33.9927214,72.9176916,Combined,KPK,1,1,427,368
-306,Govt Middle School- Pakshahi,33.9927214,72.9177216,Combined,KPK,2,1,589,456
-354,Govt Girls Primary  School- Bagra No.3,33.99274,73.06967,Combined,KPK,2,1,543,394
-366,Govt Middle School- Chitti Dhaki,33.99275680951176,73.13850161289193,Combined,KPK,2,2,742,558
-182,Govt  Primary School- Gar,33.99326702213138,72.98184287970203,Combined,KPK,1,1,405,331
-550,Govt Girls Primary School- Doyan Abi (Female).,33.99342937182337,72.90662669771562,Female,KPK,0,3,0,856
-496,Govt Primary School- Jammu.,33.99349119587765,72.61859710978717,Combined,KPK,1,1,486,434
-22,Govt Girls Degree College No . 2 Haripur  (Female),33.99408,72.93075,Female,KPK,0,2,0,728
-199,Govt Primary School-Check Mohri (Male).,33.994320160089465,73.05191030213739,Male,KPK,3,0,1060,0
-465,Govt Primary School- Pipliala.(Male),33.99437629232434,72.6759059062188,Male,KPK,3,0,1004,0
-188,Govt Girls Primary School- Maqsood.(Male),33.9944016,72.93323,Male,KPK,3,0,1033,0
-190,Govt Primary School- Maira Toot.,33.9944016,72.93326,Combined,KPK,1,1,168,193
-191,Govt Primary School- Thanda Choa.,33.9944016,72.93329,Combined,KPK,2,2,859,720
-193,Govt Girls Primary School- Kalawan. (Male),33.9944016,72.93332,Male,KPK,3,0,894,0
-195,Govt Primary School- Nikka Pah.,33.9944016,72.93335,Combined,KPK,1,1,339,271
-196,Govt Primary School- Akhoon Bandi (Male).,33.9944016,72.93338,Male,KPK,3,0,878,0
-197,Govt: Girls Primary School- Akhoon Bandi (Female).,33.9944016,72.93341,Female,KPK,0,2,0,714
-198,Govt Primary School- Mohri.,33.9944016,72.93344,Combined,KPK,2,1,547,484
-2,Govt Girls Post Graduate Collage-Haripur. (Male),33.9944016,72.93347,Male,KPK,2,0,790,0
-20,Govt Girls Degree College No . 2 Haripur,33.9944016,72.9335,Combined,KPK,2,2,684,639
-466,Govt Girls Primary School Pipliala (Female),33.99453,72.67639,Female,KPK,0,2,0,798
-584,Govt Girls Middle School-Bhera.(Male),33.994646471600696,72.84350991659358,Male,KPK,4,0,1445,0
-200,Govt Girls Primary School- Check Mohri  (Female).,33.99467206989879,73.05031576522691,Female,KPK,0,3,0,910
-585,Govt Girls Primary School-Bhera. (Female),33.99480095781556,72.84348313260772,Female,KPK,0,4,0,1221
-136,Govt High School- Pind Hashim Khan. (Male),33.9948947,72.9282041,Male,KPK,3,0,1150,0
-137,Govt Primary School- Nartopa. (Female),33.9948947,72.9282341,Female,KPK,0,3,0,1018
-139,Govt Primary School- Pharari. (Male),33.9948947,72.9282641,Male,KPK,4,0,1315,0
-140,Govt Girls Primary School- Pharari. (Female),33.9948947,72.9282941,Female,KPK,0,4,0,1302
-141,Govt Primary School- Chapri.,33.9948947,72.9283241,Combined,KPK,2,2,592,522
-126,Govt Middle School- Bandi Mian Pirdad.,33.9948947,72.9283541,Combined,KPK,2,2,812,607
-44,Govt Girls  Primary School- Noor Colony No.1.,33.9948947,72.9283841,Combined,KPK,2,2,610,551
-347,Govt High School- Chajjian. (Male),33.994912,72.9281753,Male,KPK,3,0,1030,0
-336,Govt Primary School- Sanjiala.,33.994912,72.9282053,Combined,KPK,2,2,758,709
-337,Govt High School- Jab.,33.994912,72.9282353,Combined,KPK,2,2,797,779
-338,Govt Primary School-Taraar Kohala Payeen.,33.994912,72.9282653,Combined,KPK,2,1,560,456
-339,Govt Girls Middle School- Kohala Payeen.,33.994912,72.9282953,Combined,KPK,2,1,555,482
-340,Govt Middle School- Gandhian,33.994912,72.9283253,Combined,KPK,2,2,766,638
-341,Govt Girls Primary School-Gandhian (Male),33.994912,72.9283553,Male,KPK,3,0,861,0
-343,Basic Health Unit- Guamanwan,33.994912,72.9283853,Combined,KPK,2,1,575,451
-344,Govt Girls Primary School-Kayian,33.994912,72.9284153,Combined,KPK,2,2,639,538
-345,Govt High School- Gaumanwan,33.994912,72.9284453,Combined,KPK,2,2,645,577
-346,Govt Girls Primary School No.2- Gaumanwan.,33.994912,72.9284753,Combined,KPK,2,1,473,378
-108,Basic Health Unit- Mankarai.,33.9949133,72.9282712,Combined,KPK,2,2,810,717
-109,Govt Girls Primary School- Mankarai.,33.9949133,72.9283012,Combined,KPK,2,2,586,499
-110,Govt Middle School-Mankarai.,33.9949133,72.9283312,Combined,KPK,2,2,778,710
-111,Govt Primary School-Mohra Mamdoo. (Male),33.9949133,72.9283612,Male,KPK,3,0,874,0
-113,Govt High School- Pharalla.(Male),33.9949133,72.9283912,Male,KPK,4,0,1647,0
-114,Govt Girls Middle School- Pharalla. (Female),33.9949133,72.9284212,Female,KPK,0,4,0,1499
-115,Govt Primary School-Khaka.,33.9949133,72.9284512,Combined,KPK,2,2,856,740
-106,Govt Girls Primary School- Neelore Maira.,33.9949133,72.9284812,Combined,KPK,2,2,697,617
-107,Govt Girls Primary School- Teer.,33.9949133,72.9285112,Combined,KPK,2,2,831,700
-349,Govt Primary School- Chaprian.,33.9949694,72.9280161,Combined,KPK,2,1,598,356
-174,Govt Primary School- Shah Muhammad.,33.9949694,72.9280461,Combined,KPK,2,2,803,672
-176,Govt Primary School- Muradabad. (Male),33.9949694,72.9280761,Male,KPK,3,0,966,0
-153,Govt Girls Primary School- Pandak. (Female),33.9949694,72.9281061,Female,KPK,0,1,0,329
-154,Govt Primary School- Pandak. (Male),33.9949694,72.9281361,Male,KPK,1,0,345,0
-155,Govt Girls Primary School No.2-Soka Pandak. (Male),33.9949694,72.9281661,Male,KPK,1,0,442,0
-156,Govt Girls Primary School No.2-Soka Pandak. (Female),33.9949694,72.9281961,Female,KPK,0,1,0,392
-158,Govt Primary School-Talokar. (Male),33.9949694,72.9282261,Male,KPK,2,0,661,0
-159,Govt Girls Primary School- Talokar. (Female),33.9949694,72.9282561,Female,KPK,0,2,0,581
-157,Govt Girls Middle School- Talokar.,33.9949694,72.9282861,Combined,KPK,2,2,790,648
-160,Govt Girls Middle School- Talokar.(Male),33.9949694,72.9283161,Male,KPK,3,0,1109,0
-161,Govt Girls Middle School- Talokar. (Female),33.9949694,72.9283461,Female,KPK,0,3,0,975
-162,Govt Primary School- Gehr Khan. (Male),33.9949694,72.9283761,Male,KPK,3,0,979,0
-551,Govt Primary School- New Jora Pind Haripur. (Male),33.9949694,72.9284061,Male,KPK,4,0,1237,0
-552,Govt Commerce College- Haripur. (Female),33.9949694,72.9284361,Female,KPK,0,4,0,1146
-135,Govt Girls Middle School- Magri.,33.9949694,72.9284661,Combined,KPK,2,2,648,498
-28,Govt Primary School- Roshanabad. (Male),33.9949694,72.9284961,Male,KPK,3,0,1108,0
-293,Basic Health Unit- Dartian (Male),33.9949694,72.9285261,Male,KPK,4,0,1169,0
-295,Govt Middle School- Babotri,33.9949694,72.9285561,Combined,KPK,2,2,773,652
-299,Govt Girls Middle School Karwali,33.9949694,72.9285861,Combined,KPK,1,1,366,323
-300,Govt Girls Primary School-Rajdhani,33.9949694,72.9286161,Combined,KPK,1,1,411,363
-352,Govt Primary School Teeran Bagra (Male).,33.9949694,72.9286461,Male,KPK,3,0,1086,0
-353,Govt Girls Primary  School- Bagra No.2 (Female).,33.9949694,72.9286761,Female,KPK,0,2,0,796
-15,Govt Model Middle School- Haripur.,33.9955476,72.9300001,Combined,KPK,2,2,771,681
-16,Govt Girls Primary School No.2- Haripur.,33.9955476,72.9300301,Combined,KPK,2,2,708,694
-18,Govt Centenial Model Higher Secondary School- Haripur.,33.9955476,72.9300601,Combined,KPK,2,1,485,435
-21,Govt Primary School No.3- Haripur.(Male ),33.9955476,72.9300901,Male,KPK,2,0,770,0
-8,Govt Girls Primary School No.3- Haripur. (Male),33.9955476,72.9301201,Male,KPK,2,0,761,0
-32,Govt Primary School- Qaziabad.,33.9955476,72.9301501,Combined,KPK,2,1,507,408
-39,Worker Folks Grammer School for Boys-II Senior Section- Labour Colony Haripur.(Male),33.9955476,72.9301801,Male,KPK,3,0,865,0
-41,Worker Folks Grammer School for Boys-II Junior Section- Labour Colony Haripur.(Female),33.9955476,72.9302101,Female,KPK,0,3,0,825
-275,Govt Primary School- Vijjian Masoomabad.,33.9955476,72.9302401,Combined,KPK,2,1,547,412
-276,Govt Primary School- Kamalpur.,33.9955476,72.9302701,Combined,KPK,1,1,348,258
-581,Govt Girls Middle School- Bugnian.,33.99635128897298,72.79817981729025,Combined,KPK,2,2,644,577
-221,Govt Girls Primary School Changi Bandi,33.99686,73.02724,Combined,KPK,2,1,526,463
-220,Govt Girls Primary School- Changi Bandi.,33.99686472413896,73.02727275459195,Combined,KPK,2,1,462,341
-17,Govt Model Middle School- Haripur.,33.99710769529919,72.93032948578792,Combined,KPK,1,1,424,355
-549,Govt Primary School- Doyan Abi.(Male),33.99712836596146,72.90532189957936,Male,KPK,3,0,928,0
-497,Govt Primary School- Essa.,33.998202903439676,72.62249851597238,Combined,KPK,2,1,490,434
-364,Govt Primary School Kailag,33.99831,73.12054,Combined,KPK,2,2,637,508
-7,Govt Girls Primary School No.3- Haripur.,33.99837106670548,72.93643115468801,Combined,KPK,2,2,521,485
-9,Govt Girls Primary School No.3- Haripur.( Female),33.99837106670548,72.936461154688,Female,KPK,0,2,0,731
-13,Govt High School No.2- Haripur. (Male),33.99858,72.94082,Male,KPK,2,0,765,0
-12,Govt High School No.2- Haripur. (Male),33.99858307677134,72.94074927939916,Male,KPK,3,0,838,0
-14,Govt High School No.2- Haripur. (Female),33.998589660719325,72.94075112734245,Female,KPK,0,4,0,1466
-223,Govt High School- Changi Bandi. (Female),33.99859,73.03238,Female,KPK,0,2,0,631
-222,Govt High School- Changi Bandi. (Male),33.99859047318064,73.03236000106911,Male,KPK,3,0,813,0
-225,Govt Primary School- Changi Bandi.,33.9988,73.0323,Combined,KPK,1,1,420,333
-4,Govt Girls High School No.2- Haripur.(Male),33.999094836260454,72.93076539729198,Male,KPK,3,0,1109,0
-5,Govt Girls High School No.2- Haripur. (Female),33.99914402354578,72.93079021712494,Female,KPK,0,3,0,1068
-11,Govt Primary School No.1- Haripur.(Female),33.99916,72.93901,Female,KPK,0,2,0,767
-10,Govt Primary School No.1- Haripur. (Male),33.99919457092996,72.93896458570035,Male,KPK,3,0,801,0
-148,Office of XEN Public Health-Haripur. (Male),33.99919964171161,72.94108187727784,Male,KPK,4,0,1388,0
-149,Office of XEN Public Health-Haripur. (Male),33.99919964171161,72.9411118772778,Male,KPK,4,0,1388,0
-224,Govt Primary School- Changi Bandi.,33.99942898822336,73.03217182867637,Combined,KPK,2,2,523,465
-477,Govt Primary School- Sirra.,33.999767863459475,72.72747976522837,Combined,KPK,2,2,558,506
-3,Govt Girls Post Graduate Collage-Haripur. (Female),34.000193524080224,72.93015360120624,Female,KPK,0,4,0,1398
-1,Govt Girls Post Graduate Collage-Haripur. (Male),34.00020488734317,72.93012561395848,Male,KPK,2,0,733,0
-45,Govt: Post Graduate College Haripur (Male),34.0003,72.93031,Male,KPK,3,0,999,0
-596,Govt  High School- Dheendah.(Female),34.00079353074844,72.89286343869176,Female,KPK,0,3,0,851
-594,Govt English Medium Primary  School- Dheendah.(Male),34.00081746685192,72.89262806604486,Male,KPK,3,0,958,0
-595,Govt English Medium Primary  School- Dheendah.(Male),34.00084,72.89265,Male,KPK,3,0,846,0
-597,Govt  High School- Dheendah.(Female),34.00097,72.89286,Female,KPK,0,2,0,750
-6,City Middle School No.4- Haripur.,34.00143274180831,72.93128395951749,Combined,KPK,2,2,581,542
-365,Govt Primary School-Qazi Maira,34.00165679662699,73.14410326822566,Combined,KPK,1,1,404,306
-147,District Director Extension Agriculture Office- Haripur.,34.00255645581129,72.94121859892961,Combined,KPK,2,2,736,678
-355,Govt Girls Middle School- Baldher (Male),34.00291689290757,73.08776666027012,Male,KPK,3,0,962,0
-150,Office of Union Council-Sikandarpur. (Female),34.00329974682083,72.94172473794872,Female,KPK,0,4,0,1288
-151,Office of Union Council-Sikandarpur. (Female),34.00339,72.94161,Female,KPK,0,3,0,1288
-357,Govt Girls High School- Baldher,34.00341,73.08817,Combined,KPK,2,2,695,567
-145,Govt Primary School- Sikandarpur. (Male),34.00353109558208,72.9399160123333,Male,KPK,4,0,1388,0
-146,Govt Girls Primary School- Sikandarpur. (Female),34.00358159961638,72.93994892505458,Female,KPK,0,4,0,1267
-463,Govt High School- Ghazi Hamlet.,34.00385564438816,72.66484993494396,Combined,KPK,2,2,693,596
-464,Govt High School- Ghazi Hamlet.,34.00387872140033,72.66495851471856,Combined,KPK,2,1,457,392
-498,Govt Primary School- Jallo.,34.00390593492214,72.6353037597088,Combined,KPK,2,2,922,765
-601,Govt Girls Primary School- Kalas. (Female),34.0042,72.90238,Female,KPK,0,2,0,791
-600,Govt Girls Primary School- Kalas. (Female),34.004262424532456,72.90237397165475,Female,KPK,0,2,0,781
-467,Govt Primary School- Hamlet No.1- Ghazi. (Male),34.00446019968954,72.66458512684412,Male,KPK,4,0,1333,0
-468,Govt Girls Primary School No.1- Ghazi Hamlet. (Female),34.00451905939194,72.6643679652131,Female,KPK,0,4,0,1194
-557,Govt Primary School- Chour (Male).,34.00475574474237,72.91657437312267,Male,KPK,4,0,1285,0
-558,Govt Primary School- Chour (Female).,34.00478766221116,72.91661135239129,Female,KPK,0,3,0,1051
-363,Govt High School-Kailag (Female).,34.00487938994955,73.11868869433495,Female,KPK,0,3,0,977
-362,Govt High School-Kailag (Male).,34.004880039040664,73.11867429839833,Male,KPK,4,0,1229,0
-103,Govt Girls Primary School- Pind Hashim Khan.(Male),34.0050083,72.9338298,Male,KPK,3,0,969,0
-105,Govt Primary School- Pind Hashim Khan.,34.0050083,72.9338598,Combined,KPK,2,2,661,555
-116,Govt High School- Sarai Niamat Khan.,34.0050083,72.9338898,Combined,KPK,2,1,493,452
-117,Govt High School- Sarai Niamat Khan.,34.0050083,72.9339198,Combined,KPK,2,2,772,680
-118,Rural Health Center- Sarai Niamat Khan.,34.0050083,72.9339498,Combined,KPK,2,1,563,404
-119,Rural Health Center- Sarai Niamat Khan.,34.0050083,72.9339798,Combined,KPK,2,2,583,515
-120,Govt Primary School- Banda Munir Khan.,34.0050083,72.9340098,Combined,KPK,2,2,699,615
-121,Govt Girls Primary School- Banda Munir Khan.,34.0050083,72.9340398,Combined,KPK,2,1,571,490
-122,Govt Primary School- Talhad. (Male),34.0050083,72.9340698,Male,KPK,3,0,1005,0
-124,Govt Primary School- Dharam Pani.,34.0050083,72.9340998,Combined,KPK,2,2,670,618
-125,Govt Middle School- Sarrian Dharam Pani.,34.0050083,72.9341298,Combined,KPK,2,2,766,644
-127,Govt Primary School- Bayan Ahmad Ali Khan.,34.0050083,72.9341598,Combined,KPK,2,2,676,658
-128,Govt Primary School- Bandi Mian Pirdad.,34.0050083,72.9341898,Combined,KPK,2,2,759,587
-129,Govt High School-Noorpur.(Male),34.0050083,72.9342198,Male,KPK,3,0,1063,0
-131,Govt Primary School- Noorpur.,34.0050083,72.9342498,Combined,KPK,2,2,711,575
-133,Govt Primary School- Karach.,34.0050083,72.9342798,Combined,KPK,1,1,403,321
-134,Govt Girls Middle School- Paswal.,34.0050083,72.9343098,Combined,KPK,2,2,583,520
-367,Govt Girls Primary School- Toru Dhoke.,34.0053664756205,73.13378709162016,Combined,KPK,2,2,670,508
-560,Govt Girls Primary School- Chour. (Female),34.006,72.91688,Female,KPK,0,2,0,648
-559,Govt Girls Primary School- Chour. (Male),34.00610823361823,72.91684051195446,Male,KPK,3,0,804,0
-598,Govt Primary School- Kalas. (Male),34.006813708308016,72.89884099383312,Male,KPK,3,0,952,0
-599,Govt Primary School- Kalas. (Male),34.00692,72.89883,Male,KPK,3,0,920,0
-356,Govt Primary School- Baldher (Female),34.00764969619514,73.09064056262929,Female,KPK,0,2,0,787
-214,Govt Girls Primary School- Malkyar. (Female),34.00794900115644,72.92311978231261,Female,KPK,0,4,0,1199
-213,Govt Girls Primary School- Malkyar. (Male),34.00795359120963,72.9231102891501,Male,KPK,4,0,1427,0
-565,Basic Health Unit- Jaugal.,34.00841710452281,72.89340429007825,Combined,KPK,1,1,424,352
-211,Govt Primary School-Malkyar(Male),34.00849500642816,72.92733466502615,Male,KPK,3,0,849,0
-212,Govt Primary School-Malkyar. (Female),34.00859,72.92711,Female,KPK,0,2,0,794
-476,Govt High School- Salamkhand.,34.00877792355891,72.72162325408453,Combined,KPK,2,2,531,541
-589,Govt: Girls High School- Gadwallian. (Female),34.0107,72.81483,Female,KPK,0,4,0,1152
-531,Govt Primary School No.3- S-2 KTS (Female),34.010747985377115,72.90744505983265,Female,KPK,0,3,0,1069
-443,Govt Primary School- Barwasa.,34.01077851393315,72.69228065224662,Combined,KPK,1,1,483,417
-588,Govt: Girls High School- Gadwallian. (Male),34.010827002342246,72.81484017614679,Male,KPK,4,0,1264,0
-530,Govt Primary School No.1- S-2 KTS (Male),34.01091502987926,72.90731929360713,Male,KPK,4,0,1222,0
-217,Basic Health Unit- Dheri Sikandarpur.,34.010933240845205,72.94387360901015,Combined,KPK,2,2,557,482
-526,Govt High School Sec No. 2 KTS (Male),34.011117933658085,72.90712700947644,Male,KPK,4,0,1125,0
-528,Govt High School-S-2 KTS. (Male),34.011126460217426,72.90710873434163,Male,KPK,4,0,1362,0
-368,Govt Girls Primary Schiool- Dobandi,34.01114162470565,73.08211555321468,Combined,KPK,2,2,657,483
-371,Govt Primary School- Kholian Bala.(Male),34.011165357934814,73.10278122338788,Male,KPK,4,0,1286,0
-112,Govt  Girls Primary School-Mohra Mamdoo.(Female),34.01152,72.95681,Female,KPK,0,2,0,717
-219,Govt Primary School- Dheri Sikandarpur. (Female),34.01257,72.94989,Female,KPK,0,3,0,1017
-218,Govt Primary School- Dheri Sikandarpur.(Male),34.013671327470995,72.94936283885512,Male,KPK,4,0,1230,0
-527,Govt Girls Higher Secondary School No.2- KTS. (Female),34.01396916034938,72.90879790026332,Female,KPK,0,3,0,1060
-529,Govt Girls Higher Secondary School No.2- KTS. (Female),34.013995129016266,72.90881684698842,Female,KPK,0,4,0,1237
-370,Govt Girls High School- Kholian Bala (Female),34.01430627283758,73.09155380346067,Female,KPK,0,4,0,1024
-372,Govt Girls Primary School Kholian Bala (Female),34.0145,73.09159,Female,KPK,0,3,0,1039
-369,Govt High School- Kholian Bala (Male),34.01537061359528,73.09174014109706,Male,KPK,4,0,1337,0
-438,Govt Primary School- Khalo.(Male),34.015819731149676,72.65280466328679,Male,KPK,4,0,1447,0
-439,Govt Girls High School- Khalo.(Female),34.0158334792832,72.65246075398883,Female,KPK,0,4,0,1359
-521,Govt Primary School No.1-S-1 KTS (Female).,34.01638395842477,72.9189955064953,Female,KPK,0,3,0,1067
-524,Govt Centenial Model High School S-1- KTS (Male),34.016695049317306,72.91859497041492,Male,KPK,4,0,1822,0
-523,Govt Primary School No.2- S-1 KTS (Female).,34.01669789776865,72.91928835539599,Female,KPK,0,4,0,1341
-525,Govt Girls High School - S- 1 KTS (Female),34.01747562229532,72.91853717098265,Female,KPK,0,4,0,1578
-522,Govt Degree College- Khalabat (Male).,34.0177324140658,72.91795837112586,Male,KPK,4,0,1502,0
-520,Govt Degree College- Khalabat (Male).,34.01774216372669,72.91793415083255,Male,KPK,4,0,1173,0
-373,Govt Primary School- Chach Maira.,34.017764016115414,73.11008386773499,Combined,KPK,2,2,666,490
-216,Govt Primary School-Makhan Colony.(Female),34.018084471128226,72.93942916154266,Female,KPK,0,3,0,991
-215,Govt Primary School-Makhan Colony.(Male),34.018126337309454,72.93944389378939,Male,KPK,4,0,1292,0
-434,Govt High School- Ghazi.(Male),34.01865866435778,72.65926334925135,Male,KPK,4,0,1802,0
-435,Govt High School- Ghazi.(Female),34.0186844720523,72.6592416006586,Female,KPK,0,4,0,1722
-534,Govt Girls High School-S-3 KTS (Female).,34.01946776284782,72.90663687368712,Female,KPK,0,4,0,1679
-538,Govt Primary School No.2- S-3 KTS (Female).,34.02161206607786,72.90245239747125,Female,KPK,0,4,0,1280
-535,Govt Middle School-S-3 Khalabat. (Male),34.02173583349758,72.90259698967411,Male,KPK,3,0,1076,0
-536,Govt Girls Degree College- S-3 KTS. (Female),34.02204882488456,72.90288913256946,Female,KPK,0,3,0,856
-537,Govt Primary School No.1- S-3 KTS (Male).,34.02220426251336,72.90269674639748,Male,KPK,4,0,1349,0
-533,Govt High School- S-3 KTS (Male).,34.02222,72.90283,Male,KPK,3,0,940,0
-532,Govt High School- S-3 KTS (Male).,34.02222017935229,72.90278885508872,Male,KPK,3,0,841,0
-541,Govt High School- S-4 KTS (Male).,34.02230676808794,72.9154303685238,Male,KPK,3,0,1003,0
-436,Govt Girls Zubaida Aman Degree College- Ghazi.,34.022415902561384,72.65803027001795,Combined,KPK,2,2,647,553
-437,Govt Girls Zubaida Aman Degree College- Ghazi.,34.022415902561384,72.6580602700179,Combined,KPK,1,1,440,394
-543,Govt Girls Higher Secondary School No.4- KTS (Female).,34.02278829373666,72.91628624997125,Female,KPK,0,3,0,929
-544,Govt Girls Higher Secondary School No.4- KTS (Female).,34.0228,72.91628,Female,KPK,0,3,0,845
-542,Govt High School- S-4 KTS (Male).,34.02323,72.91559,Male,KPK,3,0,975,0
-590,Govt High School- Sarri.,34.02493079528252,72.82754513568595,Combined,KPK,2,2,636,600
-591,Govt Primary School- Sarri.,34.02542265152131,72.82769041620841,Combined,KPK,2,2,496,458
-548,Govt Girls Primary School- Moh: Khabal S-4 KTS (Female).,34.02543799168987,72.90847004726346,Female,KPK,0,4,0,1853
-564,Govt Girls High School - Basso Maira. (Female),34.02571,72.84296,Female,KPK,0,3,0,1037
-563,Govt Girls High School - Basso Maira. (Male),34.025821287332626,72.84294163466062,Male,KPK,3,0,1111,0
-475,Govt Girls Middle School-Umer Khana.,34.027616420197845,72.69681877228126,Combined,KPK,2,2,664,585
-547,Govt Middle School-S-4 KTS (Male).,34.02819,72.91021,Male,KPK,4,0,1142,0
-546,Govt Middle School-S-4 KTS (Male).,34.02823938003822,72.91021899089156,Male,KPK,3,0,1041,0
-540,Govt Technical Training Center-S-4 KTS (Female).,34.02830433070023,72.9103062312618,Female,KPK,0,4,0,1201
-561,Govt Primary School- Qazian.,34.02852593191495,72.92828362991352,Combined,KPK,2,2,895,823
-545,Govt Primary School No.1- S-4 KTS .,34.0286028187704,72.90995358849774,Combined,KPK,2,2,683,594
-487,Govt Girls Primary School- Chinarkot.,34.028635093048536,72.77838584495717,Combined,KPK,2,2,768,560
-539,Govt Primary School No.2- S-4 KTS (Male).,34.02875644770769,72.90979820762671,Male,KPK,4,0,1432,0
-474,Govt Primary School- Kundi.,34.030371269291834,72.7201235287665,Combined,KPK,2,2,772,715
-440,Senior Model High School- Sobra City.,34.03081409879333,72.67545657021522,Combined,KPK,2,2,882,734
-442,Wapda Degree Collage- Sobra City. (Female),34.03123694729937,72.67416726102788,Female,KPK,0,4,0,1182
-441,Wapda Degree Collage- Sobra City. (Male),34.03125886763699,72.67422516891372,Male,KPK,4,0,1355,0
-554,Govt Girls Middle School-Makhan. (Female),34.03229041166833,72.94783385288183,Female,KPK,0,4,0,1279
-556,Govt High School- Dobandi (Female),34.03317,72.93561,Female,KPK,0,3,0,869
-555,Govt High School- Dobandi. (Male),34.03322915772662,72.935581472166,Male,KPK,3,0,1019,0
-553,Govt Primary School- Makhan. (Male),34.034672950590426,72.94557429522358,Male,KPK,4,0,1442,0
-484,Govt Girls Community Model School- Serai.,34.03817480162522,72.76067764754602,Combined,KPK,2,2,636,585
-144,Govt Primary School- Jama.,34.03823902193882,72.92780771574088,Combined,KPK,2,2,742,651
-138,Govt High School- Pind Hashim Khan.,34.03909,73.0115,Combined,KPK,2,2,746,637
-562,Govt Primary School- Padhana.,34.04008551473609,72.91308016156309,Combined,KPK,2,1,565,454
-142,Govt Primary School- Bajeeda.,34.040388514971106,72.94670419142325,Combined,KPK,1,1,531,501
-472,Govt High School- Kundi.,34.04057568722551,72.72617396483787,Combined,KPK,2,2,858,721
-473,Govt High School- Kundi.,34.04057568722551,72.7262039648379,Combined,KPK,2,2,782,735
-482,Govt Primary School- Sirikot. (Male),34.04230954974442,72.77599674006798,Male,KPK,4,0,1375,0
-490,Govt Middle School- Kheroch.,34.042396534660114,72.81752790638329,Combined,KPK,2,1,488,449
-486,Govt Girls High School- Sirikot  (Female).,34.04287241502708,72.77813112407439,Female,KPK,0,3,0,922
-485,Govt Girls High School- Sirikot (Male).,34.04287364239281,72.77819173694755,Male,KPK,3,0,1033,0
-483,Govt Higher Secondary School- Sirikot. (Female),34.04391516607571,72.77594578637573,Female,KPK,0,4,0,1310
-94,Govt High School- Jatti Pind.,34.04477631449888,72.95317842975344,Combined,KPK,2,2,923,813
-491,Govt Middle School- Galai.(Male),34.05308231021892,72.78865550223583,Male,KPK,4,0,1135,0
-492,Govt Middle School- Galai.(Female),34.05308231021892,72.7886855022358,Female,KPK,0,3,0,1020
-488,Govt Girls Primary School- Chontrai.,34.053509882248,72.76400868440214,Combined,KPK,2,2,595,509
-104,Govt Girls Primary School- Pind Hashim Khan.(Female),34.05617,73.00362,Female,KPK,0,2,0,787
-95,Govt Primary School- Sumbal Negir.,34.05630691362768,72.97805647539418,Combined,KPK,1,1,428,384
-570,Govt Middle School- New Mamaya.,34.05715941017091,72.8578189858961,Combined,KPK,1,1,450,372
-495,Govt Primary School Bail,34.059481270398614,72.81418833284036,Combined,KPK,2,2,728,592
-93,Govt Primary  School- Dana Colony.,34.06166284668325,72.94936467935253,Combined,KPK,2,2,622,542
-480,Wapda Girls High School-Main Colony Turbela Dam Project.,34.062622042053896,72.69493103793616,Combined,KPK,1,1,459,393
-479,Wapda Girls High School-Main Colony Turbela Dam Project.,34.06266309405385,72.69494018203613,Combined,KPK,2,1,488,404
-478,Wapda Boys High School- Main Colony Turbela.,34.06274991316835,72.69421541327189,Combined,KPK,2,1,554,442
-97,Govt Girls High School Kaag (Female),34.06351424493005,72.94425182308721,Female,KPK,0,4,0,1301
-73,Govt Primary School- Dera.,34.06650237397872,72.7569987072118,Combined,KPK,2,2,813,583
-96,Govt High School- Kaag.(Male),34.06802533130446,72.93969442187921,Male,KPK,4,0,1560,0
-494,Govt Middle School- Garhan,34.071665586265325,72.8226735711605,Combined,KPK,2,2,750,622
-489,Govt Girls Primary School- Dorah Usman Mani.,34.072538839502485,72.79125745038972,Combined,KPK,1,1,397,346
-99,Govt High School- Alloli.,34.07365030916577,72.96924530177913,Combined,KPK,2,1,536,462
-100,Govt High School- Alloli.,34.07365030916577,72.9692753017791,Combined,KPK,2,1,524,472
-130,Govt High School-Noorpur.(Female),34.07393,73.07862,Female,KPK,0,3,0,847
-98,Govt Primary School- Bhan Gharham.,34.07635579927987,72.96658148482058,Combined,KPK,2,2,860,689
-102,Govt Girls Primary School- Alloli.,34.07829959870179,72.97300956709958,Combined,KPK,2,2,700,673
-101,Govt Primary School- Alloli.,34.07839559801471,72.97294603122981,Combined,KPK,2,2,729,620
-90,Govt Primary School-Neelore.,34.08504986567686,72.9966559847397,Combined,KPK,2,2,792,703
-493,Govt Primary School- Choi Kiari.,34.091712749273256,72.80025401307326,Combined,KPK,1,1,504,425
-76,Govt Girls Primary School- Darwaza.,34.09183105277633,72.95003800025721,Combined,KPK,2,1,605,534
-91,Govt Primary School-Bhat.,34.10231934924008,73.00191491445223,Combined,KPK,1,1,475,424
-79,Govt Middle School- Goraki.,34.10251025680111,72.9844178990334,Combined,KPK,2,2,640,551
-92,Govt Primary School- Behki.,34.104224290255786,73.02080412496507,Combined,KPK,1,1,448,411
-77,Govt Primary School- Chanjiala.,34.105079135038274,72.94411069593683,Combined,KPK,2,1,520,427
-123,Govt Girls Primary School- Talhad. Female),34.11114,73.05391,Female,KPK,0,3,0,858
-89,Govt Middle School- Banda Mughlan.,34.113637847945505,73.02411532746888,Combined,KPK,2,2,717,616
-78,Govt Midddle School- Kacchi.,34.11587221781213,72.95738558850441,Combined,KPK,2,2,959,813
-88,Govt High School- Kakotri. (Female),34.12452,73.01176,Female,KPK,0,4,0,1157
-87,Govt High School- Kakotri.(Male),34.12467156851643,73.01182715978067,Male,KPK,4,0,1193,0
-84,Govt Primary School-Airan.,34.125344146475825,72.98783085691257,Combined,KPK,2,2,692,665
-86,Govt Primary School- Nalaki.,34.13114015564243,73.00751659178384,Combined,KPK,2,1,583,492
-85,Govt Primary School-Talhala,34.13139429560099,72.99396965342025,Combined,KPK,2,2,789,784
-57,Govt Primary School- Sawabi Maira (Male).,34.131439465998795,72.85901358978167,Male,KPK,3,0,1103,0
-58,Govt Girls Primary School- Swabi Maira.(Female),34.133071132080254,72.86114047682331,Female,KPK,0,3,0,891
-83,Govt High School- Macha Da Maira.,34.13583421184083,72.98750164097447,Combined,KPK,2,2,814,709
-59,Govt Primary School-Chajjaka.,34.13887258356287,72.88395475598367,Combined,KPK,1,1,223,139
-55,Govt Primary School- Saidpur Jam.(Male),34.14939259106347,72.91865310314344,Male,KPK,3,0,1104,0
-56,Govt Primary School- Saidpur Jam. (Female),34.14949,72.9186,Female,KPK,0,3,0,1064
-82,Govt Primary School- Kangar Amgah.,34.15076695971524,73.01866182346691,Combined,KPK,2,1,665,556
-53,Govt Primary School-  Kalinger No.2.,34.15232185357178,72.86807659619777,Combined,KPK,2,2,718,624
-516,Govt Primary School- Khabal.,34.15334342894129,72.78010333683694,Combined,KPK,1,1,441,262
-81,Govt Higher Secondary School- Beer. (Female),34.16042578973882,72.95871034452223,Female,KPK,0,3,0,1182
-80,Govt Higher Secondary School- Beer. (Male),34.1649556876271,72.95353411179289,Male,KPK,4,0,1269,0
-52,Govt High School- Kalinger.,34.166783862579564,72.8724683661218,Combined,KPK,2,2,1069,923
-54,Govt Primary School-  Kalinger No.1.,34.16718353123415,72.87683564361461,Combined,KPK,2,2,674,573
-51,Govt Primary School- Dana Kalinger.,34.176081747930695,72.85344947914254,Combined,KPK,2,2,727,565
-64,Govt Primary School- Tavi.,34.18444879302205,72.83694753842714,Combined,KPK,1,1,142,92
-63,Govt Primary School- Kanikot.,34.186125299381224,72.92890397421844,Combined,KPK,1,1,332,325
-62,Govt Primary School Mari,34.19486,72.8825,Combined,KPK,1,1,428,369
-61,Govt Primary School- Gandaf.,34.195458762920126,72.86640616539047,Combined,KPK,2,2,601,548
-72,Govt Primary School- Swar Maira.,34.19843622428318,72.85491029740017,Combined,KPK,2,1,681,502
-60,Govt Primary School- Kheri.,34.199539590764665,72.90357288425831,Combined,KPK,1,1,436,417
-66,Govt Girls Primary School- Dalri.,34.20486815766396,72.9331504201717,Combined,KPK,2,2,646,563
-65,Govt Primary School- Dalri.,34.20635601564798,72.93877183759568,Combined,KPK,1,1,525,448
-68,Govt Primary School-Chaintri.,34.20792708037297,72.95464367668201,Combined,KPK,2,2,725,678
-67,Govt Primary School- Hall Judal.,34.20962491137914,72.9629470866612,Combined,KPK,2,2,767,619
-500,Govt Primary School- Laqab.,34.211342671103715,72.76430555076219,Combined,KPK,1,1,203,169
-499,Govt Middle School- Brug.,34.2146057939026,72.77996332908631,Combined,KPK,1,1,417,291
-71,Govt Primary School- Bandi Labial.,34.21890888410621,72.93364785843703,Combined,KPK,2,1,512,465
-48,Govt Primary School- Pamba.,34.22220166503707,72.87952795612883,Combined,KPK,1,1,276,238
-49,Govt Primary School- Ladarmang.,34.22559572117777,72.89692718774795,Combined,KPK,2,1,476,377
-50,Govt High School- Badhora.,34.22751367671008,72.90889330800626,Combined,KPK,1,2,476,496
-70,Govt Primary School- Kund Kalu Khan.,34.230869909191924,72.93680810940984,Combined,KPK,1,1,477,361
-47,Govt Middle School- Hassan Bhai.,34.23728916355111,72.88042813921311,Combined,KPK,2,2,591,500
-69,Govt Primary School- Karlakian.,34.24488422684717,72.92078447864354,Combined,KPK,2,1,486,425
-504,Govt Middle School- Kangrocha.,34.264636466441935,72.77068654107788,Combined,KPK,2,2,821,580
-481,Govt Primary School- Derra.,34.27236916793129,72.84637339703134,Combined,KPK,2,1,524,366
-502,Govt Girls Middle School- Gali (Female).,34.27360372203322,72.7713086245584,Female,KPK,0,3,0,842
-501,Govt High School-Gali (Male).,34.28138116265087,72.76522726088298,Male,KPK,4,0,1123,0
-505,Govt Primary School- Chakli.,34.28543821105517,72.80402809336739,Combined,KPK,1,1,345,254
-503,Govt Middle School- Choora.,34.28676682526632,72.76179212309178,Combined,KPK,2,1,586,421
-74,Govt Girls Middle School-Kariplian.,34.290668070097524,72.84844471405886,Combined,KPK,2,2,828,747
-519,Govt Primary School- Kupla.,34.30262132876167,72.74489197325913,Combined,KPK,2,1,596,377
-506,Govt Girls Primary School- Faroosa.,34.31118033901629,72.80510672918228,Combined,KPK,1,1,294,222
-511,Govt Primary School-Charwai.,34.31348059440542,72.7594371336176,Combined,KPK,2,1,570,449
-514,Govt Primary School-Kaneer.,34.314591882836496,72.83564149399916,Combined,KPK,2,2,643,511
-518,Govt Middle School- Shingri.,34.31681865686694,72.78421224759062,Combined,KPK,2,2,967,641
-517,Govt High School- Nara Amazai.,34.31833419880975,72.7734019957071,Combined,KPK,1,1,430,382
-507,Govt Primary School- Degra.,34.31973492913955,72.78213786901372,Combined,KPK,1,1,254,110
-510,Govt Primary School-Charoona.,34.32471312507004,72.75136522349699,Combined,KPK,2,2,618,491
-515,Govt Primary School- Bait Gali.,34.32986321962146,72.81900499099673,Combined,KPK,2,2,837,675
-509,Govt Middle School- Kalilar.,34.33076180624679,72.75558028496313,Combined,KPK,2,2,546,505
-508,Govt Primary School- Parba.,34.33321890214281,72.77322410223664,Combined,KPK,2,2,794,608
-513,Govt High School- Kupri.,34.335289024862455,72.76867229830052,Combined,KPK,2,2,791,670
-512,Govt Primary School-Kupri.,34.336848177346454,72.76757380180648,Combined,KPK,2,2,589,508
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 240 - Rest House Nikray,33.77312972261589,72.86080845005277,Combined,KPK,2,1,538,437
+ 244 - Govt Primary School- Jaulian (Female).,33.77409030582994,72.87483699109393,Female,KPK,0,3,0,920
+ 241 - Govt Middle School- Jaulian (Male).,33.77422064118744,72.87536224059076,Male,KPK,3,0,1070,0
+ 242 - Govt Middle School- Jaulian (Female).,33.77422064118744,72.8753922405908,Female,KPK,0,3,0,989
+ 243 - Govt Primary School- Jaulian (Male).,33.7744834202867,72.87473046846335,Male,KPK,3,0,1086,0
+ 233 - Govt Girls Primary School-Tofkian (Female),33.77488745537763,72.83754525381825,Female,KPK,0,4,0,1320
+ 234 - Govt Primary School- Pind Gakhra (Male),33.7777795080888,72.84311224406959,Male,KPK,3,0,1045,0
+ 235 - Govt Girls  Primary School- Pind Gakhra (Female),33.78099,72.84497,Female,KPK,0,3,0,882
+ 255 - Govt High School- Bhera (Female).,33.78411761618721,72.87546638896634,Female,KPK,0,3,0,949
+ 254 - Govt High School- Bhera(Male).,33.78427173109982,72.87546788059048,Male,KPK,3,0,1085,0
+ 260 - Govt Primary School Choi,33.78778,72.94578,Combined,KPK,2,1,592,470
+ 256 - Govt Girls Primary School- Tarnawa.,33.78784203921402,72.89648216956297,Combined,KPK,2,2,522,524
+ 258 - Govt High School- Choi(Male).,33.788182699703626,72.94602259108753,Male,KPK,4,0,1207,0
+ 259 - Govt High School- Choi (Female).,33.788182699703626,72.9460525910875,Female,KPK,0,3,0,1048
+ 308 - Govt Girls Primary School- Kotla.,33.789356397989685,73.1021269333497,Combined,KPK,2,2,762,632
+ 257 - Govt Primary School- Mohra Ghazan.,33.79119468300011,72.91863812364235,Combined,KPK,2,1,473,371
+ 237 - Govt Girls Primary School- Sultanpur.,33.79249978255618,72.84707837157559,Combined,KPK,2,2,572,498
+ 303 - Govt  Girls Primary School- Bharrary  (Muslaimabad)(Female),33.7932,73.05437,Female,KPK,0,2,0,760
+ 239 - Govt Primary School- Mumrial. (Female),33.79458,72.89039,Female,KPK,0,3,0,924
+ 238 - Govt Primary School- Mumrial.(Male),33.7945836103973,72.89038068701875,Male,KPK,3,0,1067,0
+ 289 - Govt High School Najafpur (Female),33.79685,72.98176,Female,KPK,0,3,0,868
+ 288 - Govt High School- Najifpur(Male),33.79693119480833,72.98190048918094,Male,KPK,3,0,975,0
+ 292 - Govt Girls Primary School Najafpur (Female),33.80079,72.98324,Female,KPK,0,2,0,792
+ 246 - Govt Girls Higher Secondary School- Khanpur,33.801728971143625,72.90661279710005,Combined,KPK,2,2,592,569
+ 249 - Govt Girls Higher Secondary School- Khanpur (Female),33.80174374623621,72.90659889793345,Female,KPK,0,4,0,1864
+ 250 - Govt Girls Higher Secondary School- Khanpur (Female),33.801820080202255,72.90659109939782,Female,KPK,0,3,0,894
+ 291 - Govt Primary School-Najifpur (Male),33.80265431442134,72.98343095583239,Male,KPK,3,0,913,0
+ 247 - Govt High School- Khanpur (Male),33.8039624321047,72.91395452122546,Male,KPK,4,0,1715,0
+ 248 - Govt High School- Khanpur (Male),33.803971628739596,72.9139264205755,Male,KPK,4,0,1152,0
+ 305 - Govt Primary School Narota,33.80698,73.07944,Combined,KPK,1,1,487,354
+ 290 - Govt Primary School- Khoi Kaman,33.81181705081779,72.97813862832557,Combined,KPK,2,2,665,600
+ 261 - Govt Middle School- Saradhana,33.81209002520182,72.96296857279593,Combined,KPK,2,2,707,547
+ 317 - Govt Primary School- Makhnial.,33.81297811761529,73.13432648779633,Combined,KPK,2,2,736,534
+ 309 - Govt Primary School- Sarbroot,33.81621011217958,73.03444809831676,Combined,KPK,2,2,863,684
+ 245 - Govt Primary School- Darra Dada Shaheed,33.81772859709185,72.92072392714827,Combined,KPK,2,2,807,709
+ 307 - Govt Primary School Pakshai,33.82091,73.092,Combined,KPK,1,1,471,357
+ 322 - Govt High School- Kharian,33.821800098573625,73.1584666836153,Combined,KPK,2,2,720,569
+ 310 - Govt Primary School- Beesban,33.822707493469395,73.06150999796354,Combined,KPK,2,2,609,528
+ 323 - Govt Primary School- Haryala.,33.826932584074754,73.14846729984704,Combined,KPK,1,1,268,189
+ 253 - Govt Primary School- Khoi Maira (Female).,33.82911809820932,72.9353882856732,Female,KPK,0,4,0,1369
+ 252 - Govt Middle School- Khoi Maira (Male).,33.82919238122275,72.93531354160946,Male,KPK,4,0,1537,0
+ 269 - Govt Girls Primary School- Suraj Gali,33.832341601187636,72.9091332706513,Combined,KPK,2,1,467,447
+ 311 - Govt Primary School- Desra.,33.833738426535824,73.08099472812557,Combined,KPK,1,1,262,215
+ 325 - Govt Middle School- Neelan Bhoto,33.83585822979136,73.19752200691934,Combined,KPK,2,2,978,740
+ 324 - Govt Middle School- Jalees,33.83721694224835,73.17801398195786,Combined,KPK,2,2,622,502
+ 294 - Govt Primary School Dartian (Female),33.83736,73.01186,Female,KPK,0,2,0,879
+ 265 - Govt Middle School- Shadi,33.83748131412697,72.84825918337759,Combined,KPK,2,2,597,467
+ 264 - Govt Primary School- Shadi,33.83748923833189,72.84822987612273,Combined,KPK,1,1,375,293
+ 266 - Govt Priamry School Shadi,33.83751,72.8483,Combined,KPK,2,1,494,410
+ 268 - Govt Primary School-Suraj Gali.,33.838038377705814,72.90107515763574,Combined,KPK,1,1,315,288
+ 262 - Govt Primary School- Rani Wah.,33.83874625243524,72.88002837540427,Combined,KPK,2,2,779,669
+ 320 - Govt Primary School Kohmal Bala,33.84041,73.14382,Combined,KPK,1,1,298,253
+ 319 - Govt Middle School- Dana Ferozpur,33.840896009282574,73.17363189612703,Combined,KPK,2,2,694,544
+ 263 - Govt Primary School- Nazarabad.,33.84106476798035,72.83097056885588,Combined,KPK,2,1,448,339
+ 267 - Govt High School Pind Gujran.,33.84838148774796,72.89700483749924,Combined,KPK,2,2,656,652
+ 271 - Govt Girls High School- Hattar,33.849247930321496,72.85387321362545,Combined,KPK,2,2,738,654
+ 312 - Govt  Primary School- Sumbal,33.85068745290971,73.0982594866647,Combined,KPK,2,2,708,561
+ 287 - Govt Middle School- Khoi Nara.,33.850936455508034,72.91638847758756,Combined,KPK,2,2,788,631
+ 318 - Govt Primary School- Kohmal Payeen,33.85370872179562,73.14865883883179,Combined,KPK,2,2,797,685
+ 316 - Govt Girls High School-Halli (Female),33.85375840327273,73.12443187880612,Female,KPK,0,4,0,1419
+ 270 - Basic Health Unit- Hattar,33.8546646021355,72.85186274298778,Combined,KPK,2,2,882,626
+ 273 - Govt High School- Hattar (female),33.85622308866102,72.85280993382389,Female,KPK,0,4,0,1353
+ 272 - Govt High School- Hattar (Male),33.85623415938654,72.85278998798903,Male,KPK,4,0,1487,0
+ 274 - Govt Primary School- Hattar,33.85633071031338,72.85284749592016,Combined,KPK,2,2,750,620
+ 321 - Govt High School- Barkot,33.85663800072912,73.16660155624027,Combined,KPK,2,2,575,501
+ 315 - Govt High School- Halli (Male),33.85733865355509,73.13542766903313,Male,KPK,4,0,1565,0
+ 285 - Basic Health Unit- Khoi Nara. (Male),33.86198548956543,72.9150198910843,Male,KPK,3,0,952,0
+ 286 - Basic Health Unit- Khoi Nara.(Female),33.862,72.91503,Female,KPK,0,3,0,872
+ 282 - Govt Girls Primary School- Bandi Muneem.,33.867897770800425,72.93113095348745,Combined,KPK,2,1,594,541
+ 283 - Govt Primary School- Bandi Muneem.,33.86837795583843,72.92931197295869,Combined,KPK,2,1,577,495
+ 277 - Govt Higher Secondary School- Bareela.,33.86898612651432,72.9294999846787,Combined,KPK,2,1,628,565
+ 280 - Govt Girls Higher Secondary School- Bandi Muneem.,33.86943010091109,72.92756445784407,Combined,KPK,2,2,658,571
+ 313 - Govt Girls  Primary School Malhat,33.86944,73.13361,Combined,KPK,1,1,471,382
+ 335 - Govt Middle School- Kohala Bala,33.86959077390953,73.18081804191013,Combined,KPK,2,2,878,735
+ 334 - Govt Girls Pirmary School Darkot (Female),33.86961,73.17074,Female,KPK,0,2,0,798
+ 333 - Govt Primary School- Darkot (Male),33.87014661788829,73.16342730037535,Male,KPK,3,0,979,0
+ 281 - Govt Girls Primary School- Pind Muneem.,33.87197682129855,72.9009718604828,Combined,KPK,2,2,768,672
+ 284 - Govt Girls Middle School- Pind Muneem.,33.87280545687037,72.89997023875203,Combined,KPK,1,1,417,344
+ 314 - Govt Middle School Sairee,33.87753,73.11848,Combined,KPK,1,1,466,370
+ 278 - Govt Middle School-Qutba Dhak. (Male),33.88214324802598,72.93856248865929,Male,KPK,3,0,961,0
+ 279 - Govt Middle School-Qutba Dhak.(Female),33.88218,72.93853,Female,KPK,0,3,0,842
+ 331 - Govt Primary School Nullah No. 1  (Female),33.8848,73.16011,Female,KPK,0,3,0,851
+ 348 - Govt High School- Chajjian. (Female),33.88497,73.02783,Female,KPK,0,3,0,970
+ 454 - Govt Primary School- Jhamrah.,33.887693535452634,72.62489323248943,Combined,KPK,2,1,559,454
+ 329 - Govt Girls Primary School- Bandi Kiayla.,33.88820746897176,73.17893743179614,Combined,KPK,1,1,476,387
+ 330 - Govt Middle School-Nullah (Male),33.89006411640535,73.15398192581456,Male,KPK,3,0,938,0
+ 456 - Govt Primary School- Kala Katha.,33.890809016838574,72.68221060887842,Combined,KPK,1,1,417,352
+ 452 - Govt High School- Jhamrah.,33.892637377304695,72.62566357619889,Combined,KPK,2,2,810,629
+ 400 - Govt Primary School- Khidu Pinju.,33.893411101545645,72.90141674388623,Combined,KPK,2,1,652,551
+ 402 - Govt Primary School- Bandi Gullu.,33.893452387685144,72.86577548985846,Combined,KPK,2,2,974,783
+ 332 - Govt Primary School- Tial.,33.89417658578162,73.12757652024818,Combined,KPK,1,1,245,227
+ 457 - Govt Girls Primary  School-Kohi Dara.,33.89572487787816,72.68433125187242,Combined,KPK,1,1,405,325
+ 394 - Govt Primary School-Kali Tarar Sharki Bala.,33.89942968571108,72.93055201406462,Combined,KPK,1,1,245,220
+ 426 - Govt  Primary School- Mottian.(Female),33.89983,72.79314,Female,KPK,0,2,0,773
+ 401 - Govt Primary School- Kali Tarar Gharbi.,33.900018881346085,72.88483306508968,Combined,KPK,1,1,358,323
+ 425 - Govt Girls Primary School- Mottian. (Male),33.900333771200664,72.79348862224599,Male,KPK,3,0,994,0
+ 326 - Govt Primary School- Jabri,33.90297265549269,73.17137748373797,Combined,KPK,2,1,486,429
+ 327 - Govt Girls High School- Jabri (Male),33.90526988550214,73.17548918684064,Male,KPK,3,0,896,0
+ 328 - Govt Girsl High School - Jabri (Female),33.90528,73.17539,Female,KPK,0,2,0,828
+ 385 - Govt English Medium Primary School- Galham.,33.9063046672349,72.96259492004069,Combined,KPK,2,2,766,654
+ 393 - Govt Girls High School- Mang. (Female),33.90803588935852,72.91510373928693,Female,KPK,0,3,0,1054
+ 392 - Govt Primary School- Mang. (Male),33.90807181595239,72.91510864717587,Male,KPK,4,0,1152,0
+ 459 - Govt Middle School- Amgah.,33.908136540330105,72.7153358950122,Combined,KPK,2,1,496,460
+ 386 - Govt Girls High School- Pind Kamal Khan. (Male),33.908748888406414,72.95545225575937,Male,KPK,3,0,1036,0
+ 387 - Govt Girls High School- Pind Kamal Khan.(Female),33.90876,72.95533,Female,KPK,0,3,0,897
+ 423 - Basic Health Unit- Dingi. (Female),33.90964012796929,72.79838804225379,Female,KPK,0,2,0,768
+ 424 - Basic Health Unit- Dingi. (Female),33.90969,72.79834,Female,KPK,0,3,0,966
+ 421 - Govt Higher Secondary School- Dingi. (Male),33.90972075112486,72.79817020927756,Male,KPK,3,0,934,0
+ 453 - Govt Primary School- Chechian Rukar.,33.90972637382082,72.64884410933458,Combined,KPK,2,1,434,363
+ 422 - Govt Higher Secondary School- Dingi. (Male),33.90985,72.79813,Male,KPK,3,0,1057,0
+ 416 - Worker Welfare Board School- Labour Colony (Male),33.911266316698125,72.85919597219286,Male,KPK,4,0,1229,0
+ 417 - Worker Welfare Board School- Labour Colony (Female),33.91131097256016,72.85912648175643,Female,KPK,0,3,0,977
+ 342 - Govt Middle School- Gandhain  (Female),33.91136,73.09096,Female,KPK,0,2,0,760
+ 208 - Govt Girls High School- Noordi. (Female),33.91263239819446,73.00078816266144,Female,KPK,0,2,0,806
+ 210 - Govt Girls High School- Noordi. (Female),33.91311,73.00077,Female,KPK,0,3,0,915
+ 207 - Govt High School- Noordi. (Male),33.914202612670046,72.99498804562833,Male,KPK,3,0,939,0
+ 209 - Govt High School- Noordi. (Male),33.91457,72.99479,Male,KPK,3,0,1056,0
+ 389 - Govt Girls Primary School- Bandi Seeraan.,33.914915556502216,72.95888632457864,Combined,KPK,2,2,802,681
+ 458 - Govt Primary School- Tar Chatti.,33.91913194231247,72.69504500221197,Combined,KPK,2,1,532,365
+ 390 - Govt Primary School- Rarra.,33.92214234616143,72.9663333489651,Combined,KPK,2,1,560,475
+ 205 - Govt Girls High School- Chappara. (Male),33.92469518660511,73.02166498603916,Male,KPK,3,0,1083,0
+ 388 - Govt Primary School- Bandi Seeraan.,33.924987872418505,72.95622150454604,Combined,KPK,2,1,536,492
+ 206 - Govt Girls High School- Chappara.(Female),33.92501,73.02171,Female,KPK,0,3,0,941
+ 383 - Govt Middle School- Chechian.,33.92563939027074,72.90744916424389,Combined,KPK,2,2,710,626
+ 427 - Govt Girls Middle School- Dhedan. (Male),33.92859483043022,72.81044501207869,Male,KPK,4,0,1517,0
+ 428 - Govt Girls Primary School- Dhedan. (Female),33.92867105881413,72.8102678289105,Female,KPK,0,4,0,1249
+ 398 - Govt Primary School- Rajpur.,33.929118474685815,72.89808945492959,Combined,KPK,2,2,839,673
+ 384 - Govt Girls Primary School- Sangian.,33.92968657479037,72.91402008439172,Combined,KPK,1,1,182,148
+ 415 - Govt Primary School- Gunga  (Female),33.93102,72.8792,Female,KPK,0,3,0,895
+ 204 - Govt Primary School- Sumbal Mohri.(Female),33.931184680534265,73.03133189828192,Female,KPK,0,4,0,1320
+ 395 - Govt High School- Sirya.(Male),33.932743612691056,72.88697455954897,Male,KPK,3,0,954,0
+ 404 - Govt  Higher Secondary School- Kot Najibullah (Male).,33.93279417315364,72.85780275381094,Male,KPK,4,0,1254,0
+ 405 - Govt  Higher Secondary School- Kot Najibullah (Female).,33.93279417315364,72.8578327538109,Female,KPK,0,4,0,1159
+ 412 - Govt  Girls Primary School No.1- Kot Najibullah (Female).,33.932868302563016,72.8543055722823,Female,KPK,0,3,0,919
+ 413 - Govt  Girls Primary School No.1- Kot Najibullah (Female).,33.93291,72.85424,Female,KPK,0,2,0,676
+ 396 - Govt High School- Sirya.(Male),33.93293,72.88681,Male,KPK,3,0,819,0
+ 403 - Govt Girls Higher Secondary School- Kot Najibullah.,33.93294635836293,72.85457462544241,Combined,KPK,2,2,642,620
+ 406 - Govt Girls Higher Secondary School- Kot Najibullah (Male).,33.93294635836293,72.8546046254424,Male,KPK,3,0,1100,0
+ 407 - Govt Girls Higher Secondary School- Kot Najibullah (Female).,33.93294635836293,72.8546346254424,Female,KPK,0,3,0,1008
+ 411 - Govt Primary School No.1- Kot Najibullah (Male).,33.93325,72.8579,Male,KPK,2,0,688,0
+ 410 - Govt Primary School No.1- Kot Najibullah (Male).,33.933305938736446,72.8578599860339,Male,KPK,3,0,1003,0
+ 391 - Govt Middle School Kahal Bala,33.93352554318644,72.97635342607398,Combined,KPK,1,1,303,276
+ 414 - Govt Primary School- Kamala.  (Male),33.93383694307456,72.87157974738014,Male,KPK,3,0,1081,0
+ 227 - Govt High School- Kahal. (Female),33.93390422492002,72.96016687232576,Female,KPK,0,4,0,1305
+ 226 - Govt High School- Kahal. (Male),33.933927464338254,72.96016755317423,Male,KPK,4,0,1449,0
+ 382 - Govt Middle School- Doyan Khushki.,33.93393095154233,72.92369795708868,Combined,KPK,2,2,732,687
+ 228 - Govt Primary School- Pind Jamal Khan.,33.9343044638699,73.00459769944634,Combined,KPK,2,2,676,563
+ 397 - Govt Girls Primary School- Sirya.(Female),33.93453033045693,72.88955205969536,Female,KPK,0,4,0,1580
+ 455 - Govt Primary School- Baghdara.,33.93612300100823,72.69146980424777,Combined,KPK,2,1,576,434
+ 408 - Govt Primary School No.2- Kot Najibullah (Male).,33.93804463729886,72.84861325478151,Male,KPK,4,0,1385,0
+ 409 - Govt Girls Primary School No.2- Kot Najibullah (Female).,33.93829192577727,72.84825889637133,Female,KPK,0,4,0,1166
+ 229 - Govt Primary School- Kamalpur.,33.93844163680204,72.99612575188586,Combined,KPK,2,1,471,446
+ 471 - Govt Middle School-Thali Kot.,33.939325089412804,72.65004395181353,Combined,KPK,2,1,712,586
+ 375 - Govt Primary School-Phula Gali.,33.940117248460595,73.09299588052286,Combined,KPK,2,2,811,647
+ 203 - Govt Girls Primary School- Koka.(Male),33.940197128441866,73.0294987404143,Male,KPK,4,0,1549,0
+ 431 - Govt Primary School- Mohri Pir Bakhsh.,33.94065288997467,72.79889651797716,Combined,KPK,1,1,515,438
+ 420 - Govt Girls Primary School- Sarai Gadai.,33.94109820398095,72.82092061478511,Combined,KPK,2,1,600,503
+ 381 - Govt Grils Primary School Bhutri (Female),33.94163,73.03876,Female,KPK,0,2,0,623
+ 419 - Govt High School- Sarai Gadai.,33.941977733994264,72.81430379219857,Combined,KPK,2,1,663,597
+ 380 - Govt Primary School- Bhutri (Male),33.9439909877549,73.04233435527588,Male,KPK,3,0,854,0
+ 231 - Govt Girls Primary School- Mirpur. (Female),33.94451175505198,72.94952085046914,Female,KPK,0,4,0,1341
+ 230 - Govt Primary School- Mirpur. (Male),33.94475987648319,72.9496069115584,Male,KPK,4,0,1457,0
+ 201 - Govt Girls Middle School-Rehana.,33.94628320983258,73.0249847303341,Combined,KPK,2,2,885,736
+ 593 - Govt Primary School-Gharian.,33.94774539925979,72.82478122727734,Combined,KPK,2,2,771,660
+ 418 - Govt Girls Primary School- Nazimabad.,33.94886651684326,72.8158803795855,Combined,KPK,1,1,509,371
+ 429 - Govt Girls High School- Chamba Pind.(Female),33.94962971117981,72.7806731301781,Female,KPK,0,2,0,771
+ 430 - Govt Girls Primary School- Chamba  Pind. (Male),33.9496870719484,72.78087562835375,Male,KPK,2,0,826,0
+ 433 - Govt Primary School- Mohri Malya,33.95201177590572,72.79907707508806,Combined,KPK,2,1,559,501
+ 379 - Govt Primary School- Barthal.,33.95300510973682,73.03235630994682,Combined,KPK,1,1,361,283
+ 202 - Govt Primary School- Chitri.,33.95646175343988,73.02627573936478,Combined,KPK,1,1,383,311
+ 175 - Govt Primary School-Check Shah Muhammad.,33.957025741500296,72.9710127719027,Combined,KPK,1,1,353,271
+ 361 - Govt Girls Primary School- Karwala (Female),33.95795073120416,73.1130029516527,Female,KPK,0,3,0,934
+ 575 - Govt Girls High School- Kangra. (Male),33.95837762385584,72.88441704470168,Male,KPK,3,0,1008,0
+ 576 - Govt Girls High School- Kangra. (Female),33.95838381915806,72.88440478533542,Female,KPK,0,3,0,853
+ 378 - Govt Girls Primary School- Bandi Sher Khan.,33.95845433630766,73.06100630203025,Combined,KPK,2,2,639,517
+ 577 - Govt High School-Kangra.,33.95857519457837,72.88758236587827,Combined,KPK,2,2,773,708
+ 578 - Govt High School-Kangra.,33.95859191844275,72.8876322003897,Combined,KPK,2,2,725,607
+ 360 - Govt Middle School- Karwala (Male),33.95870401198017,73.11560227722016,Male,KPK,3,0,1128,0
+ 579 - Govt Primary School No.2- Kangra. (Male),33.95987627374069,72.88195357348296,Male,KPK,4,0,1370,0
+ 573 - Govt Primary School- Ganiya.,33.9599219452859,72.86266048611357,Combined,KPK,2,1,589,504
+ 580 - Govt Girls Community Middle School- Kangra Colony S-2 (Female).,33.9601321802668,72.88026089998965,Female,KPK,0,3,0,1159
+ 30 - Govt Primary School No.2- Noor Colony.(Male),33.96048820689921,72.93572412831995,Male,KPK,3,0,971,0
+ 592 - Govt Primary School-Koklian.,33.96088262253947,72.82298211220707,Combined,KPK,2,2,736,590
+ 192 - Govt Primary School- Gheba.,33.960955287140926,73.02028521677767,Combined,KPK,2,2,829,640
+ 399 - Govt Primary School- Jumaabad.,33.9615653406985,72.8978415280081,Combined,KPK,1,1,413,294
+ 376 - Govt Girls Primary School- Ghari Sarian at Bajwala.,33.962576624451586,73.0703669597932,Combined,KPK,2,2,574,442
+ 432 - Govt Primary School- Ladha,33.96472406218049,72.79684500420119,Combined,KPK,2,1,601,551
+ 574 - Govt Primary School- Kangra Village.,33.96496016747653,72.88011917717265,Combined,KPK,2,2,1108,827
+ 377 - Govt Middle School- Ghari Seerian.,33.965390110405224,73.07349217862615,Combined,KPK,2,2,901,684
+ 582 - Govt Primary School- Baka Jabbi.(Male),33.966297565274324,72.83304558999686,Male,KPK,3,0,1068,0
+ 359 - Govt Primary School- Ratta Bana.,33.9667632732179,73.08708342093293,Combined,KPK,2,1,398,283
+ 469 - Govt High School- Kotehra.,33.96841952199357,72.66763532562591,Combined,KPK,2,2,719,607
+ 34 - Govt Girls High School- T & T Colony.,33.968679486006465,72.92155076824903,Combined,KPK,2,2,671,620
+ 470 - Govt Primary School- Kotehra.,33.96871855915816,72.66754497937858,Combined,KPK,2,2,816,664
+ 583 - Govt Girls  Primary School- Baka Jabbi. (Female),33.96924,72.83421,Female,KPK,0,2,0,820
+ 171 - Govt Primary School- Maira Ali Khan.,33.96926260895588,72.99101910247171,Combined,KPK,2,2,767,590
+ 33 - Govt High School- T & T Colony.,33.96928957717475,72.92525326042686,Combined,KPK,2,2,654,686
+ 374 - Govt Primary School- Dureshkheil.,33.9693082019906,73.07564475797275,Combined,KPK,2,2,731,670
+ 450 - Govt Primary School- Shiekh Choor.,33.9703574668456,72.55629694368383,Combined,KPK,1,1,471,395
+ 568 - Govt Primary School No.1- Panian.,33.97055033927921,72.85322423050245,Combined,KPK,2,2,589,526
+ 571 - Govt Higher Secondary School- Panian.(Male),33.97279672389115,72.8551544440961,Male,KPK,4,0,1587,0
+ 31 - Govt Girls Middle School Noor Colony. (Female),33.97288,72.91784,Female,KPK,0,2,0,838
+ 43 - Govt Primary School- Noor Colony No.1.,33.97302845865542,72.91783550494657,Combined,KPK,2,2,476,431
+ 449 - Govt Girls Primary School-  Dheri Naqarchian.,33.97323293283529,72.56488300128704,Combined,KPK,2,2,655,527
+ 35 - Govt Girls Community Middle Model School- Street No.07 TIP. (Male),33.97379549145824,72.93327932128905,Male,KPK,4,0,1530,0
+ 37 - Govt Girls Community Middle Model School- Street No.07 TIP. (Female),33.97381709906573,72.93329904257834,Female,KPK,0,4,0,1428
+ 38 - Govt Girls Community Middle Model School- Street No.07 TIP. (Female),33.97381709906573,72.9333290425783,Female,KPK,0,4,0,1617
+ 36 - Govt Girls Community Middle Model School- Street No.07 TIP. (Male),33.97387,72.93325,Male,KPK,4,0,1732,0
+ 448 - Govt Girls Primary School- Mian Dheri.,33.97412433707598,72.56450319423575,Combined,KPK,2,2,777,641
+ 566 - Govt Girls Higher Secondary School- Panian. (Female),33.974212018528675,72.85331946912922,Female,KPK,0,4,0,1389
+ 567 - Govt Primary School No.2- Panian.,33.97522341776865,72.84961150173747,Combined,KPK,2,2,597,513
+ 40 - Worker Folks Grammer School for Boys-II Senior Section- Labour Colony Haripur.(Male),33.97548,72.91869,Male,KPK,2,0,744,0
+ 42 - Worker Folks Grammer School for Boys-II Junior Section- Labour Colony Haripur.(Female),33.97548,72.91872,Female,KPK,0,2,0,668
+ 569 - Govt Primary School-Pharoo.,33.975747338777175,72.84214602331399,Combined,KPK,2,1,535,442
+ 25 - Govt High School- Central Jail.,33.97617477990237,72.91754903032195,Combined,KPK,2,2,593,514
+ 26 - Govt High School- Central Jail.,33.97622558953729,72.91758712556042,Combined,KPK,2,2,507,437
+ 351 - Govt Higher Secondary School- Bagra (Female).,33.977167362084685,73.07682441170516,Female,KPK,0,3,0,1011
+ 350 - Govt Higher Secondary School- Bagra (Male).,33.97718072304911,73.07682759356172,Male,KPK,4,0,1195,0
+ 451 - Govt High School- Dheri Naqarchian.,33.977697928915994,72.5620594079438,Combined,KPK,2,2,695,538
+ 572 - Govt Primary School- Abdullah Pur.,33.97773122692356,72.88834330293874,Combined,KPK,1,1,366,263
+ 358 - Govt Girls Primary School- Shourag,33.97781314359669,73.09881462951316,Combined,KPK,2,1,658,493
+ 27 - Govt Primary School- Central Jail.,33.978630146837986,72.92112448910402,Combined,KPK,2,2,741,632
+ 462 - Govt Primary School-Chamiari.,33.97880091508689,72.72817973521057,Combined,KPK,2,2,686,548
+ 29 - Govt Primary School- Roshanabad. (Female),33.97881,72.93308,Female,KPK,0,3,0,1003
+ 447 - Govt Primary School- Aldo Jabee.,33.978893804351685,72.57833857403122,Combined,KPK,2,2,972,704
+ 177 - Govt Girls Primary School- Muradabad (Female),33.97995,72.95406,Female,KPK,0,2,0,772
+ 460 - Govt Primary School- Khairbara.(Male),33.980914338792076,72.69527363316922,Male,KPK,3,0,1024,0
+ 461 - Govt Girls Middle School Khair bara (Female),33.98138,72.69569,Female,KPK,0,2,0,829
+ 172 - Govt Primary School- Moonan. (Male),33.98216996595052,72.96458645596624,Male,KPK,3,0,855,0
+ 445 - Govt Middle School- Qazipur. (Female),33.983532311621204,72.59302954396928,Female,KPK,0,4,0,1202
+ 446 - Govt Primary School- Hassanpur.,33.983532311621204,72.5930595439693,Combined,KPK,2,2,858,707
+ 173 - Govt Girls Primary School Moonan.(Female),33.98367,72.95838,Female,KPK,0,2,0,707
+ 183 - Govt High School- Sarai Saleh.(Male),33.98463068416483,72.98637733709953,Male,KPK,3,0,895,0
+ 187 - Govt High School- Sarai Saleh.,33.98465482076644,72.9863888313906,Combined,KPK,2,2,892,675
+ 169 - Govt Primary School- Mohra- Ali Khan.(Male),33.98499358088847,72.9692421372896,Male,KPK,4,0,1461,0
+ 24 - Govt Girls Primary School- Pathan Colony. (Female),33.98507282263584,72.92031501730028,Female,KPK,0,4,0,1188
+ 186 - Govt Girls Primary School No.2- Sarai Saleh.(Female),33.98536,72.98734,Female,KPK,0,2,0,792
+ 189 - Govt Primary  School Maqsood (Female),33.9854,73.03878,Female,KPK,0,3,0,857
+ 184 - Govt High School- Sarai Saleh.(Female),33.98566,72.98643,Female,KPK,0,2,0,795
+ 185 - Govt Girls Primary School No.2- Sarai Saleh.(Male),33.985729492765444,72.98750956887686,Male,KPK,3,0,996,0
+ 296 - Govt Primary School- Kainthla,33.9861279,72.9110355,Combined,KPK,1,1,341,297
+ 297 - Govt High School- Garamthoon,33.9861279,72.9110655,Combined,KPK,2,2,704,652
+ 298 - Govt High School- Garamthoon,33.9861279,72.9110955,Combined,KPK,2,2,586,521
+ 301 - Govt Middle School- Kot jandan,33.9861279,72.9111255,Combined,KPK,1,1,438,425
+ 180 - Govt Primary School- Sarai Saleh.,33.98654064724237,72.9848607883256,Combined,KPK,2,2,611,522
+ 23 - Govt Primary School- Jehangirabad- Darwesh No.2. (Male),33.98674639713836,72.92009810662636,Male,KPK,4,0,1473,0
+ 194 - Govt Girls Primary School- Kalawan. (Female)(Mohra Maqsood),33.98677,73.01817,Female,KPK,0,2,0,697
+ 164 - Govt Post Graduate College- Haripur. (Male),33.98680422572047,72.90267692604826,Male,KPK,2,0,1394,0
+ 46 - Govt: Post Graduate College Haripur (Female),33.98685318214581,72.90277598570471,Female,KPK,0,3,0,834
+ 165 - Govt Post Graduate College- Haripur. (Female),33.98685318214581,72.9028059857047,Female,KPK,0,4,0,1227
+ 181 - Govt  Girls Primary School- Sarai Saleh.,33.9871277764163,72.98604049842076,Combined,KPK,2,2,673,637
+ 163 - Govt Girls Primary School  Gehr Khan (Female),33.98772,72.95343,Female,KPK,0,3,0,877
+ 168 - Govt Primary School- Darwesh (Moh: Khajuran).,33.98780318646717,72.92110925606464,Combined,KPK,2,2,705,608
+ 178 - Basic Health Unit- Sarai Saleh (Male).,33.9883463151955,72.98134058881658,Male,KPK,4,0,1687,0
+ 179 - Basic Health Unit- Sarai Saleh (Female).,33.98840747136569,72.98137998563165,Female,KPK,0,4,0,1486
+ 170 - Govt Girls Primary School-  Ali Khan.(Female),33.98930621812217,72.96687284706026,Female,KPK,0,4,0,1200
+ 166 - Govt High School- Darwesh. (Male),33.99041936598563,72.91136193534267,Male,KPK,3,0,846,0
+ 167 - Govt High School- Darwesh. (Female),33.9904414841523,72.9113605346401,Female,KPK,0,2,0,760
+ 444 - Govt Primary School- Qazipur. (Male),33.99072860903489,72.60772583377687,Male,KPK,3,0,1384,0
+ 586 - Govt Girls High School- Kalu Pind.(Male),33.99092506318074,72.83261375576069,Male,KPK,3,0,1070,0
+ 587 - Govt Girls High School- Kalu Pind. (Female),33.99102,72.83244,Female,KPK,0,3,0,893
+ 232 - Govt Primary  School- Tofkian (Male),33.9927214,72.9176016,Male,KPK,4,0,1465,0
+ 251 - Govt Primary School- Kharala (Sap).,33.9927214,72.9176316,Combined,KPK,1,1,246,181
+ 302 - Govt Primary School- Bharrary( Male),33.9927214,72.9176616,Male,KPK,3,0,894,0
+ 304 - Govt High School- Baghpur Dheri,33.9927214,72.9176916,Combined,KPK,1,1,427,368
+ 306 - Govt Middle School- Pakshahi,33.9927214,72.9177216,Combined,KPK,2,1,589,456
+ 354 - Govt Girls Primary  School- Bagra No.3,33.99274,73.06967,Combined,KPK,2,1,543,394
+ 366 - Govt Middle School- Chitti Dhaki,33.99275680951176,73.13850161289193,Combined,KPK,2,2,742,558
+ 182 - Govt  Primary School- Gar,33.99326702213138,72.98184287970203,Combined,KPK,1,1,405,331
+ 550 - Govt Girls Primary School- Doyan Abi (Female).,33.99342937182337,72.90662669771562,Female,KPK,0,3,0,856
+ 496 - Govt Primary School- Jammu.,33.99349119587765,72.61859710978717,Combined,KPK,1,1,486,434
+ 22 - Govt Girls Degree College No . 2 Haripur  (Female),33.99408,72.93075,Female,KPK,0,2,0,728
+ 199 - Govt Primary School-Check Mohri (Male).,33.994320160089465,73.05191030213739,Male,KPK,3,0,1060,0
+ 465 - Govt Primary School- Pipliala.(Male),33.99437629232434,72.6759059062188,Male,KPK,3,0,1004,0
+ 188 - Govt Girls Primary School- Maqsood.(Male),33.9944016,72.93323,Male,KPK,3,0,1033,0
+ 190 - Govt Primary School- Maira Toot.,33.9944016,72.93326,Combined,KPK,1,1,168,193
+ 191 - Govt Primary School- Thanda Choa.,33.9944016,72.93329,Combined,KPK,2,2,859,720
+ 193 - Govt Girls Primary School- Kalawan. (Male),33.9944016,72.93332,Male,KPK,3,0,894,0
+ 195 - Govt Primary School- Nikka Pah.,33.9944016,72.93335,Combined,KPK,1,1,339,271
+ 196 - Govt Primary School- Akhoon Bandi (Male).,33.9944016,72.93338,Male,KPK,3,0,878,0
+ 197 - Govt: Girls Primary School- Akhoon Bandi (Female).,33.9944016,72.93341,Female,KPK,0,2,0,714
+ 198 - Govt Primary School- Mohri.,33.9944016,72.93344,Combined,KPK,2,1,547,484
+ 2 - Govt Girls Post Graduate Collage-Haripur. (Male),33.9944016,72.93347,Male,KPK,2,0,790,0
+ 20 - Govt Girls Degree College No . 2 Haripur,33.9944016,72.9335,Combined,KPK,2,2,684,639
+ 466 - Govt Girls Primary School Pipliala (Female),33.99453,72.67639,Female,KPK,0,2,0,798
+ 584 - Govt Girls Middle School-Bhera.(Male),33.994646471600696,72.84350991659358,Male,KPK,4,0,1445,0
+ 200 - Govt Girls Primary School- Check Mohri  (Female).,33.99467206989879,73.05031576522691,Female,KPK,0,3,0,910
+ 585 - Govt Girls Primary School-Bhera. (Female),33.99480095781556,72.84348313260772,Female,KPK,0,4,0,1221
+ 136 - Govt High School- Pind Hashim Khan. (Male),33.9948947,72.9282041,Male,KPK,3,0,1150,0
+ 137 - Govt Primary School- Nartopa. (Female),33.9948947,72.9282341,Female,KPK,0,3,0,1018
+ 139 - Govt Primary School- Pharari. (Male),33.9948947,72.9282641,Male,KPK,4,0,1315,0
+ 140 - Govt Girls Primary School- Pharari. (Female),33.9948947,72.9282941,Female,KPK,0,4,0,1302
+ 141 - Govt Primary School- Chapri.,33.9948947,72.9283241,Combined,KPK,2,2,592,522
+ 126 - Govt Middle School- Bandi Mian Pirdad.,33.9948947,72.9283541,Combined,KPK,2,2,812,607
+ 44 - Govt Girls  Primary School- Noor Colony No.1.,33.9948947,72.9283841,Combined,KPK,2,2,610,551
+ 347 - Govt High School- Chajjian. (Male),33.994912,72.9281753,Male,KPK,3,0,1030,0
+ 336 - Govt Primary School- Sanjiala.,33.994912,72.9282053,Combined,KPK,2,2,758,709
+ 337 - Govt High School- Jab.,33.994912,72.9282353,Combined,KPK,2,2,797,779
+ 338 - Govt Primary School-Taraar Kohala Payeen.,33.994912,72.9282653,Combined,KPK,2,1,560,456
+ 339 - Govt Girls Middle School- Kohala Payeen.,33.994912,72.9282953,Combined,KPK,2,1,555,482
+ 340 - Govt Middle School- Gandhian,33.994912,72.9283253,Combined,KPK,2,2,766,638
+ 341 - Govt Girls Primary School-Gandhian (Male),33.994912,72.9283553,Male,KPK,3,0,861,0
+ 343 - Basic Health Unit- Guamanwan,33.994912,72.9283853,Combined,KPK,2,1,575,451
+ 344 - Govt Girls Primary School-Kayian,33.994912,72.9284153,Combined,KPK,2,2,639,538
+ 345 - Govt High School- Gaumanwan,33.994912,72.9284453,Combined,KPK,2,2,645,577
+ 346 - Govt Girls Primary School No.2- Gaumanwan.,33.994912,72.9284753,Combined,KPK,2,1,473,378
+ 108 - Basic Health Unit- Mankarai.,33.9949133,72.9282712,Combined,KPK,2,2,810,717
+ 109 - Govt Girls Primary School- Mankarai.,33.9949133,72.9283012,Combined,KPK,2,2,586,499
+ 110 - Govt Middle School-Mankarai.,33.9949133,72.9283312,Combined,KPK,2,2,778,710
+ 111 - Govt Primary School-Mohra Mamdoo. (Male),33.9949133,72.9283612,Male,KPK,3,0,874,0
+ 113 - Govt High School- Pharalla.(Male),33.9949133,72.9283912,Male,KPK,4,0,1647,0
+ 114 - Govt Girls Middle School- Pharalla. (Female),33.9949133,72.9284212,Female,KPK,0,4,0,1499
+ 115 - Govt Primary School-Khaka.,33.9949133,72.9284512,Combined,KPK,2,2,856,740
+ 106 - Govt Girls Primary School- Neelore Maira.,33.9949133,72.9284812,Combined,KPK,2,2,697,617
+ 107 - Govt Girls Primary School- Teer.,33.9949133,72.9285112,Combined,KPK,2,2,831,700
+ 349 - Govt Primary School- Chaprian.,33.9949694,72.9280161,Combined,KPK,2,1,598,356
+ 174 - Govt Primary School- Shah Muhammad.,33.9949694,72.9280461,Combined,KPK,2,2,803,672
+ 176 - Govt Primary School- Muradabad. (Male),33.9949694,72.9280761,Male,KPK,3,0,966,0
+ 153 - Govt Girls Primary School- Pandak. (Female),33.9949694,72.9281061,Female,KPK,0,1,0,329
+ 154 - Govt Primary School- Pandak. (Male),33.9949694,72.9281361,Male,KPK,1,0,345,0
+ 155 - Govt Girls Primary School No.2-Soka Pandak. (Male),33.9949694,72.9281661,Male,KPK,1,0,442,0
+ 156 - Govt Girls Primary School No.2-Soka Pandak. (Female),33.9949694,72.9281961,Female,KPK,0,1,0,392
+ 158 - Govt Primary School-Talokar. (Male),33.9949694,72.9282261,Male,KPK,2,0,661,0
+ 159 - Govt Girls Primary School- Talokar. (Female),33.9949694,72.9282561,Female,KPK,0,2,0,581
+ 157 - Govt Girls Middle School- Talokar.,33.9949694,72.9282861,Combined,KPK,2,2,790,648
+ 160 - Govt Girls Middle School- Talokar.(Male),33.9949694,72.9283161,Male,KPK,3,0,1109,0
+ 161 - Govt Girls Middle School- Talokar. (Female),33.9949694,72.9283461,Female,KPK,0,3,0,975
+ 162 - Govt Primary School- Gehr Khan. (Male),33.9949694,72.9283761,Male,KPK,3,0,979,0
+ 551 - Govt Primary School- New Jora Pind Haripur. (Male),33.9949694,72.9284061,Male,KPK,4,0,1237,0
+ 552 - Govt Commerce College- Haripur. (Female),33.9949694,72.9284361,Female,KPK,0,4,0,1146
+ 135 - Govt Girls Middle School- Magri.,33.9949694,72.9284661,Combined,KPK,2,2,648,498
+ 28 - Govt Primary School- Roshanabad. (Male),33.9949694,72.9284961,Male,KPK,3,0,1108,0
+ 293 - Basic Health Unit- Dartian (Male),33.9949694,72.9285261,Male,KPK,4,0,1169,0
+ 295 - Govt Middle School- Babotri,33.9949694,72.9285561,Combined,KPK,2,2,773,652
+ 299 - Govt Girls Middle School Karwali,33.9949694,72.9285861,Combined,KPK,1,1,366,323
+ 300 - Govt Girls Primary School-Rajdhani,33.9949694,72.9286161,Combined,KPK,1,1,411,363
+ 352 - Govt Primary School Teeran Bagra (Male).,33.9949694,72.9286461,Male,KPK,3,0,1086,0
+ 353 - Govt Girls Primary  School- Bagra No.2 (Female).,33.9949694,72.9286761,Female,KPK,0,2,0,796
+ 15 - Govt Model Middle School- Haripur.,33.9955476,72.9300001,Combined,KPK,2,2,771,681
+ 16 - Govt Girls Primary School No.2- Haripur.,33.9955476,72.9300301,Combined,KPK,2,2,708,694
+ 18 - Govt Centenial Model Higher Secondary School- Haripur.,33.9955476,72.9300601,Combined,KPK,2,1,485,435
+ 21 - Govt Primary School No.3- Haripur.(Male ),33.9955476,72.9300901,Male,KPK,2,0,770,0
+ 8 - Govt Girls Primary School No.3- Haripur. (Male),33.9955476,72.9301201,Male,KPK,2,0,761,0
+ 32 - Govt Primary School- Qaziabad.,33.9955476,72.9301501,Combined,KPK,2,1,507,408
+ 39 - Worker Folks Grammer School for Boys-II Senior Section- Labour Colony Haripur.(Male),33.9955476,72.9301801,Male,KPK,3,0,865,0
+ 41 - Worker Folks Grammer School for Boys-II Junior Section- Labour Colony Haripur.(Female),33.9955476,72.9302101,Female,KPK,0,3,0,825
+ 275 - Govt Primary School- Vijjian Masoomabad.,33.9955476,72.9302401,Combined,KPK,2,1,547,412
+ 276 - Govt Primary School- Kamalpur.,33.9955476,72.9302701,Combined,KPK,1,1,348,258
+ 581 - Govt Girls Middle School- Bugnian.,33.99635128897298,72.79817981729025,Combined,KPK,2,2,644,577
+ 221 - Govt Girls Primary School Changi Bandi,33.99686,73.02724,Combined,KPK,2,1,526,463
+ 220 - Govt Girls Primary School- Changi Bandi.,33.99686472413896,73.02727275459195,Combined,KPK,2,1,462,341
+ 17 - Govt Model Middle School- Haripur.,33.99710769529919,72.93032948578792,Combined,KPK,1,1,424,355
+ 549 - Govt Primary School- Doyan Abi.(Male),33.99712836596146,72.90532189957936,Male,KPK,3,0,928,0
+ 497 - Govt Primary School- Essa.,33.998202903439676,72.62249851597238,Combined,KPK,2,1,490,434
+ 364 - Govt Primary School Kailag,33.99831,73.12054,Combined,KPK,2,2,637,508
+ 7 - Govt Girls Primary School No.3- Haripur.,33.99837106670548,72.93643115468801,Combined,KPK,2,2,521,485
+ 9 - Govt Girls Primary School No.3- Haripur.( Female),33.99837106670548,72.936461154688,Female,KPK,0,2,0,731
+ 13 - Govt High School No.2- Haripur. (Male),33.99858,72.94082,Male,KPK,2,0,765,0
+ 12 - Govt High School No.2- Haripur. (Male),33.99858307677134,72.94074927939916,Male,KPK,3,0,838,0
+ 14 - Govt High School No.2- Haripur. (Female),33.998589660719325,72.94075112734245,Female,KPK,0,4,0,1466
+ 223 - Govt High School- Changi Bandi. (Female),33.99859,73.03238,Female,KPK,0,2,0,631
+ 222 - Govt High School- Changi Bandi. (Male),33.99859047318064,73.03236000106911,Male,KPK,3,0,813,0
+ 225 - Govt Primary School- Changi Bandi.,33.9988,73.0323,Combined,KPK,1,1,420,333
+ 4 - Govt Girls High School No.2- Haripur.(Male),33.999094836260454,72.93076539729198,Male,KPK,3,0,1109,0
+ 5 - Govt Girls High School No.2- Haripur. (Female),33.99914402354578,72.93079021712494,Female,KPK,0,3,0,1068
+ 11 - Govt Primary School No.1- Haripur.(Female),33.99916,72.93901,Female,KPK,0,2,0,767
+ 10 - Govt Primary School No.1- Haripur. (Male),33.99919457092996,72.93896458570035,Male,KPK,3,0,801,0
+ 148 - Office of XEN Public Health-Haripur. (Male),33.99919964171161,72.94108187727784,Male,KPK,4,0,1388,0
+ 149 - Office of XEN Public Health-Haripur. (Male),33.99919964171161,72.9411118772778,Male,KPK,4,0,1388,0
+ 224 - Govt Primary School- Changi Bandi.,33.99942898822336,73.03217182867637,Combined,KPK,2,2,523,465
+ 477 - Govt Primary School- Sirra.,33.999767863459475,72.72747976522837,Combined,KPK,2,2,558,506
+ 3 - Govt Girls Post Graduate Collage-Haripur. (Female),34.000193524080224,72.93015360120624,Female,KPK,0,4,0,1398
+ 1 - Govt Girls Post Graduate Collage-Haripur. (Male),34.00020488734317,72.93012561395848,Male,KPK,2,0,733,0
+ 45 - Govt: Post Graduate College Haripur (Male),34.0003,72.93031,Male,KPK,3,0,999,0
+ 596 - Govt  High School- Dheendah.(Female),34.00079353074844,72.89286343869176,Female,KPK,0,3,0,851
+ 594 - Govt English Medium Primary  School- Dheendah.(Male),34.00081746685192,72.89262806604486,Male,KPK,3,0,958,0
+ 595 - Govt English Medium Primary  School- Dheendah.(Male),34.00084,72.89265,Male,KPK,3,0,846,0
+ 597 - Govt  High School- Dheendah.(Female),34.00097,72.89286,Female,KPK,0,2,0,750
+ 6 - City Middle School No.4- Haripur.,34.00143274180831,72.93128395951749,Combined,KPK,2,2,581,542
+ 365 - Govt Primary School-Qazi Maira,34.00165679662699,73.14410326822566,Combined,KPK,1,1,404,306
+ 147 - District Director Extension Agriculture Office- Haripur.,34.00255645581129,72.94121859892961,Combined,KPK,2,2,736,678
+ 355 - Govt Girls Middle School- Baldher (Male),34.00291689290757,73.08776666027012,Male,KPK,3,0,962,0
+ 150 - Office of Union Council-Sikandarpur. (Female),34.00329974682083,72.94172473794872,Female,KPK,0,4,0,1288
+ 151 - Office of Union Council-Sikandarpur. (Female),34.00339,72.94161,Female,KPK,0,3,0,1288
+ 357 - Govt Girls High School- Baldher,34.00341,73.08817,Combined,KPK,2,2,695,567
+ 145 - Govt Primary School- Sikandarpur. (Male),34.00353109558208,72.9399160123333,Male,KPK,4,0,1388,0
+ 146 - Govt Girls Primary School- Sikandarpur. (Female),34.00358159961638,72.93994892505458,Female,KPK,0,4,0,1267
+ 463 - Govt High School- Ghazi Hamlet.,34.00385564438816,72.66484993494396,Combined,KPK,2,2,693,596
+ 464 - Govt High School- Ghazi Hamlet.,34.00387872140033,72.66495851471856,Combined,KPK,2,1,457,392
+ 498 - Govt Primary School- Jallo.,34.00390593492214,72.6353037597088,Combined,KPK,2,2,922,765
+ 601 - Govt Girls Primary School- Kalas. (Female),34.0042,72.90238,Female,KPK,0,2,0,791
+ 600 - Govt Girls Primary School- Kalas. (Female),34.004262424532456,72.90237397165475,Female,KPK,0,2,0,781
+ 467 - Govt Primary School- Hamlet No.1- Ghazi. (Male),34.00446019968954,72.66458512684412,Male,KPK,4,0,1333,0
+ 468 - Govt Girls Primary School No.1- Ghazi Hamlet. (Female),34.00451905939194,72.6643679652131,Female,KPK,0,4,0,1194
+ 557 - Govt Primary School- Chour (Male).,34.00475574474237,72.91657437312267,Male,KPK,4,0,1285,0
+ 558 - Govt Primary School- Chour (Female).,34.00478766221116,72.91661135239129,Female,KPK,0,3,0,1051
+ 363 - Govt High School-Kailag (Female).,34.00487938994955,73.11868869433495,Female,KPK,0,3,0,977
+ 362 - Govt High School-Kailag (Male).,34.004880039040664,73.11867429839833,Male,KPK,4,0,1229,0
+ 103 - Govt Girls Primary School- Pind Hashim Khan.(Male),34.0050083,72.9338298,Male,KPK,3,0,969,0
+ 105 - Govt Primary School- Pind Hashim Khan.,34.0050083,72.9338598,Combined,KPK,2,2,661,555
+ 116 - Govt High School- Sarai Niamat Khan.,34.0050083,72.9338898,Combined,KPK,2,1,493,452
+ 117 - Govt High School- Sarai Niamat Khan.,34.0050083,72.9339198,Combined,KPK,2,2,772,680
+ 118 - Rural Health Center- Sarai Niamat Khan.,34.0050083,72.9339498,Combined,KPK,2,1,563,404
+ 119 - Rural Health Center- Sarai Niamat Khan.,34.0050083,72.9339798,Combined,KPK,2,2,583,515
+ 120 - Govt Primary School- Banda Munir Khan.,34.0050083,72.9340098,Combined,KPK,2,2,699,615
+ 121 - Govt Girls Primary School- Banda Munir Khan.,34.0050083,72.9340398,Combined,KPK,2,1,571,490
+ 122 - Govt Primary School- Talhad. (Male),34.0050083,72.9340698,Male,KPK,3,0,1005,0
+ 124 - Govt Primary School- Dharam Pani.,34.0050083,72.9340998,Combined,KPK,2,2,670,618
+ 125 - Govt Middle School- Sarrian Dharam Pani.,34.0050083,72.9341298,Combined,KPK,2,2,766,644
+ 127 - Govt Primary School- Bayan Ahmad Ali Khan.,34.0050083,72.9341598,Combined,KPK,2,2,676,658
+ 128 - Govt Primary School- Bandi Mian Pirdad.,34.0050083,72.9341898,Combined,KPK,2,2,759,587
+ 129 - Govt High School-Noorpur.(Male),34.0050083,72.9342198,Male,KPK,3,0,1063,0
+ 131 - Govt Primary School- Noorpur.,34.0050083,72.9342498,Combined,KPK,2,2,711,575
+ 133 - Govt Primary School- Karach.,34.0050083,72.9342798,Combined,KPK,1,1,403,321
+ 134 - Govt Girls Middle School- Paswal.,34.0050083,72.9343098,Combined,KPK,2,2,583,520
+ 367 - Govt Girls Primary School- Toru Dhoke.,34.0053664756205,73.13378709162016,Combined,KPK,2,2,670,508
+ 560 - Govt Girls Primary School- Chour. (Female),34.006,72.91688,Female,KPK,0,2,0,648
+ 559 - Govt Girls Primary School- Chour. (Male),34.00610823361823,72.91684051195446,Male,KPK,3,0,804,0
+ 598 - Govt Primary School- Kalas. (Male),34.006813708308016,72.89884099383312,Male,KPK,3,0,952,0
+ 599 - Govt Primary School- Kalas. (Male),34.00692,72.89883,Male,KPK,3,0,920,0
+ 356 - Govt Primary School- Baldher (Female),34.00764969619514,73.09064056262929,Female,KPK,0,2,0,787
+ 214 - Govt Girls Primary School- Malkyar. (Female),34.00794900115644,72.92311978231261,Female,KPK,0,4,0,1199
+ 213 - Govt Girls Primary School- Malkyar. (Male),34.00795359120963,72.9231102891501,Male,KPK,4,0,1427,0
+ 565 - Basic Health Unit- Jaugal.,34.00841710452281,72.89340429007825,Combined,KPK,1,1,424,352
+ 211 - Govt Primary School-Malkyar(Male),34.00849500642816,72.92733466502615,Male,KPK,3,0,849,0
+ 212 - Govt Primary School-Malkyar. (Female),34.00859,72.92711,Female,KPK,0,2,0,794
+ 476 - Govt High School- Salamkhand.,34.00877792355891,72.72162325408453,Combined,KPK,2,2,531,541
+ 589 - Govt: Girls High School- Gadwallian. (Female),34.0107,72.81483,Female,KPK,0,4,0,1152
+ 531 - Govt Primary School No.3- S-2 KTS (Female),34.010747985377115,72.90744505983265,Female,KPK,0,3,0,1069
+ 443 - Govt Primary School- Barwasa.,34.01077851393315,72.69228065224662,Combined,KPK,1,1,483,417
+ 588 - Govt: Girls High School- Gadwallian. (Male),34.010827002342246,72.81484017614679,Male,KPK,4,0,1264,0
+ 530 - Govt Primary School No.1- S-2 KTS (Male),34.01091502987926,72.90731929360713,Male,KPK,4,0,1222,0
+ 217 - Basic Health Unit- Dheri Sikandarpur.,34.010933240845205,72.94387360901015,Combined,KPK,2,2,557,482
+ 526 - Govt High School Sec No. 2 KTS (Male),34.011117933658085,72.90712700947644,Male,KPK,4,0,1125,0
+ 528 - Govt High School-S-2 KTS. (Male),34.011126460217426,72.90710873434163,Male,KPK,4,0,1362,0
+ 368 - Govt Girls Primary Schiool- Dobandi,34.01114162470565,73.08211555321468,Combined,KPK,2,2,657,483
+ 371 - Govt Primary School- Kholian Bala.(Male),34.011165357934814,73.10278122338788,Male,KPK,4,0,1286,0
+ 112 - Govt  Girls Primary School-Mohra Mamdoo.(Female),34.01152,72.95681,Female,KPK,0,2,0,717
+ 219 - Govt Primary School- Dheri Sikandarpur. (Female),34.01257,72.94989,Female,KPK,0,3,0,1017
+ 218 - Govt Primary School- Dheri Sikandarpur.(Male),34.013671327470995,72.94936283885512,Male,KPK,4,0,1230,0
+ 527 - Govt Girls Higher Secondary School No.2- KTS. (Female),34.01396916034938,72.90879790026332,Female,KPK,0,3,0,1060
+ 529 - Govt Girls Higher Secondary School No.2- KTS. (Female),34.013995129016266,72.90881684698842,Female,KPK,0,4,0,1237
+ 370 - Govt Girls High School- Kholian Bala (Female),34.01430627283758,73.09155380346067,Female,KPK,0,4,0,1024
+ 372 - Govt Girls Primary School Kholian Bala (Female),34.0145,73.09159,Female,KPK,0,3,0,1039
+ 369 - Govt High School- Kholian Bala (Male),34.01537061359528,73.09174014109706,Male,KPK,4,0,1337,0
+ 438 - Govt Primary School- Khalo.(Male),34.015819731149676,72.65280466328679,Male,KPK,4,0,1447,0
+ 439 - Govt Girls High School- Khalo.(Female),34.0158334792832,72.65246075398883,Female,KPK,0,4,0,1359
+ 521 - Govt Primary School No.1-S-1 KTS (Female).,34.01638395842477,72.9189955064953,Female,KPK,0,3,0,1067
+ 524 - Govt Centenial Model High School S-1- KTS (Male),34.016695049317306,72.91859497041492,Male,KPK,4,0,1822,0
+ 523 - Govt Primary School No.2- S-1 KTS (Female).,34.01669789776865,72.91928835539599,Female,KPK,0,4,0,1341
+ 525 - Govt Girls High School - S- 1 KTS (Female),34.01747562229532,72.91853717098265,Female,KPK,0,4,0,1578
+ 522 - Govt Degree College- Khalabat (Male).,34.0177324140658,72.91795837112586,Male,KPK,4,0,1502,0
+ 520 - Govt Degree College- Khalabat (Male).,34.01774216372669,72.91793415083255,Male,KPK,4,0,1173,0
+ 373 - Govt Primary School- Chach Maira.,34.017764016115414,73.11008386773499,Combined,KPK,2,2,666,490
+ 216 - Govt Primary School-Makhan Colony.(Female),34.018084471128226,72.93942916154266,Female,KPK,0,3,0,991
+ 215 - Govt Primary School-Makhan Colony.(Male),34.018126337309454,72.93944389378939,Male,KPK,4,0,1292,0
+ 434 - Govt High School- Ghazi.(Male),34.01865866435778,72.65926334925135,Male,KPK,4,0,1802,0
+ 435 - Govt High School- Ghazi.(Female),34.0186844720523,72.6592416006586,Female,KPK,0,4,0,1722
+ 534 - Govt Girls High School-S-3 KTS (Female).,34.01946776284782,72.90663687368712,Female,KPK,0,4,0,1679
+ 538 - Govt Primary School No.2- S-3 KTS (Female).,34.02161206607786,72.90245239747125,Female,KPK,0,4,0,1280
+ 535 - Govt Middle School-S-3 Khalabat. (Male),34.02173583349758,72.90259698967411,Male,KPK,3,0,1076,0
+ 536 - Govt Girls Degree College- S-3 KTS. (Female),34.02204882488456,72.90288913256946,Female,KPK,0,3,0,856
+ 537 - Govt Primary School No.1- S-3 KTS (Male).,34.02220426251336,72.90269674639748,Male,KPK,4,0,1349,0
+ 533 - Govt High School- S-3 KTS (Male).,34.02222,72.90283,Male,KPK,3,0,940,0
+ 532 - Govt High School- S-3 KTS (Male).,34.02222017935229,72.90278885508872,Male,KPK,3,0,841,0
+ 541 - Govt High School- S-4 KTS (Male).,34.02230676808794,72.9154303685238,Male,KPK,3,0,1003,0
+ 436 - Govt Girls Zubaida Aman Degree College- Ghazi.,34.022415902561384,72.65803027001795,Combined,KPK,2,2,647,553
+ 437 - Govt Girls Zubaida Aman Degree College- Ghazi.,34.022415902561384,72.6580602700179,Combined,KPK,1,1,440,394
+ 543 - Govt Girls Higher Secondary School No.4- KTS (Female).,34.02278829373666,72.91628624997125,Female,KPK,0,3,0,929
+ 544 - Govt Girls Higher Secondary School No.4- KTS (Female).,34.0228,72.91628,Female,KPK,0,3,0,845
+ 542 - Govt High School- S-4 KTS (Male).,34.02323,72.91559,Male,KPK,3,0,975,0
+ 590 - Govt High School- Sarri.,34.02493079528252,72.82754513568595,Combined,KPK,2,2,636,600
+ 591 - Govt Primary School- Sarri.,34.02542265152131,72.82769041620841,Combined,KPK,2,2,496,458
+ 548 - Govt Girls Primary School- Moh: Khabal S-4 KTS (Female).,34.02543799168987,72.90847004726346,Female,KPK,0,4,0,1853
+ 564 - Govt Girls High School - Basso Maira. (Female),34.02571,72.84296,Female,KPK,0,3,0,1037
+ 563 - Govt Girls High School - Basso Maira. (Male),34.025821287332626,72.84294163466062,Male,KPK,3,0,1111,0
+ 475 - Govt Girls Middle School-Umer Khana.,34.027616420197845,72.69681877228126,Combined,KPK,2,2,664,585
+ 547 - Govt Middle School-S-4 KTS (Male).,34.02819,72.91021,Male,KPK,4,0,1142,0
+ 546 - Govt Middle School-S-4 KTS (Male).,34.02823938003822,72.91021899089156,Male,KPK,3,0,1041,0
+ 540 - Govt Technical Training Center-S-4 KTS (Female).,34.02830433070023,72.9103062312618,Female,KPK,0,4,0,1201
+ 561 - Govt Primary School- Qazian.,34.02852593191495,72.92828362991352,Combined,KPK,2,2,895,823
+ 545 - Govt Primary School No.1- S-4 KTS .,34.0286028187704,72.90995358849774,Combined,KPK,2,2,683,594
+ 487 - Govt Girls Primary School- Chinarkot.,34.028635093048536,72.77838584495717,Combined,KPK,2,2,768,560
+ 539 - Govt Primary School No.2- S-4 KTS (Male).,34.02875644770769,72.90979820762671,Male,KPK,4,0,1432,0
+ 474 - Govt Primary School- Kundi.,34.030371269291834,72.7201235287665,Combined,KPK,2,2,772,715
+ 440 - Senior Model High School- Sobra City.,34.03081409879333,72.67545657021522,Combined,KPK,2,2,882,734
+ 442 - Wapda Degree Collage- Sobra City. (Female),34.03123694729937,72.67416726102788,Female,KPK,0,4,0,1182
+ 441 - Wapda Degree Collage- Sobra City. (Male),34.03125886763699,72.67422516891372,Male,KPK,4,0,1355,0
+ 554 - Govt Girls Middle School-Makhan. (Female),34.03229041166833,72.94783385288183,Female,KPK,0,4,0,1279
+ 556 - Govt High School- Dobandi (Female),34.03317,72.93561,Female,KPK,0,3,0,869
+ 555 - Govt High School- Dobandi. (Male),34.03322915772662,72.935581472166,Male,KPK,3,0,1019,0
+ 553 - Govt Primary School- Makhan. (Male),34.034672950590426,72.94557429522358,Male,KPK,4,0,1442,0
+ 484 - Govt Girls Community Model School- Serai.,34.03817480162522,72.76067764754602,Combined,KPK,2,2,636,585
+ 144 - Govt Primary School- Jama.,34.03823902193882,72.92780771574088,Combined,KPK,2,2,742,651
+ 138 - Govt High School- Pind Hashim Khan.,34.03909,73.0115,Combined,KPK,2,2,746,637
+ 562 - Govt Primary School- Padhana.,34.04008551473609,72.91308016156309,Combined,KPK,2,1,565,454
+ 142 - Govt Primary School- Bajeeda.,34.040388514971106,72.94670419142325,Combined,KPK,1,1,531,501
+ 472 - Govt High School- Kundi.,34.04057568722551,72.72617396483787,Combined,KPK,2,2,858,721
+ 473 - Govt High School- Kundi.,34.04057568722551,72.7262039648379,Combined,KPK,2,2,782,735
+ 482 - Govt Primary School- Sirikot. (Male),34.04230954974442,72.77599674006798,Male,KPK,4,0,1375,0
+ 490 - Govt Middle School- Kheroch.,34.042396534660114,72.81752790638329,Combined,KPK,2,1,488,449
+ 486 - Govt Girls High School- Sirikot  (Female).,34.04287241502708,72.77813112407439,Female,KPK,0,3,0,922
+ 485 - Govt Girls High School- Sirikot (Male).,34.04287364239281,72.77819173694755,Male,KPK,3,0,1033,0
+ 483 - Govt Higher Secondary School- Sirikot. (Female),34.04391516607571,72.77594578637573,Female,KPK,0,4,0,1310
+ 94 - Govt High School- Jatti Pind.,34.04477631449888,72.95317842975344,Combined,KPK,2,2,923,813
+ 491 - Govt Middle School- Galai.(Male),34.05308231021892,72.78865550223583,Male,KPK,4,0,1135,0
+ 492 - Govt Middle School- Galai.(Female),34.05308231021892,72.7886855022358,Female,KPK,0,3,0,1020
+ 488 - Govt Girls Primary School- Chontrai.,34.053509882248,72.76400868440214,Combined,KPK,2,2,595,509
+ 104 - Govt Girls Primary School- Pind Hashim Khan.(Female),34.05617,73.00362,Female,KPK,0,2,0,787
+ 95 - Govt Primary School- Sumbal Negir.,34.05630691362768,72.97805647539418,Combined,KPK,1,1,428,384
+ 570 - Govt Middle School- New Mamaya.,34.05715941017091,72.8578189858961,Combined,KPK,1,1,450,372
+ 495 - Govt Primary School Bail,34.059481270398614,72.81418833284036,Combined,KPK,2,2,728,592
+ 93 - Govt Primary  School- Dana Colony.,34.06166284668325,72.94936467935253,Combined,KPK,2,2,622,542
+ 480 - Wapda Girls High School-Main Colony Turbela Dam Project.,34.062622042053896,72.69493103793616,Combined,KPK,1,1,459,393
+ 479 - Wapda Girls High School-Main Colony Turbela Dam Project.,34.06266309405385,72.69494018203613,Combined,KPK,2,1,488,404
+ 478 - Wapda Boys High School- Main Colony Turbela.,34.06274991316835,72.69421541327189,Combined,KPK,2,1,554,442
+ 97 - Govt Girls High School Kaag (Female),34.06351424493005,72.94425182308721,Female,KPK,0,4,0,1301
+ 73 - Govt Primary School- Dera.,34.06650237397872,72.7569987072118,Combined,KPK,2,2,813,583
+ 96 - Govt High School- Kaag.(Male),34.06802533130446,72.93969442187921,Male,KPK,4,0,1560,0
+ 494 - Govt Middle School- Garhan,34.071665586265325,72.8226735711605,Combined,KPK,2,2,750,622
+ 489 - Govt Girls Primary School- Dorah Usman Mani.,34.072538839502485,72.79125745038972,Combined,KPK,1,1,397,346
+ 99 - Govt High School- Alloli.,34.07365030916577,72.96924530177913,Combined,KPK,2,1,536,462
+ 100 - Govt High School- Alloli.,34.07365030916577,72.9692753017791,Combined,KPK,2,1,524,472
+ 130 - Govt High School-Noorpur.(Female),34.07393,73.07862,Female,KPK,0,3,0,847
+ 98 - Govt Primary School- Bhan Gharham.,34.07635579927987,72.96658148482058,Combined,KPK,2,2,860,689
+ 102 - Govt Girls Primary School- Alloli.,34.07829959870179,72.97300956709958,Combined,KPK,2,2,700,673
+ 101 - Govt Primary School- Alloli.,34.07839559801471,72.97294603122981,Combined,KPK,2,2,729,620
+ 90 - Govt Primary School-Neelore.,34.08504986567686,72.9966559847397,Combined,KPK,2,2,792,703
+ 493 - Govt Primary School- Choi Kiari.,34.091712749273256,72.80025401307326,Combined,KPK,1,1,504,425
+ 76 - Govt Girls Primary School- Darwaza.,34.09183105277633,72.95003800025721,Combined,KPK,2,1,605,534
+ 91 - Govt Primary School-Bhat.,34.10231934924008,73.00191491445223,Combined,KPK,1,1,475,424
+ 79 - Govt Middle School- Goraki.,34.10251025680111,72.9844178990334,Combined,KPK,2,2,640,551
+ 92 - Govt Primary School- Behki.,34.104224290255786,73.02080412496507,Combined,KPK,1,1,448,411
+ 77 - Govt Primary School- Chanjiala.,34.105079135038274,72.94411069593683,Combined,KPK,2,1,520,427
+ 123 - Govt Girls Primary School- Talhad. Female),34.11114,73.05391,Female,KPK,0,3,0,858
+ 89 - Govt Middle School- Banda Mughlan.,34.113637847945505,73.02411532746888,Combined,KPK,2,2,717,616
+ 78 - Govt Midddle School- Kacchi.,34.11587221781213,72.95738558850441,Combined,KPK,2,2,959,813
+ 88 - Govt High School- Kakotri. (Female),34.12452,73.01176,Female,KPK,0,4,0,1157
+ 87 - Govt High School- Kakotri.(Male),34.12467156851643,73.01182715978067,Male,KPK,4,0,1193,0
+ 84 - Govt Primary School-Airan.,34.125344146475825,72.98783085691257,Combined,KPK,2,2,692,665
+ 86 - Govt Primary School- Nalaki.,34.13114015564243,73.00751659178384,Combined,KPK,2,1,583,492
+ 85 - Govt Primary School-Talhala,34.13139429560099,72.99396965342025,Combined,KPK,2,2,789,784
+ 57 - Govt Primary School- Sawabi Maira (Male).,34.131439465998795,72.85901358978167,Male,KPK,3,0,1103,0
+ 58 - Govt Girls Primary School- Swabi Maira.(Female),34.133071132080254,72.86114047682331,Female,KPK,0,3,0,891
+ 83 - Govt High School- Macha Da Maira.,34.13583421184083,72.98750164097447,Combined,KPK,2,2,814,709
+ 59 - Govt Primary School-Chajjaka.,34.13887258356287,72.88395475598367,Combined,KPK,1,1,223,139
+ 55 - Govt Primary School- Saidpur Jam.(Male),34.14939259106347,72.91865310314344,Male,KPK,3,0,1104,0
+ 56 - Govt Primary School- Saidpur Jam. (Female),34.14949,72.9186,Female,KPK,0,3,0,1064
+ 82 - Govt Primary School- Kangar Amgah.,34.15076695971524,73.01866182346691,Combined,KPK,2,1,665,556
+ 53 - Govt Primary School-  Kalinger No.2.,34.15232185357178,72.86807659619777,Combined,KPK,2,2,718,624
+ 516 - Govt Primary School- Khabal.,34.15334342894129,72.78010333683694,Combined,KPK,1,1,441,262
+ 81 - Govt Higher Secondary School- Beer. (Female),34.16042578973882,72.95871034452223,Female,KPK,0,3,0,1182
+ 80 - Govt Higher Secondary School- Beer. (Male),34.1649556876271,72.95353411179289,Male,KPK,4,0,1269,0
+ 52 - Govt High School- Kalinger.,34.166783862579564,72.8724683661218,Combined,KPK,2,2,1069,923
+ 54 - Govt Primary School-  Kalinger No.1.,34.16718353123415,72.87683564361461,Combined,KPK,2,2,674,573
+ 51 - Govt Primary School- Dana Kalinger.,34.176081747930695,72.85344947914254,Combined,KPK,2,2,727,565
+ 64 - Govt Primary School- Tavi.,34.18444879302205,72.83694753842714,Combined,KPK,1,1,142,92
+ 63 - Govt Primary School- Kanikot.,34.186125299381224,72.92890397421844,Combined,KPK,1,1,332,325
+ 62 - Govt Primary School Mari,34.19486,72.8825,Combined,KPK,1,1,428,369
+ 61 - Govt Primary School- Gandaf.,34.195458762920126,72.86640616539047,Combined,KPK,2,2,601,548
+ 72 - Govt Primary School- Swar Maira.,34.19843622428318,72.85491029740017,Combined,KPK,2,1,681,502
+ 60 - Govt Primary School- Kheri.,34.199539590764665,72.90357288425831,Combined,KPK,1,1,436,417
+ 66 - Govt Girls Primary School- Dalri.,34.20486815766396,72.9331504201717,Combined,KPK,2,2,646,563
+ 65 - Govt Primary School- Dalri.,34.20635601564798,72.93877183759568,Combined,KPK,1,1,525,448
+ 68 - Govt Primary School-Chaintri.,34.20792708037297,72.95464367668201,Combined,KPK,2,2,725,678
+ 67 - Govt Primary School- Hall Judal.,34.20962491137914,72.9629470866612,Combined,KPK,2,2,767,619
+ 500 - Govt Primary School- Laqab.,34.211342671103715,72.76430555076219,Combined,KPK,1,1,203,169
+ 499 - Govt Middle School- Brug.,34.2146057939026,72.77996332908631,Combined,KPK,1,1,417,291
+ 71 - Govt Primary School- Bandi Labial.,34.21890888410621,72.93364785843703,Combined,KPK,2,1,512,465
+ 48 - Govt Primary School- Pamba.,34.22220166503707,72.87952795612883,Combined,KPK,1,1,276,238
+ 49 - Govt Primary School- Ladarmang.,34.22559572117777,72.89692718774795,Combined,KPK,2,1,476,377
+ 50 - Govt High School- Badhora.,34.22751367671008,72.90889330800626,Combined,KPK,1,2,476,496
+ 70 - Govt Primary School- Kund Kalu Khan.,34.230869909191924,72.93680810940984,Combined,KPK,1,1,477,361
+ 47 - Govt Middle School- Hassan Bhai.,34.23728916355111,72.88042813921311,Combined,KPK,2,2,591,500
+ 69 - Govt Primary School- Karlakian.,34.24488422684717,72.92078447864354,Combined,KPK,2,1,486,425
+ 504 - Govt Middle School- Kangrocha.,34.264636466441935,72.77068654107788,Combined,KPK,2,2,821,580
+ 481 - Govt Primary School- Derra.,34.27236916793129,72.84637339703134,Combined,KPK,2,1,524,366
+ 502 - Govt Girls Middle School- Gali (Female).,34.27360372203322,72.7713086245584,Female,KPK,0,3,0,842
+ 501 - Govt High School-Gali (Male).,34.28138116265087,72.76522726088298,Male,KPK,4,0,1123,0
+ 505 - Govt Primary School- Chakli.,34.28543821105517,72.80402809336739,Combined,KPK,1,1,345,254
+ 503 - Govt Middle School- Choora.,34.28676682526632,72.76179212309178,Combined,KPK,2,1,586,421
+ 74 - Govt Girls Middle School-Kariplian.,34.290668070097524,72.84844471405886,Combined,KPK,2,2,828,747
+ 519 - Govt Primary School- Kupla.,34.30262132876167,72.74489197325913,Combined,KPK,2,1,596,377
+ 506 - Govt Girls Primary School- Faroosa.,34.31118033901629,72.80510672918228,Combined,KPK,1,1,294,222
+ 511 - Govt Primary School-Charwai.,34.31348059440542,72.7594371336176,Combined,KPK,2,1,570,449
+ 514 - Govt Primary School-Kaneer.,34.314591882836496,72.83564149399916,Combined,KPK,2,2,643,511
+ 518 - Govt Middle School- Shingri.,34.31681865686694,72.78421224759062,Combined,KPK,2,2,967,641
+ 517 - Govt High School- Nara Amazai.,34.31833419880975,72.7734019957071,Combined,KPK,1,1,430,382
+ 507 - Govt Primary School- Degra.,34.31973492913955,72.78213786901372,Combined,KPK,1,1,254,110
+ 510 - Govt Primary School-Charoona.,34.32471312507004,72.75136522349699,Combined,KPK,2,2,618,491
+ 515 - Govt Primary School- Bait Gali.,34.32986321962146,72.81900499099673,Combined,KPK,2,2,837,675
+ 509 - Govt Middle School- Kalilar.,34.33076180624679,72.75558028496313,Combined,KPK,2,2,546,505
+ 508 - Govt Primary School- Parba.,34.33321890214281,72.77322410223664,Combined,KPK,2,2,794,608
+ 513 - Govt High School- Kupri.,34.335289024862455,72.76867229830052,Combined,KPK,2,2,791,670
+ 512 - Govt Primary School-Kupri.,34.336848177346454,72.76757380180648,Combined,KPK,2,2,589,508

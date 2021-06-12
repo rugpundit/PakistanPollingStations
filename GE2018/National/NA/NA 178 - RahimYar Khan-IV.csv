@@ -1,241 +1,241 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-257,Govt. Boys High School Sanjar Pur Nao (Male)  (P)*,28.24721014844251,69.97915692700336,Male,Punjab,4,0,1835,0
-259,Govt. Boys High School- Sanjar Pur Nao (Male)  (P)*,28.24721014844251,69.9791869270034,Male,Punjab,2,0,1317,0
-261,Govt. Boys High School- Sanjar Pur Nao,28.24721014844251,69.9792169270034,Combined,Punjab,2,1,770,576
-265,Govt. Boys Primary School Basti Rais Mouza Baig Mahar (P)*,28.248192045270628,70.00692504750675,Combined,Punjab,2,1,849,620
-258,Govt. Girls High School Sanjar Pur Nao (Female)  (P)*,28.2491546,69.9754107,Female,Punjab,0,2,0,1399
-260,Govt. Girls High School Sanjar Pur Nao (Female)  (P)*,28.2491546,69.9754407,Female,Punjab,0,2,0,1035
-262,Govt. Girls High School Sanjar Pur Nao,28.2491546,69.9754707,Combined,Punjab,2,1,835,661
-255,Union Council Office Sanjar Pur Nao (Male)  (P)*,28.249883971421408,69.97452352423481,Male,Punjab,3,0,1435,0
-256,Union Council Office- Sanjar Pur Nao (P-II) (Female)  (P)*,28.249883971421408,69.9745535242348,Female,Punjab,0,2,0,979
-264,Govt.Model Primary School Muhammad Ali Arain (P)*,28.257561192614194,70.00676881657391,Combined,Punjab,2,1,791,573
-263,Govt. Boys Primary School Chak No.  32/NP Gharbi Sadiqabad  (P)*,28.264507185449673,69.98569504156849,Combined,Punjab,1,1,477,374
-250,Govt. Boys Primary School Chak 29/NP (P)*,28.26582,70.01967,Combined,Punjab,2,1,914,648
-253,Govt. Boys High School- Basti Walana (Part-I) (P)*,28.271172431484928,70.01509076769688,Combined,Punjab,1,1,641,565
-254,Govt. Boys High School- Basti Walana (Part-II) (P)*,28.271172431484928,70.0151207676969,Combined,Punjab,2,2,880,788
-232,Govt. Boys Primary School- Chak No. 28/NP (P)*,28.280862248200666,70.03840257180818,Combined,Punjab,1,1,517,409
-251,Govt. Boys Primary School- Chak No.  30/NP (P)*,28.301663027063473,70.0130153066738,Combined,Punjab,1,1,609,381
-230,Govt. Boys Primary School No. 1- Wahid Bakhsh Mahar Sadiq Abad (Male),28.307268565603934,70.08790530461837,Male,Punjab,4,0,1839,0
-231,Govt. Boys Primary School No. 1- Wahid Bakhsh Mahar Sadiq Abad (Female),28.307268565603934,70.0879353046184,Female,Punjab,0,3,0,1394
-237,Govt.Girls Primary School Dera Ghulam Haider-Haider Colony (Male),28.30919,70.10994,Male,Punjab,2,0,1656,0
-238,Govt.Girls Primary School Dera Ghulam Haider-Haider Colony (Female),28.30919,70.10997,Female,Punjab,0,2,0,1165
-252,Govt. Boys Primary School- Basti Faqir Mahar Din Mouza Bhamba Shaheed (P)*,28.30999402750726,70.03103883822979,Combined,Punjab,1,1,592,323
-235,Govt.Girls Primary School Mahboob Subhani Awami Colony (Male),28.311,70.10846,Male,Punjab,4,0,1817,0
-236,Govt.Girls Primary School Mahboob Subhani Awami Colony (Female),28.311,70.10849,Female,Punjab,0,2,0,1291
-233,Govt.Girls Primary School Dera Khalid Shahzad Habib Colony Chak No.10/NP (Male),28.31519,70.09383,Male,Punjab,4,0,1555,0
-234,Govt.Girls Primary School Dera Khalid Shahzad Habib Colony Chak No.10/NP (Female),28.31519,70.09386,Female,Punjab,0,2,0,1124
-244,Govt. Girls Primary School- Chak No.  31/NP (P)*,28.31543,69.99712,Combined,Punjab,1,1,449,309
-120,Office of Union Council 7/G Town Commitee-Ahmed Pur Lamma (P)*,28.31709550654496,70.05932143086977,Combined,Punjab,1,1,596,496
-115,Union Council Office Ahmed Pur Lamma  Deh-No.29 Sadiq Abad,28.317899772360178,70.05702074871394,Combined,Punjab,2,2,1134,839
-116,Govt. Boys High School Ahmed Pur Lamma Sadiq Abad (High Portion) (Male),28.318565712109976,70.0553570935089,Male,Punjab,3,0,1595,0
-118,Govt. Boys High School- Ahmed Pur Lamma (Middle Portion) (Male),28.318565712109976,70.0553870935089,Male,Punjab,4,0,1869,0
-121,Govt. Boys High School Muhammad Pur Lamma- Sadiq Abad  (Male),28.318565712109976,70.0554170935089,Male,Punjab,2,0,1264,0
-122,Govt. Boys High School Muhammad Pur Lamma- Sadiq Abad  (Female),28.318565712109976,70.0554470935089,Female,Punjab,0,2,0,947
-224,Govt. Boys High School Ahmed Pur Lamma Sadiq Abad,28.318570121045433,70.05537974528605,Combined,Punjab,2,2,1125,699
-117,Govt. Girls High School Ahmed Pur Lamma Sadiq Abad (High Portion) (Female),28.319548769248232,70.05336458409434,Female,Punjab,0,2,0,1282
-119,Govt. Girls High School Ahmed Pur Lamma Sadiq Abad (Middle Portion) (Female),28.319548769248232,70.0533945840943,Female,Punjab,0,3,0,1479
-114,Govt. Boys Rafique Middle School- Ahmed Pur Lamma (Female),28.320021336071562,70.05148978679064,Female,Punjab,0,3,0,1347
-227,Govt. Boys Elementary School (Low Income Scheme)Sadiq Abad (P 1)*,28.321846426524395,70.12133238843579,Combined,Punjab,2,2,1073,882
-228,Govt. Boys Elementary School  (P-II) (Low Income Scheme)Sadiq Abad (Male),28.321846426524395,70.1213623884358,Male,Punjab,2,0,1276,0
-229,Govt. Boys Elementary School Low Income Scheme (Female),28.321846426524395,70.1213923884358,Female,Punjab,0,2,0,948
-247,Govt. Girls Primary School- Rajiri (P)*,28.338021969370885,70.01393542615983,Combined,Punjab,2,1,981,578
-240,Govt. Masjid Maktab School- Chak No. 9/NP,28.33834,70.12167,Combined,Punjab,2,1,1073,852
-248,Govt. Boys Elementary School- Dinu Shah (Male),28.33922,69.9707,Male,Punjab,3,0,1512,0
-249,Govt. Girls Primary School Dinu Shah (Female),28.33922,69.97073,Female,Punjab,0,2,0,913
-241,Govt. Boys Elementary School Chak No. 25/NP Sadiq Abad,28.340972281941095,70.0629429262827,Combined,Punjab,2,2,1083,777
-239,Govt. Boys Elementary School Chak No. 26/NP Sadiq Abad  (P)*,28.349745953980875,70.10373184791365,Combined,Punjab,2,1,726,518
-221,Govt. Boys Primary School Chak No. 23/NP (P)*,28.360741613063993,70.06749998724196,Combined,Punjab,1,1,468,305
-152,Govt. Girls Elementary School Chak No.7/NP Sadiq Abad  (P)*,28.362188057642932,70.1429749007724,Combined,Punjab,2,2,934,790
-225,Govt. Boys Primary School Chak No.11/NP Sadiq Abad  (P)*,28.36366076608376,70.10257733577856,Combined,Punjab,1,1,506,369
-245,Govt. Girls Elementary School Mitha Dandam (Male),28.363741292044025,70.0177456107294,Male,Punjab,2,0,1417,0
-246,Govt. Girls Elementary School Mitha Dandam (Female),28.363741292044025,70.0177756107294,Female,Punjab,0,2,0,961
-226,Govt. Girls High School Chak No. 11/NP Sadiq Abad,28.36384,70.10368,Combined,Punjab,2,1,920,648
-148,Govt. Boys Elementary School Umaid Ali Bhait  Sadiq Abad  (P)*,28.365329519836774,70.15551620221315,Combined,Punjab,2,2,875,714
-149,Govt. Boys Elementary School Umaid Ali Bhait  Sadiq Abad  (P)*,28.365329519836774,70.1555462022131,Combined,Punjab,2,2,874,727
-219,Govt. Boys Primary School Ali Mardan  Sadiq Abad (Male),28.366712353107236,70.04118666300911,Male,Punjab,3,0,1707,0
-220,Govt. Boys Primary School Ali Murdan  Sadiq Abad (Female),28.366712353107236,70.0412166630091,Female,Punjab,0,2,0,1052
-144,Govt. Boys Primary School Station Adam Sahaba Mouza Rahmun,28.36775331939565,70.23322292767986,Combined,Punjab,2,2,1144,843
-145,Govt. Girls Elementary School Malik Wahid Bux Machhi- Basti Nazar Muhammad Mouza Rahmun,28.369670557340697,70.2414525395373,Combined,Punjab,2,2,1126,809
-222,Govt. Boys E/S- Chak No. 24/NP Sadiq Abad  (Male),28.37273854118497,70.0921926503206,Male,Punjab,2,0,1224,0
-223,Govt. Girls Primary School Chak No. 24/NP (Female),28.37368,70.09079,Female,Punjab,0,2,0,872
-217,Govt. Boys Primary School Basti Muhammad Nawaz Mouza Jam Wasa Sadiq Abad  (P)*,28.37831674609712,70.11843582204192,Combined,Punjab,2,1,937,609
-147,Govt. Girls Primary School Chak No. 5/NP (P)*,28.38071219907447,70.17699873246013,Combined,Punjab,1,1,419,308
-193,Govt. Masjid Maktib School- Jam Gabol Basti Haji Rahmat Ullah Chak No. 19/NP (P)*,28.383924630493603,70.00172313571261,Combined,Punjab,1,1,613,378
-146,Govt. Boys Primary School- Kot Karim Bux (Basti Kot Siyal) (P)*,28.386537635562856,70.2088913356026,Combined,Punjab,2,2,902,735
-216,Govt. Boys Primary School Chak No.22/NP Sadiq Abad  (P)*,28.386717942320058,70.02342177366846,Combined,Punjab,2,1,1090,598
-185,Govt. Boys Primary School Haq Farm  (P)*,28.386885714209374,69.96604497280836,Combined,Punjab,2,1,1115,588
-215,Govt. Girls Primary School Mahinwal Wasa Sadiq Abad  (P)*,28.389037750763322,70.07206935498226,Combined,Punjab,2,1,1006,611
-218,Govt. Boys Primary School Chak No. 21/NP Sadiq Abad (P)*,28.389891092472627,70.06268458060218,Combined,Punjab,2,2,1181,713
-192,Govt. Boys Elementary School- Kacha Bhutta,28.39928364727065,70.01280311951203,Combined,Punjab,2,2,1256,879
-155,Govt. Boys Primary School Sanjar Mashaikh (P)*,28.39986003603309,70.13142286794414,Combined,Punjab,1,1,761,490
-151,Govt. Boys High School Mouza Roshan Bhait  (P)*,28.400818119484363,70.1743084241632,Combined,Punjab,1,1,703,587
-154,Govt. Boys English Medium Primary School- Chak No. 12/NP (P)*,28.401802612187122,70.11761203796198,Combined,Punjab,1,1,731,420
-150,Govt. Girls High School- Hameed Ullah Bhait (P)*,28.402573028573315,70.17596428675743,Combined,Punjab,2,2,1030,795
-104,Govt. Boys Primary/Elementary School Tibbi Laaran (P)*,28.403232074252152,70.26325459899647,Combined,Punjab,2,1,969,781
-214,Govt. Boys Primary School Kot Mehtab Sadiq Abad  (P)*,28.403524133965263,70.08338431802869,Combined,Punjab,2,1,1169,718
-184,Govt. Girls Primary School Jam Karam Mouza Shabbir Ahmed Abad (P)*,28.407750155129186,69.93539697211129,Combined,Punjab,1,1,660,523
-139,Govt. Boys Elementary School Ranjhay Khan,28.40821035055706,70.20142545279987,Combined,Punjab,2,2,985,759
-140,Govt. Boys Elementary School Ranjhay Khan,28.40821035055706,70.2014554527999,Combined,Punjab,2,1,892,698
-142,Govt. Boys Primary School Kotla Mohana No.1 Sadiq Abad  (Male),28.41299347593141,70.23000911215806,Male,Punjab,3,0,1655,0
-143,Govt. Boys Primary School Kotla Mohana No.1 Sadiq Abad  (Female),28.41299347593141,70.2300391121581,Female,Punjab,0,2,0,1246
-194,Govt. Girls Primary School- Basti Ghulam Muhammad Chak No. 17/NP (P)*,28.416036178335673,69.98715729813338,Combined,Punjab,1,1,582,319
-123,Govt. Girls Elementary School Muhammad Pur Lamma- Sadiq Abad  (P)*,28.417417377280387,70.1426171643641,Combined,Punjab,2,2,790,737
-138,Govt. Boys Primary School Chak No. 04/NP (P)*,28.419344238191055,70.18176423774263,Combined,Punjab,2,1,712,511
-212,Govt. Boys High School Muhammad Nawaz Wasa Sadiq Abad (P-I) (P)*,28.420670426090496,70.07812510001831,Combined,Punjab,2,1,1010,684
-213,Govt. Boys High School Muhammad Nawaz Wasa Sadiq Abad (P-II) (P)*,28.420670426090496,70.0781551000183,Combined,Punjab,2,2,976,697
-196,Govt. Model Primary School Chak No. 20/NP (P)*,28.422259895901277,70.06706875634102,Combined,Punjab,1,1,606,392
-195,Govt. Boys Primary School- Basti Drighra (P)*,28.42243115750934,70.04798753068619,Combined,Punjab,2,1,942,669
-186,Govt. Girls Primary School Mouza Qadir Pur (P)*,28.424958273894518,69.97836542113474,Combined,Punjab,1,1,502,281
-102,Govt. Girls Secondary School Chak 72/NP  High Portion (Male) (P)*,28.42593460309568,70.26567318275877,Male,Punjab,4,0,1805,0
-103,Govt. Girls Secondary School Chak 72/NP  Primary Portion (Female) (P)*,28.42593460309568,70.2657031827588,Female,Punjab,0,3,0,1472
-132,Govt. Boys Primary School Dera Hassan Abad Mouza Kikri (P)*,28.426557851324862,70.16490657413036,Combined,Punjab,2,2,1395,1051
-189,Govt. Boys High School- Miray Shah (P)*,28.427284816444935,69.99676641552811,Combined,Punjab,2,1,961,763
-130,Govt. Boys Primary School Kikri  (Male),28.432881391691698,70.17661343584803,Male,Punjab,2,0,802,0
-131,Govt. Boys Primary School Kikri  (Female),28.432881391691698,70.176643435848,Female,Punjab,0,1,0,614
-198,Govt. Girls Elementary School Shehbaz Pur (P)*,28.43392406370937,70.03214214618993,Combined,Punjab,1,1,438,288
-197,Govt. Boys Elementary School Shehbaz Pur  (P)*,28.4356780491679,70.02620728777782,Combined,Punjab,2,1,790,515
-133,Govt. Boys Primary School- Chak No. 2/NP Basti Siyalan (P)*,28.436985112032986,70.15125575347592,Combined,Punjab,1,1,236,148
-135,Govt. Girls Primary School Basti Bahadar Pur Near Eid Gah (P)*,28.43855416652733,70.20956810722956,Combined,Punjab,1,1,529,314
-134,Govt. Boys Higher Secondary School Bahadur Pur  (P)*,28.440517527837812,70.21821940104748,Combined,Punjab,2,1,842,611
-136,Govt. Boys Higher Secondary School Bahadur Pur (P)*,28.440517527837812,70.2182494010475,Combined,Punjab,2,2,1015,863
-188,Govt. Boys Primary School Chak No. 18/NP (P)*,28.440969481153598,70.01014011007435,Combined,Punjab,1,1,296,154
-99,Govt. Boys Primary School Chak No.71/NP (P)*,28.441322265856986,70.27136196274225,Combined,Punjab,1,1,579,675
-182,Govt. Boys Primary School Ghulam Ahmed Abad Sadiq Abad  (Male),28.441815768194285,69.97383631408843,Male,Punjab,3,0,1590,0
-183,Govt. Boys Primary School Ghulam Ahmed Abad Sadiq Abad  (Female),28.441815768194285,69.9738663140884,Female,Punjab,0,2,0,1130
-64,Govt. Girls Elementary School Maalik Pur (Male)  (P)*,28.442483064225947,70.23752171613688,Male,Punjab,3,0,1491,0
-65,Govt. Girls Elementary School Maalik Pur (Female)  (P)*,28.442483064225947,70.2375517161369,Female,Punjab,0,2,0,985
-66,Govt. Boys Primary School Maalik Pur,28.44309,70.23822,Combined,Punjab,2,1,990,665
-111,Govt. Boys High(Secondary) School Chak No.99/P (Male)  (P)*,28.44340795977254,70.37709677316435,Male,Punjab,4,0,1820,0
-62,Govt. Girls Primary School Aziz Colony (Male)  (P)*,28.4439190337111,70.22301761673518,Male,Punjab,2,0,1263,0
-63,Govt. Girls Primary School Aziz Colony (Female)  (P)*,28.4439190337111,70.2230476167352,Female,Punjab,0,2,0,930
-190,Govt. Girls Primary School Piran  Bhutta  (P)*,28.444800167647898,69.99164034978236,Combined,Punjab,2,1,946,647
-112,Govt. Girls Elementary (Higher Secondary)School Chak No.99/P (Female)  (P)*,28.445343565788104,70.37705973588301,Female,Punjab,0,3,0,1447
-191,Govt. Boys Primary School Basti Wanga (P)*,28.446961894777232,70.0038823000372,Combined,Punjab,1,1,727,423
-124,Govt. Boys Elementary School Kot Faqira Sadiq Abad (P-I),28.44802344938216,70.12713120782435,Combined,Punjab,2,2,947,697
-125,Govt. Boys Elementary School Kot Faqira Sadiq Abad (P-II) (Male),28.44802344938216,70.1271612078243,Male,Punjab,2,0,1168,0
-129,Govt.Girls Elementary School Kotla Hayat Basti Syed Talib Hussain (Female),28.449958075605213,70.15143412950337,Female,Punjab,0,2,0,915
-128,Govt. Boys High School Kotla Hayat Basti Syed Talib Hussain (Male),28.450012972941327,70.15175512358036,Male,Punjab,2,0,1422,0
-101,Govt. Boys Elementary School (Ahmad Nagar)Thalwari  (Female)  (P)*,28.450994085213964,70.28259985323984,Female,Punjab,0,2,0,1149
-127,Govt. Boys Primary School- Chak No. 1/NP (P)*,28.452344087781157,70.20106017472644,Combined,Punjab,1,1,410,279
-187,Govt. Girls Primary School- Basti Jhullan Mouza Miray Shah  (P)*,28.45466,70.02296,Combined,Punjab,1,1,630,517
-98,Govt. Boys Primary School Wahi Shah Muhammad,28.454862246430594,70.24786872456502,Combined,Punjab,2,2,1264,973
-200,Govt. Boys Primary School Chak No. 15/NP (P)*,28.45522648183994,70.05765958167645,Combined,Punjab,1,1,491,288
-206,Govt. Girls Elementary School Bhutta Wahan- Sadiqabad (Female),28.46233,70.10764,Female,Punjab,0,2,0,973
-208,Govt. Girls Elementary School Bhutta Wahan- Sadiqabad (Female),28.46233,70.10767,Female,Punjab,0,2,0,901
-137,Govt. Boys Primary School Basti Shah Kot (P)*,28.462360417942538,70.18648380338864,Combined,Punjab,2,1,725,528
-205,Govt. Boys High School Bhutta  Wahan Sadiq Abad (P-I) (Male),28.465124562393452,70.10184864620375,Male,Punjab,3,0,1449,0
-207,Govt. Boys High School Bhutta  Wahan Sadiq Abad (P-II) (Male),28.465124562393452,70.1018786462037,Male,Punjab,2,0,1281,0
-96,Govt. Boys Primary School Kot Habib Shah (Male),28.468687714532937,70.25864181541796,Male,Punjab,3,0,1583,0
-97,Govt. Girls Primary School Kot Habib Shah (Female),28.46907,70.26091,Female,Punjab,0,2,0,1187
-201,Govt. Model Primary School Azam pur Sadiq Abad  (P)*,28.471488768456133,70.02213394732688,Combined,Punjab,1,1,442,267
-202,Govt. Model Primary School Azam pur Sadiq Abad  (P)*,28.471488768456133,70.0221639473269,Combined,Punjab,1,1,620,477
-199,Govt. Boys Primary School- Basti Shahab Din- Garhi Bela (P)*,28.47165502139341,70.06821749890997,Combined,Punjab,1,1,645,379
-57,Govt. Boys Primary School Basti Allah Wasaya (P)*,28.478914818202988,70.16498530012618,Combined,Punjab,2,1,806,483
-67,Govt. Boys Secondary School Adam Wali  Akram Abad (Male)  (P)*,28.479341775086418,70.22359725108201,Male,Punjab,4,0,1901,0
-179,Govt. Boys Primary School Said Pur,28.480300679764053,69.9906833594778,Combined,Punjab,2,2,1218,826
-209,Govt. Boys Primary School Mian Saadi Sultan,28.482908477924006,70.12454904726158,Combined,Punjab,2,2,1176,795
-158,Govt. Girls Primary School Moulvi Abdul Rehman Pir Fateh Darya  (Male),28.487898320126654,70.13396645048104,Male,Punjab,2,0,1276,0
-210,Govt. Boys P/S English Medium School- Wahi Ghulam Ali Mouza Rasool Pur (P)*,28.493921605648335,70.13480163823861,Combined,Punjab,2,1,813,635
-60,Govt. Girls Primary School Ali Pur Machhian (P)*,28.49413528235248,70.2106630368954,Combined,Punjab,2,1,959,622
-180,Govt. Boys Primary School Muhammad Murad Dahar Sadiq Abad  (Male),28.49537700488167,69.98184926906436,Male,Punjab,2,0,1308,0
-181,Govt. Boys Primary School Muhammad Murad Dahar Sadiq Abad  (Female),28.49537700488167,69.9818792690644,Female,Punjab,0,2,0,884
-211,Govt. Boys Primary School Haji Fateh Muhammad Mouza Rasool Pur Sadiq Abad  (P)*,28.49752712857642,70.13328419059395,Combined,Punjab,1,1,649,498
-55,Govt. Boys Primary School Qadir Abad (Male),28.504206496204024,70.17088868314093,Male,Punjab,2,0,1273,0
-56,Govt. Boys Primary School Qadir Abad (Female),28.504206496204024,70.1709186831409,Female,Punjab,0,2,0,728
-58,Govt. Boys Primary School Bahudi Pur Machhian (P)*,28.504377687593465,70.19161805270988,Combined,Punjab,2,2,888,777
-59,Govt. Boys Primary School Bahudi Pur Machhian (P)*,28.504377687593465,70.1916480527099,Combined,Punjab,1,1,710,598
-90,Govt. Boys Elementary School Chak Abbas Middle Portion (Male),28.504811738630288,70.30729469497584,Male,Punjab,3,0,1580,0
-91,Govt. Boys Elementary School Chak Abbas Primary Portion  (Female),28.504811738630288,70.3073246949758,Female,Punjab,0,2,0,1297
-92,Govt. Girls Primary School Chak Abbas,28.5055,70.30469,Combined,Punjab,2,1,783,625
-86,Govt. Boys Primary School Quba Lal Pir  (P)*,28.50619,70.35336,Combined,Punjab,2,1,868,636
-74,Govt. Boys High (Higher Secondary) School  Taj Garh High Portion (Male)  (P)*,28.508658656820018,70.26314865931609,Male,Punjab,4,0,1946,0
-75,Govt. Boys High  (Higher Secondary)School  Taj Garh Middle Portion (Female)  (P)*,28.508658656820018,70.2631786593161,Female,Punjab,0,2,0,1391
-45,Union Council Office Badli Sharif (Male),28.50998177920851,70.22639747678924,Male,Punjab,3,0,1748,0
-69,Govt. Boys Elementary School Basti Maulvian  (Male),28.510562171805596,70.22606339601029,Male,Punjab,4,0,1705,0
-71,Govt. Boys Elementary School Basti Maulvian,28.510562171805596,70.2260933960103,Combined,Punjab,1,1,683,531
-176,Govt. Boys Primary School Iqbal Nagar (Male),28.51062334798648,70.0191501023825,Male,Punjab,3,0,1489,0
-177,Govt. Boys Primary School Iqbal Nagar (Female),28.51062334798648,70.0191801023825,Female,Punjab,0,2,0,1044
-87,Govt. Boys Primary School Surailee (P)*,28.51185546478422,70.35275710543843,Combined,Punjab,2,2,943,686
-162,Govt. Boys Higher Secondary School Jamal Din Wali Sadiq Abad (P-I) Primary Portion (P)*,28.51306826588104,70.05071732901472,Combined,Punjab,1,1,772,604
-163,Govt. Boys Higher Secondary School Jamal Din Wali Sadiq Abad (P-II) High Portion (Male),28.51306826588104,70.0507473290147,Male,Punjab,2,0,1124,0
-167,Govt. Boys Higher Secondary School Jamal Din Wali Sadiq Abad (P-III) (Male),28.51306826588104,70.0507773290147,Male,Punjab,2,0,1215,0
-168,Govt. Boys Higher Secondary School Jamal Din Wali Sadiq Abad (P-IV) (Female),28.51306826588104,70.0508073290147,Female,Punjab,0,2,0,954
-72,Govt. Girls High School Fateh Pur Araian (Male)  (P)*,28.514080212993605,70.24951316533611,Male,Punjab,4,0,1793,0
-73,Govt. Girls High School Fateh Pur Araian (Female)  (P)*,28.514080212993605,70.2495431653361,Female,Punjab,0,3,0,1475
-164,Govt. Girls High School Jamal Din Wali (Female),28.51446954099172,70.05033871582638,Female,Punjab,0,2,0,945
-169,Govt. Girls High School- Jamal Din Wali (Male),28.51446954099172,70.0503687158264,Male,Punjab,2,0,1136,0
-170,Govt. Girls High School- Jamal Din Wali (Female),28.51446954099172,70.0503987158264,Female,Punjab,0,2,0,827
-203,Govt. Boys Elementary School- Basti Laaran- Sadiqabad  (Male),28.517997848547363,70.07120446123913,Male,Punjab,3,0,1371,0
-204,Govt. Boys Elementary School- Basti Laaran- Sadiqabad  (Female),28.517997848547363,70.0712344612391,Female,Punjab,0,2,0,1041
-88,Govt. Boys Primary School Kot Qutab (Male),28.51862744295363,70.31979990646681,Male,Punjab,2,0,1358,0
-156,Govt. Boys High School pir Bakhsh Punjabi Sadiq Abad  (P)*,28.518879786943856,70.13418493327006,Combined,Punjab,1,1,726,590
-173,Govt. Boys Primary School Dera- Mouza  Nazar Muhammad Jhullan (P)*,28.519438161481272,69.9877416776717,Combined,Punjab,2,2,979,720
-174,Govt. Boys Primary School Dera- Mouza  Nazar Muhammad Jhullan (P)*,28.519438161481272,69.9877716776717,Combined,Punjab,2,1,762,565
-157,Govt. Girls Elementary School Pir Bakhsh,28.520448021508813,70.1314154108048,Combined,Punjab,2,2,1159,864
-165,Govt. Girls Elementary School Basti Shah Pur Mouza Jamal Din Wali (Male)  (P)*,28.52162576581548,70.04360338735091,Male,Punjab,3,0,1589,0
-166,Govt. Girls Elementary School Basti Shah Pur Mouza Jamal Din Wali (Female)  (P)*,28.52162576581548,70.0436333873509,Female,Punjab,0,2,0,1312
-107,Govt. Boys Primary School Kot Zulifqar (P)*,28.524432416821842,70.396108292248,Combined,Punjab,1,1,711,507
-160,Govt. Boys High School Roti Sharif (Male),28.527457446767134,70.08545419138966,Male,Punjab,4,0,1996,0
-85,Govt. Boys Primary School Basti Qayem pur Mehran  (P)*,28.528011235743453,70.34096041904506,Combined,Punjab,2,2,908,767
-105,Govt. Boys High (Secondary)School Mao Mubarak (Male)  (P)*,28.52905748639627,70.36519146680381,Male,Punjab,3,0,1477,0
-94,Govt. Boys Primary School Mehmood Abad (Female),28.52983,70.28734,Female,Punjab,0,2,0,992
-54,Govt. Girls Primary School Pir Wali Muhammad Sultan,28.531267976778505,70.16816896060828,Combined,Punjab,2,2,1143,919
-93,Govt. Girls High (Secondary) School Mehmood Abad (Male),28.531433224497597,70.28154386691514,Male,Punjab,2,0,1360,0
-110,Govt. Boys Primary School Wahi Jumman Shah,28.5371941968751,70.43867950384508,Combined,Punjab,2,1,826,695
-46,Govt. Boys Primary School Basti Gujran (Female),28.5424,70.23115,Female,Punjab,0,2,0,1253
-52,Govt. Boys Elementary School Pir Abdul Malik (Male),28.54250855597759,70.14128017267815,Male,Punjab,4,0,1754,0
-53,Govt. Boys Elementary School Pir Abdul Malik (Female),28.54250855597759,70.1413101726781,Female,Punjab,0,2,0,1234
-44,Govt. Boys Primary School Murad Pur Panwaran Kot Mehdi Shah,28.545510039245862,70.24881828623337,Combined,Punjab,2,2,1216,938
-242,Govt.Girls Primery School Basti Jahangir Mouza Sheikh Bhakar (Female) (P)*,28.54735348295401,70.0705027662378,Female,Punjab,0,2,0,828
-81,Govt. Boys High (Secondary)School Abdullah Pur  (Male)  (P)*,28.548927472074773,70.31076196887793,Male,Punjab,4,0,1662,0
-50,Govt. Girls Elementary School Badli Sharif (Female),28.54962,70.19186,Female,Punjab,0,2,0,1410
-49,Govt. Boys High School Badli Sharif High Portion (Male),28.549720072420698,70.19151635176934,Male,Punjab,3,0,1787,0
-51,Govt. Boys High School Badli Sharif Middle Portion,28.549720072420698,70.1915463517693,Combined,Punjab,2,2,949,778
-171,Govt. Boys Primary School Kot Ghulam Meeran Shah Sadiq Abad  (Male),28.550827684679398,70.02121574677378,Male,Punjab,2,0,1235,0
-47,Govt. Girls Primary School Pir Bhura Sultan (Male),28.553072528611644,70.20024003041807,Male,Punjab,3,0,1479,0
-48,Govt. Girls Primary School Pir Bhura Sultan (Female),28.553072528611644,70.2002700304181,Female,Punjab,0,2,0,1333
-108,Govt. Girls Primary School Chak No. 83/NP,28.55886,70.40933,Combined,Punjab,2,2,1171,923
-78,Govt. Girls Elementary School Dera Shammas  Middle Portion (Male)  (P)*,28.55984805893822,70.28263411509415,Male,Punjab,3,0,1513,0
-79,Govt. Girls Elementary School Dera Shammas Primary Portion (Female)  (P)*,28.55984805893822,70.2826641150942,Female,Punjab,0,2,0,1081
-11,Govt. Girls Primary School Bangla Shareen,28.56037116477162,70.0994808757365,Combined,Punjab,2,1,906,652
-76,Govt. Boys High (Secondary)School Dera Shammas (Male)  (P)*,28.56099600218241,70.28322975789709,Male,Punjab,4,0,1628,0
-77,Govt. Boys High (Secondary)School Dera Shammas (Female)  (P)*,28.56099600218241,70.2832597578971,Female,Punjab,0,2,0,1309
-12,Govt. Boys Primary School Bangla Shareen  (P)*,28.56189220082425,70.09915786367938,Combined,Punjab,2,1,804,612
-38,Govt. Boys Primary School Bhutta Kot (Male)  (P)*,28.562985747429515,70.25913638808905,Male,Punjab,3,0,1559,0
-10,Govt. Boys Primary School Jind Wadda Dahar (Female) (P)*,28.564802568204275,70.12436878993375,Female,Punjab,0,3,0,1569
-9,Govt. Boys Primary School Jind Wadda Dahar (Male)  (P)*,28.564802568204275,70.1243987899338,Male,Punjab,4,0,1860,0
-43,Govt. Girls Primary School Tibb Chauhan (Female),28.56735,70.23399,Female,Punjab,0,2,0,1162
-82,Govt. Girls High (Secondary)School Abdullah Pur  (Female)  (P)*,28.56841,70.28976,Female,Punjab,0,2,0,1283
-32,Govt. Boys Primary School Qaisar Chauhan (Male)  (P)*,28.569101397596494,70.20073776593142,Male,Punjab,4,0,2072,0
-42,Govt. Boys Primary School Tibb Chauhan (Male),28.569185744361615,70.23349015613445,Male,Punjab,3,0,1496,0
-34,Govt. Boys Primary School Fazal Abad (Rajan Pur Kallan)(P)*,28.571060902258225,70.16817515582474,Combined,Punjab,2,1,1021,645
-83,Govt. Boys Primary School Bulaqi Wali,28.576420779176814,70.33560586019415,Combined,Punjab,2,2,1003,822
-40,Union Council Office Murtaza Abad (Male),28.57886909083932,70.26011934252787,Male,Punjab,3,0,1486,0
-41,Govt. Primary School Passan Wali Murtaza Abad (Female),28.58088,70.26052,Female,Punjab,0,2,0,1022
-37,Govt. Boys Primary School Taj Pur Mureed Wala,28.58562060473919,70.2996374396333,Combined,Punjab,2,2,1196,834
-109,Govt. Boys Primary School Yousuf Nagar,28.585901528277372,70.43664763870765,Combined,Punjab,2,1,1088,860
-7,Govt. Boys Primary School Dera Dahran (Male)  (P)*,28.587394041379696,70.12937393082775,Male,Punjab,3,0,1549,0
-8,Govt. Boys Primary School Dera Dahran (Female)  (P)*,28.587394041379696,70.1294039308277,Female,Punjab,0,2,0,1129
-13,Govt. Boys Elementary School Kot Karam Khan (Male)  (P)*,28.587593281443983,70.14051681503592,Male,Punjab,2,0,992,0
-14,Govt. Boys Elementary School Kot Karam Khan (Female)  (P)*,28.587593281443983,70.1405468150359,Female,Punjab,0,2,0,834
-17,Govt. Girls Primary School Kot Karam Khan (P)*,28.588645122260974,70.14497430645692,Combined,Punjab,2,1,883,650
-15,Govt. Boys Primary School Ahmed Wah Near Pul Khedo (Male)  (P)*,28.600383582078123,70.12375288732424,Male,Punjab,2,0,1279,0
-16,Govt. Boys Primary School Ahmed Wah Near Pul Khedo (Female)  (P)*,28.600383582078123,70.1237828873242,Female,Punjab,0,2,0,978
-28,Govt. Boys Primary School Anwar Abad Mouza Kurhman Singh (Male)  (P)*,28.601482678124878,70.23133920285045,Male,Punjab,2,0,1194,0
-31,Govt. Girls Elementary School- Sher Abad (Female)  (P)*,28.601482678124878,70.2313692028504,Female,Punjab,0,2,0,697
-4,Govt. Boys High School Rajan Pur Kalan,28.60316450106866,70.20601976311703,Combined,Punjab,2,2,1301,877
-6,Govt. Boys High School Rajan Pur Kalan Primary Portion,28.60316450106866,70.206049763117,Combined,Punjab,2,2,1082,775
-1,Govt. Boys High School Hassan Abad (Rajan Pur Khurd) (Male),28.603167975614163,70.20599701668758,Male,Punjab,3,0,1414,0
-2,Govt. Boys High School Hassan Abad (Rajan Pur Khurd) (Female),28.603167975614163,70.2060270166876,Female,Punjab,0,2,0,925
-5,Govt. Girls High School Rajan Pur Kallan Primary Portion,28.604402780618056,70.17922745471327,Combined,Punjab,2,1,732,435
-30,Govt. Masjid Maktab School Dera Sher Muhammad (Male)  (P)*,28.60513147617626,70.23751229073785,Male,Punjab,2,0,1109,0
-21,Govt. Boys Elementary School Makhan Bela (Male),28.613566237198537,70.1468004134275,Male,Punjab,2,0,1207,0
-22,Govt. Boys Elementary School Makhan Bela (Female),28.613566237198537,70.1468304134275,Female,Punjab,0,2,0,940
-19,Govt. Boys Primary School Muslim Abad  (Male),28.6216942667084,70.1257774055954,Male,Punjab,2,0,1259,0
-20,Govt. Boys Primary School Muslim Abad  (Female),28.6216942667084,70.1258074055954,Female,Punjab,0,2,0,983
-80,Govt. Girls Primary School Basti Karim Bakhsh Chandia,28.624917972175353,70.16581587552389,Combined,Punjab,1,1,625,469
-25,Govt. Boys Primary School Pahoran (Male)  (P)*,28.629359100128354,70.1870561188491,Male,Punjab,2,0,1313,0
-26,Govt. Boys Primary School Pahoran (Female)  (P)*,28.629359100128354,70.1870861188491,Female,Punjab,0,2,0,791
-27,Govt. Boys Primary School Rasool Pur,28.63774447447361,70.1531914427738,Combined,Punjab,2,2,1171,809
-23,Govt. Boys Primary School Mud Manthar (Male),28.638870877945124,70.19363628275855,Male,Punjab,2,0,1275,0
-18,Govt. Boys Primary School Kacha Mahazi (P)*,28.654216453054577,70.14362701472677,Combined,Punjab,2,1,836,604
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 257 - Govt. Boys High School Sanjar Pur Nao (Male)  (P)*,28.24721014844251,69.97915692700336,Male,Punjab,4,0,1835,0
+ 259 - Govt. Boys High School- Sanjar Pur Nao (Male)  (P)*,28.24721014844251,69.9791869270034,Male,Punjab,2,0,1317,0
+ 261 - Govt. Boys High School- Sanjar Pur Nao,28.24721014844251,69.9792169270034,Combined,Punjab,2,1,770,576
+ 265 - Govt. Boys Primary School Basti Rais Mouza Baig Mahar (P)*,28.248192045270628,70.00692504750675,Combined,Punjab,2,1,849,620
+ 258 - Govt. Girls High School Sanjar Pur Nao (Female)  (P)*,28.2491546,69.9754107,Female,Punjab,0,2,0,1399
+ 260 - Govt. Girls High School Sanjar Pur Nao (Female)  (P)*,28.2491546,69.9754407,Female,Punjab,0,2,0,1035
+ 262 - Govt. Girls High School Sanjar Pur Nao,28.2491546,69.9754707,Combined,Punjab,2,1,835,661
+ 255 - Union Council Office Sanjar Pur Nao (Male)  (P)*,28.249883971421408,69.97452352423481,Male,Punjab,3,0,1435,0
+ 256 - Union Council Office- Sanjar Pur Nao (P-II) (Female)  (P)*,28.249883971421408,69.9745535242348,Female,Punjab,0,2,0,979
+ 264 - Govt.Model Primary School Muhammad Ali Arain (P)*,28.257561192614194,70.00676881657391,Combined,Punjab,2,1,791,573
+ 263 - Govt. Boys Primary School Chak No.  32/NP Gharbi Sadiqabad  (P)*,28.264507185449673,69.98569504156849,Combined,Punjab,1,1,477,374
+ 250 - Govt. Boys Primary School Chak 29/NP (P)*,28.26582,70.01967,Combined,Punjab,2,1,914,648
+ 253 - Govt. Boys High School- Basti Walana (Part-I) (P)*,28.271172431484928,70.01509076769688,Combined,Punjab,1,1,641,565
+ 254 - Govt. Boys High School- Basti Walana (Part-II) (P)*,28.271172431484928,70.0151207676969,Combined,Punjab,2,2,880,788
+ 232 - Govt. Boys Primary School- Chak No. 28/NP (P)*,28.280862248200666,70.03840257180818,Combined,Punjab,1,1,517,409
+ 251 - Govt. Boys Primary School- Chak No.  30/NP (P)*,28.301663027063473,70.0130153066738,Combined,Punjab,1,1,609,381
+ 230 - Govt. Boys Primary School No. 1- Wahid Bakhsh Mahar Sadiq Abad (Male),28.307268565603934,70.08790530461837,Male,Punjab,4,0,1839,0
+ 231 - Govt. Boys Primary School No. 1- Wahid Bakhsh Mahar Sadiq Abad (Female),28.307268565603934,70.0879353046184,Female,Punjab,0,3,0,1394
+ 237 - Govt.Girls Primary School Dera Ghulam Haider-Haider Colony (Male),28.30919,70.10994,Male,Punjab,2,0,1656,0
+ 238 - Govt.Girls Primary School Dera Ghulam Haider-Haider Colony (Female),28.30919,70.10997,Female,Punjab,0,2,0,1165
+ 252 - Govt. Boys Primary School- Basti Faqir Mahar Din Mouza Bhamba Shaheed (P)*,28.30999402750726,70.03103883822979,Combined,Punjab,1,1,592,323
+ 235 - Govt.Girls Primary School Mahboob Subhani Awami Colony (Male),28.311,70.10846,Male,Punjab,4,0,1817,0
+ 236 - Govt.Girls Primary School Mahboob Subhani Awami Colony (Female),28.311,70.10849,Female,Punjab,0,2,0,1291
+ 233 - Govt.Girls Primary School Dera Khalid Shahzad Habib Colony Chak No.10/NP (Male),28.31519,70.09383,Male,Punjab,4,0,1555,0
+ 234 - Govt.Girls Primary School Dera Khalid Shahzad Habib Colony Chak No.10/NP (Female),28.31519,70.09386,Female,Punjab,0,2,0,1124
+ 244 - Govt. Girls Primary School- Chak No.  31/NP (P)*,28.31543,69.99712,Combined,Punjab,1,1,449,309
+ 120 - Office of Union Council 7/G Town Commitee-Ahmed Pur Lamma (P)*,28.31709550654496,70.05932143086977,Combined,Punjab,1,1,596,496
+ 115 - Union Council Office Ahmed Pur Lamma  Deh-No.29 Sadiq Abad,28.317899772360178,70.05702074871394,Combined,Punjab,2,2,1134,839
+ 116 - Govt. Boys High School Ahmed Pur Lamma Sadiq Abad (High Portion) (Male),28.318565712109976,70.0553570935089,Male,Punjab,3,0,1595,0
+ 118 - Govt. Boys High School- Ahmed Pur Lamma (Middle Portion) (Male),28.318565712109976,70.0553870935089,Male,Punjab,4,0,1869,0
+ 121 - Govt. Boys High School Muhammad Pur Lamma- Sadiq Abad  (Male),28.318565712109976,70.0554170935089,Male,Punjab,2,0,1264,0
+ 122 - Govt. Boys High School Muhammad Pur Lamma- Sadiq Abad  (Female),28.318565712109976,70.0554470935089,Female,Punjab,0,2,0,947
+ 224 - Govt. Boys High School Ahmed Pur Lamma Sadiq Abad,28.318570121045433,70.05537974528605,Combined,Punjab,2,2,1125,699
+ 117 - Govt. Girls High School Ahmed Pur Lamma Sadiq Abad (High Portion) (Female),28.319548769248232,70.05336458409434,Female,Punjab,0,2,0,1282
+ 119 - Govt. Girls High School Ahmed Pur Lamma Sadiq Abad (Middle Portion) (Female),28.319548769248232,70.0533945840943,Female,Punjab,0,3,0,1479
+ 114 - Govt. Boys Rafique Middle School- Ahmed Pur Lamma (Female),28.320021336071562,70.05148978679064,Female,Punjab,0,3,0,1347
+ 227 - Govt. Boys Elementary School (Low Income Scheme)Sadiq Abad (P 1)*,28.321846426524395,70.12133238843579,Combined,Punjab,2,2,1073,882
+ 228 - Govt. Boys Elementary School  (P-II) (Low Income Scheme)Sadiq Abad (Male),28.321846426524395,70.1213623884358,Male,Punjab,2,0,1276,0
+ 229 - Govt. Boys Elementary School Low Income Scheme (Female),28.321846426524395,70.1213923884358,Female,Punjab,0,2,0,948
+ 247 - Govt. Girls Primary School- Rajiri (P)*,28.338021969370885,70.01393542615983,Combined,Punjab,2,1,981,578
+ 240 - Govt. Masjid Maktab School- Chak No. 9/NP,28.33834,70.12167,Combined,Punjab,2,1,1073,852
+ 248 - Govt. Boys Elementary School- Dinu Shah (Male),28.33922,69.9707,Male,Punjab,3,0,1512,0
+ 249 - Govt. Girls Primary School Dinu Shah (Female),28.33922,69.97073,Female,Punjab,0,2,0,913
+ 241 - Govt. Boys Elementary School Chak No. 25/NP Sadiq Abad,28.340972281941095,70.0629429262827,Combined,Punjab,2,2,1083,777
+ 239 - Govt. Boys Elementary School Chak No. 26/NP Sadiq Abad  (P)*,28.349745953980875,70.10373184791365,Combined,Punjab,2,1,726,518
+ 221 - Govt. Boys Primary School Chak No. 23/NP (P)*,28.360741613063993,70.06749998724196,Combined,Punjab,1,1,468,305
+ 152 - Govt. Girls Elementary School Chak No.7/NP Sadiq Abad  (P)*,28.362188057642932,70.1429749007724,Combined,Punjab,2,2,934,790
+ 225 - Govt. Boys Primary School Chak No.11/NP Sadiq Abad  (P)*,28.36366076608376,70.10257733577856,Combined,Punjab,1,1,506,369
+ 245 - Govt. Girls Elementary School Mitha Dandam (Male),28.363741292044025,70.0177456107294,Male,Punjab,2,0,1417,0
+ 246 - Govt. Girls Elementary School Mitha Dandam (Female),28.363741292044025,70.0177756107294,Female,Punjab,0,2,0,961
+ 226 - Govt. Girls High School Chak No. 11/NP Sadiq Abad,28.36384,70.10368,Combined,Punjab,2,1,920,648
+ 148 - Govt. Boys Elementary School Umaid Ali Bhait  Sadiq Abad  (P)*,28.365329519836774,70.15551620221315,Combined,Punjab,2,2,875,714
+ 149 - Govt. Boys Elementary School Umaid Ali Bhait  Sadiq Abad  (P)*,28.365329519836774,70.1555462022131,Combined,Punjab,2,2,874,727
+ 219 - Govt. Boys Primary School Ali Mardan  Sadiq Abad (Male),28.366712353107236,70.04118666300911,Male,Punjab,3,0,1707,0
+ 220 - Govt. Boys Primary School Ali Murdan  Sadiq Abad (Female),28.366712353107236,70.0412166630091,Female,Punjab,0,2,0,1052
+ 144 - Govt. Boys Primary School Station Adam Sahaba Mouza Rahmun,28.36775331939565,70.23322292767986,Combined,Punjab,2,2,1144,843
+ 145 - Govt. Girls Elementary School Malik Wahid Bux Machhi- Basti Nazar Muhammad Mouza Rahmun,28.369670557340697,70.2414525395373,Combined,Punjab,2,2,1126,809
+ 222 - Govt. Boys E/S- Chak No. 24/NP Sadiq Abad  (Male),28.37273854118497,70.0921926503206,Male,Punjab,2,0,1224,0
+ 223 - Govt. Girls Primary School Chak No. 24/NP (Female),28.37368,70.09079,Female,Punjab,0,2,0,872
+ 217 - Govt. Boys Primary School Basti Muhammad Nawaz Mouza Jam Wasa Sadiq Abad  (P)*,28.37831674609712,70.11843582204192,Combined,Punjab,2,1,937,609
+ 147 - Govt. Girls Primary School Chak No. 5/NP (P)*,28.38071219907447,70.17699873246013,Combined,Punjab,1,1,419,308
+ 193 - Govt. Masjid Maktib School- Jam Gabol Basti Haji Rahmat Ullah Chak No. 19/NP (P)*,28.383924630493603,70.00172313571261,Combined,Punjab,1,1,613,378
+ 146 - Govt. Boys Primary School- Kot Karim Bux (Basti Kot Siyal) (P)*,28.386537635562856,70.2088913356026,Combined,Punjab,2,2,902,735
+ 216 - Govt. Boys Primary School Chak No.22/NP Sadiq Abad  (P)*,28.386717942320058,70.02342177366846,Combined,Punjab,2,1,1090,598
+ 185 - Govt. Boys Primary School Haq Farm  (P)*,28.386885714209374,69.96604497280836,Combined,Punjab,2,1,1115,588
+ 215 - Govt. Girls Primary School Mahinwal Wasa Sadiq Abad  (P)*,28.389037750763322,70.07206935498226,Combined,Punjab,2,1,1006,611
+ 218 - Govt. Boys Primary School Chak No. 21/NP Sadiq Abad (P)*,28.389891092472627,70.06268458060218,Combined,Punjab,2,2,1181,713
+ 192 - Govt. Boys Elementary School- Kacha Bhutta,28.39928364727065,70.01280311951203,Combined,Punjab,2,2,1256,879
+ 155 - Govt. Boys Primary School Sanjar Mashaikh (P)*,28.39986003603309,70.13142286794414,Combined,Punjab,1,1,761,490
+ 151 - Govt. Boys High School Mouza Roshan Bhait  (P)*,28.400818119484363,70.1743084241632,Combined,Punjab,1,1,703,587
+ 154 - Govt. Boys English Medium Primary School- Chak No. 12/NP (P)*,28.401802612187122,70.11761203796198,Combined,Punjab,1,1,731,420
+ 150 - Govt. Girls High School- Hameed Ullah Bhait (P)*,28.402573028573315,70.17596428675743,Combined,Punjab,2,2,1030,795
+ 104 - Govt. Boys Primary/Elementary School Tibbi Laaran (P)*,28.403232074252152,70.26325459899647,Combined,Punjab,2,1,969,781
+ 214 - Govt. Boys Primary School Kot Mehtab Sadiq Abad  (P)*,28.403524133965263,70.08338431802869,Combined,Punjab,2,1,1169,718
+ 184 - Govt. Girls Primary School Jam Karam Mouza Shabbir Ahmed Abad (P)*,28.407750155129186,69.93539697211129,Combined,Punjab,1,1,660,523
+ 139 - Govt. Boys Elementary School Ranjhay Khan,28.40821035055706,70.20142545279987,Combined,Punjab,2,2,985,759
+ 140 - Govt. Boys Elementary School Ranjhay Khan,28.40821035055706,70.2014554527999,Combined,Punjab,2,1,892,698
+ 142 - Govt. Boys Primary School Kotla Mohana No.1 Sadiq Abad  (Male),28.41299347593141,70.23000911215806,Male,Punjab,3,0,1655,0
+ 143 - Govt. Boys Primary School Kotla Mohana No.1 Sadiq Abad  (Female),28.41299347593141,70.2300391121581,Female,Punjab,0,2,0,1246
+ 194 - Govt. Girls Primary School- Basti Ghulam Muhammad Chak No. 17/NP (P)*,28.416036178335673,69.98715729813338,Combined,Punjab,1,1,582,319
+ 123 - Govt. Girls Elementary School Muhammad Pur Lamma- Sadiq Abad  (P)*,28.417417377280387,70.1426171643641,Combined,Punjab,2,2,790,737
+ 138 - Govt. Boys Primary School Chak No. 04/NP (P)*,28.419344238191055,70.18176423774263,Combined,Punjab,2,1,712,511
+ 212 - Govt. Boys High School Muhammad Nawaz Wasa Sadiq Abad (P-I) (P)*,28.420670426090496,70.07812510001831,Combined,Punjab,2,1,1010,684
+ 213 - Govt. Boys High School Muhammad Nawaz Wasa Sadiq Abad (P-II) (P)*,28.420670426090496,70.0781551000183,Combined,Punjab,2,2,976,697
+ 196 - Govt. Model Primary School Chak No. 20/NP (P)*,28.422259895901277,70.06706875634102,Combined,Punjab,1,1,606,392
+ 195 - Govt. Boys Primary School- Basti Drighra (P)*,28.42243115750934,70.04798753068619,Combined,Punjab,2,1,942,669
+ 186 - Govt. Girls Primary School Mouza Qadir Pur (P)*,28.424958273894518,69.97836542113474,Combined,Punjab,1,1,502,281
+ 102 - Govt. Girls Secondary School Chak 72/NP  High Portion (Male) (P)*,28.42593460309568,70.26567318275877,Male,Punjab,4,0,1805,0
+ 103 - Govt. Girls Secondary School Chak 72/NP  Primary Portion (Female) (P)*,28.42593460309568,70.2657031827588,Female,Punjab,0,3,0,1472
+ 132 - Govt. Boys Primary School Dera Hassan Abad Mouza Kikri (P)*,28.426557851324862,70.16490657413036,Combined,Punjab,2,2,1395,1051
+ 189 - Govt. Boys High School- Miray Shah (P)*,28.427284816444935,69.99676641552811,Combined,Punjab,2,1,961,763
+ 130 - Govt. Boys Primary School Kikri  (Male),28.432881391691698,70.17661343584803,Male,Punjab,2,0,802,0
+ 131 - Govt. Boys Primary School Kikri  (Female),28.432881391691698,70.176643435848,Female,Punjab,0,1,0,614
+ 198 - Govt. Girls Elementary School Shehbaz Pur (P)*,28.43392406370937,70.03214214618993,Combined,Punjab,1,1,438,288
+ 197 - Govt. Boys Elementary School Shehbaz Pur  (P)*,28.4356780491679,70.02620728777782,Combined,Punjab,2,1,790,515
+ 133 - Govt. Boys Primary School- Chak No. 2/NP Basti Siyalan (P)*,28.436985112032986,70.15125575347592,Combined,Punjab,1,1,236,148
+ 135 - Govt. Girls Primary School Basti Bahadar Pur Near Eid Gah (P)*,28.43855416652733,70.20956810722956,Combined,Punjab,1,1,529,314
+ 134 - Govt. Boys Higher Secondary School Bahadur Pur  (P)*,28.440517527837812,70.21821940104748,Combined,Punjab,2,1,842,611
+ 136 - Govt. Boys Higher Secondary School Bahadur Pur (P)*,28.440517527837812,70.2182494010475,Combined,Punjab,2,2,1015,863
+ 188 - Govt. Boys Primary School Chak No. 18/NP (P)*,28.440969481153598,70.01014011007435,Combined,Punjab,1,1,296,154
+ 99 - Govt. Boys Primary School Chak No.71/NP (P)*,28.441322265856986,70.27136196274225,Combined,Punjab,1,1,579,675
+ 182 - Govt. Boys Primary School Ghulam Ahmed Abad Sadiq Abad  (Male),28.441815768194285,69.97383631408843,Male,Punjab,3,0,1590,0
+ 183 - Govt. Boys Primary School Ghulam Ahmed Abad Sadiq Abad  (Female),28.441815768194285,69.9738663140884,Female,Punjab,0,2,0,1130
+ 64 - Govt. Girls Elementary School Maalik Pur (Male)  (P)*,28.442483064225947,70.23752171613688,Male,Punjab,3,0,1491,0
+ 65 - Govt. Girls Elementary School Maalik Pur (Female)  (P)*,28.442483064225947,70.2375517161369,Female,Punjab,0,2,0,985
+ 66 - Govt. Boys Primary School Maalik Pur,28.44309,70.23822,Combined,Punjab,2,1,990,665
+ 111 - Govt. Boys High(Secondary) School Chak No.99/P (Male)  (P)*,28.44340795977254,70.37709677316435,Male,Punjab,4,0,1820,0
+ 62 - Govt. Girls Primary School Aziz Colony (Male)  (P)*,28.4439190337111,70.22301761673518,Male,Punjab,2,0,1263,0
+ 63 - Govt. Girls Primary School Aziz Colony (Female)  (P)*,28.4439190337111,70.2230476167352,Female,Punjab,0,2,0,930
+ 190 - Govt. Girls Primary School Piran  Bhutta  (P)*,28.444800167647898,69.99164034978236,Combined,Punjab,2,1,946,647
+ 112 - Govt. Girls Elementary (Higher Secondary)School Chak No.99/P (Female)  (P)*,28.445343565788104,70.37705973588301,Female,Punjab,0,3,0,1447
+ 191 - Govt. Boys Primary School Basti Wanga (P)*,28.446961894777232,70.0038823000372,Combined,Punjab,1,1,727,423
+ 124 - Govt. Boys Elementary School Kot Faqira Sadiq Abad (P-I),28.44802344938216,70.12713120782435,Combined,Punjab,2,2,947,697
+ 125 - Govt. Boys Elementary School Kot Faqira Sadiq Abad (P-II) (Male),28.44802344938216,70.1271612078243,Male,Punjab,2,0,1168,0
+ 129 - Govt.Girls Elementary School Kotla Hayat Basti Syed Talib Hussain (Female),28.449958075605213,70.15143412950337,Female,Punjab,0,2,0,915
+ 128 - Govt. Boys High School Kotla Hayat Basti Syed Talib Hussain (Male),28.450012972941327,70.15175512358036,Male,Punjab,2,0,1422,0
+ 101 - Govt. Boys Elementary School (Ahmad Nagar)Thalwari  (Female)  (P)*,28.450994085213964,70.28259985323984,Female,Punjab,0,2,0,1149
+ 127 - Govt. Boys Primary School- Chak No. 1/NP (P)*,28.452344087781157,70.20106017472644,Combined,Punjab,1,1,410,279
+ 187 - Govt. Girls Primary School- Basti Jhullan Mouza Miray Shah  (P)*,28.45466,70.02296,Combined,Punjab,1,1,630,517
+ 98 - Govt. Boys Primary School Wahi Shah Muhammad,28.454862246430594,70.24786872456502,Combined,Punjab,2,2,1264,973
+ 200 - Govt. Boys Primary School Chak No. 15/NP (P)*,28.45522648183994,70.05765958167645,Combined,Punjab,1,1,491,288
+ 206 - Govt. Girls Elementary School Bhutta Wahan- Sadiqabad (Female),28.46233,70.10764,Female,Punjab,0,2,0,973
+ 208 - Govt. Girls Elementary School Bhutta Wahan- Sadiqabad (Female),28.46233,70.10767,Female,Punjab,0,2,0,901
+ 137 - Govt. Boys Primary School Basti Shah Kot (P)*,28.462360417942538,70.18648380338864,Combined,Punjab,2,1,725,528
+ 205 - Govt. Boys High School Bhutta  Wahan Sadiq Abad (P-I) (Male),28.465124562393452,70.10184864620375,Male,Punjab,3,0,1449,0
+ 207 - Govt. Boys High School Bhutta  Wahan Sadiq Abad (P-II) (Male),28.465124562393452,70.1018786462037,Male,Punjab,2,0,1281,0
+ 96 - Govt. Boys Primary School Kot Habib Shah (Male),28.468687714532937,70.25864181541796,Male,Punjab,3,0,1583,0
+ 97 - Govt. Girls Primary School Kot Habib Shah (Female),28.46907,70.26091,Female,Punjab,0,2,0,1187
+ 201 - Govt. Model Primary School Azam pur Sadiq Abad  (P)*,28.471488768456133,70.02213394732688,Combined,Punjab,1,1,442,267
+ 202 - Govt. Model Primary School Azam pur Sadiq Abad  (P)*,28.471488768456133,70.0221639473269,Combined,Punjab,1,1,620,477
+ 199 - Govt. Boys Primary School- Basti Shahab Din- Garhi Bela (P)*,28.47165502139341,70.06821749890997,Combined,Punjab,1,1,645,379
+ 57 - Govt. Boys Primary School Basti Allah Wasaya (P)*,28.478914818202988,70.16498530012618,Combined,Punjab,2,1,806,483
+ 67 - Govt. Boys Secondary School Adam Wali  Akram Abad (Male)  (P)*,28.479341775086418,70.22359725108201,Male,Punjab,4,0,1901,0
+ 179 - Govt. Boys Primary School Said Pur,28.480300679764053,69.9906833594778,Combined,Punjab,2,2,1218,826
+ 209 - Govt. Boys Primary School Mian Saadi Sultan,28.482908477924006,70.12454904726158,Combined,Punjab,2,2,1176,795
+ 158 - Govt. Girls Primary School Moulvi Abdul Rehman Pir Fateh Darya  (Male),28.487898320126654,70.13396645048104,Male,Punjab,2,0,1276,0
+ 210 - Govt. Boys P/S English Medium School- Wahi Ghulam Ali Mouza Rasool Pur (P)*,28.493921605648335,70.13480163823861,Combined,Punjab,2,1,813,635
+ 60 - Govt. Girls Primary School Ali Pur Machhian (P)*,28.49413528235248,70.2106630368954,Combined,Punjab,2,1,959,622
+ 180 - Govt. Boys Primary School Muhammad Murad Dahar Sadiq Abad  (Male),28.49537700488167,69.98184926906436,Male,Punjab,2,0,1308,0
+ 181 - Govt. Boys Primary School Muhammad Murad Dahar Sadiq Abad  (Female),28.49537700488167,69.9818792690644,Female,Punjab,0,2,0,884
+ 211 - Govt. Boys Primary School Haji Fateh Muhammad Mouza Rasool Pur Sadiq Abad  (P)*,28.49752712857642,70.13328419059395,Combined,Punjab,1,1,649,498
+ 55 - Govt. Boys Primary School Qadir Abad (Male),28.504206496204024,70.17088868314093,Male,Punjab,2,0,1273,0
+ 56 - Govt. Boys Primary School Qadir Abad (Female),28.504206496204024,70.1709186831409,Female,Punjab,0,2,0,728
+ 58 - Govt. Boys Primary School Bahudi Pur Machhian (P)*,28.504377687593465,70.19161805270988,Combined,Punjab,2,2,888,777
+ 59 - Govt. Boys Primary School Bahudi Pur Machhian (P)*,28.504377687593465,70.1916480527099,Combined,Punjab,1,1,710,598
+ 90 - Govt. Boys Elementary School Chak Abbas Middle Portion (Male),28.504811738630288,70.30729469497584,Male,Punjab,3,0,1580,0
+ 91 - Govt. Boys Elementary School Chak Abbas Primary Portion  (Female),28.504811738630288,70.3073246949758,Female,Punjab,0,2,0,1297
+ 92 - Govt. Girls Primary School Chak Abbas,28.5055,70.30469,Combined,Punjab,2,1,783,625
+ 86 - Govt. Boys Primary School Quba Lal Pir  (P)*,28.50619,70.35336,Combined,Punjab,2,1,868,636
+ 74 - Govt. Boys High (Higher Secondary) School  Taj Garh High Portion (Male)  (P)*,28.508658656820018,70.26314865931609,Male,Punjab,4,0,1946,0
+ 75 - Govt. Boys High  (Higher Secondary)School  Taj Garh Middle Portion (Female)  (P)*,28.508658656820018,70.2631786593161,Female,Punjab,0,2,0,1391
+ 45 - Union Council Office Badli Sharif (Male),28.50998177920851,70.22639747678924,Male,Punjab,3,0,1748,0
+ 69 - Govt. Boys Elementary School Basti Maulvian  (Male),28.510562171805596,70.22606339601029,Male,Punjab,4,0,1705,0
+ 71 - Govt. Boys Elementary School Basti Maulvian,28.510562171805596,70.2260933960103,Combined,Punjab,1,1,683,531
+ 176 - Govt. Boys Primary School Iqbal Nagar (Male),28.51062334798648,70.0191501023825,Male,Punjab,3,0,1489,0
+ 177 - Govt. Boys Primary School Iqbal Nagar (Female),28.51062334798648,70.0191801023825,Female,Punjab,0,2,0,1044
+ 87 - Govt. Boys Primary School Surailee (P)*,28.51185546478422,70.35275710543843,Combined,Punjab,2,2,943,686
+ 162 - Govt. Boys Higher Secondary School Jamal Din Wali Sadiq Abad (P-I) Primary Portion (P)*,28.51306826588104,70.05071732901472,Combined,Punjab,1,1,772,604
+ 163 - Govt. Boys Higher Secondary School Jamal Din Wali Sadiq Abad (P-II) High Portion (Male),28.51306826588104,70.0507473290147,Male,Punjab,2,0,1124,0
+ 167 - Govt. Boys Higher Secondary School Jamal Din Wali Sadiq Abad (P-III) (Male),28.51306826588104,70.0507773290147,Male,Punjab,2,0,1215,0
+ 168 - Govt. Boys Higher Secondary School Jamal Din Wali Sadiq Abad (P-IV) (Female),28.51306826588104,70.0508073290147,Female,Punjab,0,2,0,954
+ 72 - Govt. Girls High School Fateh Pur Araian (Male)  (P)*,28.514080212993605,70.24951316533611,Male,Punjab,4,0,1793,0
+ 73 - Govt. Girls High School Fateh Pur Araian (Female)  (P)*,28.514080212993605,70.2495431653361,Female,Punjab,0,3,0,1475
+ 164 - Govt. Girls High School Jamal Din Wali (Female),28.51446954099172,70.05033871582638,Female,Punjab,0,2,0,945
+ 169 - Govt. Girls High School- Jamal Din Wali (Male),28.51446954099172,70.0503687158264,Male,Punjab,2,0,1136,0
+ 170 - Govt. Girls High School- Jamal Din Wali (Female),28.51446954099172,70.0503987158264,Female,Punjab,0,2,0,827
+ 203 - Govt. Boys Elementary School- Basti Laaran- Sadiqabad  (Male),28.517997848547363,70.07120446123913,Male,Punjab,3,0,1371,0
+ 204 - Govt. Boys Elementary School- Basti Laaran- Sadiqabad  (Female),28.517997848547363,70.0712344612391,Female,Punjab,0,2,0,1041
+ 88 - Govt. Boys Primary School Kot Qutab (Male),28.51862744295363,70.31979990646681,Male,Punjab,2,0,1358,0
+ 156 - Govt. Boys High School pir Bakhsh Punjabi Sadiq Abad  (P)*,28.518879786943856,70.13418493327006,Combined,Punjab,1,1,726,590
+ 173 - Govt. Boys Primary School Dera- Mouza  Nazar Muhammad Jhullan (P)*,28.519438161481272,69.9877416776717,Combined,Punjab,2,2,979,720
+ 174 - Govt. Boys Primary School Dera- Mouza  Nazar Muhammad Jhullan (P)*,28.519438161481272,69.9877716776717,Combined,Punjab,2,1,762,565
+ 157 - Govt. Girls Elementary School Pir Bakhsh,28.520448021508813,70.1314154108048,Combined,Punjab,2,2,1159,864
+ 165 - Govt. Girls Elementary School Basti Shah Pur Mouza Jamal Din Wali (Male)  (P)*,28.52162576581548,70.04360338735091,Male,Punjab,3,0,1589,0
+ 166 - Govt. Girls Elementary School Basti Shah Pur Mouza Jamal Din Wali (Female)  (P)*,28.52162576581548,70.0436333873509,Female,Punjab,0,2,0,1312
+ 107 - Govt. Boys Primary School Kot Zulifqar (P)*,28.524432416821842,70.396108292248,Combined,Punjab,1,1,711,507
+ 160 - Govt. Boys High School Roti Sharif (Male),28.527457446767134,70.08545419138966,Male,Punjab,4,0,1996,0
+ 85 - Govt. Boys Primary School Basti Qayem pur Mehran  (P)*,28.528011235743453,70.34096041904506,Combined,Punjab,2,2,908,767
+ 105 - Govt. Boys High (Secondary)School Mao Mubarak (Male)  (P)*,28.52905748639627,70.36519146680381,Male,Punjab,3,0,1477,0
+ 94 - Govt. Boys Primary School Mehmood Abad (Female),28.52983,70.28734,Female,Punjab,0,2,0,992
+ 54 - Govt. Girls Primary School Pir Wali Muhammad Sultan,28.531267976778505,70.16816896060828,Combined,Punjab,2,2,1143,919
+ 93 - Govt. Girls High (Secondary) School Mehmood Abad (Male),28.531433224497597,70.28154386691514,Male,Punjab,2,0,1360,0
+ 110 - Govt. Boys Primary School Wahi Jumman Shah,28.5371941968751,70.43867950384508,Combined,Punjab,2,1,826,695
+ 46 - Govt. Boys Primary School Basti Gujran (Female),28.5424,70.23115,Female,Punjab,0,2,0,1253
+ 52 - Govt. Boys Elementary School Pir Abdul Malik (Male),28.54250855597759,70.14128017267815,Male,Punjab,4,0,1754,0
+ 53 - Govt. Boys Elementary School Pir Abdul Malik (Female),28.54250855597759,70.1413101726781,Female,Punjab,0,2,0,1234
+ 44 - Govt. Boys Primary School Murad Pur Panwaran Kot Mehdi Shah,28.545510039245862,70.24881828623337,Combined,Punjab,2,2,1216,938
+ 242 - Govt.Girls Primery School Basti Jahangir Mouza Sheikh Bhakar (Female) (P)*,28.54735348295401,70.0705027662378,Female,Punjab,0,2,0,828
+ 81 - Govt. Boys High (Secondary)School Abdullah Pur  (Male)  (P)*,28.548927472074773,70.31076196887793,Male,Punjab,4,0,1662,0
+ 50 - Govt. Girls Elementary School Badli Sharif (Female),28.54962,70.19186,Female,Punjab,0,2,0,1410
+ 49 - Govt. Boys High School Badli Sharif High Portion (Male),28.549720072420698,70.19151635176934,Male,Punjab,3,0,1787,0
+ 51 - Govt. Boys High School Badli Sharif Middle Portion,28.549720072420698,70.1915463517693,Combined,Punjab,2,2,949,778
+ 171 - Govt. Boys Primary School Kot Ghulam Meeran Shah Sadiq Abad  (Male),28.550827684679398,70.02121574677378,Male,Punjab,2,0,1235,0
+ 47 - Govt. Girls Primary School Pir Bhura Sultan (Male),28.553072528611644,70.20024003041807,Male,Punjab,3,0,1479,0
+ 48 - Govt. Girls Primary School Pir Bhura Sultan (Female),28.553072528611644,70.2002700304181,Female,Punjab,0,2,0,1333
+ 108 - Govt. Girls Primary School Chak No. 83/NP,28.55886,70.40933,Combined,Punjab,2,2,1171,923
+ 78 - Govt. Girls Elementary School Dera Shammas  Middle Portion (Male)  (P)*,28.55984805893822,70.28263411509415,Male,Punjab,3,0,1513,0
+ 79 - Govt. Girls Elementary School Dera Shammas Primary Portion (Female)  (P)*,28.55984805893822,70.2826641150942,Female,Punjab,0,2,0,1081
+ 11 - Govt. Girls Primary School Bangla Shareen,28.56037116477162,70.0994808757365,Combined,Punjab,2,1,906,652
+ 76 - Govt. Boys High (Secondary)School Dera Shammas (Male)  (P)*,28.56099600218241,70.28322975789709,Male,Punjab,4,0,1628,0
+ 77 - Govt. Boys High (Secondary)School Dera Shammas (Female)  (P)*,28.56099600218241,70.2832597578971,Female,Punjab,0,2,0,1309
+ 12 - Govt. Boys Primary School Bangla Shareen  (P)*,28.56189220082425,70.09915786367938,Combined,Punjab,2,1,804,612
+ 38 - Govt. Boys Primary School Bhutta Kot (Male)  (P)*,28.562985747429515,70.25913638808905,Male,Punjab,3,0,1559,0
+ 10 - Govt. Boys Primary School Jind Wadda Dahar (Female) (P)*,28.564802568204275,70.12436878993375,Female,Punjab,0,3,0,1569
+ 9 - Govt. Boys Primary School Jind Wadda Dahar (Male)  (P)*,28.564802568204275,70.1243987899338,Male,Punjab,4,0,1860,0
+ 43 - Govt. Girls Primary School Tibb Chauhan (Female),28.56735,70.23399,Female,Punjab,0,2,0,1162
+ 82 - Govt. Girls High (Secondary)School Abdullah Pur  (Female)  (P)*,28.56841,70.28976,Female,Punjab,0,2,0,1283
+ 32 - Govt. Boys Primary School Qaisar Chauhan (Male)  (P)*,28.569101397596494,70.20073776593142,Male,Punjab,4,0,2072,0
+ 42 - Govt. Boys Primary School Tibb Chauhan (Male),28.569185744361615,70.23349015613445,Male,Punjab,3,0,1496,0
+ 34 - Govt. Boys Primary School Fazal Abad (Rajan Pur Kallan)(P)*,28.571060902258225,70.16817515582474,Combined,Punjab,2,1,1021,645
+ 83 - Govt. Boys Primary School Bulaqi Wali,28.576420779176814,70.33560586019415,Combined,Punjab,2,2,1003,822
+ 40 - Union Council Office Murtaza Abad (Male),28.57886909083932,70.26011934252787,Male,Punjab,3,0,1486,0
+ 41 - Govt. Primary School Passan Wali Murtaza Abad (Female),28.58088,70.26052,Female,Punjab,0,2,0,1022
+ 37 - Govt. Boys Primary School Taj Pur Mureed Wala,28.58562060473919,70.2996374396333,Combined,Punjab,2,2,1196,834
+ 109 - Govt. Boys Primary School Yousuf Nagar,28.585901528277372,70.43664763870765,Combined,Punjab,2,1,1088,860
+ 7 - Govt. Boys Primary School Dera Dahran (Male)  (P)*,28.587394041379696,70.12937393082775,Male,Punjab,3,0,1549,0
+ 8 - Govt. Boys Primary School Dera Dahran (Female)  (P)*,28.587394041379696,70.1294039308277,Female,Punjab,0,2,0,1129
+ 13 - Govt. Boys Elementary School Kot Karam Khan (Male)  (P)*,28.587593281443983,70.14051681503592,Male,Punjab,2,0,992,0
+ 14 - Govt. Boys Elementary School Kot Karam Khan (Female)  (P)*,28.587593281443983,70.1405468150359,Female,Punjab,0,2,0,834
+ 17 - Govt. Girls Primary School Kot Karam Khan (P)*,28.588645122260974,70.14497430645692,Combined,Punjab,2,1,883,650
+ 15 - Govt. Boys Primary School Ahmed Wah Near Pul Khedo (Male)  (P)*,28.600383582078123,70.12375288732424,Male,Punjab,2,0,1279,0
+ 16 - Govt. Boys Primary School Ahmed Wah Near Pul Khedo (Female)  (P)*,28.600383582078123,70.1237828873242,Female,Punjab,0,2,0,978
+ 28 - Govt. Boys Primary School Anwar Abad Mouza Kurhman Singh (Male)  (P)*,28.601482678124878,70.23133920285045,Male,Punjab,2,0,1194,0
+ 31 - Govt. Girls Elementary School- Sher Abad (Female)  (P)*,28.601482678124878,70.2313692028504,Female,Punjab,0,2,0,697
+ 4 - Govt. Boys High School Rajan Pur Kalan,28.60316450106866,70.20601976311703,Combined,Punjab,2,2,1301,877
+ 6 - Govt. Boys High School Rajan Pur Kalan Primary Portion,28.60316450106866,70.206049763117,Combined,Punjab,2,2,1082,775
+ 1 - Govt. Boys High School Hassan Abad (Rajan Pur Khurd) (Male),28.603167975614163,70.20599701668758,Male,Punjab,3,0,1414,0
+ 2 - Govt. Boys High School Hassan Abad (Rajan Pur Khurd) (Female),28.603167975614163,70.2060270166876,Female,Punjab,0,2,0,925
+ 5 - Govt. Girls High School Rajan Pur Kallan Primary Portion,28.604402780618056,70.17922745471327,Combined,Punjab,2,1,732,435
+ 30 - Govt. Masjid Maktab School Dera Sher Muhammad (Male)  (P)*,28.60513147617626,70.23751229073785,Male,Punjab,2,0,1109,0
+ 21 - Govt. Boys Elementary School Makhan Bela (Male),28.613566237198537,70.1468004134275,Male,Punjab,2,0,1207,0
+ 22 - Govt. Boys Elementary School Makhan Bela (Female),28.613566237198537,70.1468304134275,Female,Punjab,0,2,0,940
+ 19 - Govt. Boys Primary School Muslim Abad  (Male),28.6216942667084,70.1257774055954,Male,Punjab,2,0,1259,0
+ 20 - Govt. Boys Primary School Muslim Abad  (Female),28.6216942667084,70.1258074055954,Female,Punjab,0,2,0,983
+ 80 - Govt. Girls Primary School Basti Karim Bakhsh Chandia,28.624917972175353,70.16581587552389,Combined,Punjab,1,1,625,469
+ 25 - Govt. Boys Primary School Pahoran (Male)  (P)*,28.629359100128354,70.1870561188491,Male,Punjab,2,0,1313,0
+ 26 - Govt. Boys Primary School Pahoran (Female)  (P)*,28.629359100128354,70.1870861188491,Female,Punjab,0,2,0,791
+ 27 - Govt. Boys Primary School Rasool Pur,28.63774447447361,70.1531914427738,Combined,Punjab,2,2,1171,809
+ 23 - Govt. Boys Primary School Mud Manthar (Male),28.638870877945124,70.19363628275855,Male,Punjab,2,0,1275,0
+ 18 - Govt. Boys Primary School Kacha Mahazi (P)*,28.654216453054577,70.14362701472677,Combined,Punjab,2,1,836,604

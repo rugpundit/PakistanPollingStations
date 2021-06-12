@@ -1,3 +1,3 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-2,Govt.Primary School- Khwaja Rashaka (P) Male,34.19799133126144,72.06308111017131,Male,KPK,3,0,1169,0
-1,Govt. High School- Sarband (P) Combined,34.19860718866466,72.06465590754631,Combined,KPK,2,2,1002,656
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 2 - Govt.Primary School- Khwaja Rashaka (P) Male,34.19799133126144,72.06308111017131,Male,KPK,3,0,1169,0
+ 1 - Govt. High School- Sarband (P) Combined,34.19860718866466,72.06465590754631,Combined,KPK,2,2,1002,656

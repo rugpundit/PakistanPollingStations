@@ -1,17 +1,17 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-1,Office of the Municipal  Committee- Kunjah  (Male),32.52933,73.97727,Male,Punjab,3,0,1219,0
-2,Office of the Municipal  Committee- Kunjah  (Combined),32.52933,73.9773,Combined,Punjab,1,1,560,329
-381,Govt. Iqra Durani Girls Model School Near Children Prak (Male),32.52933,73.97733,Male,Punjab,3,0,1416,0
-372,Govt. Mission H/S Gujrat- Female (Female),32.57216039860304,74.07503244503951,Female,Punjab,0,3,0,1293
-374,Govt. Mission H/S Gujrat- Female (Female),32.57216039860304,74.0750624450395,Female,Punjab,0,3,0,1354
-375,Govt. Mission H/S Gujrat-  (Combined),32.57216039860304,74.0750924450395,Combined,Punjab,1,1,656,585
-13,Govt. Boys Islamia High School- Kunjah- Adywala  (Female),32.57216039860304,74.0751224450395,Female,Punjab,0,3,0,1604
-363,Govt. Degree College Marghzar Coloney UOG- Bhimber Road Campus  (Female),32.5747482285917,74.074985118624,Female,Punjab,0,2,0,872
-370,Govt. Chiristian H/S Gujrat-  North Block  (Male),32.5747482285917,74.075015118624,Male,Punjab,2,0,1449,0
-371,Govt. Chiristian H/S Gujrat-  North Block  (Combined),32.5747482285917,74.075045118624,Combined,Punjab,1,1,559,480
-373,Govt. Chiristian H/S Gujrat-  South Side  (Male),32.5747482285917,74.075075118624,Male,Punjab,3,0,1561,0
-376,Govt. Boys Swedish College- Near Service Morr Gujrat  (Male),32.589586495630364,74.05135516874266,Male,Punjab,2,0,1069,0
-377,Govt. Boys Swedish College- Near Service Morr Gujrat  (Female),32.589586495630364,74.0513851687427,Female,Punjab,0,2,0,993
-378,Govt. Boys Swedish College- Near Service Morr Gujrat  (Male),32.589586495630364,74.0514151687427,Male,Punjab,3,0,1611,0
-380,Govt. Jamia H/S Gujrat- Near Service Morr  (Combined),32.59304199629744,74.04693828791994,Combined,Punjab,2,2,959,794
-379,Govt. Jamia H/S Gujrat- Near Service Morr  (Female),32.59305394123243,74.04693363882468,Female,Punjab,0,3,0,1389
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 1 - Office of the Municipal  Committee- Kunjah  (Male),32.52933,73.97727,Male,Punjab,3,0,1219,0
+ 2 - Office of the Municipal  Committee- Kunjah  (Combined),32.52933,73.9773,Combined,Punjab,1,1,560,329
+ 381 - Govt. Iqra Durani Girls Model School Near Children Prak (Male),32.52933,73.97733,Male,Punjab,3,0,1416,0
+ 372 - Govt. Mission H/S Gujrat- Female (Female),32.57216039860304,74.07503244503951,Female,Punjab,0,3,0,1293
+ 374 - Govt. Mission H/S Gujrat- Female (Female),32.57216039860304,74.0750624450395,Female,Punjab,0,3,0,1354
+ 375 - Govt. Mission H/S Gujrat-  (Combined),32.57216039860304,74.0750924450395,Combined,Punjab,1,1,656,585
+ 13 - Govt. Boys Islamia High School- Kunjah- Adywala  (Female),32.57216039860304,74.0751224450395,Female,Punjab,0,3,0,1604
+ 363 - Govt. Degree College Marghzar Coloney UOG- Bhimber Road Campus  (Female),32.5747482285917,74.074985118624,Female,Punjab,0,2,0,872
+ 370 - Govt. Chiristian H/S Gujrat-  North Block  (Male),32.5747482285917,74.075015118624,Male,Punjab,2,0,1449,0
+ 371 - Govt. Chiristian H/S Gujrat-  North Block  (Combined),32.5747482285917,74.075045118624,Combined,Punjab,1,1,559,480
+ 373 - Govt. Chiristian H/S Gujrat-  South Side  (Male),32.5747482285917,74.075075118624,Male,Punjab,3,0,1561,0
+ 376 - Govt. Boys Swedish College- Near Service Morr Gujrat  (Male),32.589586495630364,74.05135516874266,Male,Punjab,2,0,1069,0
+ 377 - Govt. Boys Swedish College- Near Service Morr Gujrat  (Female),32.589586495630364,74.0513851687427,Female,Punjab,0,2,0,993
+ 378 - Govt. Boys Swedish College- Near Service Morr Gujrat  (Male),32.589586495630364,74.0514151687427,Male,Punjab,3,0,1611,0
+ 380 - Govt. Jamia H/S Gujrat- Near Service Morr  (Combined),32.59304199629744,74.04693828791994,Combined,Punjab,2,2,959,794
+ 379 - Govt. Jamia H/S Gujrat- Near Service Morr  (Female),32.59305394123243,74.04693363882468,Female,Punjab,0,3,0,1389

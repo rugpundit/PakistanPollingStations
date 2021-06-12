@@ -1,32 +1,32 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-243,GGPS Haider Colony (Female) PS-1,33.96548,71.54836,Female,KPK,0,3,0,1531
-241,GPS for Boys Gulshan Rehman Colony (Male) PS-II,33.96949,71.55254,Male,KPK,4,0,1704,0
-239,GGMS Gulshan Rehman Colony (Male)  PS-2,33.97494,71.56123,Male,KPK,4,0,1214,0
-240,GGPS No.1 Achar (Female),33.97494,71.56126,Female,KPK,0,4,0,1551
-237,GDC for Women Gulshan Rehman Colony Kohat Road (Female) PS-II,33.97575,71.56177,Female,KPK,0,4,0,1585
-242,GGPS No.3 Achar  Dehbahader  (Female),33.97575,71.5618,Female,KPK,0,3,0,1053
-238,GGMS Gulshan Rehman Colony (Male)  PS-1,33.97671,71.56377,Male,KPK,4,0,1204,0
-229,GPS Tor Baba (Male) PS-1,33.97765,71.57964,Male,KPK,3,0,1178,0
-227,Dispensary Garhi Atta Muhammad (Male) PS-2,33.97776,71.58479,Male,KPK,4,0,1250,0
-228,GPS Garhi Atta Muhammad (Female),33.97776,71.58482,Female,KPK,0,3,0,1349
-233,GPS No.1 Garhi Qamar Din (Male) PS-2,33.98015,71.56562,Male,KPK,4,0,1632,0
-234,GGPS Garhi Qamar Din (Female) PS-1,33.98015,71.56565,Female,KPK,0,3,0,1109
-235,GGPS Garhi Qamar Din (Female) PS-2,33.98081,71.56604,Female,KPK,0,3,0,915
-236,GPS Gulshan Rehman Colony (Male),33.98081,71.56607,Male,KPK,4,0,1849,0
-232,GPS No.1 Garhi Qamar Din (Male) PS-1,33.98357,71.56712,Male,KPK,4,0,1384,0
-230,GPS Tor Baba (Male) PS-2,33.9853,71.57095,Male,KPK,3,0,1180,0
-231,GPS Madina Colony (Female),33.9853,71.57098,Female,KPK,0,4,0,1527
-226,Dispensary Garhi Atta Muhammad (Male) PS-1,33.98698,71.59329,Male,KPK,3,0,927,0
-225,GPS No.3 Hazar Khawani (Female) PS-II,33.98946,71.58462,Female,KPK,0,4,0,1663
-244,GGPS Haider Colony (Female) PS-2,34.00432,71.58839,Female,KPK,0,3,0,1321
-245,GPS No.2 Haider Colony (Male) PS-1,34.00441,71.58873,Male,KPK,4,0,2055,0
-7,GCMHSS Nahaqi (Male)  (P) PS-1,34.02446,71.67861,Male,KPK,3,0,1086,0
-9,GGHS  Nahaqi (Female) PS-1,34.03654,71.60658,Female,KPK,0,2,0,837
-5,GGPS  Garhi Sharif Gul (Female),34.03918,71.64846,Female,KPK,0,2,0,818
-6,GPS  Kochian (Male),34.05001,71.69188,Male,KPK,4,0,1829,0
-8,GCMHSS Nahaqi (Male)  (P) PS-2,34.05068,71.69296,Male,KPK,4,0,1402,0
-3,GGMS/GGPS Gul Bela (Female) PS-2,34.05219,71.60663,Female,KPK,0,3,0,1343
-4,GPS  Garhi Sharif Khan (Male),34.05526,71.60415,Male,KPK,4,0,1234,0
-10,GGHS  Nahaqi (Female) PS-2,34.10368,71.61413,Female,KPK,0,3,0,1055
-1,GHS  Gul Bela (Male) (P),34.11999,71.65185,Male,KPK,4,0,1889,0
-2,GGMS/GGPS Gul Bela (Female) PS-1,34.122,71.65146,Female,KPK,0,3,0,1417
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 243 - GGPS Haider Colony (Female) PS-1,33.96548,71.54836,Female,KPK,0,3,0,1531
+ 241 - GPS for Boys Gulshan Rehman Colony (Male) PS-II,33.96949,71.55254,Male,KPK,4,0,1704,0
+ 239 - GGMS Gulshan Rehman Colony (Male)  PS-2,33.97494,71.56123,Male,KPK,4,0,1214,0
+ 240 - GGPS No.1 Achar (Female),33.97494,71.56126,Female,KPK,0,4,0,1551
+ 237 - GDC for Women Gulshan Rehman Colony Kohat Road (Female) PS-II,33.97575,71.56177,Female,KPK,0,4,0,1585
+ 242 - GGPS No.3 Achar  Dehbahader  (Female),33.97575,71.5618,Female,KPK,0,3,0,1053
+ 238 - GGMS Gulshan Rehman Colony (Male)  PS-1,33.97671,71.56377,Male,KPK,4,0,1204,0
+ 229 - GPS Tor Baba (Male) PS-1,33.97765,71.57964,Male,KPK,3,0,1178,0
+ 227 - Dispensary Garhi Atta Muhammad (Male) PS-2,33.97776,71.58479,Male,KPK,4,0,1250,0
+ 228 - GPS Garhi Atta Muhammad (Female),33.97776,71.58482,Female,KPK,0,3,0,1349
+ 233 - GPS No.1 Garhi Qamar Din (Male) PS-2,33.98015,71.56562,Male,KPK,4,0,1632,0
+ 234 - GGPS Garhi Qamar Din (Female) PS-1,33.98015,71.56565,Female,KPK,0,3,0,1109
+ 235 - GGPS Garhi Qamar Din (Female) PS-2,33.98081,71.56604,Female,KPK,0,3,0,915
+ 236 - GPS Gulshan Rehman Colony (Male),33.98081,71.56607,Male,KPK,4,0,1849,0
+ 232 - GPS No.1 Garhi Qamar Din (Male) PS-1,33.98357,71.56712,Male,KPK,4,0,1384,0
+ 230 - GPS Tor Baba (Male) PS-2,33.9853,71.57095,Male,KPK,3,0,1180,0
+ 231 - GPS Madina Colony (Female),33.9853,71.57098,Female,KPK,0,4,0,1527
+ 226 - Dispensary Garhi Atta Muhammad (Male) PS-1,33.98698,71.59329,Male,KPK,3,0,927,0
+ 225 - GPS No.3 Hazar Khawani (Female) PS-II,33.98946,71.58462,Female,KPK,0,4,0,1663
+ 244 - GGPS Haider Colony (Female) PS-2,34.00432,71.58839,Female,KPK,0,3,0,1321
+ 245 - GPS No.2 Haider Colony (Male) PS-1,34.00441,71.58873,Male,KPK,4,0,2055,0
+ 7 - GCMHSS Nahaqi (Male)  (P) PS-1,34.02446,71.67861,Male,KPK,3,0,1086,0
+ 9 - GGHS  Nahaqi (Female) PS-1,34.03654,71.60658,Female,KPK,0,2,0,837
+ 5 - GGPS  Garhi Sharif Gul (Female),34.03918,71.64846,Female,KPK,0,2,0,818
+ 6 - GPS  Kochian (Male),34.05001,71.69188,Male,KPK,4,0,1829,0
+ 8 - GCMHSS Nahaqi (Male)  (P) PS-2,34.05068,71.69296,Male,KPK,4,0,1402,0
+ 3 - GGMS/GGPS Gul Bela (Female) PS-2,34.05219,71.60663,Female,KPK,0,3,0,1343
+ 4 - GPS  Garhi Sharif Khan (Male),34.05526,71.60415,Male,KPK,4,0,1234,0
+ 10 - GGHS  Nahaqi (Female) PS-2,34.10368,71.61413,Female,KPK,0,3,0,1055
+ 1 - GHS  Gul Bela (Male) (P),34.11999,71.65185,Male,KPK,4,0,1889,0
+ 2 - GGMS/GGPS Gul Bela (Female) PS-1,34.122,71.65146,Female,KPK,0,3,0,1417

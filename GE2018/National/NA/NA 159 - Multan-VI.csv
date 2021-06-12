@@ -1,4 +1,4 @@
-StationId,PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
-58,Government Model Primary School- Basti Sawa,29.4775,71.30334,Combined,Punjab,1,1,575,473
-5,Government Girls Primary School- Atta Noor,29.51944,71.22222,Female,Punjab,0,2,0,1108
-221,Govt. Girls Elementary School  Ali Pur Sadat,29.56374,71.21213,Combined,Punjab,1,1,553,436
+PollingStation,Lat,Lng,BoothType,Province,MaleBooths,FemaleBooths,MaleVoters,FemaleVoters
+ 58 - Government Model Primary School- Basti Sawa,29.4775,71.30334,Combined,Punjab,1,1,575,473
+ 5 - Government Girls Primary School- Atta Noor,29.51944,71.22222,Female,Punjab,0,2,0,1108
+ 221 - Govt. Girls Elementary School  Ali Pur Sadat,29.56374,71.21213,Combined,Punjab,1,1,553,436
