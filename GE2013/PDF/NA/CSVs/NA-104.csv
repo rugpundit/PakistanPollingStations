@@ -1,0 +1,508 @@
+SerialId,PollingStation,UC,CensusBlock,VotersSerial,MaleVoters,FemaleVoters,TotalVoters,MaleBooths,FemaleBooths,TotalBooths
+1,Govt.Boys H/S Lakhanwal,lakhanwal khas,064090701,-,647,613,1260,2,2,4
+2,Govt H/S Lakhanwal (Primary ,Dhool Kalan,064090702,-,569,398,967,2,1,3
+3,Boys H/S Lakhanwal,LAKHANWAL,064090703,-,482,485,967,2,1,3
+4,Girls H/S Lakhanwal (High Portion),LAKHANWAL,064090704,-,684,546,1230,2,1,3
+5,Govt. Boys P/S Kasooki,Kasooki,064090901,-,751,683,1434,2,1,3
+6,Girls M/S Kasooki,KASSOOKI,064090902,-,706,693,1399,2,2,4
+7,Girls P/S Char Marzai,Hakeem pur,064090602,-,99,88,187,1,1,2
+,,chak Mullan (B.C),064090906,-,,,,,,
+,,CHAK MARZAI,064090803,-,321,264,585,,,
+8,Boys H/S Chopala,CHOPALA,064091003,-,560,516,1076,2,1,3
+9,Girls M/S Chopala,Chopala,064091004,-,578,535,1113,2,1,3
+,,JUM,064091002,-,15,10,25,,,
+10,Boys M/S Noshehra KHawajgan,MARRI WARRIACHAN,064090903,-,700,587,1287,2,2,4
+11,Girls P/S Noshehra Khawajgan,Marri warriachan,064090904,-,326,275,601,2,2,4
+,,Noshehra Khawajgan,064090905,-,426,337,763,,,
+12,Girls M/S Behal Pur,REMAK BEHAL PUR,064090801,-,578,529,1107,2,1,3
+13,Boys P/S Behal Pur,Ramke Behal Pur,064090802,-,570,460,1030,2,2,4
+,,CHAK PANIAR,064090804,-,67,57,124,,,
+14,Boys/ M/S Natt Sharqi,Natt Sharqi,064091104,-,301,292,593,2,1,3
+,,Trigri,0640901001,-,229,228,457,,,
+,,Rakh Dhool (BC),064091102,-,,,,,,
+,,Nonawal (BC),064091103,-,,,,,,
+15,Boys P/S Dhool Kalan,Dhool Kalan,064091101,-,842,674,1516,2,2,4
+16,Govt. Girls P/S Nijjan,Mattianwala,064090101,-,571,509,1080,1,1,2
+,,chak Kandu (BC),064090107,-,,,,,,
+,,Naseer Pur (BC),094090110,-,,,,,,
+,,NIJJAN,064090108,-,232,221,453,,,
+17,Govt. Boys H/S Kotli Bagwan,Kotli Parmand,064090102,-,386,395,781,2,2,4
+,,Maddan,06490103,-,165,149,314,,,
+,,Rangpur Garri (BC),064090104,-,,,,,,
+,,Kolti Minhas (BC),064090106,-,,,,,,
+,,CHAK LASHKARI,064090109,-,124,88,212,,,
+18,Govt. Boys H/S Kotli Bagwan,KOTLI BAGWAN,064090105,-,451,497,948,2,1,3
+19,Govt. Boys P/S Surkhpur,SURKHPUR,064091501,-,589,508,1097,2,2,4
+20,Rural Health Center* Surkhpur,SURKHPUR,064091502,-,564,412,976,2,2,4
+21,Rural Health Center* Surkhpur,Surkhpur,064091503,-,874,879,1753,2,2,4
+22,Boys P/S Kotli Vedan,Kotli Vedan,064091504,-,276,207,483,2,2,4
+,,DABB,064091505,-,345,336,681,,,
+23,Govt. Girls P/S Rangra,RANGRA,064091506,-,512,419,931,2,1,3
+24,Govt. Boys H/S Brilla,Brilla,064090201,-,356,240,596,2,2,4
+,,BRILLA,064090202,-,449,416,865,,,
+25,Govt. Girls M/S Brilla,BRILLA,064090203,-,536,427,963,1,1,2
+26,Govt. Boys M/S Brilla,BRILLA,064090204,-,413,299,712,2,1,3
+,,GAGIAN,064090206,-,271,231,502,,,
+27,Govt. Boys P/S Sangu,Hadka,064090205,-,284,234,518,2,2,4
+,,Sangu,064091604,-,369,274,643,,,
+,,NEHAR PUR,064091605,-,40,32,72,,,
+28,Govt. Boys P/S Chak Sheru,Chak Sheru,064091603,-,449,402,851,2,1,3
+,,BADHU BHATTI,064091606,-,136,160,296,,,
+29,Govt. Boys P/S Kakkianwala,Kakkianwala,064091601,-,323,289,612,2,1,3
+,,KAKKIANWALA,064091602,-,432,323,755,,,
+30,Govt. M.B.S Qila Sura Singh,QILA SURA SING,064091303,-,616,497,1113,2,1,3
+31,Govt. M.B.S Qila Sura SinghGovt. Girls P/S Budhan,-,,-,,,,2,1,3
+,,BUDHAN,064091701,-,496,443,939,1,1,2
+33,Govt. Boys P/S Gujran,GUJGRAN,064091702,-,626,572,1198,1,1,2
+34,Govt. Boys P/S Mota,Mota,64091703,-,260,312,572,2,2,4
+,,Mota,064091704,-,562,437,999,,,
+35,Govt. Girls H/S Tanda,Tanda,064091707,-,317,252,569,2,2,4
+,,TANDA,064091712,-,347,267,614,,,
+36,RHC* Tanda,TANDA,064091705,-,596,481,1077,2,1,3
+37,Govt. Boys H/S Tanda,Tanda,064091709,-,385,271,656,2,2,4
+,,TANDA,064091706,-,701,491,1192,,,
+38,Govt. Girls H/S Tanda,TANDA,064091708,-,776,655,1431,2,1,3
+39,Govt. Boys H/S Tanda,Tanda,064091710,-,492,362,854,2,2,4
+,,TANDA,064091711,-,502,369,871,,,
+40,Boys H/S Behlolpur,Behlolpur,064091401,-,369,321,690,2,2,4
+,,BEHLOLPUR,064091403,-,324,249,573,,,
+41,Boys P/S Behlolpur,BEHLOLPUR,064091402,-,399,343,742,1,1,2
+42,Govt. Boys P/S Kurri,Kurri,064091404,-,461,385,846,2,2,4
+,,kurri,064091405,-,408,291,699,,,
+,,Rakh Marri (BC),064091406,-,,,,,,
+43,Govt. Girls M/S Marri Khokharan,Marri khokharan,064091301,-,511,382,893,2,2,4
+,,MARRI KHOKHARAN,064091302,-,443,320,763,,,
+44,Govt.Boys H/S Shampur,Shampur,064091306,-,415,361,776,2,2,4
+,,Chobara,064091305,-,47,38,85,,,
+,,SHAKAR KOT,064091205,-,202,159,361,,,
+45,Basic Health Unit* Sheikh Chughani,Sheikh chungani,064091201,-,224,185,409,2,1,3
+,,Panj Dera,064091204,-,105,83,188,,,
+,,ATTAR,064091203,-,240,176,416,,,
+46,Govt. Boys P/S Randeer,RANDEER,064091202,-,510,400,910,2,1,3
+47,Govt. Boys H/S Bhagowal kalan,bhagowal Kalan,064090501,-,656,489,1145,2,1,3
+48,Govt. Boys H/S Bhagowal kalan,BHAGOWAL KALAN,064090503,-,323,303,626,1,1,2
+49,Govt. Girls H/S Bhagowal kalan,BHAGOWAL KALAN,064090502,-,589,533,1122,2,1,3
+50,Govt. Girls P/S Bhagowal kalan,BHAGOWAL KALAN,064090504,-,696,642,1338,2,1,3
+51,Govt. Boys P/s Rehan,Rehan,064090505,-,329,277,606,2,2,4
+,,Kot meru,064090409,-,111,80,191,,,
+,,GONDAL,064090506,-,180,181,361,,,
+52,Govt. Boys P/S Bhilowal,BHILOWAL,064090401,-,917,692,1609,2,1,3
+53,Govt. Boys P/S Shah Jahani,Shah Jahani,064090403,-,431,390,821,2,2,4
+,,KOLIAN BAHAR SHAH,064090402,-,160,156,316,,,
+54,Govt. boys P/S Kasib,KASIB,064090406,-,615,549,1164,2,1,3
+55,Govt. Boys P/S Meowal,MEOWAL,64090404,-,414,490,904,1,1,2
+56,Govt. Boys P/S Wazeer,Wazeer,064090407,-,245,210,455,1,1,2
+,,WAZEER,064090408,-,241,221,462,,,
+57,Govt. Boys P/S Dhariwal,DHARIWAL,064090601,-,554,393,947,2,1,3
+58,Govt. Boys P/S Rananwala,Ranganwala,064090603,-,328,252,580,2,1,3
+,,SHEIKH ALI KAY,064090604,-,364,307,671,,,
+59,Govt. Boys P/S Paejoki,PAEJOKI,064090605,-,463,377,840,1,1,2
+60,Govt. Girls P/S Chak Qazi,Chak Qazi,064090304,-,277,229,506,2,2,4
+,,CHAK BAGGA,064090303,-,550,490,1040,,,
+61,Govt. Boys H/S Saggar,Saggar,064090301,-,496,515,1011,2,2,4
+,,SAGGAR,064090302,-,608,634,1242,,,
+62,Govt. Girls M/S Chak Miran,Chak Miran,064100401,-,396,407,803,2,1,3
+,,HASSAN DHEENDA,064100402,-,243,201,444,,,
+63,Govt. Girls P/S Lattian,Lattian,064100405,-,158,156,314,1,1,2
+,,PINDI,064100404,-,205,177,382,,,
+64,Govt. Girls P/S Jhamat abad,JHAMAT ABAD,064101402,-,350,291,641,2,1,3
+,,KOT RANJAH,064101806,-,184,135,319,,,
+65,Govt. Boys H/S Chak Kamala,Murali,064101803,-,160,140,300,2,2,4
+,,Tulka,064101804,-,144,136,280,,,
+,,Jasoo Sarai,064101805,-,205,157,362,,,
+,,DARYA,064090405,-,151,105,256,,,
+66,Govt. Boys H/S Chak Kamala,Dhudrai Sharqi,064101801,-,436,403,839,2,2,4
+,,Chak Kamala,064101802,-,299,234,533,,,
+67,Boys H/S Karrianwala,KARRIANWALA,064101501,-,563,485,1048,2,1,3
+68,Boys H/S Karrianwala,KARRIANWALA,064101502,-,862,660,1522,2,2,4
+69,govt. girls H/S Karrianwala,Karrianwala,064101504,-,428,412,840,2,2,4
+,,KARRIANWALA,064101503,-,268,253,521,,,
+70,Govt. Girls M/s Dhamthal,DHAMTHAL,064101506,-,782,695,1477,2,2,4
+71,Govt. Girls P/S Malowal,MALOWAL,064101001,-,481,461,942,1,1,2
+72,Govt. Boys P/S Malowal,Malowal,064101002,-,384,342,726,2,1,3
+,,CHALAY SHARIF,064101505,-,178,170,348,,,
+73,Boys P/S Jhindar Khurd,JHINDAR KHURD,064101003,-,528,508,1036,2,1,3
+74,Govt. Boys H/S Hajiwala,Hajiwala,064100601,-,589,519,1108,2,2,4
+,,Phambarra,064100608,-,215,227,442,,,
+75,Govt. Boys H/S Hajiwala,Hajiwala,064100682,-,397,307,704,2,1,3
+,,HAJIWALA,064100603,-,316,249,565,,,
+76,Govt. Girls H/S Hajiwala,HAJIWALA,064100604,-,507,420,927,1,1,2
+77,Govt. Girls H/S Hajiwala,Hajiwala,064100605,-,428,245,673,2,1,3
+,,DEHDAR,064100607,-,191,171,362,,,
+78,Govt. P/S Dheenda Kalan,Dheenda kalan,064101004,-,564,566,1130,2,2,4
+,,DHEENDA KHURD,064100610,-,265,236,501,,,
+79,Govt. Girls P/S Dhoda Sharif,Dhoda Sharif,064100609,-,471,411,882,2,2,4
+,,LOHSAR KALAN,064100606,-,420,320,740,,,
+80,Govt. Boys H/S Baroo,Baroo,064100903,-,399,366,765,2,2,4
+,,BAROO,064100904,-,330,296,626,,,
+81,Govt. Boys P/S Hanj,Hanj,064100907,-,378,384,762,2,2,4
+,,Dhounjak,064100908,-,260,258,518,,,
+,,Kaila,064100905,-,133,105,238,,,
+,,MEHLU,064100906,-,199,121,320,,,
+82,Govt. Boys P/S Chak Bazurg,Chak Bazurg,064100901,-,406,391,797,2,1,3
+,,Chak Bazurg,064100902,-,304,264,568,,,
+83,Govt. Girls P/S Sarhali,Sarhali,064101601,-,248,242,490,2,1,3
+,,Tibi Dhau,064101606,-,216,211,427,,,
+,,Chak Buddah,064101603,-,117,91,208,,,
+84,Boys School Sarhali Khurd,SARHALI KHURD,064101602,-,503,419,922,2,1,3
+85,Boys P/S Bhangranwala,Bhangranwala,064101604,-,414,350,764,2,2,4
+,,BHANGRANWALA,064101605,-,297,271,568,,,
+86,Girls P/S Chechian,CHECHIAN,064100403,-,386,336,722,1,1,2
+87,Govt. Boys P.s Bhoon Hazari,Bhoon Hazari,064100806,-,364,380,744,2,1,3
+,,Kalas,064100804,-,222,191,413,,,
+88,Govt. Girls P s Majra Shamali,Majra Shamali,064100702,-,612,506,1118,2,1,3
+,,FATTALIAN,064100703,-,109,98,207,,,
+89,Govt. Girls P S Harrar,Harrar,064101103,-,236,221,457,2,1,3
+,,MAHAY,064100701,-,234,219,453,,,
+90,govt. Boys P S Kharian Khurd,Kharian Khurd,064100704,-,224,177,401,2,1,3
+,,JHINDAR KALAN,064100705,-,294,239,533,,,
+91,Govt. Boys H S Hazara Mughlan,HAZARA MUGHLAN,064101104,-,681,666,1347,2,2,4
+92,Govt. Girls P S Ghaian,GHAIAN,064101101,-,393,346,739,2,1,3
+93,Govt. Boys P S Khoa,DO KHOA,064101102,-,266,270,536,1,1,2
+94,Govt. Girls P/S Bhoj Pur,BHOJ PUR,064101105,-,506,409,915,2,1,3
+95,Govt. Boys P/S Koankh,KOANKH,064100807,-,816,704,1520,2,2,4
+96,Govt. Girls P/s Ghoral,Ghoral,064100801,-,394,419,813,2,1,3
+,,CHAK KATTAWAR,064100802,-,50,42,92,,,
+97,Govt. Girls P/S Khanpur Khokharan,KHanpur Khokhran,064101304,-,582,530,1112,2,1,3
+,,DHODA,064101305,-,21,20,41,,,
+98,Govt. Boys H/S Ajnala,Ajnala,064100803,-,622,570,1192,2,1,3
+99,Boys H/S Awan Sharif,AWAN SHARIF,064101302,-,666,697,1363,2,2,4
+100,Govt. Boys H/S Bharwal,BHARWAL,064101308,-,338,282,620,1,1,2
+101,Govt. Girls E/S Awan Sharif,Awan Sharif,064101303,-,376,314,690,2,2,4
+,,MALL,064101301,-,359,330,689,,,
+102,Govt. Boys P/S Chohan,Dhann,064101309,-,332,246,578,2,1,3
+,,Chohan,064101306,-,243,186,429,,,
+,,QULLIAN,064101307,-,67,82,149,,,
+103,Govt. Boys P/S Kathana,Kathana,064100805,-,407,336,743,1,1,2
+104,Govt. Boys H/S Jalalpur Sobtian,Jalalpur Sobtian,064100201,-,458,398,856,2,2,4
+,,JALALPUR SOBTIAN,064100203,-,420,316,736,,,
+105,Govt. Boys H/S Jalalpur Sobtian,Jalalpur Sobtian,064100202,-,445,346,791,,,0
+,,MALIK PUR KHURD,064100204,-,522,459,981,,,
+106,Govt. Boys H/S Malik pur Kalan,MALIK PUR KALAN,064100205,-,488,522,1010,2,1,3
+107,Govt Boys H/S Parsowal,PARSOWAL,064100505,-,446,333,779,2,2,4
+,,RANGPUR,064100506,-,304,230,534,,,
+108,Govt. Girls P/S Parsowal,Bouch,064100206,-,431,345,776,2,2,4
+,,JALAL WAL,064100507,-,298,200,498,,,
+109,Govt. Boys P/S Gharera,Gharera,064100503,-,340,297,637,2,2,4
+,,GHARERA,064100504,-,347,324,671,,,
+110,Govt. Boys P/S Maliki,Maliki,064100501,-,486,419,905,2,2,4
+,,Maliki,064100502,-,310,272,582,,,
+111,Govt. Girls M/S Santhal,Santhal,064101201,-,415,421,836,2,2,4
+,,SANTHAL,064101202,-,378,342,720,,,
+112,Govt. Boys P/S Surkkian,SURKKIAN,064101701,-,418,375,793,1,1,2
+113,Govt. Boys P/S Dhodhay,Bahrongha,064101705,-,95,92,187,1,1,2
+,,Dhodhay,064101703,-,256,200,456,,,
+114,Govt. Boys P/S Bhoa,Bhoa,064101702,-,434,391,825,2,1,3
+,,SHAMAS,064101704,-,38,45,83,,,
+115,Govt. Boys P/S Mirza,Mirza,064101204,-,632,588,1220,2,2,4
+,,HANDAY,064101203,-,220,220,440,,,
+116,Govt. Boys P/S Kolian,Banian,064100301,-,182,154,336,1,1,2
+,,KOLJAN SASHIM,064100305,-,178,160,338,,,
+117,Govt. Boys P/S Lahorian,LAHORIAN,064100306,-,386,346,732,1,1,2
+118,Govt. Boys P/S Khorii,Khorri,064100303,-,411,336,747,2,2,4
+,,RASUL PUR,064100307,-,183,177,360,,,
+119,Govt. Boys P/S Rangra,Rangra,064100304,-,260,213,473,2,1,3
+,,RUPOWAL,064100302,-,443,374,817,,,
+120,Govt. Girls M/S Pero Shah,Pero shah,064100101,-,427,385,812,2,2,4
+,,PERO SHAH,064100102,-,285,253,538,,,
+121,Govt. Boys M/s Peroshah,PERO SHAH,064100103,-,551,507,1058,2,2,4
+,,CHAH BEHRAM,064100105,-,302,209,511,,,
+122,Govt. Girls P/s Bhakray wali,Bakray Wali,0641100107,-,469,417,886,2,2,4
+,,MIANA CHAK,064100104,-,132,85,217,,,
+123,Govt. Girls P/S Kotla Dheenda,Kotla Dheenda,064100106,-,326,307,633,1,1,2
+124,Govt. Boys P/S Majra,Majra,064110304,-,273,226,499,2,2,4
+,,shah jahani,064110303,-,212,189,401,,,
+,,DHANWAL,064110203,-,166,144,310,,,
+125,Govt. Boys M/s Kotli Kohala Male,Kotli Kohala,064101404,-,351,0,351,2,1,3
+,,Kotli Kohala,064101405,-,306,0,306,,,
+,,Kotli Kohana,064101406,-,429,0,429,,,
+126,Girls P/S Kotli Kohala Female,Kotli Kohala,064101404,-,,314,314,2,1,3
+,,Kotli Kohala,064101405,-,,283,283,,,
+,,KOTLI KOHALA,064101406,-,0,405,405,,,
+127,Boys P/S Bhoian,Bhoian,064101401,-,244,193,437,1,1,2
+,,Jhamat Nauabad,064101403,-,120,109,229,,,
+,,Sangrana BC,064101407,-,,,,,,
+128,Govt. Boys P/S Nand Pur Jalalpur Jattan Male,Circle 1,064020101,-,502,,502,4,0,4
+,,-,064020104,-,901,,901,,,
+,,-,064020105,-,356,,356,,,
+129,Nand Pur Girls P/S Near Kharian Road J P j Femle,Circle No 1,064020101,-,,376,376,0,4,4
+,,-,064020104,-,,937,937,,,
+,,-,064020105,-,0,244,244,,,
+130,Govt. Islamia High H/S NO 1 (HIgh Portion) Jalalpur Jattan Male,Circle NO 1,064020102,-,1008,,1008,4,0,4
+,,-,064020103,-,440,,440,,,
+131,Muncipal Model Girls H/S (High Portion) Jalalpur Jattan (female),Circle NO 1,064020102,-,,828,828,0,3,3
+,,-,064020103,-,0,366,366,,,
+132,CPC Boys P/S NO 2 Chah Lalaywala Jalalpur Jattan (Male),Circle No. 2,064020201,-,574,,574,3,0,3
+,,-,064020202,-,477,,477,,,
+133,Municipal Model Girls H/S Jalalpur Jpj Female,Cricle NO 2,064020201,-,,534,534,0,3,3
+,,-,064020202,-,0,376,376,,,
+134,Govt. Boys P/S Adda Tam Tam Jalalpur Jattan Male,Circle NO 2,064020203,-,593,,593,4,0,4
+,,-,064020204,-,400,,400,,,
+,,-,064020205,-,284,,284,,,
+135,CPC Girls P/s No 1 Renawal Road Jalalpur Jattan Female,Circle No 2,064020203,-,,479,479,0,4,4
+,,-,064020204,-,,393,393,,,
+,,-,064020205,-,0,248,248,,,
+136,Govt. Girls P/S Moh Langrial ,CIRCLE NO.2,064020206,-,271,261,532,1,1,2
+137,Govt. Islamia H/S No. 1 (HIgh Portion )Jalalpur jattan Male,Cricle No3,064020301,-,500,0,500,4,0,4
+,,-,064020302,-,412,,412,,,
+,,-,064020303,-,371,,371,,,
+138,Govt. Islamia H/S No 1 (Middle Portion) Jalalpur Jattan Female,Curcle NO 3,064020301,-,,500,500,0,4,4
+,,-,064020302,-,,403,403,,,
+,,-,064020303,-,0,396,396,,,
+139,Govt. Boys P/S Near Sadar Police Station Jalalpur Jattan Male,Circle NO 3,064020304,-,404,,404,4,0,4
+,,-,064020305,-,613,,613,,,
+,,CIRCLE NO 4,064020401,-,661,0,661,,,
+140,Govt. Christian P/S Shahbaz Pur Road Jalalpur Jattan (Female,Cricle No. 3,064020304,-,,358,358,0,4,4
+,,-,064020305,-,,501,501,,,
+,,CIRCLE NO 4,064020401,-,0,589,589,,,
+141,Govt. Girls School Back side of Ibn e amir College Jalalpur Jattan Male,Circle NO 4,064020402,-,545,,545,4,0,4
+,,-,064020403,-,475,,475,,,
+,,-,064020404,-,395,,395,,,
+142,Govt. Christian P/S for Girls Shahabaz pur road jalalpur Jattan,Circle NO 4,064020402,-,,445,445,0,3,3
+,Female,-,06420403,-,,353,353,,,
+,,-,064020404,-,,269,269,,,
+143,Govt. Girls P/S Noshehra Miana Jalalpur Jattan,Cirlce No. 4,064020405,-,460,392,852,2,2,4
+,,CIRCLE NO 9,064020901,-,390,358,748,,,
+144,Ibn e Amir Girls College Jalalpur Jattan Male,Circle NO 9,064020902,-,379,,379,3,0,3
+,,-,064020903,-,478,,478,,,
+145,Ibn e Amir Girls College Jalalpur Jattan Female,Circle NO 9,064020902,-,,287,287,,3,3
+,,-,064020903,-,,394,394,,,
+146,Office of the Project Manager / Agricultural office near Telephone,Circle No. 9,064020904,-,544,,544,4,0,4
+,,-,064020905,-,438,,438,,,
+147,Ibn e Amir Girls College Jalalpur Jattan Female,Circle No. 9,064020904,-,,402,402,,3,3
+,,-,064020905,-,,297,297,,,
+148,Govt. Islamia H/S No. 2 Jalalpur Jattan Male,Cirlce NO 10,064021001,-,240,,240,3,,3
+,,-,064021002,-,584,,584,,,
+,,-,04021003,-,268,,268,,,
+149,Govt. Girls P/S Kula Chour Jalalpur Jattan Female,Circle No 10,0640201001,-,,188,188,,3,3
+,,-,064021002,-,,360,360,,,
+,,-,064021003,-,,214,214,,,
+150,Govt. Girls P/s near Graveyard Jalalpur Jattan Male,Circle NO 10,0640201004,-,455,,455,3,,3
+,,-,064021005,-,374,,374,,,
+151,Municipal Unani Dispensary Kula Chour JPJ Female,Circle NO 10,064021004,-,,342,342,,3,3
+,,-,064021005,-,,365,365,,,
+152,Govt. Abdul Haq College Jalalpur Jattan Male,Cirlce NO 10,064021006,-,1096,,1096,4,,4
+,,Cirlce No.6,064020601,-,409,,409,,,
+153,Govt. Girls P/S Islam Garh Jalalpur Jattan Female,Cricle No 10,064021006,-,,838,838,,4,4
+,,CIRCLE NO. 6,064020601,-,,404,404,,,
+154,Govt. Islamia H/S No. 2 Jalalpur Jattan Male,Cirlce NO 6,064020602,-,663,,663,4,,4
+,,-,064020603,-,502,,502,,,
+155,CPC Girls P/S No 2 near MoqasaJPJ Female,Cirlce NO 6,064020602,-,,589,589,,3,3
+,,-,064020603,-,,436,436,,,
+156,Govt. Islamia Girls M/S Main Bazar near Janjua Market jalalpur Jattan,Cirlce No. 5,064020501,-,322,,322,4,,4
+,Male,-,064020502,-,304,,304,,,
+,,-,064020503,-,480,,480,,,
+,,-,064020504,-,257,,257,,,
+157,Govt. Girls H/S Jalalpur Jattan  Female,Circle No 5,064020501,-,,267,267,,3,3
+,,-,064020502,-,,257,257,,,
+,,-,064020503,-,,409,409,,,
+,,-,064020504,-,,212,212,,,
+158,Govt. Taleem Uddin H/S Jalalpur Jattan (MALE),Cirlce NO 7,064020701,-,449,,449,4,,4
+,,-,064020702,-,494,,494,,,
+,,-,064020703,-,423,,423,,,
+159,Govt. Taleem Uddin P/S Jalalpur Jattan Female,Cirlce NO 7,064020701,-,,445,445,,4,4
+,,-,064020702,-,,526,526,,,
+,,-,064020703,-,,416,416,,,
+160,Abdul Haq College Jalalpur Jattan Male,Circle NO7,064020704,-,516,,516,4,,4
+,,Circle No. 8,064020801,-,399,,399,,,
+,,-,064020804,-,688,,688,,,
+161,Govt. Girls H/S Umar Farooq Road JPJ Female,Cirlce No 7,064020704,-,,475,475,,4,4
+,,Cirlce No. 8,064020801,-,,377,377,,,
+,,-,064020804,-,,632,632,,,
+162,CPC boys P/S NO 1 MOh Masjid sadiq jalalpur Jattan Male,Cirlce No 8,064020802,-,560,,560,4,0,4
+,,-,064020803,-,607,,607,,,
+163,Govt. Girls H/S Umar Farooq Road Jalalpur Jattan Female,Circle NO 8,064020802,-,,523,523,0,3,3
+,,-,064020803,-,0,485,485,,,
+164,Boys M S Mandiala,Mandiala,064060506,-,472,423,895,2,0,2
+,,NOORA,064060503,-,194,216,410,,,
+165,Boys P S Rasul Pur,RASUL PUR,064060504,-,392,392,784,2,1,3
+166,Boys P S Daud Pur,Daud Pur,064060501,-,528,397,925,2,2,4
+,,Pindi Miani,064060502,-,318,290,608,,,
+,,Singhawala BC,064060507,-,,,,,,
+,,Mahiwala CB,064060508,-,,,,,,
+167,Boys P S Sohal Khurd,Sohal Khurd,064060405,-,452,447,899,2,2,4
+,,Nasoo Wali,064060406,-,228,205,433,,,
+,,Lambour,064060703,-,97,77,174,,,
+,,Bhaghal BC,064060704,-,,,,,,
+,,Chak MUallan BC,064060705,-,,,,,,
+,,Changanwali BC,064060706,-,,,,,,
+168,Girls H S Gilli Wala,Gilla Wala,064060404,-,288,263,551,2,2,4
+,,Chak Dhilu,064060407,-,236,189,425,,,
+,,Raseeda,064060505,-,230,179,409,,,
+,,Jalo Wali BC,064060707,-,,,,,,
+169,govt Boys P S Kot Nikka,Kot Nikka,064060702,-,398,419,817,2,2,4
+,,BAwranwala,064060701,-,298,298,596,,,
+,,Dhapai,064060403,-,200,173,373,,,
+,,Chak Ra Bc,064060706,-,,,,,,
+,,Pindi Patto BC,064060706,-,,,,,,
+170,Boys H/S Laddah Primary Protion  Male,Saddah,064060401,-,257,,257,3,0,3
+,,Saddah,064060402,-,368,,368,,,
+,,Laddah,064060408,-,179,,179,,,
+,,Rambrian wala,061060204,-,356,,356,,,
+,,Nourgan BC,064060710,-,,,,,,
+171,Boys H/S Laddah Saddah (High Portion) Female,Saddah,064060401,-,,239,239,0,3,3
+,,Saddah,064060402,-,,327,327,,,
+,,Laddah,064060408,-,,158,158,,,
+,,Rambrian wala,064060204,-,,339,339,,,
+,,Neugran BC,064060710,-,,,,,,
+172,Govt Boys H/S Thatha Musa,Thatha Musa,064061003,-,563,494,1057,2,2,4
+,,kotli Shahani,064601003,-,178,177,355,,,
+173,Boys M/S Bhakhoki,BHAKHAK,064061002,-,576,481,1057,2,2,4
+174,Boys P/S Jeowanjal,Jeowanjal,064061004,-,337,278,615,2,2,4
+,,Jeonwanjal,064061005,-,362,342,704,,,
+175,Boys P / S Mehmoodabad Male,Mehmood abad,064061101,-,475,,475,3,0,3
+,,Mehmood abad,064061102,-,545,,545,,,
+176,Girls M/S Mehmood abad Feamle,Mehmooabad,064061101,-,,426,426,0,3,3
+,,Mehmood abad,064061102,-,,550,550,,,
+177,Boys M/S Dhilu SharqiBoys P/S Changanwali,-,,-,,,,2,1,3
+,,Changanwali,064061103,-,255,224,479,1,1,2
+,,Kot Miana,064061105,-,37,38,75,,,
+179,Girls M/S Kang Buddah,Kang Buddah,064061106,-,346,311,657,2,2,4
+,,Kang Mehd Pur,064061107,-,332,305,637,,,
+180,Girls M/S Shehbaz pur,Shahbaz Pur,064060801,-,449,402,851,2,1,3
+,,Noshehra Miana,064060801,-,159,141,300,,,
+,,Dhing Wal Bc,064060812,-,,,,,,
+,,Mohla Bc,064060906,-,,,,,,
+,,Adalat Garh BC,064060806,-,,,,,,
+,,Sun BC,064060807,-,,,,,,
+,,Pathorri BC,064060808,-,,,,,,
+,,Heer BC,064060809,-,,,,,,
+,,Chodowal BC,064060810,-,,,,,,
+181,Boys P/S Khasa,Khasa,06460802,-,52,41,93,2,2,4
+,,Naib Pur,064060902,-,51,73,124,,,
+,,Kaan,064060903,-,174,191,365,,,
+,,Chak Rehman,064060905,-,58,47,105,,,
+,,Laloki,064060904,-,32,33,65,,,
+,,Ali Sher Mota,064060803,-,29,19,48,,,
+,,Mahiwal,064060804,-,46,44,90,,,
+,,Mota Kalan,06460805,-,78,60,138,,,
+182,Girls P/S Beraj,Behraj,064061601,-,515,497,1012,2,1,3
+183,Govt. Girls P/S Kot Ranjha,Kot Ranjha,064061602,-,330,300,630,2,2,4
+,,Naffrian,064061501,-,315,283,598,,,
+184,Girls P/S Mangowal Sharqi,Mangowal Shariq,064061403,-,435,367,802,2,2,4
+,,Mangowal Sharqi,064061404,-,485,428,913,,,
+185,Girls P/S Tibi Pipli,Tibi Pipli,064061301,-,154,135,289,2,2,4
+,,Meowal,064061302,-,226,187,413,,,
+,,Meowal,064061303,-,281,251,532,,,
+,,Kula Chour,064061304,-,18,23,41,,,
+186,Girls P/S Kotla Soian,Kotla Soian,064061603,-,530,462,992,2,1,3
+187,Girls P/S Ranewal (s) (Femal),Renewal (S),064061203,-,,486,486,2,1,3
+,,REnewal (S),064061204,-,,465,465,,,
+188,Boys P/S Ranewal (S) (Male),Renewal (S),064061203,-,677,,677,2,2,4
+,,Renawal (s),064061204,-,622,,622,,,
+189,Girls P/S Thimka,Thimka,064061502,-,614,533,1147,2,2,4
+190,Boys P/s Thimka,Thimka,064061503,-,412,381,793,2,1,3
+191,Girls H/S Ikhlas Garh (Primary Portion),Ikhlas Garh,06460205,-,529,454,983,2,1,3
+,,Hafiz Hayat,064061205,-,71,54,125,,,
+192,Boys P/S Karim dad,Karim Dad,064111304,-,351,266,617,2,2,4
+,,Hardas Pur,064061202,-,326,341,667,,,
+193,Boys P/S Majra,Majra,064061208,-,362,302,664,2,1,3
+,,Burchh,064061201,-,119,94,213,,,
+194,Girls P/S Kot ameer Hussain,Kot Amir Husswain,064061207,-,514,426,940,2,2,4
+,,Chak Khair Din,064061206,-,185,159,344,,,
+195,Boys P/S Ghuman,Ghuman,064060206,-,611,510,1121,2,1,3
+196,Girls P/S Maroof,Maroof,064060203,-,352,262,614,2,2,4
+,,Shah Jahanian,064060202,-,230,196,426,,,
+,,Kheewa,064060304,-,375,384,759,,,
+197,Boys H/S Bhagowal Khurd (Female),Bhagowal Khurd,064060301,-,,502,502,0,3,3
+,,Bhagowal Khurd,064060302,-,,359,359,,,
+198,Girls Model School Bhagowal (Male),Bhagowal Khurd,064060301,-,582,,582,3,0,3
+,,Bhagowal Khurd,064060302,-,434,,434,,,
+199,Girls P/S Sohal Kalan,Sohal Kalan,064060303,-,472,461,933,3,2,5
+,,Hayat Garh,064060305,-,663,589,1252,,,
+200,Boys P/S Kolo Wala,Kolo Wala,064060606,-,334,356,690,2,1,3
+,,Sian,064060601,-,19,14,33,,,
+,,Chak Mero,064060607,-,134,138,272,,,
+201,Girls P /S Sheikh Pur (Kharianwali),Sheikh Pur,064060602,-,838,891,1729,2,2,4
+202,Boys H S Sheikh Pur,Sheikh Pur,06460603,-,630,680,1310,2,2,4
+203,Boys H S Sheikh Pur,Sheikh Pur,64060604,-,585,606,1191,2,2,4
+204,Girls M S Sheikh Pur,Sheikh pur,064060605,-,757,759,1516,2,2,4
+205,Boys M S Chak Manju,Chak Manju,064060103,-,790,686,1476,3,2,5
+206,Girls M S Chak Kala,Chak kala,064060201,-,523,420,943,2,1,3
+207,Girls P S Sook Bhudhi,Sook Bhudhi,064060104,-,313,381,694,2,1,3
+208,Girls P S Hanjrai,Hanjrai,064060102,-,470,342,812,2,2,4
+,,Hanjral,64060101,-,450,339,789,,,
+209,Girls M S Alam Garh,Alam Garh,064111206,-,379,293,672,2,1,3
+,,Nand Pur,064061401,-,50,42,92,,,
+,,Jalal Pur Jattan,064061402,-,41,35,76,,,
+210,Boys H S Alam Garh,Alam Garh,064111207,-,464,437,901,2,1,3
+211,Boys H S Alam Garh,Alam Garh,064111208,-,490,422,912,2,1,3
+212,Girls P S Dhilu Gharbi,Dhilu Gharbi,064111203,-,222,209,431,2,1,3
+,,Darwa,064111204,-,347,252,599,,,
+,,Kharadian,064111205,-,144,101,245,,,
+213,Girls P /S Jaid Pur,Jaid Pur,064111201,-,361,260,621,2,1,3
+,,Kaaint,064111202,-,149,174,323,,,
+214,Girls M/S Fateh Pur,Fateh Pur,06411101,-,601,496,1097,2,1,3
+215,Boys H S Fateh Pur,FATEH PUR,064111102,-,473,438,911,3,2,5
+,,FATEH PUR,064111103,-,433,391,824,,,
+216,Govt. Girls E/S Fateh Pur,FAteh Pur,06411104,-,475,460,935,2,2,4
+,,Tibi Bhousa,06411105,-,226,221,447,,,
+217,Govt. Boys P/S Bawanta,BAwanta,064111004,-,417,309,726,2,2,4
+,,Shah Pur,064111001,-,378,260,638,,,
+218,Govt. Boys P/S Jhaans,Jhaans,06411102,-,368,308,676,2,1,3
+,,Phira Khathana,064111006,-,295,237,532,,,
+219,Govt. P/S Mehsam,Mehsam,064111005,-,432,368,800,2,2,4
+,,KHanowal,064111003,-,251,205,456,,,
+220,Govt. Boys P/S Bahuwal,Bahu wal,064110801,-,621,600,1221,2,2,4
+,,Budhana,064110905,-,233,163,396,,,
+221,Boys M/S Chechian,Chechian,064110901,-,578,517,1095,2,2,4
+,,Awana,064110906,-,178,175,353,,,
+,,Chak Mukrian BC,064110908,-,,,,,,
+222,Boys P/S Chodowal,Chodowal,064111301,-,402,347,749,1,1,2
+223,Girls P/S Chodowal,Chodowal,064111302,-,421,316,737,1,1,2
+,,Chak Chodowal BC,064111305,-,,,,,,
+224,Govt. P/S Boura,Boura,064110802,-,413,385,798,2,2,4
+,,Piara,064110803,-,384,337,721,,,
+225,Govt. Boys P/S Chak Kural,Chak Kural,064110902,-,453,389,842,2,1,3
+226,Girls P/S Bitho Wal,Bhithowal,064111303,-,263,266,529,2,1,3
+,,Mukrian,064110907,-,273,217,490,,,
+227,Boys P/S Ghansia,Ghansia,064110903,-,422,332,754,2,2,4
+,,Ghansia,064110904,-,339,314,653,,,
+228,H/C Joura Jalalpur,Joura jalapur,064110601,-,561,479,1040,2,1,3
+229,Boys P/s Mehlu,Mehlu,064110602,-,714,561,1275,2,2,4
+230,Boys H/S Khokhar (Primary ,Khokhar,064110604,-,505,473,978,2,2,4
+231,Boys H/S Khokhar (High Portion),Khokhar,064110603,-,369,326,695,3,2,5
+,,Khokhar,064110605,-,579,469,1048,,,
+232,Boys P/S Sangrana,Sangrana,064110702,-,230,244,474,2,1,3
+,,Daou,064110701,-,239,197,436,,,
+233,Boys P/S Bokan,Bokan,064110703,-,360,344,704,3,2,5
+,,Bhalaisar,064110706,-,430,339,769,,,
+,,Meowal,064110707,-,130,114,244,,,
+234,Boys P/S Maikan,Maikan,064110704,-,560,453,1013,2,2,4
+,,Bhattian,064110705,-,192,172,364,,,
+235,Boys P/S Nathuwal,Chur Chak,064110606,-,211,143,354,2,2,4
+,,Nathowal,064110607,-,355,262,617,,,
+,,Harbas Pur,064110608,-,183,153,336,,,
+236,Boys H/S Daulat Nagar (Male),Daulat Nagar,064110105,-,669,,669,3,2,5
+,,daulat Nagar,064110106,-,528,,528,,,
+,,Daulat Nagar,064110107,-,554,,554,,,
+237,Govt H/S Daulat Nagar (Female),Daulat Nagar,064110105,-,,625,625,2,2,4
+,,Daulat Nagar,064110106,-,,476,476,,,
+,,Daulat Nagar,064110107,-,,487,487,,,
+238,Boys P/S Sarai Dhing,Sarai Dhing,064110101,-,696,619,1315,2,2,4
+239,Girls P/S Sarai dhing,Sarai Dhing,064110102,-,445,425,870,2,2,4
+,,Lambra,064110110,-,313,315,628,,,
+240,Girls P/S Umar Wal,Umar Wal,064110103,-,272,237,509,2,1,3
+,,Umar Wal,064110104,-,282,241,523,,,
+241,Boys P/S Saida,Saida,064110109,-,360,306,666,2,2,4
+,,Ghari Bahu,064110108,-,387,332,719,,,
+242,Boys P/S Dhumma Malka,Dhumma Malka,064110301,-,414,347,761,2,2,4
+,,Dhumma Malka,064110302,-,448,386,834,,,
+243,Boys P/S Doga,Doga,064110401,-,529,422,951,2,2,4
+,,Doga,064110402,-,307,264,571,,,
+244,Girls M/S Doga,Doga,064110403,-,253,230,483,2,2,4
+,,Doga,064110404,-,342,320,662,,,
+,,Doga,064110404,-,342,320,662,,,
+,,Doga,064110405,-,333,316,649,,,
+245,P/S Chakanwali,Chakanwali,064111503,-,596,584,1180,2,1,3
+246,Boys P/S Keeranwala,Keeranwala,064111507,-,479,401,880,2,2,4
+,,Hasta Ghaga,064111506,-,172,149,321,,,
+,,Jajowal,064111505,-,187,190,377,,,
+247,Girls M/S Chandala,Chandala,064111501,-,617,569,1186,2,2,4
+248,Boys M/S Chandala,Chandala,064111502,-,194,174,368,2,1,3
+,,Jamman,06411504,-,346,270,616,,,
+249,Girls P/S Chokhar Khurd,Chokhar Khurd,064111401,-,553,477,1030,2,1,3
+250,Boys P/S Dharekari,Dharekari,064110201,-,350,290,640,1,1,2
+251,Boys P/S Dharekari,Dharekari,064110202,-,398,342,740,1,1,2
+252,Govt. P/S Nano Handa,Nano Handa,064110306,-,213,190,403,1,1,2
+,,Shahabdiwal,064110305,-,137,134,271,,,
