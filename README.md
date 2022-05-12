@@ -14,4 +14,6 @@ Unfortunately, the polling stations data for the Baluchistan Assembly is missing
 
 I have tried to convert most of the PDF data to the CSV. However, some scanned PDF files could not be converted. If anyone is able to convert them, please share the result so it can be updated here too. 
 
+Additionally, there is a lot of missing Districts in the Polling Stations data which I could not find yet.  
+
 If you have any questions, please do not hesitate to reach out to me at @rugpundit on Twitter. 
