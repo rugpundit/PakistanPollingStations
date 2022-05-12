@@ -1,0 +1,671 @@
+SerialId,PollingStation,UC,CensusBlock,VotersSerial,MaleVoters,FemaleVoters,TotalVoters,MaleBooths,FemaleBooths,TotalBooths
+1,Cantt:Board Office Lahore Cantt:(Male),New Officers Colony / Bilal Park,071010101,1---586  B-1,586,,586,2,,2
+,,Jhuggian Jhallaran,071010107,1---579 B-2,579,,579,,,
+2,Cantt: Board Office Lahore Cantt:(Female),New Office colony / Bilal Park,071010101,1---527  B-1,,527,527,,2,2
+,,Jhuggian Jhallaran,071010107,1-332  B-2,,332,332,,,
+3,St.Joseph High School Sarfraz Rafiqui Road Lahore Cantt: (Male),Shuttar Mohallah Tufail Road,071010102,1---353 B-1,353,,353,3,,3
+,,Qazi Mohallah / Shuttar Mohallah,071010103,1-335 B-2,335,,335,,,
+,,Bakkar Mohallah Lahore Road,071010104,1---732 B-3,732,,732,,,
+4,St. Jospeph High School* Sarfraz Rafiqi Road Lahore Cantt: (Female),Shuttar Mohallah Tufail Road,071010102,1---351 B-1,,351,351,,3,3
+,,Qazi mohallah / Shuttar Mohallah,071010103,1---351 B-2,,351,351,,,
+,,Bakkar Mohallah Lahore Road,071010104,1-508 B-3,,508,508,,,
+5,St. Anthony High School* Sarfraz Rafiqui road Lahore Cantt: Lahore,Kot Ghulan Nabi,071010105,1-435 B-1,435,,435,2,,2
+,Cantt:,Railway Line Tariq Colony,071010106,1---365 B-2,365,,365,,,
+6,St. Anthony High School* Sarfraz Rafiqui Road Lahore Cantt: Lahore,Kot Ghulam Nabi,071010105,1---362 B-1,,362,362,,2,2
+,Cantt: (Female),Railway Line Tariq colony,071010106,1---275 B-2,,275,275,,,
+7,Cantt: Board Office Lahore Cantt: (Male),Old Officer Colony,071010201,1---275 B-1,275,,275,4,,4
+,,Karachi Mohallah,071010202,1---264 B-2,264,,264,,,
+,,Officers Colony ,071010203,1---548 B-3,548,,548,,,
+,,Subedar colony Ghazi Road,071010204,1---368 B-4,368,,368,,,
+8,Cantt: Board Office Lahore Cantt:(Female),Old Officer colony,071010201,1---210 B-1,,210,210,,4,4
+,,Karachi Mohallah,071010202,1---253 B-2,,253,253,,,
+,,Officers colony Ghazi Road,071010203,1---539 B-3,,539,539,,,
+,,Subedar Colony Ghazi Road,071010204,1---283 B-4,,283,283,,,
+9,New Cantt: Public School P.A.F. Colony Zarar Shaheed Lahore Cantt: (Male),dongar Mohalla (Wast),071010301,1---480 B-1,480,,480,3,,3
+,,Dongar Mohalla (East),071010302,1-444  B-2,444,,444,,,
+,,Kharass Mohallah (East),071010303,1---473 B-3,473,,473,,,
+10,New Cantt: Public School P.A.F Colony Shaheed Lahore Cantt: (Female),Dongar Mohalla (West),071010301,1---401  B-1,,401,401,3,,3
+,,Dongar Mohalla (East),071010302,1--383 B-2,,383,383,,,
+,,Kharass Mohallah (East),071010303,1---516,,516,516,,,
+11,F.G Girls Middle School No.3 Lahore Cantt: (Combined),Kharass Mohallah (West),071010304,1---451(M) B-1,451,0,451,1,1,2
+,,-,0,1-421 (F) B-2,,421,421,,,
+12,New Cantt: Public School P.A.F. colony Zarar Shaheed Lahore Cantt: (Male),Diggi Mohallah (West),071010402,1---420 B-1,420,,420,3,,3
+,,Kacchi Abadi Eid Gah,071010401,1---338 B-2,338,,338,,,
+,,Diggi Mohallah (East),071010403,1---404 B-3,404,,404,,,
+13,New Cantt: Public School P.A.F. Colony Zarar Shaheed Lahore Cantt: (Female),Diggi Mohallah (West),071010402,1---357 B-1,,357,357,,3,3
+,,Kacchi Abadi Eid Gah,071010401,1---201 B-2,,201,201,,,
+,,Diggi Mohallah (East),071010403,1---258 B-3,,258,258,,,
+14,St. Joseph High School* Sarfraz Rafiqui Road Lahore Cantt: ,Bazaz Mohallah (East),071010404,1---582(M) B-1 1---528(F) B-2,582,528,1110,1,1,2
+15,St.Joseph High School* Sarfraz Rafiqui Road Lahore Cantt: (Combined),Bazaz Mohallah (West),071010405,1---571 (M) B-1,571,0,571,1,1,2
+,,-,0,1-473 (F) B-2,,473,473,,,
+16,F.G.Girls Middle School No 3 Lahore Cantt: (Male),Ghousia Colony,071010501,1---349 B-1,349,,349,2,,2
+,,Kheyber Colony,071010502,1---635 B-2,635,,635,,,
+17,F.G.Grils Middle School No3 Lahore Cantt: (Female),Ghousia Colony,071010501,1---241 B-1,,241,241,,2,2
+,,Kheyber Colony,071010502,1---449 B-2,,449,449,,,
+18,Al-Apsa High School* Tufail Road Lahore Cantt: (Combined),Ghousia Colony / Kheyber Colony,071010503,1---741 (M) B-1,741,0,741,1,1,2
+,,GHOUSIA COLONY / KHEBER COLONY,0,1---546(F) B-2,,546,546,,,
+19,PAF institute to Special Education* PAF market* Lahore Cantt:,P.A.F colony,071010504,1-585 M,585,637,1222,2,1,3
+,(Combined),P.A.F. COLONY,-,586-1222 B-2,637,,637,,,
+,,-,-,1---991 F B-3,,991,991,,,
+20,Modren  Ali  Garh Public High  School Mian meer Colony Lahore (Male),Altaf Road Mian meer Colony,071020101,1---775 B-1,775,,775,2,,2
+,,603 workshop Mian Meer,071020102,1---837 B-2,837,,837,,,
+21,Modren Ali Garh Public High School Mian Meer Colony Lahore  (Female),Altaf Road Mian Meer Colony,071020101,1---556 B-1,,556,556,,4,4
+,,603 workshop Mian Meer,071020102,1---689 B-2,,689,689,,,
+22,Shama Public High School Mian meer Colony lahore Cantt: (Male),Millat Park Mian Meer Colony,071020103,1---610 B-1,610,,610,2,,2
+,,Street No 14 to 15 Mian Meer Colony,071020104,1---490 B-2,490,,490,,,
+23,Shama Public High School Mian meer Colony Lahore Cantt: (Female),Millat Park Mian Meer Colony,071020103,1---570 B-1,,570,570,,2,2
+,,Street No 14to 15 Mian Meer Colony,071020104,1---392 B-2,,392,392,,,
+24,F.G.Girls Middle School No.3 lahore Cantt: (Male),Ahatta Ghassi Ram Eid Gah,071020201,1---244 B-1,244,,244,2,,2
+,,Kacchi Abadi lal kurti,071020202,1---770 B-2,770,,770,,,
+,,C.M.H Quarters,071020205,1---388 B-2,388,,388,,,
+25,F.G.Girls Middle School No.3 lahore Cantt: (Female),Ahatta Ghassi Ram Eid Gah,071020201,1---195 B1,,195,195,,3,3
+,,Kacchi Abadi Lal Kurti,071020202,1---706 B-2,,706,706,,,
+,,C.M.H Quarters,071020205,1---269 B-3,,269,269,,,
+26,F.G.Boys High School No 5 lahore Cantt: (Male),Ahatta Jamna Das,071020203,1---586 B-1,586,,586,2,,2
+,,Askari Bazar,071020204,1---707 B-2,707,,707,,,
+27,F.G.Boys High School No5  Lahore cantt: (Female),Ahatta Jamna Das,071020203,1---537 B-1,,537,537,,2,2
+,,Askari Bazar,071020204,1---628 B-2,,628,628,,,
+28,Iqra Taleem-ul-Atfal School new Officer Colony Lahore Cantt:,M.E.S.Colony,071020301,1---243 B-1,243,,243,3,,3
+,(Male),Askari Villas Sarwar Road,071020302,1---206 B-2,206,,206,,,
+,,Ahatta mehtab Rai Sarwar Road,071020303,1---916 B-3,916,,916,,,
+29,Iqra Taleem-ul-Atfal School New Officer Colony Lahore Cantt:,M.E.S Colony,071020301,1---203 B-1,,203,203,,3,3
+,(Female),Askari Villas Sarwar Road,071020302,1---189 B-2,,189,189,,,
+,,Ahatta mehtab Rai sarwar Road,071020303,1---846 B-3,,846,846,,,
+30,Cantt: Public School Sarwar Road Lahore Cantt: (Combined),-,071020304,1---375(M) B-1,375,,375,2,2,4
+,,Bhagwan Das Building,-,1---342 F B-2,,342,342,,,
+,,-,071020305,1---378 MB-3,378,,378,,,
+,,R.T.T.S TUFAIL ROAD,-,1---316 F B-4,,316,316,,,
+31,Cantt: Public School Sarwar Road lahore Cantt: (Cambined),Kotwali Mohallah,071020401,1---328(M) B-1 1---323(F) B-2,328,323,651,2,2,4
+,,Bail Ahatta Kotwali mohallah,071020402,1---277(M) B-3 1---222(F) B-4,277,222,499,,,
+32,Cantt: Board Office Lahore Cantt: lahore Cantt: (Male),Sagar Road Bangali Mohallah,071020403,1---402 B-1,402,,402,3,,3
+,,Bangali Mohallah (East),071020404,1---242 B-2,242,,242,,,
+,,Bangali Mohallah (West),071020405,1---323 B-3,323,,323,,,
+33,Cantt: Board Office Lahore Cantt: lahore Cantt: (Female),Sagar Road Bangali Mohallah,071020403,1---435 B-1,,435,435,,3,3
+,,Bangali Mohallah ,071020404,1---205 B-2,,205,205,,,
+,,Bangali Mohallah (West),071020405,1---276 B-3,,276,276,,,
+34,Sir Syed Public School mohallah near Ghulam Muhammad Park Lahore Cantt: (Combined),Gawalmandi Sarfraz Rafquei Road,071020501,1---244(M) B-1 1---219(F) B-2,244,219,463,2,2,4
+,,Gawalmandi Zarar Shaheed Road,071020502,1---451(M) B-3 1---415(F) B-4,451,415,866,,,
+35,Cantt: Public School* Sarwar Road lahore Cantt: (Male),Loonia Mandi Dehli Road,071020503,1---487 B-1,487,,487,2,,2
+,,Loonia mandi / Ahatta Kashori Lal,071020504,1---515 B-2,515,,515,,,
+36,Cantt: Public School* Sarwar Road lahore Cantt: (Female),loonia mandi Dehli Road,071020503,1---477 B-1,,477,477,,2,2
+,,Loonia Mandi / Ahatta Kashori Lal,071020504,1---414 B-2,,414,414,,,
+37,Govt. Islamia High School Lahore Cantt: (Male),Askari Flate -I Sarfraz Rafiqi Road,071020601,1---228 B-1,228,,228,4,,4
+,,Askari Flate-II Sarfraz Rafiqi Road,071020602,1---280 B-2,280,,280,,,
+,,Askari Flate-III Sarfraz Rafiqi Road,07120603,1---393 B-3,393,,393,,,
+,,Askar 09 Zarar Shaheed Road,071020604,1---575 B-4,575,,575,,,
+38,Govt. Islamia High School Lahore Cantt: (Female),Askari Flate -I Sarfraz Rafiqi Road,071020601,1---232 B-1,,232,232,,4,4
+,,Askari Flate -II Sarfraz Rafiqi Road,071020602,1---285 B-2,,285,285,,,
+,,Askari Flate -III Sarfraz Rafiqi Road,071020603,1---416 B-3,,416,416,,,
+,,Askari 09 Zarar Shaheed Road,071020604,1---555 B-4,,555,555,,,
+39,Saif Public School Mian meer Colonyh Lahore Cantt: (Combined),Mian Meer Colony Street No ,071020701,1-255(M) B-1 1---182(F) B-2,255,182,437,2,2,4
+,,Mian meer Colony Street No 20.21,071020702,1---168(M) B-3 1---115(F) B-4,168,115,283,,,
+40,Nosegar Kids Care School St. No.2 Mian Meer Colony Lahore (Combined),Mian meer Colony(North),071020703,1---562(M) B-1 1---367 (F) B-2,562,367,929,2,2,4
+,,Mian Meer Colony (South),071020704,1---230(M) B-3 1---118(F) B-4,230,118,348,,,
+41,Govt Middle School Milltary Dairy Farm Sarfraz Rafiquei Road lahore Cantt: (Combined),Askari Villas Aziz Bhatti Road,071020801,1---53(M) 1---37 (F) B-1,53,37,90,2,2,4
+,,Chitral Lines,071020802,1--66 (M) 1--42(F) B-2,66,42,108,,,
+,,Dairy Farm No.08,071020803,1---19(M) 1---07(F),19,7,26,,,
+,,Saint Joshep Church,071020804,1---111(M) 1---82(F) B-3,111,82,193,,,
+,,military Dairy Farm,071020805,1---318(M) 1---207 (F) B-4,318,207,525,,,
+42,MES Office Allauddin Road lahore Cantt: (Male),Saint Jhon Park,071030101,1---421 B-1,421,,421,4,,4
+,,Army Flate/ Quarter Allauddin Road,071030103,1---430 B-2,430,,430,,,
+,,CMA colony Abid majeed Road,071030102,1---392 B-3,392,,392,,,
+,,Asad jhon Road / Sarwar Road,071030104,1---237 B-4,237,,237,,,
+43,MES Office Allauddin Road Lahore Cantt: (Female),Saint Jhon Park,071030101,1---397 B-1,,397,397,,4,4
+,,Army Flate/ Quarter Allauddin Road,071030103,1--520 B-2,,520,520,,,
+,,CMA Colony Abid majeed Road,071030102,1---426 B-3,,426,426,,,
+,,Asad Jhon Road/ Sarwar Road,071030104,1---226 B-4,,226,226,,,
+44,Govt. Gulberg High School near Railway Crossing lahore Cantt:,Fateh Abad,071030201,1---732 B1,732,,732,3,,3
+,(Male),Khan Colony,071030202,1---458 B-2,458,0,458,,,
+,,Hussnain Abad Street No. 01 to 03,071030203,1-508 B-3,508,,508,,,
+45,Govt. Gulberg High School Near Railway Crossing Lahore Cantt:,Fateh Abad,071030201,1---562 B-1,,562,562,,3,3
+,(Female),Khan Colony,071030202,1---387 B-2,,387,387,,,
+,,Hussnain Abad Street No 01to03 ,071030203,1---298 B-3,0,298,298,,,
+46,Govt. Khananm Girls Middle School Hussain Abad lahore Cantt: (Male),Hussnain Abad Street No 03 to 08,071030204,1---743  B-1,743,,743,2,,2
+,,Hassnain Abad Street No. 13to 17,071030302,1---497 B-2,497,,497,,,
+47,Govt. Khananm Girls Middle School Hussain Abad lahore Cantt: (Female),Hussnain Abad Street No.03 to 08,071030204,1--550 B1,,550,550,,2,2
+,,Hussnain Abad Street No 13to 17,071030302,1--374 B-2,,374,374,,,
+48,Govt. Gulberg High School* Near Railway Crossing Lahore Cantt:,-,071030301,1---503 B-1,503,,503,4,,4
+,(Male),Qasim Pura,071030303,1-585 B-2 586-1346 B-3,761,0,761,,,
+,,Sultan Park (North),071030304,1---268 B-4,268,,268,,,
+,,Sultan Park (South),071030305,1---344 B-5,344,,344,,,
+,,Hussain Abad Street No.08 to 13,-,1---585  B-2,585,,585,,,
+49,Govt.Gulberg High School* Near Railway Crossing Lahore Cantt: (Female),Hussnain Abad Street No.08 to 13,071030301,1---398 B-1,,398,398,,4,4
+,,Qasim pura,071030303,1---942 B-2,,942,942,,,
+,,sultan Park (North),071030304,1---157 B-3,,157,157,,,
+,,SULTAN PARK(SOUTH),071030305,1-208 B-4,,208,208,,,
+50,F.G. Primaruy School Shami Road Lahore Cantt: (Male),Bridge Colony,071030401,1---157 B-1,157,,157,4,,4
+,,Mian Meer Line (North),071030403,1---154 B2,154,,154,,,
+,,Punjab Rajment Shami Road,071030405,1---113 B-2,113,,113,,,
+,,Army Flate Bridge Colony,071030402,1---379 B-3,379,0,379,,,
+,,Mian Meer Colony (South),071030404,1---356 B-4,356,,356,,,
+51,F.G. Primary School Shami Road Lahore Cantt: (Female),Bridge Colony,071030401,1---163 B-1,,163,163,,4,4
+,,Mian Meer Line(North),071030403,1---119 B-2,,119,119,,,
+,,Punjab Rejment ,071030405,1---92,,92,92,,,
+,,Army Flate Bridge Colony,071030402,1---371 B-3,,371,371,,,
+,,Mian Meer Colony (South),071030404,1---325 B-4,,325,325,,,
+52,Garrison Academy for Boys Sarwar Road Lahore Cantt: (Male),Sarwar Road / Zaffar Road,071030501,1---704 B-1,704,,704,4,,4
+,,J Block Nisar Colony,071030502,1---104,104,,104,,,
+,,Siddiquei Camp Munir Road,071030503,1---230 B-2,230,,230,,,
+,,Askari Villas Shami Road,071030504,1---279 B-3,279,,279,,,
+,,Nisar Road,071030505,1---240 B-4,240,,240,,,
+53,Garrison Academy for Boys Sarwar Road Lahore Cantt: (Female),Sarwar Road/ Zaffar Road,071030501,1---512 B-1,,512,512,,4,4
+,,J Block Nisar Colony,071030502,1---90,,90,90,,,
+,,Siddiquei Camp Munir Road,071030503,1---196 B-2,,196,196,,,
+,,Askari Villas Shami Road,071030504,1---273 B-3,,273,273,,,
+,,Nasir Road,071030505,1---257 B-4,,257,257,,,
+54,Lahore Garrisson Boys School Tufaiil Road lahore Cantt: (Male),TufailRoad / Arif Jann Road,071030601,1--321 B-1,321,,321,4,,4
+,,Arif Jan Road/ Tariq  Road,071030602,1---239 B-2,239,,239,,,
+,,Kacchi Abadi Iqbal Camp,071030603,1---283 B-3,283,,283,,,
+,,Iqbal Camp P.A.F,071030604,1---571 B-4,571,,571,,,
+,,Sadaat Line/ Gujrat Line,071030605,1---25,25,,25,,,
+55,Lahore Garrisson Boys School Tufaiil Road lahore Cantt: (Female),Tufail Road /Arif Jaan Road,071030601,1---276 B-1,,276,276,,4,4
+,,Arif Jan Road/ Tariq Road,071030602,1---228 B-2,,228,228,,,
+,,kacchi Abadi Iqbal Camp,071030603,1---216 B-3,,216,216,,,
+,,Iqbal Camp P.A.F,071030604,1---572 B-4,,572,572,,,
+,,Sadaat line/ Gujrat Line,071030605,1---20,,20,20,,,
+56,Lahore Garrissan Boys School Tufaiil Road Lahore Cantt: ,Nagi Road / Sarfraz Rafiqi ,071030701,1---113(M) B1 1---221(M),113,116,229,2,2,4
+,,Sher Khan Road,071030702,1---116(F) 1---248(F),221,248,469,,,
+,,Abid majeed Road / Qureshi Camp,071030703,1---237 (M) 1---215(F),237,215,452,,,
+,,Old Air Port,071030704,1---58(M) 1---15(F) B4,58,15,73,,,
+57,Aqsa Public School near Rana market* Lahore Cantt: (Male),Ali Park /Eden Avnue,071030801,1---644 B-1 671 B-2,1315,0,1315,3,,3
+,,Gillani Street Nadir Abad,071030802,1---671 B-3,671,,671,,,
+58,Aqsa Public School near Rana market* Lahore Cantt: (Female),Ali Park/ Eden Avnue,071030801,1---572 B-1,0,572,572,,3,3
+,,Gillani Street nadir Abad,071030802,1---636 B-3,,549,549,,,
+,,-,-,1---636 B-3,,636,636,,,
+59,Syed Public School Nadra Abad Baidain road lahore Cantt: (Male),Nadir Abad,071030803,1---653 B-1,653,,653,4,,4
+,,Arif Abad nadir Abad,071030804,1---523 B-2,523,,523,,,
+,,Gulshan Ali Colony /Nadir Abad,071030805,1---585 B-3 586-1259 B-4,1259,0,1259,,,
+60,Shaheen Public School st. No 05 Gulshan ali Colony Baidian Road,nadir Abad,071030803,1---542 B-1,,542,542,,3,3
+,lahore Cantt: (Female),ArifAbad/ Nadir Abad,071030804,1---423 B-2,,423,423,,,
+,,Gulshan Ali Colony / Nadir Abad,071030805,1---972 B-3,,972,972,,,
+61,Govt. Rehnuma Primary School* Arif Abad Baidian Road lahore Cantt: (Male),Ali Park Nadir Abad,071030803,1---891 B1,891,0,891,3,,3
+,,ArifAbad(East),071030901,564 B-2,564,,564,,,
+,,Arif Abad(West),71030902,1---602 B-3,602,,602,,,
+62,Govt Rehnuma Primary School* Arif Abad Baidian Road lahroe Cantt: (Female),Ali Park nadir Abad,071030806,1---531 B1,,531,531,,3,3
+,,Arif Abad (East),071030901,1---419 B-2,,419,419,,,
+,,Arif Abad (West),071030902,1---424 B3,,424,424,,,
+63,Alfaisla Model High School Farooqabad Pholiyia Wali Gali Badinan Road lahore Cantt: (Male),Yousaf Park ( East),071030903,1---534 B1,534,,534,2,,2
+,,yousaf Park (West),071030904,1---480 B2,480,,480,,,
+64,Al- Failsa Model High School FarooqabadPholiyia Wali Gali BAdian Road Lahore Cantt:,Yousaf park (East),071030903,1---346 B1,,346,346,,2,2
+,(Female),Yousaf Park (Wast),071030904,1---292 B-2,,292,292,,,
+65,Manzoor Public School Sultan Park lahore Cantt: (male),Gulbhar Colony Street No 13to 15 walton,071040101,1---398 B1,398,,398,3,,3
+,,Gulbhar Coilony Street No 11to 12 walton,071040102,1---258 B-2,258,,258,,,
+,,Gulbahar Colony Acdemy Road,071040104,1---386 B-3,386,,386,,,
+66,Manzoor Public School Sutlan Park lahore Cantt: (Female),Gulbhar Colony Street no 13 to 15 walton,071040101,1---334 B1,,334,334,,3,3
+,,gulbhar Colony street NO 11to 12 walton,071040102,1---287 B2,,287,287,,,
+,,Gulbhar Colony Acdemy road,071040104,1--259 B3,,259,259,,,
+67,Manzoor Public School Sultan Park lahore Cantt; (Combined),Gulbhar Colony Street No 05 to 07 walton,071040103,1---405(M) b11---325(F) B-2,405,325,730,2,2,4
+,,Gulbhar Colony Street No 02 to 04 Walton,071041001,1---246 (M) B3 1---215(F) B4,246,215,461,,,
+68,Manzoor Public School Sultan Park lahore Cantt: (Male),Gulbhar Colony Akram Abad,071040801,1---677 B-1,677,,677,3,,3
+,,Akram Abad madina Colony,071040802,1---514 B-2,514,,514,,,
+,,Gulbhhar Colony street No. 01 to 02 Walton,071041002,1---280 B-3,280,,280,,,
+69,Manzoor Public School Sultan Park lahore Cantt: (Female),Gulbhar Colony Akram Abad,071040801,1---606 B1,,606,606,,3,3
+,,Akram Abad madinaColony,071040802,1---477 B-2,,477,477,,,
+,,Gulbhar Colony Street No 01 to 02 Walton,071041002,1---256 B-3,,256,256,,,
+70,Beacon House School St. No. 4 Cavalry Ground Lahore Cantt: ,Cavlary Ground Street No 14to ,071040201,1---376 B-1,376,,376,4,,4
+,,Cavlary Ground Street no 01 to 06 walton,071040204,1---340 B-2,340,,340,,,
+,,Bay-Chiragh,071040202,1---52 B-3,52,,52,,,
+,,Cavlary Ground Street no 01 to 06 Walton,071040203,1---246 B-4,246,,246,,,
+71,Beacon House School St. No.4 Cavalry Ground Lahore Cantt.(Female),Cavlary Ground Street no 14to 17 walton,071040201,1---319 B1,,319,319,,4,4
+,,Gavlary Ground street no 01 to 04 walton,071040204,1---334 B2,,334,334,,,
+,,bay-Chiragh,071040202,1---57 B3,,57,57,,,
+,,Cavlary Ground Street no 01 to 06 Walton,071040203,1---373 B-4,,373,373,,,
+72,F.G Boys High School RA Bazzar lahore Cantt: (Male),C.M.A colony Tufail Road,071040205,1---363 B-1,363,,363,3,,3
+,,R.A Bazzar (South),071040206,1---399 B2,399,,399,,,
+,,RA Bazzar (North),071040301,1---639 B3,639,,639,,,
+73,F.G Boys High School BR Bazzar lahore Cantt: (Female),C.M.A Colony Tufail Road,071040205,1---267 B1,,267,267,,3,3
+,,R.A Bazar (South),071040206,1---475 B-2,,475,475,,,
+,,RA Bazar (North),071040301,1---547 B-3,,547,547,,,
+74,Govt. Middle Girls Primary School RA Bazar Lahore Cantt: (Male),40 Quarter Essa Nagar RA Bazar,071040303,1---280 B-1,280,,280,4,,4
+,,R.A Bazar Christian Colony,071040304,1---250 B-2,250,0,250,,,
+,,Essa Nagar Army Husing Scheme,071040302,1---401B-3,401,0,401,,,
+,,S.D Askari Officer Colony,071040306,1---355 B-4,355,,355,,,
+75,Govt. Middle Girls Primary School RA Bazar Lahore Cantt: (Female),40 Quarter Essa Nagar R.A Bazar,071040303,1---116 B-1,,116,116,,4,4
+,,R.A Bazar Christian Colony,071040304,1---198 B2,,198,198,,,
+,,Essa Nagar Army Housing ,071040302,1---313 B-3,,313,313,,,
+,,S.D Askari Officer Colony,071040306,1---488 B-4,,488,488,,,
+76,F.G Boys High School RA Bazar Lahore Cantt: (Male),B-Block Nishat colony,071040305,1---375 B1,375,,375,3,,3
+,,C Block Nishat Colony,071040402,1---587 B-2,587,,587,,,
+,,d Block Nishat Colony,071040405,1---451 B-3,451,,451,,,
+77,F.G Boys High School RA Bazar Lahore Cantt: (Female),B-Block Nishat Colony,071040305,1---463 B-1,,463,463,,3,3
+,,C-Block Nishat Colony,071040402,1---455 B-2,,455,455,,,
+,,D-Block Nishat Colony,071040405,1---385 B-3,,385,385,,,
+78,Student islamia High School Near Aysha Hospital* Main Road Nishat Colony Lahore Cantt: (Male),A-Block Nishat Colony,071040401,1---338 B-1,338,0,338,4,,4
+,,Link road Nishat Colony (South),071040403,1---402 B-2,402,,402,,,
+,,A/B  Block Nishat Colony,071040404,1---635 B-3,635,0,635,,,
+,,civil Defence Housing Society,071040501,1---373 B-4,373,0,373,,,
+79,Student islamia High School Near Aysha Hospital* Main Road Nishat Colony Lahore Cantt: (Female),A-Block Nishat Colony,071040401,1---310 B-1,,310,310,,4,4
+,,Link Road Nishat Colony (south),071040403,1---319 B-2,,319,319,,,
+,,A/B Block nishat Colony,071040404,1---557 B-3,,557,557,,,
+,,Civil Defence Housing Society,071040501,1---323 b-4,,323,323,,,
+80,Govt. Primary School* Nishat Colony Lahore Cantt: (Male),H-Block Saddiqui Road,071040502,1---316 B-1,316,,316,3,,3
+,,Pasha Chowk Maryyam Colony,071040505,1---565 b-2,565,,565,,,
+,,Church Road Maryyam Colony(East),071040506,1---696 b-3,696,,696,,,
+81,BISMILLAH HIGH  SCHOOL RABBANI ROA NISHAT Colony Lahore Cantt: (Female),H-Block Saddiqui Road,071040502,1---348 B-1,0,348,348,0,3,3
+,,Pasha chowk Maryyam colony,071040505,1---378 B-2,,378,378,,,
+,,church Road Maryyam Colony ,071040506,1---657 b-3,,657,657,,,
+82,St. Mary High School Maryyam Colony Lahore Cantt: (FEMALE),Maryyam Colony,071040503,1---528 b-1,528,,528,3,0,3
+,,-,071040504,1---585 B-2,585,,585,,,
+,,Church Road Maryyam Colony(West),-,586-1312,727,,727,,,
+83,St Mary  School* Maryyam Lahore Cantt: (Female),maryyam Colony,071040503,1---411 B-1,,411,411,0,2,2
+,,Church Road maryyam Colony(West),071040504,1---907 B-2,0,907,907,,,
+84,Pakistan Foundation School LDA Quarters Opp: Packages Factory Walton (Male),LDA Quarters A-Block (North) Walton,071040601,1---354  B-1,354,0,354,2,,2
+,,LDA Quarters B-Block (North) Walton,071040602,1---397 B-2,397,0,397,,,
+85,Pakistan Foundation School LDA Quarters Opp: Packages Factory Walton (Female),LDA Quarters A-Block (North) Walton,071040601,1---170 B-1,,170,170,,2,2
+,,LDA Quarters B-Block (North) Walton,071040602,1---370 B-2,,370,370,,,
+86,Muhammadi Public School LDA Quarters Walton (Male),LDA Quarters C-Block Walton,071040603,1---108 B-1,108,,108,4,0,4
+,,LDA Quarter b-Block (South) Walton,071040604,1---1049 B-2 B-3,1049,,1049,,,
+,,LDA Quarter A-Block (South) Walton,071040605,1---512 B-4,512,,512,,,
+87,Muhammad Public School LDA Quarters Walton (Female),LDA Quarter c-Block Walton,071040603,1---84,,84,84,,2,2
+,,LDA Quarters B-Block (South) Walton,071040604,1---564 B-1,,564,564,,,
+,,LDA Quarters A-Block (south) Walton,071040605,1---202 B-2,,202,202,,,
+88,Pakistan Foundation School LDA Quarters Opp: Packages Factory ,LDA Quater Gulshan Colony,071040606,1---1052(M) B-1 1---535(F) B-2,1052,535,1587,1,1,2
+89,Civil service Acadmay Walton ,civil Servisce ,071040701,1---274 B-1,274,,274,3,,3
+,,Railway Officer Colony (West),071040702,1---638 B-2,638,,638,,,
+,,Railway Quarters Ghousia colony,071040703,1---446 B-3,446,,446,,,
+90,Civil Service Acadmay Walton Road Lahore Cantt: (Female),Civil Servisce Acadmay,071040701,1---246 B-1,,246,246,,3,3
+,,Railway officer colony (West),071040702,1---581 B-2,,581,581,,,
+,,Railway Quarters Ghousia Colony,071040703,1---407 B-3,,407,407,,,
+91,Govt. Primary School Railway Colony Lahore Cantt: (Male),Railway Officer Colony (East),071040704,1---717 B-1,717,,717,3,,3
+,,Railway Staff Colony,071040705,1---350 B-2,350,,350,,,
+,,Peter Gill colony Walton Road,071040706,1---440 B-3,440,,440,,,
+92,Govt. Primary School Railway Colony Lahore Cantt: (Female),Railway Officer Colony (East),071040704,1---623 B-1 0,,623,623,,3,3
+,,Railway Staff Colony,071040705,1---336 B-2 0,,336,336,,,
+,,Peter Gill colony Walton Road,071040706,1---388 B-3 0,,388,388,,,
+93,govt. Primary School Luck line lahore Cantt: (Combined),Zulfiqar Lane Cavlary Ground,071040803,1---603(M) B-1 1---502(F) B-2,603,502,1105,1,1,2
+94,Civil Service Acadmay Walton Road Lahore Cantt: (Male),Madina Colony street No. 02 to 04,071040804,1---536 B-1,536,,536,3,,3
+,,madin colony street no 05 to 07,071040805,1--284 B2,284,,284,,,
+,,Friends Road Madina Colony,071040806,318 B3,318,,318,,,
+95,Civil Service Acadmay Walton Road Lahore Cantt: (Female),Madina Colony street No 02 to 04,071040804,1---488 B-1 0,,488,488,,3,3
+,,Madin Colony Street No 05 to 07,071040805,1---208 b-2 0,,208,208,,,
+,,Friends Road Madina Colony,071040806,1---336 B-3 0,,336,336,,,
+96,Govt. Boys High School Walton ,Street no 6/A ,071040902,1---486 b-1,486,,486,4,,4
+,,Officer Colony Street No 07,071040903,1---464 b2,464,,464,,,
+,,gREEN lANE aB ID rOAD,071040904,1---324 b-3,324,,324,,,
+,,Street No 6 Cavelary Ground,071040901,1---265 b-4,265,,265,,,
+97,Govt. Boys High School Walton lahore Cantt: (Female),Street no 6/A Zaman colony,071040902,1---373 b1,,373,373,,3,3
+,,Officer colony  Street no 07,071040903,1---387 b-2,,387,387,,,
+,,Green Lane Abid Road,071040904,1---291 B-3,,291,291,,,
+,,Street no-6 cavelary Ground,071040901,1---217 B-4,,217,217,,,
+98,Govt. Boys High School Walton lahore Cantt: (Combined),Khalid Street Zaman Colony,071040905,1---547(M) B-1 1---724(F)  B-2,547,724,1271,1,1,2
+99,Bromley High School Mian Chowk Ali colony Cavlary Ground Lhr Cantt: (Combined),cAVLARY gROUND (Ext) South,071041003,1---319 (M) B-1 1---349(F),319,349,668,2,2,4
+,,Cavlary Ground (Ext) North,071041004,1---294(M)B-1 1---308 (F) B-2,294,308,602,,,
+100,Bright Public School St. No 6 madina colony Walton Road lahore Cantt: (Male),Madina Colony Street No 1 to7,071041101,1---461 B-1,461,,461,3,,3
+,,madina Colony Street No 8 to 14,071041102,1---567 B-2,567,,567,,,
+,,madina Colony Street no 15 to 17,071041103,1---562 B-3,562,,562,,,
+101,Little Star Academy English School  Madina colony Walton Road lahore Cantt: (Female),Madina Colony Street no 1to 7,071041101,1---421 B1,,421,421,,3,3
+,,Madina Colony Street No 8 to 14,071041102,1--- 439 b-2,,439,439,,,
+,,Madina colony Street No.  15to 17,071041103,1---393 b-3,,393,393,,,
+102,Govt. Primary School* Luck Line lahore Cantt: (Male),Madina Colony/Shaheen Colony,071041104,1---585 B-1 586 -1141 B-2,1141,0,1141,2,,2
+103,GOVT PRIMARY SCHOOL* LUCK LINE LAHORE CANTT; (FEMALE),MADINA COLONY/SHAHEEN COLONY,071041104,1---475 B-1 476-1099 B-2,0,1099,1099,,2,2
+104,GOVT PRIMARY SCHOOL* LUCK LINE LAHORE CANTT; (COMBINED),SHAHEEN COLONY,071041105,1---671 (M) 1---551(F) B-1,671,551,1222,1,1,2
+,,BAY CHIRAGH,071041106,NIL(M) 1---1(F) B-2,,1,1,,,
+105,ZASHAN PUBLIC HIGH SCHOOL NISHAT COLONY RABBANI ROAD LAHORE CANTT; (MALE),NISHAT COLONY WEST,071041201,1---372 B-1,372,,372,3,,3
+,,NISHAT COLONY EAST,071041202,1---484 B-2,484,,484,,,
+,,LINK ROAD NISHAT COLONY NORTH,071041203,1---476 B-3,476,,476,,,
+106,ZASHAN PUBLIC HIGH SCHOOL NISHAT COLONY RABBANI ROAD LAHORE CANTT;,NISHAT COLONY WEST,071041201,1---299 B-1,,299,299,,3,3
+,(FEMALE),NISHAT COLONY EAST,071041202,1---344 B-2,,344,344,,,
+,,LINK ROAD NISHAT COLONY NORTH,071041203,1---409 B-3,,409,409,,,
+107,ASKARI PUBLIC HIGH SCHOOL NISHAT COLONY RBBANI ROAD LAHORE CANTT: (MALE),E BLOCK NISHAT COLONY,071041204,1---547 B-1,547,,547,4,,4
+,,F BLOCK STREET NO 1 TO 7 NISHAT COLONY,071041205,1---404 B-2,404,,404,,,
+,,NISHAT COLONY F BLOCK STREET NO 8*11,071041206,1---675 B-3,675,,675,,,
+,,F.G BLOCK NISTHAT COLONY,071041207,1---488 B-4,488,0,488,,,
+108,ASKARI PUBLIC HIGH SCHOOL NISHAT COLONY RBBANI ROAD LAHORE CANTT: (FEMALE),E BLOCK NISHAT COLONY,071041204,1---401 B-1,,401,401,,4,4
+,,F-BLOCK STREET NO 1 TO 7 NISHAT COLONY,071041205,1---353 B-2,,353,353,,,
+,,NISHAT COLONY F BLOCK STREET ,071041206,1---557 B-3,,557,557,,,
+,,F.G BLOCK NISHAT COLONY,071041207,1---378 B-4,,378,378,,,
+109,DECENT MODEL SCHOOL GHAUSIA COLONY* WALTON ROAD LAHORE CANTT; (MALE),MADINA COLONY EAST,071041301,1---277  B1,277,,277,4,,4
+,,MADINA COLONY WEST,071041302,1---314  B-2,314,,314,,,
+,,REHMAT CHOWK MADINA COLONY,071041305,1---237 B3,237,,237,,,
+,,ALI COLONY ISLAM NAGAR WALTON,071041303,1---392 B-4,392,,392,,,
+110,DECENT MODEL SCHOOL GHAUSIA COLONY* WALTON ROAD LAHORE,MADINA COLONY EAST,071041301,1---220 B-1,,220,220,,4,4
+,CANTT;(FEMALE),MADINA COLONY WEST,071041302,1---242 B-2,,242,242,,,
+,,REHMAT CHOWK MADINA COLONY,071041305,1---173 B-3,,173,173,,,
+,,ALI COLONY ISLAM NAGAR WALTON,071041303,1---397 B-4,,397,397,,,
+111,CIVIL SERVICE ACADMAY WALTON ROAD LAHORE CANTT; (COMBINED),STREET NO-13 MADINA COLONY,071041304,1---384 (M) B-1 1---269(F) b-2,384,269,653,2,2,4
+,,GHOUSIA COLONY WALTON ROAD,071041306,1---378(M) B-3 1---309 (F) b-4,378,309,687,,,
+112,CIVIL SERVICE ACADMAY WALTON ROAD LAHORE CANTT; (MALE),SHERAZ WILLAS ABID ROAD,071041401,1---598 B-1,598,,598,3,,3
+,,ISLAM NAGAR SHAMA COLONY,071041402,1---563 B-2,563,,563,,,
+,,ISLAM NAGAR WALTON ROAD,071041403,1---755 B-3,755,,755,,,
+113,CIVIL SERVICE ACADMAY WALTON ROAD LAHORE CANTT; (FEMALE),SHERAZ VILLAS ABID ROAD,071041401,1---560 B-1,,560,560,,3,3
+,,ISLAM NAGAR SHAMA ,071041402,1---536 B-2,,536,536,,,
+,,ISLAM NAGAR WALTON ROAD,071041403,1---626 B-3,0,626,626,,,
+114,TAHIR MODEL HIGH SCHOOL QADRI COLONY NO 02 WALTON ROAD LAHORE CANTT; (MALE),NEW SUPER TOWN,071050101,1---612 B-1,612,,612,4,,4
+,,A BLOCK PHASE. I DHA,071050102,1---497 B-2,497,,497,,,
+,,D BLOCK DEFENCE HOUSING AUTHORITY,0071050103,1---181 B-3,181,,181,,,
+,,D BLOCK WEST DEFENCE HOUSING AUTHORITY,071050104,1---366 B-4,366,,366,,,
+115,TAHIR MODEL HIGH SCHOOL QADRI COLONY NO 02 WALTON ROAD LAHORE CANTT;,NEW SUPER TOWN,071050101,1---572 B-1,,572,572,,4,4
+,(FEMALE),A BLOCK PHASE-1 DHA,071050102,1---439 B-2,,439,439,,,
+,,D BLOCK DEFENCE HOUSING  AUTHORITY,071050103,1---178 B-3,,178,178,,,
+,,D BLOCK WEST DEFENCE HOUSING AUTHORITY,071050104,1---409 B-4,,409,409,,,
+116,PAKISTAN SCHOOL SYSTEM E-101/5-B* SUPER TOWN*,C-14,B-5,-,,515,515,4,,4
+,,DEFENCE HOUSING AUTHORITY,,,,,,,,
+,,IQBAL PARK MAIN BULIVERD,071050106,1---592 B-2,592,,592,,,
+,,SUPER TOWN EAST WALTON,071050107,1---541 B-3,541,,541,,,
+,,SUPER TOWN WEST WALTON,071050201,1---429 B-4,429,,429,,,
+117,PAKISTAN SCHOOL SYSTEM E-101/5-B* SUPER TOWN* DEFENCE WALTON ROAD ,B/C BLOCK DEFENCE HOUSING ,071050105,1---518 B-1,,518,518,,4,4
+,,IQBAL PARK MAIN BULIVERD,071050106,1--597 B-2,,597,597,,,
+,,SUPER TOWN EAST WALTON,071050107,1---548 B-3,,548,548,,,
+,,SUPER TOWN WEST WALTON,071050201,1---485 B-4,,485,485,,,
+118,AMERICAN LYCETUFF RAIFAL RANGE* LAHORE CANTT ,RIFLE RANGE KORAY,071050202,1---555(M) B-1 1---481(F) B-2,555,481,1036,2,1,3
+119,GHAZI CADET COLLEGE* KOREY PIND* LAHORE CANTT. (MALE),QASAIN WALI GALI KORAY,071050203,1---485 B-1,485,,485,2,,2
+,,SHAH TAJ COLONY / YASRAB COLONY,071050204,1---679 B-2,679,,679,,,
+120,GHAZI CADET COLLEGE* KOREY PIND* LAHORE CANTT. (FEMALE),QASAIN WALI GALI KORAY,071050203,1---355 B-1,,355,355,,2,2
+,,SHAH TAJ COLONY/ YASRAB COLONY,071050204,1---579 B-2,,579,579,,,
+121,SHAHIRA MEMORIAL SCHOOL PEER COLONY ST#5 WALTON LAHORE CANTT; (MALE),SHAKEEL PARK QADRI COLONY,071050205,1-475 B-1,475,,475,2,,2
+,,SHAKEEL PARK QADRI COLONY,-,467-1089 B-2,614,,614,,,
+122,SHAHIRA MEMORIAL SCHOOL PEER COLONY ST#5 WALTON LAHORE CANTT; (FEMALE),SHAKEEL PARK QADRI COLONY,071050205,1---400 B-1,,400,400,,2,2
+,,SHAKEEL PARK QADRI COLONY,-,462 B-2,,462,462,,,
+123,SHAHIRA MEMORIAL SCHOOL PEER COLONY ST#WALTON LAHORE CANTT; (COMBINED),MOHALLAH NAMBARDARAN KOREY,071050206,1---462(M) B-1 1---352(F) B-2,462,352,814,1,1,2
+124,GHAZI CADET SCHOOL KORAY STOP RAFIL RANGE ROAD ST#2* (MALE),YASRAB COLONY /QADRI COLONY,071050301,1---656 B-1,656,,656,2,,2
+,,QADRI COLONY WALTON,071050302,1---772 B-2,772,,772,,,
+125,GHAZI CADET SCHOOL KORAY STOP RAFIL RANGE ROAD ,yasrab colony qadri colony,071050301,1---630 B-1,,630,630,,2,2
+,,QADRI COLONY WALTON,071050302,1---623 B-2,,623,623,,,
+126,GHAZI CADET SCHOOL KORAY STOP RAFIL RANGE ROAD ST#2* (MALE),STREET NO I PEER COLONY,071050303,1---392 B-1,392,0,392,3,,3
+,,PEER COLONY EAST,071050304,1---475 B-2,475,,475,,,
+,,PEER COLONY EAST,-,476-926 B-3,451,,451,,,
+127,GHAZI CADET SCHOOL KORAY STOP RAFIL RANGE ROAD ST#2*(FEMALE),STREET NO I PEER COLONY,071050303,1---363 B-1,,363,363,,3,3
+,,PEER COLONY EAST,071050304,1---475 B-2,,475,475,,,
+,,PEER COLONY EAST,-,476-855 B-3,,380,380,,,
+128,sHAHIRA MEMORIAL SCHOOL KORAY STOP* RAFIL RANGE ROAD * S#2* (COMBINED),PEER COLONY WALTON,071050305,1-400 (M) B-1,400,,400,2,2,4
+,,PEER COLONY WALTON,-,431 B-2,431,,431,,,
+,,PEER COLONY WALTON,-,1---420 (F) B-3,,420,420,,,
+,,PEER COLONY WALTON,-,421-610 B-4,,190,190,,,
+129,MOUNT PLEASANT HIGH SCHOOL* RIFFLE RANGE ROAD LAHORE CANTT; (MALE),STREET NO 1 TO 3 PEER COLONY,071050306,1---606 B-1,606,,606,2,,2
+,,MIAN PARK QADRI COLONY,071050307,1---707 B-2,707,,707,,,
+130,MOUNT PLEASANT HIGH SCHOOL* RIFFLE RANGE ROAD LAHORE CANTT;(FEMALE),STREET NO 1 TO 3 PEER COLONY,071050306,1---505 B-1,,505,505,,2,2
+,,MIAN PARK QADRI COLONY,071050307,1---631 B-2,,631,631,,,
+131,MOUNT PLEASANT HIGH SCHOOL* RIFFLE RANGE ROAD LAHORE CANTT;(MALE),PEER COLONY EAST WALTON,071050401,1---792 B-1,792,,792,3,,3
+,,PEER COLONY WEST WALTON,071050402,1---525 B-2,525,,525,,,
+,,PEER COLONY WEST WALTON,-,548 B-3,548,,548,,,
+132,MOUNT PLEASANT HIGH SCHOOL* RIFFLE RANGE ROAD LAHORE CANTT;(FEMALE),PEER COLONY EAST WALTON,071050401,1---561 B-1,,561,561,,2,2
+,,PEER COLONY ,071050402,1---854 B-2,,854,854,,,
+133,GOVT. PRIMARY SCHOOL FOR BOYS ST. NO.4 . FAROOQ COLONY LAHORE CANTT. (MALE),BUTT STREET FAROOQ COLONY,071050403,1---537 B-1,537,,537,3,0,3
+,,STREET NO 4.5 MODEL COLONY NO 2,071050404,1---335 B-2,335,,335,,,
+,,STREET NO 1 TO 3 MODEL COLONY N0 3,071050405,1---286 B-3,286,,286,,,
+134,GOVT. PRIMARY SCHOOL FOR BOYS ST. NO. 4. FAROOQ COLONY LAHORE CANTT. (FEMALE),BUTT STREET FAROOQ COLONY,071050403,1---525 B-1,,525,525,,3,3
+,,STREET NO. 4*5 MODEL COLONY NO 2,071050404,1---232 B-2,,232,232,,,
+,,STREET NO-1 TO 3 MODEL COLONY NO 2,071050405,1---238 B-3,,238,238,,,
+135,SCIENCE MODEL HIGH SCHOOL NEAR JAMIA MASJID MODEL COLONY* CANTT. (MALE),STREET NO 1 TO 4 MODEL COLONY NO 1,071050406,1---456 B-1,456,,456,2,,2
+,,STREET NO 1.2 MODEL COLONY WALTON,071050407,1---672 B-2,672,,672,,,
+136,SCIENCE MODEL HIGH SCHOOL NEAR JAMIA MASJID MODEL COLONY* CANTT. (FEMALE),STREET NO. 1 TO 4 MODEL COLONY NO 1,071050406,1---359 B-1,,359,359,,2,2
+,,STREET NO 1.2 MODEL COLONY WLTON,071050407,1---519 B-2,,519,519,,,
+137,TAJ GRAMMER SCHOOL* E/14 FAROOQ COLONY* WALTON ROAD LAHORE CANTT; (MALE),STREET NO 1 FAROOQ COLONY WALTON,071050501,1---443 B-1,443,,443,4,,4
+,,FAROOQ COLONY,071050502,1---283 B-2,283,,283,,,
+,,QABRUSHTAN WALI GALI FAROOQ ,071050503,1---373 B-3,373,,373,,,
+,,STREET NO 3 TO 6 FAROOQ COLONY WALTON,071050504,1---435 B-4,435,,435,,,
+138,TAJ GRAMMER SCHOOL E/14 FAROOQ COLONY WALTON ROAD LAHORE ROAD CANTT FEMALE,STREET NO 1 FAROOQ COLONY WALTON,071050501,1....444 B-1,,444,444,0,4,4
+,,FAROOQ CONLONY,071050502,1...251 B-2,,251,251,,,
+,,QABRUSTAN WAKI GAIL FAROOQ COLONY,071050503,1....309 B-3,,309,309,,,
+,,STREET NO.3TO6 FAROOQ COLONY WALTON,071050504,1....380 B0-4,,380,380,,,
+139,PAK MODEL HIGH SCHOOL AL-NOOR TOWN * WALTON LAHORE CANTT.,AL-NOOR TOWN,071050505,1--647 B-1,647,,647,3,,3
+,(MALE),AL-NOOR TOWN,071050506,1---954 B-2,954,,954,,,
+,,AL-NOOR TOWN,07050507,1---593 B-3,593,,593,,,
+140,PAK MODEL HIGH SCHOOL AL-NOOR TOWN * WALTON LAHORE CANTT.(FEMALE),AL-NOOR TOWN,071050505,1---371 B-1,,371,371,,3,3
+,,AL-NOOR TOWN,071050506,1---661 B-2,,661,661,,,
+,,AL-NOOR TOWN,071050507,1--478 B-3,,478,478,,,
+141,GOVT GIRLS PRIMARY SCHOOL* MODEL COLONY* WALTON LAHORE CANTT.,MODEL COLONY NO 2,071050601,1---276 B-1,276,,276,4,,4
+,(MALE),MODEL COLONY NO 2,071050602,1---431 B-2,431,,431,,,
+,,MODEL COLONY NO1,071050603,1---160 B-3,160,0,160,,,
+,,MODEL COLONY NO 1,071050604,1---258,258,,258,,,
+,,MODEL COLONY NO 2,071050605,1---568 B-4,568,,568,,,
+142,GOVT GIRLS PRIMARY SCHOOL* MODEL COLONY* WALTON LAHORE CANTT.,MODEL COLONY NO 2,071050601,1---143 B-1,,143,143,,4,4
+,,MODEL ,071050602,1---406 B-2,,406,406,,,
+,,MODEL COLONY NO 1,071050603,1---149 B-3,,149,149,,,
+,,MODEL COLONY NO 2,071050604,1---230,,230,230,,,
+,,MODEL COLONY NO 2,071050605,1---323 B-4,,323,323,,,
+143,GOVT* PRIMARY SCHOOL MEHBOOB COLONY MUFTPURA LAHORE CANTT; (COMBINED),WAHEED PARK CHOWK AMAR SIDHU,071050701,1---588 (M) B-1 1---371 (F) B-2,588,371,959,1,1,2
+144,GOVT* PRIMARY SCHOOL MEHBOOB COLONY MUFTPURA LAHORE CANTT; (MALE),WAHEED PARK BHOLA PEER,071050702,1---592 B-1 B-2,592,,592,2,,2
+,,ABADI DARBAR BHULLAY SHAH,071050703,1---430 B-3,430,,430,,,
+145,GOVT* PRIMARY SCHOOL MEHBOOB COLONY MUFTPURA LAHORE CANTT; (FEMALE),WAHEED PARK BHOLA PEER,071050702,1---461 B-1,,461,461,,2,2
+,,ABADI DARBAR GHULLAY SHAH,071050703,1---279 B-2,,279,279,,,
+146,QAZI PUBLIC GIRLS HIGH SCHOOL MADINA CHOWK NEAR FG MODEL GIRLS SCHOOL KANCHI AMAR SIDHU LAHORE,PAREY WALI KHOI BHOLA PEER,071050704,1---425 B-1,425,,425,3,,3
+,CANTT. (MALE),PAKISTANI CHOWK CHOUNGI AMAR SIDHU,071050705,1---607 B-2,607,,607,,,
+,,MADINA CHOWK,071050706,1---572 B-3,572,,572,,,
+147,QAZI PUBLIC GIRLS HIGH SCHOOL MADINA CHOWK NEAR FG MODEL GIRLS SCHOOL KANCHI AMAR SIDHU LAHORE,PAREY WALI KHOI BHOLA PEER,071050704,1---293 B-1,,293,293,,3,3
+,CANTT. (FEMALE),PAKISTANI CHOWK CHOUNGI AMAR SIDHU,071050705,1---450 B-2,,450,450,,,
+,,MADINA CHOWK,071050706,1---376 B-3,,376,376,,,
+148,GOVT. GIRLS MIDDLE SCHOOL MUHAMMAD PURA LAHORE CANTT. (MALE),MUHAMMAD PURA,071050801,1---422 B-1,422,,422,3,,3
+,,MUHAMMAD PURA GULSTAN COL,071050802,1---580 B-2,580,,580,,,
+,,GULSTAN COLONY,071050803,1---381 B-3,381,,381,,,
+149,GOVT. GIRLS MIDDLE SCHOOL MUHAMMAD PURA LAHORE CANTT. (FEMALE),MUHAMMAD PURA,071050801,1---327 B-1,,327,327,,3,3
+,,MUHAMMAD PURA GULSTAN COL,071050802,1---417 B-2,,417,417,,,
+,,GULSTAN COLONY,071050803,1---269 B-3,,269,269,,,
+150,F.G MODEL GIRLS SCHOOL KANCHI AMAR SIDHU LAHORE CANTT. (MALE),JAMIA USMANIA GULSTAN COL,071050804,1---466 B-1,466,,466,3,,3
+,,GULISTAN COLONY GHAZI ROAD,071050805,1-849 B-2,849,,849,,,
+,,LODHI STREET GULISTAN COLONY,071050806,1---413 B-3,413,,413,,,
+151,F.G MODEL GIRLS SCHOOL KANCHI AMAR SIDHU LAHORE CANTT.(FEMALE),JAMIA USMANI GULSTAN COL,071050804,1---278 B-1,,278,278,,3,3
+,,GULISTAN COLONY GHAZI ROAD,071050805,1---654 B-2,,654,654,,,
+,,LODHI STREET GULISTAN COLONY,071050806,1---287 B-3,,287,287,,,
+152,GOVT M.K. MEMORIAL PRIMARY SCHOOL* GHAZI ROAD LAHORE CANTT. (MALE),MAKKAH CHOWK BARBAR BHULLAY SHAH,071050901,1---662 B-1,662,,662,3,,3
+,,DACHI WALA KHO,071050902,1---317 B-2,317,,317,,,
+,,STREET NO 1 GULISTAN COLONY,071050903,1---383 B-3,383,,383,,,
+153,GOVT M.K. MEMORIAL PRIMARY SCHOOL* GHAZI ROAD LAHORE CANTT. (FEMALE),MAKKAH CHOWK DARBAR BHULLAY SHAH,071050901,1---380 B-1,,380,380,,3,3
+,,DACHI WALA KHO,071050902,1---286 B-2,,286,286,,,
+,,STREET NO-1 GULISTAN COLONY,071050903,1---311 B-3,,311,311,,,
+154,UNIVERSAL PUBLIC HIGH SCHOOL MIAN BAZAR NO 2 CHOUNGI AMAR SIDHU* SAPPAN WALA BAZAR* LAHORE,ABU TALIB STREET* GULSTAN COL,071050904,1---333 B-1,333,,333,3,,3
+,CANTT; (MALE),MUHAMMADI STREET GULISTAN COLONY,071050905,1---326 B-2,326,,326,,,
+,,STREET NO 2*3*4 GULISTAN COLONY,071050906,1---457 B-3,457,,457,,,
+155,UNIVERSAL PUBLIC HIGH SCHOOL MIAN BAZAR NO 2 CHOUNGI AMAR SIDHU* SAPPAN WALA BAZAR* LAHORE,ABU TALIB STREET* GULSTAN COL,071050904,1---278 B-1,,278,278,,3,3
+,CANTT;(FEMALE),MUHAMMADI STREET GULISTAN COLONY,071050905,1---284 B-2,,284,284,,,
+,,STREET NO 2*3*4 GULISTAN COLONY,071050906,1---316 B-3,,316,316,,,
+156,DEFENCE PUBLIC SCHOOL S-BLOCK* DEFENCE LAHORE CANTT. (MALE),Z BLOCK DEFENCE,071051001,1---415 B-1,415,,415,4,,4
+,,Y BLOCK DEFENCE,071051002,1---341 B-2,341,,341,,,
+,,X BLOCK DEFENCE,071051003,1---469 B-3,469,,469,,,
+,,X BLOCK DEFENCE,071051004,1---690 B-3,690,,690,,,
+157,DEFENCE PUBLIC SCHOOL S-BLOCK* DEFENCE LAHORE CANTT.(FEMALE),Z BLOCK DEFENCE,071051001,1---389 B-1,,389,389,,4,4
+,,Y BLOCK DEFENCE,071051002,1---349 B-2,,349,349,,,
+,,X BLOCK DEFENCE,071051003,1---404 B-3,,404,404,,,
+,,X BLOCK DEFENCE,071051004,1---615 B-4,,615,615,,,
+158,DPS BOYS JUNIOR SCHOOL* Z BLOCK* DEFENCE LAHORE CANTT. (COMBINED),G BLOCK DEFENCE,0071051101,1-59(M) 1-43(F) B-1,59,43,102,2,2,4
+,,H BLOCK DEFENCE,0071051102,1-34(M)1-27(F) B-2,34,27,61,,,
+,,J BLOCK DEFENCE,0071051103,1-596(M)1-554(F) B-3,596,554,1150,,,
+,,E BLOCK DEFENCE,0071051104,1-514(M01-481(F) B-4,514,481,995,,,
+159,GOVT PRIMARY SCHOOL* KEER KHURD* LAHORE CANTT. (MALE),GULSHAN PARK BADIAN,071051201,1---632 B-1,632,,632,4,,4
+,,GULSHAN PARK BADIAN,071051202,1---216 B-2,216,,216,,,
+,,GULSHAN PARK KEER KOT,071051203,1---172 B-3,172,0,172,,,
+,,KEER KOT BAHATTA KOHAT,071051204,1---587 B-4,587,,587,,,
+160,GOVT PRIMARY SCHOOL* KEER KHURD* LAHORE CANTT. (FEMALE),GULSHAN PARK BADIAN,071051201,1---524 B-1,,524,524,,4,4
+,,GULSHAN PARK BADIAN,071051202,1---160 B-2,,160,160,,,
+,,GULSHAN PARK KEER KOT,071051203,1---136 B-3,,136,136,,,
+,,KEER KOT BHATTA KOHAT,071051204,1---430 B-4,,430,430,,,
+161,GOVT PRIMARY SCHOOL* KEER KHURD* LAHORE CANTT. ,N BLOCK DEFENCE,071051205,1-612 (M) B-1 1-595(F) B-2,612,595,1207,1,1,2
+162,HEALT CENTRE* CHARAR. LAHORE CANTT. (MALE),W/Z BLOCK DEFENCE,071051301,1---497 B-1,497,,497,4,,4
+,,W BLOCK DEFENCE,071051302,1---582 B-2,582,,582,,,
+,,W BLOCK DEFENCE,071051303,1---432 B-3,432,,432,,,
+,,Z BLOCK DEFENCE,071051304,1---567 B-4,567,,567,,,
+163,DEFENCE PUBLIC SCHOOL* Z- BLOCK DEFENCE LAHORE CANTT. (FEMALE),w/z block defence,071051301,1---491 B-1,,491,491,,4,4
+,,W BLOCK DEFENCE,071051302,1---515 B-2,,515,515,,,
+,,w block defence,071051303,1---470 b-3,,470,470,,,
+,,Z BLOCK DEFENCE,071051304,1---530 B-4,,530,530,,,
+164,DEFENCE PUBLIC SCHOOL & COLLEGE FOR BOYS r BLOCK DEFENCE LAHORE CANTT: (COMBINED0,Z BLOCK WEST DEFENCE HOUSING AUTHRITY,071051305,1---607 (M) B-1 1---599(F) B-2,607,599,1206,1,1,2
+165,DEFENCE PUBLIC SCHOOL  FOR BOYS r BLOCK DEFENCE ,MOUZA CHARAR,071051401,1---405 B-1,405,0,405,4,,4
+,,MOHALLAH KUMHARAN CHARAR,071051402,1---459 B-2,459,,459,,,
+,,ABADI NEAR QABRASTAN,071051403,1---599 B-3,599,,599,,,
+,,MOUSA CHARAR,071051404,1---475 B-4,475,,475,,,
+166,DEFENCE PUBLIC SCHOOL & COLLEGE FOR BOYS Z BLOCK DEFENCE LAHORE CANTT:,MOUZA CHARAR,071051401,1---274 B-1,,274,274,,4,4
+,(FEMALE0,MOHALLAH KUMHARAN CHARAR,071051402,1---263 B-2,,263,263,,,
+,,ABADI NEAR QABRASTAN,071051403,1---413 B-3,,413,413,,,
+,,MOUZA CHARAR,071051404,1---323 B-4,,323,323,,,
+167,DEFENCE PUBLIC BOYS  HIGH SCHOOL R BLOCK DEFENCE LAHROE CANTT; (MALE),MOUZA CHARAR,071051405,1---366 B-1,366,,366,3,,3
+,,MOHALLAH RAJPOTAN CHARAR,071051406,1---342 B-2,342,,342,,,
+,,MOHALLAH DARBAR SHARIF CHARAR,071051407,1---252 B-3,252,,252,,,
+168,DEFENCE PUBLIC BOYS  HIGH SCHOOL Z BLOCK DEFENCE LAHROE CANTT. (FEMALE),MOUZA CHARAR,071051405,1---339 B-1,,339,339,,3,3
+,,MOHALLAH RAJPOTAN CHARAR,071051406,1---276 B-2,,276,276,,,
+,,MOHALLAH DARBAR SHARIF CHARAR,071051407,1---218 B-3,,218,218,,,
+169,HEALTH CENTRE * CHARAR* LAHORE CANTT. (COMBINED),P BLOCK PHASE-I DEFENCE HOUSING AUTHORITY,071051501,1---911(M) B-1  1---897 (F) B-2,911,879,1790,1,1,2
+170,HEALTH CENTRE * CHARAR* LAHORE CANTT. (MALE),M BLOCK PHASE-II,071051502,1---556 B-1,556,,556,3,,3
+,,L BLOCK DEFENCE,071051503,1---443 B-2,443,,443,,,
+,,K BLOCK ,071051504,1---451 B-3,451,,451,,,
+171,LAHORE INTERNATIONAL SCHOOL CHARAR NEAR K-BLOCK* LAHORE CANTT.,M BLOCK PHASE II,071051502,1---572 B-1,,572,572,,3,3
+,(FEMALE),L BLOCK DEFENCE,071051503,1---461 B-2,,461,461,,,
+,,K BLOCK DEFENCE,071051504,1---449 B-3,,449,449,,,
+172,GOVT. GIRLS MIDDLE SCHOOL* MUHAMMAD PURA* LAHORE CANTT. (COMBINED),SHAHID TOWN * GHAZI ROAD,071051601,1---200(M) B-1 1---122(F) B-2,200,122,322,2,2,4
+,,NAZIR PARK MUNAWAR ABAD,071051602,1---497 (M) B-3 1---409 (F) B-4,497,409,906,,,
+173,QAZI PUBLIC GIRLS HIGH SCHOOL MADINA CHOWK NEAR FG MODEL GIRLS SCHOOL KANCHI AMAR SIDHU (MALE),MANWAR ABAD. GHAZI ROAD,071051603,1---626 B-1,626,,626,2,,2
+,,BOLLHAY SHAH ROAD GULISTAN COLONY,071051604,1---524 B-2,524,,524,,,
+174,QAZI PUBLIC GIRLS HIGH SCHOOL MADINA CHOWK NEAR FG MODEL GIRLS SCHOOL KANCHI AMAR SIDHU. (FEMALE),MANWAR ABAD* GHAZI ROAD,071051603,1---522 B-1,,522,522,,2,2
+,,BOLLHAY SHAH ROAD GULISTAN COLONY,071051604,1---365 B-2,0,365,365,,,
+175,QUBAN HIGH SCHOOL . WALTON ROAD LAHORE CANTT. (MALE),MOHALLAH SHEKHAN KORAY PIND,071051701,1---318 B-1,318,,318,4,,4
+,,NEW IQBAL PAR * KOREY PIND,071051702,1---655 B-2,655,,655,,,
+,,NEW IQBAL PARK * KOREY PIND,071051703,1---545 B-3,545,,545,,,
+,,NEW IQBAL PARK * KOREY PIND,071051704,1---522 B-4,522,,522,,,
+176,QUBAN HIGH SCHOOL . WALTON ROAD LAHORE CANTT. (fEMALE),MOHALLAH SHAIKHAN KORAY PIND,071051701,1---208 B-1,,208,208,,4,4
+,,NEW IQBAL PARK* KORAY ,071051702,1---668 B-2,,668,668,,,
+,,NEW IQBAL PARK* KORAY PIND,071051703,1---481 B-3,,481,481,,,
+,,NEW IQBAL PARK* KORAY PIND,071051704,1---539 B-4,,539,539,,,
+177,MODREN COLLEGE OF COMMERECE & TECHNOLOGY MIAN WALTON ROAD LAHROE CANTT; (MALE),MODEL COLONY NO 2* WALTON,071051801,1---572 B-1,572,,572,2,,2
+,,USMANIA MODEL COLONY NO 2,071051802,1---504 B-2,504,,504,,,
+178,MODREN COLLEGE OF COMMERECE & TECHNOLOGY MIAN WALTON ROAD LAHROE CANTT; (FEMALE0,MODEL COLONY NO 2. WALTON,071051801,1---367 B-1,,367,367,,2,2
+,,USMANIA MODEL COLONY NO 2,071051802,1---298 B-2,,298,298,,,
+179,RASE MARRY SCHOOL/ ACADEMY WALTON ROAD* LAHORE CANTT. (COMBINED),MODEL COLONY NEAR ABDULLAH MASJID,071051803,1-703 (M) B-1 1-601(F) B-2,703,601,1304,1,1,2
+180,S.K.FOUNDATION SCHOOL* FAROOQ COLONY* WALTON LAHORE CANTTL. (COBINED),ALNOOR TOWN * WALTON,071051804,1-451(M) 1-299(F) B-1,451,299,750,2,1,3
+,,GHANI STREET * AL NOOR TOWN,071051805,1-287(M) 1-193(F) B-2,287,193,480,,,
+,,GHANI STREET AL NOOR TOWN,071051806,1-274(M) 1-167(F) B-3,274,167,441,,,
+181,GOVT PRIMARY SCHOOL* RAHMATPURA BAIDIAN ROAD LAHROE CANTT. (MALE),GULSHAN PARK BAIDIAN ROAD,071051901,1---671 B-1,671,,671,2,,2
+,,RAJABABAD * BILAL TOWN,071051902,1---630 B-2,630,,630,,,
+182,GOVT PRIMARY SCHOOL* RAHMATPURA BAIDIAN ROAD LAHROE CANTT. (FEMALE),GULSHAN PARK BAIDIAN ROAD,071051901,1---805 B-1,,805,805,,2,2
+,,RAJABABAD * BILAL TOWN,071051902,1---510 B-2,,510,510,,,
+183,GOVT GIRLS MIDDLE SCHOOL* KEER KHURD* LAHORE CANTT. (MALE),BHUTTA CHOWK REHMAN GARDEN,071051903,1---454 B-1,454,,454,2,,2
+,,KEER KHURD* BAIDIAN,071051904,1---810 B-2,810,,810,,,
+184,GOVT GIRLS MIDDLE SCHOOL* KEER KHURD* LAHORE CANTT.(FEMALE),BHUTTA CHOWK REHMAN GARDEN,071051903,1---339 B-1,,339,339,,2,2
+,,KEER KHURD* BAIDIAN,071051904,1---457 B-2,0,457,457,,,
+185,CRESENT PUBLIC HIGH SCHOOL FIRDOUS PARK GHAZI,FIRDOUS PARK,071060101,1---660 B-1,660,,660,2,,2
+,ROAD LAHORE CANTT. (MALE),MUHAMMAD ALI STREET FIRDOUS PARK,071060102,1---645 B-2,645,,645,,,
+186,CRESENT PUBLIC HIGH SCHOOL FIRDOUS PARK GHAZI,FIRDOUS PARK,071060101,1---448 B-1,,448,448,,2,2
+,ROAD LAHORE CANTT.(FEMALE),MUHAMMAD ALI STREET FIRDOUS PARK,071060102,1---529 B-2,,529,529,,,
+187,AL-GHAZI PUBLIC HIGH SCHOOL* SHAUKAT TOWN GHAZI ROAD LAHORE CANTT. ,MILLAT ROAD FIRDOUS PARK,071060103,1---553(M) B-1 1---435 (F) B-2,553,435,988,1,1,2
+188,AZEEM PUBLIC SCHOOL FIRDOUS PARK . S#4* H# 140/7-E* LAHORE CANTT OPP* GENERAL HOSPITAL(MALE),MAST IQBAL ROAD FIRDOUS PARK,071060104,1---1005 B-1,1005,,1005,2,,2
+,,MUSLIM STREET EAST,071060107,1---597 B-2,597,,597,,,
+189,AZEEM PUBLIC SCHOOL FIRDOUS PARK . S#4* H# 140/7-E* LAHORE CANTT OPP* GENERAL HOSPITAL(FEMALE),MAST IQBAL ROAD FIRDOUS PARK,071060104,1---769 B-1,,769,769,,2,2
+,,MUSLIM STREET EAST,071060107,1---460 B-2,,460,460,,,
+190,fATIMA SADAT PUBLIC SCHOOL GHAZI ROAD* FIRDOS CHOWK* LAHORE CANTT. (MALE),MAST IQBAL ROAD FIRDOUS PARK,071060105,1--669 B-1,669,,669,2,,2
+,,FIRDOUS PARK,071060106,1---689 B-2,689,,689,,,
+191,FATIMA SADAT PUBLIC SCHOOL GHAZI ROAD* FIRDOS CHOWK* LAHORE CANTT. (FEMALE),MAST IQBAL ROAD FIRDOUS PARK,071060105,1---489 B1,,489,489,,2,2
+,,FIRDOUS PARK,071060106,1---582 B-2,,582,582,,,
+192,FAIZAN MODINA HIGH SCHOOL* MILLAR ROAD LAHORE CANTT (MALE),SHOUKAT TOWN,071060201,1---789 B-1,789,,789,2,,2
+,,YASEEN TOWN MILAT ROAD,071060204,1---559 B-2,559,,559,,,
+193,FAIZAN MADINA HIGH SCHOOL* MILLAT ROAD LAHORE CANTT (FEMALE),SHOUKAT TOWN,071060201,1---543 B-1,,543,543,0,2,2
+,,YASEEN TOWN MILLAT ROAD,071060204  `,1---381B-2,,381,381,,,
+194,GOVT M.K. MEMORIAL SCHOOL * SHOUKAT TOWN LAHROE CANTT. (MALE),SHOUKAT TOWN GHAZI ROAD,071060202,1---655 B-1,655,,655,2,,2
+,,SHOUKAT TOWN GHAZI ROAD,-,656-1330 B-2,675,,675,,,
+195,FATIMA MEMORIAL HIGH SCHOOL* GHAZI ROAD LAHROE CANTT. (FEMALE),SHOUKAT TOWN GHAZI ROAD,071060202,1---535 B-1,,535,535,,2,2
+,,SHOUKAT TOWN GHAZI ROAD,-,536-1039 B-2,,504,504,,,
+196,DIVISIONAL MODEL PUBLIC HIGH SCHOOL GHAZAI ROAD* LAHORE CANTT.,YASIN TOWN MILLAT ROAD EAST,071060203,1-585 B-1,585,0,585,2,,2
+,,AKRAM STREET* SHOUKAT TOWN,071060205,1-680 B-2,680,0,680,,,
+197,DIVISIONAL MODEL PUBLIC HIGH SCHOOL GHAZI ROAD LAHORE CANT (FEMALE),YASIN TOWN MILLAT ROAD EAST,071060203,1-440-B-1,0,440,440,0,2,2
+,,AKRAM STREET SHOUKAT TOWN,071060205,1-591 B 2,0,591,591,,,
+198,DEFENCE PUBLICH SCHOOL Z BLOCK DEFENCE LAHORE,AA DEFENCE,071060301,1-271 B-1,271,0,271,4,,4
+,CANTT.MALE,EE/DD/CC DEFENCE,071060302,1-535,535,0,535,,,
+,,S BLOCK DEFENCE,071060303,536-1251 B-3 1-589 B-4,1305,0,1305,,,
+199,DEFENCE PUBLIC SCHOOL Z BLOCK DEFENCE LAHORE,AA DEFENCE,071060301,1-247 B 1,0,247,247,,4,4
+,CANTT,EE/DD/CC DEFENCE,071060302,535 B-2,0,535,535,,,
+,,EE/DD/CC DEFENCE,071060302,536-1212 B-3,0,677,677,,,
+,,S BLOCK DEFENCE,071060303,1-807 B-4,0,807,807,,,
+200,GOVBE. PRIMARY SCHOOL REHMAT PLAZA BAIDIAN ROAD LAHROE CANTT.,T BLOCK DEFENCE,071060304,1-391 B -1,391,0,391,3,,3
+,,R/Q BLOCK DEFENCE,071060305,1-999 B-2,999,0,999,,,
+,,U BLOCK DEFENCE,071060306,1-572 B-3,572,0,572,,,
+201,GOVT PRIMARY SCHOOL REHMAT PURA BAIDAN ROAD LAHORE CANTT.FEMALE,T BLOCK DEFENCE,071060304  1--419 B1,-,,419,419,0,3,3
+,,R/Q BLOCK DEFENCE,071060305  1--952 B2,-,,952,952,,,
+,,U BLOCK DEFENCE,071060306  1--665 B3,-,,665,665,,,
+202,IQRAL SCHOOL AL FALAH TOWN BAIDAIN ROAD LAHORE CANTT. MALE,AL FLAH TOWN REHMATPURE,071060401  1--535 B1,-,535,,535,3,,3
+,,MAUZA MANAWALA,071060402  574  B2,-,574,,574,,,
+,,MAUZA MANAWALA,071060402  1---725 B3,-,725,,725,,,
+203,IQRA SCHOOL AL FALAH TOWN BAIDIAN ROAD LAHORE CANTT. (FEMALE),AL FALAH TOWN REHMATPURE,071060401  1---877 B 1,-,,877,877,,2,2
+,,MAUZA MANWALA,071060402  1---435 B2,-,,435,435,,,
+204,BROAD VISION CADET SCHOOL NEAR GULSHAN E ALI COLONY* GHAZI ROAD LAHORE CANTT MALE,PUNJAB HOUSING SOCIETY,071060403  1--544 B1,-,544,,544,3,0,3
+,,GULISTAN COLONY NO 2,071060404  1---271 B-2,-,271,,271,,,
+,,GULSTAN COLONY NO. 2,071060405  1---446 B-3,-,446,,446,,,
+205,BROAD VISION CADET SCHOOL NEAR GULSHAN E ALI JCOLLONY GHAZI ROAD LAHORE CANTT (FEMALE),PUNJAB HOUSNG SOCIETY,071060403  1---451 B-1,-,,451,451,,3,3
+,,GULISTAN COLONY NO 2,071060404  1---236 B-2,-,,236,236,,,
+,,GULSTAN ,071060405  1---338 B-3,-,,338,338,,,
+206,FAIZAN PUBLIC SCHOOL  MAIN BAZAR NO. 2 CHOUNGI AMAR LAHORE CANTT.,STREET NO. 12 14  GULISTAN COLONY,071060406  1---354 B-1,-,354,,354,2,,2
+,,STREET NO 15 GULISTAN COLONY NO 2,071060407  1---412 B-2,-,412,,412,,,
+207,FAIZAN PUBLIC SCHOOL MAIN BAZAR NO 2 CHOUNGI AMAR LAHROE CANTT.(FEMALE),STREET NO. 12 14 GULISTAN COLONY,071060406  1---389 B-1,-,,389,389,0,2,2
+,,STREET NO. 15 GULISTAN COLONY NO 2,071060407  1--344 B-2,-,,344,344,,,
+208,GOVT GIRLS MIDDLE SCHOOL MUHAMMAD PURE* LAHROE CANTT.MALE,MUHAMMAD PURA* MEHBOOB COLONY,071060501,1-335 B-1,335,0,335,3,,3
+,,MAIN BAZAR MUHAMMAD PURA,071060502,1-567 B-2,567,0,567,,,
+,,MAIN BAZAR CHOUNGI AMR SADHU,071060503,1-378 B-3,378,0,378,,,
+209,GOVT GIRLS MIDDLE SCHOOL MUHAMMAD PURA* LAHORE CANTT.(FEMALE),MUHAMMD PURA* MEHBOOB COLONY,071060501,1-259 B-1,0,259,259,,3,3
+,,MAIN BAZAR MUHAMMD PURA,071060502,1-325 B-2,0,325,325,,,
+,,MAIN BAZAR CHOUNGI AMAR SADHU,071060503,1-319 B-3,0,319,319,,,
+210,GOVT IMTIAZ PRIMARY SCHOOL CHUNGI AMER SIDHU LAHORE CANTT MALE,MUHAMMAD PURA SUBNAM COL,071060504,1....371B-1,371,,371,2,,2
+,,MAST IQBAL ROAD,071060601,1....495 B-2,495,,495,,,
+211,GOVT IMTIAZ PRIMARY SCHOOL* CHUNGI AMER SIDHU (FEMALE),MUHAMMAD PURA* SUBNAM COL,071060504  1---356 B-1,-,,356,356,,2,2
+,,MAST IQBAL ROAD,071060601  1---494 B-2,-,,494,494,,,
+212,GOVT IMTRIAZ PRIMARY SCHOOL CHUNGI AMER SIDHU LAHROE CANTT MALE,MUHAMMAD PURA* MAST IQBAL ROAD,071060602  1---678 B-1,-,678,,678,2,,2
+,,MAIN BAZAR MAST IQBAL ROAD WEST,071060603  1---832 B-2,-,832,,832,,,
+213,GOVT MITIAZ PRIEMARY SCHOOL CHUNGI AMER SIDHULAHORE CANTT.(FEMALE),MUHAMMAD PURA* MAST IQBAL ROAD,071060602  1---528 B-1,-,,528,528,,2,2
+,,MAIN BAZAR MAST IQBAL ROAD WEST,071060603  1---590 B-2,-,,590,590,,,
+214,AL FALAH COLLEGE NEAR MAST IQBAL ROAD* GHAZI ROAD LAHORE CANTT MALE,MAIN BAZAR MAST IQBAL ROAD EAST,071060604  1---515 B-1,-,515,,515,2,,2
+,,CHURCH STREET,071060605  1---643 B-2,-,643,,643,,,
+215,AL GFALAH COLLEGE NEAR MAST IQBAL ROAD GHAZI ROAD LAHORE CANTT.(FEMALE),MAIN BAZAR MAST IQBAL ROAD EAST,071060604,1-476 B-1,0,476,476,,2,2
+,,CHURCH STREET,071060605,1-502 B-2,0,502,502,,,
+,,BAY CHIRAGHE,071060606  NIL,-,,,,,,
+216,GOVT PRIMARY SCHOOL* REHMAT PURE BAIDIAN ROAD LAHROE CANTT. MALE,BHUTTA CHOWK GHOUSIA PARK,071060701,1-213 B-1,213,0,213,4,,4
+,,KHAWAR TOWN* REHMAN VILLAS,071060702,1-436 B-2,436,0,436,,,
+,,NAIZ PARK KHAWAR TOWN,071060703,1-340 B-3,340,0,340,,,
+,,GHOUSIA PARK* NIAZ PARK,071060704,1-666 B-4,666,0,666,,,
+217,GOVT PRIMARY SCHOOL* REHMAT PUREA BAIDIAN ROAD LAHORE CANTT.(FEMALE),BHUTTA CHOWK GHOUSIA PARK,071060701,1-144 B-1,0,144,144,,4,4
+,,KHAWAR TOWN REHMAN VILLAS,071060702,1-372 B-2,0,372,372,,,
+,,NAIZ PARK KHAWAR ,071060703,1-224 B-3,0,224,224,,,
+,,GHOUSIA PARK NIAZ PARK,071060704,1-550 B-4,0,550,550,,,
+218,AL WARIS ACADEMY NAIDR ABAD BAIDIAN ROAD LAHORE CANTT.(COMBINED),CHOUNG BHAIDAIN ROAD,071060705,1-517 M  B-1,517,0,517,1,1,2
+,,CHOUNG BAIDAIN ROAD,071060705,1-414-F B-2,0,414,414,,,
+219,PAKISTAN FOUNDATION HIGH SCHOOL E/675 ST NO. 2 SITTARA COLONY NO 01 CHOUNGI AMAR SIDHU LAHORE,SITTAR COLONY AMAR SIDHU,071060801,1-466 M B-1,466,0,466,1,1,2
+,CANTT.(COMBINED),SITTAR COLONY AMAR SIDHU,071060801,1-246 F,0,246,246,,,
+,,SITTARA COLONY AMAR SIDHU,071060804,1-238 M 1-45 F B-2,238,0,238,,,
+,,SITTARA COLONY AMAR SIDHU,071060804,-,,145,145,,,
+220,DIVISIONAL MODEL PUBLIC HIGH SCHOOL GHAZI ROAD LAHORE CANTT. MALE,MEHBOOL COLONY / SITTARA COLONY,071060802,1-586 B-1,586,0,586,1,1,2
+,,MEHBOOB COLONY MUHAMMAD PURA,071060803,1-443 B-2,443,0,443,,,
+221,DIVISIONAL MODEL PUBLIC HIGH SCHOOL GHAZI ROAD LAHORE CANTT. FEMALE,MEHBOOB COLONY / SITTARA COLONY,071060802,1-379 B-1,0,379,379,0,2,2
+,,MEHBOOB COLONY MUHAMAD PURA,071060803,1-447 B-2,0,447,447,,,
+222,GOVE ELEMENTARY SCHOOL BOWLI CAMP LAHORE CANTT MALE,DERA MANDI DEFENCE,071070101  1-530 B-2,-,350,0,350,3,0,3
+,,SARDAR COLONY MUHAMMADI COLONY,071070102  1-587 B-2,-,587,0,587,,,
+,,PATHAWALI GALI GHAZI ROAD,071070103  1-595 B-3,-,595,0,595,,,
+223,GOVT ELEMENTARY SCHOOL BOWH CAMP LAHREO CANTT.FEMALE,DERA MANDI DEFENCE,071070101,1-303 B-1,0,303,303,0,3,3
+,,SARDDAR COLONY MUHAMMADI COLONY,071070102,1-374 B-2,0,374,374,,,
+,,BAU WALA EAST BARKI ROAD,071070103,1-449 B-3,0,449,449,,,
+224,GOVT COMMUNITY SCHOOL CHOUNG KHURD LAHORE CANTT.(COMBINED),RAU WALA WEST BARKI ROAD,071070104,1-541 M B-1,541,0,541,1,1,2
+,,DOGRAI KHURDK BARKI ROAD,071070105,1-122 M B-2,122,0,122,,,
+,,DOGRAI KHURD BARKI ROAD,071070105,1-113 F,0,113,113,,,
+225,GOVT PRIMARY SCHOOL SEHJPAL LAHORE CANTT MALE,SAJPAL BHATTA CHOWK,071070201  1-446 B-1,-,446,0,446,2,0,2
+,,GOHAWA BAIDIAN ROAD,071070202  1-776 B-2,-,776,0,776,,,
+226,GOVT PRIMARY SCHOOL SEHJPAL LAHORE CANTT. FEMALE,SAJPAL BHATTA CHOWK,071070201  1-273B-1,-,0,273,273,0,2,2
+,,GOHAWA BAIDIAN ROAD,071070202  1-602 B-2,-,0,602,602,,,
+227,GOVT PRIAMRY SCHOOL SEHJPAL ALHRE CANTT.(COMBINED),SAJPAL DEFENCE ROAD,071070203  1-552 M B-1,-,552,0,552,1,1,2
+,,SAJPAL DEFENCE ROAD,071070203  1-364 F,-,0,364,364,,,
+,,NAI ABADI GOHAWA,071070204  1-156-M B-2,-,156,0,156,,,
+,,NAI ABADI GOHAWA,071070204  1-98 F,-,0,98,98,,,
+228,AL NOOR GIRLS HIGH SCHOOL HAJI PARK BAIDAIN ROAD* LAHROE CANTT MALE,BHATTA CHOWK KHURDA BUX COL.,071070301,1-161 B-1,616,0,616,2,0,2
+,,BHUTTA KOHARR,071070302,1-545 B-2,545,0,545,,,
+229,AL NOOR GIRLS HIGH SCHOL HAJI PARK BAIDAIN ROAD LAHORE CANTT.FEMALE,BHATTA CHOWK KHUDA BOX COL.,071070301,1-681 B-1,0,681,681,0,2,2
+,,BHUTTA KOHARR,071070302,1-323 B-2,0,323,323,,,
+230,TIPU SULTAN PUBLIC HIGH SCHOOL KASHIF COLONY BADIAN ROAD LAHROE,NAI ABADI GOHAWA,071070303,1-655 B-1,655,0,655,3,0,3
+,CANTT.MALE,NAI ABADI GOHAWA,071070303,656-1403 B-2,748,0,748,,,
+,,MADINA PARK GOHAWA,071070305,1-448 B-3,448,0,448,,,
+231,TUPU SULTAN PUBLIC HIGH SCHOOL KASHIF COLONY BADIAN ROAD LAHROE CANTT.,NAI ABADI GOHAWA,071070303,1-861 B-1,0,861,861,0,2,2
+,FEMALE,MADIAN PARK GOHAWA,071070305,1-265 B-2,0,265,265,,,
+232,MUBEEN SCHOOL 200METRES FROM MANWAL STOP BAIDAN ROAD LAHORE CANTT.(COMBINED),HAJI PARK REHMAT PUREA BADIAN ROAD,071070304,1-854M B-1,854,0,854,1,1,2
+,,HAJI PARK REHMAT PUREA BADIAN ROAD,071070304,1-504 F B-2,0,504,504,,,
+233,GOVT PRIMARY SCHOOL JINDRA KHURD LAHROE CANTT.MALE,MALIK PURA QASIM PURA,071070401,1-285 B-1,285,0,285,2,,2
+,,MALIK PURA JUGGIAN ALFA,071070402,1-369 B-2,369,0,369,,,
+234,GOVT PRIMARY SCHOOL JINDRA KHURD LAHORE CANTT.FEMALE,MALIK PURA* QASIM PURA,071070401,1-204-B-1,0,204,204,0,2,2
+,,MALIK PURA* JUGGIAN ALFA,071070402,1-164-B-2,0,164,164,,,
+235,APOSTOLIC GRAMMER SECONDERY SCHOOL NEAR,DARG PURA,071070403,1-238 M B-1,238,0,238,1,1,2
+236,GOVT BOYS PRIMARY SCHOOL GOHAWA* LAHORE CANTT.MALE,JUGGIAN ALFA GHOUSIA COL.,071070501,1-319-B-1,319,0,319,3,0,3
+,,EID GAH GOHAWA,071070502,1-592 B-2,592,0,592,,,
+,,CHACHO WALI KALAN,071070503,1-298 B-3,298,0,298,,,
+237,GOVT BOYS PRIMARY SCHOOL BOHAWA LAHORE CANTT.FEMALE,JUGGIAN ALFA* GHOSIA COL.,071070501,1-276- B-1,0,276,276,0,,0
+,,EID GAH GOHAWA,071070502,1-386 B-2,0,386,386,,,
+,,CHACHO WALI KALAN,071070503,1-192 B-3,0,192,192,,,
+238,GOVT PRIMARY SCHOOL JINDRAN KHURD COMMUNITY KNOWN AS JINDRAN DAIRY NEAR BARKI ROAD LAHORE CANTT.(COMBINED),JUNDRAN KALAN JALLARAN PEER BUKHSH,071070504  1-483 M B 1,-,483,0,483,1,1,2
+,,JUNDRAN KALAN JALLARAN PEER BUKHSH,071070504  1-336 F B 2,-,0,336,336,,,
+239,MOBEEN SCHOOL 2 METERS FROM MANAWALA STOP GARIDIAN ROAD LAHORE CANTT.MALE,GHOUSIA COLONY GOHAWA,071070601  1-726 B-1,-,726,0,726,2,0,2
+,,CHACHO WALI KHURD,071070604  1-265 B 2,-,265,0,265,,,
+240,MOBEEN STATION 2 METERS FROM MANAWALA STOP BAIDIAN ROAD LAHORE CANTT.FEMALE,GHOUSIA COLONY GOHAWA,071070601,1-540 B-1,0,540,540,0,2,2
+,,CHACHO WALI KHURD,071070604,1-184 B-2,0,184,184,,,
+241,MOBEEN SCHOOL 2 METERSD FORM MANAWAL STOP BAIDIAN ROAD LAHROE CANTT.MALE,FAZAL PARK ISMAIL PARK,071070602  1---994 B-1,-,994,,994,2,0,2
+,,MANAWALA STOP,071070603  1---439 B-2,-,439,,439,,,
+242,MOBEEN SCHOOL 2 METERS FROM MANAWAL STOP BAIDIAN ROAD LAHORE CANTT.FEMALE.,FAZAL PARK ISMAIL PURA,071070602  1---644 B-1,-,,644,644,0,2,2
+,,NANAWALSTOP,071070603  1---172 B-2,-,,172,172,,,
