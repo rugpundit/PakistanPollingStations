@@ -16,4 +16,11 @@ I have tried to convert most of the PDF data to the CSV. However, some scanned P
 
 Additionally, there is a lot of missing Districts in the Polling Stations data which I could not find yet.  
 
+Things that needs to be done: 
+1. Translate to Urdu
+2. Connect PS in different elections
+3. Add/identify Block Codes
+4. Combine with PS results
+5. Study voting patterns in an areas 
+
 If you have any questions, please do not hesitate to reach out to me at @rugpundit on Twitter. 
